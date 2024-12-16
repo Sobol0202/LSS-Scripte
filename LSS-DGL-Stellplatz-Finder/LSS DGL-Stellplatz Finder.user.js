@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         LSS DGL-Stellplatz Finder
 // @namespace    www.leitstellenspiel.de
-// @version      1.0
+// @version      1.1
 // @description  Sucht und Zeigt nicht ausgebaute DGL Erweiterungen und Stellplätze
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
-// @resource     icon https://github.com/Sobol0202/LSS-DGL-Stellplatz-Finder/raw/main/icons8-police-64.png
+// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-DGL-Stellplatz-Finder/icons8-police-64.png
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getResourceURL
 // ==/UserScript==
