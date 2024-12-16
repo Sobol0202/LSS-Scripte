@@ -30,7 +30,7 @@
             audioSrc = 'https://github.com/Sobol0202/LSS-EasterEggHunter/raw/main/boing-6222.mp3'; // URL zum Sound für Easter
             symbol = '🐰';
         } else if (imageSrc.includes('heart')) {
-            audioSrc = 'https://github.com/Sobol0202/LSS-EasterEggHunter/raw/main/kiss.mp3'; // URL zum Sound für Valentinstag
+            audioSrc = 'https://github.com/Sobol0202/LSS-Scripte/raw/refs/heads/main/LSS-EasterEggHunter/kiss.mp3'; // URL zum Sound für Valentinstag
             symbol = '❤️';
         } else if (imageSrc.includes('football')) {
             audioSrc = 'https://github.com/Sobol0202/LSS-EasterEggHunter/raw/main/referee-whistle-blow-gymnasium-6320.mp3'; // URL zum Sound für Fußball
