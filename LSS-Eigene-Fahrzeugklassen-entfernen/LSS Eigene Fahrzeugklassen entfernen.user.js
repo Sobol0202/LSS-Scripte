@@ -6,7 +6,7 @@
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/*
 // @grant        GM_getResourceURL
-// @resource     icon https://raw.githubusercontent.com/Sobol0202/LSS-Eigene-Fahrzeugklassen-entfernen/main/icons8-car-badge-50.png
+// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-Eigene-Fahrzeugklassen-entfernen/icons8-car-badge-50.png
 // ==/UserScript==
 
 (function() {
