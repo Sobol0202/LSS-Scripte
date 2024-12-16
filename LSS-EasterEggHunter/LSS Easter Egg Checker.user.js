@@ -24,7 +24,7 @@
 
         // Prüfe, ob der Bild-Quelltext das Wort "Pumpkin" enthält
         if (imageSrc.includes('pumpkin')) {
-            audioSrc = 'https://github.com/Sobol0202/LSS-EasterEggHunter/raw/main/boo-and-laugh-7060.mp3'; // URL zum Sound für Pumpkin
+            audioSrc = 'https://github.com/Sobol0202/LSS-Scripte/raw/refs/heads/main/LSS-EasterEggHunter/boo-and-laugh-7060.mp3'; // URL zum Sound für Pumpkin
             symbol = '🎃';
         } else if (imageSrc.includes('oster')) {
             audioSrc = 'https://github.com/Sobol0202/LSS-Scripte/raw/refs/heads/main/LSS-EasterEggHunter/boing-6222.mp3'; // URL zum Sound für Easter
