@@ -5,7 +5,7 @@
 // @description  Zeigt Anzahl der Fahrzeuge im S2 an.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de
-// @resource     icon https://raw.githubusercontent.com/Sobol0202/LSS-Fahrzeuge-auf-Wache/main/icons8-fire-station-24.png
+// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-Fahrzeuge-auf-Wache/icons8-fire-station-24.png
 // @grant        GM_getResourceURL
 // @grant        GM_addStyle
 // ==/UserScript==
