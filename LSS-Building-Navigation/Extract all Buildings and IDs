@@ -1,0 +1,56 @@
+// Funktion zum Herunterladen der Daten von der API
+async function fetchData() {
+  try {
+    const response = await fetch('https://www.leitstellenspiel.de/api/buildings');
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Fehler beim Abrufen der Daten:', error);
+    throw error;
+  }
+}
+
+// Funktion zum Erstellen der CSV-Tabelle
+function createCSV(data) {
+  // Kopfzeile der CSV-Tabelle
+  let csvContent = 'data:text/csv;charset=utf-8,id;caption\n';
+
+  // Daten durchlaufen und CSV-Zeilen erstellen
+  data.forEach(entry => {
+    const csvRow = `${entry.id};${entry.caption}\n`;
+    csvContent += csvRow;
+  });
+
+  return csvContent;
+}
+
+// Funktion zum Herunterladen der CSV-Datei
+function downloadCSV(csvContent) {
+  const encodedUri = encodeURI(csvContent);
+  const link = document.createElement('a');
+  link.setAttribute('href', encodedUri);
+  link.setAttribute('download', 'building_data.csv');
+  document.body.appendChild(link);
+  link.click();
+}
+
+// Hauptfunktion zum Ausführen des gesamten Prozesses
+async function main() {
+  try {
+    // Daten von der API abrufen
+    const apiData = await fetchData();
+
+    // CSV-Tabelle erstellen
+    const csvContent = createCSV(apiData);
+
+    // CSV-Datei herunterladen
+    downloadCSV(csvContent);
+
+    console.log('CSV-Datei erfolgreich erstellt und heruntergeladen.');
+  } catch (error) {
+    console.error('Ein Fehler ist aufgetreten:', error);
+  }
+}
+
+// Hauptfunktion aufrufen
+main();
