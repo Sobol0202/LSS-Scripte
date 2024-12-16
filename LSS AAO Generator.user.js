@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         LSS AAO Generator
-// @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Fügt einen Button ein um einen neuen AAO Eintrag zu erzeugen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/einsaetze/*
@@ -239,6 +238,15 @@
                 "Benötigte Boote": "aao[boot]", //Boote (Allgemein)
                 //"Benötigte Boote": "aao[mzb]", //Mehrzweckboot
                 //"Benötigte Rettungshundestaffeln": "aao[rescue_dogs]", //Anhänger Hundetransport oder Rettungshundefahrzeug
+                "Benötigte Seenotrettungsboote oder Seenotrettungskreuzer": "vehicle_type_ids[[160, 159]]", //Beliebiges Seenotrettungsschiff
+                "Benötigte Seenotrettungskreuzer": "vehicle_type_ids[159]", //Seenotrettungskreuzer
+                "Benötigte Hubschrauber (Seenotrettung)": "vehicle_type_ids[161]", //Hubschrauber (Seenotrettung)
+                //"Benötigte Seenotrettungsboote oder Seenotrettungskreuzer": "vehicle_type_ids[160]", //Seenotrettungsboot
+                "Benötigte Bahnrettungsfahrzeuge": "aao[railway_fire]", //Beliebiges Bahnrettungsfahrzeug
+                //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[162]", //RW-Schiene
+                //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[163]", //HLF Schiene
+                //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[164]", //AB-Schiene
+
             };
 
 
