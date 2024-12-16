@@ -39,7 +39,7 @@
             audioSrc = 'https://github.com/Sobol0202/LSS-EasterEggHunter/raw/main/hohoho-36506.mp3'; // URL zum Sound für Christmas
             symbol = '🎅';
         } else if (imageSrc.includes('summer')) {
-            audioSrc = 'https://github.com/Sobol0202/LSS-EasterEggHunter/raw/main/ChirpSound.mp3'; // URL zum Sound für Sommer
+            audioSrc = 'https://github.com/Sobol0202/LSS-Scripte/raw/refs/heads/main/LSS-EasterEggHunter/ChirpSound.mp3'; // URL zum Sound für Sommer
             symbol = '🌻';
         }
 
