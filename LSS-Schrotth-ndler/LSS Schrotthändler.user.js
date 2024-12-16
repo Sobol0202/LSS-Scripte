@@ -5,7 +5,7 @@
 // @description  Erzeugt die Möglichkeit alle Fahrzeuge eines bestimmten Typs zu löschen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
-// @resource     icon https://raw.githubusercontent.com/Sobol0202/LSS-Schrotth-ndler/main/icons8-garbage-truck-64.png
+// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-Schrotth-ndler/icons8-garbage-truck-64.png?raw
 // @grant        GM_getResourceURL
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
