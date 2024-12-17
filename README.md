@@ -1,6 +1,6 @@
 # LSS-Scripts
 
-Willkommen im Repository **LSS-Scripts** von **Sobol**! Hier findest du nützliche Skripte, die für das Browserspiel [Leitstellenspiel.de](https://www.leitstellenspiel.de) geschrieben wurden. Diese Skripte fügen dem Spiel zusätzliche Funktionen hinzu, um dein Spielerlebnis zu verbessern.
+Willkommen im Repository **LSS-Scripte** von **Sobol**! Hier findest du nützliche Skripte, die für das Browserspiel [Leitstellenspiel.de](https://www.leitstellenspiel.de) geschrieben wurden. Diese Skripte fügen dem Spiel zusätzliche Funktionen hinzu, um dein Spielerlebnis zu verbessern.
 
 ## Voraussetzungen
 Zum Ausführen der Skripte benötigst du die Browsererweiterung **Tampermonkey** (oder eine ähnliche Userscript-Manager-Erweiterung).
@@ -40,4 +40,4 @@ Diese Skripte sind inoffizielle Erweiterungen und stehen in keinem Zusammenhang 
 Bei Fragen oder Problemen erreichst du mich hier:
 - **Name:** Sobol
 - **Ingame:** [https://www.leitstellenspiel.de/profile/624172]
-- **Forum:** Das Forum habe ich Ende 2024 verlassen.
+- **Forum:** Das Forum habe ich Ende 2024 verlassen, da ein Moderator mich bewusst rausgeekelt hat.
