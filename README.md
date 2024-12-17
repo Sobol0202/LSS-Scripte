@@ -1,3 +1,6 @@
+
+![LogoGif](https://github.com/user-attachments/assets/e50a87b0-4d34-428a-8529-09c26421cc0a)
+
 # LSS-Scripts
 
 Willkommen im Repository **LSS-Scripte** von **Sobol**! Hier findest du nützliche Skripte, die für das Browserspiel [Leitstellenspiel.de](https://www.leitstellenspiel.de) geschrieben wurden. Diese Skripte fügen dem Spiel zusätzliche Funktionen hinzu, um dein Spielerlebnis zu verbessern.
