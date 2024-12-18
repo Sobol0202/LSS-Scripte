@@ -31,18 +31,43 @@ if (!authToken) {
     function createDropdowns(leitstellen) {
         const dropdownContainer = document.createElement('div');
         dropdownContainer.style.position = 'fixed';
-        dropdownContainer.style.top = '10px';
-        dropdownContainer.style.left = '10px';
+        dropdownContainer.style.top = '50%';
+        dropdownContainer.style.left = '50%';
+        dropdownContainer.style.transform = 'translate(-50%, -50%)';
         dropdownContainer.style.backgroundColor = 'black';
         dropdownContainer.style.padding = '10px';
         dropdownContainer.style.zIndex = '1000';
+        dropdownContainer.style.boxShadow = '0px 4px 6px rgba(0, 0, 0, 0.1)';
+        dropdownContainer.style.cursor = 'move';
+
+        let isDragging = false;
+        let offsetX = 0;
+        let offsetY = 0;
+
+        dropdownContainer.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            offsetX = e.clientX - dropdownContainer.getBoundingClientRect().left;
+            offsetY = e.clientY - dropdownContainer.getBoundingClientRect().top;
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            if (isDragging) {
+                dropdownContainer.style.left = `${e.clientX - offsetX}px`;
+                dropdownContainer.style.top = `${e.clientY - offsetY}px`;
+                dropdownContainer.style.transform = 'none';
+            }
+        });
+
+        document.addEventListener('mouseup', () => {
+            isDragging = false;
+        });
 
         const label1 = document.createElement('label');
-        label1.textContent = 'Erste Leitstelle:';
+        label1.textContent = 'Quellleitstelle:';
         const select1 = document.createElement('select');
 
         const label2 = document.createElement('label');
-        label2.textContent = 'Zweite Leitstelle:';
+        label2.textContent = 'Zielleitstelle:';
         const select2 = document.createElement('select');
 
         leitstellen.forEach(ls => {
