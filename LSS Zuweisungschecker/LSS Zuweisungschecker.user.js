@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Zuweisungschecker
-// @version      1.2
+// @version      1.3
 // @description  Fügt ein Menü ein um nicht vollständig zugewiesene Fahrzeuge anzuzeigen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
@@ -105,7 +105,7 @@
         106: { name: "MTF-L", maxPersonnel: 6 },
         107: { name: "LF-L", maxPersonnel: 9 },
         109: { name: "MzGW SB 🎓", maxPersonnel: 9 },
-        114: { name: "GW-Lüfter 🎓", maxPersonnel: 2 },
+        114: { name: "GW-Lüfter", maxPersonnel: 2 },
         118: { name: "Kleintankwagen", maxPersonnel: 3 },
         120: { name: "Tankwagen", maxPersonnel: 3 },
         121: { name: "GTLF", maxPersonnel: 3 },
