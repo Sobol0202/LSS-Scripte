@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Geschwindigkeitssteuerung anpassen
 // @namespace    www.leitstellenspiel.de
-// @version      1.1
+// @version      1.2
 // @description  Erlaubt das Ausblenden und Umbenennen der Geschwindigkeiten und ändert die Geschwindigkeit ohne Neuladen der Seite
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
@@ -61,5 +61,27 @@
                     });
             };
         }
+    }
+
+    // MutationObserver hinzufügen, um das fehlerhafte Div auszublenden
+    const targetNode = document.getElementById('missions-panel-head');
+
+    if (targetNode) {
+        const observer = new MutationObserver((mutationsList) => {
+            for (const mutation of mutationsList) {
+                if (mutation.type === 'childList') {
+                    const errorDiv = targetNode.querySelector('.alert.alert-danger.mission-speed-error');
+                    if (errorDiv) {
+                        errorDiv.style.display = 'none';
+                    }
+                }
+            }
+        });
+
+        // Konfiguration des Observers
+        const config = { childList: true, subtree: true };
+
+        // Starte den Observer
+        observer.observe(targetNode, config);
     }
 })();
