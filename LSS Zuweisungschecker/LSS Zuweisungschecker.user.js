@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Zuweisungschecker
-// @version      1.0
+// @version      1.2
 // @description  Fügt ein Menü ein um nicht vollständig zugewiesene Fahrzeuge anzuzeigen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
@@ -27,7 +27,7 @@
         9: { name: "LF 16-TS", maxPersonnel: 9 },
         10: { name: "GW-Öl", maxPersonnel: 3 },
         11: { name: "GW-L2-Wasser", maxPersonnel: 3 },
-        12: { name: "GW-Messtechnik", maxPersonnel: 3 },
+        12: { name: "GW-Messtechnik 🎓", maxPersonnel: 3 },
         13: { name: "SW 1000", maxPersonnel: 3 },
         14: { name: "SW 2000", maxPersonnel: 6 },
         15: { name: "SW 2000-Tr", maxPersonnel: 3 },
@@ -42,108 +42,108 @@
         24: { name: "TLF 20/40", maxPersonnel: 3 },
         25: { name: "TLF 20/40-SL", maxPersonnel: 3 },
         26: { name: "TLF 16", maxPersonnel: 3 },
-        27: { name: "GW-Gefahrgut", maxPersonnel: 3 },
+        27: { name: "GW-Gefahrgut 🎓", maxPersonnel: 3 },
         28: { name: "RTW", maxPersonnel: 2 },
-        29: { name: "NEF", maxPersonnel: 2 },
+        29: { name: "NEF 🎓", maxPersonnel: 2 },
         30: { name: "HLF 20", maxPersonnel: 9 },
-        31: { name: "RTH", maxPersonnel: 3 },
+        31: { name: "RTH 🎓", maxPersonnel: 3 },
         32: { name: "FuStW", maxPersonnel: 2 },
-        33: { name: "GW-Höhenrettung", maxPersonnel: 9 },
-        34: { name: "ELW 2", maxPersonnel: 6 },
-        35: { name: "leBefKw", maxPersonnel: 3 },
+        33: { name: "GW-Höhenrettung 🎓", maxPersonnel: 9 },
+        34: { name: "ELW 2 🎓", maxPersonnel: 6 },
+        35: { name: "leBefKw 🎓", maxPersonnel: 3 },
         36: { name: "MTW", maxPersonnel: 9 },
         37: { name: "TSF-W", maxPersonnel: 6 },
         38: { name: "KTW", maxPersonnel: 2 },
         39: { name: "GKW", maxPersonnel: 3 },
-        40: { name: "MTW-TZ", maxPersonnel: 4 },
+        40: { name: "MTW-TZ 🎓", maxPersonnel: 4 },
         41: { name: "MzGW (FGr N)", maxPersonnel: 9 },
-        42: { name: "LKW K 9", maxPersonnel: 3 },
-        45: { name: "MLW 5", maxPersonnel: 6 },
-        46: { name: "WLF", maxPersonnel: 3 },
+        42: { name: "LKW K 9 🎓", maxPersonnel: 3 },
+        45: { name: "MLW 5 🎓", maxPersonnel: 6 },
+        46: { name: "WLF 🎓", maxPersonnel: 3 },
         50: { name: "GruKw", maxPersonnel: 9 },
-        51: { name: "FüKW (Polizei)", maxPersonnel: 3 },
+        51: { name: "FüKW (Polizei) 🎓", maxPersonnel: 3 },
         52: { name: "GefKw", maxPersonnel: 2 },
-        53: { name: "Dekon-P", maxPersonnel: 6 },
-        55: { name: "KdoW-LNA", maxPersonnel: 1 },
-        56: { name: "KdoW-OrgL", maxPersonnel: 1 },
-        57: { name: "FwK", maxPersonnel: 2 },
+        53: { name: "Dekon-P 🎓", maxPersonnel: 6 },
+        55: { name: "KdoW-LNA 🎓", maxPersonnel: 1 },
+        56: { name: "KdoW-OrgL 🎓", maxPersonnel: 1 },
+        57: { name: "FwK 🎓", maxPersonnel: 2 },
         58: { name: "KTW Typ B", maxPersonnel: 2 },
-        59: { name: "ELW 1 (SEG)", maxPersonnel: 2 },
-        60: { name: "GW-San", maxPersonnel: 6 },
-        61: { name: "Polizeihubschrauber", maxPersonnel: 3 },
-        63: { name: "GW-Taucher", maxPersonnel: 2 },
-        64: { name: "GW-Wasserrettung", maxPersonnel: 6 },
+        59: { name: "ELW 1 (SEG) 🎓", maxPersonnel: 2 },
+        60: { name: "GW-San 🎓", maxPersonnel: 6 },
+        61: { name: "Polizeihubschrauber 🎓", maxPersonnel: 3 },
+        63: { name: "GW-Taucher 🎓", maxPersonnel: 2 },
+        64: { name: "GW-Wasserrettung 🎓", maxPersonnel: 6 },
         65: { name: "LKW 7 Lkr 19 tm", maxPersonnel: 2 },
         69: { name: "Tauchkraftwagen", maxPersonnel: 2 },
-        72: { name: "WaWe 10", maxPersonnel: 5 },
-        73: { name: "GRTW", maxPersonnel: 6 },
-        74: { name: "NAW", maxPersonnel: 3 },
-        75: { name: "FLF", maxPersonnel: 3 },
-        76: { name: "Rettungstreppe", maxPersonnel: 2 },
-        79: { name: "SEK - ZF", maxPersonnel: 4 },
-        80: { name: "SEK - MTF", maxPersonnel: 9 },
-        81: { name: "MEK - ZF", maxPersonnel: 4 },
-        82: { name: "MEK - MTF", maxPersonnel: 9 },
-        83: { name: "GW-Werkfeuerwehr", maxPersonnel: 9 },
-        84: { name: "ULF mit Löscharm", maxPersonnel: 3 },
-        85: { name: "TM 50", maxPersonnel: 3 },
-        86: { name: "Turbolöscher", maxPersonnel: 3 },
+        72: { name: "WaWe 10 🎓", maxPersonnel: 5 },
+        73: { name: "GRTW 🎓", maxPersonnel: 6 },
+        74: { name: "NAW 🎓", maxPersonnel: 3 },
+        75: { name: "FLF 🎓", maxPersonnel: 3 },
+        76: { name: "Rettungstreppe 🎓", maxPersonnel: 2 },
+        79: { name: "SEK - ZF 🎓", maxPersonnel: 4 },
+        80: { name: "SEK - MTF 🎓", maxPersonnel: 9 },
+        81: { name: "MEK - ZF 🎓", maxPersonnel: 4 },
+        82: { name: "MEK - MTF 🎓", maxPersonnel: 9 },
+        83: { name: "GW-Werkfeuerwehr 🎓", maxPersonnel: 9 },
+        84: { name: "ULF mit Löscharm 🎓", maxPersonnel: 3 },
+        85: { name: "TM 50 🎓", maxPersonnel: 3 },
+        86: { name: "Turbolöscher 🎓", maxPersonnel: 3 },
         87: { name: "TLF 4000", maxPersonnel: 3 },
         88: { name: "KLF", maxPersonnel: 6 },
         89: { name: "MLF", maxPersonnel: 6 },
         90: { name: "HLF 10", maxPersonnel: 9 },
-        91: { name: "Rettungshundefahrzeug", maxPersonnel: 5 },
-        93: { name: "MTW-O", maxPersonnel: 5 },
-        94: { name: "DHuFüKW", maxPersonnel: 2 },
-        95: { name: "Polizeimotorrad", maxPersonnel: 1 },
-        97: { name: "ITW", maxPersonnel: 3 },
-        98: { name: "Zivilstreifenwagen", maxPersonnel: 2 },
-        100: { name: "MLW 4", maxPersonnel: 7 },
-        103: { name: "FuStW (DGL)", maxPersonnel: 2 },
+        91: { name: "Rettungshundefahrzeug 🎓", maxPersonnel: 5 },
+        93: { name: "MTW-O 🎓", maxPersonnel: 5 },
+        94: { name: "DHuFüKW 🎓", maxPersonnel: 2 },
+        95: { name: "Polizeimotorrad 🎓", maxPersonnel: 1 },
+        97: { name: "ITW 🎓", maxPersonnel: 3 },
+        98: { name: "Zivilstreifenwagen 🎓", maxPersonnel: 2 },
+        100: { name: "MLW 4 🎓", maxPersonnel: 7 },
+        103: { name: "FuStW (DGL) 🎓", maxPersonnel: 2 },
         104: { name: "GW-L1", maxPersonnel: 6 },
         105: { name: "GW-L2", maxPersonnel: 6 },
         106: { name: "MTF-L", maxPersonnel: 6 },
         107: { name: "LF-L", maxPersonnel: 9 },
-        109: { name: "MzGW SB", maxPersonnel: 9 },
-        114: { name: "GW-Lüfter", maxPersonnel: 2 },
+        109: { name: "MzGW SB 🎓", maxPersonnel: 9 },
+        114: { name: "GW-Lüfter 🎓", maxPersonnel: 2 },
         118: { name: "Kleintankwagen", maxPersonnel: 3 },
         120: { name: "Tankwagen", maxPersonnel: 3 },
         121: { name: "GTLF", maxPersonnel: 3 },
-        122: { name: "LKW 7 Lbw (FGr E)", maxPersonnel: 3 },
-        123: { name: "LKW 7 Lbw (FGr WP)", maxPersonnel: 3 },
+        122: { name: "LKW 7 Lbw (FGr E) 🎓", maxPersonnel: 3 },
+        123: { name: "LKW 7 Lbw (FGr WP) 🎓", maxPersonnel: 3 },
         124: { name: "MTW-OV", maxPersonnel: 7 },
-        125: { name: "MTW-Tr UL", maxPersonnel: 4 },
-        126: { name: "MTF Drohne", maxPersonnel: 5 },
-        127: { name: "GW UAS", maxPersonnel: 4 },
-        128: { name: "ELW Drohne", maxPersonnel: 5 },
-        129: { name: "ELW2 Drohne", maxPersonnel: 6 },
-        130: { name: "GW-Bt", maxPersonnel: 3 },
-        131: { name: "Bt-Kombi", maxPersonnel: 9 },
-        133: { name: "Bt LKW", maxPersonnel: 3 },
-        134: { name: "Pferdetransporter klein", maxPersonnel: 4 },
-        135: { name: "Pferdetransporter groß", maxPersonnel: 2 },
-        137: { name: "Zugfahrzeug Pferdetransport", maxPersonnel: 6 },
-        138: { name: "GW-Verpflegung", maxPersonnel: 6 },
-        139: { name: "GW-Küche", maxPersonnel: 3 },
-        140: { name: "MTW-Verpflegung", maxPersonnel: 6 },
-        144: { name: "FüKW (THW)", maxPersonnel: 4 },
-        145: { name: "FüKomKW", maxPersonnel: 7 },
-        147: { name: "FmKW", maxPersonnel: 7 },
-        148: { name: "MTW-FGr K", maxPersonnel: 4 },
-        149: { name: "GW-Bergrettung (NEF)", maxPersonnel: 6 },
-        150: { name: "GW-Bergrettung", maxPersonnel: 6 },
-        151: { name: "ELW Bergrettung", maxPersonnel: 3 },
-        152: { name: "ATV", maxPersonnel: 1 },
-        153: { name: "Hundestaffel (Bergrettung)", maxPersonnel: 5 },
-        154: { name: "Schneefahrzeug", maxPersonnel: 1 },
-        156: { name: "Polizeihubschrauber mit verbauter Winde", maxPersonnel: 3 },
-        157: { name: "RTH Winde", maxPersonnel: 2 },
-        158: { name: "GW-Höhenrettung (Bergrettung)", maxPersonnel: 4 },
-        159: { name: "Seenotrettungskreuzer", maxPersonnel: 9 },
-        160: { name: "Seenotrettungsboot", maxPersonnel: 2 },
-        161: { name: "Hubschrauber (Seenotrettung)", maxPersonnel: 4 },
-        162: { name: "RW-Schiene", maxPersonnel: 3 },
-        163: { name: "HLF Schiene", maxPersonnel: 9 },
+        125: { name: "MTW-Tr UL 🎓", maxPersonnel: 4 },
+        126: { name: "MTF Drohne 🎓", maxPersonnel: 5 },
+        127: { name: "GW UAS 🎓", maxPersonnel: 4 },
+        128: { name: "ELW Drohne 🎓", maxPersonnel: 5 },
+        129: { name: "ELW2 Drohne 🎓", maxPersonnel: 6 },
+        130: { name: "GW-Bt 🎓", maxPersonnel: 3 },
+        131: { name: "Bt-Kombi 🎓", maxPersonnel: 9 },
+        133: { name: "Bt LKW 🎓", maxPersonnel: 3 },
+        134: { name: "Pferdetransporter klein 🎓", maxPersonnel: 4 },
+        135: { name: "Pferdetransporter groß 🎓", maxPersonnel: 2 },
+        137: { name: "Zugfahrzeug Pferdetransport 🎓", maxPersonnel: 6 },
+        138: { name: "GW-Verpflegung 🎓", maxPersonnel: 6 },
+        139: { name: "GW-Küche 🎓", maxPersonnel: 3 },
+        140: { name: "MTW-Verpflegung 🎓", maxPersonnel: 6 },
+        144: { name: "FüKW (THW) 🎓", maxPersonnel: 4 },
+        145: { name: "FüKomKW 🎓", maxPersonnel: 7 },
+        147: { name: "FmKW 🎓", maxPersonnel: 7 },
+        148: { name: "MTW-FGr K 🎓", maxPersonnel: 4 },
+        149: { name: "GW-Bergrettung (NEF) 🎓", maxPersonnel: 6 },
+        150: { name: "GW-Bergrettung 🎓", maxPersonnel: 6 },
+        151: { name: "ELW Bergrettung 🎓", maxPersonnel: 3 },
+        152: { name: "ATV 🎓", maxPersonnel: 1 },
+        153: { name: "Hundestaffel (Bergrettung) 🎓", maxPersonnel: 5 },
+        154: { name: "Schneefahrzeug 🎓", maxPersonnel: 1 },
+        156: { name: "Polizeihubschrauber mit verbauter Winde 🎓", maxPersonnel: 3 },
+        157: { name: "RTH Winde 🎓", maxPersonnel: 2 },
+        158: { name: "GW-Höhenrettung (Bergrettung) 🎓", maxPersonnel: 4 },
+        159: { name: "Seenotrettungskreuzer 🎓", maxPersonnel: 9 },
+        160: { name: "Seenotrettungsboot 🎓", maxPersonnel: 2 },
+        161: { name: "Hubschrauber (Seenotrettung) 🎓", maxPersonnel: 4 },
+        162: { name: "RW-Schiene 🎓", maxPersonnel: 3 },
+        163: { name: "HLF Schiene 🎓", maxPersonnel: 9 },
     };
 
     // Funktion, um ein "Lädt..." Modal zu erstellen
@@ -252,12 +252,23 @@
         defaultOption.textContent = 'Alle Fahrzeugtypen';
         dropdown.append(defaultOption);
 
+        // Zähle die Fahrzeugtypen, die mindestens einmal vorkommen
+        const vehicleTypeCounts = vehicleData.reduce((counts, vehicle) => {
+            if (vehicle.assigned_personnel_count < (vehicleTypeMap[vehicle.vehicle_type]?.maxPersonnel || 0)) {
+                counts[vehicle.vehicle_type] = (counts[vehicle.vehicle_type] || 0) + 1;
+            }
+            return counts;
+        }, {});
+
         // Alphabetische Sortierung der Fahrzeugtypen
         const sortedVehicleTypes = Object.entries(vehicleTypeMap)
             .sort(([, a], [, b]) => a.name.localeCompare(b.name));
 
-        // Dropdown Optionen hinzufügen
-        sortedVehicleTypes.forEach(([key, value]) => {
+        // Füge nur Fahrzeugtypen hinzu, die mindestens einmal vorkommen
+        Object.entries(vehicleTypeMap)
+            .filter(([key]) => vehicleTypeCounts[key] > 0)
+            .sort(([, a], [, b]) => a.name.localeCompare(b.name)) // Alphabetische Sortierung
+            .forEach(([key, value]) => {
             const option = document.createElement('option');
             option.value = key;
             option.textContent = value.name;
@@ -265,7 +276,6 @@
         });
 
         modal.append(dropdown);
-
         // Tabelle erstellen
         const table = document.createElement('table');
         table.style.width = '100%';
