@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Zuweisungschecker
-// @version      1.3
+// @version      1.4
 // @description  Fügt ein Menü ein um nicht vollständig zugewiesene Fahrzeuge anzuzeigen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
@@ -304,6 +304,7 @@
                 const vehicleCell = document.createElement('td');
                 const vehicleLink = document.createElement('a');
                 vehicleLink.href = `https://www.leitstellenspiel.de/vehicles/${vehicle.id}/zuweisung`;
+            vehicleLink.style.color = 'dimgray';
                 vehicleLink.target = '_blank';
                 vehicleLink.textContent = vehicle.caption;
                 vehicleCell.append(vehicleLink);
@@ -314,6 +315,7 @@
                     const buildingLink = document.createElement('a');
                     buildingLink.href = `https://www.leitstellenspiel.de/buildings/${building.id}`;
                     buildingLink.target = '_blank';
+                    buildingLink.style.color = 'dimgray';
                     buildingLink.textContent = building.caption;
                     buildingCell.append(buildingLink);
                 } else {
