@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 143 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 144 Scripte anzuzeigen.</summary>
 
 - AAO Equipment Modus Umschalter
 - AAO Exporter zu csv
