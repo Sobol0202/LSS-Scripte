@@ -102,6 +102,7 @@ Sollten die Skripte nicht funktionieren:
 - Forum Forumbeschreibung ausblenden
 - Forum Rettungsdienst-Mitarbeiterlerle
 - Forum SozialMedia Verstecken
+- Fußzeile Verstecken
 - Gebäude Export zu GPX
 - Gebäude Löschen
 - Gebäudeausbauten umschalten
