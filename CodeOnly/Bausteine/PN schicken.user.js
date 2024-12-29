@@ -6,7 +6,7 @@ if (authToken) {
   const messageUrl = "https://www.leitstellenspiel.de/messages/new?target=MissSobol";
 
   // Nachrichteninformationen
-  const recipients = "MissSobol";
+  const recipients = "Username";
   const subject = "Testnachricht";
   const messageBody = "Dies ist ein Test";
 
