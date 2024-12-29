@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 144 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 145 Scripte anzuzeigen.</summary>
 
 - AAO Equipment Modus Umschalter
 - AAO Exporter zu csv
@@ -177,6 +177,7 @@ Sollten die Skripte nicht funktionieren:
 - VerbandsKH export
 - Verfallsmelder
 - Wachenöffner Schulen
+- Wertvolle Einsätze melden
 - Wichtige Info bearbeiten
 - Zerstören und zur Wache
 - Zugewiesene Fahrzeuge BR ausblenden
