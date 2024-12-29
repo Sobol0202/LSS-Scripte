@@ -3,10 +3,10 @@ const authToken = document.querySelector('meta[name="csrf-token"]')?.getAttribut
 
 if (authToken) {
   // Neue Konstante für die URL
-  const messageUrl = "https://www.leitstellenspiel.de/messages/new?target=MissSobol";
+  const messageUrl = "https://www.leitstellenspiel.de/messages/new?target=USERNAME"; //Username Ersetzen
 
   // Nachrichteninformationen
-  const recipients = "Username";
+  const recipients = "USERNAME"; //Username Ersetzen
   const subject = "Testnachricht";
   const messageBody = "Dies ist ein Test";
 
