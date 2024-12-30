@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 145 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 146 Scripte anzuzeigen.</summary>
 
 - AAO Equipment Modus Umschalter
 - AAO Exporter zu csv
@@ -127,6 +127,7 @@ Sollten die Skripte nicht funktionieren:
 - Laufleistung 30 Tage
 - Lehrgangsausblender
 - Lehrgangsstart im Forum
+- Leitstellenansicht Edit+Zuweisungsbuttons
 - Leitstellenauswahldropdownmenü
 - Leitstellenweise Gebäude Leitstellenzuweisung
 - List Navigation
