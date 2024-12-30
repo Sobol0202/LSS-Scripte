@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Leitstellenansicht Edit+Zuweisungsbuttons
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Fügt zwei Buttons zur Leitstellenansicht hinzu
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/leitstellenansicht
@@ -48,9 +48,22 @@
         const assignButton = document.createElement('a');
         assignButton.className = 'btn btn-xs btn-default';
         assignButton.innerHTML = '<span class="glyphicon glyphicon-pencil"></span>';
+
+        // Standard-href für den assignButton ist /edit
         assignButton.setAttribute('href', `${href}/edit`);
         assignButton.setAttribute('target', '_blank');
-        assignButton.addEventListener('click', stopParentClick);
+
+        // Event-Listener für den "Assign"-Button, der prüft, ob Strg gedrückt wird
+        assignButton.addEventListener('click', (event) => {
+            if (event.ctrlKey) {
+                // Wenn Strg gedrückt ist, ändere den href auf /move
+                assignButton.setAttribute('href', `${href}/move`);
+            } else {
+                // Wenn Strg nicht gedrückt wird, bleibt der href auf /edit
+                assignButton.setAttribute('href', `${href}/edit`);
+            }
+            stopParentClick(event);
+        });
 
         // Buttons dem Wrapper hinzufügen
         buttonWrapper.appendChild(editButton);
