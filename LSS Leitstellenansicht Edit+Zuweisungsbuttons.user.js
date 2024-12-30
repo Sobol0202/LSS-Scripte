@@ -2,7 +2,7 @@
 // @name         LSS Leitstellenansicht Edit+Zuweisungsbuttons
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Fügt zwei Buttons zu bestimmten Links hinzu
+// @description  Fügt zwei Buttons zur Leitstellenansicht hinzu
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/leitstellenansicht
 // @grant        none
