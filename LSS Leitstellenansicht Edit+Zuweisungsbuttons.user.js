@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Leitstellenansicht Edit+Zuweisungsbuttons+Statusumschalter+Leitstellenumschalter
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.6
 // @description  Erweitert die Leitstellenansicht um einige Funktionen
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/leitstellenansicht
@@ -40,7 +40,7 @@
             const url = `https://www.leitstellenspiel.de/vehicles/${vehicleId}/set_fms/${targetStatus}`;
             try {
                 await fetch(url);
-                console.log(`Status für Fahrzeug ${vehicleId} auf ${targetStatus} gesetzt.`);
+                //console.log(`Status für Fahrzeug ${vehicleId} auf ${targetStatus} gesetzt.`);
             } catch (error) {
                 console.error(`Fehler beim Setzen des Status für Fahrzeug ${vehicleId}:`, error);
             }
