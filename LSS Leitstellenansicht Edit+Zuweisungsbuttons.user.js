@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Leitstellenansicht Edit+Zuweisungsbuttons+Statusumschalter+Leitstellenumschalter
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  Erweitert die Leitstellenansicht um einige Funktionen
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/leitstellenansicht
