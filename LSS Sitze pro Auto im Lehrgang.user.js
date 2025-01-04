@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Sitze pro Auto im Lehrgang
 // @namespace    www.leitstellenspiel.de
-// @version      0.8
+// @version      0.9
 // @description  Fügt die Anzahl der Fahrzeugplätze bei den Lehrgängen ein.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/buildings/*
@@ -31,6 +31,9 @@
         { original: 'Intensivpflege', change: ' || 3 Pro Fahrzeug' },
         { original: 'NEA200 Fortbildung', change: ' || 1 im Zugfahrzeug' },
         { original: 'Drohnen-Schulung', change: ' || 5 (ELW), 6 (ELW2) Pro Fahrzeug' },
+        { original: 'Feuerwehr-Verpflegungseinheit', change: ' ||  1/6 Pro Fahrzeug' },
+        { original: 'Verpflegungshelfer', change: ' ||  2 Pro Fahrzeug' },
+        { original: 'Bahnrettung', change: ' ||  3/9 Pro Fahrzeug' },
         { original: 'Zugführer (leBefKw)', change: ' || 3 Pro Fahrzeug' },
         { original: 'Hundertschaftsführer (FüKw)', change: ' || 3 Pro Fahrzeug' },
         { original: 'Polizeihubschrauber', change: ' || 3 Pro Fahrzeug' },
@@ -43,6 +46,7 @@
         { original: 'Kriminalpolizei', change: ' || 2 Pro Fahrzeug' },
         { original: 'Dienstgruppenleitung', change: ' || 2 Pro Fahrzeug' },
         { original: 'Reiterstaffel', change: ' || 2/4/6 Pro Fahrzeug' },
+        { original: 'Windenoperator', change: ' || 3 Pro Fahrzeug' },
         { original: 'LNA-Ausbildung', change: ' || 1 Pro Fahrzeug' },
         { original: 'OrgL-Ausbildung', change: ' || 1 Pro Fahrzeug' },
         { original: 'SEG - Einsatzleitung', change: ' || 2 Pro Fahrzeug' },
@@ -50,6 +54,8 @@
         { original: 'SEG Drohne', change: ' || 4 Pro Fahrzeug' },
         { original: 'Betreuungsdienst', change: ' || 3/9 Pro Fahrzeug' },
         { original: 'Verpflegungshelfer', change: ' || 9 Pro Fahrzeug' },
+        { original: 'Höhenretter', change: ' || 4 Pro Fahrzeug' },
+        { original: 'Einsatzleiter Bergrettung', change: ' || 3 Pro Fahrzeug' },
         { original: 'Zugtrupp', change: ' || 4 Pro Fahrzeug' },
         { original: 'Fachgruppe Räumen', change: ' || 3/6 Pro Fahrzeug' },
         { original: 'Fachgruppe Wassergefahren', change: ' || 2 Pro Fahrzeug' },
@@ -59,6 +65,7 @@
         { original: 'Fachgruppe Schwere Bergung', change: ' || 9 Pro Fahrzeug' },
         { original: 'Fachgruppe Elektroversorgung', change: ' || 3 Pro Fahrzeug' },
         { original: 'Trupp Unbemannte Luftfahrtsysteme', change: ' || 4 Pro Fahrzeug' },
+        { original: 'Fachzug Führung und Kommunikation', change: ' || 4/7 Pro Fahrzeug' },
     ];
 
     // Suche nach allen Elementen mit der Klasse "radio"
