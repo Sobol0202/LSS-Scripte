@@ -40,7 +40,7 @@ Sollten die Skripte nicht funktionieren:
 <details>
   <summary>Klicke hier, um eine Liste aller 146 Scripte anzuzeigen.</summary>
 
-- AAO Equipment Modus Umschalter
+- AAO Ausrüstung umschalten
 - AAO Exporter zu csv
 - AAO Generator
 - AAO Master-Slave
