@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 146 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 147 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -154,6 +154,7 @@ Sollten die Skripte nicht funktionieren:
 - Remove Easteregg Found
 - Remove Missionspeed Button
 - Rettungsdienst weiteralarmieren
+- RTH Sprechwünsche nach oben
 - Same Pic for all 3
 - Schrotthändler
 - Scrollbar Verstecken
