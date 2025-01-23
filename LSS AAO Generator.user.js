@@ -246,6 +246,7 @@
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[162]", //RW-Schiene
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[163]", //HLF Schiene
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[164]", //AB-Schiene
+                "Benötigte Lautsprecherkraftwagen": "vehicle_type_ids[165]", //LauKw
 
             };
 
