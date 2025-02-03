@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 147 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 148 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -50,6 +50,7 @@ Sollten die Skripte nicht funktionieren:
 - Alle_Gebäude_einer_Leitstelle_einer_anderen_zuweisen
 - Anti Coins
 - Antwortzeit
+- Ausbreitungsfunkspruch Fahrzeug-Einsatz switcher
 - Ausbreitungszähler
 - Ausgebildete Wachen ausblenden
 - Auto kaputt
