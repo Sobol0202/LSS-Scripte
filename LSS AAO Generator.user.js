@@ -173,7 +173,8 @@
                 //"Benötigte Höhenrettung (Bergrettung)": "vehicle_type_ids[158]", //GW-Höhenrettung (Bergrettung)
                 //"Benötigte Höhenrettung (Bergrettung)": "vehicle_type_ids[155]", //Anh Höhenrettung (Bergrettung)
                 "Benötigte Hubschrauber mit Winde": "aao[lift]", //Hubschrauber mit Winde
-                "Benötigte Streifenwagen": "aao[fustw]", //Funkstreifenwagen
+                "Benötigte Funkstreifenwagen": "aao[fustw]", //Funkstreifenwagen
+                "Benötigte Funkstreifenwagen oder Polizeimotorräder": "aao[fustw_or_police_motorcycle]",
                 "Benötigte leBefKw": "aao[lebefkw]", //Leichter Befehlskraftwagen (leBefKw)
                 "Benötigte FüKW (Polizei)": "aao[fukw]", //FüKW (Führungskraftwagen - Polizei)
                 "Benötigte GruKw": "aao[grukw]", //GruKw (Gruppenkraftwagen)
