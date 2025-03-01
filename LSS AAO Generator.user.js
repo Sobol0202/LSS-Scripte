@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS AAO Generator
-// @version      1.4
+// @version      1.5
 // @description  Fügt einen Button ein um einen neuen AAO Eintrag zu erzeugen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/einsaetze/*
@@ -247,7 +247,7 @@
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[162]", //RW-Schiene
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[163]", //HLF Schiene
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[164]", //AB-Schiene
-                "Benötigte Lautsprecherkraftwagen": "vehicle_type_ids[165]", //LauKw
+                "Benötigte LauKw": "vehicle_type_ids[165]", //LauKw
 
             };
 
