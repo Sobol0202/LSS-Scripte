@@ -38,12 +38,13 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 148 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 150 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
 - AAO Generator
 - AAO Master-Slave
+- AAO Symbol Replacer
 - AAO-Editor Alphabetisch Sortieren
 - Alle Fahrzeuggrafike APNG setzen
 - Alle POIs löschen
@@ -152,6 +153,7 @@ Sollten die Skripte nicht funktionieren:
 - Profil Navigation
 - Protokoll Jahr hinzufügen
 - Protokoll überwacher
+- Protokoll VBGSL+Event Export
 - Remove Easteregg Found
 - Remove Missionspeed Button
 - Rettungsdienst weiteralarmieren
