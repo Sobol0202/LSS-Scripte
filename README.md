@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 150 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 151 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -118,6 +118,7 @@ Sollten die Skripte nicht funktionieren:
 - Grafikset-Edittabelle ID und Filter
 - Green-Marker Transparency
 - Größere Profilkarte
+- Hilfe zu diesem Einsatz - Verbandseinsatz
 - I know you drive
 - Ignorieren Button in PN
 - Ignorierte Verbandsmitglieder finden
