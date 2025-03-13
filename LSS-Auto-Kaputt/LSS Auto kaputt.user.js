@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Auto kaputt
 // @namespace    www.leitstellenspiel.de
-// @version      1.12
+// @version      1.13
 // @description  Simuliert den Ausfall von Fahrzeugen aus technischen Gründen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
@@ -133,8 +133,9 @@ function sendMessageToPlayer(messageBody, vehicleCaption, vehicleDistance, vehic
                     "message[recipients]": recipients,
                     "message[subject]": subject,
                     "message[body]": `Das Fahrzeug "${vehicleCaption}" hat nach ${roundedDistance} Kilometern einen Totalschaden erlitten und muss ausgewechselt werden. Link zum Fahrzeug: https://www.leitstellenspiel.de/vehicles/${vehicleId}`,
-                    utf8: "✓",
-                    authenticity_token: authToken,
+                    "utf8": "✓",
+                    "authenticity_token": authToken,
+                    "commit": "Nachricht absenden",
                 };
 
                 // POST-Anfrage an die URL senden mit Nachrichtenobjekt im Body
