@@ -16,7 +16,7 @@
     const BASE_URL = "https://www.leitstellenspiel.de";
     const SCHOOLINGS_URL = BASE_URL + "/schoolings";
     const BUILDINGS_URL = BASE_URL + "/api/buildings";
-    const REPORT_INTERVAL = 24 * 60 * 60 * 1000; 
+    const REPORT_INTERVAL = 24 * 60 * 60 * 1000;
     const LAST_REPORT_KEY = 'LSS_LAST_REPORT_TIMESTAMP';
 
     function getAuthToken() {
@@ -135,6 +135,18 @@
         return result;
     }
 
+    function parseDate(dateString) {
+        const regex = /(\d{2})\.(\d{2})\.(\d{4}), (\d{2}):(\d{2})/;
+        const match = dateString.match(regex);
+        if (!match) return new Date(NaN);
+        const [_, day, month, year, hour, minute] = match;
+        return new Date(`${year}-${month}-${day}T${hour}:${minute}:00+01:00`);
+    }
+
+    function sortByEndDate(items) {
+        return items.sort((a, b) => parseDate(a.endDate) - parseDate(b.endDate));
+    }
+
     async function sendStatusReport() {
         if (!shouldSendReport()) {
             console.log('Bericht wurde bereits innerhalb der letzten 24h versendet');
@@ -156,23 +168,24 @@
 
             // Schulungen
             messageBody += "### 🎓 Schulungen:\n\n";
-            schoolings.forEach(s => messageBody += `🔹 ${s.name} (Ende: ${s.endDate})\n`);
-            if (schoolings.length === 0) messageBody += "❌ Keine aktiven Schulungen\n";
+            const sortedSchoolings = sortByEndDate(schoolings);
+            sortedSchoolings.forEach(s => messageBody += `🔹 ${s.name} (Ende: ${s.endDate})\n`);
+            if (sortedSchoolings.length === 0) messageBody += "❌ Keine aktiven Schulungen\n";
 
             // Gebäude-Erweiterungen
-            const extensions = processTimedItems(buildings, 'extension');
+            const extensions = sortByEndDate(processTimedItems(buildings, 'extension'));
             messageBody += "\n### 🏢 Gebäude-Erweiterungen:\n\n";
             extensions.forEach(e => messageBody += `- ${e.name}: ${e.item} (Fertig am: ${e.date})\n`);
             if (extensions.length === 0) messageBody += "Heute keine Einträge vorhanden.\n";
 
             // Lagerräume
-            const storages = processTimedItems(buildings, 'storage');
+            const storages = sortByEndDate(processTimedItems(buildings, 'storage'));
             messageBody += "\n### 📦 Lagerräume:\n\n";
             storages.forEach(s => messageBody += `- ${s.name}: ${s.item} (Fertig am: ${s.date})\n`);
             if (storages.length === 0) messageBody += "Heute keine Einträge vorhanden.\n";
 
             // Spezialisierungen
-            const specializations = processTimedItems(buildings, 'specialization');
+            const specializations = sortByEndDate(processTimedItems(buildings, 'specialization'));
             messageBody += "\n### 🔧 Spezialisierungen:\n\n";
             specializations.forEach(s => messageBody += `- ${s.name}: ${s.item} (Fertig am: ${s.date})\n`);
             if (specializations.length === 0) messageBody += "Heute keine Einträge vorhanden.\n";
