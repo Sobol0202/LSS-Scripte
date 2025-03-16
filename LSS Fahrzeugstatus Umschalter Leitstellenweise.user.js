@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         LSS Fahrzeugstatus-Umschalter Leitstellenweise
+// @name         LSS Fahrzeugstatus Umschalter Leitstellenweise
 // @version      1.0
 // @description  Fügt Buttons hinzu, um alle Fahrzeuge einer Leitstelle auf Status 2 oder 6 zu setzen
 // @author       Sobol
