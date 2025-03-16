@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 151 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 152 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -149,6 +149,7 @@ Sollten die Skripte nicht funktionieren:
 - Open First Building
 - Personal Filter
 - Personal Soll-Ist
+- PN löschen Button
 - POI Counter
 - POI Counter in POI Menu
 - Profil Navigation
