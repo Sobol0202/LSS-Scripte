@@ -98,6 +98,7 @@ Sollten die Skripte nicht funktionieren:
 - Fahrzeuggrafik-ID anzeigen
 - Fahrzeugstatus Umschalter
 - Fahrzeugstatus Umschalter Wachenweise
+- Fahrzeugstatus Umschalter Leitstellenweise
 - Fahrzeugtabellen im Einsatz immer Sortieren
 - Fahrzeugverschiebung Sortieren und Filtern
 - Forum Auto Captcha
