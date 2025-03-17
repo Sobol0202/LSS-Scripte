@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 153 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 154 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -140,6 +140,7 @@ Sollten die Skripte nicht funktionieren:
 - Mehrere Ausbildungen mit Coins beenden
 - Meldefunktion
 - Mitglied Rabatt einstellen
+- Mögliche Einsätze Filter Negieren
 - Navbar Buttons
 - NAW-Stellplatz Finder
 - Neue AAO im Einsatzfenster
