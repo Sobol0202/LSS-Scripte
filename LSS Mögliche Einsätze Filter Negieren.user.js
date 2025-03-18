@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         LSS Mögliche Einsätze Filter Negieren
-// @version      1.0
+// @version      1.1
 // @description  Erlaubt das Negieren von Filtern auf der Einsatzseite mit Shift-Klick
 // @author       Sobol
-// @match        https://www.leitstellenspiel.de/einsaetze
+// @match        https://www.leitstellenspiel.de/einsaetze*
 // @grant        none
 // ==/UserScript==
 
