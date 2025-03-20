@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 154 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 155 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -183,6 +183,7 @@ Sollten die Skripte nicht funktionieren:
 - Verbands Kasse Export
 - Verbandsgebäude ausblenden
 - Verbandsgebäudefilter
+- Verbandskasse Namen zensieren
 - VerbandsKH export
 - Verfallsmelder
 - Wachenöffner Schulen
