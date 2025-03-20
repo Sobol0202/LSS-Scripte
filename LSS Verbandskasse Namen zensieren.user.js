@@ -18,13 +18,17 @@
                             'n': 'p', 'p': 'q', 'q': 'r', 'r': 's', 's': 't', 't': 'v', 'v': 'w', 'w': 'x', 'x': 'y', 'y': 'z', 'z': 'b'};
 
         return name.split('').map((char, index) => {
+            const lowerChar = char.toLowerCase();
+            let newChar = char;
+
             if (index > 1) {
-                if (vowels[char]) return vowels[char];
-                if (umlauts[char]) return umlauts[char];
-                if (digits[char]) return digits[char];
-                if (consonants[char]) return consonants[char];
+                if (vowels[lowerChar]) newChar = vowels[lowerChar];
+                if (umlauts[lowerChar]) newChar = umlauts[lowerChar];
+                if (digits[lowerChar]) newChar = digits[lowerChar];
+                if (consonants[lowerChar]) newChar = consonants[lowerChar];
             }
-            return char;
+
+            return char === lowerChar ? newChar : newChar.toUpperCase();
         }).join('');
     }
 
@@ -34,7 +38,7 @@
             const nameCell = row.querySelector("td:first-child a");
             if (nameCell && !nameCell.dataset.censored) {
                 nameCell.textContent = replaceCharacters(nameCell.textContent);
-                nameCell.dataset.censored = "true";
+                nameCell.dataset.censored = "true"; // Verhindert doppelte Bearbeitung
             }
         });
     }
