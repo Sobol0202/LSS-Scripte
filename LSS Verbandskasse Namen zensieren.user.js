@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         LSS Verbandskasse Namen zensieren
-// @version      1.0
-// @description  Zensiert die Namen der Einzahler in der Verbandskasse.
+// @version      1.1
+// @description  Zensiert die Namen der Einzahler in der Verbandskasse und im Einsatz.
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/verband/kasse*
+// @match        https://www.leitstellenspiel.de/missions/*
 // @grant        none
 // ==/UserScript==
 
@@ -32,21 +33,29 @@
         }).join('');
     }
 
-    function censorNames() {
-        const tableRows = document.querySelectorAll("#alliance-finances-earnings .table tbody tr");
-        tableRows.forEach(row => {
-            const nameCell = row.querySelector("td:first-child a");
-            if (nameCell && !nameCell.dataset.censored) {
-                nameCell.textContent = replaceCharacters(nameCell.textContent);
-                nameCell.dataset.censored = "true"; // Verhindert doppelte Bearbeitung
+    function censorNames(selector) {
+        document.querySelectorAll(selector).forEach(element => {
+            if (!element.dataset.censored) {
+                element.textContent = replaceCharacters(element.textContent);
+                element.dataset.censored = "true";
             }
         });
     }
 
-    // Warte, bis die Tabelle geladen ist
-    const observer = new MutationObserver(() => {
-        censorNames();
-    });
-    observer.observe(document.body, { childList: true, subtree: true });
+    function observeMutations() {
+        const observer = new MutationObserver(() => {
+            censorNames("#alliance-finances-earnings .table tbody tr td:first-child a");
+            censorNames("#mission_replies li a");
+            censorNames("#mission_vehicle_driving td a[href^='/profile/']");
+            censorNames("#mission_vehicle_at_mission td a[href^='/profile/']");
+        });
+        observer.observe(document.body, { childList: true, subtree: true });
+    }
 
+    // Initiales Zensieren und Beobachten von Änderungen
+    censorNames("#alliance-finances-earnings .table tbody tr td:first-child a");
+    censorNames("#mission_replies li a");
+    censorNames("#mission_vehicle_driving td a[href^='/profile/']");
+    censorNames("#mission_vehicle_at_mission td a[href^='/profile/']");
+    observeMutations();
 })();
