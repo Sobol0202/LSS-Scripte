@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         LSS AAO Generator
-// @version      1.6
-// @description  Fügt einen Button ein um einen neuen AAO Eintrag zu erzeugen
+// @version      1.7
+// @description  Fügt einen Button ein, um einen neuen AAO Eintrag zu erzeugen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/einsaetze/*
 // @match        https://www.leitstellenspiel.de/aaos/new
 // @grant        GM_openInTab
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
 
     // Funktion zum Hinzufügen des Buttons auf der Einsatzseite
@@ -20,11 +20,10 @@
         button.style.position = "absolute";
         button.style.top = "60px";
         button.style.right = "15px";
-        //button.style.zIndex = "1000";
         document.body.appendChild(button);
 
         // Event Listener für Button
-        button.addEventListener("click", function() {
+        button.addEventListener("click", function () {
             // Einsatznamen aus dem <h1>-Tag extrahieren
             var missionNameElement = document.querySelector("h1");
             var missionName = missionNameElement ? missionNameElement.childNodes[missionNameElement.childNodes.length - 1].textContent.trim() : null;
@@ -34,33 +33,35 @@
                 return;
             }
 
-            // Tabelle mit Fahrzeugen und Personal finden
+            // Tabellen mit Fahrzeugen und Personal sowie weitere Informationen finden
             var tables = document.querySelectorAll("table.table-striped");
-            var table = null;
+            var relevantTables = [];
 
-            // Überprüfen, ob die Tabelle die gewünschte Überschrift hat
-            tables.forEach(function(tbl) {
+            // Überprüfen, ob die Tabellen die gewünschten Überschriften haben
+            tables.forEach(function (tbl) {
                 var header = tbl.querySelector("thead th");
-                if (header && header.textContent.includes("Benötigte Fahrzeuge und Personal")) {
-                    table = tbl;
+                if (header && (header.textContent.includes("Benötigte Fahrzeuge und Personal") || header.textContent.includes("Weitere Informationen"))) {
+                    relevantTables.push(tbl);
                 }
             });
 
-            if (!table) {
-                alert("Tabelle nicht gefunden");
+            if (relevantTables.length === 0) {
+                alert("Keine relevanten Tabellen gefunden");
                 return;
             }
 
-            // Werte aus der Tabelle auslesen
+            // Werte aus den relevanten Tabellen auslesen
             var values = { missionName: missionName };
-            var rows = table.querySelectorAll("tbody tr");
-            rows.forEach(function(row) {
-                var cells = row.querySelectorAll("td");
-                if (cells.length >= 2) {
-                    var key = cells[0].textContent.trim();
-                    var value = cells[1].textContent.trim();
-                    values[key] = value;
-                }
+            relevantTables.forEach(function (table) {
+                var rows = table.querySelectorAll("tbody tr");
+                rows.forEach(function (row) {
+                    var cells = row.querySelectorAll("td");
+                    if (cells.length >= 2) {
+                        var key = cells[0].textContent.trim();
+                        var value = cells[1].textContent.trim();
+                        values[key] = value;
+                    }
+                });
             });
 
             // Werte in Local Storage speichern
@@ -78,9 +79,8 @@
         if (aaoValues) {
             // Map von Fahrzeugnamen zu Input-Namen
             var inputMap = {
-                "Benötigte Löschfahrzeuge": "aao[fire]", //LF oder TLF
-                //"Benötigte Löschfahrzeuge": "aao[lf_only]", //LF
-                //"Benötigte Tanklöschfahrzeuge": "aao[tlf_only]", //TLF
+                "Benötigte Löschfahrzeuge": "aao[fire]",
+                                //"Benötigte Tanklöschfahrzeuge": "aao[tlf_only]", //TLF
                 "Wasserbedarf": "aao[wasser_amount]", //Liter Wasser
                 //"Wasserbedarf": "aao[wasser_amount_tlf]", //Liter Wasser - Nur TLF
                 //"Wasserbedarf": "aao[water_amount_water_carrier]", //Liter Wasser - Nur Großtankfahrzeuge
@@ -164,7 +164,7 @@
                 //"Benötigte GRTW": "aao[grtw0]", //GRTW (7 Patienten - ohne Notarzt)
                 //"Benötigte GRTW": "aao[grtw1]", //GRTW (3 Patienten - inkl. Notarzt)
                 "Benötigte GW-Bergrettung": "vehicle_type_ids[150]", //GW-Bergrettung
-                "Benötigte Bergrettungsfahrzeuge": "vehicle_type_ids[149]", //GW-Bergrettung (NEF)
+                //"Benötigte Bergrettungsfahrzeuge": "vehicle_type_ids[149]", //GW-Bergrettung (NEF)
                 "Benötigte ELW Bergrettung": "vehicle_type_ids[151]", //ELW Bergrettung
                 "Benötigte ATV": "vehicle_type_ids[152]", //ATV
                 //"Benötigte Rettungshundestaffeln": "vehicle_type_ids[153]", //Hundestaffel (Bergrettung)
@@ -247,10 +247,9 @@
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[162]", //RW-Schiene
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[163]", //HLF Schiene
                 //"Benötigte Bahnrettungsfahrzeuge": "vehicle_type_ids[164]", //AB-Schiene
-                "Benötigte LauKw": "vehicle_type_ids[165]", //LauKw
-
+                "Benötigte LauKw": "vehicle_type_ids[165]",
+                "Maximale Patientenanzahl": "aao[rtw]",
             };
-
 
             // Einsatznamen in das entsprechende Input-Feld einfügen
             var missionNameInput = document.querySelector("input[name='aao[caption]']");
@@ -269,6 +268,20 @@
                         }
                     }
                 }
+            }
+
+            // Zusätzliche Logik für LNA und OrgL basierend auf Patientenanzahl
+            var patienten = parseInt(aaoValues["Maximale Patientenanzahl"]) || 0;
+
+            if (patienten > 9) {
+                var orglInput = document.querySelector(`input[name='${inputMap["Benötigte OrgL"]}']`);
+                if (orglInput) orglInput.value = 1;
+
+                var lnaInput = document.querySelector(`input[name='${inputMap["Benötigte LNA"]}']`);
+                if (lnaInput) lnaInput.value = 1;
+            } else if (patienten > 4) {
+                var lnaInputOnly = document.querySelector(`input[name='${inputMap["Benötigte LNA"]}']`);
+                if (lnaInputOnly) lnaInputOnly.value = 1;
             }
 
             // Nach dem Einfügen der Werte aus dem Local Storage entfernen
