@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS AAO Generator
-// @version      1.5
+// @version      1.6
 // @description  Fügt einen Button ein um einen neuen AAO Eintrag zu erzeugen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/einsaetze/*
@@ -163,8 +163,8 @@
                 "Benötigte GRTW": "aao[grtw]", //GRTW
                 //"Benötigte GRTW": "aao[grtw0]", //GRTW (7 Patienten - ohne Notarzt)
                 //"Benötigte GRTW": "aao[grtw1]", //GRTW (3 Patienten - inkl. Notarzt)
-                "Benötigte Bergrettungsfahrzeuge": "vehicle_type_ids[150]", //GW-Bergrettung
-                //"Benötigte Bergrettungsfahrzeuge": "vehicle_type_ids[149]", //GW-Bergrettung (NEF)
+                "Benötigte GW-Bergrettung": "vehicle_type_ids[150]", //GW-Bergrettung
+                "Benötigte Bergrettungsfahrzeuge": "vehicle_type_ids[149]", //GW-Bergrettung (NEF)
                 "Benötigte ELW Bergrettung": "vehicle_type_ids[151]", //ELW Bergrettung
                 "Benötigte ATV": "vehicle_type_ids[152]", //ATV
                 //"Benötigte Rettungshundestaffeln": "vehicle_type_ids[153]", //Hundestaffel (Bergrettung)
