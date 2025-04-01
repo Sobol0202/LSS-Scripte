@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 158 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 159 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -60,6 +60,7 @@ Sollten die Skripte nicht funktionieren:
 - Auto-Nachladen
 - Bereitstellung zu Zug
 - Bereitstellungsraum verbessern
+- Bereitstellungsraum Wachenweise alarmieren
 - Besitz im Fahrzeugmarkt anzeigen
 - BR Automatisch verlängern
 - BR-Timer Umrechner
