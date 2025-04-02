@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Bereitstellungsraum Wachenweise alarmieren
-// @version      1.1
+// @version      1.2
 // @description  Fügt ein Interface zur Alarmierung kompletter Gebädue in Bereitstellungsräumen hinzu
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/buildings/*
@@ -72,15 +72,16 @@
                 const existingTypes = new Set(buildings.map(b => b.building_type));
                 buildingTypeSelect.innerHTML = '<option value="">Gebäudetyp wählen</option>';
 
-                // Nur vorhandene Gebäudetypen anzeigen
-                Object.entries(buildingTypes).forEach(([id, name]) => {
-                    if (existingTypes.has(Number(id))) {
+                // Nur vorhandene Gebäudetypen anzeigen und alphabetisch sortieren
+                Object.entries(buildingTypes)
+                    .filter(([id]) => existingTypes.has(Number(id)))
+                    .sort((a, b) => a[1].localeCompare(b[1]))
+                    .forEach(([id, name]) => {
                         const option = document.createElement("option");
                         option.value = id;
                         option.textContent = name;
                         buildingTypeSelect.appendChild(option);
-                    }
-                });
+                    });
 
                 buildingTypeSelect.style.display = "block";
             }
@@ -100,6 +101,7 @@
             return;
         }
 
+        filteredBuildings.sort((a, b) => a.caption.localeCompare(b.caption));
         filteredBuildings.forEach(b => {
             const option = document.createElement("option");
             option.value = b.id;
@@ -117,7 +119,6 @@
         if (selectedBuildingIds.length === 0) return;
 
         vehicles.clear();
-        let completedRequests = 0;
 
         GM_xmlhttpRequest({
             method: "GET",
