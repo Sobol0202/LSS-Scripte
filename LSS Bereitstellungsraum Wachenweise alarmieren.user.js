@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Bereitstellungsraum Wachenweise alarmieren
-// @version      1.0
+// @version      1.1
 // @description  Fügt ein Interface zur Alarmierung kompletter Gebädue in Bereitstellungsräumen hinzu
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/buildings/*
@@ -18,7 +18,7 @@
     // CSRF-Token abrufen
     const authToken = document.querySelector('meta[name="csrf-token"]')?.getAttribute('content');
 
-    // Mapping der Building Types
+    // Mapping der Gebäudetypen
     const buildingTypes = {
         0: "Feuerwache",
         2: "Rettungswache",
@@ -36,7 +36,7 @@
         28: "Hubschrauberstation (Seenotrettung)"
     };
 
-    // Interface erstellen und nach "staging_area_alert" einfügen
+    // Interface-Element erstellen und nach stagingAreaAlert einfügen
     const interfaceDiv = document.createElement("div");
     interfaceDiv.innerHTML = `
         <div class="panel panel-default" style="margin-top: 10px;">
@@ -44,7 +44,7 @@
             <div class="panel-body">
                 <button id="loadBuildings" class="btn btn-primary">Gebäude laden</button>
                 <select id="buildingType" class="form-control" style="margin-top: 10px; display: none;"></select>
-                <select id="buildingSelect" class="form-control" style="margin-top: 10px; display: none;"></select>
+                <select id="buildingSelect" class="form-control" multiple size="5" style="margin-top: 10px; display: none;"></select>
                 <button id="loadVehicles" class="btn btn-info" style="margin-top: 10px; display: none;">Fahrzeuge laden</button>
                 <button id="alarmieren" class="btn btn-success" style="margin-top: 10px; display: none;"></button>
             </div>
@@ -52,6 +52,7 @@
     `;
     stagingAreaAlert.after(interfaceDiv);
 
+    // Elemente referenzieren
     const loadBuildingsBtn = document.getElementById("loadBuildings");
     const buildingTypeSelect = document.getElementById("buildingType");
     const buildingSelect = document.getElementById("buildingSelect");
@@ -59,24 +60,19 @@
     const alarmierenBtn = document.getElementById("alarmieren");
 
     let buildings = [];
-    let vehicles = [];
-    let selectedBuildingId = null;
+    let vehicles = new Set();
 
-    // Gebäude laden
+    // Gebäude aus der API laden
     loadBuildingsBtn.addEventListener("click", () => {
         GM_xmlhttpRequest({
             method: "GET",
             url: "https://www.leitstellenspiel.de/api/buildings",
             onload: function(response) {
                 buildings = JSON.parse(response.responseText);
-
-                // Herausfinden, welche Building Types tatsächlich existieren
                 const existingTypes = new Set(buildings.map(b => b.building_type));
-
-                // Dropdown zurücksetzen
                 buildingTypeSelect.innerHTML = '<option value="">Gebäudetyp wählen</option>';
 
-                // Nur vorhandene Gebäudetypen hinzufügen
+                // Nur vorhandene Gebäudetypen anzeigen
                 Object.entries(buildingTypes).forEach(([id, name]) => {
                     if (existingTypes.has(Number(id))) {
                         const option = document.createElement("option");
@@ -91,7 +87,7 @@
         });
     });
 
-    // Gebäude eines Typs laden
+    // Gebäude basierend auf dem gewählten Typ anzeigen
     buildingTypeSelect.addEventListener("change", () => {
         const selectedType = parseInt(buildingTypeSelect.value, 10);
         buildingSelect.innerHTML = "";
@@ -115,20 +111,23 @@
         loadVehiclesBtn.style.display = "block";
     });
 
-    // Fahrzeuge laden
+    // Fahrzeuge für die ausgewählten Gebäude laden
     loadVehiclesBtn.addEventListener("click", () => {
-        selectedBuildingId = parseInt(buildingSelect.value, 10);
-        if (isNaN(selectedBuildingId)) return;
+        const selectedBuildingIds = Array.from(buildingSelect.selectedOptions).map(opt => parseInt(opt.value, 10));
+        if (selectedBuildingIds.length === 0) return;
+
+        vehicles.clear();
+        let completedRequests = 0;
 
         GM_xmlhttpRequest({
             method: "GET",
             url: "https://www.leitstellenspiel.de/api/vehicles",
             onload: function(response) {
-                vehicles = JSON.parse(response.responseText)
-                    .filter(v => v.building_id === selectedBuildingId);
+                const allVehicles = JSON.parse(response.responseText);
+                allVehicles.filter(v => selectedBuildingIds.includes(v.building_id)).forEach(v => vehicles.add(v.id));
 
-                if (vehicles.length > 0) {
-                    alarmierenBtn.textContent = `Alarmieren (${vehicles.length} Fahrzeuge)`;
+                if (vehicles.size > 0) {
+                    alarmierenBtn.textContent = `Alarmieren (${vehicles.size} Fahrzeuge)`;
                     alarmierenBtn.style.display = "block";
                 } else {
                     alert("Keine Fahrzeuge gefunden.");
@@ -138,16 +137,16 @@
         });
     });
 
-    // Alarmieren
+    // Alarmierungsanfrage senden
     alarmierenBtn.addEventListener("click", () => {
-        if (isNaN(selectedBuildingId) || vehicles.length === 0) return;
+        if (vehicles.size === 0) return;
 
-        const vehicleIds = vehicles.map(v => v.id);
+        const vehicleIds = Array.from(vehicles);
         const params = new URLSearchParams();
         params.append("utf8", "✓");
         params.append("authenticity_token", authToken);
-        vehicleIds.forEach((id, index) => {
-            params.append(`vehicle_ids[]`, id);
+        vehicleIds.forEach(id => {
+            params.append("vehicle_ids[]", id);
             params.append(`vehicle_mode[${id}]`, "2");
         });
         params.append("commit", "Alarmieren");
@@ -163,3 +162,4 @@
         });
     });
 })();
+
