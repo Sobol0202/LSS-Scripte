@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 162 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 163 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -99,6 +99,7 @@ Sollten die Skripte nicht funktionieren:
 - Fahrzeuge eines Typs löschen
 - Fahrzeuge pro Wache Leitstelle
 - Fahrzeuggrafiken Schnell Kopieren und Einfügen
+- Fahrzeuggrafiken sortieren & ausblenden
 - Fahrzeuggrafik beim Kauf setzen
 - Fahrzeuggrafik-ID anzeigen
 - Fahrzeugstatus Umschalter
