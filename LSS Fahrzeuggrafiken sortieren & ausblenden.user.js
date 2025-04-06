@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Fahrzeuggrafiken sortieren & ausblenden
-// @version      1.0
+// @version      1.1
 // @description  Sortiert Fahrzeuggrafiken nach Bezeichnung und erlaubt Ausblenden per Ctrl+Klick
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/vehicle_graphics/*
@@ -83,9 +83,9 @@
             row.style.display = 'none';
         }
 
-        // Strg+Klick: Zeile ein- oder ausblenden
+        // Shift+Klick: Zeile ein- oder ausblenden
         row.addEventListener('click', (e) => {
-            if (e.ctrlKey) {
+            if (e.shiftKey) {
                 const index = hidden.indexOf(id);
                 if (index > -1) {
                     hidden.splice(index, 1); // Wieder einblenden
