@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 161 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 162 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -131,6 +131,7 @@ Sollten die Skripte nicht funktionieren:
 - Individueller Platz für die Systemnachrichten
 - Karten Filter Hider
 - Kartenkreuz
+- Kopiere Einsatznamen+Einsatztyp+MissionID
 - Krankenhausbesitzer
 - KTW-Icon Ebenenreduzierer
 - Laufleistung 30 Tage
