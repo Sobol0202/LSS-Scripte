@@ -4,7 +4,7 @@
 // @description  Erstellen von zufälligen Streifenrouten mit der aktuellen Kartenposition
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/
-// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS%20Zuweisungschecker/icons8-approve-80.png
+// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-Zuf%C3%A4llige%20Streifenroute%20erstellen/icons8-route-50.png
 // @grant        GM_getResourceURL
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
