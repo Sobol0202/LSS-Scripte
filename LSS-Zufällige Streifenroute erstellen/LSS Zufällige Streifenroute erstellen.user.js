@@ -168,9 +168,5 @@
             }
         });
     }
-
-    // Triggerelement einfügen, wenn die Seite vollständig geladen ist
-    window.addEventListener('load', () => {
         createTriggerElement();
-    });
 })();
