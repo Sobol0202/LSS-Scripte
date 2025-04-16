@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 166 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 167 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Exporter zu csv
@@ -201,6 +201,7 @@ Sollten die Skripte nicht funktionieren:
 - Wertvolle Einsätze melden
 - Wichtige Info bearbeiten
 - Zerstören und zur Wache
+- Zufällige Streifenroute erstellen
 - Zugewiesene Fahrzeuge BR ausblenden
 - Zugewiesenes Personal
 - Zug-Löschen Button nach oben
