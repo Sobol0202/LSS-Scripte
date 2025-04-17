@@ -19,6 +19,7 @@
     // Überprüfen ob Login-Seite
     const isLoginPage = window.location.href.includes("/users/sign_in");
 
+    // Wenn Login-Seite: Beim Klick auf den Login-Button den Wert zurücksetzen
     if (isLoginPage) {
         const loginButton = document.querySelector("input[type='submit']");
         if (loginButton) {
@@ -29,6 +30,7 @@
         return;
     }
 
+    // Wenn nicht Login-Seite und frisch eingeloggt:
     const justLoggedIn = GM_getValue("justLoggedIn", true);
 
     if (!justLoggedIn) {
@@ -36,11 +38,15 @@
 
         // Begrüßung nach definierter Wartezeit anzeigen
         setTimeout(() => {
+                    
+            // Holt den Benutzernamen, falls verfügbar, sonst Standardwert
             const name = typeof username !== "undefined" ? username : "Spieler";
 
+            // Extrahiert die aktuellen Credits des Spielers aus dem Seiteninhalt
             const creditsMatch = document.body.innerHTML.match(/creditsUpdate\((\d+)\)/);
             const credits = creditsMatch ? parseInt(creditsMatch[1], 10) : 0;
 
+            // Hilfsfunktion: Liest die aktuelle Anzahl bestimmter Einsätze aus dem DOM
             const getNumberFromElement = (id) => {
                 const el = document.getElementById(id);
                 if (!el) return 0;
@@ -48,12 +54,14 @@
                 return match ? parseInt(match[1], 10) : 0;
             };
 
+            // Anzahl verschiedener Einsatzarten
             const notfälle = getNumberFromElement("mission_select_emergency");
             const ktw = getNumberFromElement("mission_select_krankentransport");
             const sicherheitswache = getNumberFromElement("mission_select_sicherheitswache");
             const alliance = getNumberFromElement("mission_select_alliance");
             const einsätze = notfälle + ktw + sicherheitswache;
 
+            // Gibt eine zufällige Begrüßung je nach Tageszeit zurück
             const greetingsTime = () => {
                 const hour = new Date().getHours();
                 if (Math.random() < 0.5) {
@@ -67,6 +75,7 @@
                 }
             };
 
+            // Informative Textzeilen für die Begrüßung
             const infos = [
                 `Es ist ${new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })} Uhr.`,
                 `Gerade warten ${einsätze} Einsätze auf dich.`,
@@ -74,11 +83,14 @@
                 `Du hast gerade ${credits.toLocaleString()} Credits zum Ausgeben bereit.`
             ];
 
+            // Mischt die Infos zufällig und zeigt zwei davon an
             const shuffledInfos = infos.sort(() => 0.5 - Math.random()).slice(0, 2);
 
+            // Zufälliger Motivationsspruch
             const anfeuerungen = ["Lass uns anfangen!", "Auf geht’s!", "Lass uns beginnen!", "Los geht’s!", "Fangen wir an!", "Zeit, loszulegen!", "Jetzt geht’s los!", "Ran an die Arbeit!", "Packen wir’s an!"];
             const anfeuerung = anfeuerungen[Math.floor(Math.random() * anfeuerungen.length)];
 
+            // Erstellt das Begrüßungs-Element im DOM
             const box = document.createElement("div");
             box.id = "begruessung-box";
             box.innerHTML = `
@@ -88,8 +100,11 @@
                     <strong>${anfeuerung}</strong>
                 </div>
             `;
+            
+            // Fügt die Box zur Seite hinzu
             document.body.appendChild(box);
 
+            // Fügt CSS für die Box hinzu
             GM_addStyle(`
                 #begruessung-box {
                     position: fixed;
