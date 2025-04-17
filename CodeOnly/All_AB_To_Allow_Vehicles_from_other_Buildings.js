@@ -46,7 +46,7 @@
         setTimeout(() => {
           iframe.remove();
           resolve();
-        }, 2000); // etwas mehr Zeit geben
+        }, 2000);
       };
 
       document.body.appendChild(iframe);
