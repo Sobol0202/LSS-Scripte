@@ -5,7 +5,7 @@
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/*
 // @grant        GM_getResourceURL
-// @resource     icon https://upload.wikimedia.org/wikipedia/commons/e/ec/Red_dot.svg
+// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-Stuhlh%C3%A4ndler/icons8-car-seat-64.png
 // ==/UserScript==
 
 (function() {
