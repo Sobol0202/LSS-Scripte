@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Täglicher Bericht
 // @namespace    http://tampermonkey.net/
-// @version      0.9
+// @version      0.91
 // @description  Sendet täglichen Schulungsstatus, Gebäude-Erweiterungen, Lagerräume und Spezialisierungen per PN
 // @author       Sobol (Inspiriert von L0rd_Enki)
 // @match        https://www.leitstellenspiel.de/
@@ -126,7 +126,7 @@
                     result.push({
                         name: building.caption,
                         item: item.caption || item.upgrade_type,
-                        date: formatDate(availableAt)
+                        enddate: formatDate(availableAt)
                     });
                 }
             });
