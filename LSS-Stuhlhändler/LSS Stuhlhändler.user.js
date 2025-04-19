@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Stuhlhändler
-// @version      1.0
+// @version      1.1
 // @description  Passt die Anzahl der Sitzplätze in den Fahrzeugen an
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/*
@@ -115,10 +115,12 @@
         types.sort((a, b) => a[1].caption.localeCompare(b[1].caption, 'de', { sensitivity: 'base' }));
 
         types.forEach(([id, data]) => {
-            const option = document.createElement('option');
-            option.value = id;
-            option.textContent = data.caption;
-            typeSelect.appendChild(option);
+            if (data.minPersonnel < data.maxPersonnel) {
+                const option = document.createElement('option');
+                option.value = id;
+                option.textContent = data.caption;
+                typeSelect.appendChild(option);
+            }
         });
 
         typeSelect.addEventListener('change', () => {
@@ -158,9 +160,13 @@
 
             const res = await fetch('/api/vehicles');
             const allVehicles = await res.json();
-            const matching = allVehicles.filter(v => v.vehicle_type === selectedType);
 
-            const confirm = window.confirm(`${matching.length} Fahrzeuge gefunden. Fortfahren?`);
+            const matching = allVehicles.filter(v =>
+                                                v.vehicle_type === selectedType &&
+                                                v.max_personnel_override !== selectedSeats
+                                               );
+
+            const confirm = window.confirm(`${matching.length} Fahrzeuge mit anderer Sitzanzahl gefunden. Fortfahren?`);
             if (!confirm) {
                 modal.remove();
                 return;
