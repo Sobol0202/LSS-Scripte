@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Leitstellenansicht Edit+Zuweisungsbuttons+Statusumschalter+Leitstellenumschalter
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @description  Erweitert die Leitstellenansicht um einige Funktionen
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/leitstellenansicht
@@ -40,7 +40,7 @@
             const url = `https://www.leitstellenspiel.de/vehicles/${vehicleId}/set_fms/${targetStatus}`;
             try {
                 await fetch(url);
-                //console.log(`Status für Fahrzeug ${vehicleId} auf ${targetStatus} gesetzt.`);
+                console.log(`Status für Fahrzeug ${vehicleId} auf ${targetStatus} gesetzt.`);
             } catch (error) {
                 console.error(`Fehler beim Setzen des Status für Fahrzeug ${vehicleId}:`, error);
             }
@@ -250,6 +250,13 @@
                     return;
                 }
 
+                // ===== Wenn das Gebäude deaktiviert ist, durchstreichen =====
+                if (building.enabled === false) {
+                    a.style.textDecoration = 'line-through';
+                    a.style.textDecorationColor = 'red';
+                    a.style.textDecorationThickness = '3px';
+                }
+
                 if (a.nextSibling && a.nextSibling.classList && a.nextSibling.classList.contains('btn-group')) {
                     return;
                 }
@@ -264,3 +271,4 @@
 
     init();
 })();
+
