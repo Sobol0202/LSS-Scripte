@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Verfallsmelder
 // @namespace    www.leitstellenspiel.de
-// @version      1.0
+// @version      1.1
 // @description  Fügt "Läuft bald ab" zu alten Missionen hinzu
 // @author       MissSobol
 // @match       https://www.leitstellenspiel.de/
@@ -18,62 +18,62 @@
 (function() {
     'use strict';
 
-    // Funktion, die die Missionen überprüft
-    function checkMissions() {
-        const HOURS_LIMIT = 22;
-        const MILLISECONDS_LIMIT = HOURS_LIMIT * 3600000;
-        const CURRENT_TIME = Date.now();
+    function getLastUTC2AM() {
+        const now = new Date();
+        const utcHour = now.getUTCHours();
 
-        //console.log("Aktuelle Zeit:", new Date(CURRENT_TIME).toISOString());
+        const lastUTC2am = new Date(Date.UTC(
+            now.getUTCFullYear(),
+            now.getUTCMonth(),
+            now.getUTCDate(),
+            2, 0, 0, 0
+        ));
 
-        // Holen des Mission Panels
-        const missionsPanel = document.getElementById('missions-panel-body');
-        if (!missionsPanel) {
-            //console.log("Mission Panel nicht gefunden.");
-            return;
-        } else {
-            //console.log("Mission Panel gefunden.");
+        if (utcHour < 2) {
+            // Wenn es vor 2 Uhr UTC ist, dann auf den Vortag zurückgehen
+            lastUTC2am.setUTCDate(lastUTC2am.getUTCDate() - 1);
         }
 
-        // Holen aller Missionen
+        return lastUTC2am;
+    }
+
+    function checkMissions() {
+        const lastUTC2am = getLastUTC2AM();
+        const lastUTC2amTimestamp = lastUTC2am.getTime();
+
+        const missionsPanel = document.getElementById('missions-panel-body');
+        if (!missionsPanel) return;
+
         const missions = missionsPanel.getElementsByClassName('missionSideBarEntry');
-        //console.log("Anzahl gefundener Missionen:", missions.length);
 
-        // Überprüfung jeder Mission
         Array.from(missions).forEach(mission => {
-            const missionData = JSON.parse(mission.getAttribute('data-sortable-by'));
-            const missionAgeUnix = missionData.age * 1000; // Alter der Mission in Millisekunden
-            const missionCreationTime = missionAgeUnix;
+            const missionDataRaw = mission.getAttribute('data-sortable-by');
+            if (!missionDataRaw) return;
 
-            //console.log(`Mission ID: ${missionData.id}, Mission Erstellungszeit: ${new Date(missionCreationTime).toISOString()}`);
+            const missionData = JSON.parse(missionDataRaw);
+            const createdAtUnix = missionData.created_at; // in Sekunden
+            const createdAtMs = createdAtUnix * 1000; // in Millisekunden
 
-            if (CURRENT_TIME - missionCreationTime > MILLISECONDS_LIMIT) {
-                // Holen des Elements mit der ID 'mission_panel_heading_' + mission_id
+            if (createdAtMs < lastUTC2amTimestamp) {
                 const missionId = missionData.id;
-                const missionPanelHeading = document.getElementById('mission_panel_heading_' + missionId);
+                const heading = document.getElementById('mission_panel_heading_' + missionId);
 
-                if (missionPanelHeading) {
-                    console.log(`Mission Panel Heading für Mission ${missionId} gefunden.`);
-                    // Hinweis "Läuft bald ab" einfügen
-                    const alertText = document.createElement('span');
-                    alertText.textContent = '!!!';
-                    alertText.style.color = 'red';
-                    alertText.style.float = 'right';
-                    alertText.style.fontWeight = 'bold';
-                    missionPanelHeading.appendChild(alertText);
-                    //console.log(`Hinweis für Mission ${missionId} eingefügt.`);
-                } else {
-                    //console.log(`Mission Panel Heading für Mission ${missionId} nicht gefunden.`);
+                if (heading && !heading.querySelector('.verfallsmelder-alert')) {
+                    const alert = document.createElement('span');
+                    alert.className = 'verfallsmelder-alert';
+                    alert.textContent = '!!!';
+                    alert.style.color = 'red';
+                    alert.style.float = 'right';
+                    alert.style.fontWeight = 'bold';
+                    heading.appendChild(alert);
                 }
-            } else {
-                //console.log(`Mission ${missionData.id} ist noch nicht abgelaufen.`);
             }
         });
     }
 
-    // Funktion regelmäßig ausführen
-    // setInterval(checkMissions, 60000); // alle 60 Sekunden
-    // Initiales Ausführen der Funktion
+    // Einmal direkt ausführen
     checkMissions();
 
+    // Optional: Wiederholen
+    // setInterval(checkMissions, 60000); // alle 60 Sekunden
 })();
