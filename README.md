@@ -38,9 +38,10 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 172 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 173 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
+- AAO Export-Import
 - AAO Exporter zu csv
 - AAO Generator
 - AAO Master-Slave
