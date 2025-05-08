@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Täglicher Bericht
 // @namespace    http://tampermonkey.net/
-// @version      0.91
+// @version      0.92
 // @description  Sendet täglichen Schulungsstatus, Gebäude-Erweiterungen, Lagerräume und Spezialisierungen per PN
 // @author       Sobol (Inspiriert von L0rd_Enki)
 // @match        https://www.leitstellenspiel.de/
@@ -126,7 +126,8 @@
                     result.push({
                         name: building.caption,
                         item: item.caption || item.upgrade_type,
-                        enddate: formatDate(availableAt)
+                        endDate: formatDate(availableAt, true),
+                        endDateRaw: availableAt
                     });
                 }
             });
@@ -144,7 +145,7 @@
     }
 
     function sortByEndDate(items) {
-        return items.sort((a, b) => parseDate(a.endDate) - parseDate(b.endDate));
+        return items.sort((a, b) => new Date(a.endDateRaw) - new Date(b.endDateRaw));
     }
 
     async function sendStatusReport() {
@@ -175,19 +176,19 @@
             // Gebäude-Erweiterungen
             const extensions = sortByEndDate(processTimedItems(buildings, 'extension'));
             messageBody += "\n### 🏢 Gebäude-Erweiterungen:\n\n";
-            extensions.forEach(e => messageBody += `- ${e.name}: ${e.item} (Fertig am: ${e.date})\n`);
+            extensions.forEach(e => messageBody += `- ${e.name}: ${e.item} (Fertig am: ${e.endDate})\n`);
             if (extensions.length === 0) messageBody += "Heute keine Einträge vorhanden.\n";
 
             // Lagerräume
             const storages = sortByEndDate(processTimedItems(buildings, 'storage'));
             messageBody += "\n### 📦 Lagerräume:\n\n";
-            storages.forEach(s => messageBody += `- ${s.name}: ${s.item} (Fertig am: ${s.date})\n`);
+            storages.forEach(s => messageBody += `- ${s.name}: ${s.item} (Fertig am: ${s.endDate})\n`);
             if (storages.length === 0) messageBody += "Heute keine Einträge vorhanden.\n";
 
             // Spezialisierungen
             const specializations = sortByEndDate(processTimedItems(buildings, 'specialization'));
             messageBody += "\n### 🔧 Spezialisierungen:\n\n";
-            specializations.forEach(s => messageBody += `- ${s.name}: ${s.item} (Fertig am: ${s.date})\n`);
+            specializations.forEach(s => messageBody += `- ${s.name}: ${s.item} (Fertig am: ${s.endDate})\n`);
             if (specializations.length === 0) messageBody += "Heute keine Einträge vorhanden.\n";
 
             // Nachricht senden
