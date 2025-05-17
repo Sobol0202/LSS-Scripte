@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 173 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 174 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Export-Import
@@ -189,6 +189,7 @@ Sollten die Skripte nicht funktionieren:
 - SpielerID im Profil
 - Standortanzeiger
 - Status 0
+- Streifenrouten Exportieren/Importieren
 - Stuhlhändler
 - Systemnachrichten Lösch-Button
 - Tippspiel ausblenden
