@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Klick auf Zeile aktiviert Checkbox im Einstellungsbereich der LSS-Personalseite
 // @author       Sobol
-// @match        https://www.leitstellenspiel.de/buildings/*/hire
+// @match        https://www.leitstellenspiel.de/buildings/*
 // @grant        none
 // ==/UserScript==
 
