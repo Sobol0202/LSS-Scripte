@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 174 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 175 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Export-Import
@@ -176,6 +176,7 @@ Sollten die Skripte nicht funktionieren:
 - Rabattrechner vom letzten Monat
 - Remove Easteregg Found
 - Remove Missionspeed Button
+- Personal-Verschieben Zeilenklicker
 - Rettungsdienst weiteralarmieren
 - RTH Sprechwünsche nach oben
 - Same Pic for all 3
