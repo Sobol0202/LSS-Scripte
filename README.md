@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 175 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 176 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Export-Import
@@ -169,6 +169,7 @@ Sollten die Skripte nicht funktionieren:
 - PN löschen Button
 - POI Counter
 - POI Counter in POI Menu
+- POI Löscher
 - Profil Navigation
 - Protokoll Jahr hinzufügen
 - Protokoll überwacher
