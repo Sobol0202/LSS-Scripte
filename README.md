@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 176 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 177 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Export-Import
@@ -166,6 +166,7 @@ Sollten die Skripte nicht funktionieren:
 - Patientenanalyse
 - Personal Filter
 - Personal Soll-Ist
+- Personalzuweisungssavigationsbuttonverschieber
 - PN löschen Button
 - POI Counter
 - POI Counter in POI Menu
