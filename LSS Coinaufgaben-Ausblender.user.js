@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS-Coinaufgaben-Ausblender
 // @namespace    leitstellenspiel.de
-// @version      1.8
+// @version      1.9
 // @description  Blendet Aufgaben aus, die etwas mit Coins ausgeben zu tun haben.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/tasks/index
@@ -19,8 +19,8 @@
         const panel = panels[i];
         const taskDescription = panel.querySelector('.panel-heading').textContent;
 
-        // Überprüfe, ob die Beschreibung das Wort "Coin", "immediately", "Coins" oder "sofort fertig" enthält
-        if (taskDescription.includes('Coin') || taskDescription.includes('Coins') || taskDescription.includes('Rekrutiere') || taskDescription.includes('immediately') || taskDescription.includes('sofort fertig')) {
+        // Überprüfe, ob die Beschreibung das Wort "Coin", "Coins", "sofort!" oder "sofort fertig" enthält
+        if (taskDescription.includes('Coin') || taskDescription.includes('Coins') || taskDescription.includes('Rekrutiere') || taskDescription.includes('immediately') || taskDescription.includes('sofort!') || taskDescription.includes('sofort fertig')) {
             // Verstecke das Panel
             panel.style.display = 'none';
             // Füge die unsichtbare Klasse hinzu
