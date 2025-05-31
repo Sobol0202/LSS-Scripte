@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         LSS Leitstellenansicht Edit+Zuweisungsbuttons+Statusumschalter+Leitstellenumschalter
+// @name         LSS Leitstellenansicht Edit+Zuweisungsbuttons+Statusumschalter+Leitstelle Umschalten
 // @namespace    http://tampermonkey.net/
-// @version      1.8
-// @description  Erweitert die Leitstellenansicht um einige Funktionen
+// @version      1.9
+// @description  Fügt zwei Buttons zur Leitstellenansicht hinzu und ermöglicht das Umschalten der Leitstelle über ein Dropdown-Menü
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/leitstellenansicht
 // @grant        GM_xmlhttpRequest
@@ -137,97 +137,121 @@
         });
     }
 
-    // Funktion, um das Dropdown-Menü zu erstellen
     function createDropdown(building, allLeitstellen) {
-        const toggleButton = document.createElement('button');
-        toggleButton.className = 'btn btn-default btn-xs dropdown-toggle pull-right';
-        toggleButton.setAttribute('aria-haspopup', 'true');
-        toggleButton.setAttribute('aria-expanded', 'false');
-        toggleButton.innerHTML = '<span class="caret"></span>';
-        toggleButton.style.marginLeft = '5px';
+    const toggleButton = document.createElement('button');
+    toggleButton.className = 'btn btn-default btn-xs dropdown-toggle pull-right';
+    toggleButton.setAttribute('aria-haspopup', 'true');
+    toggleButton.setAttribute('aria-expanded', 'false');
+    toggleButton.innerHTML = '<span class="caret"></span>';
+    toggleButton.style.marginLeft = '5px';
 
-        const menu = document.createElement('ul');
-        menu.className = 'dropdown-menu';
-        menu.style.display = 'none';
+    // Externes Menü im Body erstellen
+    const menu = document.createElement('ul');
+    menu.className = 'dropdown-menu';
+    menu.style.position = 'absolute';
+    menu.style.display = 'none';
+    menu.style.zIndex = '99999';
+    menu.style.minWidth = '150px';
+    menu.style.backgroundColor = 'white';
+    menu.style.boxShadow = '0 2px 5px rgba(0,0,0,0.3)';
+    menu.style.padding = '5px 0';
+    menu.style.borderRadius = '4px';
 
-        const noneLeitstelleItem = document.createElement('li');
-        const noneLeitstelleLink = document.createElement('a');
-        noneLeitstelleLink.href = '#';
-        noneLeitstelleLink.textContent = 'Keiner Leitstelle';
+    document.body.appendChild(menu);
 
-        const noneLeitstelleButton = document.createElement('button');
-        noneLeitstelleButton.className = 'btn btn-xs btn-danger pull-right';
-        noneLeitstelleButton.innerHTML = '<span class="glyphicon glyphicon-remove"></span>';
-        noneLeitstelleButton.addEventListener('click', (event) => {
+    const noneLeitstelleItem = document.createElement('li');
+    const noneLeitstelleLink = document.createElement('a');
+    noneLeitstelleLink.href = '#';
+    noneLeitstelleLink.textContent = 'Keiner Leitstelle';
+
+    const noneLeitstelleButton = document.createElement('button');
+    noneLeitstelleButton.className = 'btn btn-xs btn-danger pull-right';
+    noneLeitstelleButton.innerHTML = '<span class="glyphicon glyphicon-remove"></span>';
+    noneLeitstelleButton.addEventListener('click', (event) => {
+        event.preventDefault();
+        event.stopPropagation();
+        const assignUrl = `/buildings/${building.id}/leitstelle-set/0`;
+        fetch(assignUrl)
+            .then(() => location.reload())
+            .catch(err => {
+                console.error(`Fehler beim Setzen der Leitstelle: ${err}`);
+            });
+    });
+
+    noneLeitstelleLink.appendChild(noneLeitstelleButton);
+    noneLeitstelleItem.appendChild(noneLeitstelleLink);
+    menu.appendChild(noneLeitstelleItem);
+
+    allLeitstellen.forEach(leitstelle => {
+        const menuItem = document.createElement('li');
+        const menuLink = document.createElement('a');
+        menuLink.href = '#';
+        menuLink.textContent = leitstelle.caption;
+
+        const assignButton = document.createElement('button');
+        assignButton.className = 'btn btn-xs btn-success pull-right';
+        assignButton.style.marginLeft = '1ch';
+        assignButton.innerHTML = '<span class="glyphicon glyphicon-ok"></span>';
+        assignButton.addEventListener('click', (event) => {
             event.preventDefault();
             event.stopPropagation();
-            const assignUrl = `/buildings/${building.id}/leitstelle-set/0`;
+            const assignUrl = `/buildings/${building.id}/leitstelle-set/${leitstelle.id}`;
             fetch(assignUrl)
-                .then(() => {})
+                .then(() => location.reload())
                 .catch(err => {
                     console.error(`Fehler beim Setzen der Leitstelle: ${err}`);
                 });
         });
 
-        noneLeitstelleLink.appendChild(noneLeitstelleButton);
-        noneLeitstelleItem.appendChild(noneLeitstelleLink);
-        menu.appendChild(noneLeitstelleItem);
+        menuLink.appendChild(assignButton);
+        menuItem.appendChild(menuLink);
+        menu.appendChild(menuItem);
 
-        allLeitstellen.forEach(leitstelle => {
-            const menuItem = document.createElement('li');
-            const menuLink = document.createElement('a');
-            menuLink.href = '#';
-            menuLink.textContent = leitstelle.caption;
+        if (building.leitstelle_building_id && leitstelle.id === building.leitstelle_building_id) {
+            menuLink.style.textDecoration = 'underline';
+        }
+    });
 
-            const assignButton = document.createElement('button');
-            assignButton.className = 'btn btn-xs btn-success pull-right';
-            assignButton.style.marginLeft = '1ch';
-            assignButton.innerHTML = '<span class="glyphicon glyphicon-ok"></span>';
-            assignButton.addEventListener('click', (event) => {
-                event.preventDefault();
-                event.stopPropagation();
-                const assignUrl = `/buildings/${building.id}/leitstelle-set/${leitstelle.id}`;
-                fetch(assignUrl)
-                    .then(() => {})
-                    .catch(err => {
-                        console.error(`Fehler beim Setzen der Leitstelle: ${err}`);
-                    });
-            });
+    const dropdownGroup = document.createElement('div');
+    dropdownGroup.className = 'btn-group';
+    dropdownGroup.appendChild(toggleButton);
 
-            menuLink.appendChild(assignButton);
-            menuItem.appendChild(menuLink);
-            menu.appendChild(menuItem);
+    // Toggle-Funktion
+    toggleButton.addEventListener('click', (event) => {
+        event.preventDefault();
+        event.stopPropagation();
 
-            // Überprüfen, ob dies die aktuell zugewiesene Leitstelle ist
-            if (building.leitstelle_building_id && leitstelle.id === building.leitstelle_building_id) {
-                menuLink.style.textDecoration = 'underline'; // Unterstreiche die aktuell zugewiesene Leitstelle
-            }
-        });
+        const rect = toggleButton.getBoundingClientRect();
+        const isOpen = menu.style.display === 'block';
 
-        const dropdownGroup = document.createElement('div');
-        dropdownGroup.className = 'btn-group';
+        // Dropdown schließen, wenn offen
+        if (isOpen) {
+            menu.style.display = 'none';
+            toggleButton.setAttribute('aria-expanded', 'false');
+            return;
+        }
 
-        dropdownGroup.appendChild(toggleButton);
-        dropdownGroup.appendChild(menu);
+        // Alle anderen Dropdowns schließen
+        document.querySelectorAll('ul.dropdown-menu').forEach(m => m.style.display = 'none');
 
-        toggleButton.addEventListener('click', (event) => {
-            event.preventDefault();
-            event.stopPropagation();
+        // Position berechnen
+        menu.style.top = `${rect.bottom + window.scrollY}px`;
+        menu.style.left = `${rect.left + window.scrollX}px`;
+        menu.style.display = 'block';
+        toggleButton.setAttribute('aria-expanded', 'true');
+    });
 
-            const isOpen = menu.style.display === 'block';
-            menu.style.display = isOpen ? 'none' : 'block';
-            toggleButton.setAttribute('aria-expanded', !isOpen);
-        });
+    // Bei Klick außerhalb Dropdown schließen
+    document.addEventListener('click', (e) => {
+        if (!menu.contains(e.target) && !toggleButton.contains(e.target)) {
+            menu.style.display = 'none';
+            toggleButton.setAttribute('aria-expanded', 'false');
+        }
+    });
 
-        menu.addEventListener('click', (event) => {
-            if (event.target.tagName === 'A') {
-                event.preventDefault();
-                event.stopPropagation();
-            }
-        });
+    return dropdownGroup;
+}
 
-        return dropdownGroup;
-    }
 
     // ==================== Initialisierung der Leitstellenumschaltung ====================
 
@@ -271,4 +295,3 @@
 
     init();
 })();
-
