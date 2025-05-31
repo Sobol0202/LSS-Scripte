@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Zuweisungschecker
-// @version      1.4
+// @version      1.5
 // @description  Fügt ein Menü ein um nicht vollständig zugewiesene Fahrzeuge anzuzeigen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
@@ -46,9 +46,9 @@
         28: { name: "RTW", maxPersonnel: 2 },
         29: { name: "NEF 🎓", maxPersonnel: 2 },
         30: { name: "HLF 20", maxPersonnel: 9 },
-        31: { name: "RTH 🎓", maxPersonnel: 3 },
+        31: { name: "RTH 🎓", maxPersonnel: 2 },
         32: { name: "FuStW", maxPersonnel: 2 },
-        33: { name: "GW-Höhenrettung 🎓", maxPersonnel: 9 },
+        33: { name: "GW-Höhenrettung 🎓", maxPersonnel: 3 },
         34: { name: "ELW 2 🎓", maxPersonnel: 6 },
         35: { name: "leBefKw 🎓", maxPersonnel: 3 },
         36: { name: "MTW", maxPersonnel: 9 },
@@ -144,6 +144,9 @@
         161: { name: "Hubschrauber (Seenotrettung) 🎓", maxPersonnel: 4 },
         162: { name: "RW-Schiene 🎓", maxPersonnel: 3 },
         163: { name: "HLF Schiene 🎓", maxPersonnel: 9 },
+        165: { name: "LauKw 🎓", maxPersonel: 5 },
+        166: { name: "PTLF 4000", maxPersonel: 2 },
+        167: { name: "SLF", maxPersonel: 2 },
     };
 
     // Funktion, um ein "Lädt..." Modal zu erstellen
