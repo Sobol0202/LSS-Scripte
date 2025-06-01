@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 178 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 179 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Export-Import
@@ -87,6 +87,7 @@ Sollten die Skripte nicht funktionieren:
 - Easter Egg verschieben
 - Eigene Fahrzeugklassen entfernen
 - Einsatzgeschwindigkeitsprüfer
+- Einsatzgrafikersteller
 - Einsatzhelfer Navigator
 - EinsatzID in Mögliche Einsätze
 - Einsatzlistenpfeile im Dark Mode Weiß
