@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 179 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 180 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO Export-Import
@@ -212,6 +212,7 @@ Sollten die Skripte nicht funktionieren:
 - Wachenöffner Schulen
 - Wertvolle Einsätze melden
 - Wichtige Info bearbeiten
+- Zellanzahl in Leitstellenstatistik einfügen
 - Zerstören und zur Wache
 - Zufällige Streifenroute erstellen
 - Zugewiesene Fahrzeuge BR ausblenden
