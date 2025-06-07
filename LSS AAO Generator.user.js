@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS AAO Generator
-// @version      1.7
+// @version      1.8
 // @description  Fügt einen Button ein, um einen neuen AAO Eintrag zu erzeugen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/einsaetze/*
@@ -11,10 +11,22 @@
 (function () {
     'use strict';
 
-    // Funktion zum Hinzufügen des Buttons auf der Einsatzseite
+    // Simuliert echte Benutzereingabe, damit das Framework die Werte registriert
+    function setNativeInputValue(element, value) {
+        const lastValue = element.value;
+        element.value = value;
+
+        const tracker = element._valueTracker;
+        if (tracker) {
+            tracker.setValue(lastValue);
+        }
+
+        element.dispatchEvent(new Event('input', { bubbles: true }));
+        element.dispatchEvent(new Event('change', { bubbles: true }));
+    }
+
     function addButton() {
-        // Button erstellen
-        var button = document.createElement("button");
+        const button = document.createElement("button");
         button.className = "btn btn-default";
         button.innerHTML = "AAO Eintrag erzeugen";
         button.style.position = "absolute";
@@ -22,24 +34,23 @@
         button.style.right = "15px";
         document.body.appendChild(button);
 
-        // Event Listener für Button
         button.addEventListener("click", function () {
-            // Einsatznamen aus dem <h1>-Tag extrahieren
-            var missionNameElement = document.querySelector("h1");
-            var missionName = missionNameElement ? missionNameElement.childNodes[missionNameElement.childNodes.length - 1].textContent.trim() : null;
+            const missionNameElement = document.querySelector("h1");
+            const missionName = missionNameElement ? missionNameElement.childNodes[missionNameElement.childNodes.length - 1].textContent.trim() : null;
+
+            //console.log("[AAO Generator] Einsatzname gefunden:", missionName);
 
             if (!missionName) {
                 alert("Einsatzname nicht gefunden");
+                console.warn("[AAO Generator] Kein Einsatzname gefunden");
                 return;
             }
 
-            // Tabellen mit Fahrzeugen und Personal sowie weitere Informationen finden
-            var tables = document.querySelectorAll("table.table-striped");
-            var relevantTables = [];
+            const tables = document.querySelectorAll("table.table-striped");
+            const relevantTables = [];
 
-            // Überprüfen, ob die Tabellen die gewünschten Überschriften haben
             tables.forEach(function (tbl) {
-                var header = tbl.querySelector("thead th");
+                const header = tbl.querySelector("thead th");
                 if (header && (header.textContent.includes("Benötigte Fahrzeuge und Personal") || header.textContent.includes("Weitere Informationen"))) {
                     relevantTables.push(tbl);
                 }
@@ -47,40 +58,43 @@
 
             if (relevantTables.length === 0) {
                 alert("Keine relevanten Tabellen gefunden");
+                console.warn("[AAO Generator] Keine relevanten Tabellen gefunden");
                 return;
             }
 
-            // Werte aus den relevanten Tabellen auslesen
-            var values = { missionName: missionName };
+            const values = { missionName: missionName };
+
             relevantTables.forEach(function (table) {
-                var rows = table.querySelectorAll("tbody tr");
+                const rows = table.querySelectorAll("tbody tr");
                 rows.forEach(function (row) {
-                    var cells = row.querySelectorAll("td");
+                    const cells = row.querySelectorAll("td");
                     if (cells.length >= 2) {
-                        var key = cells[0].textContent.trim();
-                        var value = cells[1].textContent.trim();
+                        const key = cells[0].textContent.trim();
+                        const value = cells[1].textContent.trim();
                         values[key] = value;
+                        //console.log(`[AAO Generator] Eingelesen: ${key} = ${value}`);
                     }
                 });
             });
 
-            // Werte in Local Storage speichern
+            //console.log("[AAO Generator] Gespeicherte Werte:", values);
             localStorage.setItem("aaoValues", JSON.stringify(values));
-
-            // URL für das neue Tab öffnen
-            var newTabUrl = "https://www.leitstellenspiel.de/aaos/new";
-            GM_openInTab(newTabUrl, true);
+            GM_openInTab("https://www.leitstellenspiel.de/aaos/new", true);
         });
     }
 
-    // Funktion zum Einfügen der Werte auf der AAO-Seite
     function fillAAOValues() {
-        var aaoValues = JSON.parse(localStorage.getItem("aaoValues"));
-        if (aaoValues) {
-            // Map von Fahrzeugnamen zu Input-Namen
-            var inputMap = {
+        const aaoValues = JSON.parse(localStorage.getItem("aaoValues"));
+        if (!aaoValues) {
+            console.warn("[AAO Generator] Keine gespeicherten Werte gefunden");
+            return;
+        }
+
+        //console.log("[AAO Generator] Geladene Werte:", aaoValues);
+
+        const inputMap = {
                 "Benötigte Löschfahrzeuge": "aao[fire]",
-                                //"Benötigte Tanklöschfahrzeuge": "aao[tlf_only]", //TLF
+                //"Benötigte Tanklöschfahrzeuge": "aao[tlf_only]", //TLF
                 "Wasserbedarf": "aao[wasser_amount]", //Liter Wasser
                 //"Wasserbedarf": "aao[wasser_amount_tlf]", //Liter Wasser - Nur TLF
                 //"Wasserbedarf": "aao[water_amount_water_carrier]", //Liter Wasser - Nur Großtankfahrzeuge
@@ -251,48 +265,65 @@
                 "Maximale Patientenanzahl": "aao[rtw]",
             };
 
-            // Einsatznamen in das entsprechende Input-Feld einfügen
-            var missionNameInput = document.querySelector("input[name='aao[caption]']");
-            if (missionNameInput) {
-                missionNameInput.value = aaoValues.missionName;
-            }
 
-            // Werte in die richtigen Inputs schreiben
-            for (var key in aaoValues) {
-                if (aaoValues.hasOwnProperty(key) && key !== "missionName") {
-                    var inputName = inputMap[key];
-                    if (inputName) {
-                        var inputElement = document.querySelector(`input[name='${inputName}']`);
-                        if (inputElement) {
-                            inputElement.value = aaoValues[key];
-                        }
+        const missionNameInput = document.querySelector("input[name='aao[caption]']");
+        if (missionNameInput) {
+            setNativeInputValue(missionNameInput, aaoValues.missionName);
+            //console.log(`[AAO Generator] Einsatzname gesetzt: ${aaoValues.missionName}`);
+        } else {
+            console.warn("[AAO Generator] Einsatzname-Input nicht gefunden");
+        }
+
+        for (let key in aaoValues) {
+            if (aaoValues.hasOwnProperty(key) && key !== "missionName") {
+                const inputName = inputMap[key];
+                if (inputName) {
+                    const inputElement = document.querySelector(`input[name='${inputName}']`);
+                    if (inputElement) {
+                        setNativeInputValue(inputElement, aaoValues[key]);
+                        console.log(`[AAO Generator] Feld gesetzt: ${key} (${inputName}) = ${aaoValues[key]}`);
+                    } else {
+                        console.warn(`[AAO Generator] Kein Input-Feld gefunden für: ${key} (${inputName})`);
                     }
+                } else {
+                    console.warn(`[AAO Generator] Keine Zuordnung für Schlüssel: ${key}`);
                 }
             }
+        }
 
-            // Zusätzliche Logik für LNA und OrgL basierend auf Patientenanzahl
-            var patienten = parseInt(aaoValues["Maximale Patientenanzahl"]) || 0;
+        // LNA & OrgL je nach Patientenanzahl
+        const patienten = parseInt(aaoValues["Maximale Patientenanzahl"]) || 0;
+       // console.log(`[AAO Generator] Maximale Patientenanzahl: ${patienten}`);
 
-            if (patienten > 9) {
-                var orglInput = document.querySelector(`input[name='${inputMap["Benötigte OrgL"]}']`);
-                if (orglInput) orglInput.value = 1;
-
-                var lnaInput = document.querySelector(`input[name='${inputMap["Benötigte LNA"]}']`);
-                if (lnaInput) lnaInput.value = 1;
-            } else if (patienten > 4) {
-                var lnaInputOnly = document.querySelector(`input[name='${inputMap["Benötigte LNA"]}']`);
-                if (lnaInputOnly) lnaInputOnly.value = 1;
+        if (patienten > 9) {
+            const orgl = document.querySelector("input[name='aao[orgl]']");
+            if (orgl) {
+                setNativeInputValue(orgl, 1);
+                //console.log("[AAO Generator] OrgL gesetzt (1)");
             }
 
-            // Nach dem Einfügen der Werte aus dem Local Storage entfernen
-            localStorage.removeItem("aaoValues");
+            const lna = document.querySelector("input[name='aao[lna]']");
+            if (lna) {
+                setNativeInputValue(lna, 1);
+                //console.log("[AAO Generator] LNA gesetzt (1)");
+            }
+        } else if (patienten > 4) {
+            const lnaOnly = document.querySelector("input[name='aao[lna]']");
+            if (lnaOnly) {
+                setNativeInputValue(lnaOnly, 1);
+                //console.log("[AAO Generator] LNA gesetzt (1)");
+            }
         }
+
+        localStorage.removeItem("aaoValues");
+        //console.log("[AAO Generator] Lokale Werte gelöscht nach Übertragung");
     }
 
-    // Überprüfen, auf welcher Seite das Skript ausgeführt wird
     if (window.location.href.includes("https://www.leitstellenspiel.de/einsaetze/")) {
+        //console.log("[AAO Generator] Einsatzseite erkannt");
         addButton();
     } else if (window.location.href === "https://www.leitstellenspiel.de/aaos/new") {
+        //console.log("[AAO Generator] AAO-Erstellungsseite erkannt");
         fillAAOValues();
     }
 })();
