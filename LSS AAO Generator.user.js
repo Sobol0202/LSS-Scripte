@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS AAO Generator
-// @version      1.8
+// @version      1.9
 // @description  Fügt einen Button ein, um einen neuen AAO Eintrag zu erzeugen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/einsaetze/*
@@ -192,7 +192,7 @@
                 "Benötigte leBefKw": "aao[lebefkw]", //Leichter Befehlskraftwagen (leBefKw)
                 "Benötigte FüKW (Polizei)": "aao[fukw]", //FüKW (Führungskraftwagen - Polizei)
                 "Benötigte GruKw": "aao[grukw]", //GruKw (Gruppenkraftwagen)
-                "Benötigte GefJw": "aao[gefkw]", //GefKw (Gefangenenkraftwagen)
+                "Benötigte GefKw": "aao[gefkw]", //GefKw (Gefangenenkraftwagen)
                 "Benötigte Polizeihubschrauber": "aao[polizeihubschrauber]", //Polizeihubschrauber
                 "Benötigte Wasserwerfer": "aao[wasserwerfer]", //Wasserwerfer
                 "Benötigte SEK-Fahrzeuge": "aao[sek_zf]", //SEK - ZF
