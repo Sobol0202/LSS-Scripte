@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Leitstellenweise Gebäude Leitstellenzuweisung
-// @version      1.0
+// @version      1.1
 // @description  Ermöglicht das verschieben aller Gebäude einer bestimmten Leitstelle in eine andere Leitstelle.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
@@ -76,7 +76,12 @@
         const select2 = document.createElement('select');
         styleDropdown(select2);
 
-        leitstellen.forEach(ls => {
+        // Leitstellen alphabetisch sortieren (nach caption)
+        const sortedLeitstellen = [...leitstellen].sort((a, b) =>
+        a.caption.localeCompare(b.caption, 'de', { sensitivity: 'base' })
+        );
+
+        sortedLeitstellen.forEach(ls => {
             const option1 = document.createElement('option');
             option1.value = ls.id;
             option1.textContent = `${ls.caption} (ID: ${ls.id})`;
