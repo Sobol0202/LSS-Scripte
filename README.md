@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 182 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 183 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -94,6 +94,7 @@ Sollten die Skripte nicht funktionieren:
 - EinsatzID in Mögliche Einsätze
 - Einsatzlistenpfeile im Dark Mode Weiß
 - Einsatz-Notizen
+- Einsatzlisten frei sortierbar
 - Einsatznummern in Einsatzliste
 - Einsatzzahl begrenzen
 - export_Allicance_to_csv
