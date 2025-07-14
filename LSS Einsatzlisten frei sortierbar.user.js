@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Einsatzlisten frei sortierbar.u
+// @name         Einsatzlisten frei sortierbar
 // @namespace    www.leitstellenspiel.de
 // @version      1.0
 // @description  Erlaubt das einfache Festlegen der Reihenfolge der Einsatzlisten
