@@ -1,0 +1,2349 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="54.169217" lon="9.0862107"><name>Heide-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10637
+TMC:cid_58:tabcd_1:NextLocationCode=10638
+TMC:cid_58:tabcd_1:PrevLocationCode=44674
+highway=motorway_junction
+name=Heide-Süd
+ref=3
+id=node/131407</desc></wpt><wpt lat="53.9601325" lon="9.4911912"><name>Itzehoe-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10632
+TMC:cid_58:tabcd_1:NextLocationCode=44672
+TMC:cid_58:tabcd_1:PrevLocationCode=10631
+highway=motorway_junction
+name=Itzehoe-Nord
+ref=8
+id=node/131464</desc></wpt><wpt lat="53.879193" lon="10.6606136"><name>Lübeck-Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10156
+TMC:cid_58:tabcd_1:NextLocationCode=10157
+TMC:cid_58:tabcd_1:PrevLocationCode=10155
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Lübeck-Zentrum
+ref=22
+id=node/147826</desc></wpt><wpt lat="53.9044726" lon="10.6851287"><name>Bad Schwartau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10157
+TMC:cid_58:tabcd_1:NextLocationCode=10158
+TMC:cid_58:tabcd_1:PrevLocationCode=10156
+highway=motorway_junction
+name=Bad Schwartau
+ref=21
+id=node/147848</desc></wpt><wpt lat="53.9064901" lon="10.6874308"><name>Bad Schwartau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10157
+TMC:cid_58:tabcd_1:NextLocationCode=10158
+TMC:cid_58:tabcd_1:PrevLocationCode=10156
+highway=motorway_junction
+name=Bad Schwartau
+ref=21
+id=node/147851</desc></wpt><wpt lat="53.9140762" lon="10.7077904"><name>Dreieck Bad Schwartau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10158
+TMC:cid_58:tabcd_1:NextLocationCode=10159
+TMC:cid_58:tabcd_1:PrevLocationCode=10157
+highway=motorway_junction
+name=Dreieck Bad Schwartau
+ref=20
+id=node/147870</desc></wpt><wpt lat="53.9520902" lon="10.7474158"><name>Ratekau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10160
+TMC:cid_58:tabcd_1:NextLocationCode=10161
+TMC:cid_58:tabcd_1:PrevLocationCode=44654
+highway=motorway_junction
+name=Ratekau
+ref=18
+id=node/147896</desc></wpt><wpt lat="53.8191209" lon="10.4833325"><name>Raststätte Trave</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10152
+TMC:cid_58:tabcd_1:NextLocationCode=10153
+TMC:cid_58:tabcd_1:PrevLocationCode=44653
+highway=motorway_junction
+name=Raststätte Trave
+noref=yes
+id=node/147939</desc></wpt><wpt lat="53.7863317" lon="10.4199559"><name>Bad Oldesloe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10151
+TMC:cid_58:tabcd_1:NextLocationCode=44653
+TMC:cid_58:tabcd_1:PrevLocationCode=10150
+highway=motorway_junction
+name=Bad Oldesloe
+ref=26
+id=node/147958</desc></wpt><wpt lat="53.6908324" lon="10.3206709"><name>Raststätte Buddikate Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10149
+TMC:cid_58:tabcd_1:NextLocationCode=10150
+TMC:cid_58:tabcd_1:PrevLocationCode=10148
+highway=motorway_junction
+name=Raststätte Buddikate Ost
+noref=yes
+id=node/147992</desc></wpt><wpt lat="53.6180795" lon="10.2340809"><name>Stapelfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10147
+TMC:cid_58:tabcd_1:NextLocationCode=44649
+TMC:cid_58:tabcd_1:PrevLocationCode=55014
+highway=motorway_junction
+name=Stapelfeld
+ref=29
+id=node/148040</desc></wpt><wpt lat="54.0551396" lon="10.7369359"><name>Eutin</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10163
+TMC:cid_58:tabcd_1:NextLocationCode=10164
+TMC:cid_58:tabcd_1:PrevLocationCode=10162
+highway=motorway_junction
+name=Eutin
+ref=15
+id=node/148297</desc></wpt><wpt lat="54.0966477" lon="10.7775282"><name>Neustadt/Holstein - Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10165
+TMC:cid_58:tabcd_1:NextLocationCode=10166
+TMC:cid_58:tabcd_1:PrevLocationCode=10164
+highway=motorway_junction
+name=Neustadt/Holstein - Mitte
+ref=14
+id=node/148311</desc></wpt><wpt lat="54.1562956" lon="10.8574563"><name>Rastplatz Hasselburger Mühle</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44655
+TMC:cid_58:tabcd_1:NextLocationCode=10167
+TMC:cid_58:tabcd_1:PrevLocationCode=10166
+highway=motorway_junction
+name=Rastplatz Hasselburger Mühle
+noref=yes
+id=node/148334</desc></wpt><wpt lat="53.7140708" lon="9.9391066"><name>Raststätte Holmmoor Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12385
+TMC:cid_58:tabcd_1:NextLocationCode=12386
+TMC:cid_58:tabcd_1:PrevLocationCode=12384
+highway=motorway_junction
+name=Raststätte Holmmoor Ost
+noref=yes
+id=node/355764</desc></wpt><wpt lat="54.0422709" lon="9.9300229"><name>Neumünster-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12393
+TMC:cid_58:tabcd_1:NextLocationCode=12394
+TMC:cid_58:tabcd_1:PrevLocationCode=12392
+highway=motorway_junction
+name=Neumünster-Süd
+ref=15
+id=node/490887</desc></wpt><wpt lat="54.0042933" lon="9.9331422"><name>Großenaspe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12391
+TMC:cid_58:tabcd_1:NextLocationCode=12392
+TMC:cid_58:tabcd_1:PrevLocationCode=44611
+highway=motorway_junction
+name=Großenaspe
+ref=16
+id=node/490900</desc></wpt><wpt lat="53.9038741" lon="9.936892"><name>Bad Bramstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12390
+TMC:cid_58:tabcd_1:NextLocationCode=44610
+TMC:cid_58:tabcd_1:PrevLocationCode=12389
+highway=motorway_junction
+name=Bad Bramstedt
+ref=17
+id=node/490934</desc></wpt><wpt lat="53.8507861" lon="9.9375786"><name>Kaltenkirchen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12389
+TMC:cid_58:tabcd_1:NextLocationCode=12390
+TMC:cid_58:tabcd_1:PrevLocationCode=44608
+highway=motorway_junction
+name=Kaltenkirchen
+ref=18
+id=node/490960</desc></wpt><wpt lat="53.8225484" lon="9.9230116"><name>Rastplatz Moorkaten</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=44608
+TMC:cid_58:tabcd_1:NextLocationCode=12389
+TMC:cid_58:tabcd_1:PrevLocationCode=12388
+highway=motorway_junction
+name=Rastplatz Moorkaten
+noref=yes
+id=node/490971</desc></wpt><wpt lat="53.8062313" lon="9.9275412"><name>Henstedt-Ulzburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12388
+TMC:cid_58:tabcd_1:NextLocationCode=44608
+TMC:cid_58:tabcd_1:PrevLocationCode=12386
+highway=motorway_junction
+name=Henstedt-Ulzburg
+ref=19
+id=node/490978</desc></wpt><wpt lat="53.7438713" lon="9.94768"><name>Quickborn</name><desc>highway=motorway_junction
+name=Quickborn
+ref=21
+id=node/491011</desc></wpt><wpt lat="53.7414139" lon="9.94692"><name>Quickborn</name><desc>ele=27.54
+highway=motorway_junction
+name=Quickborn
+ref=21
+time=2003-09-18T19:49:24Z
+id=node/496188</desc></wpt><wpt lat="53.8485348" lon="9.9359693"><name>Kaltenkirchen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12389
+TMC:cid_58:tabcd_1:NextLocationCode=12390
+TMC:cid_58:tabcd_1:PrevLocationCode=44608
+highway=motorway_junction
+name=Kaltenkirchen
+ref=18
+id=node/496265</desc></wpt><wpt lat="54.0004307" lon="9.9347097"><name>Großenaspe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12391
+TMC:cid_58:tabcd_1:NextLocationCode=12392
+TMC:cid_58:tabcd_1:PrevLocationCode=44611
+highway=motorway_junction
+name=Großenaspe
+ref=16
+id=node/496341</desc></wpt><wpt lat="54.0100935" lon="9.9321622"><name>Raststätte Brokenlande</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12392
+TMC:cid_58:tabcd_1:NextLocationCode=12393
+TMC:cid_58:tabcd_1:PrevLocationCode=12391
+highway=motorway_junction
+name=Raststätte Brokenlande
+id=node/496356</desc></wpt><wpt lat="54.042008" lon="9.9303653"><name>Neumünster-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12393
+TMC:cid_58:tabcd_1:NextLocationCode=12394
+TMC:cid_58:tabcd_1:PrevLocationCode=12392
+highway=motorway_junction
+name=Neumünster-Süd
+ref=15
+id=node/496368</desc></wpt><wpt lat="54.1801703" lon="9.9491054"><name>Bordesholm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12398
+TMC:cid_58:tabcd_1:NextLocationCode=44613
+TMC:cid_58:tabcd_1:PrevLocationCode=12397
+highway=motorway_junction
+name=Bordesholm
+ref=11
+id=node/496424</desc></wpt><wpt lat="54.4795516" lon="9.5383702"><name>Schleswig / Jagel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12404
+TMC:cid_58:tabcd_1:NextLocationCode=44619
+TMC:cid_58:tabcd_1:PrevLocationCode=44618
+highway=motorway_junction
+name=Schleswig / Jagel
+ref=6
+id=node/496591</desc></wpt><wpt lat="54.7458544" lon="9.3785925"><name>Rastplatz Altholzkrug</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=44623
+TMC:cid_58:tabcd_1:NextLocationCode=44624
+TMC:cid_58:tabcd_1:PrevLocationCode=12407
+highway=motorway_junction
+name=Rastplatz Altholzkrug
+noref=yes
+id=node/496722</desc></wpt><wpt lat="54.7728169" lon="9.3464628"><name>Flensburg / Harrislee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12408
+TMC:cid_58:tabcd_1:NextLocationCode=12409
+TMC:cid_58:tabcd_1:PrevLocationCode=44624
+highway=motorway_junction
+name=Flensburg / Harrislee
+ref=2
+id=node/496741</desc></wpt><wpt lat="54.736555" lon="9.3866202"><name>Flensburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12407
+TMC:cid_58:tabcd_1:NextLocationCode=44623
+TMC:cid_58:tabcd_1:PrevLocationCode=12406
+highway=motorway_junction
+name=Flensburg
+ref=3
+id=node/496785</desc></wpt><wpt lat="54.4849245" lon="9.530996"><name>Schleswig / Jagel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12404
+TMC:cid_58:tabcd_1:NextLocationCode=44619
+TMC:cid_58:tabcd_1:PrevLocationCode=44618
+highway=motorway_junction
+name=Schleswig / Jagel
+ref=6
+id=node/496904</desc></wpt><wpt lat="54.3482949" lon="9.6976394"><name>Rendsburg / Büdelsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12401
+TMC:cid_58:tabcd_1:NextLocationCode=12402
+TMC:cid_58:tabcd_1:PrevLocationCode=44555
+highway=motorway_junction
+name=Rendsburg / Büdelsdorf
+ref=8
+id=node/496978</desc></wpt><wpt lat="54.3091952" lon="9.7513448"><name>Kreuz Rendsburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12400
+TMC:cid_58:tabcd_1:NextLocationCode=44616
+TMC:cid_58:tabcd_1:PrevLocationCode=44615
+highway=motorway_junction
+name=Kreuz Rendsburg
+ref=9
+id=node/497014</desc></wpt><wpt lat="54.1820334" lon="9.9459106"><name>Bordesholm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12398
+TMC:cid_58:tabcd_1:NextLocationCode=44613
+TMC:cid_58:tabcd_1:PrevLocationCode=12397
+highway=motorway_junction
+name=Bordesholm
+ref=11
+id=node/497075</desc></wpt><wpt lat="54.0950409" lon="9.9327013"><name>Raststätte Aalbek</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12395
+TMC:cid_58:tabcd_1:NextLocationCode=12396
+TMC:cid_58:tabcd_1:PrevLocationCode=12394
+highway=motorway_junction
+name=Raststätte Aalbek
+id=node/497116</desc></wpt><wpt lat="54.772523" lon="9.3464843"><name>Flensburg / Harrislee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12408
+TMC:cid_58:tabcd_1:NextLocationCode=12409
+TMC:cid_58:tabcd_1:PrevLocationCode=44624
+highway=motorway_junction
+name=Flensburg / Harrislee
+ref=2
+id=node/628796</desc></wpt><wpt lat="53.7843233" lon="10.7050314"><name>Lübeck-Süd</name><desc>highway=motorway_junction
+name=Lübeck-Süd
+ref=2b
+zone:traffic=DE:rural
+id=node/1219988</desc></wpt><wpt lat="53.7915694" lon="10.753081"><name>Groß Sarau</name><desc>highway=motorway_junction
+name=Groß Sarau
+ref=3
+zone:traffic=DE:rural
+id=node/1219993</desc></wpt><wpt lat="53.8473262" lon="10.6008673"><name>Kreuz Lübeck</name><desc>highway=motorway_junction
+name=Kreuz Lübeck
+ref=1
+zone:traffic=DE:rural
+id=node/1221959</desc></wpt><wpt lat="53.8467305" lon="10.5864991"><name>Kreuz Lübeck</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10154
+TMC:cid_58:tabcd_1:NextLocationCode=10155
+TMC:cid_58:tabcd_1:PrevLocationCode=10153
+highway=motorway_junction
+name=Kreuz Lübeck
+ref=24
+id=node/5076642</desc></wpt><wpt lat="53.9319432" lon="10.8275978"><name>Lübeck-Ivendorf (Skandinavienkai)</name><desc>highway=motorway_junction
+name=Lübeck-Ivendorf (Skandinavienkai)
+id=node/5079272</desc></wpt><wpt lat="53.9132061" lon="10.7970468"><name>Lübeck-Kücknitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25086
+TMC:cid_58:tabcd_1:NextLocationCode=25087
+TMC:cid_58:tabcd_1:PrevLocationCode=25085
+highway=motorway_junction
+name=Lübeck-Kücknitz
+id=node/5080054</desc></wpt><wpt lat="53.9644481" lon="10.8433282"><name>Lübeck-Travemünde</name><desc>highway=motorway_junction
+name=Lübeck-Travemünde
+id=node/5082801</desc></wpt><wpt lat="53.7929257" lon="10.756966"><name>Groß Sarau</name><desc>highway=motorway_junction
+name=Groß Sarau
+ref=3
+zone:traffic=DE:rural
+id=node/8667412</desc></wpt><wpt lat="53.613316" lon="10.2325997"><name>Stapelfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10147
+TMC:cid_58:tabcd_1:NextLocationCode=44649
+TMC:cid_58:tabcd_1:PrevLocationCode=55014
+highway=motorway_junction
+name=Stapelfeld
+ref=29
+id=node/13330945</desc></wpt><wpt lat="53.6355707" lon="10.2582422"><name>Rastplatz Ohlendiek</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44650
+TMC:cid_58:tabcd_1:NextLocationCode=10148
+TMC:cid_58:tabcd_1:PrevLocationCode=44649
+highway=motorway_junction
+name=Rastplatz Ohlendiek
+noref=yes
+note:tmc=Parkplatz Ohlendiek
+id=node/13330959</desc></wpt><wpt lat="53.7826503" lon="10.4155266"><name>Bad Oldesloe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10151
+TMC:cid_58:tabcd_1:NextLocationCode=44653
+TMC:cid_58:tabcd_1:PrevLocationCode=10150
+highway=motorway_junction
+name=Bad Oldesloe
+ref=26
+id=node/13331995</desc></wpt><wpt lat="53.8034006" lon="10.4517441"><name>Rastplatz Melmshöhe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44653
+TMC:cid_58:tabcd_1:NextLocationCode=10152
+TMC:cid_58:tabcd_1:PrevLocationCode=10151
+highway=motorway_junction
+name=Rastplatz Melmshöhe
+noref=yes
+id=node/13332002</desc></wpt><wpt lat="53.9070154" lon="10.7801034"><name>Lübeck-Siems</name><desc>highway=motorway_junction
+name=Lübeck-Siems
+ref=3
+id=node/13345651</desc></wpt><wpt lat="53.8963325" lon="10.7463211"><name>Lübeck-Israelsdorf</name><desc>highway=motorway_junction
+name=Lübeck-Israelsdorf
+id=node/13346161</desc></wpt><wpt lat="54.3591489" lon="10.9610045"><name>Heiligenhafen - Mitte</name><desc>highway=motorway_junction
+name=Heiligenhafen - Mitte
+ref=6
+id=node/14791626</desc></wpt><wpt lat="53.6279429" lon="9.8744135"><name>Halstenbek-Krupunder</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10620
+TMC:cid_58:tabcd_1:NextLocationCode=10621
+TMC:cid_58:tabcd_1:PrevLocationCode=10619
+highway=motorway_junction
+name=Halstenbek-Krupunder
+ref=20
+id=node/20696491</desc></wpt><wpt lat="53.6481758" lon="9.8252596"><name>Pinneberg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10622
+TMC:cid_58:tabcd_1:NextLocationCode=10623
+TMC:cid_58:tabcd_1:PrevLocationCode=10621
+highway=motorway_junction
+name=Pinneberg-Süd
+ref=18
+id=node/20696555</desc></wpt><wpt lat="53.6488978" lon="9.8239619"><name>Pinneberg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10622
+TMC:cid_58:tabcd_1:NextLocationCode=10623
+TMC:cid_58:tabcd_1:PrevLocationCode=10621
+highway=motorway_junction
+layer=1
+name=Pinneberg-Süd
+ref=18
+id=node/20696643</desc></wpt><wpt lat="53.7198439" lon="9.9386391"><name>Raststätte Holmmoor</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12385
+TMC:cid_58:tabcd_1:NextLocationCode=12386
+TMC:cid_58:tabcd_1:PrevLocationCode=12384
+highway=motorway_junction
+name=Raststätte Holmmoor
+noref=yes
+id=node/20842328</desc></wpt><wpt lat="53.930592" lon="10.7297693"><name>Rastplatz Sereetzer Feld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44654
+TMC:cid_58:tabcd_1:NextLocationCode=10160
+TMC:cid_58:tabcd_1:PrevLocationCode=10159
+highway=motorway_junction
+name=Rastplatz Sereetzer Feld
+noref=yes
+id=node/21032589</desc></wpt><wpt lat="54.3776687" lon="10.1316506"><name>Kiel-Holtenau</name><desc>check_date=2024-04-15
+highway=motorway_junction
+name=Kiel-Holtenau
+id=node/21276224</desc></wpt><wpt lat="54.1686828" lon="9.9605161"><name>Dreieck Bordesholm</name><desc>highway=motorway_junction
+name=Dreieck Bordesholm
+ref=12
+wikidata=Q328565
+id=node/21310386</desc></wpt><wpt lat="54.5243555" lon="9.488256"><name>Schleswig / Schuby</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12405
+TMC:cid_58:tabcd_1:NextLocationCode=44620
+TMC:cid_58:tabcd_1:PrevLocationCode=44619
+highway=motorway_junction
+name=Schleswig / Schuby
+ref=5
+id=node/21310978</desc></wpt><wpt lat="53.5178033" lon="10.816997"><name>Raststätte Gudow</name><desc>TMC:cid_58:tabcd_1:LocationCode=10648
+highway=motorway_junction
+name=Raststätte Gudow
+noref=yes
+id=node/21372199</desc></wpt><wpt lat="53.5629131" lon="10.1527725"><name>Kreuz Hamburg-Ost</name><desc>highway=motorway_junction
+layer=1
+name=Kreuz Hamburg-Ost
+ref=3
+id=node/21377822</desc></wpt><wpt lat="53.5611645" lon="10.1668713"><name>Kreuz Hamburg-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10642
+TMC:cid_58:tabcd_1:NextLocationCode=10643
+TMC:cid_58:tabcd_1:PrevLocationCode=10641
+highway=motorway_junction
+name=Kreuz Hamburg-Ost
+ref=3
+id=node/21377826</desc></wpt><wpt lat="53.5579878" lon="10.2203718"><name>Reinbek</name><desc>highway=motorway_junction
+name=Reinbek
+ref=4
+id=node/21378012</desc></wpt><wpt lat="53.5680996" lon="10.2995336"><name>Rastplatz Hahnenkoppel</name><desc>highway=motorway_junction
+name=Rastplatz Hahnenkoppel
+noref=yes
+id=node/21378079</desc></wpt><wpt lat="53.5222978" lon="10.798452"><name>Raststätte Gudow</name><desc>TMC:cid_58:tabcd_1:LocationCode=10648
+highway=motorway_junction
+name=Raststätte Gudow
+noref=yes
+id=node/21378240</desc></wpt><wpt lat="54.3726539" lon="10.1258359"><name>Kiel-Holtenau</name><desc>highway=motorway_junction
+name=Kiel-Holtenau
+id=node/21430317</desc></wpt><wpt lat="53.5753781" lon="10.1988985"><name>Barsbüttel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=55014
+TMC:cid_58:tabcd_1:NextLocationCode=10147
+TMC:cid_58:tabcd_1:PrevLocationCode=10145
+highway=motorway_junction
+name=Barsbüttel
+ref=30
+id=node/21478149</desc></wpt><wpt lat="54.3444879" lon="10.118719"><name>Kiel-Stadion</name><desc>highway=motorway_junction
+name=Kiel-Stadion
+id=node/21524464</desc></wpt><wpt lat="54.3332275" lon="10.1079758"><name>Kronshagen-Nord</name><desc>highway=motorway_junction
+name=Kronshagen-Nord
+id=node/21524470</desc></wpt><wpt lat="54.3300182" lon="10.1010794"><name>Kronshagen-Süd</name><desc>highway=motorway_junction
+name=Kronshagen-Süd
+id=node/21524490</desc></wpt><wpt lat="54.326032" lon="10.0981436"><name>Kronshagen-Süd</name><desc>highway=motorway_junction
+name=Kronshagen-Süd
+id=node/21524521</desc></wpt><wpt lat="53.4568514" lon="10.3294884"><name>Geesthacht</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10681
+TMC:cid_58:tabcd_1:PrevLocationCode=10680
+highway=motorway_junction
+name=Geesthacht
+ref=7
+id=node/21560170</desc></wpt><wpt lat="53.8610664" lon="10.6188115"><name>Lübeck-Moisling</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10155
+TMC:cid_58:tabcd_1:NextLocationCode=10156
+TMC:cid_58:tabcd_1:PrevLocationCode=10154
+highway=motorway_junction
+name=Lübeck-Moisling
+ref=23
+id=node/21753854</desc></wpt><wpt lat="53.8855904" lon="10.6662392"><name>Lübeck-Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10156
+TMC:cid_58:tabcd_1:NextLocationCode=10157
+TMC:cid_58:tabcd_1:PrevLocationCode=10155
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Lübeck-Zentrum
+ref=22
+id=node/21826513</desc></wpt><wpt lat="53.8536111" lon="10.6010742"><name>Kreuz Lübeck</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10154
+TMC:cid_58:tabcd_1:NextLocationCode=10155
+TMC:cid_58:tabcd_1:PrevLocationCode=10153
+highway=motorway_junction
+name=Kreuz Lübeck
+ref=24
+id=node/21919792</desc></wpt><wpt lat="54.0416584" lon="9.9659332"><name>Neumünster-Wittorf West</name><desc>highway=motorway_junction
+name=Neumünster-Wittorf West
+id=node/24605071</desc></wpt><wpt lat="54.0418099" lon="9.9624533"><name>Neumünster-Wittorf West</name><desc>highway=motorway_junction
+name=Neumünster-Wittorf West
+id=node/24605093</desc></wpt><wpt lat="54.0151759" lon="10.1622301"><name>Rickling</name><desc>highway=motorway_junction
+name=Rickling
+id=node/24964452</desc></wpt><wpt lat="54.0154098" lon="10.1603805"><name>Rickling</name><desc>highway=motorway_junction
+name=Rickling
+id=node/24964489</desc></wpt><wpt lat="54.0147799" lon="10.1645431"><name>Rickling</name><desc>highway=motorway_junction
+name=Rickling
+id=node/24964493</desc></wpt><wpt lat="53.9886005" lon="10.1876626"><name>Rickling-Fehrenbötel</name><desc>highway=motorway_junction
+name=Rickling-Fehrenbötel
+id=node/24964606</desc></wpt><wpt lat="54.0367994" lon="10.0304725"><name>Neumünster-Gadeland</name><desc>highway=motorway_junction
+name=Neumünster-Gadeland
+id=node/24964696</desc></wpt><wpt lat="53.9714998" lon="10.2331713"><name>Wahlstedt</name><desc>highway=motorway_junction
+name=Wahlstedt
+id=node/24964710</desc></wpt><wpt lat="53.9467488" lon="10.7474659"><name>Ratekau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10160
+TMC:cid_58:tabcd_1:NextLocationCode=10161
+TMC:cid_58:tabcd_1:PrevLocationCode=44654
+highway=motorway_junction
+name=Ratekau
+ref=18
+id=node/25231187</desc></wpt><wpt lat="53.9099884" lon="10.7873541"><name>Lübeck-Siems</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10617
+TMC:cid_58:tabcd_1:PrevLocationCode=10616
+highway=motorway_junction
+name=Lübeck-Siems
+ref=3
+id=node/25231300</desc></wpt><wpt lat="53.8958022" lon="10.7448951"><name>Lübeck-Israelsdorf</name><desc>highway=motorway_junction
+name=Lübeck-Israelsdorf
+id=node/25231341</desc></wpt><wpt lat="53.7443733" lon="10.320897"><name>Tremsbüttel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44706
+TMC:cid_58:tabcd_1:NextLocationCode=44705
+TMC:cid_58:tabcd_1:PrevLocationCode=44504
+highway=motorway_junction
+name=Tremsbüttel
+ref=18
+id=node/25274679</desc></wpt><wpt lat="53.9219586" lon="10.3371985"><name>Bad Segeberg-Ost</name><desc>highway=motorway_junction
+name=Bad Segeberg-Ost
+id=node/25415365</desc></wpt><wpt lat="53.923364" lon="10.330559"><name>Bad Segeberg-Ost</name><desc>highway=motorway_junction
+name=Bad Segeberg-Ost
+id=node/25415399</desc></wpt><wpt lat="53.5617394" lon="10.1700887"><name>Kreuz Hamburg-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10642
+TMC:cid_58:tabcd_1:NextLocationCode=10643
+TMC:cid_58:tabcd_1:PrevLocationCode=10641
+highway=motorway_junction
+name=Kreuz Hamburg-Ost
+ref=3
+id=node/26727151</desc></wpt><wpt lat="53.5628215" lon="10.1786743"><name>Kreuz Hamburg-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10145
+TMC:cid_58:tabcd_1:NextLocationCode=55014
+TMC:cid_58:tabcd_1:PrevLocationCode=10144
+highway=motorway_junction
+name=Kreuz Hamburg-Ost
+ref=31
+id=node/26727152</desc></wpt><wpt lat="53.8293471" lon="10.6482221"><name>Lübeck-Genin</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10550
+TMC:cid_58:tabcd_1:NextLocationCode=49331
+TMC:cid_58:tabcd_1:PrevLocationCode=10549
+highway=motorway_junction
+name=Lübeck-Genin
+ref=2a
+zone:traffic=DE:rural
+id=node/27138528</desc></wpt><wpt lat="54.8327521" lon="9.4137047"><name>Wassersleben</name><desc>highway=motorway_junction
+name=Wassersleben
+id=node/29123719</desc></wpt><wpt lat="53.6472693" lon="10.7040003"><name>Mölln</name><desc>highway=motorway_junction
+name=Mölln
+id=node/29378278</desc></wpt><wpt lat="54.0676021" lon="9.9227126"><name>Neumünster-Mitte</name><desc>highway=motorway_junction
+name=Neumünster-Mitte
+ref=14
+id=node/30003702</desc></wpt><wpt lat="54.3748467" lon="10.0570299"><name>Neuwittenbek/Altenholz</name><desc>highway=motorway_junction
+name=Neuwittenbek/Altenholz
+id=node/30036366</desc></wpt><wpt lat="54.3753059" lon="10.0544955"><name>Neuwittenbek/Altenholz</name><desc>highway=motorway_junction
+name=Neuwittenbek/Altenholz
+id=node/30036562</desc></wpt><wpt lat="54.3371625" lon="10.1117203"><name>Kronshagen-Nord</name><desc>highway=motorway_junction
+name=Kronshagen-Nord
+id=node/30037011</desc></wpt><wpt lat="53.9320118" lon="10.7310777"><name>Rastplatz Sereetzer Feld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44654
+TMC:cid_58:tabcd_1:NextLocationCode=10160
+TMC:cid_58:tabcd_1:PrevLocationCode=10159
+highway=motorway_junction
+name=Rastplatz Sereetzer Feld
+noref=yes
+id=node/30064233</desc></wpt><wpt lat="54.003483" lon="10.7296851"><name>Pansdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10161
+TMC:cid_58:tabcd_1:NextLocationCode=10162
+TMC:cid_58:tabcd_1:PrevLocationCode=10160
+highway=motorway_junction
+name=Pansdorf
+ref=17
+id=node/30064292</desc></wpt><wpt lat="54.0921394" lon="10.7735426"><name>Neustadt/Holstein - Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10165
+TMC:cid_58:tabcd_1:NextLocationCode=10166
+TMC:cid_58:tabcd_1:PrevLocationCode=10164
+highway=motorway_junction
+name=Neustadt/Holstein - Mitte
+ref=14
+id=node/30064361</desc></wpt><wpt lat="53.9169766" lon="9.2570043"><name>node/30860415</name><desc>highway=motorway_junction
+id=node/30860415</desc></wpt><wpt lat="54.1235108" lon="10.2185199"><name>Wankendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44502
+TMC:cid_58:tabcd_1:NextLocationCode=44503
+TMC:cid_58:tabcd_1:PrevLocationCode=44501
+highway=motorway_junction
+name=Wankendorf
+ref=7
+id=node/30939838</desc></wpt><wpt lat="54.275233" lon="10.1438304"><name>Kiel-Wellseedamm</name><desc>highway=motorway_junction
+name=Kiel-Wellseedamm
+id=node/30939916</desc></wpt><wpt lat="53.6412976" lon="10.2737613"><name>Ahrensburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10148
+TMC:cid_58:tabcd_1:NextLocationCode=10149
+TMC:cid_58:tabcd_1:PrevLocationCode=44650
+highway=motorway_junction
+name=Ahrensburg
+ref=28
+id=node/31355034</desc></wpt><wpt lat="53.8948393" lon="9.5170166"><name>Itzehoe-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10630
+TMC:cid_58:tabcd_1:NextLocationCode=49329
+TMC:cid_58:tabcd_1:PrevLocationCode=10629
+highway=motorway_junction
+name=Itzehoe-Süd
+ref=10
+id=node/31630950</desc></wpt><wpt lat="54.0526976" lon="10.7343373"><name>Eutin</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10163
+TMC:cid_58:tabcd_1:NextLocationCode=10164
+TMC:cid_58:tabcd_1:PrevLocationCode=10162
+highway=motorway_junction
+name=Eutin
+ref=15
+id=node/32821364</desc></wpt><wpt lat="54.2935155" lon="10.1273109"><name>Molfsee</name><desc>highway=motorway_junction
+name=Molfsee
+id=node/32922954</desc></wpt><wpt lat="54.3009621" lon="10.1261878"><name>Kiel-Barkauer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=23345
+TMC:cid_58:tabcd_1:PrevLocationCode=49270
+highway=motorway_junction
+name=Kiel-Barkauer Kreuz
+id=node/32923023</desc></wpt><wpt lat="54.3032659" lon="10.1337878"><name>Joachimsplatz</name><desc>highway=motorway_junction
+name=Joachimsplatz
+id=node/32923030</desc></wpt><wpt lat="54.3019036" lon="10.1413758"><name>Kiel-Ostring</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=25098
+TMC:cid_58:tabcd_1:NextLocationCode=57725
+TMC:cid_58:tabcd_1:PrevLocationCode=44781
+highway=motorway_junction
+name=Kiel-Ostring
+id=node/32923036</desc></wpt><wpt lat="54.2962622" lon="10.1794985"><name>Kiel-Elmschenhagen-Mitte</name><desc>highway=motorway_junction
+name=Kiel-Elmschenhagen-Mitte
+id=node/32923064</desc></wpt><wpt lat="53.92433" lon="9.1549602"><name>node/33106670</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=24027
+TMC:cid_58:tabcd_1:NextLocationCode=44748
+TMC:cid_58:tabcd_1:PrevLocationCode=24026
+highway=motorway_junction
+id=node/33106670</desc></wpt><wpt lat="53.9242664" lon="9.1563708"><name>node/33106679</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=24027
+TMC:cid_58:tabcd_1:NextLocationCode=44748
+TMC:cid_58:tabcd_1:PrevLocationCode=24026
+highway=motorway_junction
+id=node/33106679</desc></wpt><wpt lat="54.3032387" lon="10.1310882"><name>Kiel-Barkauer Kreuz</name><desc>highway=motorway_junction
+name=Kiel-Barkauer Kreuz
+id=node/33247899</desc></wpt><wpt lat="54.2789421" lon="10.2474633"><name>Schwentinental-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25097
+TMC:cid_58:tabcd_1:NextLocationCode=44780
+TMC:cid_58:tabcd_1:PrevLocationCode=44579
+highway=motorway_junction
+name=Schwentinental-Süd
+id=node/33412667</desc></wpt><wpt lat="54.1260255" lon="10.8206367"><name>Neustadt / Pelzerhaken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10166
+TMC:cid_58:tabcd_1:NextLocationCode=44655
+TMC:cid_58:tabcd_1:PrevLocationCode=10165
+highway=motorway_junction
+name=Neustadt / Pelzerhaken
+ref=13
+id=node/33517919</desc></wpt><wpt lat="54.1292312" lon="10.8301203"><name>Neustadt / Pelzerhaken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10166
+TMC:cid_58:tabcd_1:NextLocationCode=44655
+TMC:cid_58:tabcd_1:PrevLocationCode=10165
+highway=motorway_junction
+name=Neustadt / Pelzerhaken
+ref=13
+id=node/33517959</desc></wpt><wpt lat="54.29301" lon="10.8708052"><name>Oldenburg/Holstein - Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44657
+TMC:cid_58:tabcd_1:NextLocationCode=44658
+TMC:cid_58:tabcd_1:PrevLocationCode=10168
+highway=motorway_junction
+name=Oldenburg/Holstein - Mitte
+ref=10
+id=node/33519934</desc></wpt><wpt lat="54.3069831" lon="10.9049067"><name>Jahnshof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=49330
+TMC:cid_58:tabcd_1:NextLocationCode=49237
+TMC:cid_58:tabcd_1:PrevLocationCode=44658
+highway=motorway_junction
+name=Jahnshof
+ref=8
+id=node/33519950</desc></wpt><wpt lat="54.2950561" lon="10.8712548"><name>Oldenburg/Holstein - Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44657
+TMC:cid_58:tabcd_1:NextLocationCode=44658
+TMC:cid_58:tabcd_1:PrevLocationCode=10168
+highway=motorway_junction
+name=Oldenburg/Holstein - Mitte
+ref=10
+id=node/33524554</desc></wpt><wpt lat="54.3105915" lon="10.9092939"><name>Jahnshof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=49330
+TMC:cid_58:tabcd_1:NextLocationCode=49237
+TMC:cid_58:tabcd_1:PrevLocationCode=44658
+highway=motorway_junction
+name=Jahnshof
+ref=8
+id=node/33524577</desc></wpt><wpt lat="54.0316918" lon="10.7301777"><name>Scharbeutz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10162
+TMC:cid_58:tabcd_1:NextLocationCode=10163
+TMC:cid_58:tabcd_1:PrevLocationCode=10161
+highway=motorway_junction
+name=Scharbeutz
+ref=16
+id=node/33529098</desc></wpt><wpt lat="54.778043" lon="9.3799234"><name>node/33699543</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25751
+TMC:cid_58:tabcd_1:NextLocationCode=44755
+TMC:cid_58:tabcd_1:PrevLocationCode=25750
+highway=motorway_junction
+id=node/33699543</desc></wpt><wpt lat="54.3588959" lon="10.206558"><name>node/33712457</name><desc>highway=motorway_junction
+id=node/33712457</desc></wpt><wpt lat="54.3043536" lon="10.1210783"><name>Kiel-Hamburger Chaussee</name><desc>highway=motorway_junction
+name=Kiel-Hamburger Chaussee
+id=node/33714834</desc></wpt><wpt lat="54.3154305" lon="10.1060459"><name>Kiel-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10612
+TMC:cid_58:tabcd_1:NextLocationCode=10613
+TMC:cid_58:tabcd_1:PrevLocationCode=10611
+highway=motorway_junction
+name=Kiel-Mitte
+ref=2
+id=node/33774041</desc></wpt><wpt lat="54.3103018" lon="10.0669491"><name>Kreuz Kiel-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10611
+TMC:cid_58:tabcd_1:NextLocationCode=10612
+TMC:cid_58:tabcd_1:PrevLocationCode=44635
+highway=motorway_junction
+name=Kreuz Kiel-West
+ref=3
+id=node/33775175</desc></wpt><wpt lat="54.2239872" lon="10.0108078"><name>Blumenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10609
+TMC:cid_58:tabcd_1:NextLocationCode=44635
+TMC:cid_58:tabcd_1:PrevLocationCode=10608
+highway=motorway_junction
+name=Blumenthal
+ref=4
+id=node/33775201</desc></wpt><wpt lat="54.303526" lon="10.1269403"><name>Kiel-Barkauer Kreuz</name><desc>highway=motorway_junction
+name=Kiel-Barkauer Kreuz
+id=node/34013045</desc></wpt><wpt lat="54.120702" lon="10.2181842"><name>Wankendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44502
+TMC:cid_58:tabcd_1:NextLocationCode=44503
+TMC:cid_58:tabcd_1:PrevLocationCode=44501
+highway=motorway_junction
+name=Wankendorf
+ref=7
+id=node/34013443</desc></wpt><wpt lat="54.1771387" lon="9.9568556"><name>Dreieck Bordesholm</name><desc>highway=motorway_junction
+name=Dreieck Bordesholm
+ref=5
+id=node/34489518</desc></wpt><wpt lat="54.2936593" lon="9.7171463"><name>Schacht-Audorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10602
+TMC:cid_58:tabcd_1:NextLocationCode=10603
+TMC:cid_58:tabcd_1:PrevLocationCode=10601
+highway=motorway_junction
+name=Schacht-Audorf
+ref=2
+id=node/34505442</desc></wpt><wpt lat="54.3029548" lon="9.7462089"><name>Kreuz Rendsburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10603
+TMC:cid_58:tabcd_1:NextLocationCode=10604
+TMC:cid_58:tabcd_1:PrevLocationCode=10602
+highway=motorway_junction
+name=Kreuz Rendsburg
+ref=3
+id=node/34505744</desc></wpt><wpt lat="54.3455693" lon="9.7030584"><name>Rendsburg / Büdelsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12401
+TMC:cid_58:tabcd_1:NextLocationCode=12402
+TMC:cid_58:tabcd_1:PrevLocationCode=44555
+highway=motorway_junction
+name=Rendsburg / Büdelsdorf
+ref=8
+id=node/34575493</desc></wpt><wpt lat="54.3084491" lon="10.1120407"><name>Kiel-Winterbeker Weg</name><desc>highway=motorway_junction
+name=Kiel-Winterbeker Weg
+id=node/35525358</desc></wpt><wpt lat="54.3622034" lon="10.1223493"><name>Wiker Knoten</name><desc>highway=motorway_junction
+name=Wiker Knoten
+id=node/39395414</desc></wpt><wpt lat="54.3526889" lon="10.1197778"><name>Kiel-Stadion</name><desc>highway=motorway_junction
+name=Kiel-Stadion
+id=node/39399252</desc></wpt><wpt lat="54.7975896" lon="9.4094548"><name>Duburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25866
+TMC:cid_58:tabcd_1:NextLocationCode=25867
+TMC:cid_58:tabcd_1:PrevLocationCode=25865
+highway=motorway_junction
+name=Duburg
+id=node/41313197</desc></wpt><wpt lat="54.7790592" lon="9.4073425"><name>Flensburg-Zentrum</name><desc>highway=motorway_junction
+name=Flensburg-Zentrum
+id=node/41313347</desc></wpt><wpt lat="54.7702242" lon="9.4195412"><name>Rude</name><desc>highway=motorway_junction
+name=Rude
+id=node/41313450</desc></wpt><wpt lat="54.1188678" lon="9.2586934"><name>Albersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10636
+TMC:cid_58:tabcd_1:NextLocationCode=44674
+TMC:cid_58:tabcd_1:PrevLocationCode=10635
+highway=motorway_junction
+name=Albersdorf
+ref=4
+id=node/46718276</desc></wpt><wpt lat="53.8203156" lon="10.5111366"><name>Reinfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10153
+TMC:cid_58:tabcd_1:NextLocationCode=10154
+TMC:cid_58:tabcd_1:PrevLocationCode=10152
+highway=motorway_junction
+name=Reinfeld
+ref=25
+id=node/82533067</desc></wpt><wpt lat="53.6401507" lon="9.8384567"><name>Halstenbek/Rellingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10621
+TMC:cid_58:tabcd_1:NextLocationCode=10622
+TMC:cid_58:tabcd_1:PrevLocationCode=10620
+highway=motorway_junction
+layer=1
+name=Halstenbek/Rellingen
+ref=19
+id=node/89399395</desc></wpt><wpt lat="53.639785" lon="9.8390268"><name>Halstenbek/Rellingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10621
+TMC:cid_58:tabcd_1:NextLocationCode=10622
+TMC:cid_58:tabcd_1:PrevLocationCode=10620
+highway=motorway_junction
+layer=1
+name=Halstenbek/Rellingen
+ref=19
+id=node/89399398</desc></wpt><wpt lat="53.6303686" lon="10.2502076"><name>Rastplatz Ellerbrook</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44649
+TMC:cid_58:tabcd_1:NextLocationCode=44650
+TMC:cid_58:tabcd_1:PrevLocationCode=10147
+highway=motorway_junction
+name=Rastplatz Ellerbrook
+noref=yes
+id=node/90103025</desc></wpt><wpt lat="53.6434233" lon="10.2800086"><name>Ahrensburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10148
+TMC:cid_58:tabcd_1:NextLocationCode=10149
+TMC:cid_58:tabcd_1:PrevLocationCode=44650
+highway=motorway_junction
+name=Ahrensburg
+ref=28
+id=node/90106839</desc></wpt><wpt lat="53.6962837" lon="10.3240818"><name>Raststätte Buddikate West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10149
+TMC:cid_58:tabcd_1:NextLocationCode=10150
+TMC:cid_58:tabcd_1:PrevLocationCode=10148
+highway=motorway_junction
+name=Raststätte Buddikate West
+noref=yes
+id=node/90126780</desc></wpt><wpt lat="53.7159344" lon="10.3365113"><name>Kreuz Bargteheide</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10150
+TMC:cid_58:tabcd_1:NextLocationCode=10151
+TMC:cid_58:tabcd_1:PrevLocationCode=10149
+highway=motorway_junction
+name=Kreuz Bargteheide
+ref=27
+id=node/90126990</desc></wpt><wpt lat="53.7168681" lon="10.331632"><name>Kreuz Bargteheide</name><desc>highway=motorway_junction
+layer=1
+name=Kreuz Bargteheide
+ref=19
+id=node/90127017</desc></wpt><wpt lat="53.7211692" lon="10.3408316"><name>Kreuz Bargteheide</name><desc>highway=motorway_junction
+name=Kreuz Bargteheide
+ref=27
+id=node/90143401</desc></wpt><wpt lat="53.7155192" lon="10.3355749"><name>Kreuz Bargteheide</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10150
+TMC:cid_58:tabcd_1:NextLocationCode=10151
+TMC:cid_58:tabcd_1:PrevLocationCode=10149
+highway=motorway_junction
+name=Kreuz Bargteheide
+ref=27
+id=node/90143423</desc></wpt><wpt lat="53.7421778" lon="10.3203952"><name>Tremsbüttel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44706
+TMC:cid_58:tabcd_1:NextLocationCode=44705
+TMC:cid_58:tabcd_1:PrevLocationCode=44504
+highway=motorway_junction
+name=Tremsbüttel
+ref=18
+id=node/93745335</desc></wpt><wpt lat="53.7932514" lon="10.3156795"><name>Bad Oldesloe - Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44704
+TMC:cid_58:tabcd_1:NextLocationCode=44703
+TMC:cid_58:tabcd_1:PrevLocationCode=44705
+highway=motorway_junction
+name=Bad Oldesloe - Süd
+ref=17a
+id=node/93758920</desc></wpt><wpt lat="53.7938968" lon="10.3154632"><name>Bad Oldesloe - Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44704
+TMC:cid_58:tabcd_1:NextLocationCode=44703
+TMC:cid_58:tabcd_1:PrevLocationCode=44705
+highway=motorway_junction
+name=Bad Oldesloe - Süd
+ref=17a
+id=node/93759035</desc></wpt><wpt lat="53.8598928" lon="10.3053906"><name>Leezen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44702
+TMC:cid_58:tabcd_1:NextLocationCode=44701
+TMC:cid_58:tabcd_1:PrevLocationCode=44703
+highway=motorway_junction
+name=Leezen
+ref=15
+id=node/93777253</desc></wpt><wpt lat="53.8129458" lon="10.324791"><name>Bad Oldesloe - Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44703
+TMC:cid_58:tabcd_1:NextLocationCode=44702
+TMC:cid_58:tabcd_1:PrevLocationCode=44704
+highway=motorway_junction
+name=Bad Oldesloe - Nord
+ref=16
+id=node/93777432</desc></wpt><wpt lat="53.855425" lon="10.3056869"><name>Leezen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44702
+TMC:cid_58:tabcd_1:NextLocationCode=44701
+TMC:cid_58:tabcd_1:PrevLocationCode=44703
+highway=motorway_junction
+name=Leezen
+ref=15
+id=node/93782990</desc></wpt><wpt lat="53.8153322" lon="10.3253383"><name>Bad Oldesloe - Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44703
+TMC:cid_58:tabcd_1:NextLocationCode=44702
+TMC:cid_58:tabcd_1:PrevLocationCode=44704
+highway=motorway_junction
+name=Bad Oldesloe - Nord
+ref=16
+id=node/93783065</desc></wpt><wpt lat="53.8013403" lon="9.9303208"><name>Henstedt-Ulzburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12388
+TMC:cid_58:tabcd_1:NextLocationCode=44608
+TMC:cid_58:tabcd_1:PrevLocationCode=12386
+highway=motorway_junction
+name=Henstedt-Ulzburg
+ref=19
+id=node/95068237</desc></wpt><wpt lat="53.8186527" lon="9.9235824"><name>Rastplatz Moorkaten</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=44608
+TMC:cid_58:tabcd_1:NextLocationCode=12389
+TMC:cid_58:tabcd_1:PrevLocationCode=12388
+highway=motorway_junction
+name=Rastplatz Moorkaten
+noref=yes
+id=node/95094006</desc></wpt><wpt lat="53.6298282" lon="9.8674366"><name>Halstenbek-Krupunder</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10620
+TMC:cid_58:tabcd_1:NextLocationCode=10621
+TMC:cid_58:tabcd_1:PrevLocationCode=10619
+highway=motorway_junction
+name=Halstenbek-Krupunder
+ref=20
+id=node/95170897</desc></wpt><wpt lat="53.6546807" lon="9.8211244"><name>Pinneberg-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10623
+TMC:cid_58:tabcd_1:NextLocationCode=10624
+TMC:cid_58:tabcd_1:PrevLocationCode=10622
+highway=motorway_junction
+layer=1
+name=Pinneberg-Mitte
+ref=17
+id=node/95171201</desc></wpt><wpt lat="53.6555014" lon="9.8211523"><name>Pinneberg-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10623
+TMC:cid_58:tabcd_1:NextLocationCode=10624
+TMC:cid_58:tabcd_1:PrevLocationCode=10622
+highway=motorway_junction
+layer=1
+name=Pinneberg-Mitte
+ref=17
+id=node/95171258</desc></wpt><wpt lat="53.6768162" lon="9.7995247"><name>Pinneberg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10624
+TMC:cid_58:tabcd_1:NextLocationCode=44670
+TMC:cid_58:tabcd_1:PrevLocationCode=10623
+highway=motorway_junction
+name=Pinneberg-Nord
+ref=16
+id=node/95204661</desc></wpt><wpt lat="53.6783591" lon="9.7975285"><name>Pinneberg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10624
+TMC:cid_58:tabcd_1:NextLocationCode=44670
+TMC:cid_58:tabcd_1:PrevLocationCode=10623
+highway=motorway_junction
+name=Pinneberg-Nord
+ref=16
+id=node/95204711</desc></wpt><wpt lat="53.7151083" lon="9.7591196"><name>Tornesch</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10625
+TMC:cid_58:tabcd_1:NextLocationCode=10626
+TMC:cid_58:tabcd_1:PrevLocationCode=44670
+highway=motorway_junction
+name=Tornesch
+ref=15
+id=node/95205148</desc></wpt><wpt lat="53.7184023" lon="9.7519009"><name>Tornesch</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10625
+TMC:cid_58:tabcd_1:NextLocationCode=10626
+TMC:cid_58:tabcd_1:PrevLocationCode=44670
+highway=motorway_junction
+name=Tornesch
+ref=15
+id=node/95205195</desc></wpt><wpt lat="53.7442432" lon="9.712691"><name>Elmshorn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10626
+TMC:cid_58:tabcd_1:NextLocationCode=10627
+TMC:cid_58:tabcd_1:PrevLocationCode=10625
+highway=motorway_junction
+name=Elmshorn
+ref=14
+id=node/95205447</desc></wpt><wpt lat="53.7457987" lon="9.7117965"><name>Elmshorn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10626
+TMC:cid_58:tabcd_1:NextLocationCode=10627
+TMC:cid_58:tabcd_1:PrevLocationCode=10625
+highway=motorway_junction
+name=Elmshorn
+ref=14
+id=node/95205492</desc></wpt><wpt lat="53.8092663" lon="9.6713015"><name>Horst / Elmshorn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10627
+TMC:cid_58:tabcd_1:NextLocationCode=44671
+TMC:cid_58:tabcd_1:PrevLocationCode=10626
+highway=motorway_junction
+name=Horst / Elmshorn
+ref=13
+id=node/95771094</desc></wpt><wpt lat="53.8044266" lon="9.6804394"><name>Horst / Elmshorn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10627
+TMC:cid_58:tabcd_1:NextLocationCode=44671
+TMC:cid_58:tabcd_1:PrevLocationCode=10626
+highway=motorway_junction
+name=Horst / Elmshorn
+ref=13
+id=node/95771096</desc></wpt><wpt lat="53.8413353" lon="9.6046606"><name>Hohenfelde</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10628
+TMC:cid_58:tabcd_1:NextLocationCode=10629
+TMC:cid_58:tabcd_1:PrevLocationCode=44671
+highway=motorway_junction
+name=Hohenfelde
+ref=12
+id=node/95772029</desc></wpt><wpt lat="53.8434852" lon="9.599308"><name>Hohenfelde</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10628
+TMC:cid_58:tabcd_1:NextLocationCode=10629
+TMC:cid_58:tabcd_1:PrevLocationCode=44671
+highway=motorway_junction
+name=Hohenfelde
+ref=12
+id=node/95772066</desc></wpt><wpt lat="53.8707474" lon="9.5613323"><name>Lägerdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10629
+TMC:cid_58:tabcd_1:NextLocationCode=10630
+TMC:cid_58:tabcd_1:PrevLocationCode=10628
+highway=motorway_junction
+name=Lägerdorf
+ref=11
+id=node/95772162</desc></wpt><wpt lat="53.8714215" lon="9.5603441"><name>Lägerdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10629
+TMC:cid_58:tabcd_1:NextLocationCode=10630
+TMC:cid_58:tabcd_1:PrevLocationCode=10628
+highway=motorway_junction
+name=Lägerdorf
+ref=11
+id=node/95772249</desc></wpt><wpt lat="53.560668" lon="10.2382091"><name>Reinbek</name><desc>highway=motorway_junction
+name=Reinbek
+ref=4
+id=node/95948211</desc></wpt><wpt lat="53.5682812" lon="10.3049716"><name>Rastplatz Hahnenkoppel</name><desc>highway=motorway_junction
+name=Rastplatz Hahnenkoppel
+noref=yes
+id=node/95948259</desc></wpt><wpt lat="54.3900767" lon="10.1419255"><name>Kiel-Schilksee</name><desc>highway=motorway_junction
+name=Kiel-Schilksee
+id=node/96738586</desc></wpt><wpt lat="54.4080886" lon="10.1353616"><name>Altenholz</name><desc>highway=motorway_junction
+name=Altenholz
+id=node/96738646</desc></wpt><wpt lat="53.5519821" lon="10.6517049"><name>Hornbek</name><desc>highway=motorway_junction
+name=Hornbek
+ref=8
+id=node/98105520</desc></wpt><wpt lat="54.2781497" lon="9.660878"><name>Rendsburg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44529
+TMC:cid_58:tabcd_1:NextLocationCode=44539
+TMC:cid_58:tabcd_1:PrevLocationCode=25111
+highway=motorway_junction
+name=Rendsburg-Süd
+id=node/98183854</desc></wpt><wpt lat="53.9705949" lon="10.236631"><name>Wahlstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25870
+TMC:cid_58:tabcd_1:NextLocationCode=44570
+highway=motorway_junction
+name=Wahlstedt
+id=node/101034004</desc></wpt><wpt lat="54.3072739" lon="9.761783"><name>Kreuz Rendsburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10603
+TMC:cid_58:tabcd_1:NextLocationCode=10604
+TMC:cid_58:tabcd_1:PrevLocationCode=10602
+highway=motorway_junction
+name=Kreuz Rendsburg
+ref=3
+id=node/106230501</desc></wpt><wpt lat="54.3510427" lon="10.1154173"><name>Kiel-Stadion</name><desc>highway=motorway_junction
+name=Kiel-Stadion
+id=node/112547357</desc></wpt><wpt lat="54.4246868" lon="11.1310626"><name>Avendorf</name><desc>highway=motorway_junction
+name=Avendorf
+ref=3
+id=node/148193200</desc></wpt><wpt lat="53.6164895" lon="9.7899639"><name>Pinneberg-Süd</name><desc>highway=motorway_junction
+name=Pinneberg-Süd
+noref=yes
+id=node/161528947</desc></wpt><wpt lat="53.6142278" lon="9.7954009"><name>Pinneberg-Süd</name><desc>highway=motorway_junction
+name=Pinneberg-Süd
+noref=yes
+id=node/161530432</desc></wpt><wpt lat="54.1903326" lon="9.0462289"><name>Heide-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10638
+TMC:cid_58:tabcd_1:PrevLocationCode=10637
+highway=motorway_junction
+name=Heide-West
+ref=2
+id=node/189225673</desc></wpt><wpt lat="54.1689118" lon="9.0890293"><name>Heide-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10637
+TMC:cid_58:tabcd_1:NextLocationCode=10638
+TMC:cid_58:tabcd_1:PrevLocationCode=44674
+highway=motorway_junction
+name=Heide-Süd
+ref=3
+id=node/189234486</desc></wpt><wpt lat="54.1891673" lon="9.0465369"><name>Heide-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10638
+TMC:cid_58:tabcd_1:PrevLocationCode=10637
+highway=motorway_junction
+name=Heide-West
+ref=2
+id=node/189350309</desc></wpt><wpt lat="54.0731019" lon="9.296147"><name>Schafstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10635
+TMC:cid_58:tabcd_1:NextLocationCode=10636
+TMC:cid_58:tabcd_1:PrevLocationCode=44564
+highway=motorway_junction
+name=Schafstedt
+ref=5
+id=node/190935135</desc></wpt><wpt lat="54.0752251" lon="9.2827564"><name>Schafstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10635
+TMC:cid_58:tabcd_1:NextLocationCode=10636
+TMC:cid_58:tabcd_1:PrevLocationCode=44564
+highway=motorway_junction
+name=Schafstedt
+ref=5
+id=node/190936015</desc></wpt><wpt lat="54.4677735" lon="10.0716084"><name>node/190964678</name><desc>highway=motorway_junction
+id=node/190964678</desc></wpt><wpt lat="54.3084522" lon="10.0591098"><name>Kreuz Kiel-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10607
+TMC:cid_58:tabcd_1:PrevLocationCode=10606
+highway=motorway_junction
+name=Kreuz Kiel-West
+ref=7
+id=node/192237225</desc></wpt><wpt lat="54.3596125" lon="10.1202678"><name>Kiel-Projensdorf</name><desc>highway=motorway_junction
+name=Kiel-Projensdorf
+id=node/193609558</desc></wpt><wpt lat="54.2943395" lon="10.1269997"><name>Molfsee</name><desc>highway=motorway_junction
+name=Molfsee
+id=node/193614642</desc></wpt><wpt lat="54.3064413" lon="10.0344386"><name>Melsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10606
+TMC:cid_58:tabcd_1:NextLocationCode=10607
+TMC:cid_58:tabcd_1:PrevLocationCode=10605
+highway=motorway_junction
+name=Melsdorf
+ref=6
+id=node/199253813</desc></wpt><wpt lat="54.3064041" lon="10.0295945"><name>Melsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10606
+TMC:cid_58:tabcd_1:NextLocationCode=10607
+TMC:cid_58:tabcd_1:PrevLocationCode=10605
+highway=motorway_junction
+name=Melsdorf
+ref=6
+id=node/201789892</desc></wpt><wpt lat="54.2969802" lon="9.6530975"><name>Rendsburg-Mitte</name><desc>highway=motorway_junction
+name=Rendsburg-Mitte
+id=node/201867023</desc></wpt><wpt lat="54.301223" lon="10.052625"><name>Kreuz Kiel-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10611
+TMC:cid_58:tabcd_1:NextLocationCode=10612
+TMC:cid_58:tabcd_1:PrevLocationCode=44635
+highway=motorway_junction
+name=Kreuz Kiel-West
+ref=3
+id=node/204736024</desc></wpt><wpt lat="54.3131344" lon="10.1065392"><name>Kiel-Mitte</name><desc>highway=motorway_junction
+name=Kiel-Mitte
+id=node/205199951</desc></wpt><wpt lat="54.280423" lon="10.2454208"><name>Schwentinental-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25097
+TMC:cid_58:tabcd_1:NextLocationCode=44780
+TMC:cid_58:tabcd_1:PrevLocationCode=44579
+highway=motorway_junction
+name=Schwentinental-Süd
+id=node/243204032</desc></wpt><wpt lat="54.7779298" lon="9.3776434"><name>node/243781786</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25751
+TMC:cid_58:tabcd_1:NextLocationCode=44755
+TMC:cid_58:tabcd_1:PrevLocationCode=25750
+highway=motorway_junction
+id=node/243781786</desc></wpt><wpt lat="54.3192939" lon="9.9458312"><name>Achterwehr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10605
+TMC:cid_58:tabcd_1:NextLocationCode=10606
+TMC:cid_58:tabcd_1:PrevLocationCode=44632
+highway=motorway_junction
+name=Achterwehr
+ref=5
+id=node/243782266</desc></wpt><wpt lat="54.3195131" lon="9.9514713"><name>Achterwehr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10605
+TMC:cid_58:tabcd_1:NextLocationCode=10606
+TMC:cid_58:tabcd_1:PrevLocationCode=44632
+highway=motorway_junction
+name=Achterwehr
+ref=5
+id=node/243782422</desc></wpt><wpt lat="54.382997" lon="10.1375258"><name>Kiel-Flughafen</name><desc>highway=motorway_junction
+name=Kiel-Flughafen
+id=node/244530696</desc></wpt><wpt lat="54.3856565" lon="10.1417239"><name>Altenholz-Stift</name><desc>highway=motorway_junction
+name=Altenholz-Stift
+id=node/244531316</desc></wpt><wpt lat="54.4148813" lon="9.9890379"><name>Gettorf Mitte</name><desc>highway=motorway_junction
+name=Gettorf Mitte
+id=node/245779437</desc></wpt><wpt lat="54.4135362" lon="9.9920983"><name>Gettorf Mitte</name><desc>highway=motorway_junction
+name=Gettorf Mitte
+id=node/245779566</desc></wpt><wpt lat="54.4015269" lon="9.6388009"><name>Owschlag</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12403
+TMC:cid_58:tabcd_1:NextLocationCode=44617
+TMC:cid_58:tabcd_1:PrevLocationCode=12402
+highway=motorway_junction
+name=Owschlag
+ref=7
+id=node/246690291</desc></wpt><wpt lat="54.4027804" lon="9.636361"><name>Owschlag</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12403
+TMC:cid_58:tabcd_1:NextLocationCode=44617
+TMC:cid_58:tabcd_1:PrevLocationCode=12402
+highway=motorway_junction
+name=Owschlag
+ref=7
+id=node/246690468</desc></wpt><wpt lat="54.2198322" lon="10.9020637"><name>Lensahn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10167
+TMC:cid_58:tabcd_1:NextLocationCode=44656
+TMC:cid_58:tabcd_1:PrevLocationCode=44655
+highway=motorway_junction
+name=Lensahn
+ref=12
+id=node/246696014</desc></wpt><wpt lat="54.213406" lon="10.9017329"><name>Lensahn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10167
+TMC:cid_58:tabcd_1:NextLocationCode=44656
+TMC:cid_58:tabcd_1:PrevLocationCode=44655
+highway=motorway_junction
+name=Lensahn
+ref=12
+id=node/246696033</desc></wpt><wpt lat="54.3074749" lon="10.1151523"><name>Kiel-Winterbeker Weg</name><desc>highway=motorway_junction
+name=Kiel-Winterbeker Weg
+id=node/246861174</desc></wpt><wpt lat="54.7943052" lon="9.4091597"><name>Duburg</name><desc>highway=motorway_junction
+name=Duburg
+id=node/248823749</desc></wpt><wpt lat="54.7572894" lon="9.4354763"><name>node/248923125</name><desc>highway=motorway_junction
+id=node/248923125</desc></wpt><wpt lat="54.7468695" lon="9.4219251"><name>Jarplund-Weding</name><desc>highway=motorway_junction
+name=Jarplund-Weding
+id=node/248923175</desc></wpt><wpt lat="54.7545001" lon="9.4300338"><name>Flensburg-Süd</name><desc>highway=motorway_junction
+name=Flensburg-Süd
+id=node/248923248</desc></wpt><wpt lat="54.7665948" lon="9.4242876"><name>Rude</name><desc>highway=motorway_junction
+name=Rude
+id=node/249344420</desc></wpt><wpt lat="54.7425259" lon="9.4143068"><name>Jarplund-Weding</name><desc>highway=motorway_junction
+name=Jarplund-Weding
+id=node/249344475</desc></wpt><wpt lat="54.0386592" lon="10.2400094"><name>Trappenkamp</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=23342
+TMC:cid_58:tabcd_1:NextLocationCode=44501
+TMC:cid_58:tabcd_1:PrevLocationCode=44514
+highway=motorway_junction
+name=Trappenkamp
+ref=9
+id=node/253249858</desc></wpt><wpt lat="54.8186344" lon="9.4168614"><name>Klues</name><desc>highway=motorway_junction
+name=Klues
+id=node/253558238</desc></wpt><wpt lat="54.7628903" lon="9.4279433"><name>Flensburg-Süd</name><desc>highway=motorway_junction
+name=Flensburg-Süd
+id=node/254620304</desc></wpt><wpt lat="53.8200884" lon="10.507806"><name>Reinfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10153
+TMC:cid_58:tabcd_1:NextLocationCode=10154
+TMC:cid_58:tabcd_1:PrevLocationCode=10152
+highway=motorway_junction
+name=Reinfeld
+ref=25
+id=node/255427718</desc></wpt><wpt lat="54.4468877" lon="11.1726236"><name>Burg auf Fehmarn</name><desc>highway=motorway_junction
+name=Burg auf Fehmarn
+id=node/260336617</desc></wpt><wpt lat="54.4441031" lon="11.1669902"><name>Landkirchen, Burg a. F.</name><desc>highway=motorway_junction
+name=Landkirchen, Burg a. F.
+id=node/260336622</desc></wpt><wpt lat="54.284197" lon="10.8766969"><name>Oldenburg/Holstein - Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10168
+TMC:cid_58:tabcd_1:NextLocationCode=44657
+TMC:cid_58:tabcd_1:PrevLocationCode=44656
+highway=motorway_junction
+name=Oldenburg/Holstein - Süd
+ref=11
+id=node/262854771</desc></wpt><wpt lat="54.1208497" lon="9.9520487"><name>Neumünster-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12396
+TMC:cid_58:tabcd_1:NextLocationCode=12397
+TMC:cid_58:tabcd_1:PrevLocationCode=12395
+highway=motorway_junction
+name=Neumünster-Nord
+ref=13
+id=node/263238161</desc></wpt><wpt lat="53.9049104" lon="9.9369863"><name>Bad Bramstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12390
+TMC:cid_58:tabcd_1:NextLocationCode=44610
+TMC:cid_58:tabcd_1:PrevLocationCode=12389
+highway=motorway_junction
+name=Bad Bramstedt
+ref=17
+id=node/264073017</desc></wpt><wpt lat="54.7739001" lon="9.4145423"><name>Flensburg-Zentrum</name><desc>highway=motorway_junction
+name=Flensburg-Zentrum
+id=node/264974325</desc></wpt><wpt lat="54.3175196" lon="9.8545662"><name>Bredenbek</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10604
+TMC:cid_58:tabcd_1:NextLocationCode=44631
+TMC:cid_58:tabcd_1:PrevLocationCode=10603
+highway=motorway_junction
+name=Bredenbek
+ref=4
+id=node/266415417</desc></wpt><wpt lat="54.3473464" lon="9.5804631"><name>Duvenstedt</name><desc>highway=motorway_junction
+name=Duvenstedt
+id=node/267495649</desc></wpt><wpt lat="54.0390567" lon="10.0165654"><name>Boostedt</name><desc>highway=motorway_junction
+name=Boostedt
+id=node/267905209</desc></wpt><wpt lat="54.6639092" lon="9.430424"><name>Tarp</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12406
+TMC:cid_58:tabcd_1:NextLocationCode=12407
+TMC:cid_58:tabcd_1:PrevLocationCode=44622
+highway=motorway_junction
+name=Tarp
+ref=4
+id=node/268326207</desc></wpt><wpt lat="53.7008191" lon="10.7316464"><name>Harmsdorfer Kreuz</name><desc>highway=motorway_junction
+name=Harmsdorfer Kreuz
+noref=yes
+id=node/268417431</desc></wpt><wpt lat="54.039518" lon="10.0239193"><name>Neumünster-Gadeland</name><desc>highway=motorway_junction
+name=Neumünster-Gadeland
+id=node/268994122</desc></wpt><wpt lat="53.8952093" lon="10.2801773"><name>Schwissel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44700
+TMC:cid_58:tabcd_1:NextLocationCode=44699
+TMC:cid_58:tabcd_1:PrevLocationCode=57650
+highway=motorway_junction
+name=Schwissel
+ref=14
+id=node/269891078</desc></wpt><wpt lat="54.0142432" lon="10.2445029"><name>Daldorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44514
+TMC:cid_58:tabcd_1:NextLocationCode=23342
+TMC:cid_58:tabcd_1:PrevLocationCode=44695
+highway=motorway_junction
+name=Daldorf
+ref=10
+id=node/269893943</desc></wpt><wpt lat="54.0724078" lon="9.9230647"><name>Neumünster-Mitte</name><desc>highway=motorway_junction
+name=Neumünster-Mitte
+ref=14
+id=node/270088454</desc></wpt><wpt lat="53.985179" lon="10.1929293"><name>Rickling-Fehrenbötel</name><desc>highway=motorway_junction
+name=Rickling-Fehrenbötel
+id=node/270193173</desc></wpt><wpt lat="54.3171615" lon="9.8585226"><name>Bredenbek</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10604
+TMC:cid_58:tabcd_1:NextLocationCode=44631
+TMC:cid_58:tabcd_1:PrevLocationCode=10603
+highway=motorway_junction
+name=Bredenbek
+ref=4
+id=node/270677944</desc></wpt><wpt lat="54.2764738" lon="10.1423533"><name>Kiel-Wellseedamm</name><desc>highway=motorway_junction
+name=Kiel-Wellseedamm
+id=node/271153101</desc></wpt><wpt lat="54.2859852" lon="10.1330241"><name>Kiel-Neumeimersdorf</name><desc>highway=motorway_junction
+name=Kiel-Neumeimersdorf
+id=node/271155878</desc></wpt><wpt lat="54.8285134" lon="9.4142513"><name>Wassersleben</name><desc>highway=motorway_junction
+name=Wassersleben
+id=node/271997698</desc></wpt><wpt lat="54.2928615" lon="9.7138662"><name>Schacht-Audorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10602
+TMC:cid_58:tabcd_1:NextLocationCode=10603
+TMC:cid_58:tabcd_1:PrevLocationCode=10601
+highway=motorway_junction
+name=Schacht-Audorf
+ref=2
+id=node/272613355</desc></wpt><wpt lat="54.0417826" lon="9.9822821"><name>Neumünster-Wittorf Ost</name><desc>highway=motorway_junction
+name=Neumünster-Wittorf Ost
+id=node/273127226</desc></wpt><wpt lat="54.3558823" lon="10.0964447"><name>Kiel-Suchsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44784
+TMC:cid_58:tabcd_1:NextLocationCode=44568
+TMC:cid_58:tabcd_1:PrevLocationCode=44567
+highway=motorway_junction
+name=Kiel-Suchsdorf
+id=node/277261938</desc></wpt><wpt lat="54.3591791" lon="10.0923068"><name>Kiel-Suchsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44784
+TMC:cid_58:tabcd_1:NextLocationCode=44568
+TMC:cid_58:tabcd_1:PrevLocationCode=44567
+highway=motorway_junction
+name=Kiel-Suchsdorf
+id=node/277262055</desc></wpt><wpt lat="54.225561" lon="10.0127096"><name>Blumenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10609
+TMC:cid_58:tabcd_1:NextLocationCode=44635
+TMC:cid_58:tabcd_1:PrevLocationCode=10608
+highway=motorway_junction
+name=Blumenthal
+ref=4
+id=node/277676234</desc></wpt><wpt lat="53.8649584" lon="10.6280326"><name>Lübeck-Moisling</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10155
+TMC:cid_58:tabcd_1:NextLocationCode=10156
+TMC:cid_58:tabcd_1:PrevLocationCode=10154
+highway=motorway_junction
+name=Lübeck-Moisling
+ref=23
+id=node/278608306</desc></wpt><wpt lat="54.4677917" lon="10.0742059"><name>node/278956557</name><desc>highway=motorway_junction
+id=node/278956557</desc></wpt><wpt lat="53.9583267" lon="9.4909033"><name>Itzehoe-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10632
+TMC:cid_58:tabcd_1:NextLocationCode=44672
+TMC:cid_58:tabcd_1:PrevLocationCode=10631
+highway=motorway_junction
+name=Itzehoe-Nord
+ref=8
+id=node/279993182</desc></wpt><wpt lat="54.2956437" lon="9.6541526"><name>Rendsburg-Mitte</name><desc>highway=motorway_junction
+name=Rendsburg-Mitte
+id=node/281241393</desc></wpt><wpt lat="54.2277256" lon="9.6728105"><name>Jevenstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25111
+TMC:cid_58:tabcd_1:NextLocationCode=44529
+TMC:cid_58:tabcd_1:PrevLocationCode=56329
+highway=motorway_junction
+name=Jevenstedt
+id=node/281241967</desc></wpt><wpt lat="54.0582295" lon="9.3667841"><name>Hanerau-Hademarschen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10634
+TMC:cid_58:tabcd_1:NextLocationCode=44673
+TMC:cid_58:tabcd_1:PrevLocationCode=10633
+highway=motorway_junction
+name=Hanerau-Hademarschen
+ref=6
+id=node/281253264</desc></wpt><wpt lat="54.0304306" lon="9.4421541"><name>Schenefeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10633
+TMC:cid_58:tabcd_1:NextLocationCode=10634
+TMC:cid_58:tabcd_1:PrevLocationCode=44672
+highway=motorway_junction
+name=Schenefeld
+ref=7
+id=node/281758666</desc></wpt><wpt lat="53.5768024" lon="10.2002258"><name>Barsbüttel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=55014
+TMC:cid_58:tabcd_1:NextLocationCode=10147
+TMC:cid_58:tabcd_1:PrevLocationCode=10145
+highway=motorway_junction
+name=Barsbüttel
+ref=30
+id=node/281957627</desc></wpt><wpt lat="54.0293976" lon="9.4440257"><name>Schenefeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10633
+TMC:cid_58:tabcd_1:NextLocationCode=10634
+TMC:cid_58:tabcd_1:PrevLocationCode=44672
+highway=motorway_junction
+name=Schenefeld
+ref=7
+id=node/283280558</desc></wpt><wpt lat="54.0588018" lon="9.3642672"><name>Hanerau-Hademarschen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10634
+TMC:cid_58:tabcd_1:NextLocationCode=44673
+TMC:cid_58:tabcd_1:PrevLocationCode=10633
+highway=motorway_junction
+name=Hanerau-Hademarschen
+ref=6
+id=node/283281588</desc></wpt><wpt lat="54.3011495" lon="10.8881471"><name>Oldenburg/Holstein - Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44658
+TMC:cid_58:tabcd_1:NextLocationCode=49330
+TMC:cid_58:tabcd_1:PrevLocationCode=44657
+highway=motorway_junction
+name=Oldenburg/Holstein - Nord
+ref=9
+id=node/286101600</desc></wpt><wpt lat="54.3474628" lon="9.5800829"><name>Duvenstedt</name><desc>highway=motorway_junction
+name=Duvenstedt
+id=node/286439638</desc></wpt><wpt lat="54.0380667" lon="10.0103852"><name>Boostedt</name><desc>highway=motorway_junction
+name=Boostedt
+id=node/286847697</desc></wpt><wpt lat="54.0418422" lon="9.9790916"><name>Neumünster-Wittorf Ost</name><desc>highway=motorway_junction
+name=Neumünster-Wittorf Ost
+id=node/286866138</desc></wpt><wpt lat="54.3292688" lon="10.9324888"><name>Gremersdorf</name><desc>highway=motorway_junction
+name=Gremersdorf
+ref=7
+id=node/291245813</desc></wpt><wpt lat="54.3574235" lon="10.2061131"><name>node/291685123</name><desc>highway=motorway_junction
+id=node/291685123</desc></wpt><wpt lat="53.9045392" lon="10.7795164"><name>Lübeck-Siems</name><desc>highway=motorway_junction
+name=Lübeck-Siems
+id=node/291734518</desc></wpt><wpt lat="53.9054832" lon="10.7793561"><name>Lübeck-Siems</name><desc>highway=motorway_junction
+name=Lübeck-Siems
+id=node/291884839</desc></wpt><wpt lat="54.3697636" lon="10.2264695"><name>node/291960359</name><desc>highway=motorway_junction
+id=node/291960359</desc></wpt><wpt lat="54.3803072" lon="10.2536027"><name>node/291960936</name><desc>highway=motorway_junction
+id=node/291960936</desc></wpt><wpt lat="54.3804709" lon="10.2539836"><name>node/291960943</name><desc>highway=motorway_junction
+id=node/291960943</desc></wpt><wpt lat="53.8986681" lon="10.7627325"><name>Lübeck-Herreninsel</name><desc>highway=motorway_junction
+name=Lübeck-Herreninsel
+id=node/292022602</desc></wpt><wpt lat="53.9429353" lon="9.9477257"><name>Rastplatz Bimöhlen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=44611
+TMC:cid_58:tabcd_1:NextLocationCode=12391
+TMC:cid_58:tabcd_1:PrevLocationCode=44610
+highway=motorway_junction
+name=Rastplatz Bimöhlen
+id=node/293075074</desc></wpt><wpt lat="54.3021342" lon="10.8919446"><name>Oldenburg/Holstein - Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44658
+TMC:cid_58:tabcd_1:NextLocationCode=49330
+TMC:cid_58:tabcd_1:PrevLocationCode=44657
+highway=motorway_junction
+name=Oldenburg/Holstein - Nord
+ref=9
+id=node/293236442</desc></wpt><wpt lat="53.9162975" lon="10.7360574"><name>Lübeck-Dänischburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10615
+TMC:cid_58:tabcd_1:NextLocationCode=10616
+TMC:cid_58:tabcd_1:PrevLocationCode=10614
+highway=motorway_junction
+name=Lübeck-Dänischburg
+ref=2
+id=node/293240315</desc></wpt><wpt lat="54.2889664" lon="10.1319558"><name>Kiel-Neumeimersdorf</name><desc>highway=motorway_junction
+name=Kiel-Neumeimersdorf
+id=node/294952258</desc></wpt><wpt lat="54.3691215" lon="10.2244835"><name>node/296060212</name><desc>highway=motorway_junction
+id=node/296060212</desc></wpt><wpt lat="54.3409026" lon="10.208861"><name>node/296894731</name><desc>highway=motorway_junction
+id=node/296894731</desc></wpt><wpt lat="54.3414555" lon="10.2096927"><name>node/296895098</name><desc>highway=motorway_junction
+id=node/296895098</desc></wpt><wpt lat="54.215108" lon="9.8605464"><name>Warder</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12399
+TMC:cid_58:tabcd_1:NextLocationCode=44615
+TMC:cid_58:tabcd_1:PrevLocationCode=44614
+highway=motorway_junction
+name=Warder
+ref=10
+id=node/297563119</desc></wpt><wpt lat="54.7313623" lon="9.3913987"><name>Flensburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12407
+TMC:cid_58:tabcd_1:NextLocationCode=44623
+TMC:cid_58:tabcd_1:PrevLocationCode=12406
+highway=motorway_junction
+name=Flensburg
+ref=3
+id=node/298844358</desc></wpt><wpt lat="54.289351" lon="10.8721559"><name>Oldenburg/Holstein - Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10168
+TMC:cid_58:tabcd_1:NextLocationCode=44657
+TMC:cid_58:tabcd_1:PrevLocationCode=44656
+highway=motorway_junction
+name=Oldenburg/Holstein - Süd
+ref=11
+id=node/299518698</desc></wpt><wpt lat="53.902612" lon="10.5676024"><name>Mönkhagen</name><desc>highway=motorway_junction
+name=Mönkhagen
+noref=yes
+id=node/300498391</desc></wpt><wpt lat="53.8992436" lon="10.5685772"><name>Mönkhagen</name><desc>highway=motorway_junction
+name=Mönkhagen
+noref=yes
+id=node/300662904</desc></wpt><wpt lat="54.3082543" lon="9.6296022"><name>Rendsburg-West</name><desc>highway=motorway_junction
+name=Rendsburg-West
+id=node/301154366</desc></wpt><wpt lat="54.3948319" lon="10.1378016"><name>Kiel-Schilksee</name><desc>highway=motorway_junction
+name=Kiel-Schilksee
+id=node/301692003</desc></wpt><wpt lat="54.4134638" lon="10.1384988"><name>Altenholz</name><desc>highway=motorway_junction
+name=Altenholz
+id=node/301692007</desc></wpt><wpt lat="53.7850925" lon="10.7092488"><name>Lübeck-Süd</name><desc>highway=motorway_junction
+name=Lübeck-Süd
+ref=2b
+zone:traffic=DE:rural
+id=node/303339566</desc></wpt><wpt lat="54.4313309" lon="10.1325362"><name>Dänischenhagen</name><desc>highway=motorway_junction
+name=Dänischenhagen
+id=node/303937176</desc></wpt><wpt lat="53.5516376" lon="10.6396005"><name>Hornbek</name><desc>highway=motorway_junction
+name=Hornbek
+ref=8
+id=node/308088238</desc></wpt><wpt lat="53.9198325" lon="10.7240473"><name>Sereetz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10159
+TMC:cid_58:tabcd_1:NextLocationCode=44654
+TMC:cid_58:tabcd_1:PrevLocationCode=10158
+highway=motorway_junction
+name=Sereetz
+ref=19
+id=node/309591580</desc></wpt><wpt lat="54.008166" lon="10.7286158"><name>Pansdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10161
+TMC:cid_58:tabcd_1:NextLocationCode=10162
+TMC:cid_58:tabcd_1:PrevLocationCode=10160
+highway=motorway_junction
+name=Pansdorf
+ref=17
+id=node/309592147</desc></wpt><wpt lat="53.9148643" lon="10.802207"><name>Lübeck-Kücknitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25086
+TMC:cid_58:tabcd_1:NextLocationCode=25087
+TMC:cid_58:tabcd_1:PrevLocationCode=25085
+highway=motorway_junction
+name=Lübeck-Kücknitz
+id=node/309685259</desc></wpt><wpt lat="53.9340227" lon="10.8297683"><name>Lübeck-Ivendorf (Skandinavienkai)</name><desc>highway=motorway_junction
+name=Lübeck-Ivendorf (Skandinavienkai)
+id=node/309685871</desc></wpt><wpt lat="53.9154599" lon="10.7422208"><name>Lübeck-Dänischburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10615
+TMC:cid_58:tabcd_1:NextLocationCode=10616
+TMC:cid_58:tabcd_1:PrevLocationCode=10614
+highway=motorway_junction
+name=Lübeck-Dänischburg
+ref=2
+id=node/309824143</desc></wpt><wpt lat="54.5232359" lon="9.4891497"><name>Schleswig / Schuby</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12405
+TMC:cid_58:tabcd_1:NextLocationCode=44620
+TMC:cid_58:tabcd_1:PrevLocationCode=44619
+highway=motorway_junction
+name=Schleswig / Schuby
+ref=5
+id=node/310627034</desc></wpt><wpt lat="54.0376136" lon="10.728403"><name>Scharbeutz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10162
+TMC:cid_58:tabcd_1:NextLocationCode=10163
+TMC:cid_58:tabcd_1:PrevLocationCode=10161
+highway=motorway_junction
+name=Scharbeutz
+ref=16
+id=node/314898171</desc></wpt><wpt lat="54.3171723" lon="9.6220973"><name>Rendsburg-Nordwest</name><desc>highway=motorway_junction
+name=Rendsburg-Nordwest
+id=node/316854026</desc></wpt><wpt lat="54.3186152" lon="9.621696"><name>Rendsburg-Nordwest</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44786
+TMC:cid_58:tabcd_1:NextLocationCode=44540
+TMC:cid_58:tabcd_1:PrevLocationCode=44542
+highway=motorway_junction
+name=Rendsburg-Nordwest
+id=node/316854056</desc></wpt><wpt lat="54.0756083" lon="10.2151858"><name>Bornhöved</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44501
+TMC:cid_58:tabcd_1:NextLocationCode=44502
+TMC:cid_58:tabcd_1:PrevLocationCode=23342
+highway=motorway_junction
+name=Bornhöved
+ref=8
+id=node/317319686</desc></wpt><wpt lat="54.3315942" lon="9.6209173"><name>Rendsburg-Nord</name><desc>highway=motorway_junction
+name=Rendsburg-Nord
+id=node/317542181</desc></wpt><wpt lat="54.3302579" lon="9.6218242"><name>Rendsburg-Nord</name><desc>highway=motorway_junction
+name=Rendsburg-Nord
+id=node/318654967</desc></wpt><wpt lat="54.30684" lon="10.0471444"><name>Kreuz Kiel-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10607
+TMC:cid_58:tabcd_1:PrevLocationCode=10606
+highway=motorway_junction
+name=Kreuz Kiel-West
+ref=7
+id=node/319322573</desc></wpt><wpt lat="54.3179239" lon="10.0996613"><name>Kiel-Mitte</name><desc>highway=motorway_junction
+name=Kiel-Mitte
+id=node/320779897</desc></wpt><wpt lat="54.2753282" lon="9.6634555"><name>Rendsburg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44529
+TMC:cid_58:tabcd_1:NextLocationCode=44539
+TMC:cid_58:tabcd_1:PrevLocationCode=25111
+highway=motorway_junction
+name=Rendsburg-Süd
+id=node/321440212</desc></wpt><wpt lat="53.9349751" lon="9.482944"><name>Itzehoe-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10631
+TMC:cid_58:tabcd_1:NextLocationCode=10632
+TMC:cid_58:tabcd_1:PrevLocationCode=49329
+highway=motorway_junction
+layer=1
+name=Itzehoe-Mitte
+ref=9
+id=node/321711202</desc></wpt><wpt lat="54.0440064" lon="10.2367834"><name>Trappenkamp</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=23342
+TMC:cid_58:tabcd_1:NextLocationCode=44501
+TMC:cid_58:tabcd_1:PrevLocationCode=44514
+highway=motorway_junction
+name=Trappenkamp
+ref=9
+id=node/322146648</desc></wpt><wpt lat="53.919711" lon="9.2275811"><name>node/323835667</name><desc>highway=motorway_junction
+id=node/323835667</desc></wpt><wpt lat="53.9173849" lon="9.253335"><name>node/323845487</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44748
+TMC:cid_58:tabcd_1:NextLocationCode=24028
+TMC:cid_58:tabcd_1:PrevLocationCode=24027
+highway=motorway_junction
+id=node/323845487</desc></wpt><wpt lat="53.9200618" lon="9.2212712"><name>node/324681408</name><desc>highway=motorway_junction
+id=node/324681408</desc></wpt><wpt lat="53.8995338" lon="10.276799"><name>Schwissel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44700
+TMC:cid_58:tabcd_1:NextLocationCode=44699
+TMC:cid_58:tabcd_1:PrevLocationCode=57650
+highway=motorway_junction
+name=Schwissel
+ref=14
+id=node/331724332</desc></wpt><wpt lat="54.1155941" lon="9.259809"><name>Albersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10636
+TMC:cid_58:tabcd_1:NextLocationCode=44674
+TMC:cid_58:tabcd_1:PrevLocationCode=10635
+highway=motorway_junction
+name=Albersdorf
+ref=4
+id=node/338910065</desc></wpt><wpt lat="54.3100006" lon="9.6275762"><name>Rendsburg-West</name><desc>highway=motorway_junction
+name=Rendsburg-West
+id=node/346158873</desc></wpt><wpt lat="53.6208111" lon="10.6633493"><name>Alt-Mölln</name><desc>highway=motorway_junction
+name=Alt-Mölln
+id=node/359927020</desc></wpt><wpt lat="53.6238389" lon="10.666603"><name>Alt-Mölln</name><desc>highway=motorway_junction
+name=Alt-Mölln
+id=node/359936149</desc></wpt><wpt lat="54.3924718" lon="10.0206832"><name>node/364430013</name><desc>highway=motorway_junction
+id=node/364430013</desc></wpt><wpt lat="54.3929797" lon="10.0192369"><name>node/364430627</name><desc>highway=motorway_junction
+id=node/364430627</desc></wpt><wpt lat="54.228211" lon="9.6737088"><name>Jevenstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25111
+TMC:cid_58:tabcd_1:NextLocationCode=44529
+TMC:cid_58:tabcd_1:PrevLocationCode=56329
+highway=motorway_junction
+name=Jevenstedt
+id=node/369677263</desc></wpt><wpt lat="54.4037491" lon="10.1343259"><name>node/403878429</name><desc>highway=motorway_junction
+id=node/403878429</desc></wpt><wpt lat="53.9671659" lon="10.8516737"><name>Lübeck-Travemünde</name><desc>highway=motorway_junction
+name=Lübeck-Travemünde
+id=node/412519636</desc></wpt><wpt lat="53.9231377" lon="10.4536618"><name>Geschendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=57664
+TMC:cid_58:tabcd_1:NextLocationCode=57699
+TMC:cid_58:tabcd_1:PrevLocationCode=57666
+highway=motorway_junction
+name=Geschendorf
+noref=yes
+id=node/414201373</desc></wpt><wpt lat="53.9226841" lon="10.4573048"><name>Geschendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=57664
+TMC:cid_58:tabcd_1:NextLocationCode=57699
+TMC:cid_58:tabcd_1:PrevLocationCode=57666
+highway=motorway_junction
+name=Geschendorf
+noref=yes
+id=node/414201381</desc></wpt><wpt lat="54.0172568" lon="10.2426476"><name>Daldorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44514
+TMC:cid_58:tabcd_1:NextLocationCode=23342
+TMC:cid_58:tabcd_1:PrevLocationCode=44695
+highway=motorway_junction
+name=Daldorf
+ref=10
+id=node/429372331</desc></wpt><wpt lat="54.3155642" lon="10.109978"><name>Kiel-Westring</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10613
+TMC:cid_58:tabcd_1:PrevLocationCode=10612
+highway=motorway_junction
+name=Kiel-Westring
+ref=1
+id=node/435720189</desc></wpt><wpt lat="53.7019746" lon="10.7318743"><name>Harmsdorfer Kreuz</name><desc>highway=motorway_junction
+name=Harmsdorfer Kreuz
+noref=yes
+id=node/443458301</desc></wpt><wpt lat="54.2386184" lon="10.8924003"><name>Rastplatz Damlos</name><desc>highway=motorway_junction
+name=Rastplatz Damlos
+noref=yes
+id=node/590227584</desc></wpt><wpt lat="54.2416579" lon="10.8904737"><name>Rastplatz Damlos</name><desc>highway=motorway_junction
+name=Rastplatz Damlos
+noref=yes
+id=node/590227630</desc></wpt><wpt lat="53.9215115" lon="9.9392807"><name>Rastplatz Sielsbrook</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=44610
+TMC:cid_58:tabcd_1:NextLocationCode=44611
+TMC:cid_58:tabcd_1:PrevLocationCode=12390
+highway=motorway_junction
+name=Rastplatz Sielsbrook
+id=node/600390361</desc></wpt><wpt lat="54.4525481" lon="10.1015936"><name>Sprenge</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=26159
+TMC:cid_58:tabcd_1:PrevLocationCode=49498
+highway=motorway_junction
+name=Sprenge
+id=node/607996561</desc></wpt><wpt lat="54.4541233" lon="10.0997333"><name>Sprenge</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44845
+TMC:cid_58:tabcd_1:PrevLocationCode=44844
+highway=motorway_junction
+name=Sprenge
+id=node/607996564</desc></wpt><wpt lat="54.0666731" lon="10.7536746"><name>Raststätte Neustädter Bucht</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10164
+TMC:cid_58:tabcd_1:NextLocationCode=10165
+TMC:cid_58:tabcd_1:PrevLocationCode=10163
+highway=motorway_junction
+name=Raststätte Neustädter Bucht
+noref=yes
+id=node/614135593</desc></wpt><wpt lat="54.0726144" lon="10.7581805"><name>Raststätte Neustädter Bucht</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10164
+TMC:cid_58:tabcd_1:NextLocationCode=10165
+TMC:cid_58:tabcd_1:PrevLocationCode=10163
+highway=motorway_junction
+name=Raststätte Neustädter Bucht
+noref=yes
+id=node/614135617</desc></wpt><wpt lat="54.1514654" lon="10.8513378"><name>Rastplatz Hasselburger Mühle</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44655
+TMC:cid_58:tabcd_1:NextLocationCode=10167
+TMC:cid_58:tabcd_1:PrevLocationCode=10166
+highway=motorway_junction
+name=Rastplatz Hasselburger Mühle
+noref=yes
+id=node/614135695</desc></wpt><wpt lat="53.8530326" lon="10.5861468"><name>Kreuz Lübeck</name><desc>highway=motorway_junction
+name=Kreuz Lübeck
+ref=1
+zone:traffic=DE:rural
+id=node/626626597</desc></wpt><wpt lat="54.3031185" lon="10.126402"><name>Kiel-Barkauer Kreuz</name><desc>highway=motorway_junction
+name=Kiel-Barkauer Kreuz
+id=node/709117148</desc></wpt><wpt lat="54.3633334" lon="11.0158443"><name>Heiligenhafen - Ost</name><desc>highway=motorway_junction
+name=Heiligenhafen - Ost
+ref=5
+id=node/822291979</desc></wpt><wpt lat="53.9199577" lon="10.7239358"><name>Sereetz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10159
+TMC:cid_58:tabcd_1:NextLocationCode=44654
+TMC:cid_58:tabcd_1:PrevLocationCode=10158
+highway=motorway_junction
+name=Sereetz
+ref=19
+id=node/890962375</desc></wpt><wpt lat="54.8167616" lon="9.4154233"><name>Klues</name><desc>highway=motorway_junction
+name=Klues
+id=node/984641847</desc></wpt><wpt lat="54.4260345" lon="10.1384434"><name>Dänischenhagen</name><desc>highway=motorway_junction
+name=Dänischenhagen
+id=node/1014560142</desc></wpt><wpt lat="54.3152416" lon="10.1079629"><name>Kiel-Westring</name><desc>highway=motorway_junction
+name=Kiel-Westring
+ref=1
+id=node/1119534869</desc></wpt><wpt lat="54.3007244" lon="9.758002"><name>Kreuz Rendsburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12400
+TMC:cid_58:tabcd_1:NextLocationCode=44616
+TMC:cid_58:tabcd_1:PrevLocationCode=44615
+highway=motorway_junction
+name=Kreuz Rendsburg
+ref=9
+id=node/1125629823</desc></wpt><wpt lat="54.3353679" lon="10.9366858"><name>Gremersdorf</name><desc>highway=motorway_junction
+name=Gremersdorf
+ref=7
+id=node/1295743732</desc></wpt><wpt lat="54.166578" lon="10.2046535"><name>Nettelsee</name><desc>highway=motorway_junction
+name=Nettelsee
+ref=6
+id=node/1304685735</desc></wpt><wpt lat="54.3628403" lon="10.9684855"><name>Heiligenhafen - Mitte</name><desc>highway=motorway_junction
+name=Heiligenhafen - Mitte
+ref=6
+id=node/1402146408</desc></wpt><wpt lat="54.3622989" lon="10.9849732"><name>Rastplatz Ostseeblick</name><desc>highway=motorway_junction
+name=Rastplatz Ostseeblick
+noref=yes
+id=node/1402150416</desc></wpt><wpt lat="54.664213" lon="9.4304841"><name>Tarp</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12406
+TMC:cid_58:tabcd_1:NextLocationCode=12407
+TMC:cid_58:tabcd_1:PrevLocationCode=44622
+highway=motorway_junction
+name=Tarp
+ref=4
+id=node/1572486342</desc></wpt><wpt lat="53.8974027" lon="9.5113042"><name>Itzehoe-Süd</name><desc>highway=motorway_junction
+name=Itzehoe-Süd
+ref=10
+id=node/1587353771</desc></wpt><wpt lat="53.9342085" lon="9.4826217"><name>Itzehoe-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10631
+TMC:cid_58:tabcd_1:NextLocationCode=10632
+TMC:cid_58:tabcd_1:PrevLocationCode=49329
+highway=motorway_junction
+layer=1
+name=Itzehoe-Mitte
+ref=9
+id=node/1593398851</desc></wpt><wpt lat="54.2889589" lon="10.2252143"><name>Schwentinental</name><desc>highway=motorway_junction
+name=Schwentinental
+id=node/1597860704</desc></wpt><wpt lat="54.2904865" lon="10.2127113"><name>Schwentinental-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44780
+TMC:cid_58:tabcd_1:NextLocationCode=44781
+TMC:cid_58:tabcd_1:PrevLocationCode=25097
+highway=motorway_junction
+name=Schwentinental-Nord
+id=node/1597860732</desc></wpt><wpt lat="54.2961742" lon="10.1890035"><name>Kiel-Elmschenhagen-Mitte</name><desc>highway=motorway_junction
+name=Kiel-Elmschenhagen-Mitte
+id=node/1597860857</desc></wpt><wpt lat="54.3627411" lon="11.0101042"><name>Heiligenhafen - Ost</name><desc>highway=motorway_junction
+name=Heiligenhafen - Ost
+ref=5
+id=node/1602154523</desc></wpt><wpt lat="54.2982663" lon="10.1558305"><name>Kiel-Wellsee</name><desc>highway=motorway_junction
+name=Kiel-Wellsee
+id=node/1602155104</desc></wpt><wpt lat="54.2996388" lon="10.1487835"><name>Kiel-Ostring</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=25098
+TMC:cid_58:tabcd_1:NextLocationCode=57725
+TMC:cid_58:tabcd_1:PrevLocationCode=44781
+highway=motorway_junction
+name=Kiel-Ostring
+id=node/1602155148</desc></wpt><wpt lat="54.3971192" lon="10.0100875"><name>Gettorf Süd</name><desc>highway=motorway_junction
+name=Gettorf Süd
+id=node/1603700089</desc></wpt><wpt lat="54.2890698" lon="10.2239164"><name>Schwentinental</name><desc>highway=motorway_junction
+name=Schwentinental
+id=node/1604768558</desc></wpt><wpt lat="54.291315" lon="10.2084663"><name>Schwentinental-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44780
+TMC:cid_58:tabcd_1:NextLocationCode=44781
+TMC:cid_58:tabcd_1:PrevLocationCode=25097
+highway=motorway_junction
+name=Schwentinental-Nord
+id=node/1604768581</desc></wpt><wpt lat="54.2966739" lon="10.1697378"><name>Kiel-Wellseedamm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44781
+TMC:cid_58:tabcd_1:NextLocationCode=25098
+TMC:cid_58:tabcd_1:PrevLocationCode=44780
+highway=motorway_junction
+name=Kiel-Wellseedamm
+id=node/1604850209</desc></wpt><wpt lat="54.3071119" lon="10.1158101"><name>Kiel-Hamburger Chaussee</name><desc>highway=motorway_junction
+name=Kiel-Hamburger Chaussee
+id=node/1612857587</desc></wpt><wpt lat="54.4197149" lon="9.972861"><name>Gettorf Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44580
+TMC:cid_58:tabcd_1:NextLocationCode=44840
+TMC:cid_58:tabcd_1:PrevLocationCode=25102
+highway=motorway_junction
+name=Gettorf Nord
+id=node/1614235065</desc></wpt><wpt lat="54.3801141" lon="11.0892855"><name>Großenbrode</name><desc>highway=motorway_junction
+name=Großenbrode
+ref=4
+id=node/1615985324</desc></wpt><wpt lat="54.3784358" lon="11.0850487"><name>Großenbrode</name><desc>highway=motorway_junction
+name=Großenbrode
+ref=4
+id=node/1615985325</desc></wpt><wpt lat="54.3034243" lon="10.1245757"><name>Kiel-Barkauer Kreuz</name><desc>highway=motorway_junction
+name=Kiel-Barkauer Kreuz
+id=node/1629627899</desc></wpt><wpt lat="53.8989269" lon="10.7641272"><name>Lübeck-Herreninsel</name><desc>highway=motorway_junction
+name=Lübeck-Herreninsel
+id=node/1643026407</desc></wpt><wpt lat="53.8304002" lon="10.644613"><name>Lübeck-Genin</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10550
+TMC:cid_58:tabcd_1:NextLocationCode=49331
+TMC:cid_58:tabcd_1:PrevLocationCode=10549
+highway=motorway_junction
+name=Lübeck-Genin
+ref=2a
+zone:traffic=DE:rural
+id=node/1646703980</desc></wpt><wpt lat="53.5619109" lon="10.5589722"><name>Talkau</name><desc>highway=motorway_junction
+name=Talkau
+ref=7
+id=node/1671611256</desc></wpt><wpt lat="53.5620536" lon="10.558581"><name>Talkau</name><desc>highway=motorway_junction
+name=Talkau
+ref=7
+id=node/1671611257</desc></wpt><wpt lat="53.5600032" lon="10.414099"><name>Schwarzenbek/Grande</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10645
+TMC:cid_58:tabcd_1:NextLocationCode=10646
+TMC:cid_58:tabcd_1:PrevLocationCode=10644
+highway=motorway_junction
+name=Schwarzenbek/Grande
+ref=6
+id=node/1671690373</desc></wpt><wpt lat="53.5607069" lon="10.4046585"><name>Schwarzenbek/Grande</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10645
+TMC:cid_58:tabcd_1:NextLocationCode=10646
+TMC:cid_58:tabcd_1:PrevLocationCode=10644
+highway=motorway_junction
+name=Schwarzenbek/Grande
+ref=6
+id=node/1671690414</desc></wpt><wpt lat="53.5656945" lon="10.3257257"><name>Witzhave</name><desc>highway=motorway_junction
+name=Witzhave
+ref=5
+id=node/1671690437</desc></wpt><wpt lat="53.5658089" lon="10.3257537"><name>Witzhave</name><desc>highway=motorway_junction
+name=Witzhave
+ref=5
+id=node/1673160421</desc></wpt><wpt lat="53.9322033" lon="10.2774631"><name>Bad Segeberg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44698
+TMC:cid_58:tabcd_1:NextLocationCode=44697
+TMC:cid_58:tabcd_1:PrevLocationCode=44699
+highway=motorway_junction
+name=Bad Segeberg-Nord
+ref=12
+id=node/1674864928</desc></wpt><wpt lat="53.9323259" lon="10.2772892"><name>Bad Segeberg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44698
+TMC:cid_58:tabcd_1:NextLocationCode=44697
+TMC:cid_58:tabcd_1:PrevLocationCode=44699
+highway=motorway_junction
+name=Bad Segeberg-Nord
+ref=12
+id=node/1674864942</desc></wpt><wpt lat="53.9190116" lon="10.2737088"><name>Bad Segeberg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44699
+TMC:cid_58:tabcd_1:NextLocationCode=44698
+TMC:cid_58:tabcd_1:PrevLocationCode=44700
+highway=motorway_junction
+name=Bad Segeberg-Süd
+ref=13
+id=node/1674864958</desc></wpt><wpt lat="53.9241174" lon="10.2747957"><name>Bad Segeberg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44699
+TMC:cid_58:tabcd_1:NextLocationCode=44698
+TMC:cid_58:tabcd_1:PrevLocationCode=44700
+highway=motorway_junction
+name=Bad Segeberg-Süd
+ref=13
+id=node/1674864968</desc></wpt><wpt lat="54.1623992" lon="10.2036449"><name>Nettelsee</name><desc>highway=motorway_junction
+name=Nettelsee
+ref=6
+id=node/1674865406</desc></wpt><wpt lat="53.9659972" lon="10.2531637"><name>Wahlstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44695
+TMC:cid_58:tabcd_1:NextLocationCode=44514
+TMC:cid_58:tabcd_1:PrevLocationCode=44696
+highway=motorway_junction
+name=Wahlstedt
+ref=11
+id=node/1674865429</desc></wpt><wpt lat="53.9714922" lon="10.2413885"><name>Wahlstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44695
+TMC:cid_58:tabcd_1:NextLocationCode=44514
+TMC:cid_58:tabcd_1:PrevLocationCode=44696
+highway=motorway_junction
+name=Wahlstedt
+ref=11
+id=node/1674865462</desc></wpt><wpt lat="53.6078232" lon="9.8173065"><name>Halstenbek</name><desc>highway=motorway_junction
+name=Halstenbek
+noref=yes
+id=node/1675520514</desc></wpt><wpt lat="53.6090208" lon="9.8128062"><name>Halstenbek</name><desc>highway=motorway_junction
+name=Halstenbek
+noref=yes
+id=node/1675520540</desc></wpt><wpt lat="54.3908465" lon="9.0094789"><name>node/1676808349</name><desc>highway=motorway_junction
+id=node/1676808349</desc></wpt><wpt lat="54.1216522" lon="9.9528359"><name>Neumünster-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12396
+TMC:cid_58:tabcd_1:NextLocationCode=12397
+TMC:cid_58:tabcd_1:PrevLocationCode=12395
+highway=motorway_junction
+name=Neumünster-Nord
+ref=13
+id=node/1679953738</desc></wpt><wpt lat="54.2166886" lon="9.8582134"><name>Warder</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12399
+TMC:cid_58:tabcd_1:NextLocationCode=44615
+TMC:cid_58:tabcd_1:PrevLocationCode=44614
+highway=motorway_junction
+name=Warder
+ref=10
+id=node/1679953745</desc></wpt><wpt lat="54.0693679" lon="10.2181426"><name>Bornhöved</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44501
+TMC:cid_58:tabcd_1:NextLocationCode=44502
+TMC:cid_58:tabcd_1:PrevLocationCode=23342
+highway=motorway_junction
+name=Bornhöved
+ref=8
+id=node/1679998293</desc></wpt><wpt lat="53.9098625" lon="10.774266"><name>Lübeck-Siems</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10616
+TMC:cid_58:tabcd_1:NextLocationCode=10617
+TMC:cid_58:tabcd_1:PrevLocationCode=10615
+highway=motorway_junction
+name=Lübeck-Siems
+ref=3
+id=node/1690009655</desc></wpt><wpt lat="53.5376835" lon="10.7302227"><name>Gudow</name><desc>highway=motorway_junction
+name=Gudow
+ref=8b
+id=node/1842974514</desc></wpt><wpt lat="53.6025458" lon="9.8323202"><name>Schenefeld-Siedlung</name><desc>highway=motorway_junction
+name=Schenefeld-Siedlung
+noref=yes
+id=node/1844682549</desc></wpt><wpt lat="54.8033035" lon="9.3296373"><name>Grenzübergang Ellund</name><desc>highway=motorway_junction
+name=Grenzübergang Ellund
+name:da=Grænseovergang Ellund
+ref=1
+id=node/2145082415</desc></wpt><wpt lat="53.5385925" lon="10.7264026"><name>Gudow</name><desc>highway=motorway_junction
+name=Gudow
+ref=8b
+id=node/2610821546</desc></wpt><wpt lat="54.3626597" lon="10.9793"><name>Rastplatz Ostseeblick</name><desc>highway=motorway_junction
+name=Rastplatz Ostseeblick
+noref=yes
+id=node/2638107210</desc></wpt><wpt lat="53.6731876" lon="9.9416563"><name>Rastplatz Bönningstedt</name><desc>highway=motorway_junction
+name=Rastplatz Bönningstedt
+noref=yes
+id=node/2688586700</desc></wpt><wpt lat="54.314987" lon="10.0888971"><name>Kiel-Mitte</name><desc>highway=motorway_junction
+name=Kiel-Mitte
+ref=2
+id=node/4380738332</desc></wpt><wpt lat="54.2966547" lon="10.1712468"><name>Kiel-Wellseedamm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=44781
+TMC:cid_58:tabcd_1:NextLocationCode=25098
+TMC:cid_58:tabcd_1:PrevLocationCode=44780
+highway=motorway_junction
+name=Kiel-Wellseedamm
+id=node/4690974076</desc></wpt><wpt lat="53.6407219" lon="10.6945307"><name>Mölln</name><desc>highway=motorway_junction
+name=Mölln
+id=node/6033879624</desc></wpt><wpt lat="54.366138" lon="10.1205269"><name>Wiker Knoten</name><desc>highway=motorway_junction
+name=Wiker Knoten
+id=node/7794163391</desc></wpt></gpx>
