@@ -1,0 +1,1218 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="48.8478857" lon="9.1123656"><name>Biogasanlage</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=gas_turbine
+name=Biogasanlage
+operator=BioEnergie GbR Korntal
+power=generator
+id=node/246674074</desc></wpt><wpt lat="48.7710088" lon="8.0866372"><name>Biomassekraftwerk</name><desc>addr:city=Rheinmünster
+addr:country=DE
+addr:housenumber=102
+addr:postcode=77836
+addr:street=Victoria Boulevard D
+generator:method=combustion
+generator:output:electricity=4.4 MW
+generator:output:steam=yes
+generator:source=biomass
+generator:type=steam_generator
+name=Biomassekraftwerk
+note=Elektrische Leistung von FAZ Artikel aus 2007
+operator=Baden Airpark Energie GmbH
+power=generator
+start_date=März 2006
+id=node/440341210</desc></wpt><wpt lat="48.8683131" lon="9.052041"><name>node/1750795458</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:output:hot_water=yes
+generator:source=biomass
+power=generator
+id=node/1750795458</desc></wpt><wpt lat="48.8863265" lon="9.011063"><name>node/1757354922</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:output:hot_water=yes
+generator:source=biomass
+power=generator
+id=node/1757354922</desc></wpt><wpt lat="48.5378077" lon="8.573192"><name>Weiler Wärme</name><desc>generator:method=combustion
+generator:output:electricity=yes
+generator:output:hot_air=yes
+generator:output:hot_water=yes
+generator:source=biomass
+generator:type=steam_generator
+name=Weiler Wärme
+power=generator
+id=node/2452506669</desc></wpt><wpt lat="49.1838427" lon="9.8864112"><name>node/2663541070</name><desc>addr:postcode=74549
+generator:method=anaerobic_digestion
+generator:output:electricity=265 kW
+generator:output:hot_water=yes
+generator:source=biomass
+power=generator
+ref:EEG=E10843010000000000000057383300001
+start_date=2011-12-15
+id=node/2663541070</desc></wpt><wpt lat="48.2771444" lon="9.9988921"><name>node/2707259485</name><desc>generator:output=yes
+generator:source=biomass
+power=generator
+id=node/2707259485</desc></wpt><wpt lat="48.2680629" lon="9.9838157"><name>node/2707260471</name><desc>generator:output=yes
+generator:source=biomass
+power=generator
+id=node/2707260471</desc></wpt><wpt lat="48.1611512" lon="10.0882309"><name>node/2707270207</name><desc>generator:output=yes
+generator:source=biomass
+power=generator
+id=node/2707270207</desc></wpt><wpt lat="49.4239349" lon="10.0069656"><name>node/3161855074</name><desc>generator:source=biomass
+power=generator
+id=node/3161855074</desc></wpt><wpt lat="49.4411249" lon="9.8581402"><name>node/3169434180</name><desc>generator:source=biomass
+power=generator
+id=node/3169434180</desc></wpt><wpt lat="49.4230881" lon="9.8932635"><name>node/3175627067</name><desc>generator:source=biomass
+power=generator
+id=node/3175627067</desc></wpt><wpt lat="49.3455211" lon="9.9431155"><name>node/3188285794</name><desc>generator:source=biomass
+power=generator
+id=node/3188285794</desc></wpt><wpt lat="49.5317631" lon="10.0617564"><name>node/3258051112</name><desc>generator:source=biomass
+power=generator
+id=node/3258051112</desc></wpt><wpt lat="49.1334174" lon="10.234054"><name>node/3263078921</name><desc>generator:source=biomass
+power=generator
+id=node/3263078921</desc></wpt><wpt lat="49.2928893" lon="9.8619622"><name>Biogasanlage</name><desc>generator:method=bio_gas
+generator:source=biomass
+name=Biogasanlage
+power=generator
+id=node/3265479597</desc></wpt><wpt lat="47.8675475" lon="9.4218354"><name>node/3309840081</name><desc>generator:source=biomass
+operator=Technische Werke Schussental
+power=generator
+source=http://zieglersche.de/aktuelle-themen-archiv-termine-und-mehr/archiv/oeko-heizzentrale.html
+website=https://www.tws.de/
+id=node/3309840081</desc></wpt><wpt lat="48.897584" lon="8.7260276"><name>Biomasseblock</name><desc>frequency=50
+generator:method=combustion
+generator:output:electricity=13.3 MW
+generator:output:steam=25 MW
+generator:source=biomass
+generator:type=steam_turbine
+name=Biomasseblock
+operator=Heizkraftwerk Pforzheim GmbH
+power=generator
+start_date=2004-12
+id=node/3754896450</desc></wpt><wpt lat="48.0040584" lon="9.1149059"><name>BHKW 1</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=600 kW
+generator:output:heat=720 kW
+generator:source=biomass
+name=BHKW 1
+operator=Hopp Agrar GbR
+power=generator
+ref:EEG=E10843010000000000000041316100002
+start_date=2011-03-18
+website=http://www.bioenergie-messkirch.de/
+id=node/4003274089</desc></wpt><wpt lat="48.0003144" lon="9.116413"><name>node/4003274090</name><desc>generator:location=indoor
+generator:method=combustion
+generator:output:electricity=no
+generator:output:heat=1.2 MW
+generator:source=biomass
+note=Heizzentrale / Hackschnitzel
+power=generator
+id=node/4003274090</desc></wpt><wpt lat="47.9967382" lon="9.153377"><name>node/4003274127</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=node/4003274127</desc></wpt><wpt lat="48.2350183" lon="8.7934097"><name>node/4017572734</name><desc>generator:source=biomass
+power=generator
+id=node/4017572734</desc></wpt><wpt lat="48.8942918" lon="9.9425045"><name>node/4022631636</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=780 kW
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+ref:EEG=E12974010000000000000031118700001
+start_date=2009-12-20
+id=node/4022631636</desc></wpt><wpt lat="49.2125114" lon="8.5239518"><name>node/4083060530</name><desc>description=150 kW Blockheizkraftwerk
+frequency=50
+generator:method=combustion
+generator:output:electricity=150 kW
+generator:output:hot_water=yes
+generator:source=biomass
+generator:type=steam_turbine
+operator=Top Fit Studios GmbH
+power=generator
+start_date=2008-07
+id=node/4083060530</desc></wpt><wpt lat="49.3025255" lon="8.7100198"><name>node/4210510755</name><desc>description=Heizkraftwerk
+generator:method=combustion
+generator:output:electricity=287 kW
+generator:output:hot_water=2.4 MW
+generator:source=biomass
+generator:type=steam_generator
+power=generator
+id=node/4210510755</desc></wpt><wpt lat="48.6093011" lon="10.3007763"><name>Biogas Bader</name><desc>addr:postcode=89537
+generator:method=anaerobic_digestion
+generator:output:electricity=190 kW
+generator:source=biomass
+generator:type=bioreactor
+name=Biogas Bader
+operator=Jürgen Bader
+power=generator
+ref:EEG=E12974010000000000000032936100001
+start_date=2011-12-08
+website=https://biogas-bader.de/
+id=node/4344946002</desc></wpt><wpt lat="48.7168287" lon="9.310827"><name>node/4427744976</name><desc>generator:method=internal_combustion
+generator:output:electricity=small_installation
+generator:source=biomass
+power=generator
+id=node/4427744976</desc></wpt><wpt lat="49.0411806" lon="8.3116806"><name>node/4827877488</name><desc>generator:method=combustion
+generator:output:electricity=78 MW
+generator:output:hot_water=30 MW
+generator:source=biomass
+generator:type=steam_turbine
+operator=Stora Enso Maxau GmbH
+power=generator
+start_date=2010
+id=node/4827877488</desc></wpt><wpt lat="49.0444918" lon="8.3593657"><name>Schlammverbrennungsanlage 2</name><desc>generator:method=combustion
+generator:output:electricity=yes
+generator:source=biomass
+generator:source:biomass=sewage_sludge
+generator:type=steam_turbine
+name=Schlammverbrennungsanlage 2
+operator=Stadt Karlsruhe
+power=generator
+id=node/4827878003</desc></wpt><wpt lat="48.5961852" lon="10.2644978"><name>Biogas Gansloser</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+name=Biogas Gansloser
+power=generator
+id=node/5049341696</desc></wpt><wpt lat="49.2713396" lon="8.8862788"><name>node/7055539352</name><desc>frequency=50
+generator:method=combustion
+generator:output:electricity=1.3 MW
+generator:output:hot_water=6 MW
+generator:source=biomass
+generator:type=steam_generator
+operator=AVR Energie GmbH
+power=generator
+start_date=2011-09-30
+id=node/7055539352</desc></wpt><wpt lat="49.2713913" lon="8.8862431"><name>node/7055539353</name><desc>generator:method=combustion
+generator:output:electricity=no
+generator:output:hot_water=6 MW
+generator:source=biomass
+generator:type=steam_turbine
+operator=AVR Energie GmbH
+power=generator
+start_date=2011-09-30
+id=node/7055539353</desc></wpt><wpt lat="49.2707413" lon="8.8869417"><name>node/7055594545</name><desc>generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:output:electricity=no
+generator:source=biomass
+generator:type=bioreactor
+operator=AVR BioTerra GmbH &amp; Co. KG
+power=generator
+id=node/7055594545</desc></wpt><wpt lat="49.2914311" lon="8.6391404"><name>node/7570270274</name><desc>description=Mit Holzpellets befeuerter Biomassekessel mit 1.2 MW Wärmeerzeugungsleistung
+generator:method=combustion
+generator:output:electricity=no
+generator:output:hot_water=1.2 MW
+generator:source=biomass
+generator:type=steam_generator
+operator=SAP SE
+power=generator
+start_date=2017
+id=node/7570270274</desc></wpt><wpt lat="48.7682585" lon="8.2552855"><name>node/8544333786</name><desc>generator:method=combustion
+generator:output:electricity=no
+generator:output:hot_water=3 MW
+generator:source=biomass
+generator:source:biomass=wood
+generator:type=boiler
+operator=Sales &amp; Solutions GmbH
+owner=Gemeinschaftskraftwerk Baden-Baden GmbH
+power=generator
+start_date=1997
+id=node/8544333786</desc></wpt><wpt lat="49.0449351" lon="8.3596636"><name>Schlammverbrennungsanlage 1</name><desc>generator:method=combustion
+generator:output:electricity=yes
+generator:source=biomass
+generator:source:biomass=sewage_sludge
+generator:type=steam_turbine
+name=Schlammverbrennungsanlage 1
+operator=Stadt Karlsruhe
+power=generator
+id=node/8544451656</desc></wpt><wpt lat="48.9577823" lon="9.4059449"><name>node/10188830339</name><desc>generator:method=combustion
+generator:output:electricity=250 kW
+generator:output:hot_water=300 kW
+generator:source=biomass
+generator:type=gas_turbine
+power=generator
+id=node/10188830339</desc></wpt><wpt lat="48.155754" lon="8.5913622"><name>node/10572788867</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=526 kW
+generator:output:heat=560 kW
+generator:source=biomass
+power=generator
+id=node/10572788867</desc></wpt><wpt lat="47.9161815" lon="8.208195"><name>node/11882193037</name><desc>generator:method=combustion
+generator:output:hot_water=yes
+generator:source=biomass
+operator=Energieversorgung Titisee-Neustadt
+power=generator
+id=node/11882193037</desc></wpt><wpt lat="49.5241689" lon="9.4550443"><name>node/12739019236</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=node/12739019236</desc></wpt><wpt lat="48.3902102" lon="7.7501054"><name>Ottenheim</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=small_installation
+generator:source=biomass
+generator:type=bioreactor
+operator=Privat
+power=generator
+ref=Ottenheim
+id=node/12957265269</desc></wpt><trk><name>Biogasanlage Wilsingen</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=251 kW
+generator:output:hot_air=315 kW
+generator:source=biomass
+name=Biogasanlage Wilsingen
+operator=Bioenergie Vetter GbR
+power=generator
+type=multipolygon
+id=relation/12742129</desc><trkseg><trkpt lat="48.2703587" lon="9.3172351"/><trkpt lat="48.2704532" lon="9.3158019"/><trkpt lat="48.2682878" lon="9.3156088"/><trkpt lat="48.2681978" lon="9.3170394"/><trkpt lat="48.2694447" lon="9.3171737"/><trkpt lat="48.2703587" lon="9.3172351"/></trkseg><trkseg><trkpt lat="48.27038" lon="9.315959"/><trkpt lat="48.2703269" lon="9.3168122"/><trkpt lat="48.2698691" lon="9.3167592"/><trkpt lat="48.2699204" lon="9.3159034"/><trkpt lat="48.2703588" lon="9.3159564"/><trkpt lat="48.27038" lon="9.315959"/></trkseg></trk><trk><name>Holzheizkraftwerk</name><desc>area=yes
+generator:method=combustion
+generator:source=biomass
+name=Holzheizkraftwerk
+operator=Stadtwerke Esslingen
+power=generator
+id=way/25523944</desc><trkseg><trkpt lat="48.7178988" lon="9.275535"/><trkpt lat="48.717846" lon="9.2755394"/><trkpt lat="48.7178608" lon="9.275701"/><trkpt lat="48.7178701" lon="9.275835"/><trkpt lat="48.7178805" lon="9.27596"/><trkpt lat="48.7179068" lon="9.2762917"/><trkpt lat="48.7181652" lon="9.2762483"/><trkpt lat="48.7182754" lon="9.2762053"/><trkpt lat="48.7182715" lon="9.2761393"/><trkpt lat="48.7182598" lon="9.2759221"/><trkpt lat="48.7182585" lon="9.2759031"/><trkpt lat="48.7183858" lon="9.2758831"/><trkpt lat="48.7183771" lon="9.2757598"/><trkpt lat="48.7182556" lon="9.2757776"/><trkpt lat="48.7182404" lon="9.2754942"/><trkpt lat="48.7179604" lon="9.2755287"/><trkpt lat="48.7179307" lon="9.2755313"/><trkpt lat="48.7178988" lon="9.275535"/></trkseg></trk><trk><name>way/27516077</name><desc>addr:city=Straubenhardt
+addr:country=DE
+addr:housenumber=39
+addr:postcode=75334
+addr:street=Am Hasenstock
+addr:suburb=Conweiler
+building=yes
+generator:method=combustion
+generator:output:electricity=no
+generator:output:hot_water=2000 kW
+generator:source=biomass
+operator=BIOtherm Biomasseheizwerk Straubenhardt GmbH &amp; Co. KG
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de)
+id=way/27516077</desc><trkseg><trkpt lat="48.84559" lon="8.5145077"/><trkpt lat="48.845424" lon="8.5146789"/><trkpt lat="48.8454885" lon="8.5148235"/><trkpt lat="48.8455634" lon="8.5147463"/><trkpt lat="48.8456284" lon="8.5148918"/><trkpt lat="48.8457195" lon="8.5147978"/><trkpt lat="48.84559" lon="8.5145077"/></trkseg></trk><trk><name>Biogasanlage</name><desc>generator:output:electricity=yes
+generator:output:hot_water=yes
+generator:source=biomass
+name=Biogasanlage
+power=generator
+id=way/41729058</desc><trkseg><trkpt lat="48.9124777" lon="9.1042044"/><trkpt lat="48.9121781" lon="9.1036365"/><trkpt lat="48.9119768" lon="9.1033468"/><trkpt lat="48.9119028" lon="9.10328"/><trkpt lat="48.9115871" lon="9.1032581"/><trkpt lat="48.911442" lon="9.1032473"/><trkpt lat="48.9114252" lon="9.1032601"/><trkpt lat="48.9112013" lon="9.1032467"/><trkpt lat="48.9111318" lon="9.1033801"/><trkpt lat="48.9110903" lon="9.1035941"/><trkpt lat="48.911219" lon="9.1044604"/><trkpt lat="48.9116304" lon="9.1043572"/><trkpt lat="48.9116501" lon="9.1045681"/><trkpt lat="48.9123433" lon="9.1044297"/><trkpt lat="48.9124777" lon="9.1042044"/></trkseg></trk><trk><name>way/51703322</name><desc>generator:source=biomass
+landuse=farmyard
+power=generator
+source=Bing
+id=way/51703322</desc><trkseg><trkpt lat="49.2438307" lon="9.987757"/><trkpt lat="49.24336" lon="9.9878361"/><trkpt lat="49.243407" lon="9.9887817"/><trkpt lat="49.2427362" lon="9.9889039"/><trkpt lat="49.2427843" lon="9.9896144"/><trkpt lat="49.2439068" lon="9.9893591"/><trkpt lat="49.2438307" lon="9.987757"/></trkseg></trk><trk><name>Heizzentrale Möggingen</name><desc>building=yes
+generator:source=biomass
+name=Heizzentrale Möggingen
+operator=Stadtwerke Radolfzell
+power=generator
+id=way/88489267</desc><trkseg><trkpt lat="47.7683598" lon="9.0050051"/><trkpt lat="47.768571" lon="9.0049896"/><trkpt lat="47.7685611" lon="9.004691"/><trkpt lat="47.7683499" lon="9.0047065"/><trkpt lat="47.7683598" lon="9.0050051"/></trkseg></trk><trk><name>way/99559373</name><desc>alt_name=Hackschnitzelheizanlage
+building=yes
+generator:output:heat=yes
+generator:source=biomass
+operator=Stadtwerke Pfullingen
+power=generator
+id=way/99559373</desc><trkseg><trkpt lat="48.4660181" lon="9.2212806"/><trkpt lat="48.4658876" lon="9.2213301"/><trkpt lat="48.4659033" lon="9.2214239"/><trkpt lat="48.4660337" lon="9.2213743"/><trkpt lat="48.4660181" lon="9.2212806"/></trkseg></trk><trk><name>Wirbelschichtofen III</name><desc>building=industrial
+building:name=Kesselhaus
+generator:method=combustion
+generator:output:electricity=yes
+generator:output:hot_water=yes
+generator:source=biomass
+generator:type=steam_generator
+name=Wirbelschichtofen III
+power=generator
+start_date=2007
+id=way/100981208</desc><trkseg><trkpt lat="48.8484173" lon="9.2430162"/><trkpt lat="48.8481856" lon="9.243536"/><trkpt lat="48.8483429" lon="9.243698"/><trkpt lat="48.8485747" lon="9.2431782"/><trkpt lat="48.8484173" lon="9.2430162"/></trkseg></trk><trk><name>way/113222650</name><desc>addr:city=Aspach
+addr:country=DE
+addr:housenumber=15
+addr:postcode=71546
+addr:street=Breitfeldweg
+addr:suburb=Kleinaspach
+generator:source=biomass
+generator:type=gas_turbine
+operator=Gemeinde Aspach
+plant:method=anaerobic_digestion
+plant:output:electricity=250 kW
+plant:output:hot_water=300 kW
+plant:source=biomass
+power=generator
+id=way/113222650</desc><trkseg><trkpt lat="48.9892792" lon="9.3688665"/><trkpt lat="48.9889859" lon="9.3697363"/><trkpt lat="48.9890085" lon="9.3697594"/><trkpt lat="48.9894709" lon="9.3700391"/><trkpt lat="48.9897119" lon="9.3704286"/><trkpt lat="48.9898697" lon="9.3704443"/><trkpt lat="48.9901889" lon="9.3703867"/><trkpt lat="48.990423" lon="9.3702708"/><trkpt lat="48.9907513" lon="9.3701385"/><trkpt lat="48.9906892" lon="9.3696831"/><trkpt lat="48.9906127" lon="9.369137"/><trkpt lat="48.9905158" lon="9.3685749"/><trkpt lat="48.9903873" lon="9.3684233"/><trkpt lat="48.9902807" lon="9.3682992"/><trkpt lat="48.9901867" lon="9.3681774"/><trkpt lat="48.9901123" lon="9.3681323"/><trkpt lat="48.9900375" lon="9.3680842"/><trkpt lat="48.9899144" lon="9.3680364"/><trkpt lat="48.9897957" lon="9.3680171"/><trkpt lat="48.9897188" lon="9.3680292"/><trkpt lat="48.989652" lon="9.3680659"/><trkpt lat="48.9896026" lon="9.3681237"/><trkpt lat="48.9895303" lon="9.3682775"/><trkpt lat="48.9892792" lon="9.3688665"/></trkseg></trk><trk><name>way/129128920</name><desc>addr:city=Eberhardzell
+addr:country=DE
+addr:housenumber=20/1
+addr:place=Kappel
+addr:postcode=88436
+building=yes
+generator:method=combustion
+generator:output:electricity=yes
+generator:output:hot_water=yes
+generator:source=biomass
+power=generator
+source=Maps4BW ( LGL, www.lgl-bw.de) / Bing
+id=way/129128920</desc><trkseg><trkpt lat="47.9888252" lon="9.8231318"/><trkpt lat="47.9887823" lon="9.8230715"/><trkpt lat="47.9888061" lon="9.8230338"/><trkpt lat="47.9888395" lon="9.8230809"/><trkpt lat="47.9889067" lon="9.8229743"/><trkpt lat="47.9889609" lon="9.8228167"/><trkpt lat="47.9889289" lon="9.8227716"/><trkpt lat="47.9889132" lon="9.8227965"/><trkpt lat="47.9888903" lon="9.8227633"/><trkpt lat="47.98885" lon="9.8227077"/><trkpt lat="47.9886963" lon="9.8229517"/><trkpt lat="47.9886852" lon="9.8229361"/><trkpt lat="47.9884763" lon="9.8232677"/><trkpt lat="47.9885056" lon="9.823309"/><trkpt lat="47.988559" lon="9.823384"/><trkpt lat="47.9885773" lon="9.8233549"/><trkpt lat="47.9886959" lon="9.8231667"/><trkpt lat="47.9887146" lon="9.823137"/><trkpt lat="47.9887715" lon="9.823217"/><trkpt lat="47.9888252" lon="9.8231318"/></trkseg></trk><trk><name>Holzhackschnitzelkraftwerk</name><desc>addr:city=Deißlingen
+addr:country=DE
+addr:housenumber=11
+addr:postcode=78652
+addr:street=Schwärzenstraße
+building=yes
+generator:output:electricity=yes
+generator:output:heat=yes
+generator:source=biomass
+name=Holzhackschnitzelkraftwerk
+operator=Gemeindewerke Deißlingen
+power=generator
+id=way/130426058</desc><trkseg><trkpt lat="48.1157808" lon="8.6064072"/><trkpt lat="48.1158596" lon="8.6065526"/><trkpt lat="48.1158727" lon="8.6065366"/><trkpt lat="48.1159001" lon="8.6065871"/><trkpt lat="48.1159732" lon="8.6064982"/><trkpt lat="48.1159465" lon="8.606449"/><trkpt lat="48.1159906" lon="8.6063953"/><trkpt lat="48.1159111" lon="8.6062487"/><trkpt lat="48.1157808" lon="8.6064072"/></trkseg></trk><trk><name>way/152085006</name><desc>addr:city=St. Peter
+addr:country=DE
+addr:housenumber=1a
+addr:street=Jörgleweg
+building=yes
+generator:source=biomass
+operator=Bürger Energie Sankt Peter
+power=generator
+id=way/152085006</desc><trkseg><trkpt lat="48.0214863" lon="8.0354512"/><trkpt lat="48.0214671" lon="8.0353219"/><trkpt lat="48.0210658" lon="8.0355048"/><trkpt lat="48.0210935" lon="8.0356732"/><trkpt lat="48.0211351" lon="8.0356539"/><trkpt lat="48.0211862" lon="8.0356302"/><trkpt lat="48.0212339" lon="8.0356081"/><trkpt lat="48.0212946" lon="8.0355799"/><trkpt lat="48.0213312" lon="8.0355269"/><trkpt lat="48.0213823" lon="8.0354984"/><trkpt lat="48.0214287" lon="8.0354751"/><trkpt lat="48.0214465" lon="8.0354662"/><trkpt lat="48.0214863" lon="8.0354512"/></trkseg></trk><trk><name>way/169263451</name><desc>addr:city=Bietigheim-Bissingen
+addr:country=DE
+addr:housenumber=1
+addr:postcode=74321
+addr:street=Ellentalstraße
+building=service
+description=BHKW aus Name übernommen
+generator:method=combustion
+generator:source=biomass
+power=generator
+id=way/169263451</desc><trkseg><trkpt lat="48.9549704" lon="9.1240437"/><trkpt lat="48.9548317" lon="9.1240156"/><trkpt lat="48.9548023" lon="9.1243522"/><trkpt lat="48.9549411" lon="9.1243803"/><trkpt lat="48.9549704" lon="9.1240437"/></trkseg></trk><trk><name>way/185904934</name><desc>description:de=Biomasseheizwerk
+generator:method=combustion
+generator:source=biomass
+operator=UBP
+power=generator
+source=HiRes aerial imagery
+id=way/185904934</desc><trkseg><trkpt lat="49.432113" lon="8.6528265"/><trkpt lat="49.4321807" lon="8.6530829"/><trkpt lat="49.4323624" lon="8.6529749"/><trkpt lat="49.4322952" lon="8.652714"/><trkpt lat="49.432113" lon="8.6528265"/></trkseg></trk><trk><name>way/188819841</name><desc>addr:city=Kirchheim unter Teck
+addr:country=DE
+addr:housenumber=150
+addr:postcode=73230
+addr:street=Zu den Schafhofäckern
+building=yes
+building:colour=white
+generator:output:hot_water=yes
+generator:source=biomass
+height=3
+power=generator
+roof:material=grass
+roof:shape=flat
+id=way/188819841</desc><trkseg><trkpt lat="48.6505726" lon="9.4699026"/><trkpt lat="48.650639" lon="9.4699666"/><trkpt lat="48.6506969" lon="9.4698289"/><trkpt lat="48.6506305" lon="9.469765"/><trkpt lat="48.6505726" lon="9.4699026"/></trkseg></trk><trk><name>Biogasanlage Bad Wimpfen</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:output:steam=yes
+generator:source=biomass
+name=Biogasanlage Bad Wimpfen
+operator=Bioenergie Bad Wimpfen GmbH &amp; Co. KG
+power=generator
+website=http://www.suewag.eu/web/cms/de/2324592/suewag-gruppe/energiewende/dezentrale-erzeugung/biomasse/bad-wimpfen/
+id=way/195211886</desc><trkseg><trkpt lat="49.2323506" lon="9.1359001"/><trkpt lat="49.2322209" lon="9.1354365"/><trkpt lat="49.2320687" lon="9.1348352"/><trkpt lat="49.2311224" lon="9.1347001"/><trkpt lat="49.2309823" lon="9.1347054"/><trkpt lat="49.2308733" lon="9.1348272"/><trkpt lat="49.2308128" lon="9.1351954"/><trkpt lat="49.2307332" lon="9.1356988"/><trkpt lat="49.2320894" lon="9.1359398"/><trkpt lat="49.2323506" lon="9.1359001"/></trkseg></trk><trk><name>way/195214512</name><desc>addr:city=Leutkirch im Allgäu
+addr:country=DE
+addr:housenumber=33
+addr:postcode=88299
+addr:street=Herlazhofer Straße
+building=yes
+generator:method=thermal
+generator:source=biomass
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de) 10.2020; Bing 2020
+id=way/195214512</desc><trkseg><trkpt lat="47.8179226" lon="10.018411"/><trkpt lat="47.817935" lon="10.0183502"/><trkpt lat="47.817888" lon="10.0183289"/><trkpt lat="47.8178956" lon="10.0182916"/><trkpt lat="47.8177725" lon="10.0182358"/><trkpt lat="47.8177525" lon="10.0183339"/><trkpt lat="47.8179226" lon="10.018411"/></trkseg></trk><trk><name>way/198431194</name><desc>building=container
+generator:method=combustion
+generator:output:hot_water=500 kW
+generator:source=biomass
+generator:type=steam_generator
+power=generator
+source=Maps4BW, LGL, www.lgl-bw.de
+id=way/198431194</desc><trkseg><trkpt lat="48.3273993" lon="7.8210431"/><trkpt lat="48.3274217" lon="7.8209641"/><trkpt lat="48.3274281" lon="7.8209413"/><trkpt lat="48.3273959" lon="7.8209208"/><trkpt lat="48.3273672" lon="7.8210226"/><trkpt lat="48.3273993" lon="7.8210431"/></trkseg></trk><trk><name>way/201298273</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2007
+id=way/201298273</desc><trkseg><trkpt lat="48.1950438" lon="9.8760366"/><trkpt lat="48.195045" lon="9.8759792"/><trkpt lat="48.1950336" lon="9.8759243"/><trkpt lat="48.195011" lon="9.8758779"/><trkpt lat="48.1949796" lon="9.8758451"/><trkpt lat="48.1949427" lon="9.8758293"/><trkpt lat="48.1949045" lon="9.8758324"/><trkpt lat="48.194869" lon="9.8758539"/><trkpt lat="48.19484" lon="9.8758916"/><trkpt lat="48.1948208" lon="9.8759413"/><trkpt lat="48.1948134" lon="9.8759976"/><trkpt lat="48.1948186" lon="9.8760546"/><trkpt lat="48.1948358" lon="9.8761059"/><trkpt lat="48.1948632" lon="9.876146"/><trkpt lat="48.1948978" lon="9.8761707"/><trkpt lat="48.1949359" lon="9.8761771"/><trkpt lat="48.1949733" lon="9.8761646"/><trkpt lat="48.1950059" lon="9.8761346"/><trkpt lat="48.1950303" lon="9.8760904"/><trkpt lat="48.1950438" lon="9.8760366"/></trkseg></trk><trk><name>Schilling</name><desc>building=yes
+generator:source=biomass
+name=Schilling
+power=generator
+source=Maps4BW ( LGL, www.lgl-bw.de) / Bing
+id=way/205948329</desc><trkseg><trkpt lat="48.1659758" lon="9.9767193"/><trkpt lat="48.1660051" lon="9.9766347"/><trkpt lat="48.1660106" lon="9.9765398"/><trkpt lat="48.1659914" lon="9.9764489"/><trkpt lat="48.1659505" lon="9.976376"/><trkpt lat="48.165894" lon="9.9763321"/><trkpt lat="48.1658307" lon="9.9763239"/><trkpt lat="48.1657701" lon="9.9763526"/><trkpt lat="48.1657215" lon="9.976414"/><trkpt lat="48.1656922" lon="9.9764985"/><trkpt lat="48.1656867" lon="9.9765935"/><trkpt lat="48.1657059" lon="9.9766844"/><trkpt lat="48.1657468" lon="9.9767573"/><trkpt lat="48.1658032" lon="9.9768012"/><trkpt lat="48.1658665" lon="9.9768094"/><trkpt lat="48.1659271" lon="9.9767807"/><trkpt lat="48.1659758" lon="9.9767193"/></trkseg></trk><trk><name>way/208033394</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/208033394</desc><trkseg><trkpt lat="48.2304448" lon="9.8518972"/><trkpt lat="48.2304193" lon="9.8519331"/><trkpt lat="48.2304024" lon="9.8519791"/><trkpt lat="48.2303959" lon="9.8520307"/><trkpt lat="48.2304003" lon="9.8520827"/><trkpt lat="48.2304152" lon="9.8521302"/><trkpt lat="48.2304391" lon="9.8521685"/><trkpt lat="48.2304697" lon="9.8521937"/><trkpt lat="48.2305041" lon="9.8522036"/><trkpt lat="48.2305388" lon="9.852197"/><trkpt lat="48.2305704" lon="9.8521746"/><trkpt lat="48.2305959" lon="9.8521387"/><trkpt lat="48.2306127" lon="9.8520927"/><trkpt lat="48.2306193" lon="9.8520412"/><trkpt lat="48.2306149" lon="9.8519891"/><trkpt lat="48.2306" lon="9.8519416"/><trkpt lat="48.2305761" lon="9.8519034"/><trkpt lat="48.2305454" lon="9.8518781"/><trkpt lat="48.2305111" lon="9.8518683"/><trkpt lat="48.2304764" lon="9.8518748"/><trkpt lat="48.2304448" lon="9.8518972"/></trkseg></trk><trk><name>way/208737688</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/208737688</desc><trkseg><trkpt lat="48.2096611" lon="9.9126526"/><trkpt lat="48.2096563" lon="9.9125939"/><trkpt lat="48.2096385" lon="9.9125413"/><trkpt lat="48.2096097" lon="9.912501"/><trkpt lat="48.2095735" lon="9.9124779"/><trkpt lat="48.2095342" lon="9.9124748"/><trkpt lat="48.2094965" lon="9.912492"/><trkpt lat="48.2094651" lon="9.9125275"/><trkpt lat="48.2094436" lon="9.9125771"/><trkpt lat="48.2094347" lon="9.9126346"/><trkpt lat="48.2094395" lon="9.9126933"/><trkpt lat="48.2094574" lon="9.9127459"/><trkpt lat="48.2094861" lon="9.9127862"/><trkpt lat="48.2095224" lon="9.9128093"/><trkpt lat="48.2095617" lon="9.9128124"/><trkpt lat="48.2095993" lon="9.9127952"/><trkpt lat="48.2096308" lon="9.9127596"/><trkpt lat="48.2096522" lon="9.9127101"/><trkpt lat="48.2096611" lon="9.9126526"/></trkseg></trk><trk><name>way/208737689</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/208737689</desc><trkseg><trkpt lat="48.2098418" lon="9.9124351"/><trkpt lat="48.2098368" lon="9.9123645"/><trkpt lat="48.2098177" lon="9.9123116"/><trkpt lat="48.2097885" lon="9.912273"/><trkpt lat="48.2097546" lon="9.9122524"/><trkpt lat="48.2097017" lon="9.9122536"/><trkpt lat="48.2096671" lon="9.9122769"/><trkpt lat="48.2096384" lon="9.9123186"/><trkpt lat="48.2096187" lon="9.9123901"/><trkpt lat="48.2096218" lon="9.9124648"/><trkpt lat="48.2096418" lon="9.9125224"/><trkpt lat="48.2096738" lon="9.9125637"/><trkpt lat="48.2097175" lon="9.9125851"/><trkpt lat="48.2097682" lon="9.912576"/><trkpt lat="48.2097964" lon="9.9125535"/><trkpt lat="48.2098156" lon="9.9125267"/><trkpt lat="48.2098357" lon="9.9124746"/><trkpt lat="48.2098418" lon="9.9124351"/></trkseg></trk><trk><name>way/217560028</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/217560028</desc><trkseg><trkpt lat="48.0432282" lon="9.5008853"/><trkpt lat="48.0432275" lon="9.5008492"/><trkpt lat="48.0432176" lon="9.5008163"/><trkpt lat="48.0432001" lon="9.5007916"/><trkpt lat="48.0431775" lon="9.5007788"/><trkpt lat="48.0431534" lon="9.5007799"/><trkpt lat="48.0431314" lon="9.5007947"/><trkpt lat="48.0431149" lon="9.5008209"/><trkpt lat="48.0431063" lon="9.5008547"/><trkpt lat="48.043107" lon="9.5008907"/><trkpt lat="48.0431169" lon="9.5009236"/><trkpt lat="48.0431345" lon="9.5009484"/><trkpt lat="48.043157" lon="9.5009612"/><trkpt lat="48.0431812" lon="9.5009601"/><trkpt lat="48.0432032" lon="9.5009453"/><trkpt lat="48.0432197" lon="9.500919"/><trkpt lat="48.0432282" lon="9.5008853"/></trkseg></trk><trk><name>way/217560029</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/217560029</desc><trkseg><trkpt lat="48.0431267" lon="9.5007319"/><trkpt lat="48.0431394" lon="9.5006875"/><trkpt lat="48.0431412" lon="9.5006393"/><trkpt lat="48.0431318" lon="9.5005931"/><trkpt lat="48.0431125" lon="9.5005544"/><trkpt lat="48.0430855" lon="9.500528"/><trkpt lat="48.043054" lon="9.500517"/><trkpt lat="48.043022" lon="9.5005227"/><trkpt lat="48.0429931" lon="9.5005445"/><trkpt lat="48.042971" lon="9.5005797"/><trkpt lat="48.0429583" lon="9.5006241"/><trkpt lat="48.0429565" lon="9.5006723"/><trkpt lat="48.0429659" lon="9.5007186"/><trkpt lat="48.0429852" lon="9.5007572"/><trkpt lat="48.0430123" lon="9.5007837"/><trkpt lat="48.0430437" lon="9.5007947"/><trkpt lat="48.0430758" lon="9.500789"/><trkpt lat="48.0431046" lon="9.5007672"/><trkpt lat="48.0431267" lon="9.5007319"/></trkseg></trk><trk><name>way/217560030</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/217560030</desc><trkseg><trkpt lat="48.0455715" lon="9.4957025"/><trkpt lat="48.0455705" lon="9.4956577"/><trkpt lat="48.0455603" lon="9.4956156"/><trkpt lat="48.0455419" lon="9.4955803"/><trkpt lat="48.0455171" lon="9.4955552"/><trkpt lat="48.0454883" lon="9.4955428"/><trkpt lat="48.0454584" lon="9.4955443"/><trkpt lat="48.0454302" lon="9.4955596"/><trkpt lat="48.0454066" lon="9.4955871"/><trkpt lat="48.0453898" lon="9.4956242"/><trkpt lat="48.0453815" lon="9.4956673"/><trkpt lat="48.0453825" lon="9.495712"/><trkpt lat="48.0453927" lon="9.4957541"/><trkpt lat="48.0454112" lon="9.4957895"/><trkpt lat="48.045436" lon="9.4958146"/><trkpt lat="48.0454647" lon="9.495827"/><trkpt lat="48.0454947" lon="9.4958255"/><trkpt lat="48.0455228" lon="9.4958102"/><trkpt lat="48.0455464" lon="9.4957827"/><trkpt lat="48.0455632" lon="9.4957456"/><trkpt lat="48.0455715" lon="9.4957025"/></trkseg></trk><trk><name>way/217785003</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/217785003</desc><trkseg><trkpt lat="48.0464232" lon="9.4527128"/><trkpt lat="48.0464016" lon="9.4526992"/><trkpt lat="48.0463728" lon="9.4526959"/><trkpt lat="48.0463428" lon="9.4527094"/><trkpt lat="48.0463207" lon="9.4527348"/><trkpt lat="48.0463048" lon="9.4527726"/><trkpt lat="48.0462994" lon="9.4528301"/><trkpt lat="48.0463105" lon="9.4528803"/><trkpt lat="48.0463303" lon="9.4529141"/><trkpt lat="48.0463457" lon="9.4529284"/><trkpt lat="48.0463735" lon="9.4529399"/><trkpt lat="48.0464038" lon="9.4529355"/><trkpt lat="48.0464324" lon="9.4529132"/><trkpt lat="48.0464505" lon="9.4528826"/><trkpt lat="48.0464625" lon="9.4528292"/><trkpt lat="48.0464616" lon="9.4527963"/><trkpt lat="48.0464518" lon="9.4527563"/><trkpt lat="48.0464232" lon="9.4527128"/></trkseg></trk><trk><name>way/217785004</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/217785004</desc><trkseg><trkpt lat="48.0464599" lon="9.452458"/><trkpt lat="48.0464383" lon="9.4524444"/><trkpt lat="48.0464095" lon="9.4524411"/><trkpt lat="48.0463795" lon="9.4524546"/><trkpt lat="48.0463574" lon="9.45248"/><trkpt lat="48.0463416" lon="9.4525178"/><trkpt lat="48.0463362" lon="9.4525753"/><trkpt lat="48.0463472" lon="9.4526254"/><trkpt lat="48.046367" lon="9.4526593"/><trkpt lat="48.0463825" lon="9.4526736"/><trkpt lat="48.0464102" lon="9.452685"/><trkpt lat="48.0464405" lon="9.4526807"/><trkpt lat="48.0464692" lon="9.4526583"/><trkpt lat="48.0464872" lon="9.4526278"/><trkpt lat="48.0464993" lon="9.4525744"/><trkpt lat="48.0464983" lon="9.4525415"/><trkpt lat="48.0464885" lon="9.4525015"/><trkpt lat="48.0464599" lon="9.452458"/></trkseg></trk><trk><name>way/217785005</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/217785005</desc><trkseg><trkpt lat="48.046633" lon="9.4522658"/><trkpt lat="48.0466138" lon="9.4522529"/><trkpt lat="48.046589" lon="9.4522459"/><trkpt lat="48.04655" lon="9.4522541"/><trkpt lat="48.0465253" lon="9.4522733"/><trkpt lat="48.0465068" lon="9.4522987"/><trkpt lat="48.0464912" lon="9.4523371"/><trkpt lat="48.046484" lon="9.4523792"/><trkpt lat="48.0464845" lon="9.4524162"/><trkpt lat="48.0464904" lon="9.4524493"/><trkpt lat="48.0465131" lon="9.4525007"/><trkpt lat="48.0465356" lon="9.4525255"/><trkpt lat="48.0465633" lon="9.4525406"/><trkpt lat="48.0465868" lon="9.4525435"/><trkpt lat="48.0466175" lon="9.4525344"/><trkpt lat="48.0466392" lon="9.4525177"/><trkpt lat="48.0466613" lon="9.4524867"/><trkpt lat="48.0466745" lon="9.4524535"/><trkpt lat="48.0466819" lon="9.4524123"/><trkpt lat="48.0466805" lon="9.4523642"/><trkpt lat="48.0466705" lon="9.4523233"/><trkpt lat="48.0466535" lon="9.4522893"/><trkpt lat="48.046633" lon="9.4522658"/></trkseg></trk><trk><name>way/218902121</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+source=Maps4BW ( LGL, www.lgl-bw.de) / Bing
+id=way/218902121</desc><trkseg><trkpt lat="48.010881" lon="9.3934996"/><trkpt lat="48.0109084" lon="9.3935003"/><trkpt lat="48.0109339" lon="9.3934852"/><trkpt lat="48.0109536" lon="9.3934567"/><trkpt lat="48.0109645" lon="9.3934191"/><trkpt lat="48.0109649" lon="9.3933781"/><trkpt lat="48.0109548" lon="9.3933401"/><trkpt lat="48.0109357" lon="9.3933107"/><trkpt lat="48.0109106" lon="9.3932944"/><trkpt lat="48.0108832" lon="9.3932937"/><trkpt lat="48.0108577" lon="9.3933088"/><trkpt lat="48.0108381" lon="9.3933373"/><trkpt lat="48.0108272" lon="9.3933749"/><trkpt lat="48.0108267" lon="9.3934159"/><trkpt lat="48.0108368" lon="9.3934539"/><trkpt lat="48.0108559" lon="9.3934833"/><trkpt lat="48.010881" lon="9.3934996"/></trkseg></trk><trk><name>way/218902122</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+source=Maps4BW ( LGL, www.lgl-bw.de) / Bing
+id=way/218902122</desc><trkseg><trkpt lat="48.0109502" lon="9.393223"/><trkpt lat="48.010978" lon="9.3932011"/><trkpt lat="48.0109985" lon="9.3931657"/><trkpt lat="48.0110092" lon="9.3931216"/><trkpt lat="48.0110084" lon="9.3930748"/><trkpt lat="48.0109964" lon="9.3930315"/><trkpt lat="48.0109747" lon="9.3929976"/><trkpt lat="48.0109463" lon="9.3929777"/><trkpt lat="48.010915" lon="9.3929745"/><trkpt lat="48.0108851" lon="9.3929884"/><trkpt lat="48.0108605" lon="9.3930175"/><trkpt lat="48.0108446" lon="9.3930579"/><trkpt lat="48.0108396" lon="9.3931042"/><trkpt lat="48.0108461" lon="9.3931501"/><trkpt lat="48.0108632" lon="9.3931893"/><trkpt lat="48.0108887" lon="9.3932167"/><trkpt lat="48.0109191" lon="9.3932285"/><trkpt lat="48.0109502" lon="9.393223"/></trkseg></trk><trk><name>way/219384101</name><desc>generator:source=biomass
+power=generator
+source=bing
+id=way/219384101</desc><trkseg><trkpt lat="49.473423" lon="10.101241"/><trkpt lat="49.4734194" lon="10.099785"/><trkpt lat="49.4722797" lon="10.099818"/><trkpt lat="49.4722475" lon="10.101423"/><trkpt lat="49.473423" lon="10.101241"/></trkseg></trk><trk><name>way/223980023</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/223980023</desc><trkseg><trkpt lat="48.1748234" lon="9.7757396"/><trkpt lat="48.1748294" lon="9.7756908"/><trkpt lat="48.1748215" lon="9.7756465"/><trkpt lat="48.1748017" lon="9.7756105"/><trkpt lat="48.1747752" lon="9.775591"/><trkpt lat="48.1747447" lon="9.7755893"/><trkpt lat="48.1747185" lon="9.7756045"/><trkpt lat="48.1747003" lon="9.7756292"/><trkpt lat="48.1746885" lon="9.7756624"/><trkpt lat="48.1746852" lon="9.7757049"/><trkpt lat="48.174693" lon="9.7757459"/><trkpt lat="48.1747069" lon="9.775774"/><trkpt lat="48.1747299" lon="9.7757964"/><trkpt lat="48.1747599" lon="9.7758044"/><trkpt lat="48.1747867" lon="9.7757951"/><trkpt lat="48.1748054" lon="9.7757768"/><trkpt lat="48.1748234" lon="9.7757396"/></trkseg></trk><trk><name>way/223980024</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/223980024</desc><trkseg><trkpt lat="48.1748418" lon="9.7759833"/><trkpt lat="48.1748478" lon="9.7759345"/><trkpt lat="48.1748399" lon="9.7758902"/><trkpt lat="48.1748201" lon="9.7758542"/><trkpt lat="48.1747936" lon="9.7758347"/><trkpt lat="48.1747631" lon="9.775833"/><trkpt lat="48.1747369" lon="9.7758482"/><trkpt lat="48.1747187" lon="9.7758729"/><trkpt lat="48.1747069" lon="9.7759061"/><trkpt lat="48.1747036" lon="9.7759486"/><trkpt lat="48.1747114" lon="9.7759896"/><trkpt lat="48.1747253" lon="9.7760177"/><trkpt lat="48.1747483" lon="9.7760401"/><trkpt lat="48.1747783" lon="9.7760481"/><trkpt lat="48.1748051" lon="9.7760388"/><trkpt lat="48.1748238" lon="9.7760205"/><trkpt lat="48.1748418" lon="9.7759833"/></trkseg></trk><trk><name>way/224131605</name><desc>building=yes
+generator:method=combustion
+generator:source=biomass
+power=generator
+source=LGL, www.lgl-bw.de
+id=way/224131605</desc><trkseg><trkpt lat="47.8779468" lon="7.725183"/><trkpt lat="47.8778868" lon="7.7250652"/><trkpt lat="47.8778466" lon="7.7251107"/><trkpt lat="47.8779067" lon="7.7252285"/><trkpt lat="47.8779468" lon="7.725183"/></trkseg></trk><trk><name>way/224131607</name><desc>building=yes
+generator:method=combustion
+generator:source=biomass
+power=generator
+source=LGL, www.lgl-bw.de
+id=way/224131607</desc><trkseg><trkpt lat="47.8779036" lon="7.7250405"/><trkpt lat="47.8778283" lon="7.7248856"/><trkpt lat="47.8777416" lon="7.7249822"/><trkpt lat="47.8778204" lon="7.7251383"/><trkpt lat="47.8779036" lon="7.7250405"/></trkseg></trk><trk><name>way/230697241</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/230697241</desc><trkseg><trkpt lat="47.7539668" lon="8.449585"/><trkpt lat="47.7538954" lon="8.4495855"/><trkpt lat="47.7538483" lon="8.4496136"/><trkpt lat="47.7538056" lon="8.4496686"/><trkpt lat="47.7537733" lon="8.4497668"/><trkpt lat="47.7537729" lon="8.4498727"/><trkpt lat="47.7537943" lon="8.4499504"/><trkpt lat="47.7538324" lon="8.4500127"/><trkpt lat="47.7538825" lon="8.4500516"/><trkpt lat="47.753957" lon="8.4500601"/><trkpt lat="47.7539915" lon="8.4500461"/><trkpt lat="47.7540396" lon="8.4500021"/><trkpt lat="47.7540648" lon="8.4499602"/><trkpt lat="47.7540887" lon="8.4498842"/><trkpt lat="47.7540917" lon="8.4497781"/><trkpt lat="47.7540722" lon="8.4496993"/><trkpt lat="47.754019" lon="8.4496171"/><trkpt lat="47.7539668" lon="8.449585"/></trkseg></trk><trk><name>way/235493888</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2008
+id=way/235493888</desc><trkseg><trkpt lat="48.2427366" lon="9.753723"/><trkpt lat="48.2427505" lon="9.753682"/><trkpt lat="48.2427548" lon="9.7536365"/><trkpt lat="48.2427491" lon="9.7535913"/><trkpt lat="48.2427338" lon="9.7535514"/><trkpt lat="48.2427108" lon="9.753521"/><trkpt lat="48.2426824" lon="9.7535036"/><trkpt lat="48.2426518" lon="9.7535009"/><trkpt lat="48.2426223" lon="9.7535132"/><trkpt lat="48.2425971" lon="9.7535393"/><trkpt lat="48.2425788" lon="9.7535763"/><trkpt lat="48.2425696" lon="9.7536202"/><trkpt lat="48.2425703" lon="9.7536662"/><trkpt lat="48.242581" lon="9.7537093"/><trkpt lat="48.2426004" lon="9.7537449"/><trkpt lat="48.2426264" lon="9.7537692"/><trkpt lat="48.2426563" lon="9.7537794"/><trkpt lat="48.2426868" lon="9.7537745"/><trkpt lat="48.2427145" lon="9.753755"/><trkpt lat="48.2427366" lon="9.753723"/></trkseg></trk><trk><name>way/235493889</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2008
+id=way/235493889</desc><trkseg><trkpt lat="48.2429177" lon="9.7536088"/><trkpt lat="48.242933" lon="9.7535717"/><trkpt lat="48.2429399" lon="9.7535293"/><trkpt lat="48.2429378" lon="9.7534858"/><trkpt lat="48.2429268" lon="9.7534454"/><trkpt lat="48.2429081" lon="9.7534121"/><trkpt lat="48.2428834" lon="9.753389"/><trkpt lat="48.2428551" lon="9.7533786"/><trkpt lat="48.2428262" lon="9.7533818"/><trkpt lat="48.2427992" lon="9.7533983"/><trkpt lat="48.242777" lon="9.7534265"/><trkpt lat="48.2427617" lon="9.7534636"/><trkpt lat="48.2427548" lon="9.7535059"/><trkpt lat="48.2427569" lon="9.7535495"/><trkpt lat="48.2427679" lon="9.7535899"/><trkpt lat="48.2427866" lon="9.7536232"/><trkpt lat="48.2428113" lon="9.7536462"/><trkpt lat="48.2428396" lon="9.7536566"/><trkpt lat="48.2428686" lon="9.7536534"/><trkpt lat="48.2428955" lon="9.7536369"/><trkpt lat="48.2429177" lon="9.7536088"/></trkseg></trk><trk><name>way/235977252</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2012
+id=way/235977252</desc><trkseg><trkpt lat="48.2585556" lon="9.8178159"/><trkpt lat="48.2585801" lon="9.8177789"/><trkpt lat="48.258594" lon="9.8177312"/><trkpt lat="48.2585955" lon="9.8176791"/><trkpt lat="48.2585844" lon="9.8176297"/><trkpt lat="48.2585621" lon="9.8175897"/><trkpt lat="48.2585317" lon="9.8175644"/><trkpt lat="48.2584973" lon="9.8175574"/><trkpt lat="48.2584635" lon="9.8175695"/><trkpt lat="48.2584349" lon="9.8175992"/><trkpt lat="48.2584154" lon="9.8176423"/><trkpt lat="48.2584076" lon="9.8176931"/><trkpt lat="48.2584125" lon="9.8177447"/><trkpt lat="48.2584295" lon="9.8177902"/><trkpt lat="48.2584563" lon="9.8178234"/><trkpt lat="48.2584893" lon="9.8178398"/><trkpt lat="48.2585239" lon="9.8178372"/><trkpt lat="48.2585556" lon="9.8178159"/></trkseg></trk><trk><name>way/235977253</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2012
+id=way/235977253</desc><trkseg><trkpt lat="48.2583636" lon="9.8177933"/><trkpt lat="48.2583901" lon="9.8177491"/><trkpt lat="48.2584034" lon="9.817693"/><trkpt lat="48.2584013" lon="9.8176335"/><trkpt lat="48.2583842" lon="9.8175798"/><trkpt lat="48.2583547" lon="9.81754"/><trkpt lat="48.2583174" lon="9.8175201"/><trkpt lat="48.2582778" lon="9.8175232"/><trkpt lat="48.258242" lon="9.8175489"/><trkpt lat="48.2582155" lon="9.8175931"/><trkpt lat="48.2582023" lon="9.8176492"/><trkpt lat="48.2582044" lon="9.8177087"/><trkpt lat="48.2582214" lon="9.8177624"/><trkpt lat="48.2582509" lon="9.8178022"/><trkpt lat="48.2582883" lon="9.8178221"/><trkpt lat="48.2583278" lon="9.817819"/><trkpt lat="48.2583636" lon="9.8177933"/></trkseg></trk><trk><name>way/235977254</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2012
+id=way/235977254</desc><trkseg><trkpt lat="48.2585672" lon="9.8181382"/><trkpt lat="48.2585935" lon="9.8180989"/><trkpt lat="48.2586086" lon="9.818048"/><trkpt lat="48.2586104" lon="9.8179923"/><trkpt lat="48.2585987" lon="9.8179394"/><trkpt lat="48.2585751" lon="9.8178965"/><trkpt lat="48.2585427" lon="9.8178692"/><trkpt lat="48.258506" lon="9.8178614"/><trkpt lat="48.2584699" lon="9.817874"/><trkpt lat="48.2584392" lon="9.8179054"/><trkpt lat="48.2584182" lon="9.8179513"/><trkpt lat="48.2584096" lon="9.8180055"/><trkpt lat="48.2584146" lon="9.8180607"/><trkpt lat="48.2584326" lon="9.8181094"/><trkpt lat="48.2584611" lon="9.8181451"/><trkpt lat="48.2584962" lon="9.818163"/><trkpt lat="48.2585333" lon="9.8181605"/><trkpt lat="48.2585672" lon="9.8181382"/></trkseg></trk><trk><name>way/236262533</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/236262533</desc><trkseg><trkpt lat="48.2452789" lon="9.7687286"/><trkpt lat="48.2452668" lon="9.7686728"/><trkpt lat="48.2452414" lon="9.7686281"/><trkpt lat="48.2452065" lon="9.7686015"/><trkpt lat="48.2451675" lon="9.768597"/><trkpt lat="48.2451304" lon="9.7686151"/><trkpt lat="48.2451006" lon="9.7686533"/><trkpt lat="48.2450829" lon="9.7687056"/><trkpt lat="48.2450799" lon="9.7687642"/><trkpt lat="48.245092" lon="9.76882"/><trkpt lat="48.2451174" lon="9.7688646"/><trkpt lat="48.2451522" lon="9.7688912"/><trkpt lat="48.2451912" lon="9.7688958"/><trkpt lat="48.2452284" lon="9.7688776"/><trkpt lat="48.2452581" lon="9.7688395"/><trkpt lat="48.2452758" lon="9.7687871"/><trkpt lat="48.2452789" lon="9.7687286"/></trkseg></trk><trk><name>way/236262542</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/236262542</desc><trkseg><trkpt lat="48.2451263" lon="9.7689489"/><trkpt lat="48.2451221" lon="9.7688942"/><trkpt lat="48.2451025" lon="9.7688477"/><trkpt lat="48.2450714" lon="9.7688187"/><trkpt lat="48.245035" lon="9.7688127"/><trkpt lat="48.2450004" lon="9.7688311"/><trkpt lat="48.2449746" lon="9.7688701"/><trkpt lat="48.2449627" lon="9.7689221"/><trkpt lat="48.2449669" lon="9.7689767"/><trkpt lat="48.2449865" lon="9.7690232"/><trkpt lat="48.2450176" lon="9.7690523"/><trkpt lat="48.245054" lon="9.7690582"/><trkpt lat="48.2450885" lon="9.7690399"/><trkpt lat="48.2451143" lon="9.7690008"/><trkpt lat="48.2451263" lon="9.7689489"/></trkseg></trk><trk><name>way/236262543</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2011
+id=way/236262543</desc><trkseg><trkpt lat="48.2453275" lon="9.7690711"/><trkpt lat="48.2453141" lon="9.7690131"/><trkpt lat="48.2452862" lon="9.768967"/><trkpt lat="48.2452531" lon="9.7689428"/><trkpt lat="48.2452105" lon="9.7689387"/><trkpt lat="48.2451673" lon="9.768964"/><trkpt lat="48.2451364" lon="9.7690139"/><trkpt lat="48.2451235" lon="9.7690687"/><trkpt lat="48.2451275" lon="9.7691401"/><trkpt lat="48.2451492" lon="9.7691959"/><trkpt lat="48.2451808" lon="9.7692313"/><trkpt lat="48.2452189" lon="9.7692462"/><trkpt lat="48.2452509" lon="9.7692417"/><trkpt lat="48.2452851" lon="9.7692178"/><trkpt lat="48.2453087" lon="9.7691828"/><trkpt lat="48.2453235" lon="9.7691391"/><trkpt lat="48.2453275" lon="9.7690711"/></trkseg></trk><trk><name>way/236264485</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2011
+id=way/236264485</desc><trkseg><trkpt lat="48.2362379" lon="9.80288"/><trkpt lat="48.2362245" lon="9.802822"/><trkpt lat="48.2361966" lon="9.8027759"/><trkpt lat="48.2361635" lon="9.8027517"/><trkpt lat="48.2361209" lon="9.8027476"/><trkpt lat="48.2360777" lon="9.8027729"/><trkpt lat="48.2360467" lon="9.8028228"/><trkpt lat="48.2360339" lon="9.8028776"/><trkpt lat="48.2360379" lon="9.802949"/><trkpt lat="48.2360596" lon="9.8030048"/><trkpt lat="48.2360912" lon="9.8030402"/><trkpt lat="48.2361293" lon="9.8030551"/><trkpt lat="48.2361613" lon="9.8030506"/><trkpt lat="48.2361955" lon="9.8030267"/><trkpt lat="48.2362191" lon="9.8029916"/><trkpt lat="48.2362339" lon="9.802948"/><trkpt lat="48.2362379" lon="9.80288"/></trkseg></trk><trk><name>way/236264486</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2011
+id=way/236264486</desc><trkseg><trkpt lat="48.2364785" lon="9.802817"/><trkpt lat="48.2364651" lon="9.802759"/><trkpt lat="48.2364372" lon="9.8027128"/><trkpt lat="48.236404" lon="9.8026886"/><trkpt lat="48.2363614" lon="9.8026846"/><trkpt lat="48.2363182" lon="9.8027099"/><trkpt lat="48.2362873" lon="9.8027598"/><trkpt lat="48.2362745" lon="9.8028145"/><trkpt lat="48.2362785" lon="9.8028859"/><trkpt lat="48.2363001" lon="9.8029418"/><trkpt lat="48.2363318" lon="9.8029771"/><trkpt lat="48.2363699" lon="9.802992"/><trkpt lat="48.2364019" lon="9.8029875"/><trkpt lat="48.2364361" lon="9.8029637"/><trkpt lat="48.2364597" lon="9.8029286"/><trkpt lat="48.2364744" lon="9.802885"/><trkpt lat="48.2364785" lon="9.802817"/></trkseg></trk><trk><name>way/238873043</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/238873043</desc><trkseg><trkpt lat="47.9319134" lon="9.3889516"/><trkpt lat="47.9319192" lon="9.388907"/><trkpt lat="47.931915" lon="9.3888621"/><trkpt lat="47.9319012" lon="9.3888216"/><trkpt lat="47.9318794" lon="9.38879"/><trkpt lat="47.9318519" lon="9.3887707"/><trkpt lat="47.9318217" lon="9.3887658"/><trkpt lat="47.931792" lon="9.3887758"/><trkpt lat="47.9317661" lon="9.3887996"/><trkpt lat="47.9317468" lon="9.3888347"/><trkpt lat="47.9317362" lon="9.3888772"/><trkpt lat="47.9317354" lon="9.3889226"/><trkpt lat="47.9317445" lon="9.3889659"/><trkpt lat="47.9317626" lon="9.3890024"/><trkpt lat="47.9317876" lon="9.3890282"/><trkpt lat="47.9318169" lon="9.3890405"/><trkpt lat="47.9318472" lon="9.3890379"/><trkpt lat="47.9318754" lon="9.3890208"/><trkpt lat="47.9318983" lon="9.3889909"/><trkpt lat="47.9319134" lon="9.3889516"/></trkseg></trk><trk><name>way/239051902</name><desc>building=yes
+description=Holz-Heizwerk, bei Spitzenlast wird zusätzlich Erdgas verwendet
+generator:method=combustion
+generator:output:hot_water=yes
+generator:source=biomass
+power=generator
+source:geometry=Bing 2012
+start_date=2012
+id=way/239051902</desc><trkseg><trkpt lat="49.3946536" lon="8.8077417"/><trkpt lat="49.3945093" lon="8.8077026"/><trkpt lat="49.3944942" lon="8.8078339"/><trkpt lat="49.3946385" lon="8.807873"/><trkpt lat="49.3946536" lon="8.8077417"/></trkseg></trk><trk><name>way/239821462</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/239821462</desc><trkseg><trkpt lat="48.2163296" lon="9.9616957"/><trkpt lat="48.2163331" lon="9.9617435"/><trkpt lat="48.2163474" lon="9.9617867"/><trkpt lat="48.2163706" lon="9.9618199"/><trkpt lat="48.2164" lon="9.9618393"/><trkpt lat="48.2164289" lon="9.9618429"/><trkpt lat="48.2164572" lon="9.9618328"/><trkpt lat="48.216482" lon="9.9618102"/><trkpt lat="48.2165009" lon="9.961777"/><trkpt lat="48.216512" lon="9.9617368"/><trkpt lat="48.2165143" lon="9.9616933"/><trkpt lat="48.2165075" lon="9.9616509"/><trkpt lat="48.2164923" lon="9.9616138"/><trkpt lat="48.2164701" lon="9.9615855"/><trkpt lat="48.2164432" lon="9.961569"/><trkpt lat="48.2164112" lon="9.9615662"/><trkpt lat="48.2163805" lon="9.96158"/><trkpt lat="48.2163547" lon="9.9616087"/><trkpt lat="48.2163371" lon="9.9616489"/><trkpt lat="48.2163296" lon="9.9616957"/></trkseg></trk><trk><name>way/239821463</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/239821463</desc><trkseg><trkpt lat="48.2160952" lon="9.961848"/><trkpt lat="48.2161099" lon="9.9618997"/><trkpt lat="48.2161352" lon="9.9619413"/><trkpt lat="48.2161683" lon="9.961968"/><trkpt lat="48.2162038" lon="9.9619768"/><trkpt lat="48.2162394" lon="9.9619681"/><trkpt lat="48.2162713" lon="9.9619429"/><trkpt lat="48.2162962" lon="9.9619038"/><trkpt lat="48.2163116" lon="9.9618548"/><trkpt lat="48.2163157" lon="9.9618011"/><trkpt lat="48.2163082" lon="9.9617481"/><trkpt lat="48.2162899" lon="9.9617015"/><trkpt lat="48.2162627" lon="9.9616661"/><trkpt lat="48.2162279" lon="9.961645"/><trkpt lat="48.2161905" lon="9.9616423"/><trkpt lat="48.2161545" lon="9.9616584"/><trkpt lat="48.2161241" lon="9.9616914"/><trkpt lat="48.2161027" lon="9.9617376"/><trkpt lat="48.2160927" lon="9.9617918"/><trkpt lat="48.2160952" lon="9.961848"/></trkseg></trk><trk><name>way/245337456</name><desc>generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/245337456</desc><trkseg><trkpt lat="48.5010262" lon="9.5040053"/><trkpt lat="48.5010366" lon="9.5039648"/><trkpt lat="48.5010388" lon="9.5039118"/><trkpt lat="48.5010277" lon="9.5038569"/><trkpt lat="48.5010102" lon="9.5038203"/><trkpt lat="48.5009833" lon="9.5037902"/><trkpt lat="48.5009483" lon="9.5037739"/><trkpt lat="48.5009126" lon="9.5037768"/><trkpt lat="48.5008746" lon="9.503803"/><trkpt lat="48.5008515" lon="9.5038385"/><trkpt lat="48.5008383" lon="9.5038769"/><trkpt lat="48.5008324" lon="9.5039222"/><trkpt lat="48.5008353" lon="9.5039663"/><trkpt lat="48.5008445" lon="9.5040024"/><trkpt lat="48.5008619" lon="9.5040384"/><trkpt lat="48.5008868" lon="9.5040666"/><trkpt lat="48.5009121" lon="9.5040811"/><trkpt lat="48.5009412" lon="9.5040851"/><trkpt lat="48.5009686" lon="9.5040773"/><trkpt lat="48.5009936" lon="9.5040587"/><trkpt lat="48.5010116" lon="9.5040356"/><trkpt lat="48.5010262" lon="9.5040053"/></trkseg></trk><trk><name>way/245337457</name><desc>generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/245337457</desc><trkseg><trkpt lat="48.5005229" lon="9.5040714"/><trkpt lat="48.5005333" lon="9.5040309"/><trkpt lat="48.5005354" lon="9.5039779"/><trkpt lat="48.5005244" lon="9.503923"/><trkpt lat="48.5005069" lon="9.5038864"/><trkpt lat="48.50048" lon="9.5038562"/><trkpt lat="48.500445" lon="9.50384"/><trkpt lat="48.5004092" lon="9.5038429"/><trkpt lat="48.5003713" lon="9.5038691"/><trkpt lat="48.5003482" lon="9.5039045"/><trkpt lat="48.5003349" lon="9.5039429"/><trkpt lat="48.5003291" lon="9.5039883"/><trkpt lat="48.500332" lon="9.5040324"/><trkpt lat="48.5003411" lon="9.5040685"/><trkpt lat="48.5003586" lon="9.5041044"/><trkpt lat="48.5003834" lon="9.5041327"/><trkpt lat="48.5004088" lon="9.5041472"/><trkpt lat="48.5004379" lon="9.5041511"/><trkpt lat="48.5004653" lon="9.5041433"/><trkpt lat="48.5004903" lon="9.5041248"/><trkpt lat="48.5005083" lon="9.5041016"/><trkpt lat="48.5005229" lon="9.5040714"/></trkseg></trk><trk><name>way/249073842</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/249073842</desc><trkseg><trkpt lat="47.8452452" lon="9.4501839"/><trkpt lat="47.8452561" lon="9.4501361"/><trkpt lat="47.8452542" lon="9.450095"/><trkpt lat="47.8452404" lon="9.4500523"/><trkpt lat="47.8452147" lon="9.45002"/><trkpt lat="47.8451827" lon="9.4500067"/><trkpt lat="47.8451464" lon="9.4500165"/><trkpt lat="47.8451241" lon="9.4500388"/><trkpt lat="47.8451079" lon="9.4500717"/><trkpt lat="47.8451" lon="9.4501146"/><trkpt lat="47.8451036" lon="9.4501593"/><trkpt lat="47.8451163" lon="9.4501949"/><trkpt lat="47.8451386" lon="9.4502241"/><trkpt lat="47.8451651" lon="9.4502384"/><trkpt lat="47.8451949" lon="9.4502374"/><trkpt lat="47.8452209" lon="9.4502211"/><trkpt lat="47.8452452" lon="9.4501839"/></trkseg></trk><trk><name>way/249073846</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/249073846</desc><trkseg><trkpt lat="47.8451541" lon="9.449931"/><trkpt lat="47.845165" lon="9.4498832"/><trkpt lat="47.8451631" lon="9.4498421"/><trkpt lat="47.8451493" lon="9.4497994"/><trkpt lat="47.8451236" lon="9.4497671"/><trkpt lat="47.8450917" lon="9.4497538"/><trkpt lat="47.8450553" lon="9.4497636"/><trkpt lat="47.845033" lon="9.4497859"/><trkpt lat="47.8450168" lon="9.4498188"/><trkpt lat="47.8450089" lon="9.4498617"/><trkpt lat="47.8450125" lon="9.4499064"/><trkpt lat="47.8450252" lon="9.4499421"/><trkpt lat="47.8450476" lon="9.4499712"/><trkpt lat="47.845074" lon="9.4499855"/><trkpt lat="47.8451038" lon="9.4499845"/><trkpt lat="47.8451298" lon="9.4499682"/><trkpt lat="47.8451541" lon="9.449931"/></trkseg></trk><trk><name>way/250585228</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/250585228</desc><trkseg><trkpt lat="47.8610018" lon="9.2679719"/><trkpt lat="47.8609973" lon="9.26794"/><trkpt lat="47.8609832" lon="9.2678987"/><trkpt lat="47.8609535" lon="9.2678576"/><trkpt lat="47.8609135" lon="9.2678365"/><trkpt lat="47.8608694" lon="9.2678423"/><trkpt lat="47.8608292" lon="9.2678779"/><trkpt lat="47.8608078" lon="9.2679226"/><trkpt lat="47.8607981" lon="9.2679817"/><trkpt lat="47.860804" lon="9.2680387"/><trkpt lat="47.8608286" lon="9.2680962"/><trkpt lat="47.8608643" lon="9.26813"/><trkpt lat="47.8608963" lon="9.2681396"/><trkpt lat="47.8609285" lon="9.2681337"/><trkpt lat="47.8609559" lon="9.2681151"/><trkpt lat="47.8609828" lon="9.268077"/><trkpt lat="47.8609973" lon="9.2680346"/><trkpt lat="47.8610018" lon="9.2679719"/></trkseg></trk><trk><name>way/250585229</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/250585229</desc><trkseg><trkpt lat="47.8611063" lon="9.2676854"/><trkpt lat="47.8611018" lon="9.2676536"/><trkpt lat="47.8610877" lon="9.2676122"/><trkpt lat="47.8610581" lon="9.2675712"/><trkpt lat="47.861018" lon="9.26755"/><trkpt lat="47.8609739" lon="9.2675558"/><trkpt lat="47.8609337" lon="9.2675915"/><trkpt lat="47.8609123" lon="9.2676361"/><trkpt lat="47.8609026" lon="9.2676953"/><trkpt lat="47.8609085" lon="9.2677522"/><trkpt lat="47.8609332" lon="9.2678097"/><trkpt lat="47.8609689" lon="9.2678436"/><trkpt lat="47.8610008" lon="9.2678532"/><trkpt lat="47.8610331" lon="9.2678473"/><trkpt lat="47.8610604" lon="9.2678286"/><trkpt lat="47.8610873" lon="9.2677906"/><trkpt lat="47.8611019" lon="9.2677481"/><trkpt lat="47.8611063" lon="9.2676854"/></trkseg></trk><trk><name>Biomasse-HKW I</name><desc>building=yes
+generator:method=combustion
+generator:output:electricity=8.7 MW
+generator:output:hot_water=yes
+generator:source=biomass
+landuse=industrial
+name=Biomasse-HKW I
+operator=FUG
+power=generator
+start_date=2004
+id=way/251996675</desc><trkseg><trkpt lat="48.3971103" lon="9.9651572"/><trkpt lat="48.3971957" lon="9.9651672"/><trkpt lat="48.3972217" lon="9.9646628"/><trkpt lat="48.396869" lon="9.9646216"/><trkpt lat="48.3968531" lon="9.9649294"/><trkpt lat="48.3971205" lon="9.9649606"/><trkpt lat="48.3971103" lon="9.9651572"/></trkseg></trk><trk><name>Biomasse-HKW II</name><desc>building=yes
+generator:method=combustion
+generator:output:electricity=4.5 MW
+generator:output:hot_water=yes
+generator:source=biomass
+landuse=industrial
+name=Biomasse-HKW II
+operator=FUG
+power=generator
+start_date=2012
+id=way/251996676</desc><trkseg><trkpt lat="48.3981404" lon="9.9662035"/><trkpt lat="48.3981033" lon="9.965197"/><trkpt lat="48.3976286" lon="9.9652366"/><trkpt lat="48.397644" lon="9.9656566"/><trkpt lat="48.3978208" lon="9.9656418"/><trkpt lat="48.3978277" lon="9.96583"/><trkpt lat="48.3977198" lon="9.965839"/><trkpt lat="48.3977348" lon="9.9662487"/><trkpt lat="48.3979137" lon="9.9662338"/><trkpt lat="48.397916" lon="9.9662953"/><trkpt lat="48.3979678" lon="9.966291"/><trkpt lat="48.3979651" lon="9.9662181"/><trkpt lat="48.3981404" lon="9.9662035"/></trkseg></trk><trk><name>way/254865090</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de) 10.2020; Bing 2019
+id=way/254865090</desc><trkseg><trkpt lat="48.0899467" lon="9.6835239"/><trkpt lat="48.0898941" lon="9.6835172"/><trkpt lat="48.089892" lon="9.6835532"/><trkpt lat="48.0899447" lon="9.6835599"/><trkpt lat="48.0899467" lon="9.6835239"/></trkseg></trk><trk><name>way/255578999</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/255578999</desc><trkseg><trkpt lat="48.0197929" lon="9.2730026"/><trkpt lat="48.0197969" lon="9.2729449"/><trkpt lat="48.0197898" lon="9.2728878"/><trkpt lat="48.0197722" lon="9.2728361"/><trkpt lat="48.0197456" lon="9.2727938"/><trkpt lat="48.0197122" lon="9.2727645"/><trkpt lat="48.0196745" lon="9.2727504"/><trkpt lat="48.0196358" lon="9.2727528"/><trkpt lat="48.019599" lon="9.2727714"/><trkpt lat="48.0195672" lon="9.2728047"/><trkpt lat="48.019543" lon="9.27285"/><trkpt lat="48.0195284" lon="9.2729037"/><trkpt lat="48.0195244" lon="9.2729615"/><trkpt lat="48.0195315" lon="9.2730185"/><trkpt lat="48.019549" lon="9.2730702"/><trkpt lat="48.0195756" lon="9.2731125"/><trkpt lat="48.0196091" lon="9.2731419"/><trkpt lat="48.0196467" lon="9.2731559"/><trkpt lat="48.0196855" lon="9.2731536"/><trkpt lat="48.0197223" lon="9.273135"/><trkpt lat="48.019754" lon="9.2731017"/><trkpt lat="48.0197782" lon="9.2730563"/><trkpt lat="48.0197929" lon="9.2730026"/></trkseg></trk><trk><name>way/256472280</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/256472280</desc><trkseg><trkpt lat="48.1397875" lon="9.9993637"/><trkpt lat="48.1397926" lon="9.999331"/><trkpt lat="48.1397903" lon="9.9992977"/><trkpt lat="48.139781" lon="9.9992673"/><trkpt lat="48.1397655" lon="9.9992431"/><trkpt lat="48.1397457" lon="9.9992277"/><trkpt lat="48.1397235" lon="9.9992228"/><trkpt lat="48.1397016" lon="9.9992289"/><trkpt lat="48.1396821" lon="9.9992454"/><trkpt lat="48.1396673" lon="9.9992705"/><trkpt lat="48.1396587" lon="9.9993015"/><trkpt lat="48.1396573" lon="9.9993349"/><trkpt lat="48.1396632" lon="9.9993672"/><trkpt lat="48.1396757" lon="9.9993949"/><trkpt lat="48.1396936" lon="9.999415"/><trkpt lat="48.1397149" lon="9.9994253"/><trkpt lat="48.1397373" lon="9.9994246"/><trkpt lat="48.1397583" lon="9.9994131"/><trkpt lat="48.1397757" lon="9.9993921"/><trkpt lat="48.1397875" lon="9.9993637"/></trkseg></trk><trk><name>way/258788482</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/258788482</desc><trkseg><trkpt lat="47.9774878" lon="10.0938594"/><trkpt lat="47.9774681" lon="10.0938749"/><trkpt lat="47.9774534" lon="10.0938999"/><trkpt lat="47.9774458" lon="10.0939312"/><trkpt lat="47.9774462" lon="10.0939645"/><trkpt lat="47.9774547" lon="10.0939953"/><trkpt lat="47.97747" lon="10.0940194"/><trkpt lat="47.9774902" lon="10.0940336"/><trkpt lat="47.9775124" lon="10.094036"/><trkpt lat="47.9775337" lon="10.0940263"/><trkpt lat="47.9775512" lon="10.0940057"/><trkpt lat="47.9775626" lon="10.093977"/><trkpt lat="47.9775662" lon="10.0939442"/><trkpt lat="47.9775617" lon="10.0939116"/><trkpt lat="47.9775496" lon="10.0938837"/><trkpt lat="47.9775315" lon="10.0938641"/><trkpt lat="47.97751" lon="10.0938557"/><trkpt lat="47.9774878" lon="10.0938594"/></trkseg></trk><trk><name>way/258788483</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/258788483</desc><trkseg><trkpt lat="47.9775485" lon="10.0936424"/><trkpt lat="47.9775262" lon="10.0936563"/><trkpt lat="47.9775092" lon="10.093682"/><trkpt lat="47.9775001" lon="10.0937153"/><trkpt lat="47.9775002" lon="10.0937514"/><trkpt lat="47.9775095" lon="10.0937846"/><trkpt lat="47.9775267" lon="10.09381"/><trkpt lat="47.977549" lon="10.0938237"/><trkpt lat="47.9775731" lon="10.0938235"/><trkpt lat="47.9775954" lon="10.0938096"/><trkpt lat="47.9776124" lon="10.0937839"/><trkpt lat="47.9776215" lon="10.0937506"/><trkpt lat="47.9776214" lon="10.0937145"/><trkpt lat="47.9776121" lon="10.0936813"/><trkpt lat="47.9775949" lon="10.0936559"/><trkpt lat="47.9775726" lon="10.0936422"/><trkpt lat="47.9775485" lon="10.0936424"/></trkseg></trk><trk><name>way/260727736</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/260727736</desc><trkseg><trkpt lat="48.042388" lon="9.3752244"/><trkpt lat="48.0423872" lon="9.3751602"/><trkpt lat="48.0423708" lon="9.3751143"/><trkpt lat="48.0423406" lon="9.3750807"/><trkpt lat="48.0423104" lon="9.3750705"/><trkpt lat="48.042275" lon="9.3750805"/><trkpt lat="48.0422506" lon="9.3751045"/><trkpt lat="48.0422321" lon="9.3751437"/><trkpt lat="48.0422248" lon="9.3751922"/><trkpt lat="48.0422378" lon="9.3752609"/><trkpt lat="48.0422623" lon="9.3752979"/><trkpt lat="48.0422903" lon="9.3753154"/><trkpt lat="48.0423259" lon="9.3753151"/><trkpt lat="48.0423583" lon="9.3752923"/><trkpt lat="48.0423754" lon="9.3752655"/><trkpt lat="48.042388" lon="9.3752244"/></trkseg></trk><trk><name>way/260727740</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/260727740</desc><trkseg><trkpt lat="48.0422969" lon="9.3749936"/><trkpt lat="48.0422962" lon="9.3749294"/><trkpt lat="48.0422798" lon="9.3748835"/><trkpt lat="48.0422495" lon="9.3748499"/><trkpt lat="48.0422193" lon="9.3748397"/><trkpt lat="48.0421839" lon="9.3748497"/><trkpt lat="48.0421596" lon="9.3748737"/><trkpt lat="48.042141" lon="9.3749129"/><trkpt lat="48.0421338" lon="9.3749613"/><trkpt lat="48.0421467" lon="9.37503"/><trkpt lat="48.0421712" lon="9.3750671"/><trkpt lat="48.0421992" lon="9.3750846"/><trkpt lat="48.0422348" lon="9.3750843"/><trkpt lat="48.0422672" lon="9.3750615"/><trkpt lat="48.0422843" lon="9.3750347"/><trkpt lat="48.0422969" lon="9.3749936"/></trkseg></trk><trk><name>way/260727742</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/260727742</desc><trkseg><trkpt lat="48.0422116" lon="9.375252"/><trkpt lat="48.0422043" lon="9.3751875"/><trkpt lat="48.0421867" lon="9.3751453"/><trkpt lat="48.0421586" lon="9.3751126"/><trkpt lat="48.04213" lon="9.3750981"/><trkpt lat="48.0420925" lon="9.3750992"/><trkpt lat="48.0420617" lon="9.3751175"/><trkpt lat="48.0420353" lon="9.3751526"/><trkpt lat="48.0420196" lon="9.3751962"/><trkpt lat="48.0420145" lon="9.3752521"/><trkpt lat="48.0420208" lon="9.3752957"/><trkpt lat="48.0420381" lon="9.3753395"/><trkpt lat="48.0420655" lon="9.3753728"/><trkpt lat="48.0420989" lon="9.3753896"/><trkpt lat="48.0421264" lon="9.3753897"/><trkpt lat="48.0421502" lon="9.3753802"/><trkpt lat="48.0421746" lon="9.3753588"/><trkpt lat="48.0421912" lon="9.3753336"/><trkpt lat="48.0422039" lon="9.3753013"/><trkpt lat="48.0422116" lon="9.375252"/></trkseg></trk><trk><name>way/260727745</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/260727745</desc><trkseg><trkpt lat="48.0425335" lon="9.3755264"/><trkpt lat="48.0425263" lon="9.3754618"/><trkpt lat="48.0425087" lon="9.3754196"/><trkpt lat="48.0424805" lon="9.3753869"/><trkpt lat="48.042452" lon="9.3753725"/><trkpt lat="48.0424144" lon="9.3753735"/><trkpt lat="48.0423836" lon="9.3753919"/><trkpt lat="48.0423573" lon="9.375427"/><trkpt lat="48.0423415" lon="9.3754706"/><trkpt lat="48.0423365" lon="9.3755264"/><trkpt lat="48.0423427" lon="9.3755701"/><trkpt lat="48.0423601" lon="9.3756139"/><trkpt lat="48.0423875" lon="9.3756472"/><trkpt lat="48.0424209" lon="9.3756639"/><trkpt lat="48.0424483" lon="9.3756641"/><trkpt lat="48.0424721" lon="9.3756546"/><trkpt lat="48.0424966" lon="9.3756332"/><trkpt lat="48.0425132" lon="9.3756079"/><trkpt lat="48.0425258" lon="9.3755756"/><trkpt lat="48.0425335" lon="9.3755264"/></trkseg></trk><trk><name>way/260733972</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/260733972</desc><trkseg><trkpt lat="48.0355789" lon="9.4029647"/><trkpt lat="48.0355932" lon="9.4029315"/><trkpt lat="48.0355989" lon="9.4029071"/><trkpt lat="48.035601" lon="9.402857"/><trkpt lat="48.0355876" lon="9.4028003"/><trkpt lat="48.0355584" lon="9.4027564"/><trkpt lat="48.0355225" lon="9.4027365"/><trkpt lat="48.0354829" lon="9.4027406"/><trkpt lat="48.0354505" lon="9.402766"/><trkpt lat="48.035427" lon="9.4028086"/><trkpt lat="48.0354164" lon="9.4028631"/><trkpt lat="48.0354219" lon="9.4029218"/><trkpt lat="48.0354455" lon="9.4029749"/><trkpt lat="48.035473" lon="9.4030016"/><trkpt lat="48.0355193" lon="9.4030115"/><trkpt lat="48.0355519" lon="9.4029966"/><trkpt lat="48.0355789" lon="9.4029647"/></trkseg></trk><trk><name>way/260733973</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/260733973</desc><trkseg><trkpt lat="48.0355603" lon="9.4032584"/><trkpt lat="48.0355746" lon="9.4032252"/><trkpt lat="48.0355803" lon="9.4032008"/><trkpt lat="48.0355823" lon="9.4031507"/><trkpt lat="48.035569" lon="9.403094"/><trkpt lat="48.0355398" lon="9.4030501"/><trkpt lat="48.0355038" lon="9.4030302"/><trkpt lat="48.0354642" lon="9.4030343"/><trkpt lat="48.0354318" lon="9.4030597"/><trkpt lat="48.0354084" lon="9.4031022"/><trkpt lat="48.0353978" lon="9.4031568"/><trkpt lat="48.0354033" lon="9.4032155"/><trkpt lat="48.0354268" lon="9.4032686"/><trkpt lat="48.0354543" lon="9.4032953"/><trkpt lat="48.0355006" lon="9.4033052"/><trkpt lat="48.0355333" lon="9.4032903"/><trkpt lat="48.0355603" lon="9.4032584"/></trkseg></trk><trk><name>way/263644456</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:output:electricity=no
+generator:plant=intermediate
+generator:source=biomass
+generator:type=bioreactor
+operator=Abwasserverband Wagbach
+power=generator
+source=Maps4BW
+id=way/263644456</desc><trkseg><trkpt lat="49.2580983" lon="8.5250644"/><trkpt lat="49.2580816" lon="8.5250476"/><trkpt lat="49.2580623" lon="8.5250395"/><trkpt lat="49.2580424" lon="8.525041"/><trkpt lat="49.2580237" lon="8.5250518"/><trkpt lat="49.2580081" lon="8.5250709"/><trkpt lat="49.2579972" lon="8.5250964"/><trkpt lat="49.2579919" lon="8.5251259"/><trkpt lat="49.2579928" lon="8.5251565"/><trkpt lat="49.2579999" lon="8.5251851"/><trkpt lat="49.2580124" lon="8.525209"/><trkpt lat="49.258029" lon="8.5252258"/><trkpt lat="49.2580483" lon="8.5252338"/><trkpt lat="49.2580682" lon="8.5252324"/><trkpt lat="49.2580869" lon="8.5252216"/><trkpt lat="49.2581025" lon="8.5252025"/><trkpt lat="49.2581134" lon="8.5251769"/><trkpt lat="49.2581187" lon="8.5251474"/><trkpt lat="49.2581178" lon="8.5251169"/><trkpt lat="49.2581107" lon="8.5250883"/><trkpt lat="49.2580983" lon="8.5250644"/></trkseg></trk><trk><name>way/266389133</name><desc>addr:city=Königheim
+addr:postcode=97953
+building=yes
+generator:source=biomass
+power=generator
+id=way/266389133</desc><trkseg><trkpt lat="49.5792901" lon="9.5878232"/><trkpt lat="49.5792455" lon="9.5878045"/><trkpt lat="49.5791994" lon="9.5878079"/><trkpt lat="49.5791561" lon="9.5878332"/><trkpt lat="49.5791201" lon="9.5878778"/><trkpt lat="49.5790927" lon="9.5879447"/><trkpt lat="49.5790819" lon="9.588022"/><trkpt lat="49.5790888" lon="9.5881004"/><trkpt lat="49.5791127" lon="9.5881704"/><trkpt lat="49.5791507" lon="9.5882236"/><trkpt lat="49.5791981" lon="9.5882536"/><trkpt lat="49.5792494" lon="9.5882567"/><trkpt lat="49.5792982" lon="9.5882325"/><trkpt lat="49.5793388" lon="9.5881841"/><trkpt lat="49.5793641" lon="9.5881245"/><trkpt lat="49.5793763" lon="9.5880557"/><trkpt lat="49.5793741" lon="9.5879845"/><trkpt lat="49.5793577" lon="9.5879179"/><trkpt lat="49.5793288" lon="9.5878623"/><trkpt lat="49.5792901" lon="9.5878232"/></trkseg></trk><trk><name>way/266389134</name><desc>addr:city=Königheim
+addr:postcode=97953
+building=yes
+generator:source=biomass
+power=generator
+id=way/266389134</desc><trkseg><trkpt lat="49.5796776" lon="9.5877972"/><trkpt lat="49.5796517" lon="9.587785"/><trkpt lat="49.5796246" lon="9.5877857"/><trkpt lat="49.579599" lon="9.5877992"/><trkpt lat="49.5795773" lon="9.5878243"/><trkpt lat="49.5795605" lon="9.5878627"/><trkpt lat="49.5795532" lon="9.5879077"/><trkpt lat="49.5795563" lon="9.5879538"/><trkpt lat="49.5795694" lon="9.5879955"/><trkpt lat="49.579591" lon="9.5880277"/><trkpt lat="49.5796185" lon="9.5880466"/><trkpt lat="49.5796485" lon="9.5880499"/><trkpt lat="49.5796774" lon="9.5880372"/><trkpt lat="49.5797017" lon="9.58801"/><trkpt lat="49.5797173" lon="9.5879758"/><trkpt lat="49.5797252" lon="9.5879359"/><trkpt lat="49.5797248" lon="9.5878941"/><trkpt lat="49.579716" lon="9.5878546"/><trkpt lat="49.5796997" lon="9.5878212"/><trkpt lat="49.5796776" lon="9.5877972"/></trkseg></trk><trk><name>way/266389135</name><desc>addr:city=Königheim
+addr:postcode=97953
+building=yes
+generator:source=biomass
+power=generator
+id=way/266389135</desc><trkseg><trkpt lat="49.5803168" lon="9.5803271"/><trkpt lat="49.5802828" lon="9.5803068"/><trkpt lat="49.5802462" lon="9.5803056"/><trkpt lat="49.5802117" lon="9.5803239"/><trkpt lat="49.5801832" lon="9.5803592"/><trkpt lat="49.5801657" lon="9.5804022"/><trkpt lat="49.5801576" lon="9.5804514"/><trkpt lat="49.5801598" lon="9.5805021"/><trkpt lat="49.5801721" lon="9.5805492"/><trkpt lat="49.5801932" lon="9.5805882"/><trkpt lat="49.5802211" lon="9.5806152"/><trkpt lat="49.580253" lon="9.5806276"/><trkpt lat="49.5802858" lon="9.5806242"/><trkpt lat="49.5803164" lon="9.5806053"/><trkpt lat="49.5803417" lon="9.5805728"/><trkpt lat="49.5803606" lon="9.5805245"/><trkpt lat="49.5803676" lon="9.5804692"/><trkpt lat="49.580362" lon="9.5804135"/><trkpt lat="49.5803444" lon="9.5803642"/><trkpt lat="49.5803168" lon="9.5803271"/></trkseg></trk><trk><name>way/266389136</name><desc>addr:city=Königheim
+addr:postcode=97953
+building=yes
+generator:source=biomass
+power=generator
+id=way/266389136</desc><trkseg><trkpt lat="49.5798615" lon="9.5877692"/><trkpt lat="49.5798405" lon="9.5877602"/><trkpt lat="49.5798188" lon="9.5877616"/><trkpt lat="49.5797984" lon="9.5877733"/><trkpt lat="49.5797813" lon="9.5877941"/><trkpt lat="49.5797683" lon="9.5878255"/><trkpt lat="49.579763" lon="9.5878619"/><trkpt lat="49.5797661" lon="9.5878988"/><trkpt lat="49.5797772" lon="9.5879319"/><trkpt lat="49.579795" lon="9.5879571"/><trkpt lat="49.5798173" lon="9.5879715"/><trkpt lat="49.5798414" lon="9.5879732"/><trkpt lat="49.5798645" lon="9.5879621"/><trkpt lat="49.5798837" lon="9.5879395"/><trkpt lat="49.5798957" lon="9.5879115"/><trkpt lat="49.5799016" lon="9.5878792"/><trkpt lat="49.5799007" lon="9.5878456"/><trkpt lat="49.5798931" lon="9.5878142"/><trkpt lat="49.5798796" lon="9.5877878"/><trkpt lat="49.5798615" lon="9.5877692"/></trkseg></trk><trk><name>way/266389137</name><desc>addr:city=Königheim
+addr:postcode=97953
+building=yes
+generator:source=biomass
+power=generator
+id=way/266389137</desc><trkseg><trkpt lat="49.5801107" lon="9.5801672"/><trkpt lat="49.5800861" lon="9.5801621"/><trkpt lat="49.5800617" lon="9.5801689"/><trkpt lat="49.5800399" lon="9.5801871"/><trkpt lat="49.5800227" lon="9.5802147"/><trkpt lat="49.5800112" lon="9.5802533"/><trkpt lat="49.5800089" lon="9.5802956"/><trkpt lat="49.5800162" lon="9.5803366"/><trkpt lat="49.5800321" lon="9.5803713"/><trkpt lat="49.5800548" lon="9.5803954"/><trkpt lat="49.5800814" lon="9.5804062"/><trkpt lat="49.5801088" lon="9.5804023"/><trkpt lat="49.5801337" lon="9.5803842"/><trkpt lat="49.5801531" lon="9.580354"/><trkpt lat="49.5801638" lon="9.5803195"/><trkpt lat="49.5801672" lon="9.5802816"/><trkpt lat="49.5801627" lon="9.5802439"/><trkpt lat="49.580151" lon="9.5802103"/><trkpt lat="49.580133" lon="9.5801838"/><trkpt lat="49.5801107" lon="9.5801672"/></trkseg></trk><trk><name>way/267256259</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/267256259</desc><trkseg><trkpt lat="48.3408116" lon="9.3209061"/><trkpt lat="48.3408373" lon="9.3208578"/><trkpt lat="48.3408517" lon="9.3207997"/><trkpt lat="48.3408527" lon="9.3207325"/><trkpt lat="48.3408325" lon="9.320654"/><trkpt lat="48.3408042" lon="9.3206083"/><trkpt lat="48.3407597" lon="9.3205745"/><trkpt lat="48.3407059" lon="9.3205694"/><trkpt lat="48.34065" lon="9.3206031"/><trkpt lat="48.340622" lon="9.320644"/><trkpt lat="48.3406008" lon="9.3207066"/><trkpt lat="48.3405959" lon="9.3207774"/><trkpt lat="48.340605" lon="9.320835"/><trkpt lat="48.3406261" lon="9.3208874"/><trkpt lat="48.3406548" lon="9.3209254"/><trkpt lat="48.3406954" lon="9.3209512"/><trkpt lat="48.3407332" lon="9.3209559"/><trkpt lat="48.3407773" lon="9.3209396"/><trkpt lat="48.3408116" lon="9.3209061"/></trkseg></trk><trk><name>way/271810268</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/271810268</desc><trkseg><trkpt lat="48.0595834" lon="9.3467434"/><trkpt lat="48.0595325" lon="9.3467285"/><trkpt lat="48.0594815" lon="9.346742"/><trkpt lat="48.0594371" lon="9.3467822"/><trkpt lat="48.0594055" lon="9.3468437"/><trkpt lat="48.0593908" lon="9.3469182"/><trkpt lat="48.0593951" lon="9.3469955"/><trkpt lat="48.0594178" lon="9.3470653"/><trkpt lat="48.0594558" lon="9.3471181"/><trkpt lat="48.059504" lon="9.3471468"/><trkpt lat="48.0595558" lon="9.3471476"/><trkpt lat="48.0596044" lon="9.3471202"/><trkpt lat="48.059643" lon="9.3470685"/><trkpt lat="48.0596666" lon="9.3469993"/><trkpt lat="48.0596719" lon="9.3469221"/><trkpt lat="48.0596581" lon="9.3468473"/><trkpt lat="48.0596273" lon="9.3467849"/><trkpt lat="48.0595834" lon="9.3467434"/></trkseg></trk><trk><name>way/271810269</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/271810269</desc><trkseg><trkpt lat="48.0595886" lon="9.3462409"/><trkpt lat="48.0595378" lon="9.3462259"/><trkpt lat="48.0594867" lon="9.3462395"/><trkpt lat="48.0594423" lon="9.3462797"/><trkpt lat="48.0594107" lon="9.3463412"/><trkpt lat="48.059396" lon="9.3464156"/><trkpt lat="48.0594003" lon="9.346493"/><trkpt lat="48.059423" lon="9.3465628"/><trkpt lat="48.059461" lon="9.3466156"/><trkpt lat="48.0595092" lon="9.3466443"/><trkpt lat="48.0595611" lon="9.346645"/><trkpt lat="48.0596096" lon="9.3466177"/><trkpt lat="48.0596483" lon="9.3465659"/><trkpt lat="48.0596718" lon="9.3464968"/><trkpt lat="48.0596771" lon="9.3464196"/><trkpt lat="48.0596634" lon="9.3463447"/><trkpt lat="48.0596325" lon="9.3462824"/><trkpt lat="48.0595886" lon="9.3462409"/></trkseg></trk><trk><name>way/275008410</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/275008410</desc><trkseg><trkpt lat="47.9197483" lon="8.99038"/><trkpt lat="47.9197375" lon="8.9903483"/><trkpt lat="47.9197202" lon="8.9903241"/><trkpt lat="47.9196984" lon="8.9903101"/><trkpt lat="47.9196746" lon="8.9903081"/><trkpt lat="47.9196519" lon="8.9903184"/><trkpt lat="47.9196328" lon="8.9903397"/><trkpt lat="47.9196198" lon="8.9903694"/><trkpt lat="47.9196144" lon="8.9904039"/><trkpt lat="47.9196172" lon="8.9904391"/><trkpt lat="47.9196279" lon="8.9904708"/><trkpt lat="47.9196453" lon="8.9904951"/><trkpt lat="47.9196671" lon="8.990509"/><trkpt lat="47.9196909" lon="8.990511"/><trkpt lat="47.9197136" lon="8.9905007"/><trkpt lat="47.9197327" lon="8.9904795"/><trkpt lat="47.9197457" lon="8.9904498"/><trkpt lat="47.9197511" lon="8.9904152"/><trkpt lat="47.9197483" lon="8.99038"/></trkseg></trk><trk><name>way/275008411</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/275008411</desc><trkseg><trkpt lat="47.9197902" lon="8.9900884"/><trkpt lat="47.9197827" lon="8.9900518"/><trkpt lat="47.9197674" lon="8.9900212"/><trkpt lat="47.9197459" lon="8.9900003"/><trkpt lat="47.9197209" lon="8.9899917"/><trkpt lat="47.9196955" lon="8.9899962"/><trkpt lat="47.9196726" lon="8.9900135"/><trkpt lat="47.9196551" lon="8.9900414"/><trkpt lat="47.919645" lon="8.9900766"/><trkpt lat="47.9196436" lon="8.9901148"/><trkpt lat="47.9196511" lon="8.9901514"/><trkpt lat="47.9196665" lon="8.990182"/><trkpt lat="47.9196879" lon="8.9902029"/><trkpt lat="47.9197129" lon="8.9902116"/><trkpt lat="47.9197383" lon="8.990207"/><trkpt lat="47.9197612" lon="8.9901897"/><trkpt lat="47.9197787" lon="8.9901618"/><trkpt lat="47.9197888" lon="8.9901266"/><trkpt lat="47.9197902" lon="8.9900884"/></trkseg></trk><trk><name>way/275008412</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/275008412</desc><trkseg><trkpt lat="47.9196147" lon="8.9902908"/><trkpt lat="47.919609" lon="8.9902531"/><trkpt lat="47.9195949" lon="8.9902206"/><trkpt lat="47.9195743" lon="8.9901972"/><trkpt lat="47.9195495" lon="8.9901858"/><trkpt lat="47.9195236" lon="8.9901877"/><trkpt lat="47.9194997" lon="8.9902027"/><trkpt lat="47.9194807" lon="8.990229"/><trkpt lat="47.9194688" lon="8.9902634"/><trkpt lat="47.9194656" lon="8.9903018"/><trkpt lat="47.9194714" lon="8.9903395"/><trkpt lat="47.9194854" lon="8.990372"/><trkpt lat="47.9195061" lon="8.9903954"/><trkpt lat="47.9195309" lon="8.9904068"/><trkpt lat="47.9195568" lon="8.9904049"/><trkpt lat="47.9195806" lon="8.9903899"/><trkpt lat="47.9195997" lon="8.9903636"/><trkpt lat="47.9196115" lon="8.9903292"/><trkpt lat="47.9196147" lon="8.9902908"/></trkseg></trk><trk><name>way/275008413</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/275008413</desc><trkseg><trkpt lat="47.9194672" lon="8.9901492"/><trkpt lat="47.9194536" lon="8.9901166"/><trkpt lat="47.9194333" lon="8.9900929"/><trkpt lat="47.9194089" lon="8.990081"/><trkpt lat="47.9193831" lon="8.9900823"/><trkpt lat="47.9193593" lon="8.9900966"/><trkpt lat="47.9193401" lon="8.9901223"/><trkpt lat="47.919328" lon="8.9901562"/><trkpt lat="47.9193244" lon="8.9901942"/><trkpt lat="47.9193297" lon="8.9902318"/><trkpt lat="47.9193433" lon="8.9902644"/><trkpt lat="47.9193636" lon="8.9902881"/><trkpt lat="47.919388" lon="8.9903"/><trkpt lat="47.9194138" lon="8.9902987"/><trkpt lat="47.9194376" lon="8.9902844"/><trkpt lat="47.9194568" lon="8.9902587"/><trkpt lat="47.9194689" lon="8.9902248"/><trkpt lat="47.9194725" lon="8.9901868"/><trkpt lat="47.9194672" lon="8.9901492"/></trkseg></trk><trk><name>way/278577681</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:output:electricity=no
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+source:geometry=Maps4BW, LGL, www.lgl-bw.de
+id=way/278577681</desc><trkseg><trkpt lat="49.1015855" lon="8.6147856"/><trkpt lat="49.1015779" lon="8.6147478"/><trkpt lat="49.1015654" lon="8.614713"/><trkpt lat="49.1015487" lon="8.6146827"/><trkpt lat="49.1015284" lon="8.6146581"/><trkpt lat="49.1015054" lon="8.61464"/><trkpt lat="49.1014804" lon="8.6146293"/><trkpt lat="49.1014545" lon="8.6146264"/><trkpt lat="49.1014288" lon="8.6146314"/><trkpt lat="49.1014042" lon="8.614644"/><trkpt lat="49.1013818" lon="8.6146638"/><trkpt lat="49.1013623" lon="8.6146901"/><trkpt lat="49.1013467" lon="8.6147217"/><trkpt lat="49.1013355" lon="8.6147574"/><trkpt lat="49.1013291" lon="8.6147958"/><trkpt lat="49.1013278" lon="8.6148353"/><trkpt lat="49.1013317" lon="8.6148745"/><trkpt lat="49.1013405" lon="8.6149117"/><trkpt lat="49.1013541" lon="8.6149455"/><trkpt lat="49.1013717" lon="8.6149745"/><trkpt lat="49.1013928" lon="8.6149976"/><trkpt lat="49.1014164" lon="8.6150139"/><trkpt lat="49.1014417" lon="8.6150227"/><trkpt lat="49.1014676" lon="8.6150237"/><trkpt lat="49.1014932" lon="8.6150168"/><trkpt lat="49.1015173" lon="8.6150023"/><trkpt lat="49.1015391" lon="8.6149808"/><trkpt lat="49.1015577" lon="8.6149532"/><trkpt lat="49.1015723" lon="8.6149204"/><trkpt lat="49.1015823" lon="8.6148839"/><trkpt lat="49.1015875" lon="8.6148451"/><trkpt lat="49.1016172" lon="8.6148428"/><trkpt lat="49.1016152" lon="8.6147833"/><trkpt lat="49.1015855" lon="8.6147856"/></trkseg></trk><trk><name>way/287719886</name><desc>generator:source=biomass
+power=generator
+id=way/287719886</desc><trkseg><trkpt lat="48.2931501" lon="9.9044363"/><trkpt lat="48.2931518" lon="9.9043888"/><trkpt lat="48.293144" lon="9.9043427"/><trkpt lat="48.2931275" lon="9.9043021"/><trkpt lat="48.2931038" lon="9.9042706"/><trkpt lat="48.293075" lon="9.904251"/><trkpt lat="48.2930436" lon="9.904245"/><trkpt lat="48.2930125" lon="9.9042532"/><trkpt lat="48.2929843" lon="9.9042749"/><trkpt lat="48.2929616" lon="9.904308"/><trkpt lat="48.2929465" lon="9.9043498"/><trkpt lat="48.2929402" lon="9.9043964"/><trkpt lat="48.2929433" lon="9.9044437"/><trkpt lat="48.2929555" lon="9.9044875"/><trkpt lat="48.2929758" lon="9.904524"/><trkpt lat="48.2930024" lon="9.9045498"/><trkpt lat="48.2930328" lon="9.9045628"/><trkpt lat="48.2930644" lon="9.9045616"/><trkpt lat="48.2930944" lon="9.9045466"/><trkpt lat="48.2931202" lon="9.9045188"/><trkpt lat="48.2931393" lon="9.904481"/><trkpt lat="48.2931501" lon="9.9044363"/></trkseg></trk><trk><name>way/288509066</name><desc>generator:source=biomass
+power=generator
+id=way/288509066</desc><trkseg><trkpt lat="48.2624499" lon="9.9380375"/><trkpt lat="48.2624404" lon="9.9379938"/><trkpt lat="48.2624236" lon="9.9379553"/><trkpt lat="48.2624008" lon="9.9379246"/><trkpt lat="48.2623734" lon="9.9379038"/><trkpt lat="48.2623435" lon="9.9378944"/><trkpt lat="48.2623129" lon="9.9378969"/><trkpt lat="48.2622838" lon="9.9379113"/><trkpt lat="48.2622581" lon="9.9379364"/><trkpt lat="48.2622377" lon="9.9379707"/><trkpt lat="48.2622239" lon="9.9380118"/><trkpt lat="48.2622176" lon="9.9380568"/><trkpt lat="48.2622193" lon="9.9381028"/><trkpt lat="48.2622288" lon="9.9381465"/><trkpt lat="48.2622456" lon="9.938185"/><trkpt lat="48.2622684" lon="9.9382157"/><trkpt lat="48.2622958" lon="9.9382365"/><trkpt lat="48.2623257" lon="9.9382459"/><trkpt lat="48.2623563" lon="9.9382434"/><trkpt lat="48.2623854" lon="9.938229"/><trkpt lat="48.2624111" lon="9.9382038"/><trkpt lat="48.2624315" lon="9.9381696"/><trkpt lat="48.2624453" lon="9.9381285"/><trkpt lat="48.2624516" lon="9.9380835"/><trkpt lat="48.2624499" lon="9.9380375"/></trkseg></trk><trk><name>Biomasseheizwerk</name><desc>addr:city=Todtmoos
+addr:postcode=79682
+addr:street=Wehratalstraße
+building=service
+generator:output:hot_water=hot_water
+generator:source=biomass
+name=Biomasseheizwerk
+power=generator
+id=way/291985554</desc><trkseg><trkpt lat="47.7345851" lon="8.0013928"/><trkpt lat="47.7344478" lon="8.0014332"/><trkpt lat="47.7344582" lon="8.0015112"/><trkpt lat="47.7344811" lon="8.0015045"/><trkpt lat="47.7344936" lon="8.001599"/><trkpt lat="47.7345805" lon="8.0015735"/><trkpt lat="47.7345677" lon="8.0014767"/><trkpt lat="47.7345952" lon="8.0014686"/><trkpt lat="47.7345851" lon="8.0013928"/></trkseg></trk><trk><name>Heizanlage Kolleg</name><desc>building=service
+building:levels=1
+generator:method=combustion
+generator:source=biomass
+height=6
+level=-1
+name=Heizanlage Kolleg
+id=way/301559724</desc><trkseg><trkpt lat="47.7584418" lon="8.1303081"/><trkpt lat="47.7583724" lon="8.1302938"/><trkpt lat="47.7583607" lon="8.1304194"/><trkpt lat="47.7584301" lon="8.1304337"/><trkpt lat="47.7584418" lon="8.1303081"/></trkseg></trk><trk><name>way/305567801</name><desc>building=yes
+generator:output:electricity=20 MW
+generator:source=biomass
+power=generator
+id=way/305567801</desc><trkseg><trkpt lat="49.5242836" lon="8.4517037"/><trkpt lat="49.524054" lon="8.4518019"/><trkpt lat="49.5240872" lon="8.4519862"/><trkpt lat="49.524017" lon="8.4520163"/><trkpt lat="49.5240469" lon="8.4521825"/><trkpt lat="49.5243161" lon="8.4520674"/><trkpt lat="49.5242858" lon="8.451899"/><trkpt lat="49.5243165" lon="8.4518859"/><trkpt lat="49.5242836" lon="8.4517037"/></trkseg></trk><trk><name>way/308015372</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/308015372</desc><trkseg><trkpt lat="47.754262" lon="8.4487839"/><trkpt lat="47.7542276" lon="8.4487794"/><trkpt lat="47.7541949" lon="8.4487962"/><trkpt lat="47.7541696" lon="8.4488313"/><trkpt lat="47.7541561" lon="8.4488786"/><trkpt lat="47.7541567" lon="8.4489301"/><trkpt lat="47.7541714" lon="8.4489767"/><trkpt lat="47.7541975" lon="8.4490104"/><trkpt lat="47.7542305" lon="8.4490254"/><trkpt lat="47.7542648" lon="8.4490191"/><trkpt lat="47.7542945" lon="8.4489926"/><trkpt lat="47.7543143" lon="8.4489504"/><trkpt lat="47.7543209" lon="8.4489"/><trkpt lat="47.7543131" lon="8.4488498"/><trkpt lat="47.7542922" lon="8.4488088"/><trkpt lat="47.754262" lon="8.4487839"/></trkseg></trk><trk><name>Güllebecken</name><desc>generator:source=biomass
+man_made=basin
+name=Güllebecken
+natural=water
+note=Textil-Güllebecken für BIO-Kraftwerk. CENO ist entweder Betreiber oder Baufirma dieser Anlage.
+operator=?CENO TEC GmbH
+url=http://www.ceno-tec.de/
+water=wastewater
+id=way/327740774</desc><trkseg><trkpt lat="48.0406329" lon="8.5972678"/><trkpt lat="48.0405199" lon="8.5973429"/><trkpt lat="48.040493" lon="8.597426"/><trkpt lat="48.040606" lon="8.5978659"/><trkpt lat="48.0406508" lon="8.5978954"/><trkpt lat="48.040805" lon="8.5977989"/><trkpt lat="48.040814" lon="8.5977238"/><trkpt lat="48.0406992" lon="8.5972973"/><trkpt lat="48.0406329" lon="8.5972678"/></trkseg></trk><trk><name>way/329720522</name><desc>building=yes
+generator:source=biomass
+power=generator
+id=way/329720522</desc><trkseg><trkpt lat="49.0859707" lon="9.7126277"/><trkpt lat="49.0859393" lon="9.7125916"/><trkpt lat="49.0859018" lon="9.7125741"/><trkpt lat="49.0858625" lon="9.7125773"/><trkpt lat="49.0858264" lon="9.7126007"/><trkpt lat="49.0857976" lon="9.7126416"/><trkpt lat="49.0857798" lon="9.7126951"/><trkpt lat="49.085775" lon="9.7127546"/><trkpt lat="49.0857839" lon="9.7128131"/><trkpt lat="49.0858053" lon="9.7128634"/><trkpt lat="49.0858366" lon="9.7128995"/><trkpt lat="49.0858742" lon="9.712917"/><trkpt lat="49.0859134" lon="9.7129138"/><trkpt lat="49.0859496" lon="9.7128904"/><trkpt lat="49.0859783" lon="9.7128495"/><trkpt lat="49.0859962" lon="9.712796"/><trkpt lat="49.0860009" lon="9.7127365"/><trkpt lat="49.0859921" lon="9.712678"/><trkpt lat="49.0859707" lon="9.7126277"/></trkseg></trk><trk><name>way/329720523</name><desc>building=yes
+generator:source=biomass
+power=generator
+id=way/329720523</desc><trkseg><trkpt lat="49.085572" lon="9.7121797"/><trkpt lat="49.0855432" lon="9.7121756"/><trkpt lat="49.085515" lon="9.7121854"/><trkpt lat="49.0854902" lon="9.7122079"/><trkpt lat="49.0854712" lon="9.7122411"/><trkpt lat="49.0854597" lon="9.7122817"/><trkpt lat="49.0854571" lon="9.7123256"/><trkpt lat="49.0854635" lon="9.7123687"/><trkpt lat="49.0854783" lon="9.7124066"/><trkpt lat="49.0855" lon="9.7124357"/><trkpt lat="49.0855266" lon="9.7124531"/><trkpt lat="49.0855553" lon="9.7124571"/><trkpt lat="49.0855835" lon="9.7124474"/><trkpt lat="49.0856084" lon="9.7124248"/><trkpt lat="49.0856274" lon="9.7123916"/><trkpt lat="49.0856388" lon="9.7123511"/><trkpt lat="49.0856415" lon="9.7123071"/><trkpt lat="49.0856351" lon="9.7122641"/><trkpt lat="49.0856203" lon="9.7122262"/><trkpt lat="49.0855986" lon="9.7121971"/><trkpt lat="49.085572" lon="9.7121797"/></trkseg></trk><trk><name>way/329720524</name><desc>building=yes
+generator:source=biomass
+power=generator
+id=way/329720524</desc><trkseg><trkpt lat="49.0857336" lon="9.7123873"/><trkpt lat="49.0857049" lon="9.7123833"/><trkpt lat="49.0856767" lon="9.712393"/><trkpt lat="49.0856518" lon="9.7124156"/><trkpt lat="49.0856328" lon="9.7124488"/><trkpt lat="49.0856214" lon="9.7124893"/><trkpt lat="49.0856187" lon="9.7125333"/><trkpt lat="49.0856251" lon="9.7125763"/><trkpt lat="49.0856399" lon="9.7126142"/><trkpt lat="49.0856616" lon="9.7126433"/><trkpt lat="49.0856882" lon="9.7126607"/><trkpt lat="49.085717" lon="9.7126648"/><trkpt lat="49.0857452" lon="9.712655"/><trkpt lat="49.08577" lon="9.7126324"/><trkpt lat="49.0857891" lon="9.7125993"/><trkpt lat="49.0858005" lon="9.7125587"/><trkpt lat="49.0858031" lon="9.7125148"/><trkpt lat="49.0857967" lon="9.7124717"/><trkpt lat="49.0857819" lon="9.7124338"/><trkpt lat="49.0857602" lon="9.7124047"/><trkpt lat="49.0857336" lon="9.7123873"/></trkseg></trk><trk><name>way/331547354</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/331547354</desc><trkseg><trkpt lat="48.062262" lon="9.9908626"/><trkpt lat="48.0622621" lon="9.9908103"/><trkpt lat="48.0622495" lon="9.9907616"/><trkpt lat="48.062226" lon="9.9907229"/><trkpt lat="48.0621948" lon="9.9906996"/><trkpt lat="48.06216" lon="9.9906947"/><trkpt lat="48.0621264" lon="9.9907089"/><trkpt lat="48.0620985" lon="9.9907403"/><trkpt lat="48.0620801" lon="9.9907847"/><trkpt lat="48.0620736" lon="9.9908361"/><trkpt lat="48.06208" lon="9.9908874"/><trkpt lat="48.0620983" lon="9.9909319"/><trkpt lat="48.0621262" lon="9.9909635"/><trkpt lat="48.0621598" lon="9.9909778"/><trkpt lat="48.0621945" lon="9.9909731"/><trkpt lat="48.0622258" lon="9.9909499"/><trkpt lat="48.0622494" lon="9.9909113"/><trkpt lat="48.062262" lon="9.9908626"/></trkseg></trk><trk><name>way/334389640</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/334389640</desc><trkseg><trkpt lat="48.8646019" lon="9.211843"/><trkpt lat="48.8646355" lon="9.2118063"/><trkpt lat="48.8646595" lon="9.211755"/><trkpt lat="48.8646712" lon="9.2116947"/><trkpt lat="48.8646694" lon="9.2116318"/><trkpt lat="48.8646543" lon="9.2115733"/><trkpt lat="48.8646274" lon="9.2115253"/><trkpt lat="48.8645918" lon="9.2114933"/><trkpt lat="48.8645513" lon="9.2114805"/><trkpt lat="48.8645103" lon="9.2114884"/><trkpt lat="48.8644731" lon="9.2115162"/><trkpt lat="48.8644439" lon="9.2115608"/><trkpt lat="48.8644258" lon="9.2116173"/><trkpt lat="48.8644208" lon="9.2116798"/><trkpt lat="48.8644294" lon="9.2117413"/><trkpt lat="48.8644506" lon="9.2117953"/><trkpt lat="48.8644823" lon="9.2118359"/><trkpt lat="48.8645209" lon="9.2118586"/><trkpt lat="48.8645622" lon="9.2118611"/><trkpt lat="48.8646019" lon="9.211843"/></trkseg></trk><trk><name>way/363916375</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+source=Maps4BW ( LGL, www.lgl-bw.de) / Mapbox Satellitenbild
+id=way/363916375</desc><trkseg><trkpt lat="48.1096966" lon="9.6218803"/><trkpt lat="48.1096676" lon="9.6218061"/><trkpt lat="48.1095893" lon="9.6218749"/><trkpt lat="48.1096183" lon="9.621949"/><trkpt lat="48.1096966" lon="9.6218803"/></trkseg></trk><trk><name>way/364197021</name><desc>addr:city=Königheim
+addr:postcode=97953
+building=yes
+generator:source=biomass
+power=generator
+id=way/364197021</desc><trkseg><trkpt lat="49.5799777" lon="9.5802596"/><trkpt lat="49.579994" lon="9.5802255"/><trkpt lat="49.5800024" lon="9.5801852"/><trkpt lat="49.5800019" lon="9.5801428"/><trkpt lat="49.5799924" lon="9.5801024"/><trkpt lat="49.5799748" lon="9.580069"/><trkpt lat="49.5799511" lon="9.5800462"/><trkpt lat="49.5799239" lon="9.5800367"/><trkpt lat="49.5798961" lon="9.5800415"/><trkpt lat="49.5798709" lon="9.58006"/><trkpt lat="49.579851" lon="9.5800902"/><trkpt lat="49.5798386" lon="9.5801287"/><trkpt lat="49.5798351" lon="9.5801714"/><trkpt lat="49.5798408" lon="9.5802136"/><trkpt lat="49.5798548" lon="9.58025"/><trkpt lat="49.5798757" lon="9.5802775"/><trkpt lat="49.5799012" lon="9.5802931"/><trkpt lat="49.5799287" lon="9.5802953"/><trkpt lat="49.5799551" lon="9.5802837"/><trkpt lat="49.5799777" lon="9.5802596"/></trkseg></trk><trk><name>way/365081179</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/365081179</desc><trkseg><trkpt lat="48.5355822" lon="9.9136056"/><trkpt lat="48.5355799" lon="9.9136327"/><trkpt lat="48.5355834" lon="9.9136594"/><trkpt lat="48.5355925" lon="9.913683"/><trkpt lat="48.5356065" lon="9.9137013"/><trkpt lat="48.5356237" lon="9.9137116"/><trkpt lat="48.5356421" lon="9.9137128"/><trkpt lat="48.5356599" lon="9.9137048"/><trkpt lat="48.5356748" lon="9.9136884"/><trkpt lat="48.5356854" lon="9.9136655"/><trkpt lat="48.5356904" lon="9.9136386"/><trkpt lat="48.5356892" lon="9.9136107"/><trkpt lat="48.5356823" lon="9.9135855"/><trkpt lat="48.5356704" lon="9.913565"/><trkpt lat="48.5356547" lon="9.9135514"/><trkpt lat="48.535637" lon="9.9135461"/><trkpt lat="48.5356191" lon="9.9135497"/><trkpt lat="48.5356029" lon="9.9135618"/><trkpt lat="48.5355902" lon="9.9135812"/><trkpt lat="48.5355822" lon="9.9136056"/></trkseg></trk><trk><name>way/370969558</name><desc>building=digester
+description=Biovergärungsanlage
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:output:electricity=no
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/370969558</desc><trkseg><trkpt lat="48.9791986" lon="8.4900852"/><trkpt lat="48.9792016" lon="8.4900547"/><trkpt lat="48.9791972" lon="8.4900247"/><trkpt lat="48.9791859" lon="8.4899991"/><trkpt lat="48.9791694" lon="8.4899814"/><trkpt lat="48.9791497" lon="8.4899741"/><trkpt lat="48.9791297" lon="8.4899781"/><trkpt lat="48.9791119" lon="8.4899928"/><trkpt lat="48.9790989" lon="8.4900163"/><trkpt lat="48.9790923" lon="8.4900454"/><trkpt lat="48.979093" lon="8.4900762"/><trkpt lat="48.979101" lon="8.4901044"/><trkpt lat="48.9791151" lon="8.4901264"/><trkpt lat="48.9791335" lon="8.4901391"/><trkpt lat="48.9791537" lon="8.4901409"/><trkpt lat="48.9791729" lon="8.4901314"/><trkpt lat="48.9791886" lon="8.4901119"/><trkpt lat="48.9791986" lon="8.4900852"/></trkseg></trk><trk><name>Nahwärme-Heizhaus</name><desc>building=yes
+generator:method=combustion
+generator:source=biomass
+landuse=industrial
+name=Nahwärme-Heizhaus
+operator=BEO-Bürge-Energie Oberharmersbach eG.
+plant:method=combustion
+plant:output:hot_water=yes
+plant:source=biomass
+power=plant
+start_date=2015.12.18
+id=way/378515608</desc><trkseg><trkpt lat="48.3760395" lon="8.1319128"/><trkpt lat="48.3759056" lon="8.132049"/><trkpt lat="48.3759416" lon="8.1321647"/><trkpt lat="48.3759541" lon="8.1321533"/><trkpt lat="48.3759873" lon="8.1322234"/><trkpt lat="48.3761207" lon="8.1321038"/><trkpt lat="48.3760395" lon="8.1319128"/></trkseg></trk><trk><name>Wirbelschichtofen II</name><desc>generator:method=combustion
+generator:output:steam=yes
+generator:plant=intermediate
+generator:source=biomass
+generator:type=steam_generator
+name=Wirbelschichtofen II
+power=generator
+start_date=1992
+id=way/391123112</desc><trkseg><trkpt lat="48.8478513" lon="9.2431516"/><trkpt lat="48.8477991" lon="9.2432666"/><trkpt lat="48.8478413" lon="9.2433105"/><trkpt lat="48.8477557" lon="9.2434992"/><trkpt lat="48.8477136" lon="9.2434554"/><trkpt lat="48.8476785" lon="9.243533"/><trkpt lat="48.8476453" lon="9.2434985"/><trkpt lat="48.8476248" lon="9.2435437"/><trkpt lat="48.8476176" lon="9.2435597"/><trkpt lat="48.8477534" lon="9.2437011"/><trkpt lat="48.8478051" lon="9.243755"/><trkpt lat="48.8478177" lon="9.2437272"/><trkpt lat="48.8478348" lon="9.2436896"/><trkpt lat="48.8478482" lon="9.24366"/><trkpt lat="48.8479035" lon="9.2435382"/><trkpt lat="48.8480077" lon="9.2433084"/><trkpt lat="48.8480309" lon="9.2433325"/><trkpt lat="48.8480723" lon="9.2432412"/><trkpt lat="48.8481726" lon="9.2433456"/><trkpt lat="48.8483533" lon="9.2429472"/><trkpt lat="48.8480487" lon="9.2426301"/><trkpt lat="48.8478682" lon="9.2430279"/><trkpt lat="48.8478738" lon="9.2430337"/><trkpt lat="48.8478303" lon="9.2431298"/><trkpt lat="48.8478513" lon="9.2431516"/></trkseg></trk><trk><name>way/402444936</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2012
+id=way/402444936</desc><trkseg><trkpt lat="48.263821" lon="9.8500149"/><trkpt lat="48.2637975" lon="9.8499965"/><trkpt lat="48.263762" lon="9.849987"/><trkpt lat="48.2637266" lon="9.8499963"/><trkpt lat="48.2636954" lon="9.8500233"/><trkpt lat="48.2636722" lon="9.8500646"/><trkpt lat="48.263659" lon="9.850124"/><trkpt lat="48.2636609" lon="9.850178"/><trkpt lat="48.263675" lon="9.8502277"/><trkpt lat="48.2636996" lon="9.8502672"/><trkpt lat="48.2637231" lon="9.850287"/><trkpt lat="48.2637583" lon="9.8502983"/><trkpt lat="48.2637939" lon="9.8502907"/><trkpt lat="48.2638257" lon="9.8502653"/><trkpt lat="48.2638559" lon="9.850208"/><trkpt lat="48.2638651" lon="9.8501557"/><trkpt lat="48.2638619" lon="9.8501019"/><trkpt lat="48.2638465" lon="9.850053"/><trkpt lat="48.263821" lon="9.8500149"/></trkseg></trk><trk><name>way/402444938</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2007
+id=way/402444938</desc><trkseg><trkpt lat="48.2651242" lon="9.8498828"/><trkpt lat="48.2650901" lon="9.8498608"/><trkpt lat="48.2650548" lon="9.8498584"/><trkpt lat="48.2650212" lon="9.8498741"/><trkpt lat="48.2649931" lon="9.8499063"/><trkpt lat="48.2649741" lon="9.8499509"/><trkpt lat="48.2649676" lon="9.8499852"/><trkpt lat="48.2649681" lon="9.8500382"/><trkpt lat="48.2649806" lon="9.8500877"/><trkpt lat="48.2650036" lon="9.8501278"/><trkpt lat="48.2650316" lon="9.8501522"/><trkpt lat="48.2650663" lon="9.8501622"/><trkpt lat="48.2651011" lon="9.8501537"/><trkpt lat="48.2651319" lon="9.8501279"/><trkpt lat="48.2651607" lon="9.8500711"/><trkpt lat="48.2651691" lon="9.8500196"/><trkpt lat="48.2651653" lon="9.849967"/><trkpt lat="48.2651497" lon="9.8499195"/><trkpt lat="48.2651242" lon="9.8498828"/></trkseg></trk><trk><name>way/402444939</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2012
+id=way/402444939</desc><trkseg><trkpt lat="48.2640362" lon="9.8501282"/><trkpt lat="48.2640078" lon="9.8501082"/><trkpt lat="48.2639719" lon="9.8501023"/><trkpt lat="48.2639369" lon="9.8501151"/><trkpt lat="48.2639069" lon="9.8501452"/><trkpt lat="48.2638855" lon="9.8501889"/><trkpt lat="48.2638754" lon="9.8502408"/><trkpt lat="48.2638777" lon="9.8502949"/><trkpt lat="48.2638922" lon="9.8503445"/><trkpt lat="48.2639171" lon="9.8503837"/><trkpt lat="48.2639417" lon="9.8504039"/><trkpt lat="48.2639771" lon="9.850414"/><trkpt lat="48.2640127" lon="9.8504054"/><trkpt lat="48.2640442" lon="9.850379"/><trkpt lat="48.2640737" lon="9.8503207"/><trkpt lat="48.2640823" lon="9.8502681"/><trkpt lat="48.2640783" lon="9.8502142"/><trkpt lat="48.2640623" lon="9.8501656"/><trkpt lat="48.2640362" lon="9.8501282"/></trkseg></trk><trk><name>way/402444942</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2012
+id=way/402444942</desc><trkseg><trkpt lat="48.2639859" lon="9.8497828"/><trkpt lat="48.2639529" lon="9.8497659"/><trkpt lat="48.2639194" lon="9.8497672"/><trkpt lat="48.2638882" lon="9.8497856"/><trkpt lat="48.263863" lon="9.849819"/><trkpt lat="48.263847" lon="9.8498633"/><trkpt lat="48.2638421" lon="9.8499115"/><trkpt lat="48.2638484" lon="9.849961"/><trkpt lat="48.2638656" lon="9.8500042"/><trkpt lat="48.2638916" lon="9.850036"/><trkpt lat="48.2639189" lon="9.8500514"/><trkpt lat="48.2639525" lon="9.8500529"/><trkpt lat="48.2639843" lon="9.8500371"/><trkpt lat="48.2640107" lon="9.8500059"/><trkpt lat="48.2640298" lon="9.8499573"/><trkpt lat="48.2640352" lon="9.8499076"/><trkpt lat="48.264029" lon="9.8498581"/><trkpt lat="48.2640119" lon="9.8498148"/><trkpt lat="48.2639859" lon="9.8497828"/></trkseg></trk><trk><name>way/421115282</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de) Okt.2020;Bing 2019
+id=way/421115282</desc><trkseg><trkpt lat="48.1165459" lon="9.5233509"/><trkpt lat="48.1165188" lon="9.5233867"/><trkpt lat="48.1165028" lon="9.5234354"/><trkpt lat="48.1165005" lon="9.5234895"/><trkpt lat="48.1165122" lon="9.5235408"/><trkpt lat="48.1165361" lon="9.5235815"/><trkpt lat="48.1165686" lon="9.5236054"/><trkpt lat="48.1166048" lon="9.5236089"/><trkpt lat="48.116639" lon="9.5235913"/><trkpt lat="48.1166662" lon="9.5235555"/><trkpt lat="48.1166821" lon="9.5235068"/><trkpt lat="48.1166844" lon="9.5234527"/><trkpt lat="48.1166727" lon="9.5234014"/><trkpt lat="48.1166488" lon="9.5233607"/><trkpt lat="48.1166163" lon="9.5233368"/><trkpt lat="48.1165802" lon="9.5233334"/><trkpt lat="48.1165459" lon="9.5233509"/></trkseg></trk><trk><name>way/421115283</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de) Okt.2020;Bing 2019
+id=way/421115283</desc><trkseg><trkpt lat="48.1166388" lon="9.5230918"/><trkpt lat="48.1166116" lon="9.5231276"/><trkpt lat="48.1165957" lon="9.5231763"/><trkpt lat="48.1165934" lon="9.5232304"/><trkpt lat="48.1166051" lon="9.5232817"/><trkpt lat="48.116629" lon="9.5233224"/><trkpt lat="48.1166615" lon="9.5233463"/><trkpt lat="48.1166976" lon="9.5233497"/><trkpt lat="48.1167319" lon="9.5233322"/><trkpt lat="48.1167591" lon="9.5232964"/><trkpt lat="48.116775" lon="9.5232477"/><trkpt lat="48.1167773" lon="9.5231936"/><trkpt lat="48.1167656" lon="9.5231423"/><trkpt lat="48.1167417" lon="9.5231016"/><trkpt lat="48.1167092" lon="9.5230777"/><trkpt lat="48.1166731" lon="9.5230742"/><trkpt lat="48.1166388" lon="9.5230918"/></trkseg></trk><trk><name>way/421115284</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de) Okt.2020;Bing 2019
+id=way/421115284</desc><trkseg><trkpt lat="48.1162438" lon="9.5234461"/><trkpt lat="48.1162119" lon="9.5234839"/><trkpt lat="48.1161924" lon="9.5235375"/><trkpt lat="48.1161886" lon="9.5235982"/><trkpt lat="48.1162011" lon="9.5236563"/><trkpt lat="48.1162278" lon="9.5237024"/><trkpt lat="48.1162644" lon="9.523729"/><trkpt lat="48.1162993" lon="9.5237331"/><trkpt lat="48.1163331" lon="9.5237191"/><trkpt lat="48.1163616" lon="9.5236887"/><trkpt lat="48.1163816" lon="9.5236456"/><trkpt lat="48.1163906" lon="9.5235949"/><trkpt lat="48.1163853" lon="9.5235313"/><trkpt lat="48.1163629" lon="9.5234767"/><trkpt lat="48.1163274" lon="9.5234407"/><trkpt lat="48.1162852" lon="9.5234299"/><trkpt lat="48.1162438" lon="9.5234461"/></trkseg></trk><trk><name>way/421115285</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de) Okt.2020;Bing 2019
+id=way/421115285</desc><trkseg><trkpt lat="48.1164561" lon="9.5236223"/><trkpt lat="48.1164242" lon="9.5236602"/><trkpt lat="48.1164048" lon="9.5237138"/><trkpt lat="48.116401" lon="9.5237745"/><trkpt lat="48.1164134" lon="9.5238326"/><trkpt lat="48.1164401" lon="9.5238786"/><trkpt lat="48.1164767" lon="9.5239053"/><trkpt lat="48.1165117" lon="9.5239093"/><trkpt lat="48.1165454" lon="9.5238953"/><trkpt lat="48.116574" lon="9.523865"/><trkpt lat="48.116594" lon="9.5238219"/><trkpt lat="48.116603" lon="9.5237712"/><trkpt lat="48.1165976" lon="9.5237076"/><trkpt lat="48.1165752" lon="9.5236529"/><trkpt lat="48.1165398" lon="9.523617"/><trkpt lat="48.1164976" lon="9.5236062"/><trkpt lat="48.1164561" lon="9.5236223"/></trkseg></trk><trk><name>way/421115287</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de) Okt.2020;Bing 2019
+id=way/421115287</desc><trkseg><trkpt lat="48.1163496" lon="9.5231991"/><trkpt lat="48.1163224" lon="9.5232349"/><trkpt lat="48.1163065" lon="9.5232836"/><trkpt lat="48.1163042" lon="9.5233377"/><trkpt lat="48.1163159" lon="9.523389"/><trkpt lat="48.1163398" lon="9.5234297"/><trkpt lat="48.1163723" lon="9.5234536"/><trkpt lat="48.1164084" lon="9.523457"/><trkpt lat="48.1164427" lon="9.5234395"/><trkpt lat="48.1164699" lon="9.5234037"/><trkpt lat="48.1164858" lon="9.523355"/><trkpt lat="48.1164881" lon="9.5233009"/><trkpt lat="48.1164764" lon="9.5232496"/><trkpt lat="48.1164525" lon="9.5232089"/><trkpt lat="48.11642" lon="9.523185"/><trkpt lat="48.1163839" lon="9.5231815"/><trkpt lat="48.1163496" lon="9.5231991"/></trkseg></trk><trk><name>way/421115288</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source=Maps4BW (LGL-BW, www.lgl-bw.de) Okt.2020;Bing 2019
+id=way/421115288</desc><trkseg><trkpt lat="48.116445" lon="9.5229368"/><trkpt lat="48.1164179" lon="9.5229726"/><trkpt lat="48.1164019" lon="9.5230213"/><trkpt lat="48.1163996" lon="9.5230754"/><trkpt lat="48.1164113" lon="9.5231267"/><trkpt lat="48.1164352" lon="9.5231674"/><trkpt lat="48.1164677" lon="9.5231913"/><trkpt lat="48.1165039" lon="9.5231948"/><trkpt lat="48.1165381" lon="9.5231773"/><trkpt lat="48.1165653" lon="9.5231414"/><trkpt lat="48.1165812" lon="9.5230928"/><trkpt lat="48.1165835" lon="9.5230387"/><trkpt lat="48.1165718" lon="9.5229873"/><trkpt lat="48.1165479" lon="9.5229466"/><trkpt lat="48.1165154" lon="9.5229227"/><trkpt lat="48.1164793" lon="9.5229193"/><trkpt lat="48.116445" lon="9.5229368"/></trkseg></trk><trk><name>way/422982520</name><desc>generator:source=biomass
+power=generator
+id=way/422982520</desc><trkseg><trkpt lat="48.5451612" lon="9.8391717"/><trkpt lat="48.5451572" lon="9.8392012"/><trkpt lat="48.5451588" lon="9.8392312"/><trkpt lat="48.545166" lon="9.8392593"/><trkpt lat="48.5451781" lon="9.8392832"/><trkpt lat="48.5451942" lon="9.839301"/><trkpt lat="48.545213" lon="9.8393112"/><trkpt lat="48.5452329" lon="9.839313"/><trkpt lat="48.5452523" lon="9.8393063"/><trkpt lat="48.5452697" lon="9.8392916"/><trkpt lat="48.5452837" lon="9.83927"/><trkpt lat="48.545293" lon="9.8392434"/><trkpt lat="48.545297" lon="9.8392139"/><trkpt lat="48.5452954" lon="9.8391839"/><trkpt lat="48.5452882" lon="9.8391558"/><trkpt lat="48.5452761" lon="9.8391319"/><trkpt lat="48.54526" lon="9.8391142"/><trkpt lat="48.5452412" lon="9.8391039"/><trkpt lat="48.5452213" lon="9.8391021"/><trkpt lat="48.5452019" lon="9.8391089"/><trkpt lat="48.5451845" lon="9.8391236"/><trkpt lat="48.5451706" lon="9.8391451"/><trkpt lat="48.5451612" lon="9.8391717"/></trkseg></trk><trk><name>way/440068265</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/440068265</desc><trkseg><trkpt lat="48.2450749" lon="9.7686956"/><trkpt lat="48.2450707" lon="9.7686409"/><trkpt lat="48.245051" lon="9.7685945"/><trkpt lat="48.24502" lon="9.7685654"/><trkpt lat="48.2449835" lon="9.7685594"/><trkpt lat="48.244949" lon="9.7685778"/><trkpt lat="48.2449232" lon="9.7686168"/><trkpt lat="48.2449112" lon="9.7686688"/><trkpt lat="48.2449155" lon="9.7687234"/><trkpt lat="48.2449351" lon="9.7687699"/><trkpt lat="48.2449662" lon="9.768799"/><trkpt lat="48.2450026" lon="9.768805"/><trkpt lat="48.2450371" lon="9.7687866"/><trkpt lat="48.2450629" lon="9.7687476"/><trkpt lat="48.2450749" lon="9.7686956"/></trkseg></trk><trk><name>way/444921984</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/444921984</desc><trkseg><trkpt lat="47.9998099" lon="9.544674"/><trkpt lat="47.999801" lon="9.5447105"/><trkpt lat="47.9998022" lon="9.5447493"/><trkpt lat="47.9998131" lon="9.5447845"/><trkpt lat="47.9998322" lon="9.5448108"/><trkpt lat="47.9998565" lon="9.5448242"/><trkpt lat="47.9998845" lon="9.5448221"/><trkpt lat="47.9999093" lon="9.544803"/><trkpt lat="47.9999268" lon="9.5447704"/><trkpt lat="47.9999339" lon="9.54473"/><trkpt lat="47.9999292" lon="9.5446888"/><trkpt lat="47.9999161" lon="9.5446577"/><trkpt lat="47.9998963" lon="9.5446358"/><trkpt lat="47.9998726" lon="9.5446261"/><trkpt lat="47.9998481" lon="9.5446298"/><trkpt lat="47.9998262" lon="9.5446466"/><trkpt lat="47.9998099" lon="9.544674"/></trkseg></trk><trk><name>way/444921985</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/444921985</desc><trkseg><trkpt lat="47.9998806" lon="9.5448699"/><trkpt lat="47.9998718" lon="9.5449064"/><trkpt lat="47.9998729" lon="9.5449452"/><trkpt lat="47.9998839" lon="9.5449804"/><trkpt lat="47.9999029" lon="9.5450067"/><trkpt lat="47.9999273" lon="9.5450202"/><trkpt lat="47.9999552" lon="9.545018"/><trkpt lat="47.9999801" lon="9.5449989"/><trkpt lat="47.9999976" lon="9.5449663"/><trkpt lat="48.0000046" lon="9.5449259"/><trkpt lat="48" lon="9.5448847"/><trkpt lat="47.9999868" lon="9.5448536"/><trkpt lat="47.9999671" lon="9.5448317"/><trkpt lat="47.9999434" lon="9.544822"/><trkpt lat="47.9999189" lon="9.5448258"/><trkpt lat="47.999897" lon="9.5448425"/><trkpt lat="47.9998806" lon="9.5448699"/></trkseg></trk><trk><name>way/445183484</name><desc>generator:source=biomass
+power=generator
+start_date=2011
+id=way/445183484</desc><trkseg><trkpt lat="48.2244982" lon="9.6148748"/><trkpt lat="48.2244543" lon="9.6148961"/><trkpt lat="48.2244245" lon="9.6149334"/><trkpt lat="48.2244049" lon="9.6149837"/><trkpt lat="48.224398" lon="9.6150411"/><trkpt lat="48.2244046" lon="9.6150986"/><trkpt lat="48.2244181" lon="9.6151377"/><trkpt lat="48.2244455" lon="9.6151791"/><trkpt lat="48.2244807" lon="9.6152038"/><trkpt lat="48.2245194" lon="9.615209"/><trkpt lat="48.2245569" lon="9.6151941"/><trkpt lat="48.2245888" lon="9.6151607"/><trkpt lat="48.2246111" lon="9.615113"/><trkpt lat="48.2246213" lon="9.6150568"/><trkpt lat="48.2246174" lon="9.6149956"/><trkpt lat="48.2246004" lon="9.6149432"/><trkpt lat="48.2245724" lon="9.6149026"/><trkpt lat="48.224537" lon="9.6148789"/><trkpt lat="48.2244982" lon="9.6148748"/></trkseg></trk><trk><name>way/494422716</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/494422716</desc><trkseg><trkpt lat="47.8875597" lon="8.8098261"/><trkpt lat="47.8876068" lon="8.8097433"/><trkpt lat="47.8874867" lon="8.8095916"/><trkpt lat="47.8874397" lon="8.8096744"/><trkpt lat="47.8875597" lon="8.8098261"/></trkseg></trk><trk><name>way/510285158</name><desc>addr:city=Heidenheim an der Brenz
+addr:housenumber=57
+addr:postcode=89518
+addr:street=Am Ugental
+building=yes
+generator:output:heat=yes
+generator:source=biomass
+note=Es ist ein Heizkraftwerk.
+power=generator
+id=way/510285158</desc><trkseg><trkpt lat="48.6775811" lon="10.1304029"/><trkpt lat="48.6774638" lon="10.1303378"/><trkpt lat="48.6774448" lon="10.1304162"/><trkpt lat="48.6775621" lon="10.1304814"/><trkpt lat="48.6775811" lon="10.1304029"/></trkseg></trk><trk><name>way/510741379</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/510741379</desc><trkseg><trkpt lat="47.908307" lon="8.9678287"/><trkpt lat="47.9083357" lon="8.9678308"/><trkpt lat="47.9083635" lon="8.9678196"/><trkpt lat="47.9083876" lon="8.9677961"/><trkpt lat="47.9084057" lon="8.9677628"/><trkpt lat="47.9084161" lon="8.9677227"/><trkpt lat="47.9084177" lon="8.9676799"/><trkpt lat="47.9084091" lon="8.9676341"/><trkpt lat="47.9083905" lon="8.9675954"/><trkpt lat="47.9083643" lon="8.9675684"/><trkpt lat="47.9083334" lon="8.9675564"/><trkpt lat="47.9083017" lon="8.9675607"/><trkpt lat="47.9082728" lon="8.9675808"/><trkpt lat="47.9082502" lon="8.9676144"/><trkpt lat="47.9082367" lon="8.9676575"/><trkpt lat="47.9082337" lon="8.9677048"/><trkpt lat="47.9082417" lon="8.9677508"/><trkpt lat="47.9082576" lon="8.9677867"/><trkpt lat="47.90828" lon="8.9678135"/><trkpt lat="47.908307" lon="8.9678287"/></trkseg></trk><trk><name>way/515358170</name><desc>generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/515358170</desc><trkseg><trkpt lat="47.7830867" lon="9.6713939"/><trkpt lat="47.7831246" lon="9.6711123"/><trkpt lat="47.7827713" lon="9.6699697"/><trkpt lat="47.782328" lon="9.6702862"/><trkpt lat="47.7822814" lon="9.6705118"/><trkpt lat="47.7823298" lon="9.6706536"/><trkpt lat="47.7824704" lon="9.6706724"/><trkpt lat="47.7826389" lon="9.6710653"/><trkpt lat="47.7827389" lon="9.6713644"/><trkpt lat="47.7829011" lon="9.6713564"/><trkpt lat="47.782948" lon="9.6714261"/><trkpt lat="47.7830867" lon="9.6713939"/></trkseg></trk><trk><name>Holz-Heizkraftwerk</name><desc>building=yes
+generator:output:electricity=yes
+generator:output:heat=yes
+generator:output:hot_water=yes
+generator:source=biomass
+name=Holz-Heizkraftwerk
+power=generator
+id=way/527264992</desc><trkseg><trkpt lat="49.406319" lon="8.6480817"/><trkpt lat="49.4063436" lon="8.6480737"/><trkpt lat="49.4062788" lon="8.6476052"/><trkpt lat="49.4060488" lon="8.6476803"/><trkpt lat="49.4061136" lon="8.6481488"/><trkpt lat="49.406319" lon="8.6480817"/></trkseg></trk><trk><name>way/557926010</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2011
+id=way/557926010</desc><trkseg><trkpt lat="48.2099402" lon="9.6880178"/><trkpt lat="48.209907" lon="9.6880355"/><trkpt lat="48.2098798" lon="9.6880692"/><trkpt lat="48.2098619" lon="9.6881149"/><trkpt lat="48.2098555" lon="9.688167"/><trkpt lat="48.2098613" lon="9.6882192"/><trkpt lat="48.2098788" lon="9.6882653"/><trkpt lat="48.2099056" lon="9.6882997"/><trkpt lat="48.2099387" lon="9.6883182"/><trkpt lat="48.209974" lon="9.6883186"/><trkpt lat="48.2100073" lon="9.6883009"/><trkpt lat="48.2100345" lon="9.6882671"/><trkpt lat="48.2100524" lon="9.6882214"/><trkpt lat="48.2100588" lon="9.6881694"/><trkpt lat="48.2100529" lon="9.6881171"/><trkpt lat="48.2100355" lon="9.688071"/><trkpt lat="48.2100086" lon="9.6880367"/><trkpt lat="48.2099755" lon="9.6880182"/><trkpt lat="48.2099402" lon="9.6880178"/></trkseg></trk><trk><name>way/557926018</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2011
+id=way/557926018</desc><trkseg><trkpt lat="48.2099166" lon="9.6877227"/><trkpt lat="48.2098858" lon="9.6877331"/><trkpt lat="48.2098593" lon="9.6877586"/><trkpt lat="48.2098402" lon="9.6877962"/><trkpt lat="48.2098309" lon="9.6878414"/><trkpt lat="48.2098324" lon="9.6878886"/><trkpt lat="48.2098445" lon="9.6879322"/><trkpt lat="48.2098659" lon="9.6879669"/><trkpt lat="48.2098939" lon="9.6879886"/><trkpt lat="48.2099251" lon="9.6879946"/><trkpt lat="48.2099559" lon="9.6879842"/><trkpt lat="48.2099824" lon="9.6879587"/><trkpt lat="48.2100014" lon="9.687921"/><trkpt lat="48.2100108" lon="9.6878759"/><trkpt lat="48.2100093" lon="9.6878287"/><trkpt lat="48.2099972" lon="9.6877851"/><trkpt lat="48.2099758" lon="9.6877504"/><trkpt lat="48.2099478" lon="9.6877287"/><trkpt lat="48.2099166" lon="9.6877227"/></trkseg></trk><trk><name>Grüngutsammelstelle</name><desc>amenity=recycling
+generator:source=biomass
+name=Grüngutsammelstelle
+opening_hours=Dec-Feb We 15:00-18:00; Dec-Feb Sa 10:00-13:00; Mar-Nov Tu,We,Fr 15:00-18:00; Mar-Nov Sa 10:00-13:00
+recycling:green_waste=yes
+recycling_type=centre
+id=way/598264067</desc><trkseg><trkpt lat="48.0701596" lon="9.7927589"/><trkpt lat="48.0701622" lon="9.792778"/><trkpt lat="48.0704049" lon="9.7945824"/><trkpt lat="48.0710173" lon="9.7943524"/><trkpt lat="48.0715032" lon="9.7941428"/><trkpt lat="48.0716356" lon="9.7938536"/><trkpt lat="48.0715904" lon="9.793706"/><trkpt lat="48.0714515" lon="9.7935808"/><trkpt lat="48.0701596" lon="9.7927589"/></trkseg></trk><trk><name>way/610570415</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source:outline=Maps4BW (LGL-BW, www.lgl-bw.de)
+id=way/610570415</desc><trkseg><trkpt lat="47.7794717" lon="8.7889767"/><trkpt lat="47.7794827" lon="8.7890108"/><trkpt lat="47.7795" lon="8.7890384"/><trkpt lat="47.7795221" lon="8.7890572"/><trkpt lat="47.7795469" lon="8.7890655"/><trkpt lat="47.7795722" lon="8.7890625"/><trkpt lat="47.7795958" lon="8.7890485"/><trkpt lat="47.7796164" lon="8.7890233"/><trkpt lat="47.7796308" lon="8.7889898"/><trkpt lat="47.7796374" lon="8.7889514"/><trkpt lat="47.7796358" lon="8.7889118"/><trkpt lat="47.7796259" lon="8.7888748"/><trkpt lat="47.7796084" lon="8.7888437"/><trkpt lat="47.7795851" lon="8.7888224"/><trkpt lat="47.7795585" lon="8.7888132"/><trkpt lat="47.7795313" lon="8.788817"/><trkpt lat="47.7795063" lon="8.7888335"/><trkpt lat="47.7794862" lon="8.7888609"/><trkpt lat="47.7794729" lon="8.7888965"/><trkpt lat="47.7794679" lon="8.7889364"/><trkpt lat="47.7794717" lon="8.7889767"/></trkseg></trk><trk><name>way/630973723</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/630973723</desc><trkseg><trkpt lat="48.4505029" lon="9.7720326"/><trkpt lat="48.4504856" lon="9.7720628"/><trkpt lat="48.4504752" lon="9.7720995"/><trkpt lat="48.4504728" lon="9.7721392"/><trkpt lat="48.4504787" lon="9.7721782"/><trkpt lat="48.4504921" lon="9.7722126"/><trkpt lat="48.4505119" lon="9.7722391"/><trkpt lat="48.4505362" lon="9.7722551"/><trkpt lat="48.4505625" lon="9.7722592"/><trkpt lat="48.4505898" lon="9.7722501"/><trkpt lat="48.4506136" lon="9.7722282"/><trkpt lat="48.4506315" lon="9.7721959"/><trkpt lat="48.4506415" lon="9.7721566"/><trkpt lat="48.4506426" lon="9.7721145"/><trkpt lat="48.4506345" lon="9.7720741"/><trkpt lat="48.4506199" lon="9.7720423"/><trkpt lat="48.4505995" lon="9.7720185"/><trkpt lat="48.4505755" lon="9.7720049"/><trkpt lat="48.4505498" lon="9.7720028"/><trkpt lat="48.4505248" lon="9.7720123"/><trkpt lat="48.4505029" lon="9.7720326"/></trkseg></trk><trk><name>way/630973725</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/630973725</desc><trkseg><trkpt lat="48.4503371" lon="9.7721994"/><trkpt lat="48.4503198" lon="9.7722296"/><trkpt lat="48.4503094" lon="9.7722663"/><trkpt lat="48.4503071" lon="9.7723061"/><trkpt lat="48.4503129" lon="9.772345"/><trkpt lat="48.4503263" lon="9.7723794"/><trkpt lat="48.4503461" lon="9.7724059"/><trkpt lat="48.4503704" lon="9.7724219"/><trkpt lat="48.4503967" lon="9.772426"/><trkpt lat="48.450424" lon="9.7724169"/><trkpt lat="48.4504479" lon="9.7723951"/><trkpt lat="48.4504657" lon="9.7723627"/><trkpt lat="48.4504758" lon="9.7723234"/><trkpt lat="48.4504768" lon="9.7722813"/><trkpt lat="48.4504688" lon="9.772241"/><trkpt lat="48.4504541" lon="9.7722091"/><trkpt lat="48.4504338" lon="9.7721853"/><trkpt lat="48.4504097" lon="9.7721717"/><trkpt lat="48.450384" lon="9.7721696"/><trkpt lat="48.450359" lon="9.7721791"/><trkpt lat="48.4503371" lon="9.7721994"/></trkseg></trk><trk><name>Huber Biogas</name><desc>generator:method=combustion
+generator:source=biomass
+name=Huber Biogas
+operator:type=private
+power=generator
+id=way/675623836</desc><trkseg><trkpt lat="48.8707394" lon="9.0105705"/><trkpt lat="48.8707545" lon="9.01057"/><trkpt lat="48.8709756" lon="9.0105615"/><trkpt lat="48.8718167" lon="9.0105288"/><trkpt lat="48.8720573" lon="9.0105194"/><trkpt lat="48.8720582" lon="9.0102118"/><trkpt lat="48.8720508" lon="9.0099226"/><trkpt lat="48.8720249" lon="9.0096742"/><trkpt lat="48.8719903" lon="9.0094309"/><trkpt lat="48.8719774" lon="9.0093752"/><trkpt lat="48.8719584" lon="9.0093128"/><trkpt lat="48.8719478" lon="9.0092945"/><trkpt lat="48.8719372" lon="9.0092861"/><trkpt lat="48.8719155" lon="9.0092791"/><trkpt lat="48.8718597" lon="9.0092686"/><trkpt lat="48.8717975" lon="9.0092642"/><trkpt lat="48.8705819" lon="9.0093318"/><trkpt lat="48.8705838" lon="9.0094343"/><trkpt lat="48.8705852" lon="9.0095144"/><trkpt lat="48.8705924" lon="9.0099112"/><trkpt lat="48.8704843" lon="9.0099157"/><trkpt lat="48.8704865" lon="9.0100338"/><trkpt lat="48.8704911" lon="9.0102849"/><trkpt lat="48.8705671" lon="9.0102817"/><trkpt lat="48.8706358" lon="9.0103157"/><trkpt lat="48.8707347" lon="9.0103115"/><trkpt lat="48.8707394" lon="9.0105705"/></trkseg></trk><trk><name>way/677611934</name><desc>building=yes
+generator:source=biomass
+power=generator
+id=way/677611934</desc><trkseg><trkpt lat="49.0870045" lon="9.711731"/><trkpt lat="49.0869622" lon="9.7116823"/><trkpt lat="49.0869116" lon="9.7116587"/><trkpt lat="49.0868586" lon="9.711663"/><trkpt lat="49.0868099" lon="9.7116946"/><trkpt lat="49.0867711" lon="9.7117498"/><trkpt lat="49.086747" lon="9.7118219"/><trkpt lat="49.0867406" lon="9.7119022"/><trkpt lat="49.0867526" lon="9.7119811"/><trkpt lat="49.0867814" lon="9.7120489"/><trkpt lat="49.0868237" lon="9.7120976"/><trkpt lat="49.0868744" lon="9.7121212"/><trkpt lat="49.0869272" lon="9.7121169"/><trkpt lat="49.0869761" lon="9.7120853"/><trkpt lat="49.0870148" lon="9.7120302"/><trkpt lat="49.0870389" lon="9.711958"/><trkpt lat="49.0870453" lon="9.7118778"/><trkpt lat="49.0870334" lon="9.7117989"/><trkpt lat="49.0870045" lon="9.711731"/></trkseg></trk><trk><name>way/694059159</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+operator=Biogas Kochendorf GmbH &amp; Co. KG
+power=generator
+id=way/694059159</desc><trkseg><trkpt lat="49.2173507" lon="9.2416925"/><trkpt lat="49.2173503" lon="9.2417514"/><trkpt lat="49.2173607" lon="9.2418"/><trkpt lat="49.2173837" lon="9.2418472"/><trkpt lat="49.2174159" lon="9.2418795"/><trkpt lat="49.2174466" lon="9.2418921"/><trkpt lat="49.217485" lon="9.2418888"/><trkpt lat="49.2175204" lon="9.2418655"/><trkpt lat="49.2175489" lon="9.2418241"/><trkpt lat="49.217566" lon="9.2417713"/><trkpt lat="49.2175702" lon="9.2417107"/><trkpt lat="49.2175606" lon="9.2416536"/><trkpt lat="49.2175389" lon="9.241605"/><trkpt lat="49.2174967" lon="9.2415637"/><trkpt lat="49.2174587" lon="9.2415539"/><trkpt lat="49.2174209" lon="9.2415646"/><trkpt lat="49.2173905" lon="9.241591"/><trkpt lat="49.2173651" lon="9.2416352"/><trkpt lat="49.2173507" lon="9.2416925"/></trkseg></trk><trk><name>way/694059161</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+operator=Biogas Kochendorf GmbH &amp; Co. KG
+power=generator
+id=way/694059161</desc><trkseg><trkpt lat="49.2168225" lon="9.2420129"/><trkpt lat="49.21685" lon="9.2420757"/><trkpt lat="49.2169129" lon="9.2421341"/><trkpt lat="49.2169619" lon="9.2421424"/><trkpt lat="49.2170099" lon="9.2421244"/><trkpt lat="49.2170383" lon="9.2420989"/><trkpt lat="49.2170719" lon="9.2420436"/><trkpt lat="49.2170912" lon="9.241974"/><trkpt lat="49.2170948" lon="9.2419174"/><trkpt lat="49.2170845" lon="9.2418435"/><trkpt lat="49.2170583" lon="9.2417794"/><trkpt lat="49.2170192" lon="9.2417328"/><trkpt lat="49.2169722" lon="9.2417095"/><trkpt lat="49.2169229" lon="9.2417123"/><trkpt lat="49.2168863" lon="9.2417326"/><trkpt lat="49.2168473" lon="9.241779"/><trkpt lat="49.216821" lon="9.2418429"/><trkpt lat="49.2168106" lon="9.2419168"/><trkpt lat="49.2168225" lon="9.2420129"/></trkseg></trk><trk><name>way/694059162</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+operator=Biogas Kochendorf GmbH &amp; Co. KG
+power=generator
+id=way/694059162</desc><trkseg><trkpt lat="49.2171122" lon="9.2417733"/><trkpt lat="49.2171119" lon="9.2418322"/><trkpt lat="49.2171222" lon="9.2418808"/><trkpt lat="49.2171453" lon="9.241928"/><trkpt lat="49.2171775" lon="9.2419603"/><trkpt lat="49.2172081" lon="9.2419728"/><trkpt lat="49.2172466" lon="9.2419695"/><trkpt lat="49.2172819" lon="9.2419463"/><trkpt lat="49.2173105" lon="9.2419049"/><trkpt lat="49.2173275" lon="9.2418521"/><trkpt lat="49.2173317" lon="9.2417915"/><trkpt lat="49.2173222" lon="9.2417344"/><trkpt lat="49.2173004" lon="9.2416857"/><trkpt lat="49.2172582" lon="9.2416444"/><trkpt lat="49.2172203" lon="9.2416347"/><trkpt lat="49.2171824" lon="9.2416454"/><trkpt lat="49.2171521" lon="9.2416717"/><trkpt lat="49.2171266" lon="9.2417159"/><trkpt lat="49.2171122" lon="9.2417733"/></trkseg></trk><trk><name>way/741731010</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/741731010</desc><trkseg><trkpt lat="48.4835522" lon="9.6733151"/><trkpt lat="48.4835929" lon="9.6733508"/><trkpt lat="48.4836389" lon="9.6733652"/><trkpt lat="48.4836856" lon="9.6733567"/><trkpt lat="48.4837281" lon="9.6733264"/><trkpt lat="48.4837621" lon="9.6732773"/><trkpt lat="48.483784" lon="9.6732145"/><trkpt lat="48.4837915" lon="9.6731445"/><trkpt lat="48.4837839" lon="9.6730744"/><trkpt lat="48.4837605" lon="9.6730087"/><trkpt lat="48.4837239" lon="9.6729585"/><trkpt lat="48.4836784" lon="9.6729295"/><trkpt lat="48.483629" lon="9.6729251"/><trkpt lat="48.4835815" lon="9.6729457"/><trkpt lat="48.4835412" lon="9.6729891"/><trkpt lat="48.4835128" lon="9.6730502"/><trkpt lat="48.4834995" lon="9.673122"/><trkpt lat="48.4835029" lon="9.6731965"/><trkpt lat="48.4835212" lon="9.6732619"/><trkpt lat="48.4835522" lon="9.6733151"/></trkseg></trk><trk><name>way/764569613</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/764569613</desc><trkseg><trkpt lat="48.4876304" lon="9.7550474"/><trkpt lat="48.4876214" lon="9.755091"/><trkpt lat="48.4876228" lon="9.7551367"/><trkpt lat="48.4876344" lon="9.7551789"/><trkpt lat="48.4876547" lon="9.7552127"/><trkpt lat="48.4876789" lon="9.7552328"/><trkpt lat="48.4877059" lon="9.7552407"/><trkpt lat="48.4877333" lon="9.7552355"/><trkpt lat="48.4877582" lon="9.7552178"/><trkpt lat="48.4877783" lon="9.7551894"/><trkpt lat="48.4877916" lon="9.755153"/><trkpt lat="48.4877968" lon="9.7551122"/><trkpt lat="48.4877934" lon="9.7550709"/><trkpt lat="48.4877817" lon="9.7550333"/><trkpt lat="48.4877606" lon="9.7550004"/><trkpt lat="48.4877334" lon="9.7549803"/><trkpt lat="48.4877034" lon="9.7549752"/><trkpt lat="48.4876739" lon="9.7549859"/><trkpt lat="48.4876486" lon="9.7550109"/><trkpt lat="48.4876304" lon="9.7550474"/></trkseg></trk><trk><name>way/764569614</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/764569614</desc><trkseg><trkpt lat="48.4877737" lon="9.7552396"/><trkpt lat="48.4877616" lon="9.7552823"/><trkpt lat="48.4877595" lon="9.7553286"/><trkpt lat="48.4877677" lon="9.7553734"/><trkpt lat="48.4877852" lon="9.7554115"/><trkpt lat="48.4878101" lon="9.7554388"/><trkpt lat="48.4878396" lon="9.7554521"/><trkpt lat="48.4878693" lon="9.7554503"/><trkpt lat="48.4878971" lon="9.7554343"/><trkpt lat="48.48792" lon="9.7554058"/><trkpt lat="48.4879357" lon="9.7553677"/><trkpt lat="48.4879424" lon="9.755324"/><trkpt lat="48.4879396" lon="9.7552794"/><trkpt lat="48.4879275" lon="9.7552384"/><trkpt lat="48.4879073" lon="9.7552055"/><trkpt lat="48.4878812" lon="9.755184"/><trkpt lat="48.487852" lon="9.7551762"/><trkpt lat="48.4878216" lon="9.7551834"/><trkpt lat="48.4877945" lon="9.7552054"/><trkpt lat="48.4877737" lon="9.7552396"/></trkseg></trk><trk><name>way/787988986</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/787988986</desc><trkseg><trkpt lat="47.8476386" lon="8.9458243"/><trkpt lat="47.8476206" lon="8.9458767"/><trkpt lat="47.8476131" lon="8.9459345"/><trkpt lat="47.8476169" lon="8.9459931"/><trkpt lat="47.8476315" lon="8.9460479"/><trkpt lat="47.8476559" lon="8.9460941"/><trkpt lat="47.8476882" lon="8.9461284"/><trkpt lat="47.8477255" lon="8.9461478"/><trkpt lat="47.847765" lon="8.9461508"/><trkpt lat="47.8478034" lon="8.946137"/><trkpt lat="47.8478377" lon="8.9461077"/><trkpt lat="47.8478651" lon="8.9460652"/><trkpt lat="47.8478834" lon="8.946013"/><trkpt lat="47.847891" lon="8.9459553"/><trkpt lat="47.8478875" lon="8.9458966"/><trkpt lat="47.8478731" lon="8.9458417"/><trkpt lat="47.8478522" lon="8.9458002"/><trkpt lat="47.8478251" lon="8.9457677"/><trkpt lat="47.8477934" lon="8.9457462"/><trkpt lat="47.847759" lon="8.9457371"/><trkpt lat="47.8477312" lon="8.9457392"/><trkpt lat="47.8477042" lon="8.9457496"/><trkpt lat="47.8476791" lon="8.9457677"/><trkpt lat="47.847657" lon="8.9457929"/><trkpt lat="47.8476386" lon="8.9458243"/></trkseg></trk><trk><name>way/791932445</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source:outline=Maps4BW (LGL-BW, www.lgl-bw.de)
+id=way/791932445</desc><trkseg><trkpt lat="47.7793316" lon="8.7887662"/><trkpt lat="47.779339" lon="8.7888041"/><trkpt lat="47.7793539" lon="8.7888369"/><trkpt lat="47.7793748" lon="8.7888612"/><trkpt lat="47.7793998" lon="8.7888747"/><trkpt lat="47.7794263" lon="8.7888761"/><trkpt lat="47.7794519" lon="8.7888651"/><trkpt lat="47.7794739" lon="8.788843"/><trkpt lat="47.7794903" lon="8.7888117"/><trkpt lat="47.7794994" lon="8.7887744"/><trkpt lat="47.7795003" lon="8.7887347"/><trkpt lat="47.7794928" lon="8.7886967"/><trkpt lat="47.7794779" lon="8.788664"/><trkpt lat="47.7794569" lon="8.7886398"/><trkpt lat="47.7794319" lon="8.7886263"/><trkpt lat="47.7794054" lon="8.7886251"/><trkpt lat="47.7793799" lon="8.7886361"/><trkpt lat="47.7793579" lon="8.7886582"/><trkpt lat="47.7793415" lon="8.7886895"/><trkpt lat="47.7793325" lon="8.7887266"/><trkpt lat="47.7793316" lon="8.7887662"/></trkseg></trk><trk><name>way/791932446</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+source:outline=Maps4BW (LGL-BW, www.lgl-bw.de)
+id=way/791932446</desc><trkseg><trkpt lat="47.8474429" lon="8.9462972"/><trkpt lat="47.8474457" lon="8.9463512"/><trkpt lat="47.8474577" lon="8.9464022"/><trkpt lat="47.8474784" lon="8.9464469"/><trkpt lat="47.8475059" lon="8.9464821"/><trkpt lat="47.8475387" lon="8.9465056"/><trkpt lat="47.8475744" lon="8.9465154"/><trkpt lat="47.8476106" lon="8.9465113"/><trkpt lat="47.8476449" lon="8.9464932"/><trkpt lat="47.8476749" lon="8.9464627"/><trkpt lat="47.8476985" lon="8.9464215"/><trkpt lat="47.8477143" lon="8.9463727"/><trkpt lat="47.8477209" lon="8.9463194"/><trkpt lat="47.8477181" lon="8.9462655"/><trkpt lat="47.847706" lon="8.9462144"/><trkpt lat="47.8476854" lon="8.9461698"/><trkpt lat="47.8476579" lon="8.9461345"/><trkpt lat="47.847625" lon="8.9461112"/><trkpt lat="47.8475894" lon="8.9461012"/><trkpt lat="47.8475531" lon="8.9461054"/><trkpt lat="47.8475189" lon="8.9461234"/><trkpt lat="47.8474889" lon="8.946154"/><trkpt lat="47.8474652" lon="8.9461951"/><trkpt lat="47.8474495" lon="8.946244"/><trkpt lat="47.8474429" lon="8.9462972"/></trkseg></trk><trk><name>way/792088932</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source:outline=Maps4BW (LGL-BW, www.lgl-bw.de)
+id=way/792088932</desc><trkseg><trkpt lat="47.7795276" lon="8.7885391"/><trkpt lat="47.7795118" lon="8.7885816"/><trkpt lat="47.7795048" lon="8.7886291"/><trkpt lat="47.7795069" lon="8.7886775"/><trkpt lat="47.7795182" lon="8.7887231"/><trkpt lat="47.7795377" lon="8.7887621"/><trkpt lat="47.7795637" lon="8.7887914"/><trkpt lat="47.7795943" lon="8.7888086"/><trkpt lat="47.7796268" lon="8.7888122"/><trkpt lat="47.7796587" lon="8.7888021"/><trkpt lat="47.7796875" lon="8.788779"/><trkpt lat="47.7797106" lon="8.7887448"/><trkpt lat="47.7797264" lon="8.7887023"/><trkpt lat="47.7797335" lon="8.7886548"/><trkpt lat="47.7797313" lon="8.7886064"/><trkpt lat="47.77972" lon="8.7885608"/><trkpt lat="47.7797006" lon="8.7885218"/><trkpt lat="47.7796745" lon="8.7884925"/><trkpt lat="47.779644" lon="8.7884753"/><trkpt lat="47.7796114" lon="8.7884717"/><trkpt lat="47.7795795" lon="8.7884818"/><trkpt lat="47.7795508" lon="8.7885049"/><trkpt lat="47.7795276" lon="8.7885391"/></trkseg></trk><trk><name>way/875485132</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source=Bing 2019
+id=way/875485132</desc><trkseg><trkpt lat="48.1161318" lon="9.5237759"/><trkpt lat="48.1160999" lon="9.5238138"/><trkpt lat="48.1160805" lon="9.5238674"/><trkpt lat="48.1160767" lon="9.5239281"/><trkpt lat="48.1160891" lon="9.5239862"/><trkpt lat="48.1161158" lon="9.5240322"/><trkpt lat="48.1161524" lon="9.5240589"/><trkpt lat="48.1161874" lon="9.5240629"/><trkpt lat="48.1162211" lon="9.5240489"/><trkpt lat="48.1162497" lon="9.5240186"/><trkpt lat="48.1162697" lon="9.5239755"/><trkpt lat="48.1162787" lon="9.5239248"/><trkpt lat="48.1162733" lon="9.5238612"/><trkpt lat="48.1162509" lon="9.5238065"/><trkpt lat="48.1162155" lon="9.5237706"/><trkpt lat="48.1161733" lon="9.5237598"/><trkpt lat="48.1161318" lon="9.5237759"/></trkseg></trk><trk><name>way/875485133</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+source=Bing 2019
+id=way/875485133</desc><trkseg><trkpt lat="48.1163557" lon="9.5239167"/><trkpt lat="48.1163238" lon="9.5239546"/><trkpt lat="48.1163044" lon="9.5240082"/><trkpt lat="48.1163006" lon="9.5240689"/><trkpt lat="48.116313" lon="9.524127"/><trkpt lat="48.1163397" lon="9.524173"/><trkpt lat="48.1163763" lon="9.5241997"/><trkpt lat="48.1164113" lon="9.5242037"/><trkpt lat="48.116445" lon="9.5241897"/><trkpt lat="48.1164736" lon="9.5241594"/><trkpt lat="48.1164936" lon="9.5241163"/><trkpt lat="48.1165026" lon="9.5240656"/><trkpt lat="48.1164972" lon="9.524002"/><trkpt lat="48.1164748" lon="9.5239473"/><trkpt lat="48.1164394" lon="9.5239114"/><trkpt lat="48.1163972" lon="9.5239006"/><trkpt lat="48.1163557" lon="9.5239167"/></trkseg></trk><trk><name>way/900376159</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2007
+id=way/900376159</desc><trkseg><trkpt lat="48.1950202" lon="9.8756789"/><trkpt lat="48.1950214" lon="9.8756215"/><trkpt lat="48.19501" lon="9.8755666"/><trkpt lat="48.1949874" lon="9.8755202"/><trkpt lat="48.194956" lon="9.8754874"/><trkpt lat="48.1949191" lon="9.8754716"/><trkpt lat="48.1948809" lon="9.8754747"/><trkpt lat="48.1948454" lon="9.8754962"/><trkpt lat="48.1948164" lon="9.8755339"/><trkpt lat="48.1947972" lon="9.8755836"/><trkpt lat="48.1947898" lon="9.8756399"/><trkpt lat="48.194795" lon="9.8756969"/><trkpt lat="48.1948122" lon="9.8757482"/><trkpt lat="48.1948396" lon="9.8757883"/><trkpt lat="48.1948742" lon="9.875813"/><trkpt lat="48.1949123" lon="9.8758194"/><trkpt lat="48.1949497" lon="9.8758069"/><trkpt lat="48.1949823" lon="9.8757769"/><trkpt lat="48.1950067" lon="9.8757327"/><trkpt lat="48.1950202" lon="9.8756789"/></trkseg></trk><trk><name>way/955010882</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/955010882</desc><trkseg><trkpt lat="48.1396562" lon="9.9992147"/><trkpt lat="48.1396659" lon="9.999173"/><trkpt lat="48.1396661" lon="9.9991288"/><trkpt lat="48.1396568" lon="9.9990869"/><trkpt lat="48.1396388" lon="9.9990518"/><trkpt lat="48.1396142" lon="9.9990274"/><trkpt lat="48.1395856" lon="9.9990162"/><trkpt lat="48.1395562" lon="9.9990196"/><trkpt lat="48.1395291" lon="9.9990371"/><trkpt lat="48.1395073" lon="9.9990668"/><trkpt lat="48.1394931" lon="9.9991055"/><trkpt lat="48.139488" lon="9.9991491"/><trkpt lat="48.1394927" lon="9.9991927"/><trkpt lat="48.1395066" lon="9.9992318"/><trkpt lat="48.1395281" lon="9.9992619"/><trkpt lat="48.1395551" lon="9.9992799"/><trkpt lat="48.1395845" lon="9.9992839"/><trkpt lat="48.1396131" lon="9.9992733"/><trkpt lat="48.1396379" lon="9.9992494"/><trkpt lat="48.1396562" lon="9.9992147"/></trkseg></trk><trk><name>way/983560339</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+start_date=2012
+id=way/983560339</desc><trkseg><trkpt lat="48.2587424" lon="9.8178721"/><trkpt lat="48.2587669" lon="9.817835"/><trkpt lat="48.2587808" lon="9.8177873"/><trkpt lat="48.2587822" lon="9.8177352"/><trkpt lat="48.2587711" lon="9.8176858"/><trkpt lat="48.2587488" lon="9.8176458"/><trkpt lat="48.2587184" lon="9.8176205"/><trkpt lat="48.258684" lon="9.8176135"/><trkpt lat="48.2586502" lon="9.8176256"/><trkpt lat="48.2586217" lon="9.8176553"/><trkpt lat="48.2586022" lon="9.8176984"/><trkpt lat="48.2585943" lon="9.8177492"/><trkpt lat="48.2585992" lon="9.8178008"/><trkpt lat="48.2586162" lon="9.8178463"/><trkpt lat="48.258643" lon="9.8178795"/><trkpt lat="48.258676" lon="9.8178959"/><trkpt lat="48.2587107" lon="9.8178933"/><trkpt lat="48.2587424" lon="9.8178721"/></trkseg></trk><trk><name>way/1016592119</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1016592119</desc><trkseg><trkpt lat="49.0041622" lon="10.2679635"/><trkpt lat="49.0041534" lon="10.2679966"/><trkpt lat="49.0041525" lon="10.2680322"/><trkpt lat="49.0041595" lon="10.2680662"/><trkpt lat="49.0041736" lon="10.2680947"/><trkpt lat="49.0041932" lon="10.2681143"/><trkpt lat="49.0042159" lon="10.2681227"/><trkpt lat="49.0042391" lon="10.2681191"/><trkpt lat="49.0042606" lon="10.2681033"/><trkpt lat="49.0042772" lon="10.2680772"/><trkpt lat="49.004287" lon="10.2680441"/><trkpt lat="49.0042888" lon="10.2680078"/><trkpt lat="49.0042823" lon="10.2679729"/><trkpt lat="49.004268" lon="10.2679429"/><trkpt lat="49.0042477" lon="10.2679224"/><trkpt lat="49.004224" lon="10.267914"/><trkpt lat="49.0041999" lon="10.2679187"/><trkpt lat="49.0041784" lon="10.2679359"/><trkpt lat="49.0041622" lon="10.2679635"/></trkseg></trk><trk><name>way/1016592120</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1016592120</desc><trkseg><trkpt lat="49.0040922" lon="10.2681794"/><trkpt lat="49.0040766" lon="10.2682215"/><trkpt lat="49.00407" lon="10.2682688"/><trkpt lat="49.0040731" lon="10.2683169"/><trkpt lat="49.0040856" lon="10.2683614"/><trkpt lat="49.0041062" lon="10.2683981"/><trkpt lat="49.0041332" lon="10.2684236"/><trkpt lat="49.0041639" lon="10.2684356"/><trkpt lat="49.0041923" lon="10.2684338"/><trkpt lat="49.0042193" lon="10.2684204"/><trkpt lat="49.004243" lon="10.2683964"/><trkpt lat="49.0042615" lon="10.2683635"/><trkpt lat="49.0042734" lon="10.2683242"/><trkpt lat="49.004278" lon="10.2682814"/><trkpt lat="49.0042748" lon="10.2682384"/><trkpt lat="49.0042638" lon="10.2681977"/><trkpt lat="49.004246" lon="10.2681632"/><trkpt lat="49.0042226" lon="10.2681374"/><trkpt lat="49.0041955" lon="10.2681225"/><trkpt lat="49.0041668" lon="10.2681194"/><trkpt lat="49.0041385" lon="10.2681285"/><trkpt lat="49.004113" lon="10.268149"/><trkpt lat="49.0040922" lon="10.2681794"/></trkseg></trk><trk><name>way/1017901035</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1017901035</desc><trkseg><trkpt lat="48.9538676" lon="10.2393986"/><trkpt lat="48.9538777" lon="10.2394424"/><trkpt lat="48.9538952" lon="10.2394802"/><trkpt lat="48.9539189" lon="10.2395093"/><trkpt lat="48.9539469" lon="10.2395274"/><trkpt lat="48.9539771" lon="10.239533"/><trkpt lat="48.9540072" lon="10.2395259"/><trkpt lat="48.9540348" lon="10.2395064"/><trkpt lat="48.9540578" lon="10.2394762"/><trkpt lat="48.9540746" lon="10.2394375"/><trkpt lat="48.9540837" lon="10.2393931"/><trkpt lat="48.9540845" lon="10.2393466"/><trkpt lat="48.9540768" lon="10.2393016"/><trkpt lat="48.9540613" lon="10.2392616"/><trkpt lat="48.9540391" lon="10.2392296"/><trkpt lat="48.954012" lon="10.2392081"/><trkpt lat="48.9539821" lon="10.2391988"/><trkpt lat="48.9539488" lon="10.2392034"/><trkpt lat="48.9539181" lon="10.239223"/><trkpt lat="48.9538925" lon="10.2392558"/><trkpt lat="48.9538747" lon="10.2392987"/><trkpt lat="48.9538661" lon="10.2393478"/><trkpt lat="48.9538676" lon="10.2393986"/></trkseg></trk><trk><name>way/1017901036</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1017901036</desc><trkseg><trkpt lat="48.9539002" lon="10.2389292"/><trkpt lat="48.9538815" lon="10.238969"/><trkpt lat="48.9538727" lon="10.2390161"/><trkpt lat="48.9538748" lon="10.2390649"/><trkpt lat="48.9538876" lon="10.2391098"/><trkpt lat="48.9539095" lon="10.2391455"/><trkpt lat="48.9539381" lon="10.239168"/><trkpt lat="48.953966" lon="10.2391746"/><trkpt lat="48.953994" lon="10.2391682"/><trkpt lat="48.9540195" lon="10.2391495"/><trkpt lat="48.9540402" lon="10.2391201"/><trkpt lat="48.9540542" lon="10.2390827"/><trkpt lat="48.9540602" lon="10.2390406"/><trkpt lat="48.9540578" lon="10.2389976"/><trkpt lat="48.9540471" lon="10.2389577"/><trkpt lat="48.9540291" lon="10.2389245"/><trkpt lat="48.9540054" lon="10.2389009"/><trkpt lat="48.9539782" lon="10.238889"/><trkpt lat="48.9539499" lon="10.2388901"/><trkpt lat="48.9539231" lon="10.2389039"/><trkpt lat="48.9539002" lon="10.2389292"/></trkseg></trk><trk><name>way/1017901037</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1017901037</desc><trkseg><trkpt lat="48.9539592" lon="10.2386932"/><trkpt lat="48.9539445" lon="10.2387294"/><trkpt lat="48.9539397" lon="10.2387714"/><trkpt lat="48.9539454" lon="10.2388131"/><trkpt lat="48.9539609" lon="10.2388486"/><trkpt lat="48.9539839" lon="10.2388728"/><trkpt lat="48.9540112" lon="10.2388823"/><trkpt lat="48.954035" lon="10.2388776"/><trkpt lat="48.9540566" lon="10.2388616"/><trkpt lat="48.9540737" lon="10.2388358"/><trkpt lat="48.9540845" lon="10.238803"/><trkpt lat="48.9540879" lon="10.2387668"/><trkpt lat="48.9540834" lon="10.2387308"/><trkpt lat="48.9540708" lon="10.2386975"/><trkpt lat="48.9540517" lon="10.2386726"/><trkpt lat="48.9540282" lon="10.2386588"/><trkpt lat="48.954003" lon="10.2386579"/><trkpt lat="48.9539791" lon="10.2386698"/><trkpt lat="48.9539592" lon="10.2386932"/></trkseg></trk><trk><name>way/1018319024</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1018319024</desc><trkseg><trkpt lat="48.9576235" lon="10.2585"/><trkpt lat="48.9576048" lon="10.2585308"/><trkpt lat="48.9575935" lon="10.2585691"/><trkpt lat="48.957591" lon="10.2586109"/><trkpt lat="48.9575974" lon="10.2586518"/><trkpt lat="48.957612" lon="10.2586874"/><trkpt lat="48.9576333" lon="10.2587139"/><trkpt lat="48.9576591" lon="10.2587286"/><trkpt lat="48.9576872" lon="10.2587299"/><trkpt lat="48.957714" lon="10.2587171"/><trkpt lat="48.9577366" lon="10.2586916"/><trkpt lat="48.9577525" lon="10.2586564"/><trkpt lat="48.95776" lon="10.2586151"/><trkpt lat="48.9577582" lon="10.2585724"/><trkpt lat="48.9577494" lon="10.2585381"/><trkpt lat="48.9577346" lon="10.258509"/><trkpt lat="48.957715" lon="10.2584874"/><trkpt lat="48.9576922" lon="10.2584752"/><trkpt lat="48.957668" lon="10.2584732"/><trkpt lat="48.9576445" lon="10.2584817"/><trkpt lat="48.9576235" lon="10.2585"/></trkseg></trk><trk><name>way/1018319025</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1018319025</desc><trkseg><trkpt lat="48.9577243" lon="10.2583511"/><trkpt lat="48.9577101" lon="10.2583764"/><trkpt lat="48.9577048" lon="10.2584086"/><trkpt lat="48.9577094" lon="10.2584411"/><trkpt lat="48.957723" lon="10.2584671"/><trkpt lat="48.9577428" lon="10.2584812"/><trkpt lat="48.9577654" lon="10.2584801"/><trkpt lat="48.9577852" lon="10.2584632"/><trkpt lat="48.9577977" lon="10.2584344"/><trkpt lat="48.9578" lon="10.2584001"/><trkpt lat="48.9577934" lon="10.2583719"/><trkpt lat="48.95778" lon="10.2583501"/><trkpt lat="48.9577619" lon="10.2583384"/><trkpt lat="48.9577422" lon="10.2583387"/><trkpt lat="48.9577243" lon="10.2583511"/></trkseg></trk><trk><name>way/1018319026</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1018319026</desc><trkseg><trkpt lat="48.957752" lon="10.2582009"/><trkpt lat="48.9577432" lon="10.2582406"/><trkpt lat="48.9577464" lon="10.2582823"/><trkpt lat="48.957761" lon="10.2583178"/><trkpt lat="48.9577842" lon="10.2583404"/><trkpt lat="48.9578115" lon="10.2583458"/><trkpt lat="48.9578335" lon="10.2583362"/><trkpt lat="48.9578518" lon="10.2583152"/><trkpt lat="48.957864" lon="10.2582856"/><trkpt lat="48.9578683" lon="10.2582514"/><trkpt lat="48.9578643" lon="10.258217"/><trkpt lat="48.9578523" lon="10.2581868"/><trkpt lat="48.9578338" lon="10.2581653"/><trkpt lat="48.9578115" lon="10.2581555"/><trkpt lat="48.9577883" lon="10.2581588"/><trkpt lat="48.9577676" lon="10.2581746"/><trkpt lat="48.957752" lon="10.2582009"/></trkseg></trk><trk><name>way/1033652806</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1033652806</desc><trkseg><trkpt lat="48.5205719" lon="8.6543248"/><trkpt lat="48.5205114" lon="8.6543639"/><trkpt lat="48.5204681" lon="8.6544388"/><trkpt lat="48.5204507" lon="8.6545346"/><trkpt lat="48.5204625" lon="8.6546324"/><trkpt lat="48.5205012" lon="8.6547127"/><trkpt lat="48.5205592" lon="8.6547597"/><trkpt lat="48.520625" lon="8.6547641"/><trkpt lat="48.5206855" lon="8.6547249"/><trkpt lat="48.5207287" lon="8.65465"/><trkpt lat="48.5207462" lon="8.6545542"/><trkpt lat="48.5207343" lon="8.6544565"/><trkpt lat="48.5206956" lon="8.6543762"/><trkpt lat="48.5206376" lon="8.6543292"/><trkpt lat="48.5205719" lon="8.6543248"/></trkseg></trk><trk><name>way/1039397535</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1039397535</desc><trkseg><trkpt lat="48.3908116" lon="9.7013891"/><trkpt lat="48.3907954" lon="9.7014266"/><trkpt lat="48.3907869" lon="9.7014695"/><trkpt lat="48.390787" lon="9.7015143"/><trkpt lat="48.3907955" lon="9.7015572"/><trkpt lat="48.3908119" lon="9.7015946"/><trkpt lat="48.3908346" lon="9.7016234"/><trkpt lat="48.3908619" lon="9.7016412"/><trkpt lat="48.3908889" lon="9.7016465"/><trkpt lat="48.3909158" lon="9.701641"/><trkpt lat="48.3909409" lon="9.7016251"/><trkpt lat="48.3909623" lon="9.7015999"/><trkpt lat="48.3909785" lon="9.7015671"/><trkpt lat="48.3909885" lon="9.701529"/><trkpt lat="48.3909915" lon="9.7014883"/><trkpt lat="48.3909863" lon="9.7014428"/><trkpt lat="48.3909724" lon="9.7014016"/><trkpt lat="48.390951" lon="9.7013684"/><trkpt lat="48.3909241" lon="9.7013462"/><trkpt lat="48.390894" lon="9.701337"/><trkpt lat="48.3908635" lon="9.7013415"/><trkpt lat="48.3908352" lon="9.7013594"/><trkpt lat="48.3908116" lon="9.7013891"/></trkseg></trk><trk><name>way/1039397536</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1039397536</desc><trkseg><trkpt lat="48.3908202" lon="9.7010903"/><trkpt lat="48.3907996" lon="9.7011161"/><trkpt lat="48.3907856" lon="9.7011502"/><trkpt lat="48.3907794" lon="9.7011894"/><trkpt lat="48.3907818" lon="9.7012294"/><trkpt lat="48.3907925" lon="9.7012663"/><trkpt lat="48.3908104" lon="9.7012962"/><trkpt lat="48.3908336" lon="9.701316"/><trkpt lat="48.3908598" lon="9.7013237"/><trkpt lat="48.3908847" lon="9.7013192"/><trkpt lat="48.3909075" lon="9.7013038"/><trkpt lat="48.3909263" lon="9.7012789"/><trkpt lat="48.3909393" lon="9.7012467"/><trkpt lat="48.3909454" lon="9.7012101"/><trkpt lat="48.390944" lon="9.7011725"/><trkpt lat="48.3909346" lon="9.7011356"/><trkpt lat="48.3909181" lon="9.701105"/><trkpt lat="48.3908961" lon="9.7010836"/><trkpt lat="48.3908707" lon="9.7010736"/><trkpt lat="48.3908445" lon="9.7010759"/><trkpt lat="48.3908202" lon="9.7010903"/></trkseg></trk><trk><name>way/1039397537</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1039397537</desc><trkseg><trkpt lat="48.3910437" lon="9.701317"/><trkpt lat="48.3910232" lon="9.7013427"/><trkpt lat="48.3910091" lon="9.7013769"/><trkpt lat="48.3910029" lon="9.701416"/><trkpt lat="48.3910053" lon="9.7014561"/><trkpt lat="48.391016" lon="9.7014929"/><trkpt lat="48.3910339" lon="9.7015228"/><trkpt lat="48.3910571" lon="9.7015426"/><trkpt lat="48.3910833" lon="9.7015503"/><trkpt lat="48.3911082" lon="9.7015459"/><trkpt lat="48.391131" lon="9.7015305"/><trkpt lat="48.3911498" lon="9.7015056"/><trkpt lat="48.3911628" lon="9.7014734"/><trkpt lat="48.3911689" lon="9.7014368"/><trkpt lat="48.3911675" lon="9.7013991"/><trkpt lat="48.3911581" lon="9.7013623"/><trkpt lat="48.3911416" lon="9.7013316"/><trkpt lat="48.3911196" lon="9.7013103"/><trkpt lat="48.3910942" lon="9.7013002"/><trkpt lat="48.3910681" lon="9.7013025"/><trkpt lat="48.3910437" lon="9.701317"/></trkseg></trk><trk><name>way/1039397538</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1039397538</desc><trkseg><trkpt lat="48.3909964" lon="9.701028"/><trkpt lat="48.3909759" lon="9.7010537"/><trkpt lat="48.3909618" lon="9.7010879"/><trkpt lat="48.3909557" lon="9.701127"/><trkpt lat="48.3909581" lon="9.7011671"/><trkpt lat="48.3909687" lon="9.7012039"/><trkpt lat="48.3909866" lon="9.7012338"/><trkpt lat="48.3910098" lon="9.7012536"/><trkpt lat="48.3910361" lon="9.7012613"/><trkpt lat="48.3910609" lon="9.7012569"/><trkpt lat="48.3910838" lon="9.7012415"/><trkpt lat="48.3911025" lon="9.7012165"/><trkpt lat="48.3911156" lon="9.7011843"/><trkpt lat="48.3911216" lon="9.7011478"/><trkpt lat="48.3911202" lon="9.7011101"/><trkpt lat="48.3911108" lon="9.7010733"/><trkpt lat="48.3910943" lon="9.7010426"/><trkpt lat="48.3910723" lon="9.7010212"/><trkpt lat="48.391047" lon="9.7010112"/><trkpt lat="48.3910208" lon="9.7010135"/><trkpt lat="48.3909964" lon="9.701028"/></trkseg></trk><trk><name>way/1049575845</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1049575845</desc><trkseg><trkpt lat="47.9327646" lon="9.3928605"/><trkpt lat="47.9327291" lon="9.3928807"/><trkpt lat="47.9327229" lon="9.3928563"/><trkpt lat="47.9327145" lon="9.392858"/><trkpt lat="47.9326919" lon="9.3928756"/><trkpt lat="47.9326746" lon="9.3929035"/><trkpt lat="47.9326646" lon="9.3929384"/><trkpt lat="47.932663" lon="9.3929763"/><trkpt lat="47.9326701" lon="9.3930128"/><trkpt lat="47.9326842" lon="9.3930427"/><trkpt lat="47.9327042" lon="9.393064"/><trkpt lat="47.9327276" lon="9.3930746"/><trkpt lat="47.9327521" lon="9.3930732"/><trkpt lat="47.932775" lon="9.3930601"/><trkpt lat="47.9327938" lon="9.3930366"/><trkpt lat="47.9328078" lon="9.393"/><trkpt lat="47.9328117" lon="9.3929583"/><trkpt lat="47.9328049" lon="9.3929174"/><trkpt lat="47.9327884" lon="9.3928831"/><trkpt lat="47.9327646" lon="9.3928605"/></trkseg></trk><trk><name>way/1049575846</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1049575846</desc><trkseg><trkpt lat="47.9328401" lon="9.3927258"/><trkpt lat="47.9328234" lon="9.3927661"/><trkpt lat="47.932815" lon="9.3928117"/><trkpt lat="47.9328154" lon="9.392859"/><trkpt lat="47.9328246" lon="9.3929042"/><trkpt lat="47.932842" lon="9.3929438"/><trkpt lat="47.9328661" lon="9.3929746"/><trkpt lat="47.932895" lon="9.3929941"/><trkpt lat="47.9329264" lon="9.3930008"/><trkpt lat="47.9329571" lon="9.3929943"/><trkpt lat="47.9329854" lon="9.3929756"/><trkpt lat="47.9330093" lon="9.3929461"/><trkpt lat="47.9330268" lon="9.3929079"/><trkpt lat="47.9330367" lon="9.392864"/><trkpt lat="47.9330381" lon="9.3928178"/><trkpt lat="47.933031" lon="9.3927728"/><trkpt lat="47.9330146" lon="9.3927297"/><trkpt lat="47.9329905" lon="9.3926957"/><trkpt lat="47.9329607" lon="9.3926737"/><trkpt lat="47.932928" lon="9.3926656"/><trkpt lat="47.9328951" lon="9.3926722"/><trkpt lat="47.9328649" lon="9.3926929"/><trkpt lat="47.9328401" lon="9.3927258"/></trkseg></trk><trk><name>way/1050003049</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1050003049</desc><trkseg><trkpt lat="47.9436035" lon="9.4020331"/><trkpt lat="47.9435965" lon="9.4020681"/><trkpt lat="47.9435978" lon="9.4021046"/><trkpt lat="47.9436071" lon="9.4021383"/><trkpt lat="47.9436234" lon="9.4021655"/><trkpt lat="47.9436449" lon="9.4021829"/><trkpt lat="47.9436691" lon="9.4021887"/><trkpt lat="47.943694" lon="9.4021815"/><trkpt lat="47.9437157" lon="9.402162"/><trkpt lat="47.9437315" lon="9.4021325"/><trkpt lat="47.9437395" lon="9.4020966"/><trkpt lat="47.9437388" lon="9.4020588"/><trkpt lat="47.9437293" lon="9.4020237"/><trkpt lat="47.9437122" lon="9.4019957"/><trkpt lat="47.9436897" lon="9.4019782"/><trkpt lat="47.9436646" lon="9.4019734"/><trkpt lat="47.9436398" lon="9.4019819"/><trkpt lat="47.9436186" lon="9.4020026"/><trkpt lat="47.9436035" lon="9.4020331"/></trkseg></trk><trk><name>way/1051091948</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1051091948</desc><trkseg><trkpt lat="47.9406686" lon="9.4183365"/><trkpt lat="47.9406631" lon="9.4183768"/><trkpt lat="47.9406668" lon="9.4184175"/><trkpt lat="47.9406792" lon="9.4184542"/><trkpt lat="47.940699" lon="9.4184828"/><trkpt lat="47.940724" lon="9.4185001"/><trkpt lat="47.9407514" lon="9.4185043"/><trkpt lat="47.9407782" lon="9.4184947"/><trkpt lat="47.9407976" lon="9.4184774"/><trkpt lat="47.9408132" lon="9.4184529"/><trkpt lat="47.9408237" lon="9.418423"/><trkpt lat="47.9408284" lon="9.41839"/><trkpt lat="47.940827" lon="9.4183563"/><trkpt lat="47.9408195" lon="9.4183244"/><trkpt lat="47.9408034" lon="9.418292"/><trkpt lat="47.9407811" lon="9.418269"/><trkpt lat="47.940755" lon="9.418258"/><trkpt lat="47.940728" lon="9.4182602"/><trkpt lat="47.9407028" lon="9.4182753"/><trkpt lat="47.9406823" lon="9.4183016"/><trkpt lat="47.9406686" lon="9.4183365"/></trkseg></trk><trk><name>way/1051091949</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1051091949</desc><trkseg><trkpt lat="47.9405355" lon="9.4185233"/><trkpt lat="47.94053" lon="9.4185636"/><trkpt lat="47.9405337" lon="9.4186044"/><trkpt lat="47.9405461" lon="9.4186411"/><trkpt lat="47.9405659" lon="9.4186697"/><trkpt lat="47.9405909" lon="9.418687"/><trkpt lat="47.9406183" lon="9.4186911"/><trkpt lat="47.9406451" lon="9.4186816"/><trkpt lat="47.9406646" lon="9.4186643"/><trkpt lat="47.9406801" lon="9.4186397"/><trkpt lat="47.9406907" lon="9.4186098"/><trkpt lat="47.9406954" lon="9.4185768"/><trkpt lat="47.940694" lon="9.4185431"/><trkpt lat="47.9406865" lon="9.4185112"/><trkpt lat="47.9406703" lon="9.4184788"/><trkpt lat="47.940648" lon="9.4184559"/><trkpt lat="47.940622" lon="9.4184449"/><trkpt lat="47.9405949" lon="9.418447"/><trkpt lat="47.9405698" lon="9.4184621"/><trkpt lat="47.9405493" lon="9.4184885"/><trkpt lat="47.9405355" lon="9.4185233"/></trkseg></trk><trk><name>way/1083193472</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1083193472</desc><trkseg><trkpt lat="48.8192837" lon="10.2875174"/><trkpt lat="48.8193122" lon="10.2875508"/><trkpt lat="48.8193463" lon="10.287568"/><trkpt lat="48.8193823" lon="10.2875671"/><trkpt lat="48.8194161" lon="10.2875483"/><trkpt lat="48.8194439" lon="10.2875137"/><trkpt lat="48.8194627" lon="10.287467"/><trkpt lat="48.8194702" lon="10.2874136"/><trkpt lat="48.8194658" lon="10.2873594"/><trkpt lat="48.8194499" lon="10.2873104"/><trkpt lat="48.8194254" lon="10.2872734"/><trkpt lat="48.8193945" lon="10.2872501"/><trkpt lat="48.8193603" lon="10.2872429"/><trkpt lat="48.8193264" lon="10.2872525"/><trkpt lat="48.8192962" lon="10.2872778"/><trkpt lat="48.8192728" lon="10.2873164"/><trkpt lat="48.8192587" lon="10.2873642"/><trkpt lat="48.8192553" lon="10.2874187"/><trkpt lat="48.819264" lon="10.2874717"/><trkpt lat="48.8192837" lon="10.2875174"/></trkseg></trk><trk><name>way/1092869234</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1092869234</desc><trkseg><trkpt lat="48.7812195" lon="10.1901897"/><trkpt lat="48.7812631" lon="10.190216"/><trkpt lat="48.78131" lon="10.1902193"/><trkpt lat="48.781355" lon="10.1901992"/><trkpt lat="48.7813933" lon="10.1901579"/><trkpt lat="48.7814206" lon="10.1901"/><trkpt lat="48.781434" lon="10.1900317"/><trkpt lat="48.781432" lon="10.1899605"/><trkpt lat="48.781415" lon="10.1898947"/><trkpt lat="48.7813849" lon="10.1898408"/><trkpt lat="48.781345" lon="10.1898045"/><trkpt lat="48.7812995" lon="10.1897898"/><trkpt lat="48.7812533" lon="10.1897981"/><trkpt lat="48.7812113" lon="10.1898287"/><trkpt lat="48.7811781" lon="10.1898782"/><trkpt lat="48.7811572" lon="10.1899414"/><trkpt lat="48.7811509" lon="10.190012"/><trkpt lat="48.7811602" lon="10.1900818"/><trkpt lat="48.7811839" lon="10.1901433"/><trkpt lat="48.7812195" lon="10.1901897"/></trkseg></trk><trk><name>way/1118126012</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1118126012</desc><trkseg><trkpt lat="48.4671101" lon="9.8408083"/><trkpt lat="48.4670963" lon="9.8408516"/><trkpt lat="48.4670916" lon="9.8408992"/><trkpt lat="48.4670966" lon="9.8409468"/><trkpt lat="48.4671107" lon="9.8409899"/><trkpt lat="48.4671328" lon="9.8410247"/><trkpt lat="48.4671607" lon="9.841048"/><trkpt lat="48.4671919" lon="9.8410577"/><trkpt lat="48.4672209" lon="9.841054"/><trkpt lat="48.4672481" lon="9.8410384"/><trkpt lat="48.4672715" lon="9.8410123"/><trkpt lat="48.4672893" lon="9.8409775"/><trkpt lat="48.4673001" lon="9.8409368"/><trkpt lat="48.4673031" lon="9.8408931"/><trkpt lat="48.4672982" lon="9.8408499"/><trkpt lat="48.4672854" lon="9.8408099"/><trkpt lat="48.4672659" lon="9.8407767"/><trkpt lat="48.467241" lon="9.840753"/><trkpt lat="48.4672128" lon="9.8407405"/><trkpt lat="48.4671833" lon="9.8407403"/><trkpt lat="48.467155" lon="9.8407522"/><trkpt lat="48.4671299" lon="9.8407755"/><trkpt lat="48.4671101" lon="9.8408083"/></trkseg></trk><trk><name>way/1118126013</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1118126013</desc><trkseg><trkpt lat="48.4673784" lon="9.8410742"/><trkpt lat="48.4673811" lon="9.841111"/><trkpt lat="48.4673916" lon="9.8411446"/><trkpt lat="48.4674087" lon="9.8411712"/><trkpt lat="48.4674307" lon="9.8411879"/><trkpt lat="48.467455" lon="9.841193"/><trkpt lat="48.4674791" lon="9.8411858"/><trkpt lat="48.4675024" lon="9.8411647"/><trkpt lat="48.467519" lon="9.8411325"/><trkpt lat="48.467527" lon="9.8410934"/><trkpt lat="48.4675251" lon="9.8410526"/><trkpt lat="48.4675137" lon="9.8410155"/><trkpt lat="48.4674943" lon="9.840987"/><trkpt lat="48.4674704" lon="9.8409713"/><trkpt lat="48.4674445" lon="9.8409688"/><trkpt lat="48.4674196" lon="9.8409799"/><trkpt lat="48.4673987" lon="9.8410033"/><trkpt lat="48.4673844" lon="9.841036"/><trkpt lat="48.4673784" lon="9.8410742"/></trkseg></trk><trk><name>way/1118126014</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1118126014</desc><trkseg><trkpt lat="48.4674176" lon="9.8412606"/><trkpt lat="48.4674075" lon="9.8412986"/><trkpt lat="48.4674072" lon="9.8413395"/><trkpt lat="48.4674164" lon="9.8413779"/><trkpt lat="48.4674342" lon="9.8414088"/><trkpt lat="48.467458" lon="9.8414282"/><trkpt lat="48.4674849" lon="9.8414336"/><trkpt lat="48.467508" lon="9.8414262"/><trkpt lat="48.4675285" lon="9.8414083"/><trkpt lat="48.4675442" lon="9.8413816"/><trkpt lat="48.4675537" lon="9.841349"/><trkpt lat="48.4675559" lon="9.8413135"/><trkpt lat="48.4675507" lon="9.8412787"/><trkpt lat="48.4675361" lon="9.8412438"/><trkpt lat="48.4675142" lon="9.8412191"/><trkpt lat="48.4674878" lon="9.841208"/><trkpt lat="48.4674606" lon="9.8412119"/><trkpt lat="48.4674361" lon="9.8412302"/><trkpt lat="48.4674176" lon="9.8412606"/></trkseg></trk><trk><name>way/1118126015</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1118126015</desc><trkseg><trkpt lat="48.4672679" lon="9.8413585"/><trkpt lat="48.467253" lon="9.8413952"/><trkpt lat="48.467247" lon="9.8414373"/><trkpt lat="48.4672508" lon="9.8414801"/><trkpt lat="48.4672638" lon="9.8415184"/><trkpt lat="48.4672846" lon="9.841548"/><trkpt lat="48.4673108" lon="9.8415653"/><trkpt lat="48.4673393" lon="9.8415684"/><trkpt lat="48.4673634" lon="9.8415592"/><trkpt lat="48.4673846" lon="9.8415399"/><trkpt lat="48.4674011" lon="9.841512"/><trkpt lat="48.4674116" lon="9.8414781"/><trkpt lat="48.467415" lon="9.841441"/><trkpt lat="48.4674111" lon="9.8414041"/><trkpt lat="48.4674" lon="9.8413699"/><trkpt lat="48.4673826" lon="9.8413422"/><trkpt lat="48.4673605" lon="9.8413236"/><trkpt lat="48.4673358" lon="9.8413157"/><trkpt lat="48.4673106" lon="9.8413193"/><trkpt lat="48.4672873" lon="9.841334"/><trkpt lat="48.4672679" lon="9.8413585"/></trkseg></trk><trk><name>way/1118126016</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1118126016</desc><trkseg><trkpt lat="48.4672266" lon="9.841104"/><trkpt lat="48.4672149" lon="9.8411422"/><trkpt lat="48.467212" lon="9.841184"/><trkpt lat="48.4672183" lon="9.841225"/><trkpt lat="48.4672332" lon="9.8412606"/><trkpt lat="48.4672549" lon="9.841287"/><trkpt lat="48.4672812" lon="9.8413012"/><trkpt lat="48.4673091" lon="9.8413018"/><trkpt lat="48.4673314" lon="9.8412917"/><trkpt lat="48.4673511" lon="9.8412728"/><trkpt lat="48.4673665" lon="9.8412465"/><trkpt lat="48.4673767" lon="9.8412149"/><trkpt lat="48.4673807" lon="9.8411802"/><trkpt lat="48.4673782" lon="9.8411452"/><trkpt lat="48.4673673" lon="9.841107"/><trkpt lat="48.4673488" lon="9.8410762"/><trkpt lat="48.4673246" lon="9.841056"/><trkpt lat="48.4672975" lon="9.8410486"/><trkpt lat="48.4672702" lon="9.8410548"/><trkpt lat="48.4672457" lon="9.841074"/><trkpt lat="48.4672266" lon="9.841104"/></trkseg></trk><trk><name>way/1123699273</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1123699273</desc><trkseg><trkpt lat="47.9084668" lon="8.9676829"/><trkpt lat="47.9084448" lon="8.9677071"/><trkpt lat="47.908429" lon="8.9677404"/><trkpt lat="47.908421" lon="8.9677794"/><trkpt lat="47.9084216" lon="8.9678202"/><trkpt lat="47.9084308" lon="8.9678587"/><trkpt lat="47.9084477" lon="8.9678909"/><trkpt lat="47.9084704" lon="8.9679135"/><trkpt lat="47.9084966" lon="8.9679244"/><trkpt lat="47.9085238" lon="8.9679224"/><trkpt lat="47.9085492" lon="8.967908"/><trkpt lat="47.9085703" lon="8.9678824"/><trkpt lat="47.908585" lon="8.9678482"/><trkpt lat="47.9085918" lon="8.9678089"/><trkpt lat="47.9085902" lon="8.9677699"/><trkpt lat="47.9085809" lon="8.9677334"/><trkpt lat="47.9085646" lon="8.9677028"/><trkpt lat="47.9085429" lon="8.9676809"/><trkpt lat="47.9085178" lon="8.9676698"/><trkpt lat="47.9084916" lon="8.9676705"/><trkpt lat="47.9084668" lon="8.9676829"/></trkseg></trk><trk><name>way/1124831808</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1124831808</desc><trkseg><trkpt lat="47.9167888" lon="9.1378985"/><trkpt lat="47.9167779" lon="9.1379329"/><trkpt lat="47.9167752" lon="9.1379707"/><trkpt lat="47.916781" lon="9.1380077"/><trkpt lat="47.9167947" lon="9.1380398"/><trkpt lat="47.9168147" lon="9.1380633"/><trkpt lat="47.9168388" lon="9.1380757"/><trkpt lat="47.9168643" lon="9.1380756"/><trkpt lat="47.9168888" lon="9.1380625"/><trkpt lat="47.9169089" lon="9.1380378"/><trkpt lat="47.9169223" lon="9.1380045"/><trkpt lat="47.9169274" lon="9.1379665"/><trkpt lat="47.9169236" lon="9.137928"/><trkpt lat="47.9169101" lon="9.1378915"/><trkpt lat="47.9168887" lon="9.1378646"/><trkpt lat="47.9168623" lon="9.1378511"/><trkpt lat="47.9168343" lon="9.1378527"/><trkpt lat="47.9168087" lon="9.1378693"/><trkpt lat="47.9167888" lon="9.1378985"/></trkseg></trk><trk><name>way/1124831809</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1124831809</desc><trkseg><trkpt lat="47.916795" lon="9.1375673"/><trkpt lat="47.9167833" lon="9.1376055"/><trkpt lat="47.9167809" lon="9.1376475"/><trkpt lat="47.9167881" lon="9.1376882"/><trkpt lat="47.9168041" lon="9.1377229"/><trkpt lat="47.916827" lon="9.1377474"/><trkpt lat="47.9168541" lon="9.1377591"/><trkpt lat="47.9168822" lon="9.1377564"/><trkpt lat="47.9169046" lon="9.1377429"/><trkpt lat="47.9169234" lon="9.1377204"/><trkpt lat="47.916937" lon="9.1376908"/><trkpt lat="47.9169443" lon="9.1376565"/><trkpt lat="47.9169446" lon="9.1376206"/><trkpt lat="47.916938" lon="9.1375861"/><trkpt lat="47.9169244" lon="9.1375551"/><trkpt lat="47.9169054" lon="9.1375315"/><trkpt lat="47.9168824" lon="9.1375174"/><trkpt lat="47.9168578" lon="9.1375142"/><trkpt lat="47.9168335" lon="9.1375221"/><trkpt lat="47.916812" lon="9.1375403"/><trkpt lat="47.916795" lon="9.1375673"/></trkseg></trk><trk><name>way/1124831810</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1124831810</desc><trkseg><trkpt lat="47.9169541" lon="9.1379911"/><trkpt lat="47.9169354" lon="9.1380253"/><trkpt lat="47.916924" lon="9.1380662"/><trkpt lat="47.916921" lon="9.1381103"/><trkpt lat="47.9169266" lon="9.1381537"/><trkpt lat="47.9169404" lon="9.138193"/><trkpt lat="47.9169612" lon="9.1382246"/><trkpt lat="47.9169872" lon="9.138246"/><trkpt lat="47.9170162" lon="9.1382553"/><trkpt lat="47.9170426" lon="9.1382527"/><trkpt lat="47.9170676" lon="9.1382402"/><trkpt lat="47.9170897" lon="9.1382184"/><trkpt lat="47.9171073" lon="9.1381889"/><trkpt lat="47.9171191" lon="9.1381536"/><trkpt lat="47.9171246" lon="9.138115"/><trkpt lat="47.9171231" lon="9.1380756"/><trkpt lat="47.9171129" lon="9.1380321"/><trkpt lat="47.9170945" lon="9.1379952"/><trkpt lat="47.9170695" lon="9.1379682"/><trkpt lat="47.9170403" lon="9.1379535"/><trkpt lat="47.9170094" lon="9.1379526"/><trkpt lat="47.9169798" lon="9.1379655"/><trkpt lat="47.9169541" lon="9.1379911"/></trkseg></trk><trk><name>way/1124831811</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1124831811</desc><trkseg><trkpt lat="47.9169344" lon="9.1377832"/><trkpt lat="47.9169263" lon="9.1378239"/><trkpt lat="47.9169292" lon="9.1378661"/><trkpt lat="47.9169425" lon="9.1379035"/><trkpt lat="47.9169643" lon="9.1379307"/><trkpt lat="47.9169914" lon="9.1379435"/><trkpt lat="47.9170198" lon="9.1379401"/><trkpt lat="47.9170412" lon="9.1379253"/><trkpt lat="47.9170583" lon="9.1379011"/><trkpt lat="47.9170695" lon="9.1378701"/><trkpt lat="47.9170736" lon="9.1378355"/><trkpt lat="47.9170701" lon="9.1378006"/><trkpt lat="47.9170588" lon="9.1377679"/><trkpt lat="47.9170408" lon="9.1377426"/><trkpt lat="47.9170183" lon="9.1377275"/><trkpt lat="47.9169937" lon="9.1377244"/><trkpt lat="47.9169698" lon="9.1377335"/><trkpt lat="47.9169493" lon="9.1377539"/><trkpt lat="47.9169344" lon="9.1377832"/></trkseg></trk><trk><name>way/1133506333</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1133506333</desc><trkseg><trkpt lat="48.0752184" lon="9.0217581"/><trkpt lat="48.0752017" lon="9.0217935"/><trkpt lat="48.0751924" lon="9.0218345"/><trkpt lat="48.0751912" lon="9.0218778"/><trkpt lat="48.0751983" lon="9.0219198"/><trkpt lat="48.0752131" lon="9.021957"/><trkpt lat="48.0752343" lon="9.0219864"/><trkpt lat="48.0752603" lon="9.0220056"/><trkpt lat="48.0752888" lon="9.0220129"/><trkpt lat="48.0753184" lon="9.0220075"/><trkpt lat="48.0753456" lon="9.0219893"/><trkpt lat="48.0753681" lon="9.0219601"/><trkpt lat="48.0753839" lon="9.0219222"/><trkpt lat="48.0753916" lon="9.0218792"/><trkpt lat="48.0753905" lon="9.0218346"/><trkpt lat="48.0753818" lon="9.0217954"/><trkpt lat="48.0753663" lon="9.0217612"/><trkpt lat="48.0753452" lon="9.0217346"/><trkpt lat="48.0753201" lon="9.0217176"/><trkpt lat="48.0752928" lon="9.0217114"/><trkpt lat="48.0752655" lon="9.0217164"/><trkpt lat="48.07524" lon="9.0217324"/><trkpt lat="48.0752184" lon="9.0217581"/></trkseg></trk><trk><name>way/1133506334</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1133506334</desc><trkseg><trkpt lat="48.0751076" lon="9.021297"/><trkpt lat="48.0750907" lon="9.0213356"/><trkpt lat="48.0750818" lon="9.0213798"/><trkpt lat="48.0750816" lon="9.0214259"/><trkpt lat="48.0750901" lon="9.0214702"/><trkpt lat="48.0751065" lon="9.0215092"/><trkpt lat="48.0751297" lon="9.0215397"/><trkpt lat="48.0751576" lon="9.0215591"/><trkpt lat="48.0751881" lon="9.021566"/><trkpt lat="48.0752186" lon="9.0215598"/><trkpt lat="48.0752467" lon="9.0215409"/><trkpt lat="48.0752702" lon="9.021511"/><trkpt lat="48.075287" lon="9.0214724"/><trkpt lat="48.0752959" lon="9.0214283"/><trkpt lat="48.0752961" lon="9.0213821"/><trkpt lat="48.0752877" lon="9.0213378"/><trkpt lat="48.0752712" lon="9.0212988"/><trkpt lat="48.0752481" lon="9.0212684"/><trkpt lat="48.0752201" lon="9.0212489"/><trkpt lat="48.0751897" lon="9.021242"/><trkpt lat="48.0751591" lon="9.0212482"/><trkpt lat="48.075131" lon="9.0212671"/><trkpt lat="48.0751076" lon="9.021297"/></trkseg></trk><trk><name>way/1133506335</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1133506335</desc><trkseg><trkpt lat="48.0753129" lon="9.0214679"/><trkpt lat="48.0752961" lon="9.0215032"/><trkpt lat="48.0752868" lon="9.0215442"/><trkpt lat="48.0752856" lon="9.0215875"/><trkpt lat="48.0752927" lon="9.0216295"/><trkpt lat="48.0753075" lon="9.0216667"/><trkpt lat="48.0753287" lon="9.0216962"/><trkpt lat="48.0753547" lon="9.0217153"/><trkpt lat="48.0753832" lon="9.0217227"/><trkpt lat="48.0754128" lon="9.0217172"/><trkpt lat="48.07544" lon="9.0216991"/><trkpt lat="48.0754625" lon="9.0216698"/><trkpt lat="48.0754783" lon="9.021632"/><trkpt lat="48.075486" lon="9.0215889"/><trkpt lat="48.0754849" lon="9.0215443"/><trkpt lat="48.0754762" lon="9.0215051"/><trkpt lat="48.0754607" lon="9.021471"/><trkpt lat="48.0754396" lon="9.0214444"/><trkpt lat="48.0754145" lon="9.0214273"/><trkpt lat="48.0753873" lon="9.0214211"/><trkpt lat="48.0753599" lon="9.0214262"/><trkpt lat="48.0753345" lon="9.0214422"/><trkpt lat="48.0753129" lon="9.0214679"/></trkseg></trk><trk><name>way/1150929800</name><desc>addr:city=Backnang
+addr:country=DE
+addr:postcode=71522
+addr:street=Eugen-Adolff-Straße
+building=construction
+description=Heizzentrale Obere Walke
+generator:method=combustion
+generator:output:electricity=1 MW
+generator:source=biomass
+generator:type=bioreactor
+note=Siehe bkz.de/nachrichten/holzhackschnitzel-waermen-die-obere-walke-in-backnang-152804.html (2024-10-31) Rund 80% durch Holzhackschnitzel, 20% durch Wärmepumpe.
+opening_date=2024-10-31
+operator=Stadtwerke Backnang
+power=generator
+id=way/1150929800</desc><trkseg><trkpt lat="48.9468574" lon="9.4438215"/><trkpt lat="48.9468592" lon="9.4436288"/><trkpt lat="48.946724" lon="9.4436258"/><trkpt lat="48.9467222" lon="9.4438185"/><trkpt lat="48.9468574" lon="9.4438215"/></trkseg></trk><trk><name>way/1188468652</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1188468652</desc><trkseg><trkpt lat="48.8387161" lon="9.0116607"/><trkpt lat="48.838691" lon="9.0116277"/><trkpt lat="48.83866" lon="9.0116095"/><trkpt lat="48.8386311" lon="9.0116075"/><trkpt lat="48.8386032" lon="9.0116184"/><trkpt lat="48.8385786" lon="9.0116414"/><trkpt lat="48.8385596" lon="9.0116744"/><trkpt lat="48.8385478" lon="9.0117145"/><trkpt lat="48.8385444" lon="9.011758"/><trkpt lat="48.838551" lon="9.0118075"/><trkpt lat="48.8385683" lon="9.0118507"/><trkpt lat="48.8385942" lon="9.0118824"/><trkpt lat="48.8386256" lon="9.011899"/><trkpt lat="48.8386589" lon="9.0118984"/><trkpt lat="48.83869" lon="9.0118807"/><trkpt lat="48.8387154" lon="9.0118481"/><trkpt lat="48.8387321" lon="9.0118043"/><trkpt lat="48.838738" lon="9.0117546"/><trkpt lat="48.8387324" lon="9.0117048"/><trkpt lat="48.8387161" lon="9.0116607"/></trkseg></trk><trk><name>way/1188468653</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1188468653</desc><trkseg><trkpt lat="48.8387277" lon="9.0113615"/><trkpt lat="48.8387019" lon="9.0113589"/><trkpt lat="48.8386769" lon="9.011369"/><trkpt lat="48.8386553" lon="9.0113908"/><trkpt lat="48.8386395" lon="9.0114219"/><trkpt lat="48.838631" lon="9.011459"/><trkpt lat="48.8386308" lon="9.0114984"/><trkpt lat="48.838639" lon="9.0115357"/><trkpt lat="48.8386546" lon="9.0115671"/><trkpt lat="48.8386759" lon="9.0115893"/><trkpt lat="48.8387009" lon="9.0115999"/><trkpt lat="48.8387267" lon="9.0115978"/><trkpt lat="48.8387517" lon="9.0115823"/><trkpt lat="48.8387719" lon="9.011555"/><trkpt lat="48.8387849" lon="9.011519"/><trkpt lat="48.8387893" lon="9.0114785"/><trkpt lat="48.8387845" lon="9.0114381"/><trkpt lat="48.8387711" lon="9.0114025"/><trkpt lat="48.8387516" lon="9.0113766"/><trkpt lat="48.8387277" lon="9.0113615"/></trkseg></trk><trk><name>way/1198957270</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1198957270</desc><trkseg><trkpt lat="48.0197372" lon="9.2733081"/><trkpt lat="48.0197626" lon="9.2733271"/><trkpt lat="48.019791" lon="9.273329"/><trkpt lat="48.0198175" lon="9.2733135"/><trkpt lat="48.0198375" lon="9.2732832"/><trkpt lat="48.0198475" lon="9.2732434"/><trkpt lat="48.0198458" lon="9.2732009"/><trkpt lat="48.0198327" lon="9.2731631"/><trkpt lat="48.0198105" lon="9.2731366"/><trkpt lat="48.019783" lon="9.2731259"/><trkpt lat="48.0197549" lon="9.2731328"/><trkpt lat="48.0197311" lon="9.2731563"/><trkpt lat="48.0197158" lon="9.2731921"/><trkpt lat="48.0197115" lon="9.2732342"/><trkpt lat="48.0197191" lon="9.2732752"/><trkpt lat="48.0197372" lon="9.2733081"/></trkseg></trk><trk><name>way/1199344807</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1199344807</desc><trkseg><trkpt lat="48.2161301" lon="9.9614846"/><trkpt lat="48.2161482" lon="9.9615482"/><trkpt lat="48.2161793" lon="9.9615994"/><trkpt lat="48.2162201" lon="9.9616323"/><trkpt lat="48.2162638" lon="9.9616431"/><trkpt lat="48.2163076" lon="9.9616324"/><trkpt lat="48.2163469" lon="9.9616014"/><trkpt lat="48.2163775" lon="9.9615533"/><trkpt lat="48.2163965" lon="9.9614929"/><trkpt lat="48.2164015" lon="9.9614268"/><trkpt lat="48.2163923" lon="9.9613616"/><trkpt lat="48.2163698" lon="9.9613042"/><trkpt lat="48.2163363" lon="9.9612606"/><trkpt lat="48.2162934" lon="9.9612346"/><trkpt lat="48.2162474" lon="9.9612313"/><trkpt lat="48.2162031" lon="9.9612511"/><trkpt lat="48.2161656" lon="9.9612917"/><trkpt lat="48.2161393" lon="9.9613486"/><trkpt lat="48.216127" lon="9.9614154"/><trkpt lat="48.2161301" lon="9.9614846"/></trkseg></trk><trk><name>way/1199344989</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1199344989</desc><trkseg><trkpt lat="48.0430094" lon="9.5004161"/><trkpt lat="48.0430221" lon="9.5003717"/><trkpt lat="48.0430239" lon="9.5003235"/><trkpt lat="48.0430145" lon="9.5002773"/><trkpt lat="48.0429952" lon="9.5002386"/><trkpt lat="48.0429682" lon="9.5002122"/><trkpt lat="48.0429367" lon="9.5002012"/><trkpt lat="48.0429047" lon="9.5002069"/><trkpt lat="48.0428758" lon="9.5002287"/><trkpt lat="48.0428537" lon="9.5002639"/><trkpt lat="48.042841" lon="9.5003083"/><trkpt lat="48.0428392" lon="9.5003565"/><trkpt lat="48.0428486" lon="9.5004028"/><trkpt lat="48.0428679" lon="9.5004414"/><trkpt lat="48.042895" lon="9.5004679"/><trkpt lat="48.0429264" lon="9.5004789"/><trkpt lat="48.0429585" lon="9.5004732"/><trkpt lat="48.0429873" lon="9.5004514"/><trkpt lat="48.0430094" lon="9.5004161"/></trkseg></trk><trk><name>way/1199345170</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1199345170</desc><trkseg><trkpt lat="48.0458012" lon="9.4955541"/><trkpt lat="48.0457999" lon="9.495495"/><trkpt lat="48.0457865" lon="9.4954395"/><trkpt lat="48.0457622" lon="9.495393"/><trkpt lat="48.0457295" lon="9.4953599"/><trkpt lat="48.0456916" lon="9.4953436"/><trkpt lat="48.0456521" lon="9.4953455"/><trkpt lat="48.045615" lon="9.4953657"/><trkpt lat="48.0455839" lon="9.495402"/><trkpt lat="48.0455617" lon="9.4954509"/><trkpt lat="48.0455508" lon="9.4955077"/><trkpt lat="48.0455521" lon="9.4955666"/><trkpt lat="48.0455655" lon="9.4956221"/><trkpt lat="48.0455899" lon="9.4956688"/><trkpt lat="48.0456226" lon="9.4957018"/><trkpt lat="48.0456604" lon="9.4957182"/><trkpt lat="48.0457" lon="9.4957162"/><trkpt lat="48.045737" lon="9.495696"/><trkpt lat="48.0457681" lon="9.4956598"/><trkpt lat="48.0457903" lon="9.4956109"/><trkpt lat="48.0458012" lon="9.4955541"/></trkseg></trk><trk><name>way/1207067524</name><desc>building=service
+generator:output=heat
+generator:source=biomass
+generator:type=boiler
+operator=Bioenergie Breitenholz eG &amp; Co. KG
+power=generator
+id=way/1207067524</desc><trkseg><trkpt lat="48.570532" lon="8.961175"/><trkpt lat="48.5704072" lon="8.9612604"/><trkpt lat="48.5704511" lon="8.9614051"/><trkpt lat="48.5705937" lon="8.9613036"/><trkpt lat="48.5705696" lon="8.9612281"/><trkpt lat="48.5705492" lon="8.9612389"/><trkpt lat="48.570532" lon="8.961175"/></trkseg></trk><trk><name>way/1234163305</name><desc>building=yes
+generator:source=biomass
+power=generator
+id=way/1234163305</desc><trkseg><trkpt lat="49.0869447" lon="9.7110256"/><trkpt lat="49.0869024" lon="9.7109769"/><trkpt lat="49.0868518" lon="9.7109533"/><trkpt lat="49.0867988" lon="9.7109576"/><trkpt lat="49.0867501" lon="9.7109892"/><trkpt lat="49.0867113" lon="9.7110444"/><trkpt lat="49.0866872" lon="9.7111165"/><trkpt lat="49.0866808" lon="9.7111968"/><trkpt lat="49.0866928" lon="9.7112757"/><trkpt lat="49.0867216" lon="9.7113435"/><trkpt lat="49.0867639" lon="9.7113922"/><trkpt lat="49.0868146" lon="9.7114158"/><trkpt lat="49.0868674" lon="9.7114115"/><trkpt lat="49.0869163" lon="9.7113799"/><trkpt lat="49.086955" lon="9.7113248"/><trkpt lat="49.0869791" lon="9.7112526"/><trkpt lat="49.0869855" lon="9.7111724"/><trkpt lat="49.0869736" lon="9.7110935"/><trkpt lat="49.0869447" lon="9.7110256"/></trkseg></trk><trk><name>way/1240855772</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/1240855772</desc><trkseg><trkpt lat="47.8336481" lon="9.4294573"/><trkpt lat="47.8336345" lon="9.4295071"/><trkpt lat="47.8336315" lon="9.4295606"/><trkpt lat="47.8336394" lon="9.429613"/><trkpt lat="47.8336575" lon="9.4296595"/><trkpt lat="47.8336841" lon="9.4296957"/><trkpt lat="47.8337168" lon="9.4297185"/><trkpt lat="47.8337526" lon="9.4297256"/><trkpt lat="47.8337849" lon="9.4297179"/><trkpt lat="47.8338146" lon="9.4296974"/><trkpt lat="47.8338395" lon="9.4296656"/><trkpt lat="47.8338576" lon="9.4296249"/><trkpt lat="47.8338675" lon="9.4295784"/><trkpt lat="47.8338686" lon="9.4295296"/><trkpt lat="47.8338607" lon="9.4294823"/><trkpt lat="47.8338444" lon="9.4294399"/><trkpt lat="47.8338208" lon="9.4294056"/><trkpt lat="47.8337918" lon="9.4293822"/><trkpt lat="47.8337597" lon="9.4293716"/><trkpt lat="47.8337268" lon="9.4293745"/><trkpt lat="47.8336957" lon="9.4293908"/><trkpt lat="47.8336688" lon="9.4294191"/><trkpt lat="47.8336481" lon="9.4294573"/></trkseg></trk><trk><name>way/1348726343</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/1348726343</desc><trkseg><trkpt lat="47.8332597" lon="9.1973363"/><trkpt lat="47.8332524" lon="9.1973902"/><trkpt lat="47.8332549" lon="9.197445"/><trkpt lat="47.8332672" lon="9.1974968"/><trkpt lat="47.8332882" lon="9.197542"/><trkpt lat="47.8333166" lon="9.1975772"/><trkpt lat="47.8333502" lon="9.1975999"/><trkpt lat="47.8333866" lon="9.1976085"/><trkpt lat="47.833422" lon="9.1976029"/><trkpt lat="47.8334553" lon="9.1975839"/><trkpt lat="47.8334842" lon="9.1975527"/><trkpt lat="47.8335068" lon="9.1975116"/><trkpt lat="47.8335215" lon="9.1974632"/><trkpt lat="47.8335274" lon="9.1974108"/><trkpt lat="47.8335241" lon="9.197358"/><trkpt lat="47.8335117" lon="9.1973081"/><trkpt lat="47.8334913" lon="9.1972649"/><trkpt lat="47.8334642" lon="9.1972308"/><trkpt lat="47.8334321" lon="9.1972082"/><trkpt lat="47.8333973" lon="9.1971986"/><trkpt lat="47.8333619" lon="9.1972025"/><trkpt lat="47.8333284" lon="9.1972198"/><trkpt lat="47.8332989" lon="9.1972493"/><trkpt lat="47.8332755" lon="9.197289"/><trkpt lat="47.8332597" lon="9.1973363"/></trkseg></trk><trk><name>way/1348759271</name><desc>generator:source=biomass
+power=generator
+id=way/1348759271</desc><trkseg><trkpt lat="47.8765469" lon="9.1062498"/><trkpt lat="47.8765247" lon="9.1062719"/><trkpt lat="47.8765094" lon="9.1063043"/><trkpt lat="47.8765029" lon="9.1063428"/><trkpt lat="47.876506" lon="9.1063822"/><trkpt lat="47.8765183" lon="9.1064174"/><trkpt lat="47.8765383" lon="9.1064436"/><trkpt lat="47.8765615" lon="9.106457"/><trkpt lat="47.8765864" lon="9.1064579"/><trkpt lat="47.8766101" lon="9.1064464"/><trkpt lat="47.8766298" lon="9.1064238"/><trkpt lat="47.8766433" lon="9.1063926"/><trkpt lat="47.8766489" lon="9.1063564"/><trkpt lat="47.8766462" lon="9.1063198"/><trkpt lat="47.8766355" lon="9.1062866"/><trkpt lat="47.8766179" lon="9.1062606"/><trkpt lat="47.8765955" lon="9.1062448"/><trkpt lat="47.8765709" lon="9.1062411"/><trkpt lat="47.8765469" lon="9.1062498"/></trkseg></trk><trk><name>way/1352688795</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/1352688795</desc><trkseg><trkpt lat="47.8449517" lon="9.4494171"/><trkpt lat="47.844924" lon="9.4494458"/><trkpt lat="47.844903" lon="9.4494852"/><trkpt lat="47.8448904" lon="9.4495319"/><trkpt lat="47.8448874" lon="9.4495819"/><trkpt lat="47.8448942" lon="9.4496312"/><trkpt lat="47.8449101" lon="9.4496755"/><trkpt lat="47.8449339" lon="9.4497111"/><trkpt lat="47.8449636" lon="9.449735"/><trkpt lat="47.8449968" lon="9.4497453"/><trkpt lat="47.8450305" lon="9.4497408"/><trkpt lat="47.845062" lon="9.4497221"/><trkpt lat="47.8450885" lon="9.4496906"/><trkpt lat="47.8451078" lon="9.4496491"/><trkpt lat="47.8451182" lon="9.4496011"/><trkpt lat="47.845119" lon="9.4495506"/><trkpt lat="47.8451108" lon="9.4495051"/><trkpt lat="47.8450947" lon="9.4494646"/><trkpt lat="47.8450719" lon="9.449432"/><trkpt lat="47.845044" lon="9.4494098"/><trkpt lat="47.8450132" lon="9.4493995"/><trkpt lat="47.8449816" lon="9.449402"/><trkpt lat="47.8449517" lon="9.4494171"/></trkseg></trk><trk><name>way/1410434679</name><desc>generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+landuse=industrial
+power=generator
+id=way/1410434679</desc><trkseg><trkpt lat="49.1767592" lon="9.4936996"/><trkpt lat="49.1763925" lon="9.4936398"/><trkpt lat="49.1760197" lon="9.4952882"/><trkpt lat="49.1763488" lon="9.4954649"/><trkpt lat="49.1767592" lon="9.4936996"/></trkseg></trk><trk><name>way/427845612</name><desc>generator:source=biomass
+id=way/427845612</desc><trkseg><trkpt lat="48.3557264" lon="9.7902193"/><trkpt lat="48.3557598" lon="9.7902058"/><trkpt lat="48.3557941" lon="9.7902124"/><trkpt lat="48.3558241" lon="9.7902384"/><trkpt lat="48.3558452" lon="9.7902796"/><trkpt lat="48.3558542" lon="9.7903299"/><trkpt lat="48.3558498" lon="9.7903815"/><trkpt lat="48.3558326" lon="9.7904267"/><trkpt lat="48.3558052" lon="9.7904585"/><trkpt lat="48.3557718" lon="9.790472"/><trkpt lat="48.3557375" lon="9.7904654"/><trkpt lat="48.3557074" lon="9.7904394"/><trkpt lat="48.3556863" lon="9.7903982"/><trkpt lat="48.3556773" lon="9.7903479"/><trkpt lat="48.3556817" lon="9.7902963"/><trkpt lat="48.355699" lon="9.7902511"/><trkpt lat="48.3557264" lon="9.7902193"/></trkseg></trk><trk><name>way/535679686</name><desc>generator:source=biomass
+id=way/535679686</desc><trkseg><trkpt lat="48.3556697" lon="9.7899067"/><trkpt lat="48.3557049" lon="9.7898905"/><trkpt lat="48.3557416" lon="9.7898945"/><trkpt lat="48.3557748" lon="9.7899183"/><trkpt lat="48.3558001" lon="9.7899584"/><trkpt lat="48.3558141" lon="9.7900097"/><trkpt lat="48.3558148" lon="9.790065"/><trkpt lat="48.3558022" lon="9.790117"/><trkpt lat="48.3557779" lon="9.7901587"/><trkpt lat="48.3557453" lon="9.7901843"/><trkpt lat="48.3557087" lon="9.7901905"/><trkpt lat="48.3556732" lon="9.7901764"/><trkpt lat="48.3556434" lon="9.7901439"/><trkpt lat="48.3556234" lon="9.7900974"/><trkpt lat="48.3556159" lon="9.7900432"/><trkpt lat="48.355622" lon="9.7899886"/><trkpt lat="48.3556407" lon="9.7899409"/><trkpt lat="48.3556697" lon="9.7899067"/></trkseg></trk></gpx>
