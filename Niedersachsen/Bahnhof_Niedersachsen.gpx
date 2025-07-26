@@ -1,0 +1,3590 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="52.2585366" lon="8.2039781"><name>Wissingen</name><desc>name=Wissingen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HWIS
+railway:station_category=6
+toilets:wheelchair=no
+train=yes
+uic_ref=8006503
+wheelchair=yes
+wikidata=Q8027730
+wikipedia:en=Wissingen station
+id=node/21301567</desc></wpt><wpt lat="52.3764871" lon="9.9742264"><name>Lehrte</name><desc>name=Lehrte
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HLER
+railway:station_category=3
+ref=HLER
+ref:station=3620
+train=yes
+uic_ref=8000226
+wheelchair=yes
+wikidata=Q801068
+wikipedia=de:Bahnhof Lehrte
+id=node/21306328</desc></wpt><wpt lat="52.4492981" lon="10.3217888"><name>Meinersen</name><desc>name=Meinersen
+public_transport=station
+railway=station
+railway:ref=HMRS
+railway:station_category=6
+shelter=no
+tactile_paving=yes
+train=yes
+wheelchair=yes
+wikidata=Q6810164
+id=node/21308179</desc></wpt><wpt lat="52.7839495" lon="9.2311697"><name>Eystrup</name><desc>addr:city=Eystrup
+addr:housenumber=2
+addr:postcode=27324
+addr:street=Am Bahnhof
+name=Eystrup
+operator=DB InfraGO AG
+outdoor_seating=no
+public_transport=station
+railway=station
+railway:ref=HETR
+railway:station_category=5
+ref:station=1743
+train=yes
+uic_ref=8001949
+website=https://www.bahnhof.de/eystrup
+wheelchair=yes
+wikidata=Q15944981
+wikipedia=en:Eystrup railway station
+id=node/21661361</desc></wpt><wpt lat="53.5065706" lon="8.859299"><name>Geestenseth</name><desc>name=Geestenseth
+public_transport=station
+railway=station
+wikidata=Q5529924
+id=node/22314914</desc></wpt><wpt lat="53.4500852" lon="9.4990755"><name>Harsefeld</name><desc>addr:city=Harsefeld
+hvv:psv_type=R
+name=Harsefeld
+public_transport=station
+railway=station
+wikidata=Q15223109
+wikimedia_commons=Category:Bahnhof Harsefeld
+wikipedia=de:Bahnhof Harsefeld
+id=node/22315007</desc></wpt><wpt lat="52.9207954" lon="9.237876"><name>Verden (Aller)</name><desc>name=Verden (Aller)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HV
+railway:station_category=3
+shelter=yes
+tactile_paving=yes
+train=yes
+uic_ref=8006076
+wheelchair=yes
+wikidata=Q612074
+wikipedia=de:Bahnhof Verden (Aller)
+id=node/25268471</desc></wpt><wpt lat="52.4221569" lon="9.4514075"><name>Wunstorf</name><desc>name=Wunstorf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HWUN
+railway:station_category=3
+shelter=yes
+tactile_paving=yes
+toilets:wheelchair=no
+uic_ref=8000268
+wheelchair=yes
+wikidata=Q15944999
+wikipedia=de:Bahnhof Wunstorf
+id=node/25268512</desc></wpt><wpt lat="53.0018508" lon="8.7910235"><name>Brinkum-Erichshof</name><desc>disused:railway=station
+name=Brinkum-Erichshof
+public_transport=station
+railway=station
+usage=tourism
+id=node/25759702</desc></wpt><wpt lat="53.3428686" lon="8.7852965"><name>Lübberstedt</name><desc>addr:city=Lübberstedt
+addr:housenumber=33
+addr:postcode=27729
+addr:street=Bahnhofstraße
+name=Lübberstedt
+operator=NordWestBahn
+public_transport=station
+railway=station
+railway:ref=HLBR
+railway:station_category=6
+train=yes
+uic_ref=8003773
+wheelchair=yes
+wikidata=Q6711523
+id=node/26025172</desc></wpt><wpt lat="53.0528092" lon="8.6294626"><name>Delmenhorst</name><desc>addr:city=Delmenhorst
+addr:housenumber=10
+addr:postcode=27749
+addr:street=Wittekindstraße
+name=Delmenhorst
+name:ar=دلمنهورست
+operator=DB Netz AG
+phone=+49 1806 512512
+public_transport=station
+railway=station
+railway:ref=HD
+railway:station_category=3
+shelter=yes
+train=yes
+uic_ref=8000070
+wheelchair=yes
+wikidata=Q5254284
+wikipedia=de:Bahnhof Delmenhorst
+id=node/26490141</desc></wpt><wpt lat="53.2446036" lon="8.1910167"><name>Rastede</name><desc>name=Rastede
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HRST
+railway:station_category=5
+train=yes
+uic_ref=8004945
+wheelchair=limited
+wheelchair:description=Nur Gleis 1 (Richtung Wilhelmshaven) ist stufenfrei erreichbar. Gleis 2 (Richtung Oldenburg) nur durch eine Unterführung mit Treppe.
+wikidata=Q15709124
+id=node/27394797</desc></wpt><wpt lat="53.3990747" lon="8.1502302"><name>Varel (Oldb)</name><desc>addr:city=Varel
+addr:housenumber=1
+addr:postcode=26316
+addr:street=Am Bahnhof
+name=Varel (Oldb)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HVA
+railway:station_category=5
+ref:station=6393
+toilets:wheelchair=no
+train=yes
+uic_ref=8006056
+wheelchair=no
+wheelchair:description=Im Bahnhofsgebäude barrierefreies WC mit Euro-Schlüssel zu öffnen.
+wikidata=Q15709128
+id=node/27394802</desc></wpt><wpt lat="53.4900687" lon="8.0316614"><name>Sande</name><desc>addr:city=Sande
+addr:postcode=26452
+name=Sande
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HSAN
+railway:station_category=5
+shelter=yes
+tactile_paving=yes
+train=yes
+uic_ref=8005282
+wheelchair=yes
+wheelchair:description=Alle Bahnsteige ebenerdig und stufenlos erreichbar.
+wikidata=Q15709131
+id=node/27394918</desc></wpt><wpt lat="53.7694838" lon="7.6890193"><name>Bahnhof Historische Pferdebahn</name><desc>fixme=Name nochmal prüfen
+name=Bahnhof Historische Pferdebahn
+public_transport=station
+railway=station
+train=yes
+usage=tourism
+wheelchair=no
+id=node/27401001</desc></wpt><wpt lat="53.5082936" lon="9.5768845"><name>Horneburg</name><desc>hvv:barrier_free=yes
+hvv:psv_type=S;R
+light_rail=yes
+name=Horneburg
+network=Hamburger Verkehrsverbund
+network:short=HVV
+network:wikidata=Q896916
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=AHOG
+railway:station_category=5
+station=light_rail
+train=yes
+uic_ref=8003002
+wheelchair=yes
+wikidata=Q5904236
+id=node/29040713</desc></wpt><wpt lat="53.5960704" lon="9.4775887"><name>Stade</name><desc>hvv:barrier_free=yes
+hvv:psv_type=S;R
+light_rail=yes
+name=Stade
+network=Hamburger Verkehrsverbund
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=AST
+railway:station_category=4
+station=light_rail
+train=yes
+uic_ref=8000089
+wheelchair=yes
+wikidata=Q15965133
+wikipedia=de:Bahnhof Stade
+id=node/29040843</desc></wpt><wpt lat="53.7679539" lon="9.0584937"><name>Cadenberge</name><desc>name=Cadenberge
+public_transport=station
+railway=station
+railway:ref=ACD
+wheelchair=yes
+wikidata=Q21013598
+id=node/29041099</desc></wpt><wpt lat="52.5814053" lon="9.7264354"><name>Bennemühlen</name><desc>air_conditioning=no
+departures_board=timetable
+internet_access=no
+name=Bennemühlen
+network=Großraum-Verkehr Hannover
+public_transport=station
+railway=station
+railway:ref=HMBL
+railway:station_category=5
+train=yes
+uic_ref=8000871
+wheelchair=yes
+wikidata=Q23921141
+id=node/29363817</desc></wpt><wpt lat="52.5224385" lon="9.7481226"><name>Bissendorf</name><desc>name=Bissendorf
+network=Großraum-Verkehr Hannover
+network:short=GVH
+network:wikidata=Q1549516
+public_transport=station
+railway=station
+railway:ref=HBSS
+railway:station_category=5
+train=yes
+uic_ref=8001000
+wheelchair=yes
+wikidata=Q23920441
+id=node/29363847</desc></wpt><wpt lat="52.4508691" lon="9.7357175"><name>Langenhagen Pferdemarkt</name><desc>departures_board=no
+name=Langenhagen Pferdemarkt
+network=Großraum-Verkehr Hannover
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLGH
+railway:station_category=4
+uic_ref=8003542
+wheelchair=yes
+wikidata=Q19835114
+wikipedia=de:Bahnhof Langenhagen Pferdemarkt
+id=node/29363849</desc></wpt><wpt lat="52.4236556" lon="9.7072201"><name>Hannover-Vinnhorst</name><desc>departures_board=timetable
+name=Hannover-Vinnhorst
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HVIN
+railway:station_category=4
+tactile_paving=yes
+uic_ref=8006089
+wheelchair=limited
+wikidata=Q23906784
+id=node/29363851</desc></wpt><wpt lat="51.6441693" lon="10.3297726"><name>node/29688266</name><desc>id=node/29688266</desc></wpt><wpt lat="52.9165346" lon="8.8100791"><name>Syke</name><desc>alt_name=Syke (VGH)
+name=Syke
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HSYK
+railway:station_category=4
+ref=2200
+ref:station=6128
+source=http://daten.zvbn.de/ssb/steckbrief.php?hstnr=8005809
+uic_ref=8005809
+wheelchair=yes
+wikidata=Q28859934
+id=node/29976784</desc></wpt><wpt lat="52.8653496" lon="9.6012119"><name>Walsrode</name><desc>name=Walsrode
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HWSR
+railway:station_category=6
+uic_ref=8006193
+wheelchair=yes
+wikidata=Q23018555
+id=node/30896623</desc></wpt><wpt lat="53.2333987" lon="8.8182576"><name>Ahrensfelde (Bz Bremen)</name><desc>name=Ahrensfelde (Bz Bremen)
+public_transport=station
+railway=station
+railway:ref=AARF
+usage=tourism
+id=node/31086812</desc></wpt><wpt lat="53.226606" lon="8.9154764"><name>Worpswede</name><desc>name=Worpswede
+operator=Eisenbahnen und Verkehrsbetriebe Elbe-Weser
+preserved=yes
+public_transport=station
+railway=station
+railway:ref=AWPW
+train=yes
+wheelchair=yes
+id=node/31087358</desc></wpt><wpt lat="53.0785165" lon="10.573915"><name>Bad Bevensen</name><desc>name=Bad Bevensen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ABVS
+ref:IFOPT:DB=de:03360:4302
+toilets:wheelchair=no
+uic_ref=8000935
+wheelchair=yes
+wheelchair:description=Stufenloser Eingang auf der Rückseite des Gebäudes
+wikidata=Q22917116
+id=node/31328482</desc></wpt><wpt lat="52.8690357" lon="10.89041"><name>Schnega</name><desc>name=Schnega
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HSCG
+railway:station_category=6
+train=yes
+uic_ref=8000440
+wheelchair=yes
+wikidata=Q801415
+id=node/32881722</desc></wpt><wpt lat="52.8926052" lon="10.655688"><name>Wieren</name><desc>name=Wieren
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HWRN
+railway:station_category=6
+uic_ref=8006402
+wheelchair=yes
+wikidata=Q22954782
+id=node/32881724</desc></wpt><wpt lat="53.6180213" lon="8.7414279"><name>Drangstedt</name><desc>name=Drangstedt
+railway=station
+usage=tourism
+wikidata=Q113204800
+id=node/32911801</desc></wpt><wpt lat="53.6303723" lon="8.8279184"><name>Museumsbahnhof Bad Bederkesa</name><desc>ele:local=6
+name=Museumsbahnhof Bad Bederkesa
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=limited
+id=node/32911848</desc></wpt><wpt lat="52.2672784" lon="10.6855896"><name>Schandelah</name><desc>name=Schandelah
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HSDL
+wheelchair=no
+wikidata=Q16899851
+wikipedia=en:Schandelah railway station
+id=node/34706850</desc></wpt><wpt lat="52.257107" lon="10.8126962"><name>Königslutter</name><desc>name=Königslutter
+public_transport=station
+railway=station
+railway:ref=HKOL
+uic_ref=8003382
+wheelchair=yes
+wikidata=Q16893634
+id=node/34706876</desc></wpt><wpt lat="52.2220333" lon="11.0105391"><name>Helmstedt</name><desc>departures_board=timetable
+name=Helmstedt
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHLM
+railway:station_category=4
+shelter=yes
+tactile_paving=yes
+uic_ref=8000159
+wheelchair=yes
+wikidata=Q11708873
+id=node/34706932</desc></wpt><wpt lat="53.4727572" lon="9.1953982"><name>Hesedorf</name><desc>name=Hesedorf
+public_transport=station
+railway=station
+wikidata=Q5745566
+id=node/40612316</desc></wpt><wpt lat="52.2794663" lon="9.5725715"><name>Wennigsen (Deister)</name><desc>name=Wennigsen (Deister)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HWSN
+railway:station_category=5
+uic_ref=8006336
+wheelchair=yes
+wikidata=Q23682919
+id=node/48172337</desc></wpt><wpt lat="52.4136185" lon="10.523316"><name>Rötgesbüttel</name><desc>addr:city=Rötgesbüttel
+addr:housenumber=1
+addr:postcode=38531
+addr:street=Alte Heerstraße
+name=Rötgesbüttel
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:1982-2020=halt
+railway:ref=HROT
+railway:station_category=7
+ref:station=5384
+train=yes
+uic_ref=8005137
+wikidata=Q27431034
+id=node/52686024</desc></wpt><wpt lat="52.3796851" lon="9.3890908"><name>Haste</name><desc>name=Haste
+official_name=Haste (Han)
+operator=DB InfraGOAG
+public_transport=station
+railway=station
+railway:ref=HHAS
+railway:station_category=4
+ref:station=2587
+train=yes
+uic_ref=8002634
+wheelchair=yes
+wikidata=Q15223256
+wikipedia=en:Haste (Han) station
+id=node/57821469</desc></wpt><wpt lat="52.1952696" lon="9.8148582"><name>Barnten</name><desc>name=Barnten
+old_operator=DB Netz AG;DB Station&amp;Service AG
+old_operator:wikidata=Q896765; Q1152119
+old_operator:wikipedia=de:DB Netz; de:DB Station&amp;Service
+operator=DB InfraGO AG
+operator:type=public
+operator:wikidata=Q122870674
+operator:wikipedia=de:DB InfraGO
+public_transport=station
+railway=station
+railway:ref=HBNT
+railway:station_category=6
+uic_name=Barnten
+uic_ref=8000808
+wheelchair=yes
+wikidata=Q23901809
+id=node/82975880</desc></wpt><wpt lat="53.0969197" lon="9.1337373"><name>Ottersberg</name><desc>name=Ottersberg
+public_transport=station
+railway=station
+railway:ref=AOBG
+wheelchair=limited
+wikidata=Q16061771
+id=node/88945566</desc></wpt><wpt lat="53.144191" lon="8.2231132"><name>Oldenburg (Oldb) Hbf</name><desc>alt_name=Oldenburg Hbf
+image=File:Oldenburg Hbf1.jpg
+name=Oldenburg (Oldb) Hbf
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HOLD
+railway:station_category=2
+ref:station=4765
+train=yes
+uic_ref=8000291
+wheelchair=no
+wikidata=Q543350
+wikipedia=de:Oldenburg (Oldenburg) Hauptbahnhof
+id=node/91753264</desc></wpt><wpt lat="52.3189555" lon="10.2306793"><name>Peine</name><desc>name=Peine
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HP
+railway:station_category=5
+toilets:wheelchair=no
+uic_ref=8004760
+wheelchair=yes
+wikidata=Q11815432
+id=node/94566955</desc></wpt><wpt lat="53.2021623" lon="7.8867806"><name>Westerstede-Ocholt</name><desc>name=Westerstede-Ocholt
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HOCH
+railway:station_category=5
+train=yes
+uic_ref=8004610
+wheelchair=no
+wikidata=Q15945001
+id=node/99707277</desc></wpt><wpt lat="53.1824713" lon="8.0037823"><name>Bad Zwischenahn</name><desc>name=Bad Zwischenahn
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HZWI
+railway:station_category=5
+train=yes
+uic_ref=8000770
+wheelchair=yes
+wheelchair:description=Bahnsteige und Regio-S-Bahn stufenlos zugänglich. RE und IC nur mit Zustiegshilfe
+wikidata=Q9164004
+id=node/99707282</desc></wpt><wpt lat="52.4597761" lon="8.3613083"><name>Lemförde</name><desc>name=Lemförde
+operator=Deutsche Bahn
+public_transport=station
+railway=station
+railway:ref=HLMF
+railway:station_category=5
+train=yes
+wheelchair=no
+wikidata=Q6521128
+id=node/122174126</desc></wpt><wpt lat="52.7074019" lon="8.5101934"><name>Barnstorf</name><desc>name=Barnstorf
+public_transport=station
+railway=station
+railway:ref=HBNF
+railway:station_category=5
+uic_ref=8000807
+wheelchair=yes
+wikidata=Q4861982
+id=node/122174200</desc></wpt><wpt lat="53.1836829" lon="8.4753993"><name>Berne</name><desc>name=Berne
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBER
+railway:station_category=6
+train=yes
+uic_ref=8000913
+wheelchair=no
+wikidata=Q4894097
+id=node/148954098</desc></wpt><wpt lat="52.3328283" lon="9.1893212"><name>Stadthagen</name><desc>name=Stadthagen
+operator=DB Netz AG
+platforms=2
+public_transport=station
+railway=station
+railway:ref=HSHG
+railway:station_category=4
+uic_ref=8005662
+wheelchair=yes
+wikidata=Q7596531
+wikipedia:en=Stadthagen station
+id=node/162056714</desc></wpt><wpt lat="52.5093677" lon="9.1099414"><name>Leese-Stolzenau</name><desc>addr:city=Leese
+addr:postcode=31633
+addr:street=Bahnhofstraße
+ele:local=37
+name=Leese-Stolzenau
+network=Bahnstrecke Nienburg-Minden
+operator=Deutsche Bahn AG
+outdoor_seating=no
+public_transport=station
+railway=station
+railway:ref=HLST
+railway:station_category=6
+source:ele=Schild an Bahnhofsgebäude
+toilets:wheelchair=yes
+train=yes
+uic_ref=8000335
+website=https://www.bahnhof.de/leese-stolzenau
+wheelchair=yes
+wikidata=Q21674898
+wikipedia=de:Bahnhof Leese-Stolzenau
+id=node/174045577</desc></wpt><wpt lat="52.674409" lon="7.9478562"><name>Quakenbrück</name><desc>name=Quakenbrück
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HQ
+railway:station_category=6
+uic_ref=8000304
+wheelchair=yes
+wikidata=Q801339
+wikipedia=de:Bahnhof Quakenbrück
+id=node/186698358</desc></wpt><wpt lat="52.3542551" lon="9.2884643"><name>Lindhorst</name><desc>name=Lindhorst
+official_name=Lindhorst (Schaumb-Lippe)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLH
+railway:station_category=6
+uic_ref=8003699
+wheelchair=yes
+wikidata=Q6552494
+wikipedia=en:Lindhorst railway station
+id=node/206146297</desc></wpt><wpt lat="53.4986962" lon="8.9729312"><name>Heinschenwalde</name><desc>name=Heinschenwalde
+public_transport=station
+railway=station
+wheelchair=yes
+wikidata=Q15223499
+id=node/231422637</desc></wpt><wpt lat="51.6584816" lon="9.3927624"><name>Lauenförde-Beverungen</name><desc>name=Lauenförde-Beverungen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLFO
+railway:station_category=6
+train=yes
+uic_ref=8003578
+wheelchair=yes
+wikidata=Q6497925
+id=node/243453823</desc></wpt><wpt lat="51.9050315" lon="10.478133"><name>Oker</name><desc>local_ref=2
+name=Oker
+operator=DB InfraGO AG
+public_transport=stop_position
+railway=station
+train=yes
+id=node/243530834</desc></wpt><wpt lat="52.5083548" lon="8.0595371"><name>Neuenkirchen (Oldb)</name><desc>ele=40.60
+name=Neuenkirchen (Oldb)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HNKO
+railway:station_category=6
+uic_ref=8004271
+wheelchair=yes
+wikidata=Q7001637
+id=node/243755578</desc></wpt><wpt lat="52.3173696" lon="9.7924818"><name>Hannover Messe/Laatzen</name><desc>name=Hannover Messe/Laatzen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHML
+railway:station_category=4
+ref:station=3488
+uic_ref=8003487
+wheelchair=yes
+wikidata=Q314955
+wikipedia=de:Bahnhof Hannover Messe/Laatzen
+id=node/250587750</desc></wpt><wpt lat="53.3874932" lon="10.1094826"><name>Stelle</name><desc>hvv:psv_type=R
+name=Stelle
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ASTE
+toilets:wheelchair=no
+wheelchair=no
+wikidata=Q21514349
+id=node/250667353</desc></wpt><wpt lat="52.6209837" lon="10.0625843"><name>Celle</name><desc>name=Celle
+operator=DB InfraGO
+phone=+49 5141933975
+public_transport=station
+railway=station
+railway:ref=HC
+railway:station_category=3
+toilets:wheelchair=no
+uic_ref=8000064
+wheelchair=yes
+wheelchair:description=Mitte 2010 wurden Fahrstühle eingebaut, jetzt kann mann alle Gleisen gut erreichen.
+wikidata=Q23065531
+id=node/252367716</desc></wpt><wpt lat="53.1423811" lon="10.4842244"><name>Bienenbüttel</name><desc>name=Bienenbüttel
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ABIL
+wheelchair=yes
+wikidata=Q22917038
+id=node/258840104</desc></wpt><wpt lat="51.421603" lon="9.9147429"><name>Friedland (Han)</name><desc>addr:city=Friedland
+addr:housenumber=2
+addr:postcode=37133
+addr:street=Bahnhofstraße
+internet_access=no
+name=Friedland (Han)
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:position=233.441
+railway:ref=HFRI
+railway:station_category=6
+ref:station=1937
+short_name=Friedland (Han)
+train=yes
+uic_ref=8002102
+wheelchair=limited
+wikidata=Q25333092
+id=node/258849704</desc></wpt><wpt lat="52.7291936" lon="8.280409"><name>Vechta</name><desc>ele=32.80
+name=Vechta
+note=Die offizielle Bezeichung ist "Vechta", nicht "Hauptbahnhof".
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HVCH
+railway:station_category=6
+uic_ref=8006061
+wheelchair=yes
+wikidata=Q7917748
+id=node/262201193</desc></wpt><wpt lat="52.4798815" lon="9.7363906"><name>Langenhagen-Kaltenweide</name><desc>departures_board=no
+name=Langenhagen-Kaltenweide
+network=Großraum-Verkehr Hannover
+network:short=GVH
+network:wikidata=Q1549516
+public_transport=station
+railway=station
+railway:ref=HKAW
+railway:station_category=5
+train=yes
+uic_ref=8003165
+wheelchair=yes
+wikidata=Q23920227
+id=node/265704446</desc></wpt><wpt lat="53.7460046" lon="7.4860202"><name>Langeoog</name><desc>check_date=2025-04-10
+departures_board=timetable
+name=Langeoog
+operator=Schiffahrt der Inselgemeinde Langeoog
+public_transport=station
+railway=station
+toilets:wheelchair=yes
+wheelchair=yes
+id=node/267539828</desc></wpt><wpt lat="53.0990583" lon="8.5329662"><name>Bookholzberg</name><desc>addr:city=Ganderkesee
+addr:postcode=27777
+addr:street=Stedinger Straße
+name=Bookholzberg
+public_transport=station
+railway=station
+railway:ref=HBHB
+railway:station_category=6
+train=yes
+uic_ref=8001089
+wheelchair=yes
+wikidata=Q15709290
+id=node/268436273</desc></wpt><wpt lat="52.4326856" lon="8.8069549"><name>Bohnhorst</name><desc>name=Bohnhorst
+operator=RSE - MRU
+public_transport=station
+railway=station
+usage=tourism
+id=node/268466125</desc></wpt><wpt lat="52.4248026" lon="8.7393514"><name>Lavelsloh-Diepenau</name><desc>addr:city=Diepenau
+addr:postcode=31603
+name=Lavelsloh-Diepenau
+operator=RSE - MRU
+public_transport=station
+railway=station
+usage=tourism
+id=node/268466126</desc></wpt><wpt lat="53.3286418" lon="8.4811634"><name>Brake (Unterweser)</name><desc>name=Brake (Unterweser)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBKE
+railway:station_category=6
+uic_name=Brake(Unterweser)
+uic_ref=8001120
+wikidata=Q4956016
+id=node/268642884</desc></wpt><wpt lat="52.2729063" lon="8.0615665"><name>Osnabrück Hauptbahnhof</name><desc>addr:city=Osnabrück
+addr:country=DE
+addr:housenumber=2
+addr:postcode=49074
+addr:street=Theodor-Heuss-Platz
+contact:website=http://www.bahnhof.de/bahnhof-de/Osnabrueck_Hbf.html?hl=osnabr%C3%BCck%20Hbf
+departures_board=realtime
+departures_board:speech_output=no
+description:url=http://daten.zvbn.de/ssb/steckbrief.php?hstnr=8000294&amp;VOS
+name=Osnabrück Hauptbahnhof
+network=DB Regio
+network:wikidata=Q18853
+operator=Deutsche Bahn
+operator:wikidata=Q9322
+public_transport=station
+railway=station
+railway:ref=HO
+railway:station_category=2
+ref=2200
+short_name=Osnabrück Hbf
+toilets:wheelchair=yes
+train=yes
+uic_ref=8000294
+wheelchair=yes
+wikidata=Q464355
+wikimedia_commons=Category:Osnabrück Hauptbahnhof
+wikipedia=de:Osnabrück Hauptbahnhof
+id=node/268894281</desc></wpt><wpt lat="52.9943571" lon="8.8184926"><name>Leeste</name><desc>disused:railway=station
+name=Leeste
+network=Museumsbahn Pingelheini
+operator=Kleinbahn Leeste e.V.
+public_transport=station
+railway=station
+train=yes
+usage=tourism
+id=node/276284525</desc></wpt><wpt lat="52.9465795" lon="8.8182379"><name>Barrien</name><desc>name=Barrien
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBAR
+railway:station_category=6
+uic_ref=8000810
+wikidata=Q19720526
+id=node/277361622</desc></wpt><wpt lat="53.0241342" lon="8.6502083"><name>Annenheide</name><desc>name=Annenheide
+operator=Delmenhorst-Harpstedter Eisenbahn GmbH
+public_transport=station
+railway=station
+usage=tourism
+id=node/277533219</desc></wpt><wpt lat="52.9110425" lon="8.6007113"><name>Harpstedt</name><desc>name=Harpstedt
+operator=Delmenhorst-Harpstedter Eisenbahn GmbH
+public_transport=station
+railway=station
+usage=tourism
+id=node/277545109</desc></wpt><wpt lat="52.8278066" lon="8.9899376"><name>Bruchhausen-Vilsen</name><desc>name=Bruchhausen-Vilsen
+operator=Verkehrsbetriebe Grafschaft Hoya GmbH
+preserved=yes
+public_transport=station
+railway=station
+train=yes
+usage=tourism
+wheelchair=yes
+wikidata=Q114913126
+id=node/277546335</desc></wpt><wpt lat="52.5418755" lon="7.8778933"><name>Ankum</name><desc>internet_access=no
+name=Ankum
+operator=Ankum-Bersenbrücker Eisenbahn
+railway=station
+usage=freight
+id=node/286256913</desc></wpt><wpt lat="52.3228782" lon="7.3509592"><name>Salzbergen</name><desc>internet_access=no
+name=Salzbergen
+operator=DB Netz AG
+platforms=4
+public_transport=station
+railway=station
+railway:ref=HSAL
+railway:station_category=4
+uic_ref=8005262
+wheelchair=no
+wikidata=Q7406984
+id=node/288916670</desc></wpt><wpt lat="53.0482602" lon="8.6407313"><name>Delmenhorst Süd</name><desc>alt_name=Delmenhorst DHE
+name=Delmenhorst Süd
+operator=Delmenhorst-Harpstedter Eisenbahn GmbH
+public_transport=station
+railway=station
+railway:station_category=7
+usage=tourism
+id=node/288917818</desc></wpt><wpt lat="53.0523386" lon="7.3371499"><name>Aschendorf</name><desc>name=Aschendorf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HASD
+wheelchair=limited
+wikidata=Q4803880
+id=node/289689769</desc></wpt><wpt lat="53.0898943" lon="7.3869777"><name>Papenburg</name><desc>alt_name=Papenburg (Ems)
+name=Papenburg
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HPAP
+railway:station_category=4
+train=yes
+uic_ref=8004751
+wheelchair=yes
+wikidata=Q7132569
+wikipedia=de:Bahnhof Papenburg
+id=node/289857892</desc></wpt><wpt lat="51.8200149" lon="9.453716"><name>Holzminden</name><desc>name=Holzminden
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHZM
+railway:station_category=5
+uic_ref=8000391
+wheelchair=limited
+wikidata=Q24451788
+id=node/290247419</desc></wpt><wpt lat="52.3078753" lon="9.1197259"><name>Kirchhorsten</name><desc>name=Kirchhorsten
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HKHN
+railway:station_category=6
+train=yes
+uic_ref=8003286
+wheelchair=yes
+wikidata=Q2657920
+wikipedia:en=Kirchhorsten railway station
+id=node/292912676</desc></wpt><wpt lat="52.6049309" lon="8.3805296"><name>Diepholz</name><desc>name=Diepholz
+operator=Deutsche Bahn
+public_transport=station
+railway=station
+railway:ref=HDIP
+railway:station_category=4
+ref=2200
+uic_ref=8001443
+wheelchair=yes
+wikidata=Q5274966
+wikipedia=de:Bahnhof Diepholz
+id=node/293424465</desc></wpt><wpt lat="52.8206382" lon="8.9924389"><name>Vilsen Ort</name><desc>name=Vilsen Ort
+railway=station
+usage=tourism
+wheelchair=yes
+id=node/295417698</desc></wpt><wpt lat="53.2650609" lon="10.1187018"><name>Toppenstedt</name><desc>name=Toppenstedt
+public_transport=station
+railway=station
+usage=tourism
+id=node/296003258</desc></wpt><wpt lat="52.4393852" lon="7.9675222"><name>Hesepe</name><desc>ele=45.20
+name=Hesepe
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHES
+railway:station_category=6
+train=yes
+uic_ref=8000167
+wheelchair=yes
+wikidata=Q5745578
+wikipedia:en=Hesepe railway station
+id=node/296247953</desc></wpt><wpt lat="53.1657963" lon="9.4968783"><name>Scheeßel</name><desc>internet_access=no
+name=Scheeßel
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=ASL
+railway:station_category=5
+website=https://www.bahnhof.de/bahnhof-de/bahnhof/Schee-C3-9Fel-1025816
+wheelchair=limited
+wikidata=Q995870
+id=node/296760670</desc></wpt><wpt lat="52.7364286" lon="7.758701"><name>Löningen</name><desc>name=Löningen
+railway=station
+usage=tourism
+wheelchair=no
+wikidata=Q105942626
+id=node/298164050</desc></wpt><wpt lat="51.8809556" lon="9.6204051"><name>Stadtoldendorf</name><desc>name=Stadtoldendorf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HSDF
+railway:station_category=6
+uic_ref=8005665
+wheelchair=limited
+wikidata=Q24423668
+id=node/301881101</desc></wpt><wpt lat="52.8015499" lon="8.9748753"><name>Heiligenberg (DEV)</name><desc>name=Heiligenberg (DEV)
+railway=station
+usage=tourism
+wheelchair=yes
+id=node/302684983</desc></wpt><wpt lat="53.7262059" lon="7.4938931"><name>Fährhafen</name><desc>name=Fährhafen
+operator=Schiffahrt der Inselgemeinde Langeoog
+public_transport=station
+railway=station
+wheelchair=yes
+id=node/303303512</desc></wpt><wpt lat="52.9444233" lon="8.2406337"><name>Großenkneten</name><desc>name=Großenkneten
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HGRK
+railway:station_category=6
+uic_ref=8002412
+wheelchair=yes
+wikidata=Q21486086
+id=node/304105439</desc></wpt><wpt lat="52.8438996" lon="8.055793"><name>Cloppenburg</name><desc>addr:city=Cloppenburg
+addr:housenumber=82
+addr:postcode=49661
+addr:street=Bahnhofstraße
+internet_access=no
+name=Cloppenburg
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HCLP
+railway:station_category=6
+toilets:wheelchair=yes
+uic_ref=8001337
+wheelchair=yes
+wikidata=Q21486408
+id=node/304322190</desc></wpt><wpt lat="53.7786516" lon="8.6213416"><name>Nordholz</name><desc>name=Nordholz
+public_transport=station
+railway=station
+wikidata=Q21421807
+id=node/305478146</desc></wpt><wpt lat="53.1971209" lon="9.5640765"><name>Lauenbrück</name><desc>name=Lauenbrück
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ALUB
+railway:station_category=5
+uic_name=Lauenbrück
+uic_ref=8003576
+wheelchair=yes
+wikidata=Q16061828
+id=node/306432974</desc></wpt><wpt lat="53.4836371" lon="8.4873904"><name>Nordenham</name><desc>name=Nordenham
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HNO
+railway:station_category=6
+uic_ref=8004452
+wheelchair=yes
+wikidata=Q7050611
+id=node/307623233</desc></wpt><wpt lat="53.4010753" lon="8.4552785"><name>Rodenkirchen (Oldb)</name><desc>name=Rodenkirchen (Oldb)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HRDK
+railway:station_category=5
+uic_name=Rodenkirchen(Oldb)
+uic_ref=8005119
+wheelchair=yes
+wikidata=Q7356535
+id=node/307849376</desc></wpt><wpt lat="53.2340614" lon="8.4640555"><name>Elsfleth</name><desc>name=Elsfleth
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HELS
+railway:station_category=6
+train=yes
+uic_ref=8001760
+wheelchair=yes
+wikidata=Q5367548
+id=node/307856927</desc></wpt><wpt lat="52.4234993" lon="10.7174392"><name>Fallersleben</name><desc>name=Fallersleben
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HF
+railway:station_category=5
+ref:station=1759
+train=yes
+uic_ref=8001957
+wheelchair=yes
+wikidata=Q5432263
+id=node/311539608</desc></wpt><wpt lat="52.7234288" lon="7.9454061"><name>Essen (Oldenburg)</name><desc>name=Essen (Oldenburg)
+official_name=Essen (Oldb)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HESN
+railway:station_category=6
+uic_ref=8001899
+wheelchair=yes
+wikidata=Q21487048
+id=node/313098519</desc></wpt><wpt lat="52.7850347" lon="7.3013828"><name>Haren (Ems)</name><desc>name=Haren (Ems)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHAR
+railway:station_category=6
+uic_ref=8002598
+wikidata=Q5656875
+id=node/319785121</desc></wpt><wpt lat="53.2299046" lon="10.129595"><name>Gödenstorf-Oelstorf</name><desc>description=Gödenstorf-Oelstorf Bahnhof, Gleis 1
+name=Gödenstorf-Oelstorf
+operator=OHE
+public_transport=station
+railway=station
+train=yes
+usage=industrial
+wheelchair=no
+id=node/321673410</desc></wpt><wpt lat="53.269632" lon="10.625527"><name>Neetze</name><desc>name=Neetze
+operator=Bleckeder Kleinbahn UG
+public_transport=stop_position
+railway=station
+tourism=yes
+train=yes
+wheelchair=yes
+id=node/322790580</desc></wpt><wpt lat="53.2209059" lon="7.7592462"><name>Augustfehn</name><desc>name=Augustfehn
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HAUG
+railway:station_category=5
+uic_ref=8000664
+wheelchair=yes
+wheelchair:description=Beide Bahnsteige stufenlos erreichbar.
+wikidata=Q15193988
+id=node/331311206</desc></wpt><wpt lat="52.2521444" lon="10.5403354"><name>Braunschweig Hauptbahnhof</name><desc>addr:city=Braunschweig
+addr:housenumber=13
+addr:postcode=38102
+addr:street=Willy-Brandt-Platz
+departures_board=realtime
+name=Braunschweig Hauptbahnhof
+note="Braunschweig Hbf" (mit "Hbf" als Abkürzung für "Hauptbahnhof") ist die offizielle Betriebsstellenbezeichnung laut Betriebsstellenverzeichnis und Online-Fahrplanausukunft
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HBS
+railway:station_category=2
+ref:station=835
+short_name=Braunschweig Hbf
+train=yes
+uic_ref=8000049
+wheelchair=yes
+wikidata=Q318930
+wikipedia=de:Braunschweig Hauptbahnhof
+id=node/333165742</desc></wpt><wpt lat="52.4294853" lon="10.7871395"><name>Wolfsburg Hauptbahnhof</name><desc>name=Wolfsburg Hauptbahnhof
+network=DB
+on_demand=no
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HWOB
+railway:station_category=2
+request_stop=yes
+shelter=yes
+short_name=Wolfsburg Hbf
+tactile_paving=yes
+train=yes
+uic_ref=8006552
+url=https://www.bahnhof.de/wolfsburg-hbf
+wheelchair=yes
+wikidata=Q455346
+wikipedia=de:Wolfsburg Hauptbahnhof
+id=node/338899629</desc></wpt><wpt lat="52.9991949" lon="9.1238935"><name>Etelsen</name><desc>addr:city=Langwedel
+addr:country=DE
+addr:housenumber=7
+addr:postcode=27299
+addr:street=Am Etelser Bahnhof
+departures_board=realtime
+departures_board:speech_output=no
+name=Etelsen
+network=Verkehrsverbund Bremen/Niedersachsen
+network:short=VBN
+network:wikidata=Q1306245
+operator=DB Station&amp;Service AG
+operator:wikidata=Q1152119
+public_transport=station
+railway=station
+railway:ref=HETL
+railway:station_category=4
+train=yes
+uic_ref=8001924
+wheelchair=yes
+wikidata=Q15945165
+id=node/347475456</desc></wpt><wpt lat="52.977957" lon="9.1947349"><name>Langwedel</name><desc>addr:city=Langwedel
+addr:country=DE
+addr:housenumber=1
+addr:postcode=27299
+addr:street=An der Waage
+name=Langwedel
+network=Verkehrsverbund Bremen/Niedersachsen
+network:short=VBN
+network:wikidata=Q1306245
+operator=DB Station&amp;Service AG
+operator:wikidata=Q1152119
+public_transport=station
+railway=station
+railway:ref=HLGW
+railway:station_category=4
+train=yes
+uic_ref=8000586
+wheelchair=yes
+wikidata=Q15944988
+id=node/347475804</desc></wpt><wpt lat="52.8468216" lon="9.2464731"><name>Dörverden</name><desc>addr:city=Dörverden
+addr:country=DE
+addr:housenumber=2
+addr:postcode=27313
+addr:street=Stedorfer Bahnhofstraße
+name=Dörverden
+network=Verkehrsverbund Bremen/Niedersachsen
+network:short=VBN
+network:wikidata=Q1306245
+operator=DB Station&amp;Service AG
+operator:wikidata=Q1152119
+public_transport=station
+railway=station
+railway:ref=HDVD
+railway:station_category=6
+tactile_paving=yes
+uic_ref=8001489
+wheelchair=yes
+wikidata=Q15944979
+id=node/347476808</desc></wpt><wpt lat="52.4109547" lon="7.9749336"><name>Bramsche</name><desc>name=Bramsche
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBRM
+railway:station_category=5
+toilets:wheelchair=no
+uic_ref=8001122
+wheelchair=yes
+wikidata=Q4956276
+wikipedia=de:Bahnhof Bramsche
+wikipedia:en=Bramsche railway station
+id=node/358489000</desc></wpt><wpt lat="52.7916813" lon="8.6444668"><name>Twistringen</name><desc>name=Twistringen
+operator=Deutsche Bahn
+public_transport=station
+railway=station
+railway:ref=HT
+railway:station_category=5
+ref=2200
+wheelchair=yes
+wheelchair:description=Zugang zum Bahnhofsgebäude über Gleis 1, dort auch Fahrkartenautomat, Gleis 1 barrierefrei, Aufzug zu Gleis 2 und 3 in Bau
+wikidata=Q278450
+id=node/376015408</desc></wpt><wpt lat="53.2254508" lon="10.1637953"><name>Salzhausen</name><desc>name=Salzhausen
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=no
+id=node/381305565</desc></wpt><wpt lat="53.6017212" lon="8.5967745"><name>Langen (Hannover)</name><desc>name=Langen (Hannover)
+public_transport=station
+railway=station
+usage=tourism
+id=node/401890749</desc></wpt><wpt lat="52.6772097" lon="7.484502"><name>Haselünne</name><desc>name=Haselünne
+public_transport=station
+railway=station
+usage=tourism
+wikidata=Q107549366
+id=node/413446105</desc></wpt><wpt lat="53.1013048" lon="9.2502282"><name>Sottrum</name><desc>internet_access=no
+name=Sottrum
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=AS
+railway:station_category=5
+train=yes
+website=https://www.bahnhof.de/bahnhof-de/bahnhof/Sottrum-1027568
+wheelchair=yes
+wikidata=Q16061782
+id=node/413482785</desc></wpt><wpt lat="52.3357702" lon="10.1681693"><name>node/421412211</name><desc>id=node/421412211</desc></wpt><wpt lat="53.1299834" lon="10.2159754"><name>Amelinghausen-Sottorf</name><desc>name=Amelinghausen-Sottorf
+railway=station
+usage=tourism
+id=node/425181957</desc></wpt><wpt lat="52.3170556" lon="7.2222624"><name>Schüttorf</name><desc>local_ref=2
+name=Schüttorf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HSTT
+railway:station_category=6
+train=yes
+uic_ref=8005436
+wheelchair=yes
+wikidata=Q7433366
+id=node/427530099</desc></wpt><wpt lat="53.2555231" lon="8.9589714"><name>Neu St Jürgen</name><desc>name=Neu St Jürgen
+operator=Eisenbahnen und Verkehrsbetriebe Elbe-Weser
+public_transport=station
+railway=station
+railway:ref=ANSJ
+train=yes
+usage=tourism
+id=node/430887898</desc></wpt><wpt lat="52.8036798" lon="9.1413035"><name>Hoya (Weser)</name><desc>name=Hoya (Weser)
+railway=station
+usage=tourism
+id=node/477397912</desc></wpt><wpt lat="52.8609825" lon="7.3224991"><name>Lathen</name><desc>name=Lathen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLAT
+railway:station_category=6
+uic_ref=8003563
+wheelchair=yes
+wikidata=Q6495903
+id=node/523978674</desc></wpt><wpt lat="52.5510956" lon="7.9426233"><name>Bersenbrück</name><desc>name=Bersenbrück
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBBR
+railway:station_category=6
+uic_ref=8000919
+wheelchair=yes
+wikidata=Q11687784
+wikipedia:nl=Station Bersenbrück
+id=node/530444091</desc></wpt><wpt lat="53.788811" lon="7.8510835"><name>Westen</name><desc>name=Westen
+official_name=Wangerooge Westen
+operator=DB Fernverkehr AG
+railway=station
+railway:ref=HWN
+wheelchair=yes
+wikidata=Q123864213
+id=node/531034541</desc></wpt><wpt lat="52.335403" lon="10.1688959"><name>node/570177060</name><desc>id=node/570177060</desc></wpt><wpt lat="52.1498049" lon="8.0380194"><name>Bad Iburg</name><desc>name=Bad Iburg
+operator=Lappwaldbahn
+railway=station
+usage=tourism
+id=node/601471874</desc></wpt><wpt lat="52.8992486" lon="8.2094331"><name>Ahlhorn</name><desc>name=Ahlhorn
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HAHO
+railway:station_category=6
+uic_ref=8000442
+wheelchair=yes
+wikidata=Q21486106
+id=node/602636458</desc></wpt><wpt lat="52.5014215" lon="8.9081995"><name>Uchte</name><desc>name=Uchte
+operator=RSE - MRU
+public_transport=station
+railway=station
+usage=tourism
+id=node/617223487</desc></wpt><wpt lat="52.6014664" lon="9.3251955"><name>Linsburg</name><desc>addr:postcode=31636
+name=Linsburg
+outdoor_seating=no
+public_transport=station
+railway=station
+railway:ref=HLBU
+railway:station_category=6
+train=yes
+uic_ref=8003705
+website=https://www.bahnhof.de/linsburg
+wheelchair=yes
+wikidata=Q6554790
+id=node/630645671</desc></wpt><wpt lat="52.3977416" lon="7.3058986"><name>Leschede</name><desc>internet_access=no
+name=Leschede
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLED
+railway:station_category=6
+uic_name=Leschede
+uic_ref=8003656
+wheelchair=yes
+wikidata=Q6530285
+id=node/713400803</desc></wpt><wpt lat="53.5422374" lon="7.9462073"><name>Schortens-Heidmühle</name><desc>addr:city=Schortens
+addr:postcode=26419
+name=Schortens-Heidmühle
+public_transport=station
+railway=station
+railway:ref=HHDM
+train=yes
+uic_ref=8002695
+wheelchair=yes
+wheelchair:description=Alle Bahnsteige ebenerdig zugänglich
+wikidata=Q21169879
+id=node/737689165</desc></wpt><wpt lat="53.6890998" lon="8.5759406"><name>Dorum</name><desc>name=Dorum
+public_transport=station
+railway=station
+wheelchair=yes
+wikidata=Q21416449
+id=node/848592936</desc></wpt><wpt lat="53.2904036" lon="10.3721618"><name>Bardowick</name><desc>hvv:psv_type=R
+name=Bardowick
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ABAD
+wikidata=Q21514429
+id=node/860308456</desc></wpt><wpt lat="52.2399266" lon="9.1077046"><name>Bad Eilsen</name><desc>name=Bad Eilsen
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=no
+wikidata=Q108844965
+id=node/993420146</desc></wpt><wpt lat="53.4830339" lon="9.1401462"><name>Bremervörde</name><desc>name=Bremervörde
+operator=Eisenbahnen und Verkehrsbetriebe Elbe-Weser
+public_transport=station
+railway=station
+railway:ref=ABV
+train=yes
+wheelchair=yes
+wikidata=Q4960576
+id=node/1027865206</desc></wpt><wpt lat="52.2136936" lon="10.9102282"><name>Frellstedt</name><desc>name=Frellstedt
+public_transport=station
+railway=station
+railway:ref=HFST
+uic_ref=8002080
+wikidata=Q16891452
+id=node/1139931143</desc></wpt><wpt lat="52.888754" lon="9.3061546"><name>Hohenaverbergen</name><desc>description=Museumsbahn
+name=Hohenaverbergen
+operator=Verden-Walsroder Eisenbahn
+operator:short=VWE
+operator:wikidata=Q1720560
+public_transport=station
+railway=station
+railway:preserved=yes
+railway:ref=HHVB
+train=yes
+usage=tourism
+id=node/1190098849</desc></wpt><wpt lat="53.4033627" lon="10.0662668"><name>Maschen</name><desc>hvv:psv_type=R
+layer=1
+level=1
+name=Maschen
+official_name=Maschen Pbf
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=AMA
+short_name=Maschen Pbf
+uic_name=Maschen
+wheelchair=no
+wikidata=Q21514332
+id=node/1237025548</desc></wpt><wpt lat="52.3118892" lon="8.0051498"><name>Zechenbahnhof Piesberg</name><desc>addr:city=Osnabrück
+addr:postcode=49090
+name=Zechenbahnhof Piesberg
+operator=Osnabrücker Dampflokfreunde e.V.
+public_transport=station
+railway=station
+train=yes
+usage=tourism
+wheelchair=limited
+id=node/1242067367</desc></wpt><wpt lat="53.0266664" lon="8.7473363"><name>Stuhr</name><desc>disused:railway=station
+name=Stuhr
+name:ar=اشتور
+name:de=Stuhr
+public_transport=station
+railway=station
+usage=tourism
+id=node/1269844426</desc></wpt><wpt lat="53.7746148" lon="7.8670506"><name>Westanleger</name><desc>name=Westanleger
+official_name=Wangerooge Westanleger
+operator=DB Fernverkehr AG
+public_transport=station
+railway=station
+railway:ref=HWA
+wheelchair=yes
+wikidata=Q123864210
+id=node/1274835530</desc></wpt><wpt lat="51.6437056" lon="10.3299673"><name>node/1280180259</name><desc>id=node/1280180259</desc></wpt><wpt lat="53.5388229" lon="9.4527365"><name>Lütjenkamp</name><desc>name=Lütjenkamp
+opening_hours=May-Sep: Su[3]
+railway=station
+usage=tourism
+website=https://www.kleinbahn-deinste.de/
+id=node/1309111419</desc></wpt><wpt lat="53.1093563" lon="8.4613543"><name>Hude</name><desc>name=Hude
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHUD
+railway:station_category=4
+toilets:wheelchair=no
+train=yes
+uic_ref=8000522
+wheelchair=yes
+wikidata=Q5928360
+id=node/1347965940</desc></wpt><wpt lat="53.3811752" lon="9.008132"><name>Gnarrenburg</name><desc>name=Gnarrenburg
+operator=Eisenbahnen und Verkehrsbetriebe Elbe-Weser
+public_transport=station
+railway=station
+railway:ref=AGNB
+toilets:wheelchair=no
+train=yes
+usage=tourism
+wheelchair=no
+id=node/1382924827</desc></wpt><wpt lat="52.2691364" lon="10.6235226"><name>Weddel (Braunschw)</name><desc>addr:city=Cremlingen
+alt_name=Weddel (Braunschweig)
+name=Weddel (Braunschw)
+note="Weddel (Braunschw)" ist die offizielle Betriebsstellenbezeichnung laut Betriebsstellenverzeichnis und Online-Fahrplanausukunft. Seit 11. Februar ist die ehemalige Abzweigstelle nun Bahnhof.
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HWED
+railway:station_category=6
+ref:station=6574
+train=yes
+wheelchair=no
+wikidata=Q16903037
+wikipedia=en:Weddel railway station
+id=node/1534469979</desc></wpt><wpt lat="52.9248256" lon="11.1329255"><name>Wustrow</name><desc>name=Wustrow
+public_transport=station
+railway=station
+railway:disused=station
+train=yes
+id=node/1545560452</desc></wpt><wpt lat="52.9617804" lon="9.0143101"><name>Thedinghausen</name><desc>name=Thedinghausen
+public_transport=station
+railway=station
+railway:ref=HTDH
+usage=tourism
+wheelchair=no
+id=node/1565106240</desc></wpt><wpt lat="53.0171044" lon="10.416306"><name>Ebstorf</name><desc>name=Ebstorf
+public_transport=stop_position
+railway=station
+railway:ref=HEBS
+railway:station_category=6
+ref=1
+ref:IFOPT=de:3360:22597
+train=yes
+uic_ref=8001645
+wheelchair=limited
+wikidata=Q22977422
+id=node/1689316009</desc></wpt><wpt lat="52.896675" lon="10.1340953"><name>Poitzen</name><desc>disused=yes
+name=Poitzen
+railway=station
+id=node/1709692778</desc></wpt><wpt lat="53.2189343" lon="10.3811859"><name>Rettmer</name><desc>name=Rettmer
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=no
+id=node/1737050762</desc></wpt><wpt lat="52.4740377" lon="10.2298999"><name>Ersepark</name><desc>monorail=yes
+name=Ersepark
+public_transport=station
+railway=station
+id=node/1739581745</desc></wpt><wpt lat="53.5634724" lon="6.7569504"><name>Borkum-Reede</name><desc>name=Borkum-Reede
+operator=Borkumer Kleinbahn und Dampfschiffahrtgesellschaft mbH
+public_transport=stop_position
+railway=station
+train=yes
+wheelchair=limited
+wikidata=Q112692796
+id=node/1782784003</desc></wpt><wpt lat="51.6280709" lon="9.933173"><name>Nörten-Hardenberg</name><desc>departures_board=timetable
+name=Nörten-Hardenberg
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HNTH
+railway:station_category=5
+uic_ref=8004441
+wheelchair=limited
+wikidata=Q801269
+wikipedia=de:Bahnhof Nörten-Hardenberg
+id=node/1801097531</desc></wpt><wpt lat="52.4171577" lon="10.1817151"><name>Dollbergen</name><desc>name=Dollbergen
+public_transport=station
+railway=station
+railway:ref=HDOG
+railway:station_category=5
+train=yes
+wheelchair=no
+wikidata=Q5289262
+id=node/1805468901</desc></wpt><wpt lat="53.5499427" lon="9.4598466"><name>Hagen</name><desc>name=Hagen
+public_transport=station
+railway=station
+usage=tourism
+id=node/1811418887</desc></wpt><wpt lat="53.5319019" lon="9.4426115"><name>Deinste</name><desc>name=Deinste
+public_transport=station
+railway=station
+usage=tourism
+id=node/1811420301</desc></wpt><wpt lat="53.7878223" lon="7.8994713"><name>Wangerooge</name><desc>name=Wangerooge
+operator=DB Fernverkehr AG
+public_transport=station
+railway=station
+railway:ref=HWG
+toilets:wheelchair=yes
+uic_ref=8007766
+wheelchair=yes
+wikidata=Q107094036
+id=node/1828827228</desc></wpt><wpt lat="52.2416839" lon="7.9534745"><name>Hasbergen</name><desc>local_ref=1
+name=Hasbergen
+official_name=Hasbergen (Kr Osnabrück)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHSB
+railway:station_category=6
+train=yes
+uic_ref=8002615
+wheelchair=no
+wikidata=Q800890
+wikipedia=de:Bahnhof Hasbergen
+id=node/1944489622</desc></wpt><wpt lat="52.665427" lon="8.2292774"><name>Lohne (Oldb)</name><desc>ele=34.75
+name=Lohne (Oldb)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLON
+railway:station_category=6
+train=yes
+uic_ref=8003738
+wheelchair=yes
+wikidata=Q6668031
+id=node/1969953533</desc></wpt><wpt lat="53.0131831" lon="8.7831928"><name>Brinkum</name><desc>disused:railway=station
+name=Brinkum
+public_transport=station
+railway=station
+usage=tourism
+id=node/1980204157</desc></wpt><wpt lat="53.0357937" lon="8.7256238"><name>Moordeich</name><desc>disused=yes
+name=Moordeich
+railway=station
+usage=tourism
+id=node/1980204160</desc></wpt><wpt lat="52.4304605" lon="7.0639415"><name>Nordhorn</name><desc>name=Nordhorn
+operator=BE Netz GmbH
+public_transport=station
+railway=station
+train=yes
+id=node/1983650657</desc></wpt><wpt lat="52.5018937" lon="6.9700071"><name>Neuenhaus</name><desc>addr:city=Neuenhaus
+addr:street=Am Bahnhof
+air_conditioning=yes
+internet_access=wlan
+name=Neuenhaus
+operator=Bentheimer Eisenbahn
+public_transport=station
+railway=station
+train=yes
+wheelchair=yes
+wikidata=Q572280
+wikipedia=en:Neuenhaus
+id=node/1983651284</desc></wpt><wpt lat="52.8209222" lon="9.5455214"><name>Hollige</name><desc>name=Hollige
+railway=station
+id=node/2030708217</desc></wpt><wpt lat="53.2727363" lon="10.4759501"><name>Erbstorf</name><desc>name=Erbstorf
+operator=Bleckeder Kleinbahn UG
+public_transport=station
+railway=station
+tourism=yes
+train=yes
+id=node/2054863713</desc></wpt><wpt lat="52.8291439" lon="9.5753906"><name>Benzen</name><desc>internet_access=no
+name=Benzen
+operator=Böhmetalbahn
+public_transport=station
+railway=station
+train=yes
+usage=tourism
+id=node/2057326257</desc></wpt><wpt lat="53.208368" lon="10.1589871"><name>Eyendorf</name><desc>name=Eyendorf
+railway=station
+usage=tourism
+id=node/2172120453</desc></wpt><wpt lat="52.4564203" lon="8.8532912"><name>Warmsen</name><desc>name=Warmsen
+operator=RSE - MRU
+railway=station
+usage=tourism
+id=node/2240190288</desc></wpt><wpt lat="51.6439118" lon="10.3296717"><name>node/2268233021</name><desc>id=node/2268233021</desc></wpt><wpt lat="52.278721" lon="9.513633"><name>Egestorf (Deister)</name><desc>name=Egestorf (Deister)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HEGT
+railway:station_category=5
+uic_ref=8001675
+wheelchair=yes
+wikidata=Q23714171
+id=node/2286071919</desc></wpt><wpt lat="52.8191977" lon="9.5070166"><name>Altenboitzen</name><desc>addr:city=Walsrode
+addr:country=DE
+addr:housenumber=47
+addr:place=Altenboitzen
+addr:postcode=29664
+name=Altenboitzen
+operator=Böhmetalbahn gUG
+railway=station
+usage=tourism
+id=node/2313963933</desc></wpt><wpt lat="53.5371859" lon="9.4497899"><name>Hagel</name><desc>name=Hagel
+railway=station
+usage=tourism
+id=node/2325143322</desc></wpt><wpt lat="51.644596" lon="10.3298847"><name>node/2407686589</name><desc>id=node/2407686589</desc></wpt><wpt lat="53.2928144" lon="10.7361992"><name>Bleckeder Hafen</name><desc>name=Bleckeder Hafen
+public_transport=station
+railway=station
+service=no
+id=node/2425412532</desc></wpt><wpt lat="52.7732392" lon="9.0043322"><name>Asendorf</name><desc>name=Asendorf
+railway=station
+railway:ref=HADF
+usage=tourism
+wheelchair=yes
+id=node/2443633994</desc></wpt><wpt lat="53.3440826" lon="7.1858727"><name>Emden Außenhafen</name><desc>name=Emden Außenhafen
+operator=DB Netz AG
+public_transport=station
+public_transport:version=2
+railway=station
+railway:ref=HEA
+uic_ref=8001767
+wheelchair=yes
+wikidata=Q800727
+id=node/2471022759</desc></wpt><wpt lat="52.2044652" lon="8.4487933"><name>Bruchmühlen</name><desc>ele=104
+name=Bruchmühlen
+network=Verkehrsgemeinschaft Osnabrück
+on_demand=no
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBUE
+railway:station_category=6
+request_stop=yes
+start_date=1855
+uic_ref=8001201
+wheelchair=limited
+wikidata=Q12053729
+wikipedia=de:Bruchmühlen (Melle)#Bildung.2C Verkehr und Wirtschaft
+id=node/2548558424</desc></wpt><wpt lat="53.0077966" lon="9.0814824"><name>Baden (Kr Verden)</name><desc>addr:city=Achim
+addr:country=DE
+addr:housenumber=10
+addr:postcode=28832
+addr:street=Am Badener Bahnhof
+name=Baden (Kr Verden)
+network=Verkehrsverbund Bremen/Niedersachsen
+network:short=VBN
+network:wikidata=Q1306245
+operator=DB Station&amp;Service AG
+operator:wikidata=Q1152119
+public_transport=station
+railway=station
+railway:ref=HBDV
+railway:station_category=5
+train=yes
+uic_ref=8000773
+wheelchair=yes
+wikidata=Q15945156
+id=node/2576177621</desc></wpt><wpt lat="53.5331192" lon="9.4444154"><name>Deinste Klb</name><desc>name=Deinste Klb
+operator=Deutsches Klein- und Feldbahn Museum
+public_transport=station
+railway=station
+usage=tourism
+id=node/2619429495</desc></wpt><wpt lat="53.0851696" lon="9.9937445"><name>Bispingen</name><desc>description=Hier halten nur noch vereinzelt historische Züge - kein Linienverkehr
+name=Bispingen
+railway=station
+usage=tourism
+wheelchair=limited
+id=node/2620169260</desc></wpt><wpt lat="53.2228135" lon="8.7974609"><name>Osterholz-Scharmbeck</name><desc>addr:city=Osterholz-Scharmbeck
+addr:housenumber=2
+addr:postcode=27711
+addr:street=Ladestraße
+name=Osterholz-Scharmbeck
+public_transport=station
+railway=station
+railway:ref=HOSS
+railway:station_category=5
+train=yes
+uic_ref=8004702
+wheelchair=limited
+wikidata=Q7107655
+id=node/2688800382</desc></wpt><wpt lat="52.1018914" lon="9.3762469"><name>Hameln</name><desc>name=Hameln
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHM
+railway:station_category=3
+start_date=1872
+toilets:wheelchair=yes
+uic_ref=8000148
+wheelchair=yes
+wikidata=Q324811
+wikipedia=de:Bahnhof Hameln
+id=node/2691929445</desc></wpt><wpt lat="52.2985023" lon="9.6354391"><name>Weetzen</name><desc>image=https://commons.wikimedia.org/wiki/File:Bahnhof_Weetzen_IMG_4729.jpg
+name=Weetzen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HWEZ
+railway:station_category=4
+uic_ref=8000342
+wheelchair=yes
+wikidata=Q19869151
+id=node/2717715248</desc></wpt><wpt lat="53.2342795" lon="8.9451451"><name>Weyerdeelen-Umbeck</name><desc>name=Weyerdeelen-Umbeck
+operator=Eisenbahnen und Verkehrsbetriebe Elbe-Weser
+public_transport=station
+railway=station
+railway:ref=AWYU
+train=yes
+usage=tourism
+id=node/2786061735</desc></wpt><wpt lat="52.2676541" lon="9.0475472"><name>Bückeburg</name><desc>name=Bückeburg
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBKB
+railway:station_category=4
+uic_ref=8001245
+wheelchair=yes
+wikidata=Q319921
+wikipedia=de:Bahnhof Bückeburg
+id=node/2983200608</desc></wpt><wpt lat="51.9815398" lon="9.8175148"><name>Alfeld (Leine)</name><desc>layer=1
+name=Alfeld (Leine)
+public_transport=station
+railway=station
+railway:ref=HALF
+tactile_paving=yes
+toilets:wheelchair=no
+uic_ref=8000483
+wheelchair=yes
+wikidata=Q9147461
+id=node/3059639299</desc></wpt><wpt lat="52.0660098" lon="9.7504069"><name>Banteln</name><desc>name=Banteln
+old_operator=DB Station&amp;Service AG
+old_operator:short_name=DB Station&amp;Service
+operator=DB InfraGO AG
+operator:short_name=DB InfraGO
+operator:start_date=2023-12-27
+operator:type=public
+operator:website=https://www.dbinfrago.com
+operator:wikidata=Q122870674
+operator:wikipedia=de:DB InfraGO
+public_transport=station
+railway=station
+railway:ref=HBAN
+uic_ref=8000796
+wheelchair=limited
+wikidata=Q24285708
+id=node/3059639300</desc></wpt><wpt lat="51.7982038" lon="9.9227761"><name>Einbeck-Salzderhelden</name><desc>addr:postcode=37574
+layer=1
+name=Einbeck-Salzderhelden
+opening_hours=Mo, Th 15:00-17:00; Tu-We, Fr 09:00-11:00
+operator=DB Station&amp;Service AG
+operator:node=DB Netz AG
+operator:service:class=6
+operator:service:id=1520
+operator:transit=metronom Eisenbahngesellschaft
+platforms=2
+public_transport=station
+railway=station
+railway:ref=HEB
+uic_ref=8005264
+wheelchair=limited
+wikidata=Q22691246
+wikipedia=de:Bahnhof Einbeck-Salzderhelden
+id=node/3059639301</desc></wpt><wpt lat="52.1204247" lon="9.7470208"><name>Elze (Hannover)</name><desc>layer=1
+name=Elze (Hannover)
+official_name=Elze (Han)
+operator=DB InfraGO AG
+operator:wikidata=Q122870674
+operator:wikipedia=de:DB InfraGO
+public_transport=station
+railway=station
+railway:ref=HELZ
+railway:station_category=4
+uic_ref=8000093
+wheelchair=yes
+wikidata=Q24051875
+id=node/3059639304</desc></wpt><wpt lat="51.9277681" lon="9.8990452"><name>Freden (Leine)</name><desc>name=Freden (Leine)
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HFRE
+uic_ref=8002063
+wikidata=Q24288763
+id=node/3059639305</desc></wpt><wpt lat="51.5367827" lon="9.9258967"><name>Göttingen</name><desc>alt_name=Göttingen Hbf;Göttingen Hauptbahnhof;Hauptbahnhof Göttingen
+departures_board=realtime
+ele=148
+name=Göttingen
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HG
+railway:station_category=2
+ref:station=2218
+start_date=1854-07-01
+train=yes
+uic_ref=8000128
+wheelchair=yes
+wikidata=Q320098
+wikipedia=de:Bahnhof Göttingen
+id=node/3059639306</desc></wpt><wpt lat="52.3769504" lon="9.7416533"><name>Hannover Hauptbahnhof</name><desc>architect=Hubert Stier
+description=Betriebsstellenpunkt sollte ungefähr in der Mitte der Betriebsstelle liegen, nicht des Empfangsgebäudes
+name=Hannover Hauptbahnhof
+name:cs=Hannover hlavní nádraží
+name:cy=Gorsaf Ganolog Hannover
+name:en=Hanover Central Station
+name:es=Estación Central de Hanóver
+name:fa=ایستگاه راه‌آهن مرکزی هانوفر
+name:fi=Hannoverin päärautatieasema
+name:fr=Gare centrale de Hanovre
+name:hu=Hannover főpályaudvar
+name:it=Stazione di Hannover Centrale
+name:ja=ハノーファー中央駅
+name:nds=Hannover Hauptbahnhoff
+name:zh=汉诺威火车总站
+network=DB
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HH
+railway:station_category=1
+ref:station=2545
+start_date=1843
+train=yes
+uic_name=Hannover Hbf
+uic_ref=8000152
+url=https://www.bahnhof.de/hannover-hbf
+wheelchair=yes
+wikidata=Q703918
+wikimedia_commons=Category:Hannover Hauptbahnhof
+wikipedia=de:Hannover Hauptbahnhof
+id=node/3059639307</desc></wpt><wpt lat="51.8513638" lon="9.9675102"><name>Kreiensen</name><desc>layer=1
+name=Kreiensen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HK
+railway:station_category=4
+uic_ref=8000213
+wheelchair=yes
+wikidata=Q26821510
+wikipedia=de:Bahnhof Kreiensen
+id=node/3059639308</desc></wpt><wpt lat="52.1675749" lon="9.7904788"><name>Nordstemmen</name><desc>name=Nordstemmen
+old_operator=DB Netz AG
+old_operator:wikidata=Q896765
+old_operator:wikipedia=de:DB Netz
+operator=DB InfraGO AG
+operator:type=public
+operator:wikidata=Q122870674
+operator:wikipedia=de:DB InfraGO
+public_transport=station
+railway=station
+railway:ref=HNOS
+railway:station_category=5
+uic_ref=8000282
+wheelchair=yes
+wikidata=Q801267
+wikipedia=de:Bahnhof Nordstemmen
+id=node/3059639311</desc></wpt><wpt lat="51.7031949" lon="9.9865371"><name>Northeim (Hannover)</name><desc>departures_board=timetable
+name=Northeim (Hannover)
+operator=DB Netz AG;DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HN
+railway:station_category=3
+ref:station=4587
+short_name=Northeim(Han)
+toilets:wheelchair=yes
+train=yes
+uic_ref=8000283
+wheelchair=yes
+wikidata=Q801268
+wikipedia=de:Bahnhof Northeim (Han)
+id=node/3059639313</desc></wpt><wpt lat="52.2322168" lon="9.8423339"><name>Sarstedt</name><desc>departures_board=timetable
+name=Sarstedt
+public_transport=station
+railway=station
+railway:ref=HSRD
+railway:station_category=5
+uic_ref=8005292
+wheelchair=yes
+wikidata=Q15944997
+id=node/3059639315</desc></wpt><wpt lat="52.8628023" lon="9.6999865"><name>Bad Fallingbostel</name><desc>name=Bad Fallingbostel
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:position=70.3
+railway:ref=HFAL
+railway:station_category=5
+toilets:wheelchair=no
+uic_ref=8001958
+wheelchair=yes
+wikidata=Q23012324
+wikimedia_commons=Category:Bahnhof_Bad_Fallingbostel
+id=node/3059966333</desc></wpt><wpt lat="53.241973" lon="9.8447461"><name>Handeloh</name><desc>hvv:psv_type=R
+image=https://commons.wikimedia.org/wiki/File:Handeloh_Bahnhof.jpg
+name=Handeloh
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=AHAN
+railway:station_category=6
+uic_ref=8002575
+wheelchair=yes
+wikidata=Q21514481
+id=node/3059966336</desc></wpt><wpt lat="52.7659893" lon="9.595359"><name>Hodenhagen</name><desc>name=Hodenhagen
+public_transport=station
+railway=station
+train=yes
+wheelchair=yes
+wikidata=Q23052186
+id=node/3059966338</desc></wpt><wpt lat="52.4400847" lon="9.7252642"><name>Langenhagen Mitte</name><desc>addr:city=Langenhagen
+addr:housenumber=1
+addr:postcode=30853
+addr:street=Straßburger Platz
+departures_board=realtime
+departures_board:speech_output=no
+image=https://commons.wikimedia.org/wiki/File:Bahnhof_Langenhagen-Mitte.jpg
+internet_access=no
+name=Langenhagen Mitte
+network=Großraum-Verkehr Hannover
+operator=DB Station&amp;Service AG
+platforms=4
+public_transport=station
+railway=station
+railway:ref=HLGM
+railway:station_category=3
+tactile_paving=yes
+train=yes
+uic_ref=8003545
+wheelchair=no
+wikidata=Q23912214
+id=node/3059966341</desc></wpt><wpt lat="52.5487397" lon="9.7442698"><name>Mellendorf</name><desc>name=Mellendorf
+network=Großraum-Verkehr Hannover
+public_transport=station
+railway=station
+railway:ref=HMDF
+railway:station_category=5
+uic_ref=8003957
+wheelchair=yes
+wikidata=Q23920727
+id=node/3059966344</desc></wpt><wpt lat="53.1112391" lon="9.7987489"><name>Schneverdingen</name><desc>name=Schneverdingen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ASDN
+railway:station_category=6
+toilets:wheelchair=no
+uic_ref=8005390
+wheelchair=yes
+wikidata=Q23012083
+id=node/3059966345</desc></wpt><wpt lat="52.6784634" lon="9.6242655"><name>Schwarmstedt</name><desc>name=Schwarmstedt
+public_transport=station
+railway=station
+wheelchair=yes
+wikidata=Q23053244
+id=node/3059966347</desc></wpt><wpt lat="52.3704618" lon="9.7620184"><name>Braunschweiger Platz</name><desc>name=Braunschweiger Platz
+platforms=2
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q901941
+id=node/3068121277</desc></wpt><wpt lat="51.911729" lon="10.4207245"><name>Goslar</name><desc>departures_board=realtime
+departures_board:speech_output=no
+name=Goslar
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HGS
+railway:station_category=3
+ref:station=2202
+toilets:wheelchair=no
+uic_ref=8000130
+wheelchair=yes
+wikipedia=de:Bahnhof Goslar
+id=node/3070866965</desc></wpt><wpt lat="51.8871731" lon="10.1739671"><name>Seesen</name><desc>addr:city=Seesen
+addr:housenumber=8
+addr:postcode=38723
+addr:street=Bahnhofsplatz
+name=Seesen
+network=Verkehrsverbund Region Braunschweig
+network:short=VRB
+network:wikidata=Q2514431
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HSSN
+railway:station_category=5
+ref:station=5797
+source=http://www.bahnseite.de/DS100/DS100_main.html
+train=yes
+uic_ref=8000043
+wheelchair=yes
+wikidata=Q15785201
+id=node/3094234157</desc></wpt><wpt lat="52.4559484" lon="10.546143"><name>Gifhorn</name><desc>name=Gifhorn
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HGI
+railway:station_category=4
+ref=HGI
+shelter=yes
+tactile_paving=yes
+train=yes
+uic_ref=8000185
+wheelchair=yes
+wikidata=Q5559968
+id=node/3123334793</desc></wpt><wpt lat="52.4796381" lon="10.542554"><name>Gifhorn Stadt</name><desc>name=Gifhorn Stadt
+operator=DB Netz AG
+platforms=2
+public_transport=station
+railway=station
+railway:ref=HGIS
+railway:station_category=6
+train=yes
+uic_ref=8002274
+wheelchair=yes
+wikidata=Q27780024
+id=node/3123334794</desc></wpt><wpt lat="52.3351911" lon="10.1694994"><name>node/3183842914</name><desc>id=node/3183842914</desc></wpt><wpt lat="52.3355553" lon="10.1685228"><name>node/3183842915</name><desc>id=node/3183842915</desc></wpt><wpt lat="52.4585601" lon="9.6987988"><name>Hannover Flughafen</name><desc>name=Hannover Flughafen
+network=Großraum-Verkehr Hannover
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLGF
+railway:station_category=4
+uic_ref=8002589
+wheelchair=yes
+wikidata=Q15944989
+wikipedia:en=Hannover Flughafen railway station
+id=node/3242483385</desc></wpt><wpt lat="53.1789409" lon="10.0646229"><name>Egestorf</name><desc>name=Egestorf
+railway=station
+usage=tourism
+id=node/3247424126</desc></wpt><wpt lat="53.3003625" lon="10.1492996"><name>Wulfsen Nord</name><desc>addr:city=Wulfsen
+addr:street=Birkenstraße
+name=Wulfsen Nord
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=no
+id=node/3248862044</desc></wpt><wpt lat="52.2074497" lon="9.9657458"><name>Harsum</name><desc>name=Harsum
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHRS
+toilets:wheelchair=no
+uic_ref=8002607
+wheelchair=yes
+wikidata=Q23826200
+id=node/3260067570</desc></wpt><wpt lat="52.3046528" lon="9.467712"><name>Barsinghausen</name><desc>name=Barsinghausen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBGH
+railway:station_category=5
+uic_ref=8000812
+wheelchair=yes
+wikidata=Q9166035
+id=node/3273798352</desc></wpt><wpt lat="52.3562909" lon="9.7698255"><name>Hannover Bismarckstraße</name><desc>name=Hannover Bismarckstraße
+name:etymology:wikidata=Q104622645
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HHBI
+railway:station_category=4
+start_date=1911-05-01
+train=yes
+uic_ref=8002580
+wheelchair=yes
+wikidata=Q9286087
+wikimedia_commons=Category:S-Bahnhof Hannover Bismarckstraße
+wikipedia=de:Bahnhof Hannover Bismarckstraße
+id=node/3273798353</desc></wpt><wpt lat="52.3235436" lon="9.652124"><name>Ronnenberg</name><desc>name=Ronnenberg
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HRBG
+railway:station_category=5
+uic_ref=8005160
+wheelchair=yes
+wikidata=Q19869148
+id=node/3273798355</desc></wpt><wpt lat="51.9741993" lon="9.2726404"><name>Bad Pyrmont</name><desc>name=Bad Pyrmont
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HPRT
+railway:station_category=5
+uic_ref=8000735
+wheelchair=yes
+wikidata=Q23995132
+id=node/3275265429</desc></wpt><wpt lat="52.523889" lon="10.0296966"><name>Ehlershausen</name><desc>name=Ehlershausen
+public_transport=station
+railway=station
+railway:ref=HELH
+railway:station_category=5
+wheelchair=yes
+wikidata=Q24033668
+id=node/3275265431</desc></wpt><wpt lat="52.0464018" lon="9.3831252"><name>Emmerthal</name><desc>name=Emmerthal
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HEMT
+railway:station_category=5
+toilets:wheelchair=no
+uic_ref=8001777
+wheelchair=no
+wikidata=Q23994815
+id=node/3275265432</desc></wpt><wpt lat="52.3322451" lon="9.4177173"><name>Bantorf</name><desc>name=Bantorf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBTF
+railway:station_category=5
+uic_ref=8000797
+wheelchair=yes
+wikidata=Q23721868
+id=node/3277702948</desc></wpt><wpt lat="52.4485538" lon="10.0027367"><name>Burgdorf (Han)</name><desc>addr:city=Burgdorf
+addr:country=DE
+addr:postcode=31303
+addr:street=Theodorstraße
+departures_board=realtime
+departures_board:speech_output=no
+name=Burgdorf (Han)
+public_transport=station
+railway=station
+railway:ref=HBGD
+railway:station_category=4
+uic_ref=8001279
+wheelchair=yes
+wikidata=Q19601270
+id=node/3277702949</desc></wpt><wpt lat="52.3744434" lon="9.8088243"><name>Hannover Karl-Wiechert-Allee</name><desc>name=Hannover Karl-Wiechert-Allee
+public_transport=station
+railway=station
+railway:ref=HKWA
+railway:station_category=4
+uic_ref=8070086
+wheelchair=yes
+wikidata=Q5649239
+id=node/3277702950</desc></wpt><wpt lat="52.3526245" lon="9.7236409"><name>Hannover-Linden/Fischerhof</name><desc>departures_board=timetable
+name=Hannover-Linden/Fischerhof
+network=Großraum-Verkehr Hannover
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLI R
+railway:station_category=4
+uic_ref=8002586
+wheelchair=yes
+wikidata=Q16830551
+wikipedia=de:Bahnhof Hannover-Linden
+id=node/3277702951</desc></wpt><wpt lat="53.1961892" lon="10.1024357"><name>Lübberstedt</name><desc>name=Lübberstedt
+railway=station
+usage=tourism
+id=node/3319218632</desc></wpt><wpt lat="53.1444279" lon="10.0500536"><name>Evendorf-Hörpel</name><desc>name=Evendorf-Hörpel
+railway=station
+usage=tourism
+id=node/3319232648</desc></wpt><wpt lat="53.1003921" lon="10.0315799"><name>Hützel</name><desc>name=Hützel
+railway=station
+usage=tourism
+id=node/3319236586</desc></wpt><wpt lat="52.096916" lon="10.143654"><name>Derneburg (Han)</name><desc>addr:city=Holle
+addr:postcode=31188
+addr:street=Bahnhofstraße
+departures_board=timetable
+internet_access=yes
+internet_access:fee=no
+internet_access:ssid=freifunk-hi.de
+name=Derneburg (Han)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HDBG
+railway:station_category=6
+source:railway:station_category=http://data.deutschebahn.com/datasets/streckennetz/
+uic_name=Derneburg(Han)
+uic_ref=8000071
+wheelchair=no
+wikidata=Q26884088
+id=node/3327132463</desc></wpt><wpt lat="52.0455836" lon="10.4453569"><name>Klein Mahner</name><desc>name=Klein Mahner
+railway=station
+usage=tourism
+id=node/3327769577</desc></wpt><wpt lat="52.0497699" lon="10.3721928"><name>Salzgitter-Bad</name><desc>addr:city=Salzgitter
+addr:country=DE
+addr:housenumber=9
+addr:postcode=38259
+addr:street=Petershagener Straße
+name=Salzgitter-Bad
+network=Verkehrsverbund Region Braunschweig
+network:short=VRB
+network:wikidata=Q2514431
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HSB
+railway:station_category=6
+ref:station=5478
+train=yes
+uic_ref=8005265
+wheelchair=yes
+wikidata=Q19274509
+id=node/3327799174</desc></wpt><wpt lat="52.0380738" lon="10.314507"><name>Salzgitter-Ringelheim</name><desc>addr:city=Salzgitter
+addr:housenumber=30
+addr:postcode=38259
+addr:street=Bahnhofstraße
+departures_board=realtime
+departures_board:speech_output=no
+name=Salzgitter-Ringelheim
+network=Verkehrsverbund Region Braunschweig
+network:short=VRB
+network:wikidata=Q2514431
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HSRI
+railway:station_category=5
+ref:station=5481
+train=yes
+uic_ref=8000325
+wheelchair=no
+wikidata=Q801392
+wikipedia=de:Bahnhof Salzgitter-Ringelheim
+id=node/3337584660</desc></wpt><wpt lat="53.1814994" lon="10.3711714"><name>Melbeck/Embsen</name><desc>name=Melbeck/Embsen
+railway=station
+usage=tourism
+id=node/3338277298</desc></wpt><wpt lat="51.637133" lon="9.561647"><name>Bodenfelde</name><desc>departures_board=timetable
+name=Bodenfelde
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBOF
+railway:station_category=6
+uic_ref=8001050
+wheelchair=no
+wikidata=Q4936488
+id=node/3344078390</desc></wpt><wpt lat="51.6544612" lon="9.6552521"><name>Uslar</name><desc>name=Uslar
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HUS
+uic_ref=8006041
+wheelchair=limited
+wikidata=Q7902033
+id=node/3344103551</desc></wpt><wpt lat="51.6588943" lon="9.8259574"><name>Hardegsen</name><desc>name=Hardegsen
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HHRD
+railway:station_category=6
+uic_ref=8002594
+wikidata=Q5655838
+id=node/3344136872</desc></wpt><wpt lat="51.9551184" lon="10.5626384"><name>Vienenburg</name><desc>name=Vienenburg
+old_uic_ref=347200
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HVBG
+railway:station_category=5
+ref:station=6412
+train=yes
+uic_ref=8000364
+wheelchair=yes
+wikidata=Q15785209
+wikipedia=de:Bahnhof Vienenburg
+id=node/3354824836</desc></wpt><wpt lat="51.888559" lon="10.5539741"><name>Bad Harzburg</name><desc>ele=236
+name=Bad Harzburg
+network=Verkehrsverbund Region Braunschweig
+network:short=VRB
+network:wikidata=Q2514431
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HBHA
+railway:station_category=3
+ref:station=281
+start_date=1840-08-22
+train=yes
+uic_ref=8000019
+wheelchair=limited
+wikidata=Q9163986
+wikipedia=de:Bahnhof Bad Harzburg
+id=node/3354851490</desc></wpt><wpt lat="51.3774614" lon="9.563553"><name>Staufenberg-Speele</name><desc>name=Staufenberg-Speele
+network=Nordhessischer VerkehrsVerbund
+network:guid=DE-HE-NVV
+network:short=NVV
+network:wikidata=Q1998056
+network:wikipedia=de:Nordhessischer Verkehrsverbund
+note=Weiche südlichöstlich und nördlich
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=FSPE
+railway:station_category=6
+ref:station=5919
+train=yes
+wheelchair=yes
+wikidata=Q25469852
+id=node/3356519739</desc></wpt><wpt lat="51.6442257" lon="10.3298895"><name>node/3359559695</name><desc>id=node/3359559695</desc></wpt><wpt lat="53.4704853" lon="9.6883066"><name>Buxtehude</name><desc>hvv:barrier_free=yes
+hvv:psv_type=S;R
+light_rail=yes
+name=Buxtehude
+network=Hamburger Verkehrsverbund
+operator=DB Netz AG;DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=ABX
+railway:station_category=3
+ref:station=1015
+station=light_rail
+train=yes
+uic_ref=8001315
+wheelchair=yes
+wikidata=Q5003250
+wikipedia=de:Bahnhof Buxtehude
+id=node/3376270539</desc></wpt><wpt lat="52.315708" lon="8.0079518"><name>Bf. am Haseschacht</name><desc>name=Bf. am Haseschacht
+old_name=Bf. Industriemuseum
+operator=Museum für feldspurige Industriebahnen Osnabrück-Piesberg e.V.
+public_transport=station
+railway=station
+source:name=https://www.feldspur.de/aktuelles/aktuelles-2019/
+usage=tourism
+wheelchair=limited
+id=node/3384049334</desc></wpt><wpt lat="53.2860557" lon="10.5703652"><name>Boltersen</name><desc>name=Boltersen
+operator=Bleckeder Kleinbahn UG
+public_transport=stop_position
+railway=station
+tourism=yes
+train=yes
+id=node/3388050317</desc></wpt><wpt lat="53.263244" lon="10.4638351"><name>Erbstorf Ziegelei</name><desc>name=Erbstorf Ziegelei
+operator=Bleckeder Kleinbahn UG
+public_transport=station
+railway=station
+tourism=yes
+train=yes
+id=node/3388050318</desc></wpt><wpt lat="53.286601" lon="10.5045203"><name>Scharnebeck</name><desc>name=Scharnebeck
+operator=Bleckeder Kleinbahn UG
+public_transport=stop_position
+railway=station
+tourism=yes
+train=yes
+wheelchair=no
+id=node/3388050324</desc></wpt><wpt lat="52.3165972" lon="8.0176841"><name>Bf. Südstieg</name><desc>name=Bf. Südstieg
+operator=Museum für feldspurige Industriebahnen e.V.
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=no
+id=node/3391041125</desc></wpt><wpt lat="53.2862452" lon="10.6633077"><name>Neu Neetze</name><desc>name=Neu Neetze
+operator=Bleckeder Kleinbahn UG
+public_transport=stop_position
+railway=station
+tourism=yes
+train=yes
+wheelchair=limited
+id=node/3412461032</desc></wpt><wpt lat="53.2889632" lon="10.5286978"><name>Rullstorf</name><desc>name=Rullstorf
+operator=Bleckeder Kleinbahn UG
+public_transport=station
+railway=station
+tourism=yes
+train=yes
+id=node/3412493133</desc></wpt><wpt lat="52.7412069" lon="10.2307521"><name>Eschede</name><desc>name=Eschede
+operator=DB Netz AG;DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HESD
+railway:station_category=6
+train=yes
+wheelchair=limited
+wikidata=Q23054970
+id=node/3476485966</desc></wpt><wpt lat="52.8353165" lon="10.300659"><name>Unterlüß</name><desc>name=Unterlüß
+operator=DB Netz AG;DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HUNL
+railway:station_category=5
+train=yes
+wheelchair=no
+wikidata=Q23054864
+id=node/3476490449</desc></wpt><wpt lat="52.9049298" lon="10.4327489"><name>Suderburg</name><desc>name=Suderburg
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HSUD
+railway:station_category=5
+train=yes
+wheelchair=yes
+wikidata=Q23054637
+id=node/3476498773</desc></wpt><wpt lat="52.3610196" lon="8.3073068"><name>Bohmte</name><desc>name=Bohmte
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HBOM
+railway:station_category=5
+ref=2200
+train=yes
+wheelchair=no
+wikidata=Q800544
+wikipedia=de:Bahnhof Bohmte
+id=node/3536745119</desc></wpt><wpt lat="52.9844182" lon="8.8476106"><name>Kirchweyhe</name><desc>name=Kirchweyhe
+network=VBN
+public_transport=station
+railway=station
+railway:ref=HKI
+railway:station_category=4
+uic_ref=8003292
+wheelchair=no
+wikidata=Q801014
+wikipedia=de:Bahnhof Kirchweyhe
+id=node/3536940451</desc></wpt><wpt lat="52.2094222" lon="8.3416929"><name>Melle</name><desc>name=Melle
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HMEL
+railway:station_category=4
+train=yes
+uic_ref=8003956
+wheelchair=yes
+wikidata=Q6813060
+id=node/3567121864</desc></wpt><wpt lat="53.367406" lon="10.2165596"><name>Winsen Nord</name><desc>name=Winsen Nord
+railway=station
+usage=tourism
+wheelchair=yes
+id=node/3581357627</desc></wpt><wpt lat="52.9410035" lon="9.9082932"><name>Lührsbockel</name><desc>name=Lührsbockel
+railway=station
+service=no
+wheelchair=no
+id=node/3583673491</desc></wpt><wpt lat="52.8901952" lon="9.3302225"><name>Armsen</name><desc>description=Museumsbahn
+name=Armsen
+operator=Verden-Walsroder Eisenbahn
+operator:short=VWE
+operator:wikidata=Q1720560
+public_transport=station
+railway=station
+railway:preserved=yes
+railway:ref=HARS
+train=yes
+usage=tourism
+id=node/3588073650</desc></wpt><wpt lat="53.3534304" lon="10.2086841"><name>Winsen (Luhe)</name><desc>name=Winsen (Luhe)
+public_transport=station
+railway=station
+railway:ref=AWI
+wheelchair=yes
+wikidata=Q21514441
+id=node/3593612273</desc></wpt><wpt lat="53.2497728" lon="10.4197721"><name>Lüneburg</name><desc>addr:city=Lüneburg
+addr:housenumber=10
+addr:postcode=21337
+addr:street=Bahnhofstraße
+alt_name=Bahnhof Lüneburg
+hvv:psv_type=R
+layer=1
+name=Lüneburg
+operator=DB Netz AG;DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=ALBG
+railway:station_category=2
+ref:station=3855
+toilets:wheelchair=yes
+train=yes
+uic_ref=8000238
+wheelchair=yes
+wheelchair:description=Haupteingang mit Stufen. Gebäude rechts herum ebenerdig erreichbar. Rolli-WC. Alle Gleise mit Fahrstühlen erreichbar.
+wikidata=Q801145
+wikipedia=de:Bahnhof Lüneburg
+id=node/3594997072</desc></wpt><wpt lat="52.6959802" lon="7.2980648"><name>Meppen</name><desc>addr:city=Meppen
+addr:country=DE
+addr:postcode=49716
+addr:street=Bahnhofstraße
+name=Meppen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HMEP
+railway:station_category=5
+train=yes
+uic_ref=8003978
+wheelchair=yes
+wheelchair:description=Nach Umbau nun mit Fahrstuhl.
+wikidata=Q651214
+wikipedia=de:Bahnhof Meppen
+id=node/3599570363</desc></wpt><wpt lat="53.015881" lon="9.0314628"><name>Achim</name><desc>addr:city=Achim
+addr:country=DE
+addr:housenumber=1A
+addr:postcode=28832
+addr:street=Zum Achimer Bahnhof
+name=Achim
+network=Verkehrsverbund Bremen/Niedersachsen
+network:short=VBN
+network:wikidata=Q1306245
+operator=DB Station&amp;Service AG
+operator:wikidata=Q1152119
+public_transport=station
+railway=station
+railway:ref=HACH
+railway:station_category=4
+train=yes
+uic_ref=8000413
+wheelchair=yes
+wikidata=Q15944978
+id=node/3600180679</desc></wpt><wpt lat="53.3161061" lon="10.1521442"><name>Pattensen</name><desc>name=Pattensen
+public_transport=station
+railway=station
+usage=tourism
+id=node/3604605806</desc></wpt><wpt lat="53.2399776" lon="10.1079414"><name>Garlstorf</name><desc>description=Garlstorf Bahnhof
+name=Garlstorf
+public_transport=station
+railway=station
+usage=tourism
+id=node/3604627101</desc></wpt><wpt lat="53.0225441" lon="9.9082377"><name>Hambostel</name><desc>name=Hambostel
+railway=station
+usage=tourism
+id=node/3606430597</desc></wpt><wpt lat="52.1607208" lon="9.9542033"><name>Hildesheim Hauptbahnhof</name><desc>departures_board=realtime
+departures_board:speech_output=no
+ele=88
+name=Hildesheim Hauptbahnhof
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HHI
+railway:station_category=2
+ref:station=2765
+short_name=Hildesheim Hbf
+train=yes
+uic_ref=8000169
+wheelchair=no
+wikidata=Q324775
+wikipedia=de:Hildesheim Hauptbahnhof
+id=node/3616040153</desc></wpt><wpt lat="52.8312108" lon="10.0834569"><name>Hermannsburg</name><desc>name=Hermannsburg
+railway=station
+service=no
+id=node/3624577216</desc></wpt><wpt lat="52.7680303" lon="10.0305681"><name>Sülze</name><desc>name=Sülze
+railway=station
+service=no
+id=node/3624629918</desc></wpt><wpt lat="52.7391963" lon="10.0702315"><name>Altensalzkoth</name><desc>name=Altensalzkoth
+operator=Osthannoversche Eisenbahnen AG
+railway=station
+railway:ref=HASK
+service=no
+id=node/3624754597</desc></wpt><wpt lat="53.4034618" lon="9.9742872"><name>Hittfeld</name><desc>hvv:psv_type=R
+internet_access=no
+name=Hittfeld
+network=Hamburger Verkehrsverbund
+network:short=HVV
+network:wikidata=Q896916
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=AHIF
+railway:station_category=6
+train=yes
+uic_name=Hittfeld
+uic_ref=8002864
+wikidata=Q16062095
+id=node/3629769340</desc></wpt><wpt lat="51.5848543" lon="10.6088282"><name>Walkenried</name><desc>departures_board=timetable
+name=Walkenried
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HWKD
+railway:station_category=6
+ref:station=6499
+train=yes
+uic_ref=8006172
+wheelchair=yes
+wikidata=Q25859665
+id=node/3644509343</desc></wpt><wpt lat="53.6362684" lon="7.6159838"><name>Esens (Ostfriesl)</name><desc>name=Esens (Ostfriesl)
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HESO
+railway:station_category=6
+ref:station=1681
+uic_ref=8001890
+id=node/3651062430</desc></wpt><wpt lat="53.5187847" lon="8.1153355"><name>Wilhelmshaven</name><desc>addr:city=Wilhelmshaven
+addr:country=DE
+addr:postcode=26382
+addr:street=Ebertstraße
+alt_name=Wilhelmshaven Hbf
+departures_board=timetable
+name=Wilhelmshaven
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HW
+railway:station_category=5
+train=yes
+uic_ref=8006445
+wheelchair=yes
+wheelchair:description=Alle Bahnsteige stufenlos erreichbar
+wikidata=Q15709139
+wikipedia=de:Bahnhof Wilhelmshaven
+id=node/3651062450</desc></wpt><wpt lat="53.1177665" lon="10.0954206"><name>Grevenhof</name><desc>name=Grevenhof
+railway=station
+usage=tourism
+id=node/3655145776</desc></wpt><wpt lat="53.1373801" lon="10.1479353"><name>Soderstorf</name><desc>name=Soderstorf
+railway=station
+usage=tourism
+id=node/3655150654</desc></wpt><wpt lat="53.1564708" lon="10.3452415"><name>Heinsen</name><desc>name=Heinsen
+railway=station
+usage=tourism
+id=node/3655189396</desc></wpt><wpt lat="53.2728694" lon="10.742122"><name>Bleckede-Waldfrieden</name><desc>name=Bleckede-Waldfrieden
+operator=Bleckeder Kleinbahn UG
+public_transport=station
+railway=station
+usage=tourism
+id=node/3665580435</desc></wpt><wpt lat="53.2720803" lon="10.744308"><name>Draisinenbahnhof Waldfrieden</name><desc>name=Draisinenbahnhof Waldfrieden
+railway=station
+usage=tourism
+id=node/3665580440</desc></wpt><wpt lat="52.3912319" lon="10.0837218"><name>Immensen-Arpke</name><desc>name=Immensen-Arpke
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HIMS
+uic_ref=8003064
+wheelchair=yes
+wikidata=Q6004806
+id=node/3674140561</desc></wpt><wpt lat="52.3917006" lon="9.5944522"><name>Seelze</name><desc>name=Seelze
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HS
+railway:station_category=4
+uic_ref=8005507
+wheelchair=yes
+wikidata=Q7445854
+id=node/3694246851</desc></wpt><wpt lat="51.9052304" lon="10.4776896"><name>Oker</name><desc>addr:city=Goslar
+addr:housenumber=33
+addr:postcode=38642
+addr:street=Bahnhofstraße
+departures_board=timetable
+name=Oker
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HOK
+railway:station_category=5
+ref:station=4756
+train=yes
+wikidata=Q26055834
+id=node/3713932145</desc></wpt><wpt lat="52.9908214" lon="8.2665141"><name>Huntlosen</name><desc>name=Huntlosen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHUL
+railway:station_category=6
+uic_ref=8003030
+wikidata=Q15945044
+id=node/3715739341</desc></wpt><wpt lat="53.0551183" lon="8.2548772"><name>Sandkrug</name><desc>name=Sandkrug
+network=Verkehrsverbund Bremen/Niedersachsen
+network:short=VBN
+network:wikidata=Q1306245
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HSAK
+railway:station_category=6
+ref:station=5502
+train=yes
+uic_ref=8005287
+wheelchair=yes
+wikidata=Q15945037
+id=node/3715739342</desc></wpt><wpt lat="52.0221775" lon="10.5498525"><name>Schladen (Harz)</name><desc>addr:city=Schladen-Werla
+addr:housenumber=4
+addr:postcode=38315
+addr:street=Am Bahnhof
+name=Schladen (Harz)
+network=Verkehrsverbund Region Braunschweig
+network:short=VRB
+network:wikidata=Q2514431
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HSCL
+railway:ref:DB=HSCL
+railway:station_category=6
+ref:IFOPT=de:03158:3099
+ref:IFOPT:DB=de:03158:3099
+ref:station=5579
+train=yes
+uic_ref=8005355
+wheelchair=yes
+wikidata=Q26714941
+id=node/3728098426</desc></wpt><wpt lat="51.8675782" lon="10.0200491"><name>Bad Gandersheim</name><desc>addr:city=Bad Gandersheim
+addr:housenumber=1
+addr:postcode=37581
+addr:street=Bahnhofstraße
+internet_access=no
+name=Bad Gandersheim
+network=Verkehrsverbund Süd-Niedersachsen GmbH ( VSN )
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HBGM
+uic_ref=8000352
+wheelchair=no
+wikidata=Q25930047
+id=node/3729031750</desc></wpt><wpt lat="53.2717517" lon="9.7313671"><name>Tostedt</name><desc>name=Tostedt
+public_transport=station
+railway=station
+railway:ref=ATST
+wheelchair=yes
+wikidata=Q15945002
+id=node/3730924892</desc></wpt><wpt lat="53.1124706" lon="9.3908499"><name>Rotenburg (Wümme)</name><desc>internet_access=no
+name=Rotenburg (Wümme)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=AROG
+railway:station_category=4
+uic_ref=8000321
+website=https://www.bahnhof.de/bahnhof-de/bahnhof/Rotenburg-28W-C3-BCmme-29-1039634
+wheelchair=yes
+wikidata=Q801380
+wikipedia=de:Bahnhof Rotenburg (Wümme)
+id=node/3735069030</desc></wpt><wpt lat="52.1812083" lon="8.1400353"><name>Wellendorf</name><desc>internet_access=no
+name=Wellendorf
+network=VOS-Plus-Tarif
+operator=Verkehrsgesellschaft Landkreis Osnabrück
+owner=DB Netz AG
+public_transport=station
+railway=station
+railway:name:DB=Wellendorf (Kr Osnabrück)
+railway:ref=HWLL
+train=yes
+uic_ref=8006316
+wikidata=Q7981209
+wikipedia=en:Wellendorf station
+id=node/3773865807</desc></wpt><wpt lat="52.2578895" lon="10.3588566"><name>Vechelde</name><desc>name=Vechelde
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HVEC
+railway:station_category=5
+uic_ref=8006060
+wheelchair=yes
+wikidata=Q15945003
+id=node/3831584300</desc></wpt><wpt lat="53.1693432" lon="10.7088772"><name>Dahlenburg</name><desc>hvv:psv_type=R
+name=Dahlenburg
+old_operator=DB Netz AG; DB Station&amp;Service AG
+old_operator:wikidata=Q896765; Q1152119
+old_operator:wikipedia=de:DB Netz; de:DB Station&amp;Service AG
+operator=DB InfraGO AG
+operator:website=https://www.dbinfrago.com/web
+operator:wikidata=Q122870674
+operator:wikipedia=de:DB InfraGO
+public_transport=station
+railway=station
+railway:ref=ADL
+railway:station_ref=1107
+wikidata=Q22679109
+id=node/3893593174</desc></wpt><wpt lat="53.1049816" lon="11.1175915"><name>Dannenberg Ost</name><desc>hvv:psv_type=R
+name=Dannenberg Ost
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ADB
+railway:station_category=7
+uic_ref=8001372
+wikidata=Q800642
+wikipedia=de:Bahnhof Dannenberg Ost
+id=node/3899059462</desc></wpt><wpt lat="52.0891487" lon="10.2288376"><name>Baddeckenstedt</name><desc>addr:city=Baddeckenstedt
+addr:housenumber=14
+addr:postcode=38271
+addr:street=Zur Rast
+departures_board=timetable
+name=Baddeckenstedt
+network=Verkehrsverbund Region Braunschweig
+network:short=VRB
+network:wikidata=Q2514431
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:station_category=6
+ref:station=369
+train=yes
+wheelchair=no
+wikidata=Q26883964
+id=node/3920392018</desc></wpt><wpt lat="52.9738262" lon="8.9395218"><name>Riede (b Bremen)</name><desc>name=Riede (b Bremen)
+public_transport=station
+railway=station
+railway:ref=HRID
+usage=tourism
+id=node/3995863890</desc></wpt><wpt lat="52.2152259" lon="9.5572091"><name>Springe</name><desc>internet_access=no
+name=Springe
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HSPR
+railway:station_category=4
+uic_ref=8005638
+wheelchair=yes
+wikidata=Q23979214
+id=node/4005502942</desc></wpt><wpt lat="52.0973006" lon="9.6364645"><name>Osterwald</name><desc>name=Osterwald
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HOTW
+railway:station_category=7
+uic_ref=8004709
+wikidata=Q24051723
+id=node/4006172938</desc></wpt><wpt lat="53.8601854" lon="8.7049885"><name>Cuxhaven</name><desc>addr:city=Cuxhaven
+addr:housenumber=1
+addr:postcode=27472
+addr:street=Am Bahnhof
+internet_access=yes
+internet_access:fee=no
+name=Cuxhaven
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ACV
+railway:station_category=5
+uic_ref=8001352
+wheelchair=yes
+wikidata=Q800640
+wikipedia=de:Bahnhof Cuxhaven
+id=node/4048825270</desc></wpt><wpt lat="52.5033342" lon="9.4553787"><name>Neustadt am Rübenberge</name><desc>departures_board=timetable
+name=Neustadt am Rübenberge
+network=Großraum-Verkehr Hannover
+network:short=GVH
+network:wikidata=Q1549516
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HNRU
+railway:station_category=4
+ref:station=4455
+train=yes
+uic_ref=8004322
+wheelchair=yes
+wikidata=Q15261915
+id=node/4051813610</desc></wpt><wpt lat="52.2523206" lon="9.9665859"><name>Algermissen</name><desc>name=Algermissen
+public_transport=station
+railway=station
+railway:ref=HALG
+railway:station_category=6
+uic_ref=8000488
+wheelchair=yes
+wikidata=Q23823971
+id=node/4075632636</desc></wpt><wpt lat="52.3183763" lon="9.9626301"><name>Sehnde</name><desc>name=Sehnde
+public_transport=station
+railway=station
+railway:ref=HSEN
+railway:station_category=5
+wheelchair=yes
+wikidata=Q23823952
+id=node/4075632637</desc></wpt><wpt lat="52.4671801" lon="9.4538885"><name>Poggenhagen</name><desc>name=Poggenhagen
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HPOG
+railway:station_category=6
+uic_ref=8004851
+wheelchair=yes
+wikidata=Q7207582
+id=node/4147508390</desc></wpt><wpt lat="53.2916408" lon="10.7273338"><name>Bleckede</name><desc>name=Bleckede
+operator=Bleckeder Kleinbahn UG
+public_transport=station
+railway=station
+tourism=yes
+train=yes
+wheelchair=limited
+id=node/4172565219</desc></wpt><wpt lat="51.3921685" lon="9.7616818"><name>Hedemünden</name><desc>name=Hedemünden
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=FHED
+railway:station_category=5
+uic_ref=8002677
+wheelchair=limited
+wikidata=Q25366723
+id=node/4209566135</desc></wpt><wpt lat="53.5880655" lon="7.2192605"><name>Norden</name><desc>name=Norden
+operator=DB InfraGO
+public_transport=station
+railway=station
+railway:ref=HNN
+railway:station_category=5
+uic_ref=8000800
+website=https://www.bahnhof.de/norden
+wheelchair=yes
+wikidata=Q7050599
+wikipedia=de:Bahnhof Norden
+id=node/4252690385</desc></wpt><wpt lat="52.3839056" lon="9.7463828"><name>Sedanstraße / Lister Meile</name><desc>name=Sedanstraße / Lister Meile
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q15089881
+id=node/4349630097</desc></wpt><wpt lat="52.3642957" lon="9.7473133"><name>Schlägerstraße</name><desc>name=Schlägerstraße
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q15100865
+id=node/4349706716</desc></wpt><wpt lat="52.3890049" lon="9.7511044"><name>Lister Platz</name><desc>name=Lister Platz
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+id=node/4349853940</desc></wpt><wpt lat="52.3758731" lon="9.7325746"><name>Steintor</name><desc>name=Steintor
+public_transport=station
+railway=station
+start_date=1984-03-30
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q15089846
+wikimedia_commons=Category:U-Bahn-Station Steintor
+wikipedia=de:U-Bahn-Station Steintor
+id=node/4350778801</desc></wpt><wpt lat="52.3707152" lon="9.7360288"><name>Markthalle / Landtag</name><desc>level=-2
+name=Markthalle / Landtag
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q15089874
+wikipedia=en:Markthalle/Landtag (Hanover Stadtbahn station)
+id=node/4350779325</desc></wpt><wpt lat="52.3680647" lon="9.729681"><name>Waterloo</name><desc>departures_board=timetable
+name=Waterloo
+public_transport=station
+railway=station
+start_date=1975-09-28
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q15081775
+wikimedia_commons=Category:U-Bahn-Station Waterloo (Hannover)
+wikipedia=de:U-Bahn-Station Waterloo
+id=node/4355198180</desc></wpt><wpt lat="52.3599573" lon="9.7506214"><name>Geibelstraße</name><desc>name=Geibelstraße
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+id=node/4355349305</desc></wpt><wpt lat="52.3741963" lon="9.7385645"><name>Kröpcke</name><desc>name=Kröpcke
+platforms=2
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q14912329
+id=node/4357261216</desc></wpt><wpt lat="52.3699401" lon="9.753163"><name>Marienstraße</name><desc>name=Marienstraße
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q30111270
+id=node/4364453801</desc></wpt><wpt lat="52.3818477" lon="9.7257013"><name>Christuskirche</name><desc>name=Christuskirche
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q63364781
+id=node/4364789313</desc></wpt><wpt lat="52.3865666" lon="9.723815"><name>Kopernikusstraße</name><desc>name=Kopernikusstraße
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q15089810
+id=node/4364789315</desc></wpt><wpt lat="52.3878022" lon="9.7341536"><name>Werderstraße</name><desc>departures_board=realtime
+departures_board:speech_output=no
+name=Werderstraße
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q30114445
+id=node/4364789805</desc></wpt><wpt lat="52.3551183" lon="9.7543794"><name>Altenbekener Damm</name><desc>name=Altenbekener Damm
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+id=node/4364903251</desc></wpt><wpt lat="52.378176" lon="9.72294"><name>Königsworther Platz</name><desc>name=Königsworther Platz
+public_transport=station
+railway=station
+station=subway
+subway=yes
+wheelchair=yes
+wikidata=Q15089867
+wikipedia=en:Königsworther Platz (Hanover Stadtbahn station)
+id=node/4364966179</desc></wpt><wpt lat="52.3689146" lon="9.7432874"><name>Aegidientorplatz</name><desc>departures_board=realtime
+departures_board:speech_output=no
+name=Aegidientorplatz
+name:de=Aegidientorplatz
+name:en=Aegidien Gate Square
+public_transport=station
+railway=station
+start_date=1981
+station=subway
+subway=yes
+toilets:wheelchair=no
+wheelchair=yes
+wikidata=Q15089815
+wikimedia_commons=Category:U-Bahn-Station Aegidientorplatz
+wikipedia=de:U-Bahn-Station Aegidientorplatz
+id=node/4366010632</desc></wpt><wpt lat="52.7047699" lon="9.0911314"><name>Draisinenbahnhof Bredenbeck</name><desc>name=Draisinenbahnhof Bredenbeck
+public_transport=station
+railway=station
+usage=tourism
+id=node/4393136197</desc></wpt><wpt lat="52.1988413" lon="9.0780424"><name>Rinteln</name><desc>name=Rinteln
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HRIN
+railway:station_category=6
+uic_ref=8005104
+wheelchair=no
+wikidata=Q801369
+wikipedia=de:Bahnhof Rinteln
+id=node/4398872808</desc></wpt><wpt lat="53.6212326" lon="7.1611766"><name>Norddeich</name><desc>check_date:wheelchair=2024-07-07
+name=Norddeich
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HND
+railway:station_category=5
+ref:IFOPT=de:03452:67921
+ref:IFOPT:DB=de:03452:67921
+train=yes
+uic_ref=8004449
+wheelchair=limited
+wikidata=Q1660405
+id=node/4530819995</desc></wpt><wpt lat="52.6453759" lon="9.2178273"><name>Nienburg (Weser)</name><desc>addr:postcode=31582
+departures_board=realtime
+name=Nienburg (Weser)
+operator=DB Netz AG
+outdoor_seating=no
+public_transport=station
+railway=station
+railway:ref=HNBG
+railway:station_category=3
+shelter=yes
+tactile_paving=yes
+uic_ref=8000279
+website=https://www.bahnhof.de/nienburg-weser
+wheelchair=yes
+wikidata=Q323374
+wikipedia=de:Bahnhof Nienburg (Weser)
+id=node/4530820001</desc></wpt><wpt lat="52.5199633" lon="7.3215951"><name>Lingen (Ems)</name><desc>name=Lingen (Ems)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLIG
+railway:station_category=3
+start_date=1856
+uic_name=Lingen (Ems)
+uic_ref=8003701
+wheelchair=no
+wikidata=Q320255
+wikipedia=de:Bahnhof Lingen
+id=node/4530820002</desc></wpt><wpt lat="53.2313892" lon="7.4651589"><name>Leer (Ostfriesland)</name><desc>name=Leer (Ostfriesland)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HLEE
+railway:ref:Arriva=Leer
+railway:ref:DB=HLEE
+railway:ref:NS=Leer
+railway:station_category=3
+toilets:wheelchair=yes
+train=yes
+uic_ref=8000225
+wheelchair=yes
+wheelchair:description=Der Bahnhof wurde modenersiert und ist seit Mai 2017 u.a. mit zwei Aufzügen (Gleis 1 und Gleis 2/4) ausgestattet =&gt; barrierefrei. Behindertengerechte Toilette vorhanden
+wikidata=Q325154
+wikipedia=de:Bahnhof Leer (Ostfriesland)
+id=node/4530820003</desc></wpt><wpt lat="52.3097332" lon="7.1582889"><name>Bad Bentheim</name><desc>name=Bad Bentheim
+operator=DB InfraGO AG
+platforms=3
+public_transport=station
+railway=station
+railway:ref=HBTH
+railway:station_category=5
+ref:station=248
+train=yes
+uic_ref=8000879
+wheelchair=yes
+wikidata=Q2028380
+wikipedia=de:Bahnhof Bad Bentheim
+id=node/4530820008</desc></wpt><wpt lat="52.8984322" lon="9.7705467"><name>Dorfmark</name><desc>check_date:wheelchair=2024-02-25
+name=Dorfmark
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HDMK
+railway:station_category=6
+toilets:wheelchair=no
+uic_ref=8001502
+wheelchair=yes
+wikidata=Q23012290
+id=node/4551524477</desc></wpt><wpt lat="52.8977869" lon="8.4314074"><name>Wildeshausen</name><desc>ele=26.05
+internet_access=no
+name=Wildeshausen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HWIH
+railway:station_category=6
+ref:station=6766
+uic_ref=8006436
+wheelchair=yes
+id=node/4566467239</desc></wpt><wpt lat="53.5191291" lon="7.2745294"><name>Marienhafe</name><desc>name=Marienhafe
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HMAR
+railway:station_category=6
+uic_ref=8003866
+website=https://www.bahnhof.de/bahnhof-de/Marienhafe
+wheelchair=yes
+wikidata=Q15247532
+id=node/4578556183</desc></wpt><wpt lat="52.3547283" lon="10.110489"><name>Hämelerwald</name><desc>name=Hämelerwald
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHAE
+railway:station_category=5
+ref:station=2524
+uic_ref=8002499
+wheelchair=yes
+id=node/4710550811</desc></wpt><wpt lat="52.9695952" lon="10.5529747"><name>Uelzen</name><desc>departures_board=realtime
+name=Uelzen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HU
+railway:station_category=2
+uic_ref=8000168
+wheelchair=yes
+wikidata=Q322286
+wikipedia=de:Bahnhof Uelzen
+id=node/4725309874</desc></wpt><wpt lat="52.9028622" lon="9.2816789"><name>Eitze</name><desc>description=Museumsbahn
+name=Eitze
+operator=Verden-Walsroder Eisenbahn
+operator:short=VWE
+operator:wikidata=Q1720560
+public_transport=station
+railway=station
+railway:preserved=yes
+railway:ref=HEIZ
+train=yes
+usage=tourism
+id=node/4799777439</desc></wpt><wpt lat="52.8833599" lon="9.3490274"><name>Neddenaverbergen</name><desc>description=Museumsbahn
+name=Neddenaverbergen
+operator=Verden-Walsroder Eisenbahn
+operator:short=VWE
+operator:wikidata=Q1720560
+public_transport=station
+railway=station
+railway:preserved=yes
+railway:ref=HNAB
+train=yes
+usage=tourism
+id=node/4799791797</desc></wpt><wpt lat="52.8664569" lon="9.3769736"><name>Stemmen</name><desc>description=Museumsbahn
+name=Stemmen
+operator=Verden-Walsroder Eisenbahn
+operator:short=VWE
+operator:wikidata=Q1720560
+public_transport=station
+railway=station
+railway:preserved=yes
+railway:ref=HSEM
+train=yes
+usage=tourism
+wheelchair=no
+id=node/4799802816</desc></wpt><wpt lat="52.8132026" lon="9.4979863"><name>Klein Eilstorf</name><desc>name=Klein Eilstorf
+railway=station
+usage=tourism
+id=node/4800507684</desc></wpt><wpt lat="52.3223488" lon="8.0123704"><name>Bf. Stüveschacht</name><desc>name=Bf. Stüveschacht
+public_transport=station
+railway=station
+usage=tourism
+id=node/4812135317</desc></wpt><wpt lat="52.1665004" lon="9.2440667"><name>Hessisch Oldendorf</name><desc>name=Hessisch Oldendorf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HHSO
+railway:station_category=6
+train=yes
+uic_ref=8002812
+wikidata=Q24050614
+id=node/4818872053</desc></wpt><wpt lat="52.7274361" lon="10.7232155"><name>Wittingen</name><desc>ele=79
+name=Wittingen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HWTT
+railway:station_category=6
+uic_ref=8000344
+wheelchair=yes
+wikidata=Q27793327
+id=node/5032737107</desc></wpt><wpt lat="52.8351003" lon="10.6728222"><name>Bad Bodenteich</name><desc>addr:city=Bad Bodenteich
+addr:housenumber=10
+addr:postcode=29389
+addr:street=Lindenstraße
+name=Bad Bodenteich
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBOD
+train=yes
+wheelchair=yes
+wikidata=Q27794576
+id=node/5032737557</desc></wpt><wpt lat="51.8185436" lon="9.8750966"><name>Einbeck Mitte</name><desc>name=Einbeck Mitte
+old_name=Einbeck Mitte
+operator=Ilmebahn GmbH
+public_transport=station
+railway=station
+railway:ref=HEBM
+railway:ref:DB=HEBM
+uic_ref=8001717
+wheelchair=limited
+wikidata=Q77080581
+id=node/5216988897</desc></wpt><wpt lat="52.8355103" lon="7.5174102"><name>Sögel Pbf</name><desc>name=Sögel Pbf
+operator=Emsländische Eisenbahn GmbH
+public_transport=station
+railway=station
+train=yes
+usage=tourism
+id=node/5244887126</desc></wpt><wpt lat="53.3243628" lon="9.8749387"><name>Buchholz (Nordheide)</name><desc>hvv:psv_type=RE RB
+name=Buchholz (Nordheide)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=ABLZ
+railway:station_category=3
+train=yes
+uic_name=Buchholz(Nordheide)
+uic_ref=8000056
+wheelchair=yes
+wikidata=Q15944982
+id=node/5521742779</desc></wpt><wpt lat="53.28437" lon="8.8104883"><name>Oldenbüttel</name><desc>ele:local=27
+name=Oldenbüttel
+operator=NordWestBahn
+public_transport=station
+railway=station
+railway:ref=HOLB
+railway:station_category=6
+source:ele=Schild am ehemaligen Bahnhofsgebäude
+uic_ref=8004668
+wheelchair=yes
+wikidata=Q15263899
+id=node/5808870115</desc></wpt><wpt lat="53.4058787" lon="8.7805331"><name>Stubben</name><desc>name=Stubben
+operator=NordWestBahn
+public_transport=station
+railway=station
+railway:ref=HSUB
+railway:station_category=6
+train=yes
+uic_ref=8005763
+wheelchair=yes
+wikidata=Q7627322
+id=node/5808872368</desc></wpt><wpt lat="53.1852638" lon="8.5950449"><name>Klinikum Bremen-Nord/Beckedorf</name><desc>name=Klinikum Bremen-Nord/Beckedorf
+operator=NordWestBahn
+public_transport=station
+railway=station
+train=yes
+wheelchair=yes
+wikidata=Q21296432
+id=node/5808878459</desc></wpt><wpt lat="52.8475476" lon="8.7400508"><name>Bassum</name><desc>name=Bassum
+network=VBN
+operator=Deutsche Bahn AG
+railway=station
+railway:ref=HBAS
+railway:station_category=5
+ref=2200
+uic_ref=8000354
+wheelchair=yes
+wikidata=Q4868200
+id=node/5809191172</desc></wpt><wpt lat="52.286059" lon="9.8192846"><name>Rethen (Leine)</name><desc>name=Rethen (Leine)
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=HRTN
+railway:station_category=6
+uic_ref=8005047
+wheelchair=yes
+wikidata=Q23902163
+id=node/5816096981</desc></wpt><wpt lat="52.6237044" lon="8.6516414"><name>Freistatt Hauptbahnhof</name><desc>name=Freistatt Hauptbahnhof
+railway=station
+usage=tourism
+id=node/6030527834</desc></wpt><wpt lat="52.4861204" lon="9.8042233"><name>Isernhagen</name><desc>name=Isernhagen
+network=Großraum-Verkehr Hannover
+operator=Deutsche Bahn
+public_transport=station
+railway=station
+railway:ref=HIHG
+railway:station_category=6
+tactile_paving=no
+uic_ref=8003091
+wikidata=Q23072546
+id=node/6442477008</desc></wpt><wpt lat="52.1407254" lon="10.7717592"><name>Schöppenstedt</name><desc>addr:city=Schöppenstedt
+addr:housenumber=18
+addr:postcode=38170
+addr:street=Bahnhofstraße
+name=Schöppenstedt
+network=Verkehrsverbund Region Braunschweig
+network:short=VRB
+network:wikidata=Q2514431
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HSPP
+railway:station_category=6
+ref:station=5681
+train=yes
+uic_ref=8005413
+wheelchair=yes
+wikidata=Q21152940
+wikipedia=de:Bahnhof Schöppenstedt
+id=node/6532323830</desc></wpt><wpt lat="51.7874172" lon="10.2030144"><name>Gittelde/Bad Grund(Harz)</name><desc>addr:city=Gittelde
+addr:housenumber=4
+addr:postcode=37534
+addr:street=Am Bahnhof
+name=Gittelde/Bad Grund(Harz)
+old_name=Gittelde-Süd
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HGT
+railway:station_category=7
+ref:station=2129
+train=yes
+wikidata=Q25929511
+id=node/6535116671</desc></wpt><wpt lat="52.8143872" lon="10.055041"><name>Beckedorf</name><desc>name=Beckedorf
+operator=Osthannoversche Eisenbahnen AG
+railway=station
+railway:ref=HBKD
+service=n
+id=node/6561941579</desc></wpt><wpt lat="52.097722" lon="10.0200744"><name>Groß Düngen</name><desc>departures_board=timetable
+name=Groß Düngen
+public_transport=station
+railway=station
+railway:ref=HGDN
+uic_ref=8002405
+wheelchair=yes
+wikidata=Q24265685
+id=node/6694968454</desc></wpt><wpt lat="53.5873995" lon="6.6629498"><name>Borkum Bahnhof</name><desc>name=Borkum Bahnhof
+operator=Borkumer Kleinbahn und Dampfschiffahrtgesellschaft mbH
+public_transport=station
+railway=station
+wheelchair=yes
+wikidata=Q112692794
+id=node/6757754131</desc></wpt><wpt lat="52.9932616" lon="10.0963175"><name>Munster (Örtze)</name><desc>name=Munster (Örtze)
+public_transport=station
+railway=station
+railway:ref=HMS
+railway:station_category=6
+wikidata=Q22977824
+id=node/6769864161</desc></wpt><wpt lat="53.2734524" lon="8.9622829"><name>Hüttenbusch</name><desc>name=Hüttenbusch
+public_transport=station
+railway=station
+train=yes
+usage=tourism
+wheelchair=yes
+wikidata=Q131745618
+id=node/6769926076</desc></wpt><wpt lat="53.6435216" lon="7.4340159"><name>Dornum (Ostfriesland)</name><desc>name=Dornum (Ostfriesland)
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=limited
+id=node/6769988384</desc></wpt><wpt lat="52.9801382" lon="9.566415"><name>Visselhövede</name><desc>name=Visselhövede
+public_transport=station
+railway=station
+railway:ref=HVIS
+railway:station_category=6
+wheelchair=no
+wikidata=Q801565
+id=node/6770112720</desc></wpt><wpt lat="52.0625414" lon="10.0054553"><name>Bad Salzdetfurth</name><desc>name=Bad Salzdetfurth
+public_transport=station
+railway=station
+railway:ref=HBSA
+railway:ref:DB=HBSA
+ref:IFOPT=de:03254:21756
+ref:IFOPT:DB=de:03254:21756
+uic_ref=8000740
+wheelchair=yes
+wikidata=Q24278951
+id=node/6771180204</desc></wpt><wpt lat="53.608419" lon="7.2866164"><name>Hage (Ostfriesland)</name><desc>name=Hage (Ostfriesland)
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=yes
+id=node/6771269645</desc></wpt><wpt lat="51.8490449" lon="10.1887276"><name>Münchehof (Harz)</name><desc>addr:city=Seesen
+addr:housenumber=1
+addr:postcode=38723
+addr:street=Wildemannstraße
+name=Münchehof (Harz)
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HMHZ
+railway:station_category=6
+ref:IFOPT=de:03153:4780
+ref:station=4229
+source=http://www.bahnseite.de/DS100/DS100_main.html
+train=yes
+uic_ref=8004127
+wheelchair=yes
+wikidata=Q25929542
+id=node/6771354940</desc></wpt><wpt lat="51.4125453" lon="9.658345"><name>Hann. Münden</name><desc>alt_name=Münden
+int_name=Train Station Hann. Münden
+name=Hann. Münden
+network=Nordhessischer VerkehrsVerbund
+network:guid=DE-HE-NVV
+network:short=NVV
+network:wikidata=Q1998056
+network:wikipedia=de:Nordhessischer Verkehrsverbund
+old_name=Bahnhof Hannoversch Münden
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=FHMD
+ref:ibnr=711778
+ref_name=Hann. Münden Bahnhof
+short_name=Hann. Münden
+train=yes
+uic_ref=8006707
+wheelchair=yes
+wikidata=Q25374112
+wikipedia=de:Bahnhof Hann Münden
+id=node/6805468077</desc></wpt><wpt lat="51.8145664" lon="9.8924389"><name>Einbeck Otto-Hahn-Straße</name><desc>name=Einbeck Otto-Hahn-Straße
+old_name=Einbeck Mitte
+operator=Ilmebahn GmbH
+public_transport=station
+railway=station
+railway:ref=HEBA
+railway:ref:DB=HEBA
+uic_ref=8001723
+wheelchair=limited
+wikidata=Q104634869
+id=node/7125423077</desc></wpt><wpt lat="53.2300734" lon="10.3891641"><name>Oedeme</name><desc>internet_access=no
+name=Oedeme
+public_transport=station
+railway=station
+train=yes
+id=node/7523107717</desc></wpt><wpt lat="51.9792536" lon="9.251151"><name>node/7785625372</name><desc>description=Kindereisenbahn des Tierparks
+fee=yes
+public_transport=station
+railway=station
+station=miniature
+train=yes
+id=node/7785625372</desc></wpt><wpt lat="52.320722" lon="8.0063193"><name>Bf. Siebenbürgen</name><desc>name=Bf. Siebenbürgen
+operator=Museum für feldspurige Industriebahnen Osnabrück-Piesberg e.V.
+public_transport=station
+railway=station
+usage=tourism
+id=node/8491295950</desc></wpt><wpt lat="52.8315586" lon="9.5829445"><name>Benzen Haltepunkt</name><desc>name=Benzen Haltepunkt
+operator=Böhmetalbahn
+public_transport=station
+railway=station
+train=yes
+id=node/8660911939</desc></wpt><wpt lat="53.3690779" lon="7.1951814"><name>Emden Hauptbahnhof</name><desc>addr:city=Emden
+addr:housenumber=11
+addr:postcode=26721
+addr:street=Bahnhofsplatz
+name=Emden Hauptbahnhof
+network=Verkehrsverbund Ems-Jade
+network:short=VEJ
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HE
+railway:station_category=3
+ref:station=1580
+train=yes
+uic_name=Emden Hbf
+uic_ref=8001768
+website=https://www.bahn.de/
+wheelchair=yes
+wikidata=Q320682
+wikipedia=de:Emden Hauptbahnhof
+id=node/8850875841</desc></wpt><wpt lat="52.1971082" lon="10.3209954"><name>Lengede-Broistedt</name><desc>name=Lengede-Broistedt
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBST
+railway:station_category=6
+train=yes
+uic_ref=8001188
+wheelchair=yes
+wikidata=Q27057262
+id=node/9045729330</desc></wpt><wpt lat="53.139181" lon="11.0386012"><name>Hitzacker</name><desc>name=Hitzacker
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+train=yes
+wheelchair=no
+wikidata=Q22812921
+id=node/9155930111</desc></wpt><wpt lat="52.8507152" lon="7.6710119"><name>Werlte</name><desc>name=Werlte
+operator=Emsländische Eisenbahn GmbH
+public_transport=stop_position
+railway=station
+train=yes
+usage=tourism
+id=node/9174960044</desc></wpt><wpt lat="53.538095" lon="9.4595862"><name>Rehncamp</name><desc>name=Rehncamp
+operator=DFKM
+public_transport=station
+railway=station
+train=yes
+id=node/9334435651</desc></wpt><wpt lat="52.0357637" lon="9.953401"><name>Almstedt-Segeste</name><desc>alt_name=Museumsbahnhof Almstedt-Segeste
+name=Almstedt-Segeste
+operator=Arbeitsgemeinschaft Historische Eisenbahn e. V.
+railway=station
+usage=tourism
+website=https://www.almetalbahn-online.de
+wikidata=Q110376978
+id=node/9385173255</desc></wpt><wpt lat="52.3236609" lon="8.3418013"><name>Bad Essen</name><desc>name=Bad Essen
+public_transport=stop_position
+railway=station
+train=yes
+usage=tourism
+wikidata=Q64811123
+id=node/9520020569</desc></wpt><wpt lat="52.3191344" lon="8.3713895"><name>Wittlage</name><desc>name=Wittlage
+public_transport=stop_position
+railway=station
+train=yes
+usage=tourism
+id=node/9520020582</desc></wpt><wpt lat="52.3616904" lon="8.3083577"><name>Bohmte Ost</name><desc>name=Bohmte Ost
+operator=Verkehrsgesellschaft Landkreis Osnabrück
+public_transport=stop_position
+railway=station
+train=yes
+usage=tourism
+wikidata=Q132862480
+id=node/9520020589</desc></wpt><wpt lat="52.310252" lon="8.4056056"><name>Rabber</name><desc>name=Rabber
+public_transport=stop_position
+railway=station
+train=yes
+usage=tourism
+id=node/9520020594</desc></wpt><wpt lat="52.2760725" lon="10.5513177"><name>Braunschweig-Gliesmarode</name><desc>addr:city=Braunschweig
+addr:housenumber=119a
+addr:postcode=38104
+addr:street=Berliner Straße
+departures_board=timetable
+name=Braunschweig-Gliesmarode
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HGLI
+railway:station_category=6
+ref:station=836
+train=yes
+uic_ref=8001134
+wheelchair=yes
+wikidata=Q42073109
+wikipedia=de:Bahnhof Braunschweig-Gliesmarode
+id=node/9859262935</desc></wpt><wpt lat="52.0603528" lon="10.5683491"><name>Börßum</name><desc>name=Börßum
+operator=Tourismus und Warnetalbahn GmbH
+public_transport=station
+railway=station
+railway:ref=HBWT
+train=yes
+wikidata=Q26715009
+wikipedia=de:Bahnhof_Börßum
+id=node/9893416502</desc></wpt><wpt lat="52.8508648" lon="9.5962779"><name>Vorwalsrode</name><desc>internet_access=no
+name=Vorwalsrode
+operator=Böhmetalbahn
+public_transport=station
+railway=station
+train=yes
+website=https://www.böhmetal-kleinbahn.de/
+wheelchair=yes
+id=node/10065763667</desc></wpt><wpt lat="52.8525146" lon="9.596966"><name>Vorwalsrode</name><desc>internet_access=no
+name=Vorwalsrode
+operator=Böhmetalbahn
+public_transport=station
+railway=station
+train=yes
+id=node/11248755996</desc></wpt><wpt lat="53.6128864" lon="8.6514527"><name>Debstedt</name><desc>name=Debstedt
+public_transport=station
+railway=station
+usage=tourism
+id=node/11446880499</desc></wpt><wpt lat="51.6437945" lon="10.3298518"><name>Herzberg (Harz)</name><desc>addr:city=Herzberg am Harz
+addr:country=DE
+addr:housenumber=44
+addr:postcode=37412
+addr:street=Bahnhofstraße
+alt_name=Herzberg am Harz Hauptbahnhof
+alt_name_2=Herzberg Hbf
+bus=yes
+loc_name=Hauptbahnhof
+name=Herzberg (Harz)
+network=Verkehrsverbund Süd-Niedersachsen
+network:short=VSN
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HHB
+railway:station_category=5
+ref:station=2740
+source=Bing;extrapolation;http://www.bahnseite.de/DS100/DS100_main.html
+taxi=yes
+train=yes
+uic_ref=8000166
+website=https://www.bahnhof.de/bahnhof-de/Herzberg__Harz_.html
+wheelchair=yes
+wikidata=Q17521468
+wikimedia_commons=File:Bahnhofsgebäude Gleisseite - Herzberg (Harz).JPG
+wikipedia=de:Bahnhof Herzberg (Harz)
+id=node/11494411687</desc></wpt><wpt lat="52.4930094" lon="10.1056398"><name>Hänigsen-Riedel</name><desc>name=Hänigsen-Riedel
+public_transport=station
+railway=station
+train=yes
+wheelchair=yes
+id=node/11737270748</desc></wpt><wpt lat="52.539925" lon="8.6844537"><name>Draisinen-Bahnhof Ströhen</name><desc>draisine=yes
+name=Draisinen-Bahnhof Ströhen
+operator=Auenland-Draisinen
+public_transport=station
+railway=station
+website=https://www.aue-draisinen.de/
+id=node/12176252489</desc></wpt><wpt lat="52.5476707" lon="8.6750197"><name>EFMK Moorwelten</name><desc>name=EFMK Moorwelten
+operator=Gemeinde Wagenfeld
+public_transport=station
+railway=station
+id=node/12176453209</desc></wpt><wpt lat="52.5403071" lon="8.6850565"><name>Moorbahn-Bahnhof</name><desc>name=Moorbahn-Bahnhof
+operator=Gemeinde Wagenfeld
+public_transport=station
+railway=station
+id=node/12176453215</desc></wpt><wpt lat="52.9829754" lon="9.8310845"><name>Soltau</name><desc>name=Soltau
+official_name=Soltau (Han)
+operator=DB InfraGO
+public_transport=station
+railway=station
+railway:ref=HSO
+railway:station_category=5
+train=yes
+uic_name=Soltau(Han)
+uic_ref=8000088
+wheelchair=limited
+wikidata=Q14549950
+wikipedia=de:Bahnhof Soltau (Han)
+id=node/12960090588</desc></wpt><wpt lat="51.6441625" lon="10.3303303"><name>node/6574112886</name><desc>id=node/6574112886</desc></wpt><wpt lat="52.3357901" lon="10.1681841"><name>node/12556759628</name><desc>id=node/12556759628</desc></wpt><trk><name>way/971040099</name><desc>building=hut
+monorail=yes
+public_transport=station
+railway=station
+wheelchair=yes
+id=way/971040099</desc><trkseg><trkpt lat="52.0980507" lon="9.661422"/><trkpt lat="52.0980574" lon="9.6614303"/><trkpt lat="52.0981167" lon="9.6614967"/><trkpt lat="52.0983146" lon="9.6610378"/><trkpt lat="52.0982633" lon="9.6609786"/><trkpt lat="52.0982501" lon="9.6609608"/><trkpt lat="52.0980507" lon="9.661422"/></trkseg></trk><trk><name>way/461950679</name><desc>id=way/461950679</desc><trkseg><trkpt lat="51.6460596" lon="10.3288922"/><trkpt lat="51.6460471" lon="10.3288391"/><trkpt lat="51.6450037" lon="10.3294762"/><trkpt lat="51.6450124" lon="10.3295132"/><trkpt lat="51.6450161" lon="10.329529"/><trkpt lat="51.6460596" lon="10.3288922"/></trkseg></trk><trk><name>way/127240336</name><desc>id=way/127240336</desc><trkseg><trkpt lat="51.6440919" lon="10.3299454"/><trkpt lat="51.6441075" lon="10.3300195"/><trkpt lat="51.6441554" lon="10.3302478"/><trkpt lat="51.6440282" lon="10.330317"/><trkpt lat="51.6440129" lon="10.3302437"/><trkpt lat="51.6439797" lon="10.3302618"/><trkpt lat="51.643903" lon="10.3303036"/><trkpt lat="51.6439095" lon="10.330335"/><trkpt lat="51.6438215" lon="10.3303829"/><trkpt lat="51.643776" lon="10.3301618"/><trkpt lat="51.6437677" lon="10.3301224"/><trkpt lat="51.6439367" lon="10.3300301"/><trkpt lat="51.6440201" lon="10.3299846"/><trkpt lat="51.6440919" lon="10.3299454"/></trkseg></trk><trk><name>way/127240342</name><desc>id=way/127240342</desc><trkseg><trkpt lat="51.6442201" lon="10.3298292"/><trkpt lat="51.6441299" lon="10.3298781"/><trkpt lat="51.6441337" lon="10.3298965"/><trkpt lat="51.6441387" lon="10.3299202"/><trkpt lat="51.6441288" lon="10.3299253"/><trkpt lat="51.6440919" lon="10.3299454"/><trkpt lat="51.6440201" lon="10.3299846"/><trkpt lat="51.6439367" lon="10.3300301"/><trkpt lat="51.6437677" lon="10.3301224"/><trkpt lat="51.643776" lon="10.3301618"/><trkpt lat="51.6437507" lon="10.3301756"/><trkpt lat="51.6437174" lon="10.3301938"/><trkpt lat="51.6435916" lon="10.3302625"/><trkpt lat="51.6435852" lon="10.330232"/><trkpt lat="51.6432002" lon="10.3304423"/><trkpt lat="51.6431806" lon="10.3303493"/><trkpt lat="51.6434001" lon="10.3302294"/><trkpt lat="51.6444988" lon="10.3296292"/><trkpt lat="51.6445078" lon="10.329672"/><trkpt lat="51.6442201" lon="10.3298292"/></trkseg></trk><trk><name>way/219793384</name><desc>id=way/219793384</desc><trkseg><trkpt lat="51.6441479" lon="10.330023"/><trkpt lat="51.6441902" lon="10.3300024"/><trkpt lat="51.6442444" lon="10.3299721"/></trkseg></trk><trk><name>way/226148250</name><desc>id=way/226148250</desc><trkseg><trkpt lat="51.6445173" lon="10.3298463"/><trkpt lat="51.6447141" lon="10.3297364"/><trkpt lat="51.6447254" lon="10.3297891"/><trkpt lat="51.6445912" lon="10.329864"/><trkpt lat="51.6445286" lon="10.329899"/><trkpt lat="51.6445173" lon="10.3298463"/></trkseg></trk><trk><name>way/226148252</name><desc>id=way/226148252</desc><trkseg><trkpt lat="51.6449898" lon="10.3296614"/><trkpt lat="51.644596" lon="10.3298847"/><trkpt lat="51.6442825" lon="10.3300625"/></trkseg></trk><trk><name>way/260815140</name><desc>id=way/260815140</desc><trkseg><trkpt lat="51.6446098" lon="10.3299454"/><trkpt lat="51.644596" lon="10.3298847"/><trkpt lat="51.6445912" lon="10.329864"/></trkseg></trk><trk><name>way/329140234</name><desc>id=way/329140234</desc><trkseg><trkpt lat="51.6442825" lon="10.3300625"/><trkpt lat="51.6441683" lon="10.3301272"/></trkseg></trk><trk><name>way/329146330</name><desc>id=way/329146330</desc><trkseg><trkpt lat="51.6445286" lon="10.329899"/><trkpt lat="51.6444704" lon="10.3299313"/><trkpt lat="51.6444592" lon="10.3298786"/><trkpt lat="51.6445173" lon="10.3298463"/><trkpt lat="51.6445286" lon="10.329899"/></trkseg></trk><trk><name>way/461965176</name><desc>id=way/461965176</desc><trkseg><trkpt lat="51.6442444" lon="10.3299721"/><trkpt lat="51.6444475" lon="10.3298586"/><trkpt lat="51.6447059" lon="10.3297054"/><trkpt lat="51.6449662" lon="10.3295422"/><trkpt lat="51.6450124" lon="10.3295132"/></trkseg></trk><trk><name>way/967343384</name><desc>id=way/967343384</desc><trkseg><trkpt lat="52.3308824" lon="10.1824662"/><trkpt lat="52.331036" lon="10.1825711"/><trkpt lat="52.3316198" lon="10.1807787"/><trkpt lat="52.3323733" lon="10.1784985"/><trkpt lat="52.3337479" lon="10.1741047"/><trkpt lat="52.3348303" lon="10.1712006"/><trkpt lat="52.3352765" lon="10.1704716"/><trkpt lat="52.3359125" lon="10.1685303"/><trkpt lat="52.3360362" lon="10.1680636"/><trkpt lat="52.335982" lon="10.1675399"/><trkpt lat="52.3364661" lon="10.1660404"/><trkpt lat="52.3371027" lon="10.1641363"/><trkpt lat="52.3382145" lon="10.1605576"/><trkpt lat="52.33841" lon="10.1599086"/><trkpt lat="52.3391817" lon="10.157653"/><trkpt lat="52.3391116" lon="10.1575582"/><trkpt lat="52.3388843" lon="10.1580876"/><trkpt lat="52.3371465" lon="10.1633177"/><trkpt lat="52.3367419" lon="10.1645353"/><trkpt lat="52.3349357" lon="10.1700489"/><trkpt lat="52.3340989" lon="10.172649"/><trkpt lat="52.3335656" lon="10.1743062"/><trkpt lat="52.3335201" lon="10.1744358"/><trkpt lat="52.3329742" lon="10.1759895"/><trkpt lat="52.332252" lon="10.1782102"/><trkpt lat="52.3321746" lon="10.1784481"/><trkpt lat="52.3316955" lon="10.1799211"/><trkpt lat="52.331316" lon="10.1811089"/><trkpt lat="52.3308824" lon="10.1824662"/></trkseg></trk><trk><name>way/967343383</name><desc>id=way/967343383</desc><trkseg><trkpt lat="52.3406636" lon="10.1542186"/><trkpt lat="52.3406429" lon="10.1540483"/><trkpt lat="52.3397091" lon="10.1560708"/><trkpt lat="52.3391116" lon="10.1575582"/><trkpt lat="52.3391817" lon="10.157653"/><trkpt lat="52.339776" lon="10.1561693"/><trkpt lat="52.3406636" lon="10.1542186"/></trkseg></trk><trk><name>way/253616267</name><desc>id=way/253616267</desc><trkseg><trkpt lat="52.335678" lon="10.1679179"/><trkpt lat="52.3356657" lon="10.1679072"/><trkpt lat="52.3356447" lon="10.1678891"/><trkpt lat="52.3347662" lon="10.1706078"/><trkpt lat="52.3347995" lon="10.1706366"/><trkpt lat="52.335678" lon="10.1679179"/></trkseg></trk><trk><name>way/294166766</name><desc>id=way/294166766</desc><trkseg><trkpt lat="52.3357419" lon="10.1679974"/><trkpt lat="52.3350498" lon="10.170096"/><trkpt lat="52.3348571" lon="10.1706804"/></trkseg></trk></gpx>
