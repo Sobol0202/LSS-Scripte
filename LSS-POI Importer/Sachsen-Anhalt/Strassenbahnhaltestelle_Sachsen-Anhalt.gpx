@@ -1,0 +1,5603 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="51.8313775" lon="12.2424807"><name>Museum Nord</name><desc>bus=yes
+name=Museum Nord
+network=Dessauer Verkehrsgesellschaft mbH
+operator=Dessauer Verkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:15001:10447
+tram=yes
+wheelchair=yes
+id=node/26511049</desc></wpt><wpt lat="51.8340802" lon="12.2426874"><name>Bauhausmuseum</name><desc>name=Bauhausmuseum
+network=Dessauer Verkehrsgesellschaft mbH
+operator=Dessauer Verkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:15001:30320
+tram=yes
+id=node/26511055</desc></wpt><wpt lat="51.8130906" lon="12.2414453"><name>Friedhof III</name><desc>name=Friedhof III
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/27664702</desc></wpt><wpt lat="51.8060635" lon="12.2409609"><name>Damaschkestraße</name><desc>name=Damaschkestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wheelchair:description=sehr schmaler Bahnsteig, mit Rollstuhl kommt man nicht in die Bahn (Abstand &amp; Höhe Bahn-Bahnsteig)
+id=node/27664726</desc></wpt><wpt lat="51.8094199" lon="12.2411347"><name>DVG</name><desc>name=DVG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/27664730</desc></wpt><wpt lat="51.798451" lon="12.2397792"><name>Tempelhofer Straße</name><desc>name=Tempelhofer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/31208563</desc></wpt><wpt lat="51.5021594" lon="11.9542173"><name>Burg Giebichenstein</name><desc>bus=yes
+local_ref=A
+name=Burg Giebichenstein
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/31794739</desc></wpt><wpt lat="51.5016444" lon="11.9549676"><name>Burg Giebichenstein</name><desc>local_ref=B
+name=Burg Giebichenstein
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/31794750</desc></wpt><wpt lat="51.5001717" lon="11.9582437"><name>Triftstraße</name><desc>local_ref=B
+name=Triftstraße
+operator=HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/31794778</desc></wpt><wpt lat="52.1274333" lon="11.6339046"><name>Leiterstraße</name><desc>name=Leiterstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2000
+tram=yes
+uic_ref=953436
+wheelchair=yes
+id=node/57494310</desc></wpt><wpt lat="52.1210947" lon="11.6284126"><name>Hasselbachplatz</name><desc>fare_zone=010
+name=Hasselbachplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=19
+tram=yes
+uic_ref=953330
+wheelchair=yes
+id=node/57501560</desc></wpt><wpt lat="52.1184839" lon="11.6068148"><name>Westringbrücke</name><desc>name=Westringbrücke
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=192
+tram=yes
+uic_ref=953431
+wheelchair=yes
+id=node/57560093</desc></wpt><wpt lat="52.1241358" lon="11.6062126"><name>Liebknechtstraße</name><desc>name=Liebknechtstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=191
+toilets:wheelchair=no
+tram=yes
+uic_ref=953434
+wheelchair=yes
+id=node/57560096</desc></wpt><wpt lat="52.1267939" lon="11.6058031"><name>Spielhagenstraße</name><desc>name=Spielhagenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=190
+tram=yes
+uic_ref=953433
+wheelchair=yes
+id=node/57561465</desc></wpt><wpt lat="52.1293124" lon="11.6054029"><name>Westring</name><desc>name=Westring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=11126
+tram=yes
+uic_ref=953403
+wheelchair=yes
+id=node/57561466</desc></wpt><wpt lat="52.1308412" lon="11.6370934"><name>Allee-Center</name><desc>bus=no
+local_ref=B
+name=Allee-Center
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2121
+ref_name=Allee-Center, Magdeburg
+tram=yes
+uic_ref=960015
+wheelchair=yes
+id=node/57565331</desc></wpt><wpt lat="52.1280576" lon="11.6303216"><name>Verkehrsbetriebe</name><desc>name=Verkehrsbetriebe
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1090
+ref_name=Verkehrsbetriebe, Magdeburg
+tram=yes
+wheelchair=yes
+id=node/58658225</desc></wpt><wpt lat="52.1244144" lon="11.6285198"><name>Haeckelstraße/Museum</name><desc>bus=no
+name=Haeckelstraße/Museum
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1089
+ref_name=Haeckelstr./Museum, Magdeburg
+tram=yes
+uic_ref=953388
+wheelchair=yes
+id=node/58658226</desc></wpt><wpt lat="52.1354736" lon="11.6037984"><name>Harsdorfer Straße</name><desc>name=Harsdorfer Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=5
+ref:mvb=1103
+tram=yes
+wheelchair=yes
+id=node/59866677</desc></wpt><wpt lat="52.1894673" lon="11.6714941"><name>Betriebshof Nord</name><desc>name=Betriebshof Nord
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=52
+tram=yes
+uic_name=Einfahrt Betriebshof Nord, Magdeburg
+uic_ref=953359
+wheelchair=no
+id=node/59889210</desc></wpt><wpt lat="52.1982934" lon="11.6744279"><name>Enercon</name><desc>name=Enercon
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=55
+tram=yes
+uic_name=Enercon, Magdeburg
+uic_ref=953362
+wheelchair=yes
+id=node/59889213</desc></wpt><wpt lat="52.2094494" lon="11.6686382"><name>Barleber See</name><desc>name=Barleber See
+network=marego
+note=nur Ausstieg
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=57
+tram=yes
+uic_name=Barleber See, Magdeburg
+uic_ref=953364
+wheelchair=yes
+id=node/59889217</desc></wpt><wpt lat="52.1679384" lon="11.6621514"><name>Havelstraße</name><desc>name=Havelstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=47
+tram=yes
+uic_name=Havelstraße, Magdeburg
+uic_ref=953355
+wheelchair=yes
+id=node/59890034</desc></wpt><wpt lat="52.1777672" lon="11.6669721"><name>Schule Rothensee</name><desc>name=Schule Rothensee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=48
+tram=yes
+uic_name=Schule Rothensee, Magdeburg
+uic_ref=953356
+wheelchair=yes
+id=node/59890037</desc></wpt><wpt lat="52.1378004" lon="11.6436411"><name>Listemannstraße</name><desc>name=Listemannstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1161
+tram=yes
+uic_ref=961147
+wheelchair=yes
+id=node/59899254</desc></wpt><wpt lat="52.1846726" lon="11.6700828"><name>Hohenwarther Straße</name><desc>name=Hohenwarther Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=50
+tram=yes
+uic_name=Hohenwarther Str., Magdeburg
+uic_ref=953358
+wheelchair=yes
+id=node/59934486</desc></wpt><wpt lat="52.139603" lon="11.6397033"><name>Universität</name><desc>name=Universität
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2009
+tram=yes
+uic_ref=961148
+wheelchair=yes
+id=node/59980846</desc></wpt><wpt lat="52.1409843" lon="11.5840976"><name>Drosselsteig</name><desc>name=Drosselsteig
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=98
+tram=yes
+uic_name=Drosselsteig, Magdeburg
+uic_ref=953397
+wheelchair=yes
+id=node/60008681</desc></wpt><wpt lat="52.1697392" lon="11.6318242"><name>Neustädter Platz</name><desc>name=Neustädter Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1029
+tram=yes
+uic_name=Neustädter Platz, Magdeburg
+uic_ref=953340
+wheelchair=yes
+id=node/60041183</desc></wpt><wpt lat="52.1513748" lon="11.6383306"><name>Neustädter Friedhof</name><desc>name=Neustädter Friedhof
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2003
+tram=yes
+uic_name=Neustädter Friedhof, Magdeburg
+uic_ref=953437
+wheelchair=yes
+id=node/60041217</desc></wpt><wpt lat="52.1286894" lon="11.6623106"><name>Arenen</name><desc>disused:railway=tram_stop
+name=Arenen
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1140
+ref_name=Arenen, Magdeburg
+tram=yes
+uic_name=Arenen, Magdeburg
+uic_ref=953416
+wheelchair=yes
+id=node/60439860</desc></wpt><wpt lat="52.14034" lon="11.6465275"><name>Universitätsbibliothek</name><desc>name=Universitätsbibliothek
+network=marego
+old_name=Pfälzer Straße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=145
+tram=yes
+wheelchair=no
+id=node/60603793</desc></wpt><wpt lat="52.1321866" lon="11.6370765"><name>Alter Markt</name><desc>bus=yes
+highway=bus_stop
+local_ref=C
+name=Alter Markt
+network=marego
+network:wikidata=Q1883891
+network:wikipedia=de:Magdeburger Regionalverkehrsverbund
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=21
+tram=yes
+uic_ref=953332
+wheelchair=yes
+id=node/60604767</desc></wpt><wpt lat="52.1731915" lon="11.6308946"><name>Krähenstieg</name><desc>name=Krähenstieg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1030
+tram=yes
+uic_name=Krähenstieg, Magdeburg
+uic_ref=953341
+wheelchair=yes
+id=node/61014537</desc></wpt><wpt lat="52.1754258" lon="11.6354469"><name>Neustädter See</name><desc>name=Neustädter See
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1031
+tram=yes
+uic_name=Neustädter See, Magdeburg
+uic_ref=953342
+wheelchair=yes
+id=node/61014541</desc></wpt><wpt lat="52.1352525" lon="11.6674425"><name>Messegelände/Elbauenpark</name><desc>name=Messegelände/Elbauenpark
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1166
+ref_name=Messegelände/Elbauenpark, Magdeburg
+tram=yes
+uic_name=Messegelände/Elbauenpark, Magdeburg
+uic_ref=954378
+wheelchair=yes
+id=node/74925013</desc></wpt><wpt lat="52.1119922" lon="11.6702736"><name>Pechauer Platz</name><desc>alt_name=Cracau
+name=Pechauer Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=39
+ref_name=Pechauer Platz, Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=yes
+id=node/79288446</desc></wpt><wpt lat="52.1117473" lon="11.6712209"><name>Pechauer Platz</name><desc>alt_name=Cracau
+bus=yes
+highway=bus_stop
+name=Pechauer Platz
+network=marego
+network:wikidata=Q1883891
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1039
+ref_name=Pechauer Platz, Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=yes
+id=node/79288447</desc></wpt><wpt lat="52.2088364" lon="11.6689748"><name>Barleber See</name><desc>name=Barleber See
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1057
+tram=yes
+uic_name=Barleber See, Magdeburg
+uic_ref=953364
+wheelchair=yes
+id=node/81342423</desc></wpt><wpt lat="52.1468086" lon="11.6396879"><name>S-Bahnhof Neustadt</name><desc>name=S-Bahnhof Neustadt
+network=marego
+old_name=Bahnhof Neustadt
+old_uic_name=Bahnhof Neustadt (Tram), Magdeburg
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=1;8;9;10
+ref:mvb=1024
+tram=yes
+uic_name=S-Bahnhof Neustadt, Magdeburg
+uic_ref=953335
+wheelchair=yes
+id=node/90668623</desc></wpt><wpt lat="52.2042151" lon="11.6738665"><name>Industrie- und Logistik-Centrum</name><desc>name=Industrie- und Logistik-Centrum
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=56
+tram=yes
+uic_name=Industrie-u.Logistik-Centrum, Magdeburg
+uic_ref=953363
+wheelchair=yes
+id=node/97834693</desc></wpt><wpt lat="51.4878726" lon="11.9661832"><name>Moritzburgring</name><desc>local_ref=B
+name=Moritzburgring
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/102471612</desc></wpt><wpt lat="52.1306294" lon="11.6286756"><name>Hauptbahnhof/Willy-Brandt-Platz</name><desc>bus=no
+name=Hauptbahnhof/Willy-Brandt-Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/102690094</desc></wpt><wpt lat="51.4870242" lon="11.9666609"><name>Moritzburgring</name><desc>local_ref=A
+name=Moritzburgring
+operator=HAVAG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/109330314</desc></wpt><wpt lat="51.484737" lon="11.9732124"><name>Joliot-Curie-Platz</name><desc>local_ref=B
+name=Joliot-Curie-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wheelchair:description=Rampen müssen vom Fahrzeugführer herausgegeben werden.
+id=node/109330386</desc></wpt><wpt lat="51.4824706" lon="11.9637037"><name>Ankerstraße</name><desc>local_ref=B
+name=Ankerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/114767976</desc></wpt><wpt lat="51.4880189" lon="11.9774304"><name>Am Steintor</name><desc>local_ref=B
+name=Am Steintor
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/245782857</desc></wpt><wpt lat="51.4792331" lon="11.9827444"><name>Riebeckplatz</name><desc>local_ref=B
+name=Riebeckplatz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/245782909</desc></wpt><wpt lat="52.1324361" lon="11.6044531"><name>Alexander-Puschkin-Straße</name><desc>name=Alexander-Puschkin-Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=5
+ref:mvb=1104
+tram=yes
+wheelchair=yes
+id=node/245923007</desc></wpt><wpt lat="52.1348861" lon="11.638325"><name>Am Katharinenturm</name><desc>name=Am Katharinenturm
+name_old=Breiter Weg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2020
+tram=yes
+uic_ref=957847
+wheelchair=limited
+id=node/245924307</desc></wpt><wpt lat="51.478501" lon="11.9769091"><name>Am Leipziger Turm</name><desc>local_ref=A
+name=Am Leipziger Turm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/246053219</desc></wpt><wpt lat="51.478667" lon="11.9688831"><name>Franckeplatz</name><desc>local_ref=D
+name=Franckeplatz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/246053234</desc></wpt><wpt lat="51.4825052" lon="11.9464908"><name>Rennbahnkreuz</name><desc>local_ref=B
+name=Rennbahnkreuz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wheelchair:description=Es gibt abgesenkte Bordsteinkanten. Einsteig zur Bahn durch vorhandene Rampe in der Bahn möglich. Bitte dem Straßenbahnfahrer bescheid geben.
+id=node/246053290</desc></wpt><wpt lat="51.4834341" lon="11.9469292"><name>Rennbahnkreuz</name><desc>local_ref=D
+name=Rennbahnkreuz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/246053304</desc></wpt><wpt lat="51.479785" lon="11.964428"><name>Glauchaer Platz</name><desc>local_ref=A
+name=Glauchaer Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/246053331</desc></wpt><wpt lat="51.478483" lon="11.9858055"><name>Hauptbahnhof</name><desc>layer=-1
+local_ref=B
+name=Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/246053332</desc></wpt><wpt lat="52.1209702" lon="11.6274988"><name>Hasselbachplatz</name><desc>name=Hasselbachplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1088
+ref_name=Hasselbachplatz (Tram/Bus), Magdeburg
+tram=yes
+uic_ref=953330
+wheelchair=yes
+id=node/246241110</desc></wpt><wpt lat="51.49593" lon="11.9662732"><name>Reileck</name><desc>bus=yes
+highway=bus_stop
+local_ref=B
+name=Reileck
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/247066389</desc></wpt><wpt lat="51.5051958" lon="11.9512575"><name>Talstraße</name><desc>local_ref=A
+name=Talstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/247066390</desc></wpt><wpt lat="51.506585" lon="11.9656241"><name>Zoo</name><desc>bus=yes
+highway=bus_stop
+local_ref=B
+name=Zoo
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/247096773</desc></wpt><wpt lat="51.4898312" lon="11.9804676"><name>Friesenstraße</name><desc>local_ref=B
+name=Friesenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/247096798</desc></wpt><wpt lat="51.4897916" lon="11.9865122"><name>S-Bf. Steintorbrücke</name><desc>layer=1
+local_ref=B
+name=S-Bf. Steintorbrücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/247096803</desc></wpt><wpt lat="52.1379893" lon="11.650666"><name>Askanischer Platz</name><desc>name=Askanischer Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1168
+tram=yes
+uic_ref=954381
+wheelchair=yes
+id=node/247120347</desc></wpt><wpt lat="51.4906073" lon="11.976141"><name>Lessingstraße</name><desc>local_ref=A
+name=Lessingstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/248206253</desc></wpt><wpt lat="51.4912608" lon="11.9748559"><name>Lessingstraße</name><desc>local_ref=B
+name=Lessingstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/248206254</desc></wpt><wpt lat="51.4588589" lon="11.946816"><name>Diesterwegstraße</name><desc>local_ref=B
+name=Diesterwegstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/248206441</desc></wpt><wpt lat="51.4557553" lon="11.9432653"><name>Wiener Straße</name><desc>local_ref=B
+name=Wiener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wheelchair:description=Zu enge Haltestelle
+id=node/248206443</desc></wpt><wpt lat="51.3341533" lon="11.9825729"><name>Naumburger Straße</name><desc>name=Naumburger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/248515830</desc></wpt><wpt lat="51.334595" lon="11.9916332"><name>Kötzschener Weg</name><desc>local_ref=B
+name=Kötzschener Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/248515861</desc></wpt><wpt lat="51.4259545" lon="11.9851738"><name>Florian-Geyer-Platz</name><desc>local_ref=B
+name=Florian-Geyer-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/248516161</desc></wpt><wpt lat="51.3302292" lon="11.9764678"><name>Merseburg Süd</name><desc>name=Merseburg Süd
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/248527660</desc></wpt><wpt lat="51.4964085" lon="11.981135"><name>Äußere Hordorfer Straße</name><desc>local_ref=A
+name=Äußere Hordorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/249086290</desc></wpt><wpt lat="51.5008563" lon="11.9848616"><name>S-Bhf. Dessauer Brücke</name><desc>local_ref=A
+name=S-Bhf. Dessauer Brücke
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/249086313</desc></wpt><wpt lat="51.5067821" lon="11.9918256"><name>Kornblumenweg</name><desc>local_ref=A
+name=Kornblumenweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/249086323</desc></wpt><wpt lat="51.486953" lon="11.9458435"><name>Gimritzer Damm</name><desc>bus=no
+local_ref=B
+name=Gimritzer Damm
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249154864</desc></wpt><wpt lat="51.4960234" lon="11.9388029"><name>Weinberg Campus</name><desc>local_ref=B
+name=Weinberg Campus
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249154877</desc></wpt><wpt lat="51.456082" lon="11.9617297"><name>Paul-Suhr-Straße</name><desc>local_ref=B
+name=Paul-Suhr-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249393951</desc></wpt><wpt lat="51.4567147" lon="11.9629372"><name>Paul-Suhr-Straße</name><desc>local_ref=B
+name=Paul-Suhr-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249393953</desc></wpt><wpt lat="51.5131203" lon="11.9587032"><name>Pfarrstraße</name><desc>local_ref=A
+name=Pfarrstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/249394006</desc></wpt><wpt lat="51.449943" lon="11.9739923"><name>Elsa-Brändström-Straße</name><desc>local_ref=A
+name=Elsa-Brändström-Straße
+network=Mitteldeutscher Verkehrsverbund
+network:short=MDV
+network:wikidata=Q1742463
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249394056</desc></wpt><wpt lat="51.5107397" lon="11.9614195"><name>Seebener Straße</name><desc>local_ref=B
+name=Seebener Straße
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=no
+id=node/249394129</desc></wpt><wpt lat="51.4528473" lon="11.9612751"><name>Moskauer Straße</name><desc>local_ref=A
+name=Moskauer Straße
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249394218</desc></wpt><wpt lat="51.4490156" lon="11.9592544"><name>Südstadt, Veszpremer Straße</name><desc>local_ref=C
+name=Südstadt, Veszpremer Straße
+operator=HAVAG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249394382</desc></wpt><wpt lat="51.449791" lon="11.9608089"><name>Südstadt, Paul-Suhr-Straße</name><desc>local_ref=H
+name=Südstadt, Paul-Suhr-Straße
+operator=SWH.HAVAG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249394383</desc></wpt><wpt lat="51.4574431" lon="11.971979"><name>Vogelweide</name><desc>local_ref=A
+name=Vogelweide
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249394394</desc></wpt><wpt lat="51.5192191" lon="11.9579936"><name>Trotha</name><desc>local_ref=B
+name=Trotha
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/249394473</desc></wpt><wpt lat="51.4576216" lon="11.9838442"><name>Damaschkestraße</name><desc>local_ref=A
+name=Damaschkestraße
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+wheelchair=limited
+id=node/249405282</desc></wpt><wpt lat="51.4245098" lon="11.9864663"><name>Ammendorf</name><desc>local_ref=B
+name=Ammendorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249405291</desc></wpt><wpt lat="51.4350357" lon="11.9841344"><name>Am Sommerbad</name><desc>local_ref=A
+name=Am Sommerbad
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249405401</desc></wpt><wpt lat="51.4380758" lon="11.9840473"><name>Betriebshof Rosengarten</name><desc>local_ref=B
+name=Betriebshof Rosengarten
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/249405407</desc></wpt><wpt lat="51.4399904" lon="11.9840625"><name>Betriebshof Rosengarten</name><desc>local_ref=A
+name=Betriebshof Rosengarten
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/249405408</desc></wpt><wpt lat="51.4511428" lon="11.9838885"><name>Theodor-Neubauer-Straße</name><desc>local_ref=B
+name=Theodor-Neubauer-Straße
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=no
+id=node/249405430</desc></wpt><wpt lat="51.456072" lon="11.9838251"><name>Damaschkestraße</name><desc>local_ref=C
+name=Damaschkestraße
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+wheelchair=limited
+id=node/249405434</desc></wpt><wpt lat="51.4567525" lon="11.9780672"><name>Am Grünen Feld</name><desc>local_ref=B
+name=Am Grünen Feld
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249405440</desc></wpt><wpt lat="51.456769" lon="11.9732564"><name>Vogelweide</name><desc>local_ref=B
+name=Vogelweide
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249405447</desc></wpt><wpt lat="51.5075842" lon="11.9276661"><name>Kröllwitz</name><desc>local_ref=B
+name=Kröllwitz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249431670</desc></wpt><wpt lat="51.5040856" lon="11.9288951"><name>Spechtweg</name><desc>local_ref=B
+name=Spechtweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249431710</desc></wpt><wpt lat="51.5001417" lon="11.9328782"><name>Heide-Universitätsklinikum</name><desc>local_ref=C
+name=Heide-Universitätsklinikum
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249431731</desc></wpt><wpt lat="51.4813006" lon="11.9400658"><name>Hyazinthenstraße</name><desc>local_ref=B
+name=Hyazinthenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wheelchair:description=Es gibt abgesenkte Bordsteinkanten. Einsteig zur Bahn durch vorhandene Rampe in der Bahn möglich. Bitte dem Straßenbahnfahrer bescheid geben.
+id=node/249431998</desc></wpt><wpt lat="51.4794785" lon="11.891546"><name>Soltauer Straße</name><desc>local_ref=B
+name=Soltauer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432290</desc></wpt><wpt lat="51.4790595" lon="11.9039389"><name>An der Eselsmühle</name><desc>local_ref=B
+name=An der Eselsmühle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432376</desc></wpt><wpt lat="51.4789712" lon="11.9145261"><name>Schwimmhalle</name><desc>bus=yes
+highway=bus_stop
+local_ref=B
+name=Schwimmhalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432390</desc></wpt><wpt lat="51.4799387" lon="11.9275888"><name>Zentrum Neustadt</name><desc>local_ref=B
+name=Zentrum Neustadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/249432435</desc></wpt><wpt lat="51.4808083" lon="11.9340255"><name>An der Feuerwache (B)</name><desc>local_ref=B
+name=An der Feuerwache (B)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432459</desc></wpt><wpt lat="51.4441891" lon="11.9660861"><name>S-Bahnhof Silberhöhe</name><desc>layer=1
+local_ref=A
+name=S-Bahnhof Silberhöhe
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432512</desc></wpt><wpt lat="51.4419024" lon="11.9657385"><name>Gustav-Staude-Straße</name><desc>local_ref=A
+name=Gustav-Staude-Straße
+name:etymology:wikidata=Q1556419
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/249432514</desc></wpt><wpt lat="51.4337933" lon="11.9639911"><name>Brühlstraße</name><desc>local_ref=A
+name=Brühlstraße
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432530</desc></wpt><wpt lat="51.4327731" lon="11.9670538"><name>Beesen</name><desc>local_ref=C
+name=Beesen
+operator=SWH.HAVAG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432568</desc></wpt><wpt lat="51.4374972" lon="11.9659771"><name>Anhalter Platz</name><desc>local_ref=A
+name=Anhalter Platz
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432627</desc></wpt><wpt lat="51.4453263" lon="11.9607884"><name>Freyburger Straße</name><desc>local_ref=A
+name=Freyburger Straße
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249432665</desc></wpt><wpt lat="51.4847658" lon="11.9945421"><name>Betriebshof Freiimfelder Straße</name><desc>local_ref=A
+name=Betriebshof Freiimfelder Straße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=no
+id=node/249432759</desc></wpt><wpt lat="51.4935243" lon="11.9700746"><name>Willy-Lohmann-Straße</name><desc>bus=yes
+highway=bus_stop
+local_ref=B
+name=Willy-Lohmann-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/249801503</desc></wpt><wpt lat="51.4928118" lon="11.9715272"><name>Willy-Lohmann-Straße</name><desc>local_ref=A
+name=Willy-Lohmann-Straße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/249801504</desc></wpt><wpt lat="51.4848722" lon="11.9803365"><name>Magdeburger Straße</name><desc>local_ref=B
+name=Magdeburger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249801506</desc></wpt><wpt lat="51.4775421" lon="11.9854592"><name>Hauptbahnhof</name><desc>local_ref=D
+name=Hauptbahnhof
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249801507</desc></wpt><wpt lat="51.3128131" lon="12.0364421"><name>Daspig</name><desc>name=Daspig
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254034302</desc></wpt><wpt lat="51.318546" lon="12.0320625"><name>Krähenberg</name><desc>name=Krähenberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254034303</desc></wpt><wpt lat="51.3235724" lon="12.0247027"><name>Sachsenplatz</name><desc>name=Sachsenplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254034304</desc></wpt><wpt lat="51.326761" lon="12.020426"><name>Pfalzplatz</name><desc>name=Pfalzplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254034306</desc></wpt><wpt lat="51.2988599" lon="12.0607503"><name>Kurpark</name><desc>name=Kurpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254055423</desc></wpt><wpt lat="51.2962366" lon="12.0555836"><name>Kirchfährendorf</name><desc>name=Kirchfährendorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254055428</desc></wpt><wpt lat="51.3252447" lon="12.0122851"><name>Am Haupttor</name><desc>name=Am Haupttor
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254055429</desc></wpt><wpt lat="51.331427" lon="12.0068428"><name>Industrietor</name><desc>name=Industrietor
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254055430</desc></wpt><wpt lat="51.3377672" lon="11.9950158"><name>Leunaweg</name><desc>local_ref=C
+name=Leunaweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254347158</desc></wpt><wpt lat="51.3375513" lon="11.994981"><name>Leunaweg</name><desc>local_ref=E
+name=Leunaweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254347164</desc></wpt><wpt lat="51.4601143" lon="11.983805"><name>BG Klinikum Bergmannstrost Halle</name><desc>local_ref=B
+name=BG Klinikum Bergmannstrost Halle
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=no
+id=node/256629268</desc></wpt><wpt lat="51.4631044" lon="11.9837308"><name>Huttenstraße</name><desc>local_ref=B
+name=Huttenstraße
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=no
+id=node/256629270</desc></wpt><wpt lat="51.466153" lon="11.9837042"><name>Lutherstraße</name><desc>description=2017 Achtung: Bauarbeiten auf Linie 2. Linie 2 verkehrt nur zwischen Soltauer Straße und Veszpremer Straße, Schienenersatz mit BUS ist eingerichtet. Linie 1 verkehrt nach Beesen.
+local_ref=B
+name=Lutherstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/256629273</desc></wpt><wpt lat="51.4720013" lon="11.9836445"><name>Pfännerhöhe</name><desc>local_ref=A
+name=Pfännerhöhe
+network=MDV (Mitteldeutscher Verkehrsverbund)
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=no
+id=node/256629276</desc></wpt><wpt lat="51.4931835" lon="11.981802"><name>Am Wasserturm</name><desc>local_ref=A
+name=Am Wasserturm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/256629279</desc></wpt><wpt lat="51.5075121" lon="11.9279366"><name>Kröllwitz</name><desc>local_ref=D
+name=Kröllwitz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/256702171</desc></wpt><wpt lat="51.3006602" lon="12.0652176"><name>Platz der Freiheit</name><desc>name=Platz der Freiheit
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/259155162</desc></wpt><wpt lat="51.3029039" lon="12.0418314"><name>Leuna-Kröllwitz</name><desc>name=Leuna-Kröllwitz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/259155205</desc></wpt><wpt lat="51.8703891" lon="11.056167"><name>Klus</name><desc>name=Klus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/266896603</desc></wpt><wpt lat="51.8732735" lon="11.0516928"><name>Kirschallee</name><desc>name=Kirschallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/266896639</desc></wpt><wpt lat="51.8989169" lon="11.0725062"><name>Hauptbahnhof Linie 1/2</name><desc>name=Hauptbahnhof Linie 1/2
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/267043451</desc></wpt><wpt lat="51.4695517" lon="11.9836702"><name>Heinrich-Schütz-Straße</name><desc>local_ref=B
+name=Heinrich-Schütz-Straße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/267258716</desc></wpt><wpt lat="52.1560274" lon="11.5820089"><name>Klinikum Olvenstedt</name><desc>name=Klinikum Olvenstedt
+name:OhreBus=Klinikum Olvenstedt
+network=marego
+old_name=Krankenhaus Olvenstedt
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=102
+tram=yes
+uic_name=Klinikum Olvenstedt, Magdeburg
+uic_ref=953401
+wheelchair=yes
+id=node/268273415</desc></wpt><wpt lat="51.5077015" lon="11.9376526"><name>Schwuchtstraße</name><desc>local_ref=B
+name=Schwuchtstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268864572</desc></wpt><wpt lat="51.5023896" lon="11.9556177"><name>Burg Giebichenstein</name><desc>local_ref=C
+name=Burg Giebichenstein
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/268876362</desc></wpt><wpt lat="51.4995116" lon="11.96651"><name>Hegelstraße</name><desc>local_ref=A
+name=Hegelstraße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268929898</desc></wpt><wpt lat="51.495905" lon="11.9654577"><name>Reileck</name><desc>local_ref=C
+name=Reileck
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268929899</desc></wpt><wpt lat="51.5052675" lon="11.9597512"><name>Emil-Eichhorn-Straße</name><desc>local_ref=A
+name=Emil-Eichhorn-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/268932286</desc></wpt><wpt lat="51.497315" lon="11.9558705"><name>Volkspark</name><desc>local_ref=A
+name=Volkspark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/268937644</desc></wpt><wpt lat="51.4940281" lon="11.9572548"><name>Diakoniewerk Halle</name><desc>local_ref=A
+name=Diakoniewerk Halle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/268938690</desc></wpt><wpt lat="51.4933079" lon="11.9582505"><name>Diakoniewerk Halle</name><desc>local_ref=B
+name=Diakoniewerk Halle
+network=Mitteldeutscher Verkehrsverbund
+network:short=MDV
+network:wikidata=Q1742463
+operator=HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/268938692</desc></wpt><wpt lat="51.4937324" lon="11.9653707"><name>Mühlweg</name><desc>local_ref=A
+name=Mühlweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/268938694</desc></wpt><wpt lat="51.4829156" lon="11.9687255"><name>Marktplatz</name><desc>addr:municipality=Halle (Saale)
+addr:postcode=06108
+local_ref=D
+name=Marktplatz
+operator=Hallesche Verkehrs-AG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268940200</desc></wpt><wpt lat="51.4828009" lon="11.9697576"><name>Marktplatz</name><desc>local_ref=A
+name=Marktplatz
+operator=Hallesche Verkehrs-AG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268940201</desc></wpt><wpt lat="51.4823311" lon="11.9664313"><name>Hallmarkt</name><desc>local_ref=B
+name=Hallmarkt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268940202</desc></wpt><wpt lat="51.4984611" lon="11.9352829"><name>Straßburger Weg</name><desc>local_ref=B
+name=Straßburger Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268941204</desc></wpt><wpt lat="51.4793769" lon="11.970555"><name>Franckeplatz</name><desc>local_ref=A
+name=Franckeplatz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268942309</desc></wpt><wpt lat="51.4567405" lon="11.9708385"><name>Vogelweide</name><desc>local_ref=D
+name=Vogelweide
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268943027</desc></wpt><wpt lat="51.4561964" lon="11.9722521"><name>Vogelweide</name><desc>local_ref=C
+name=Vogelweide
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268943028</desc></wpt><wpt lat="51.4522616" lon="11.9428901"><name>Wörmlitz</name><desc>local_ref=B
+name=Wörmlitz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268946311</desc></wpt><wpt lat="51.4497024" lon="11.9502334"><name>S-Bahnhof Südstadt</name><desc>local_ref=A
+name=S-Bahnhof Südstadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268946330</desc></wpt><wpt lat="51.4618288" lon="11.9501883"><name>Passendorfer Weg</name><desc>local_ref=B
+name=Passendorfer Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/268947665</desc></wpt><wpt lat="52.1368862" lon="11.6391425"><name>Opernhaus</name><desc>name=Opernhaus
+network=marego
+note=neuer Name seit 15.12.2009, davor 'Theater'
+old_name=Theater
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=22
+tram=yes
+uic_ref=953333
+wheelchair=yes
+id=node/268983511</desc></wpt><wpt lat="52.133868" lon="11.6655665"><name>Jerichower Platz</name><desc>name=Jerichower Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1163
+ref_name=Jerichower Platz, Magdeburg
+tram=yes
+uic_name=Jerichower Platz, Magdeburg
+uic_ref=953402
+wheelchair=yes
+id=node/268986830</desc></wpt><wpt lat="52.133575" lon="11.6620698"><name>Turmschanzenstraße/Friedensbrücke</name><desc>name=Turmschanzenstraße/Friedensbrücke
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1169
+tram=yes
+uic_name=Turmschanzenstr./Friedensbrücke, Magdeburg
+uic_ref=954039
+wheelchair=yes
+id=node/268986831</desc></wpt><wpt lat="52.1353599" lon="11.6577699"><name>Gartenstraße</name><desc>name=Gartenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1162
+tram=yes
+uic_ref=953425
+wheelchair=yes
+id=node/268986832</desc></wpt><wpt lat="52.1422376" lon="11.6728963"><name>Fachhochschule</name><desc>name=Fachhochschule
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1164
+ref_name=Fachhochschule, Magdeburg
+tram=yes
+uic_name=Fachhochschule, Magdeburg
+wheelchair=yes
+id=node/268987455</desc></wpt><wpt lat="51.5087425" lon="11.9618394"><name>Am Klausberg</name><desc>local_ref=B
+name=Am Klausberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/269548246</desc></wpt><wpt lat="52.1457051" lon="11.6752708"><name>Bahnhof Herrenkrug</name><desc>name=Bahnhof Herrenkrug
+network=marego
+old_name=Herrenkrug/DB-Haltepunkt
+old_uic_name=Herrenkrug/DB-Haltepunkt, Magdeburg
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=167;1167
+ref_name=Bahnhof Herrenkrug, Magdeburg
+tram=yes
+uic_name=Bahnhof Herrenkrug, Magdeburg
+uic_ref=954379
+wheelchair=yes
+id=node/269578607</desc></wpt><wpt lat="51.4567883" lon="11.9828757"><name>Damaschkestraße</name><desc>local_ref=B
+name=Damaschkestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/269775583</desc></wpt><wpt lat="51.4785089" lon="11.982118"><name>Riebeckplatz</name><desc>local_ref=C
+name=Riebeckplatz
+name:etymology:wikidata=Q1036681
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/271384331</desc></wpt><wpt lat="51.5072375" lon="11.9450347"><name>Louise-Otto-Peters-Straße</name><desc>local_ref=B
+name=Louise-Otto-Peters-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/272083444</desc></wpt><wpt lat="51.5062651" lon="11.9467892"><name>Louise-Otto-Peters-Straße</name><desc>local_ref=A
+name=Louise-Otto-Peters-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/272083445</desc></wpt><wpt lat="51.5091787" lon="11.9946031"><name>Frohe Zukunft</name><desc>local_ref=A
+name=Frohe Zukunft
+note=Endhaltestelle
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=no
+id=node/273184470</desc></wpt><wpt lat="51.5087623" lon="11.9948323"><name>Frohe Zukunft</name><desc>local_ref=B
+name=Frohe Zukunft
+note=Ausstieg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/273184472</desc></wpt><wpt lat="51.5035323" lon="11.9879488"><name>Gertraudenfriedhof</name><desc>local_ref=A
+name=Gertraudenfriedhof
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/273184476</desc></wpt><wpt lat="51.3321048" lon="12.0017408"><name>Leunatorstraße</name><desc>name=Leunatorstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/273641069</desc></wpt><wpt lat="51.337931" lon="11.9952723"><name>Leunaweg</name><desc>local_ref=A
+name=Leunaweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/273641081</desc></wpt><wpt lat="51.3555732" lon="11.9940763"><name>Merseburg/Zentrum</name><desc>name=Merseburg/Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/273641137</desc></wpt><wpt lat="51.3822364" lon="11.9871477"><name>Hohendorfer Marke</name><desc>name=Hohendorfer Marke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/273641249</desc></wpt><wpt lat="51.4126039" lon="11.9823515"><name>Kollenbeyer Weg</name><desc>local_ref=A
+name=Kollenbeyer Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/273641347</desc></wpt><wpt lat="51.4881719" lon="11.994245"><name>Berliner Brücke</name><desc>bus=yes
+highway=bus_stop
+local_ref=B
+name=Berliner Brücke
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/274119634</desc></wpt><wpt lat="51.8166332" lon="12.1813855"><name>Junkerspark</name><desc>name=Junkerspark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/276234609</desc></wpt><wpt lat="51.4725874" lon="11.9836025"><name>Pfännerhöhe</name><desc>local_ref=B
+name=Pfännerhöhe
+network=MDV (Mitteldeutscher Verkehrsverbund)
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/276252494</desc></wpt><wpt lat="52.1295631" lon="11.6354245"><name>Goldschmiedebrücke</name><desc>name=Goldschmiedebrücke
+network=marego
+note=Nur Richtung Norden
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2;5;9;10
+ref:mvb=2010
+tram=yes
+uic_ref=954380
+wheelchair=yes
+id=node/276368607</desc></wpt><wpt lat="51.8166006" lon="12.1813297"><name>Junkerspark</name><desc>name=Junkerspark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/276676182</desc></wpt><wpt lat="51.8177422" lon="12.1959137"><name>Städtisches Klinikum</name><desc>name=Städtisches Klinikum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/276684539</desc></wpt><wpt lat="51.8172768" lon="12.1899801"><name>Zoberberg Mitte</name><desc>name=Zoberberg Mitte
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/276684684</desc></wpt><wpt lat="51.8163525" lon="12.1876429"><name>Zoberberg Schule</name><desc>name=Zoberberg Schule
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/276684721</desc></wpt><wpt lat="51.8159347" lon="12.1842231"><name>Ellerbreite</name><desc>name=Ellerbreite
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/276684869</desc></wpt><wpt lat="51.8179021" lon="12.1831682"><name>Köthener Straße</name><desc>name=Köthener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/276684895</desc></wpt><wpt lat="51.8180925" lon="12.2007883"><name>Medizinisches Versorgungszentrum (MVZ)</name><desc>name=Medizinisches Versorgungszentrum (MVZ)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/277768159</desc></wpt><wpt lat="51.8204083" lon="12.2027432"><name>Lindenstraße</name><desc>name=Lindenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/277768160</desc></wpt><wpt lat="51.8222893" lon="12.2097647"><name>Kleine Schaftrift</name><desc>name=Kleine Schaftrift
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/277768161</desc></wpt><wpt lat="51.8229984" lon="12.2420733"><name>Am alten Wasserturm</name><desc>name=Am alten Wasserturm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/279817749</desc></wpt><wpt lat="52.1926862" lon="11.6724767"><name>Rothensee</name><desc>name=Rothensee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=53
+tram=yes
+uic_name=Rothensee, Magdeburg
+uic_ref=953361
+wheelchair=yes
+id=node/282742822</desc></wpt><wpt lat="52.1290126" lon="11.5686964"><name>Diesdorf</name><desc>bus=yes
+highway=bus_stop
+name=Diesdorf
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1121
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/282743817</desc></wpt><wpt lat="52.1290914" lon="11.5695069"><name>Diesdorf</name><desc>bus=yes
+highway=bus_stop
+name=Diesdorf
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=121
+tram=yes
+wheelchair=yes
+id=node/282743870</desc></wpt><wpt lat="52.0924018" lon="11.6202911"><name>Leipziger Chaussee</name><desc>name=Leipziger Chaussee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2011
+ref_name=Leipziger Chaussee, Magdeburg
+tram=yes
+uic_ref=953323
+wheelchair=yes
+id=node/287947620</desc></wpt><wpt lat="52.1621868" lon="11.6343618"><name>Bebertaler Straße</name><desc>name=Bebertaler Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1027
+tram=yes
+uic_name=Bebertaler Str., Magdeburg
+uic_ref=953338
+wheelchair=no
+id=node/288204092</desc></wpt><wpt lat="52.0564901" lon="11.6786812"><name>Westerhüsen (Betriebshof)</name><desc>name=Westerhüsen (Betriebshof)
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=71
+ref_name=Westerhüsen (Betriebshof), Magdeburg
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/289787357</desc></wpt><wpt lat="51.4789786" lon="11.920079"><name>S-Bf. Neustadt</name><desc>layer=1
+local_ref=B
+name=S-Bf. Neustadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/290819723</desc></wpt><wpt lat="52.1168245" lon="11.6284535"><name>Planckstraße</name><desc>bus=yes
+name=Planckstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1087
+tram=yes
+wheelchair=yes
+id=node/295508953</desc></wpt><wpt lat="52.1662866" lon="11.6147714"><name>IKEA</name><desc>name=IKEA
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1172
+tram=yes
+uic_name=Lerchenwuhne, Magdeburg
+uic_ref=953430
+wheelchair=yes
+id=node/295695215</desc></wpt><wpt lat="52.0851666" lon="11.6619176"><name>SKL</name><desc>name=SKL
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1079
+tram=yes
+uic_ref=953379
+wheelchair=yes
+id=node/298069962</desc></wpt><wpt lat="52.0820728" lon="11.664302"><name>Turmpark</name><desc>name=Turmpark
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1078
+tram=yes
+wheelchair=no
+id=node/298069969</desc></wpt><wpt lat="52.1662802" lon="11.6194619"><name>Danziger Dorf</name><desc>name=Danziger Dorf
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1171
+tram=yes
+uic_name=Danziger Dorf, Magdeburg
+uic_ref=953429
+wheelchair=yes
+id=node/299593629</desc></wpt><wpt lat="52.1314423" lon="11.6365113"><name>Alter Markt</name><desc>bus=yes
+highway=bus_stop
+local_ref=E
+name=Alter Markt
+network=marego
+network:wikidata=Q1883891
+network:wikipedia=de:Magdeburger Regionalverkehrsverbund
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=10218
+tram=yes
+uic_ref=953332
+wheelchair=yes
+id=node/300970430</desc></wpt><wpt lat="52.1045708" lon="11.6419887"><name>Neue Straße/Zirkusmuseum</name><desc>name=Neue Straße/Zirkusmuseum
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2;8
+ref:mvb=84
+tram=yes
+wheelchair=yes
+id=node/305040897</desc></wpt><wpt lat="51.9009352" lon="11.0373164"><name>Sargstedter Weg</name><desc>name=Sargstedter Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/306682331</desc></wpt><wpt lat="52.1148263" lon="11.6293743"><name>AMO/Steubenallee</name><desc>name=AMO/Steubenallee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2;8
+ref:mvb=2004
+tram=yes
+wheelchair=yes
+id=node/307419473</desc></wpt><wpt lat="52.1597528" lon="11.6352501"><name>Kastanienstraße</name><desc>bus=no
+name=Kastanienstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1040
+tram=yes
+uic_name=Kastanienstr., Magdeburg
+uic_ref=953349
+wheelchair=yes
+id=node/307555895</desc></wpt><wpt lat="52.1563666" lon="11.636491"><name>Nicolaiplatz</name><desc>name=Nicolaiplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1026
+tram=yes
+uic_name=Nicolaiplatz, Magdeburg
+uic_ref=953337
+wheelchair=no
+id=node/307557518</desc></wpt><wpt lat="52.1538685" lon="11.6374129"><name>Mittagstraße</name><desc>name=Mittagstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1025
+tram=yes
+uic_ref=953336
+wheelchair=yes
+id=node/307827407</desc></wpt><wpt lat="52.1406487" lon="11.5942522"><name>Rennetal</name><desc>name=Rennetal
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=97
+tram=yes
+uic_name=Rennetal, Magdeburg
+uic_ref=953396
+wheelchair=yes
+id=node/308277681</desc></wpt><wpt lat="52.1401056" lon="11.5902376"><name>Eisvogelstraße</name><desc>name=Eisvogelstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2006
+tram=yes
+uic_name=Eisvogelstr., Magdeburg
+uic_ref=953439
+wheelchair=yes
+id=node/308277908</desc></wpt><wpt lat="52.1654276" lon="11.6334021"><name>Klosterwuhne</name><desc>name=Klosterwuhne
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1028
+tram=yes
+uic_name=Klosterwuhne, Magdeburg
+uic_ref=953339
+wheelchair=yes
+id=node/311844795</desc></wpt><wpt lat="51.3977433" lon="11.9767282"><name>Schkopau/Bunawerke</name><desc>local_ref=A
+name=Schkopau/Bunawerke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/312937948</desc></wpt><wpt lat="51.4010378" lon="11.9745622"><name>Korbethaer Straße</name><desc>local_ref=A
+name=Korbethaer Straße
+operator=Havag
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/312937949</desc></wpt><wpt lat="51.4769786" lon="11.9026668"><name>Göttinger Bogen</name><desc>local_ref=A
+name=Göttinger Bogen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/316754143</desc></wpt><wpt lat="51.4794683" lon="11.8945997"><name>Mindener Straße</name><desc>local_ref=B
+name=Mindener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/316754189</desc></wpt><wpt lat="51.4800658" lon="11.8983835"><name>Braunschweiger Bogen</name><desc>local_ref=B
+name=Braunschweiger Bogen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/316754190</desc></wpt><wpt lat="51.8943141" lon="11.0536374"><name>Fischmarkt</name><desc>bus=yes
+name=Fischmarkt
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=limited
+id=node/317440587</desc></wpt><wpt lat="52.1134393" lon="11.6086618"><name>Südring</name><desc>name=Südring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1065
+ref_name=Südring, Magdeburg
+tram=yes
+uic_ref=953369
+wheelchair=yes
+id=node/321687930</desc></wpt><wpt lat="51.8367965" lon="12.2377553"><name>Theater</name><desc>name=Theater
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/321729981</desc></wpt><wpt lat="51.4884459" lon="11.9784794"><name>Am Steintor</name><desc>local_ref=C
+name=Am Steintor
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=no
+id=node/341035551</desc></wpt><wpt lat="52.1474649" lon="11.6411359"><name>S-Bahnhof Neustadt</name><desc>bus=no
+name=S-Bahnhof Neustadt
+network=marego
+note=nur im Umleitungsverkehr Kastanienstraße &lt;-&gt; Agnetenstraße
+old_name=Bahnhof Neustadt
+old_uic_name=Bahnhof Neustadt (Bus), Magdeburg
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=10140
+tram=yes
+uic_name=S-Bahnhof Neustadt (Bus), Magdeburg
+uic_ref=962959
+id=node/355228312</desc></wpt><wpt lat="51.8267145" lon="12.2173162"><name>Robert-Bosch-Straße</name><desc>name=Robert-Bosch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/355984369</desc></wpt><wpt lat="51.8264385" lon="12.2126892"><name>BSZ Haupteingang</name><desc>name=BSZ Haupteingang
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/355986778</desc></wpt><wpt lat="51.8250074" lon="12.2092822"><name>BSZ Sporthalle</name><desc>name=BSZ Sporthalle
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/355986782</desc></wpt><wpt lat="51.8276947" lon="12.224326"><name>Altener Straße</name><desc>name=Altener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/358031406</desc></wpt><wpt lat="51.830292" lon="12.2423866"><name>Dessau Center</name><desc>name=Dessau Center
+note=1, 4, N1, N2, N5
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/441181564</desc></wpt><wpt lat="51.8295384" lon="12.2348333"><name>Amalienstraße</name><desc>name=Amalienstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/441181609</desc></wpt><wpt lat="52.1076994" lon="11.5938796"><name>Braunlager Straße</name><desc>bench=no
+bin=yes
+bus=yes
+highway=bus_stop
+lit=yes
+name=Braunlager Straße
+network=marego
+network:wikidata=Q1883891
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=platform
+railway=tram_stop
+ref:IFOPT=de:15003:7306::02
+ref:mvb=62
+shelter=no
+tactile_paving=no
+tram=yes
+uic_name=Braunlager Str., Magdeburg
+uic_ref=953366
+wheelchair=no
+id=node/462652538</desc></wpt><wpt lat="51.8264433" lon="12.2422435"><name>Friedhofstraße</name><desc>name=Friedhofstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/485086870</desc></wpt><wpt lat="51.8211926" lon="12.2041547"><name>Lindenstraße</name><desc>name=Lindenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/491034502</desc></wpt><wpt lat="51.8919951" lon="11.0576831"><name>Erich-Weinert-Straße</name><desc>name=Erich-Weinert-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/493968516</desc></wpt><wpt lat="51.8187939" lon="12.2417924"><name>Wasserwerkstraße</name><desc>name=Wasserwerkstraße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/505205261</desc></wpt><wpt lat="51.8157258" lon="12.241684"><name>Klughardtstraße</name><desc>name=Klughardtstraße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/505205262</desc></wpt><wpt lat="52.1476096" lon="11.5825136"><name>Am Stern</name><desc>name=Am Stern
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=100
+tram=yes
+uic_name=Am Stern, Magdeburg
+uic_ref=953399
+wheelchair=yes
+id=node/534706324</desc></wpt><wpt lat="51.8968194" lon="11.0672569"><name>Richard-Wagner-Straße</name><desc>name=Richard-Wagner-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/599204087</desc></wpt><wpt lat="51.8988011" lon="11.0693067"><name>Beckerstraße</name><desc>name=Beckerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/599204089</desc></wpt><wpt lat="51.8968668" lon="11.0680938"><name>Richard-Wagner-Straße</name><desc>name=Richard-Wagner-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/599231808</desc></wpt><wpt lat="51.4790234" lon="11.9079883"><name>Mark-Twain-Straße</name><desc>local_ref=B
+name=Mark-Twain-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/647023578</desc></wpt><wpt lat="52.1880661" lon="11.670925"><name>Betriebshof Nord</name><desc>name=Betriebshof Nord
+network=marego
+note=nur Einrücker
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_name=Einfahrt Betriebshof Nord, Magdeburg
+uic_ref=953359
+wheelchair=no
+id=node/1038704641</desc></wpt><wpt lat="52.1513609" lon="11.6792694"><name>Herrenkrug</name><desc>name=Herrenkrug
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1165
+ref_name=Herrenkrug (Tram), Magdeburg
+tram=yes
+uic_name=Herrenkrug (Tram), Magdeburg
+uic_ref=953427
+wheelchair=yes
+id=node/1080906228</desc></wpt><wpt lat="51.4789421" lon="11.9959005"><name>Freiimfelder Straße</name><desc>local_ref=B
+name=Freiimfelder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1387329923</desc></wpt><wpt lat="51.4973981" lon="11.9647454"><name>Adolfstraße</name><desc>bus=yes
+local_ref=A
+name=Adolfstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1388444683</desc></wpt><wpt lat="51.4783547" lon="12.0111233"><name>Fiete-Schulze-Straße</name><desc>local_ref=B
+name=Fiete-Schulze-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1534549114</desc></wpt><wpt lat="51.3735741" lon="11.9949974"><name>Am Stadtpark</name><desc>name=Am Stadtpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1634586925</desc></wpt><wpt lat="52.1290338" lon="11.6625923"><name>Arenen</name><desc>bus=yes
+name=Arenen
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=140
+ref_name=Arenen, Magdeburg
+tram=yes
+uic_name=Arenen, Magdeburg
+uic_ref=953416
+wheelchair=yes
+id=node/1664331678</desc></wpt><wpt lat="52.1414671" lon="11.6723807"><name>Fachhochschule</name><desc>name=Fachhochschule
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=164
+ref_name=Fachhochschule, Magdeburg
+tram=yes
+uic_name=Fachhochschule, Magdeburg
+wheelchair=yes
+id=node/1664331680</desc></wpt><wpt lat="52.1508466" lon="11.6789003"><name>Herrenkrug</name><desc>name=Herrenkrug
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=165
+ref_name=Herrenkrug (Tram), Magdeburg
+tram=yes
+uic_name=Herrenkrug (Tram), Magdeburg
+uic_ref=953427
+wheelchair=yes
+id=node/1664331689</desc></wpt><wpt lat="52.134052" lon="11.6658917"><name>Jerichower Platz</name><desc>name=Jerichower Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=163
+ref_name=Jerichower Platz, Magdeburg
+tram=yes
+uic_name=Jerichower Platz, Magdeburg
+uic_ref=953402
+wheelchair=yes
+id=node/1664331696</desc></wpt><wpt lat="52.1354735" lon="11.6678269"><name>Messegelände/Elbauenpark</name><desc>name=Messegelände/Elbauenpark
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=166
+ref_name=Messegelände/Elbauenpark, Magdeburg
+tram=yes
+uic_name=Messegelände/Elbauenpark, Magdeburg
+uic_ref=954378
+wheelchair=yes
+id=node/1664331701</desc></wpt><wpt lat="52.1307016" lon="11.6375532"><name>Allee-Center</name><desc>bus=no
+local_ref=A
+name=Allee-Center
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2221
+ref_name=Allee-Center, Magdeburg
+tram=yes
+uic_ref=960015
+wheelchair=yes
+id=node/1665085928</desc></wpt><wpt lat="52.1311794" lon="11.6355952"><name>Allee-Center</name><desc>bus=no
+local_ref=F
+name=Allee-Center
+network=marego
+note=Bedarfshaltestelle für Bahnen, die zum Betriebshof Nord ausgeleitet werden.
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=33
+ref_name=Allee-Center, Magdeburg
+tram=yes
+wheelchair=yes
+id=node/1665086405</desc></wpt><wpt lat="52.1312381" lon="11.6339741"><name>City Carré</name><desc>name=City Carré
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=133
+ref_name=City Carré, Magdeburg
+tram=yes
+wheelchair=yes
+id=node/1665086517</desc></wpt><wpt lat="52.1312894" lon="11.6325887"><name>City Carré</name><desc>name=City Carré
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1033
+ref_name=City Carré, Magdeburg
+tram=yes
+wheelchair=yes
+id=node/1665086549</desc></wpt><wpt lat="52.131415" lon="11.6365902"><name>Alter Markt</name><desc>local_ref=D
+name=Alter Markt
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1021
+tram=yes
+uic_ref=953332
+wheelchair=yes
+id=node/1665086626</desc></wpt><wpt lat="52.1340941" lon="11.6181516"><name>Goethestraße</name><desc>name=Goethestraße
+network=marego
+note=nur stadteinwärts
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=1;3;4;6
+ref:mvb=2093
+tram=yes
+wheelchair=no
+id=node/1665321900</desc></wpt><wpt lat="52.1378401" lon="11.6511383"><name>Askanischer Platz</name><desc>name=Askanischer Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=168
+tram=yes
+uic_ref=954381
+wheelchair=yes
+id=node/1665825929</desc></wpt><wpt lat="52.1352058" lon="11.6580592"><name>Gartenstraße</name><desc>name=Gartenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=162
+tram=yes
+uic_ref=953425
+wheelchair=yes
+id=node/1665825931</desc></wpt><wpt lat="52.1333826" lon="11.6624522"><name>Turmschanzenstraße/Friedensbrücke</name><desc>name=Turmschanzenstraße/Friedensbrücke
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=169
+tram=yes
+uic_name=Turmschanzenstr./Friedensbrücke, Magdeburg
+uic_ref=954039
+wheelchair=yes
+id=node/1665826122</desc></wpt><wpt lat="52.1345865" lon="11.6381226"><name>Am Katharinenturm</name><desc>name=Am Katharinenturm
+name_old=Breiter Weg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2120
+tram=yes
+uic_ref=957847
+wheelchair=limited
+id=node/1666889348</desc></wpt><wpt lat="52.1377087" lon="11.6443289"><name>Listemannstraße</name><desc>name=Listemannstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=161
+tram=yes
+uic_ref=961147
+wheelchair=yes
+id=node/1666889359</desc></wpt><wpt lat="52.1365835" lon="11.6389698"><name>Opernhaus</name><desc>name=Opernhaus
+network=marego
+note=neuer Name seit 15.12.2009, davor 'Theater'
+old_name=Theater
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1022
+tram=yes
+uic_ref=953333
+wheelchair=yes
+id=node/1666889365</desc></wpt><wpt lat="52.1318147" lon="11.6367423"><name>Alter Markt</name><desc>name=Alter Markt
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1666889382</desc></wpt><wpt lat="52.1400435" lon="11.6398255"><name>Universität</name><desc>name=Universität
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2008
+tram=yes
+uic_ref=961148
+wheelchair=yes
+id=node/1666889710</desc></wpt><wpt lat="52.139151" lon="11.6005558"><name>Albert-Vater-Straße</name><desc>name=Albert-Vater-Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=96
+tram=yes
+uic_name=Albert-Vater-Str., Magdeburg
+uic_ref=953395
+wheelchair=yes
+id=node/1667003241</desc></wpt><wpt lat="52.1479339" lon="11.5830415"><name>Am Stern</name><desc>name=Am Stern
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1100
+tram=yes
+uic_name=Am Stern, Magdeburg
+uic_ref=953399
+wheelchair=yes
+id=node/1667003260</desc></wpt><wpt lat="52.1529917" lon="11.5859016"><name>Brunnenstieg</name><desc>name=Brunnenstieg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=3;4;5
+ref:mvb=1101
+tram=yes
+wheelchair=yes
+id=node/1667003289</desc></wpt><wpt lat="52.1532803" lon="11.5857942"><name>Brunnenstieg</name><desc>name=Brunnenstieg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=3;4;5
+ref:mvb=101
+tram=yes
+wheelchair=yes
+id=node/1667003297</desc></wpt><wpt lat="52.1410425" lon="11.5834758"><name>Drosselsteig</name><desc>name=Drosselsteig
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1098
+tram=yes
+uic_name=Drosselsteig, Magdeburg
+uic_ref=953397
+wheelchair=yes
+id=node/1667003317</desc></wpt><wpt lat="52.1400688" lon="11.589595"><name>Eisvogelstraße</name><desc>name=Eisvogelstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2007
+tram=yes
+uic_name=Eisvogelstr., Magdeburg
+uic_ref=953439
+wheelchair=yes
+id=node/1667003325</desc></wpt><wpt lat="52.1390388" lon="11.6008961"><name>Albert-Vater-Straße</name><desc>name=Albert-Vater-Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1096
+tram=yes
+uic_name=Albert-Vater-Str., Magdeburg
+uic_ref=953395
+wheelchair=yes
+id=node/1667003961</desc></wpt><wpt lat="52.1406187" lon="11.5937373"><name>Rennetal</name><desc>name=Rennetal
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1097
+tram=yes
+uic_name=Rennetal, Magdeburg
+uic_ref=953396
+wheelchair=yes
+id=node/1667003971</desc></wpt><wpt lat="52.1441057" lon="11.58135"><name>Sternbogen/Bürgerbüro</name><desc>name=Sternbogen/Bürgerbüro
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=99
+tram=yes
+wheelchair=yes
+id=node/1667003974</desc></wpt><wpt lat="52.1443894" lon="11.5813751"><name>Sternbogen/Bürgerbüro</name><desc>name=Sternbogen/Bürgerbüro
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=3;4;5
+ref:mvb=1099
+tram=yes
+wheelchair=yes
+id=node/1667003976</desc></wpt><wpt lat="52.1560079" lon="11.5814527"><name>Klinikum Olvenstedt</name><desc>name=Klinikum Olvenstedt
+name:OhreBus=Klinikum Olvenstedt
+network=marego
+old_name=Krankenhaus Olvenstedt
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1102
+tram=yes
+uic_name=Klinikum Olvenstedt, Magdeburg
+uic_ref=953401
+wheelchair=yes
+id=node/1667003984</desc></wpt><wpt lat="52.1403194" lon="11.6464259"><name>Universitätsbibliothek</name><desc>name=Universitätsbibliothek
+network=marego
+old_name=Pfälzer Straße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1145
+tram=yes
+wheelchair=no
+id=node/1667016097</desc></wpt><wpt lat="52.1321689" lon="11.604497"><name>Alexander-Puschkin-Straße</name><desc>name=Alexander-Puschkin-Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=5
+ref:mvb=104
+tram=yes
+wheelchair=yes
+id=node/1667330247</desc></wpt><wpt lat="52.1351676" lon="11.6038052"><name>Harsdorfer Straße</name><desc>name=Harsdorfer Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=5
+ref:mvb=103
+tram=yes
+wheelchair=yes
+id=node/1667330260</desc></wpt><wpt lat="52.1238479" lon="11.6062026"><name>Liebknechtstraße</name><desc>name=Liebknechtstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1191
+toilets:wheelchair=no
+tram=yes
+uic_ref=953434
+wheelchair=yes
+id=node/1667330277</desc></wpt><wpt lat="52.1275973" lon="11.6056224"><name>Spielhagenstraße</name><desc>name=Spielhagenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1190
+tram=yes
+uic_ref=953433
+wheelchair=yes
+id=node/1667331151</desc></wpt><wpt lat="52.1129323" lon="11.6074973"><name>Südring</name><desc>name=Südring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=65
+tram=yes
+uic_ref=953369
+wheelchair=yes
+id=node/1667331156</desc></wpt><wpt lat="52.113565" lon="11.6076977"><name>Südring</name><desc>name=Südring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1193
+tram=yes
+uic_ref=953369
+wheelchair=yes
+id=node/1667331178</desc></wpt><wpt lat="52.1302029" lon="11.6051164"><name>Westring</name><desc>name=Westring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=5126
+tram=yes
+uic_ref=953403
+wheelchair=yes
+id=node/1667331186</desc></wpt><wpt lat="52.1181676" lon="11.606761"><name>Westringbrücke</name><desc>name=Westringbrücke
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1192
+tram=yes
+uic_ref=953431
+wheelchair=yes
+id=node/1667331225</desc></wpt><wpt lat="52.1252462" lon="11.632031"><name>Domplatz</name><desc>name=Domplatz
+network=marego
+note=Im August 2013 auf die Nordeite der Danzstraße verlegt
+old_name=Domplatz/Volksbank
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=20
+tram=yes
+uic_ref=953331
+wheelchair=yes
+id=node/1667941675</desc></wpt><wpt lat="52.1252515" lon="11.6319867"><name>Domplatz</name><desc>name=Domplatz
+network=marego
+old_name=Domplatz/Volksbank
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1020
+tram=yes
+uic_ref=953331
+wheelchair=yes
+id=node/1667941697</desc></wpt><wpt lat="52.1246752" lon="11.6286912"><name>Haeckelstraße/Museum</name><desc>bus=no
+name=Haeckelstraße/Museum
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=89
+ref_name=Haeckelstr./Museum, Magdeburg
+tram=yes
+uic_ref=953388
+wheelchair=yes
+id=node/1667941707</desc></wpt><wpt lat="52.1209291" lon="11.6281324"><name>Hasselbachplatz</name><desc>fare_zone=010
+name=Hasselbachplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1019
+tram=yes
+uic_ref=953330
+wheelchair=yes
+id=node/1667941723</desc></wpt><wpt lat="52.1212567" lon="11.627472"><name>Hasselbachplatz</name><desc>name=Hasselbachplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=88
+ref_name=Hasselbachplatz (Tram/Bus), Magdeburg
+tram=yes
+uic_ref=953330
+wheelchair=yes
+id=node/1667941731</desc></wpt><wpt lat="52.1307794" lon="11.6287654"><name>Hauptbahnhof/Willy-Brandt-Platz</name><desc>bus=no
+name=Hauptbahnhof/Willy-Brandt-Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=91
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1667941742</desc></wpt><wpt lat="52.1279284" lon="11.6342562"><name>Leiterstraße</name><desc>name=Leiterstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2001
+tram=yes
+uic_ref=953436
+wheelchair=yes
+id=node/1667941743</desc></wpt><wpt lat="52.1276991" lon="11.6301878"><name>Verkehrsbetriebe</name><desc>name=Verkehrsbetriebe
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=90
+ref_name=Verkehrsbetriebe, Magdeburg
+tram=yes
+wheelchair=yes
+id=node/1667942183</desc></wpt><wpt lat="52.1037941" lon="11.6203063"><name>Fermersleber Weg</name><desc>bus=no
+name=Fermersleber Weg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=15
+ref_name=Fermersleber Weg, Magdeburg
+tram=yes
+uic_ref=953326
+wheelchair=yes
+id=node/1668766163</desc></wpt><wpt lat="52.1040963" lon="11.6202452"><name>Fermersleber Weg</name><desc>bus=no
+name=Fermersleber Weg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1015
+ref_name=Fermersleber Weg, Magdeburg
+tram=yes
+uic_ref=953326
+wheelchair=yes
+id=node/1668766164</desc></wpt><wpt lat="52.1090548" lon="11.6199834"><name>Raiffeisenstraße</name><desc>bus=no
+name=Raiffeisenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1016
+ref_name=Raiffeisenstr., Magdeburg
+tram=yes
+uic_ref=960123
+wheelchair=yes
+id=node/1668766265</desc></wpt><wpt lat="52.1093347" lon="11.6200236"><name>Raiffeisenstraße</name><desc>bus=yes
+highway=bus_stop
+name=Raiffeisenstraße
+network=marego
+network:wikidata=Q1883891
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=16
+ref_name=Raiffeisenstr., Magdeburg
+tram=yes
+uic_ref=960123
+wheelchair=yes
+id=node/1668766266</desc></wpt><wpt lat="52.1066202" lon="11.6201233"><name>Südfriedhof</name><desc>bus=no
+name=Südfriedhof
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2016
+ref_name=Südfriedhof, Magdeburg
+tram=yes
+uic_ref=963954
+wheelchair=yes
+id=node/1668766267</desc></wpt><wpt lat="52.1069483" lon="11.620149"><name>Südfriedhof</name><desc>bus=no
+name=Südfriedhof
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2015
+ref_name=Südfriedhof, Magdeburg
+tram=yes
+uic_ref=963954
+wheelchair=yes
+id=node/1668766268</desc></wpt><wpt lat="52.1014035" lon="11.6204954"><name>Universitätsklinikum</name><desc>bus=no
+name=Universitätsklinikum
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=14
+ref_name=Universitätsklinikum, Magdeburg
+tram=yes
+uic_ref=953325
+wheelchair=yes
+id=node/1668766269</desc></wpt><wpt lat="52.1017202" lon="11.6204321"><name>Universitätsklinikum</name><desc>bus=no
+name=Universitätsklinikum
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1014
+ref_name=Universitätsklinikum, Magdeburg
+tram=yes
+uic_ref=953325
+wheelchair=yes
+id=node/1668766271</desc></wpt><wpt lat="52.1425575" lon="11.639956"><name>AOK</name><desc>name=AOK
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1023
+tram=yes
+uic_ref=953334
+wheelchair=yes
+id=node/1668986138</desc></wpt><wpt lat="52.1436828" lon="11.63992"><name>AOK</name><desc>name=AOK
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=23
+tram=yes
+uic_ref=953334
+wheelchair=yes
+id=node/1668986142</desc></wpt><wpt lat="52.1470854" lon="11.6397276"><name>S-Bahnhof Neustadt</name><desc>name=S-Bahnhof Neustadt
+network=marego
+old_name=Bahnhof Neustadt
+old_uic_name=Bahnhof Neustadt (Tram), Magdeburg
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=24
+tram=yes
+uic_name=S-Bahnhof Neustadt, Magdeburg
+uic_ref=953335
+wheelchair=yes
+id=node/1668986148</desc></wpt><wpt lat="52.1600803" lon="11.6351747"><name>Kastanienstraße</name><desc>bus=no
+name=Kastanienstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=40;71001
+tram=yes
+uic_name=Kastanienstr., Magdeburg
+uic_ref=953349
+wheelchair=yes
+id=node/1669110947</desc></wpt><wpt lat="52.1541799" lon="11.6373441"><name>Mittagstraße</name><desc>name=Mittagstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=25
+tram=yes
+uic_ref=953336
+wheelchair=yes
+id=node/1669110953</desc></wpt><wpt lat="52.1511347" lon="11.6384635"><name>Neustädter Friedhof</name><desc>name=Neustädter Friedhof
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2002
+tram=yes
+uic_name=Neustädter Friedhof, Magdeburg
+uic_ref=953437
+wheelchair=yes
+id=node/1669110958</desc></wpt><wpt lat="52.1564943" lon="11.6364945"><name>Nicolaiplatz</name><desc>name=Nicolaiplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=26
+tram=yes
+uic_name=Nicolaiplatz, Magdeburg
+uic_ref=953337
+wheelchair=no
+id=node/1669110966</desc></wpt><wpt lat="52.1626883" lon="11.6342255"><name>Bebertaler Straße</name><desc>name=Bebertaler Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=27
+tram=yes
+uic_name=Bebertaler Str., Magdeburg
+uic_ref=953338
+wheelchair=no
+id=node/1669111100</desc></wpt><wpt lat="52.165703" lon="11.6333592"><name>Klosterwuhne</name><desc>name=Klosterwuhne
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=28
+tram=yes
+uic_name=Klosterwuhne, Magdeburg
+uic_ref=953339
+wheelchair=yes
+id=node/1669870624</desc></wpt><wpt lat="52.1733896" lon="11.6310779"><name>Krähenstieg</name><desc>name=Krähenstieg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=30
+tram=yes
+uic_name=Krähenstieg, Magdeburg
+uic_ref=953341
+wheelchair=yes
+id=node/1669870625</desc></wpt><wpt lat="52.1699556" lon="11.6318067"><name>Neustädter Platz</name><desc>name=Neustädter Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=29
+tram=yes
+uic_name=Neustädter Platz, Magdeburg
+uic_ref=953340
+wheelchair=yes
+id=node/1669870626</desc></wpt><wpt lat="52.1749294" lon="11.6358111"><name>Neustädter See</name><desc>name=Neustädter See
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=31
+tram=yes
+uic_name=Neustädter See, Magdeburg
+uic_ref=953342
+wheelchair=yes
+id=node/1669870627</desc></wpt><wpt lat="52.1663259" lon="11.6199333"><name>Danziger Dorf</name><desc>name=Danziger Dorf
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=171
+tram=yes
+uic_name=Danziger Dorf, Magdeburg
+uic_ref=953429
+wheelchair=yes
+id=node/1669956909</desc></wpt><wpt lat="52.1663178" lon="11.6151644"><name>IKEA</name><desc>name=IKEA
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=172
+tram=yes
+uic_name=Lerchenwuhne, Magdeburg
+uic_ref=953430
+wheelchair=yes
+id=node/1669956914</desc></wpt><wpt lat="52.166394" lon="11.6239904"><name>Milchweg</name><desc>name=Milchweg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1170
+tram=yes
+uic_name=Milchweg, Magdeburg
+uic_ref=953428
+wheelchair=yes
+id=node/1669956919</desc></wpt><wpt lat="52.1989296" lon="11.67454"><name>Enercon</name><desc>name=Enercon
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1055
+tram=yes
+uic_name=Enercon, Magdeburg
+uic_ref=953362
+wheelchair=yes
+id=node/1670524444</desc></wpt><wpt lat="52.2049058" lon="11.6734249"><name>Industrie- und Logistik-Centrum</name><desc>name=Industrie- und Logistik-Centrum
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1056
+tram=yes
+uic_name=Industrie-u.Logistik-Centrum, Magdeburg
+uic_ref=953363
+wheelchair=yes
+id=node/1670524446</desc></wpt><wpt lat="52.1925033" lon="11.6719689"><name>Rothensee</name><desc>name=Rothensee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1053
+tram=yes
+uic_name=Rothensee, Magdeburg
+uic_ref=953361
+wheelchair=yes
+id=node/1670524691</desc></wpt><wpt lat="52.1933821" lon="11.6726543"><name>Rothensee</name><desc>name=Rothensee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1053
+tram=yes
+uic_name=Rothensee, Magdeburg
+uic_ref=953361
+wheelchair=yes
+id=node/1670524695</desc></wpt><wpt lat="52.1896789" lon="11.6716255"><name>Betriebshof Nord</name><desc>name=Betriebshof Nord
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1052
+tram=yes
+uic_name=Einfahrt Betriebshof Nord, Magdeburg
+uic_ref=953359
+wheelchair=no
+id=node/1672231882</desc></wpt><wpt lat="52.1684911" lon="11.6625286"><name>Havelstraße</name><desc>name=Havelstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1047
+tram=yes
+uic_name=Havelstraße, Magdeburg
+uic_ref=953355
+wheelchair=yes
+id=node/1672231912</desc></wpt><wpt lat="52.1835989" lon="11.6696703"><name>Hohenwarther Straße</name><desc>name=Hohenwarther Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1050
+tram=yes
+uic_name=Hohenwarther Str., Magdeburg
+uic_ref=953358
+wheelchair=yes
+id=node/1672231914</desc></wpt><wpt lat="52.1774663" lon="11.6668142"><name>Schule Rothensee</name><desc>name=Schule Rothensee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1048
+tram=yes
+uic_name=Schule Rothensee, Magdeburg
+uic_ref=953356
+wheelchair=yes
+id=node/1672232152</desc></wpt><wpt lat="52.1007253" lon="11.6455478"><name>Buckau (Wasserwerk)</name><desc>bus=yes
+highway=bus_stop
+name=Buckau (Wasserwerk)
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=832
+tram=yes
+uic_ref=953383
+wheelchair=yes
+id=node/1672578659</desc></wpt><wpt lat="52.1610726" lon="11.6354095"><name>Kastanienstraße / Bedarfshaltestelle</name><desc>description=Es halten nur Straßenbahnen vom Betriebshof Nord kommen und Richtung Neustädter See und IKEA fahren oder bei Umleitungen
+name=Kastanienstraße / Bedarfshaltestelle
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1041
+tram=yes
+uic_name=Kastanienstr., Magdeburg
+uic_ref=953349
+wheelchair=limited
+id=node/1673066549</desc></wpt><wpt lat="52.1145282" lon="11.6296873"><name>AMO/Steubenallee</name><desc>name=AMO/Steubenallee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2;8
+ref:mvb=2005
+tram=yes
+wheelchair=yes
+id=node/1673485120</desc></wpt><wpt lat="52.1043308" lon="11.6421591"><name>Neue Straße/Zirkusmuseum</name><desc>name=Neue Straße/Zirkusmuseum
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2;8
+ref:mvb=1084
+tram=yes
+wheelchair=no
+id=node/1673485160</desc></wpt><wpt lat="52.1170248" lon="11.6281713"><name>Planckstraße</name><desc>bus=yes
+name=Planckstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=87
+tram=yes
+wheelchair=yes
+id=node/1673485165</desc></wpt><wpt lat="52.0845234" lon="11.6624911"><name>SKL</name><desc>name=SKL
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=79
+tram=yes
+uic_ref=953379
+wheelchair=yes
+id=node/1674398679</desc></wpt><wpt lat="52.0817576" lon="11.664592"><name>Turmpark</name><desc>name=Turmpark
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=78
+tram=yes
+wheelchair=no
+id=node/1674398697</desc></wpt><wpt lat="51.4531593" lon="11.9728941"><name>Am Breiten Pfuhl</name><desc>local_ref=B
+name=Am Breiten Pfuhl
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1731945280</desc></wpt><wpt lat="51.478587" lon="12.025275"><name>Bitterfelder Straße</name><desc>local_ref=A
+name=Bitterfelder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1738419795</desc></wpt><wpt lat="51.478868" lon="12.0311981"><name>Käthe-Kollwitz-Straße</name><desc>local_ref=A
+name=Käthe-Kollwitz-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1738419808</desc></wpt><wpt lat="52.1468029" lon="11.6461357"><name>Agnetenstraße</name><desc>name=Agnetenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=147
+tram=yes
+id=node/1782986339</desc></wpt><wpt lat="52.1475157" lon="11.6457111"><name>Agnetenstraße</name><desc>name=Agnetenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1147
+tram=yes
+wheelchair=no
+id=node/1782986340</desc></wpt><wpt lat="52.1512089" lon="11.6562226"><name>Lostauer Straße</name><desc>name=Lostauer Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1151
+tram=yes
+wheelchair=yes
+id=node/1782986341</desc></wpt><wpt lat="52.1439943" lon="11.6476445"><name>Am Nordpark</name><desc>name=Am Nordpark
+network=marego
+old_name=Peter-Paul-Straße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=146
+tram=yes
+wheelchair=no
+id=node/1782986345</desc></wpt><wpt lat="52.1444036" lon="11.6475045"><name>Am Nordpark</name><desc>name=Am Nordpark
+network=marego
+old_name=Peter-Paul-Straße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1446
+tram=yes
+wheelchair=no
+id=node/1782986349</desc></wpt><wpt lat="52.1474436" lon="11.6410556"><name>S-Bahnhof Neustadt</name><desc>bus=no
+name=S-Bahnhof Neustadt
+network=marego
+note=nur im Umleitungsverkehr Kastanienstraße &lt;-&gt; Agnetenstraße
+old_name=Bahnhof Neustadt
+old_uic_name=Bahnhof Neustadt (Bus), Magdeburg
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=10240
+tram=yes
+uic_name=S-Bahnhof Neustadt (Bus), Magdeburg
+uic_ref=962959
+id=node/1782986460</desc></wpt><wpt lat="52.1502276" lon="11.6512491"><name>Sieverstorstraße</name><desc>name=Sieverstorstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1148
+tram=yes
+wheelchair=no
+id=node/1782986690</desc></wpt><wpt lat="52.1504082" lon="11.6492581"><name>Sieverstorstraße</name><desc>name=Sieverstorstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=148
+tram=yes
+wheelchair=no
+id=node/1782986691</desc></wpt><wpt lat="52.1497917" lon="11.6544381"><name>Stendaler Straße</name><desc>name=Stendaler Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=149
+tram=yes
+wheelchair=yes
+id=node/1782986694</desc></wpt><wpt lat="52.1498954" lon="11.6541195"><name>Stendaler Straße</name><desc>name=Stendaler Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1149
+tram=yes
+wheelchair=yes
+id=node/1782986699</desc></wpt><wpt lat="52.1348282" lon="11.6175321"><name>Wilhelmstädter Platz</name><desc>name=Wilhelmstädter Platz
+network=marego
+old_name=Ebendorfer Straße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=1;3;4;6
+ref:mvb=1093
+tactile_paving=yes
+tram=yes
+wheelchair=no
+id=node/1789675111</desc></wpt><wpt lat="52.1354264" lon="11.6162127"><name>Wilhelmstädter Platz</name><desc>name=Wilhelmstädter Platz
+network=marego
+old_name=Ebendorfer Straße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=1;3;4;6
+ref:mvb=93
+tactile_paving=yes
+tram=yes
+wheelchair=no
+id=node/1789675112</desc></wpt><wpt lat="52.1359652" lon="11.6077786"><name>Olvenstedter Platz</name><desc>bus=no
+name=Olvenstedter Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=955
+tram=yes
+uic_ref=953394
+wheelchair=no
+id=node/1789675114</desc></wpt><wpt lat="52.1362488" lon="11.6076417"><name>Olvenstedter Platz</name><desc>name=Olvenstedter Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=95
+tram=yes
+uic_ref=953394
+wheelchair=no
+id=node/1789675115</desc></wpt><wpt lat="52.1363226" lon="11.6075014"><name>Olvenstedter Platz</name><desc>name=Olvenstedter Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1095
+tram=yes
+uic_ref=953394
+wheelchair=yes
+id=node/1789675116</desc></wpt><wpt lat="52.1358362" lon="11.6116386"><name>Friesenstraße</name><desc>name=Friesenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=94
+tram=yes
+uic_ref=953393
+wheelchair=no
+id=node/1789675177</desc></wpt><wpt lat="52.1359418" lon="11.610428"><name>Friesenstraße</name><desc>name=Friesenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1094
+tram=yes
+uic_ref=953393
+wheelchair=no
+id=node/1789675178</desc></wpt><wpt lat="52.1209078" lon="11.6581915"><name>Mehringstraße</name><desc>bus=no
+name=Mehringstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1036
+ref_name=Mehringstr., Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=no
+id=node/1789948046</desc></wpt><wpt lat="52.1214256" lon="11.6572559"><name>Mehringstraße</name><desc>bus=no
+name=Mehringstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=36
+ref_name=Mehringstr., Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=no
+id=node/1789948051</desc></wpt><wpt lat="52.1161482" lon="11.6641022"><name>Pfeiffersche Stiftungen</name><desc>name=Pfeiffersche Stiftungen
+network=marego
+old_name=Pfeifferstraße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=38
+ref_name=Pfeiffersche Stiftungen, Magdeburg
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/1789948054</desc></wpt><wpt lat="52.1163533" lon="11.6643107"><name>Pfeiffersche Stiftungen</name><desc>bus=no
+name=Pfeiffersche Stiftungen
+network=marego
+old_name=Pfeifferstraße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1038
+ref_name=Pfeiffersche Stiftungen, Magdeburg
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/1789948060</desc></wpt><wpt lat="52.1187033" lon="11.6618889"><name>Simonstraße</name><desc>bus=no
+name=Simonstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1037
+ref_name=Simonstr., Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=no
+id=node/1789948253</desc></wpt><wpt lat="52.1191167" lon="11.6611329"><name>Simonstraße</name><desc>bus=no
+name=Simonstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=37
+ref_name=Simonstr., Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=no
+id=node/1789948256</desc></wpt><wpt lat="52.1302584" lon="11.6111871"><name>Arndtstraße</name><desc>name=Arndtstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=127
+tram=yes
+uic_ref=953410
+wheelchair=no
+id=node/1791434662</desc></wpt><wpt lat="52.1302746" lon="11.6109239"><name>Arndtstraße</name><desc>name=Arndtstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1127
+tram=yes
+uic_ref=953410
+wheelchair=no
+id=node/1791434663</desc></wpt><wpt lat="52.1303158" lon="11.615983"><name>Gerhart-Hauptmann-Straße</name><desc>bus=no
+name=Gerhart-Hauptmann-Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=128
+tram=yes
+uic_ref=953411
+wheelchair=no
+id=node/1791434664</desc></wpt><wpt lat="52.130402" lon="11.6170654"><name>Gerhart-Hauptmann-Straße</name><desc>bus=no
+name=Gerhart-Hauptmann-Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1128
+toilets:wheelchair=no
+tram=yes
+uic_ref=953411
+wheelchair=no
+id=node/1791434665</desc></wpt><wpt lat="52.1298628" lon="11.6059666"><name>Westring</name><desc>bus=no
+name=Westring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1126
+tram=yes
+uic_ref=953403
+wheelchair=no
+id=node/1791434724</desc></wpt><wpt lat="52.1289862" lon="11.5979269"><name>Eisnerstraße</name><desc>bus=no
+name=Eisnerstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=125
+tram=yes
+wheelchair=no
+id=node/1792160036</desc></wpt><wpt lat="52.1290596" lon="11.5986351"><name>Eisnerstraße</name><desc>bus=no
+name=Eisnerstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1125
+tram=yes
+wheelchair=no
+id=node/1792160037</desc></wpt><wpt lat="52.1285647" lon="11.5912093"><name>Flechtinger Straße</name><desc>bus=no
+name=Flechtinger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=124
+tram=yes
+wheelchair=no
+id=node/1792160038</desc></wpt><wpt lat="52.128661" lon="11.5923171"><name>Flechtinger Straße</name><desc>bus=no
+name=Flechtinger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1124
+tram=yes
+wheelchair=no
+id=node/1792160039</desc></wpt><wpt lat="52.1294426" lon="11.5729882"><name>Hannoversche Straße</name><desc>bus=no
+name=Hannoversche Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=119
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/1792160051</desc></wpt><wpt lat="52.1294675" lon="11.5726205"><name>Hannoversche Straße</name><desc>bus=no
+name=Hannoversche Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1119
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/1792160055</desc></wpt><wpt lat="52.1288051" lon="11.5816911"><name>Schmeilstraße</name><desc>bus=no
+name=Schmeilstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=122
+tram=yes
+wheelchair=no
+id=node/1792160222</desc></wpt><wpt lat="52.1288219" lon="11.5818541"><name>Schmeilstraße</name><desc>bus=no
+name=Schmeilstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1122
+tram=yes
+wheelchair=no
+id=node/1792160223</desc></wpt><wpt lat="52.1285829" lon="11.5863766"><name>Westfriedhof</name><desc>bus=no
+name=Westfriedhof
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1123
+tram=yes
+wheelchair=no
+id=node/1792160230</desc></wpt><wpt lat="52.128586" lon="11.5858046"><name>Westfriedhof</name><desc>bus=no
+name=Westfriedhof
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=123
+tram=yes
+wheelchair=yes
+id=node/1792160231</desc></wpt><wpt lat="52.1296745" lon="11.6047678"><name>Westring</name><desc>bus=no
+name=Westring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=126
+tram=yes
+uic_ref=953403
+wheelchair=no
+id=node/1792160232</desc></wpt><wpt lat="52.1135839" lon="11.6197271"><name>Am Fuchsberg</name><desc>name=Am Fuchsberg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1017
+tram=yes
+uic_ref=953328
+wheelchair=no
+id=node/1792881093</desc></wpt><wpt lat="52.1142988" lon="11.619614"><name>Am Fuchsberg</name><desc>name=Am Fuchsberg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=17
+tram=yes
+uic_ref=953328
+wheelchair=no
+id=node/1792881100</desc></wpt><wpt lat="52.1172447" lon="11.6196712"><name>Halberstädter Straße/Leipziger Straße</name><desc>name=Halberstädter Straße/Leipziger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=18
+tram=yes
+uic_name=Halberstädter Str., Magdeburg
+uic_ref=953329
+wheelchair=no
+id=node/1792881101</desc></wpt><wpt lat="52.117245" lon="11.6196291"><name>Halberstädter Straße/Leipziger Straße</name><desc>name=Halberstädter Straße/Leipziger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1018
+tram=yes
+uic_name=Halberstädter Str., Magdeburg
+uic_ref=953329
+wheelchair=no
+id=node/1792881129</desc></wpt><wpt lat="52.1176852" lon="11.6182325"><name>Halberstädter Straße/Leipziger Straße</name><desc>name=Halberstädter Straße/Leipziger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1067
+ref_name=Halberstädter Str./Leipziger Str., Magdeburg
+tram=yes
+uic_name=Halberstädter Str., Magdeburg
+uic_ref=953329
+wheelchair=no
+id=node/1792881138</desc></wpt><wpt lat="52.1177521" lon="11.618533"><name>Halberstädter Straße/Leipziger Straße</name><desc>name=Halberstädter Straße/Leipziger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=67
+ref_name=Halberstädter Str./Leipziger Str., Magdeburg
+tram=yes
+uic_name=Halberstädter Str., Magdeburg
+uic_ref=953329
+wheelchair=no
+id=node/1792881144</desc></wpt><wpt lat="52.1150764" lon="11.6117066"><name>Jordanstraße</name><desc>bus=no
+name=Jordanstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=5;10
+ref:mvb=1066
+ref_name=Jordanstr., Magdeburg
+tram=yes
+wheelchair=no
+id=node/1792881146</desc></wpt><wpt lat="52.1150729" lon="11.6117655"><name>Jordanstraße</name><desc>bus=no
+name=Jordanstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=5;10
+ref:mvb=66
+ref_name=Jordanstr., Magdeburg
+tram=yes
+id=node/1792881170</desc></wpt><wpt lat="52.1093265" lon="11.5985154"><name>Ambrosiusplatz</name><desc>name=Ambrosiusplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1063
+tram=yes
+uic_ref=953367
+wheelchair=no
+id=node/1795092130</desc></wpt><wpt lat="52.1094844" lon="11.5989874"><name>Ambrosiusplatz</name><desc>name=Ambrosiusplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=63
+tram=yes
+uic_ref=953367
+wheelchair=no
+id=node/1795092131</desc></wpt><wpt lat="52.1072895" lon="11.5937754"><name>Braunlager Straße</name><desc>name=Braunlager Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1062
+tram=yes
+uic_name=Braunlager Str., Magdeburg
+uic_ref=953366
+wheelchair=no
+id=node/1795092132</desc></wpt><wpt lat="52.1076612" lon="11.5937553"><name>Braunlager Straße</name><desc>name=Braunlager Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=62
+tram=yes
+uic_name=Braunlager Str., Magdeburg
+uic_ref=953366
+wheelchair=no
+id=node/1795092133</desc></wpt><wpt lat="52.1104975" lon="11.6014891"><name>Eiskellerplatz</name><desc>bus=no
+name=Eiskellerplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=64
+tram=yes
+uic_ref=953368
+wheelchair=no
+id=node/1795092134</desc></wpt><wpt lat="52.1112123" lon="11.6031824"><name>Eiskellerplatz</name><desc>bus=no
+name=Eiskellerplatz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1064
+tram=yes
+uic_ref=953368
+wheelchair=no
+id=node/1795092135</desc></wpt><wpt lat="52.1069304" lon="11.5911577"><name>Sudenburg (Kroatenweg)</name><desc>bus=no
+name=Sudenburg (Kroatenweg)
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=61;1061
+tram=yes
+uic_name=Kroatenweg, Magdeburg
+uic_ref=953365
+wheelchair=no
+id=node/1795092183</desc></wpt><wpt lat="52.0992823" lon="11.6205832"><name>Brenneckestraße</name><desc>bus=no
+name=Brenneckestraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=13
+ref_name=Brenneckestr., Magdeburg
+tram=yes
+uic_ref=953432
+wheelchair=yes
+id=node/1795633709</desc></wpt><wpt lat="52.0988056" lon="11.6205662"><name>Brenneckestraße</name><desc>bus=no
+name=Brenneckestraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1013
+ref_name=Brenneckestr., Magdeburg
+tram=yes
+uic_ref=953432
+wheelchair=yes
+id=node/1795633714</desc></wpt><wpt lat="52.1075295" lon="11.6407011"><name>Thiemstraße</name><desc>name=Thiemstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2;8
+ref:mvb=85
+tram=yes
+wheelchair=yes
+id=node/1796883879</desc></wpt><wpt lat="52.1075324" lon="11.6406543"><name>Thiemstraße</name><desc>name=Thiemstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2;8
+ref:mvb=1085
+tram=yes
+wheelchair=yes
+id=node/1796883974</desc></wpt><wpt lat="52.1011361" lon="11.6457275"><name>Buckau (Wasserwerk)</name><desc>bus=no
+name=Buckau (Wasserwerk)
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=83
+tram=yes
+uic_ref=953383
+wheelchair=no
+id=node/1797089919</desc></wpt><wpt lat="52.1017059" lon="11.644916"><name>Buckau (Wasserwerk)</name><desc>bus=no
+name=Buckau (Wasserwerk)
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1083
+tram=yes
+uic_ref=953383
+wheelchair=no
+id=node/1797089920</desc></wpt><wpt lat="52.0918999" lon="11.655925"><name>Friedrich-List-Straße</name><desc>name=Friedrich-List-Straße
+network=marego
+old_name=Otto-Lehmann-Platz
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1081
+tram=yes
+wheelchair=no
+id=node/1797586029</desc></wpt><wpt lat="52.0920195" lon="11.6558613"><name>Friedrich-List-Straße</name><desc>name=Friedrich-List-Straße
+network=marego
+old_name=Otto-Lehmann-Platz
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=81
+tram=yes
+wheelchair=no
+id=node/1797586036</desc></wpt><wpt lat="52.0877276" lon="11.6596798"><name>Mariannenstraße</name><desc>name=Mariannenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1080
+tram=yes
+wheelchair=no
+id=node/1797586043</desc></wpt><wpt lat="52.0878121" lon="11.6596415"><name>Mariannenstraße</name><desc>name=Mariannenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=80
+tram=yes
+wheelchair=no
+id=node/1797586068</desc></wpt><wpt lat="52.0960347" lon="11.6511027"><name>Zinckestraße</name><desc>name=Zinckestraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=82
+tram=yes
+wheelchair=no
+id=node/1797586155</desc></wpt><wpt lat="52.0966378" lon="11.6504762"><name>Zinckestraße</name><desc>name=Zinckestraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1082
+tram=yes
+wheelchair=no
+id=node/1797586156</desc></wpt><wpt lat="52.0780197" lon="11.6677159"><name>Salbker Platz</name><desc>bus=no
+name=Salbker Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1077
+tram=yes
+wheelchair=no
+id=node/1797597083</desc></wpt><wpt lat="52.0784124" lon="11.6673867"><name>Salbker Platz</name><desc>bus=no
+name=Salbker Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=77
+tram=yes
+wheelchair=no
+id=node/1797597102</desc></wpt><wpt lat="52.1651717" lon="11.6516424"><name>Pettenkoferstraße</name><desc>name=Pettenkoferstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=44
+tram=yes
+uic_name=Pettenkoferstr., Magdeburg
+uic_ref=953353
+wheelchair=no
+id=node/1798221055</desc></wpt><wpt lat="52.1651753" lon="11.6512145"><name>Pettenkoferstraße</name><desc>name=Pettenkoferstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1044
+tram=yes
+uic_name=Pettenkoferstr., Magdeburg
+uic_ref=953353
+wheelchair=no
+id=node/1798221059</desc></wpt><wpt lat="52.1623138" lon="11.6409112"><name>Rostocker Straße</name><desc>name=Rostocker Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1042
+tram=yes
+uic_name=Rostocker Str., Magdeburg
+uic_ref=953351
+wheelchair=no
+id=node/1798221314</desc></wpt><wpt lat="52.1621593" lon="11.6404082"><name>Rostocker Straße</name><desc>name=Rostocker Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=42
+tram=yes
+uic_name=Rostocker Str., Magdeburg
+uic_ref=953351
+wheelchair=no
+id=node/1798221317</desc></wpt><wpt lat="52.164017" lon="11.6474347"><name>Zoo</name><desc>name=Zoo
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1043
+tram=yes
+uic_name=Zoo, Magdeburg
+uic_ref=953352
+wheelchair=yes
+id=node/1798221334</desc></wpt><wpt lat="52.1656846" lon="11.6594998"><name>S-Bahnhof Eichenweiler</name><desc>name=S-Bahnhof Eichenweiler
+network=marego
+old_name=Haltepunkt Eichenweiler
+old_uic_name=Eichenweiler, Magdeburg
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=46
+tram=yes
+uic_name=S-Bahnhof Eichenweiler, Magdeburg
+uic_ref=953354
+wheelchair=no
+id=node/1800273927</desc></wpt><wpt lat="52.1657254" lon="11.6595058"><name>S-Bahnhof Eichenweiler</name><desc>name=S-Bahnhof Eichenweiler
+network=marego
+old_name=Haltepunkt Eichenweiler
+old_uic_name=Eichenweiler, Magdeburg
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1046
+tram=yes
+uic_name=S-Bahnhof Eichenweiler, Magdeburg
+uic_ref=953354
+wheelchair=no
+id=node/1800273928</desc></wpt><wpt lat="52.0711168" lon="11.6713907"><name>S-Bahnhof Südost</name><desc>name=S-Bahnhof Südost
+network=marego
+old_name=Bahnhof Südost
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=75
+tram=yes
+uic_name=S-Bahnhof Südost, Magdeburg
+uic_ref=953375
+wheelchair=no
+id=node/1800628700</desc></wpt><wpt lat="52.0718108" lon="11.6708447"><name>S-Bahnhof Südost</name><desc>name=S-Bahnhof Südost
+network=marego
+old_name=Bahnhof Südost
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1075
+tram=yes
+uic_name=S-Bahnhof Südost, Magdeburg
+uic_ref=953375
+wheelchair=no
+id=node/1800628701</desc></wpt><wpt lat="52.0747823" lon="11.6688069"><name>Blumenberger Straße</name><desc>name=Blumenberger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1076
+tram=yes
+wheelchair=yes
+id=node/1800628702</desc></wpt><wpt lat="52.0751549" lon="11.6687801"><name>Blumenberger Straße</name><desc>name=Blumenberger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=76
+tram=yes
+wheelchair=yes
+id=node/1800628703</desc></wpt><wpt lat="52.0610045" lon="11.6789742"><name>Schleswiger Straße</name><desc>name=Schleswiger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1072
+ref_name=Schleswiger Str., Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=no
+id=node/1800628856</desc></wpt><wpt lat="52.061794" lon="11.6791063"><name>Schleswiger Straße</name><desc>name=Schleswiger Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=72
+ref_name=Schleswiger Str., Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=no
+id=node/1800628857</desc></wpt><wpt lat="52.0651368" lon="11.6767222"><name>Sohlener Straße</name><desc>name=Sohlener Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=73
+ref_name=Sohlener Str., Magdeburg
+tactile_paving=no
+tram=yes
+wheelchair=no
+id=node/1800628858</desc></wpt><wpt lat="52.0655828" lon="11.6764543"><name>Sohlener Straße</name><desc>name=Sohlener Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1073
+ref_name=Sohlener Str., Magdeburg
+tram=yes
+wheelchair=no
+id=node/1800628859</desc></wpt><wpt lat="52.0562043" lon="11.6783304"><name>Westerhüsen (Betriebshof)</name><desc>name=Westerhüsen (Betriebshof)
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1071
+ref_name=Westerhüsen (Betriebshof), Magdeburg
+tram=yes
+wheelchair=no
+id=node/1800628860</desc></wpt><wpt lat="51.4667968" lon="11.9558602"><name>Böllberg</name><desc>local_ref=B
+name=Böllberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1821375742</desc></wpt><wpt lat="51.4785468" lon="12.0193414"><name>Alfred-Schneider-Straße</name><desc>local_ref=B
+name=Alfred-Schneider-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1835071447</desc></wpt><wpt lat="51.4793539" lon="12.0348417"><name>Büschdorf</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:postcode=06116
+addr:street=Delitzscher Straße
+addr:suburb=Büschdorf
+local_ref=A
+name=Büschdorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1835071448</desc></wpt><wpt lat="51.4784861" lon="12.0050695"><name>Grenzstraße</name><desc>local_ref=B
+name=Grenzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1838967224</desc></wpt><wpt lat="51.8783104" lon="11.0541601"><name>FSZ</name><desc>name=FSZ
+network=2
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1858260163</desc></wpt><wpt lat="51.8811644" lon="11.0538716"><name>Herbingstraße</name><desc>name=Herbingstraße
+operator=HVG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1858260164</desc></wpt><wpt lat="51.9025487" lon="11.0471328"><name>Zuckerfabrik</name><desc>name=Zuckerfabrik
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1858260185</desc></wpt><wpt lat="52.0948981" lon="11.6207582"><name>Freibad Süd</name><desc>bus=no
+name=Freibad Süd
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1012
+ref_name=Freibad Süd, Magdeburg
+tram=yes
+uic_name=Freibad Süd, Magdeburg
+uic_ref=964363
+wheelchair=yes
+id=node/1862880441</desc></wpt><wpt lat="52.0951593" lon="11.6207886"><name>Freibad Süd</name><desc>bus=no
+name=Freibad Süd
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=12
+ref_name=Freibad Süd, Magdeburg
+tram=yes
+uic_name=Freibad Süd, Magdeburg
+uic_ref=964363
+wheelchair=yes
+id=node/1862880454</desc></wpt><wpt lat="51.478558" lon="12.0186448"><name>Alfred-Schneider-Straße</name><desc>local_ref=A
+name=Alfred-Schneider-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1886819022</desc></wpt><wpt lat="51.4783637" lon="12.0104123"><name>Fiete-Schulze-Straße</name><desc>local_ref=A
+name=Fiete-Schulze-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1886819023</desc></wpt><wpt lat="51.4786197" lon="12.0031765"><name>Grenzstraße</name><desc>local_ref=A
+name=Grenzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1886819024</desc></wpt><wpt lat="51.4844258" lon="11.9946105"><name>Betriebshof Freiimfelder Straße</name><desc>local_ref=B
+name=Betriebshof Freiimfelder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1889971153</desc></wpt><wpt lat="51.4789954" lon="11.9935377"><name>Freiimfelder Straße</name><desc>local_ref=A
+name=Freiimfelder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1889971155</desc></wpt><wpt lat="51.4785135" lon="11.9857852"><name>Hauptbahnhof</name><desc>layer=-1
+local_ref=A
+name=Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1889971156</desc></wpt><wpt lat="51.4881701" lon="11.9943101"><name>Berliner Brücke</name><desc>local_ref=A
+name=Berliner Brücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890046350</desc></wpt><wpt lat="51.4898626" lon="11.9801074"><name>Friesenstraße</name><desc>local_ref=A
+name=Friesenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890046357</desc></wpt><wpt lat="51.4898214" lon="11.9865169"><name>S-Bf. Steintorbrücke</name><desc>layer=1
+local_ref=A
+name=S-Bf. Steintorbrücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890046438</desc></wpt><wpt lat="51.4373904" lon="11.9660765"><name>Anhalter Platz</name><desc>local_ref=B
+name=Anhalter Platz
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890549150</desc></wpt><wpt lat="51.4324373" lon="11.9666529"><name>Beesen</name><desc>local_ref=D
+name=Beesen
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890549152</desc></wpt><wpt lat="51.4326782" lon="11.967147"><name>Beesen</name><desc>local_ref=A
+name=Beesen
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890549156</desc></wpt><wpt lat="51.4327384" lon="11.9671265"><name>Beesen</name><desc>local_ref=B
+name=Beesen
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890549171</desc></wpt><wpt lat="51.4336588" lon="11.9637826"><name>Brühlstraße</name><desc>local_ref=B
+name=Brühlstraße
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890549173</desc></wpt><wpt lat="51.445274" lon="11.9610898"><name>Freyburger Straße</name><desc>local_ref=b
+name=Freyburger Straße
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1890549174</desc></wpt><wpt lat="51.4417226" lon="11.9656568"><name>Gustav-Staude-Straße</name><desc>local_ref=B
+name=Gustav-Staude-Straße
+name:etymology:wikidata=Q1556419
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1890549175</desc></wpt><wpt lat="51.4439276" lon="11.965994"><name>S-Bahnhof Silberhöhe</name><desc>local_ref=B
+name=S-Bahnhof Silberhöhe
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1890549545</desc></wpt><wpt lat="51.4496316" lon="11.9506436"><name>S-Bahnhof Südstadt</name><desc>local_ref=B
+name=S-Bahnhof Südstadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1891227710</desc></wpt><wpt lat="51.4489082" lon="11.9597736"><name>Südstadt, Veszpremer Straße</name><desc>local_ref=A
+name=Südstadt, Veszpremer Straße
+operator=HAVAG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1891227711</desc></wpt><wpt lat="51.4932705" lon="11.9818274"><name>Am Wasserturm</name><desc>local_ref=B
+name=Am Wasserturm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1891545134</desc></wpt><wpt lat="51.504523" lon="11.9892569"><name>Gertraudenfriedhof</name><desc>local_ref=B
+name=Gertraudenfriedhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1891545138</desc></wpt><wpt lat="51.5065142" lon="11.9915626"><name>Kornblumenweg</name><desc>local_ref=B
+name=Kornblumenweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1891545141</desc></wpt><wpt lat="51.5007696" lon="11.9848088"><name>S-Bhf. Dessauer Brücke</name><desc>local_ref=B
+name=S-Bhf. Dessauer Brücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1891545270</desc></wpt><wpt lat="51.4964817" lon="11.9811626"><name>Äußere Hordorfer Straße</name><desc>local_ref=B
+name=Äußere Hordorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1891545275</desc></wpt><wpt lat="51.4844534" lon="11.9805713"><name>Magdeburger Straße</name><desc>local_ref=A
+name=Magdeburger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1896533549</desc></wpt><wpt lat="51.4792349" lon="11.9827933"><name>Riebeckplatz</name><desc>local_ref=A
+name=Riebeckplatz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1896533665</desc></wpt><wpt lat="51.4793934" lon="12.0347835"><name>Büschdorf</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:postcode=06116
+addr:street=Delitzscher Straße
+addr:suburb=Büschdorf
+local_ref=B
+name=Büschdorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1897772765</desc></wpt><wpt lat="51.4800219" lon="11.9948344"><name>Freiimfelder Straße</name><desc>local_ref=C
+name=Freiimfelder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1898213131</desc></wpt><wpt lat="51.453292" lon="11.9729116"><name>Am Breiten Pfuhl</name><desc>local_ref=A
+name=Am Breiten Pfuhl
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1899098539</desc></wpt><wpt lat="51.4502583" lon="11.9734839"><name>Elsa-Brändström-Straße</name><desc>local_ref=B
+name=Elsa-Brändström-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1899098540</desc></wpt><wpt lat="51.4527096" lon="11.9611956"><name>Moskauer Straße</name><desc>local_ref=B
+name=Moskauer Straße
+operator=SWH.HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1899098541</desc></wpt><wpt lat="51.4495191" lon="11.9607076"><name>Südstadt, Paul-Suhr-Straße</name><desc>local_ref=G
+name=Südstadt, Paul-Suhr-Straße
+operator=SWH.HAVAG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1899098805</desc></wpt><wpt lat="51.4567883" lon="11.9778253"><name>Am Grünen Feld</name><desc>local_ref=A
+name=Am Grünen Feld
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1901261249</desc></wpt><wpt lat="51.4389958" lon="11.985081"><name>Betriebshof Rosengarten</name><desc>local_ref=C
+name=Betriebshof Rosengarten
+note=Nur Ausstieg!
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1904247360</desc></wpt><wpt lat="51.4340083" lon="11.9841119"><name>Am Sommerbad</name><desc>local_ref=B
+name=Am Sommerbad
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1904781836</desc></wpt><wpt lat="51.4240734" lon="11.9862379"><name>Ammendorf</name><desc>name=Ammendorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1904781837</desc></wpt><wpt lat="51.4244474" lon="11.9865659"><name>Ammendorf</name><desc>local_ref=A
+name=Ammendorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1904781838</desc></wpt><wpt lat="51.4245607" lon="11.9864779"><name>Ammendorf</name><desc>local_ref=C
+name=Ammendorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1904781839</desc></wpt><wpt lat="51.4262563" lon="11.9849028"><name>Florian-Geyer-Platz</name><desc>local_ref=A
+name=Florian-Geyer-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1904781840</desc></wpt><wpt lat="51.4309931" lon="11.9841944"><name>Kurt-Wüsteneck-Straße</name><desc>local_ref=A
+name=Kurt-Wüsteneck-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1904781843</desc></wpt><wpt lat="51.477567" lon="11.9855078"><name>Hauptbahnhof</name><desc>local_ref=C
+name=Hauptbahnhof
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1904836772</desc></wpt><wpt lat="51.4634025" lon="11.9837623"><name>Huttenstraße</name><desc>local_ref=A
+name=Huttenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1905781352</desc></wpt><wpt lat="51.4663773" lon="11.9837397"><name>Lutherstraße</name><desc>local_ref=A
+name=Lutherstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1905781364</desc></wpt><wpt lat="51.4796627" lon="11.9647899"><name>Glauchaer Platz</name><desc>local_ref=B
+name=Glauchaer Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1905845562</desc></wpt><wpt lat="51.4783639" lon="11.9771259"><name>Am Leipziger Turm</name><desc>local_ref=B
+name=Am Leipziger Turm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1906560103</desc></wpt><wpt lat="51.4785984" lon="11.96926"><name>Franckeplatz</name><desc>local_ref=C
+name=Franckeplatz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1906560104</desc></wpt><wpt lat="51.4785729" lon="11.9824344"><name>Riebeckplatz</name><desc>local_ref=D
+name=Riebeckplatz
+name:etymology:wikidata=Q1036681
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1907918862</desc></wpt><wpt lat="51.4524923" lon="11.9428653"><name>Wörmlitz</name><desc>local_ref=A
+name=Wörmlitz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1907960113</desc></wpt><wpt lat="51.4590149" lon="11.9470719"><name>Diesterwegstraße</name><desc>local_ref=A
+name=Diesterwegstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1908128847</desc></wpt><wpt lat="51.455853" lon="11.9434344"><name>Wiener Straße</name><desc>local_ref=A
+name=Wiener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1908128975</desc></wpt><wpt lat="51.2989057" lon="12.0609052"><name>Kurpark</name><desc>name=Kurpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1908225784</desc></wpt><wpt lat="51.2962412" lon="12.0556644"><name>Kirchfährendorf</name><desc>name=Kirchfährendorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1908225794</desc></wpt><wpt lat="51.303194" lon="12.041562"><name>Leuna-Kröllwitz</name><desc>name=Leuna-Kröllwitz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1908225804</desc></wpt><wpt lat="51.4667482" lon="11.9563437"><name>Böllberg</name><desc>local_ref=C
+name=Böllberg
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/1910491506</desc></wpt><wpt lat="51.4669344" lon="11.9560376"><name>Böllberg</name><desc>local_ref=A
+name=Böllberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1910491507</desc></wpt><wpt lat="51.4620301" lon="11.9505044"><name>Passendorfer Weg</name><desc>local_ref=A
+name=Passendorfer Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1910491508</desc></wpt><wpt lat="51.4660276" lon="11.9699887"><name>Kantstraße</name><desc>bench=yes
+bin=yes
+local_ref=B
+name=Kantstraße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1910585492</desc></wpt><wpt lat="51.466981" lon="11.9698726"><name>Kantstraße</name><desc>bench=yes
+bin=yes
+local_ref=A
+name=Kantstraße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1910585499</desc></wpt><wpt lat="51.470247" lon="11.9689528"><name>Melanchthonstraße</name><desc>local_ref=B
+name=Melanchthonstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1910585500</desc></wpt><wpt lat="51.4704276" lon="11.9688613"><name>Melanchthonstraße</name><desc>local_ref=A
+name=Melanchthonstraße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1910585515</desc></wpt><wpt lat="51.4630954" lon="11.9706534"><name>Robert-Koch-Straße</name><desc>local_ref=B
+name=Robert-Koch-Straße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1910585574</desc></wpt><wpt lat="51.4635807" lon="11.9705935"><name>Robert-Koch-Straße</name><desc>local_ref=A
+name=Robert-Koch-Straße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1910585577</desc></wpt><wpt lat="51.4744929" lon="11.9700204"><name>Rannischer Platz</name><desc>local_ref=A
+name=Rannischer Platz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1910619576</desc></wpt><wpt lat="51.4747214" lon="11.9701082"><name>Rannischer Platz</name><desc>local_ref=B
+name=Rannischer Platz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1910619583</desc></wpt><wpt lat="51.3183196" lon="12.0321467"><name>Krähenberg</name><desc>name=Krähenberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1911080210</desc></wpt><wpt lat="51.3263279" lon="12.0220147"><name>Pfalzplatz</name><desc>name=Pfalzplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1911080211</desc></wpt><wpt lat="51.3233816" lon="12.0251024"><name>Sachsenplatz</name><desc>name=Sachsenplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1911080255</desc></wpt><wpt lat="51.3125306" lon="12.0365547"><name>Daspig</name><desc>name=Daspig
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1911265486</desc></wpt><wpt lat="51.3249111" lon="12.0123809"><name>Am Haupttor</name><desc>name=Am Haupttor
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1911325573</desc></wpt><wpt lat="51.3313634" lon="12.0073132"><name>Industrietor</name><desc>name=Industrietor
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1911325583</desc></wpt><wpt lat="51.3319834" lon="12.0020681"><name>Leunatorstraße</name><desc>name=Leunatorstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1911325586</desc></wpt><wpt lat="51.337759" lon="11.9952994"><name>Leunaweg</name><desc>local_ref=A
+name=Leunaweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1911325590</desc></wpt><wpt lat="51.4768401" lon="11.9701997"><name>Steinweg</name><desc>local_ref=B
+name=Steinweg
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1911370402</desc></wpt><wpt lat="51.4769618" lon="11.9702251"><name>Steinweg</name><desc>local_ref=A
+name=Steinweg
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1911370404</desc></wpt><wpt lat="51.4737175" lon="11.9614969"><name>Kurt-Tucholsky-Straße</name><desc>local_ref=A
+name=Kurt-Tucholsky-Straße
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/1911384378</desc></wpt><wpt lat="51.473733" lon="11.9619824"><name>Kurt-Tucholsky-Straße</name><desc>local_ref=B
+name=Kurt-Tucholsky-Straße
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/1911384379</desc></wpt><wpt lat="51.4703477" lon="11.9588324"><name>Ludwigstraße</name><desc>local_ref=A
+name=Ludwigstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1911384380</desc></wpt><wpt lat="51.4702273" lon="11.9587317"><name>Ludwigstraße</name><desc>local_ref=B
+name=Ludwigstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1911384381</desc></wpt><wpt lat="51.3555983" lon="11.9939737"><name>Merseburg/Zentrum</name><desc>designation=15
+name=Merseburg/Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1912880295</desc></wpt><wpt lat="51.3556308" lon="11.994081"><name>Merseburg/Zentrum</name><desc>name=Merseburg/Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1912880296</desc></wpt><wpt lat="51.3915912" lon="11.9842675"><name>Schkopau, Am Schloß</name><desc>name=Schkopau, Am Schloß
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/1913975845</desc></wpt><wpt lat="51.3923043" lon="11.9835238"><name>Schkopau, Am Schloß</name><desc>name=Schkopau, Am Schloß
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/1913975846</desc></wpt><wpt lat="51.3974079" lon="11.9769793"><name>Schkopau/Bunawerke</name><desc>local_ref=B
+name=Schkopau/Bunawerke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1913975863</desc></wpt><wpt lat="51.3819807" lon="11.9871529"><name>Hohendorfer Marke</name><desc>name=Hohendorfer Marke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1913975867</desc></wpt><wpt lat="51.4125445" lon="11.9822873"><name>Kollenbeyer Weg</name><desc>local_ref=B
+name=Kollenbeyer Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1913975869</desc></wpt><wpt lat="51.4009213" lon="11.9744941"><name>Korbethaer Straße</name><desc>local_ref=B
+name=Korbethaer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1913975871</desc></wpt><wpt lat="51.3870672" lon="11.985856"><name>Ludwig-Uhland-Straße</name><desc>name=Ludwig-Uhland-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1913975872</desc></wpt><wpt lat="51.3869889" lon="11.9859292"><name>Ludwig-Uhland-Straße</name><desc>name=Ludwig-Uhland-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1913975874</desc></wpt><wpt lat="51.4795202" lon="11.89159"><name>Soltauer Straße</name><desc>local_ref=A
+name=Soltauer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1914027944</desc></wpt><wpt lat="51.4801289" lon="11.8988342"><name>Braunschweiger Bogen</name><desc>local_ref=A
+name=Braunschweiger Bogen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1914054537</desc></wpt><wpt lat="51.4794933" lon="11.8950058"><name>Mindener Straße</name><desc>local_ref=A
+name=Mindener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1914054538</desc></wpt><wpt lat="51.479024" lon="11.9041066"><name>An der Eselsmühle</name><desc>local_ref=A
+name=An der Eselsmühle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1914134392</desc></wpt><wpt lat="51.4769722" lon="11.9027667"><name>Göttinger Bogen</name><desc>local_ref=B
+name=Göttinger Bogen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1914134394</desc></wpt><wpt lat="51.4789903" lon="11.9081653"><name>Mark-Twain-Straße</name><desc>local_ref=A
+name=Mark-Twain-Straße
+name:etymology:wikidata=Q7245
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1914134395</desc></wpt><wpt lat="51.4789895" lon="11.9206626"><name>S-Bf. Neustadt</name><desc>layer=1
+local_ref=A
+name=S-Bf. Neustadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1914152017</desc></wpt><wpt lat="51.4789305" lon="11.9150566"><name>Schwimmhalle</name><desc>bus=yes
+highway=bus_stop
+local_ref=A
+name=Schwimmhalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1914152019</desc></wpt><wpt lat="51.4808244" lon="11.9344067"><name>An der Feuerwache (A)</name><desc>local_ref=A
+name=An der Feuerwache (A)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wheelchair:description=Es gibt abgesenkte Bordsteinkanten. Einsteig zur Bahn durch vorhandene Rampe in der Bahn möglich. Bitte dem Straßenbahnfahrer bescheid geben.
+id=node/1915075180</desc></wpt><wpt lat="51.4812908" lon="11.9404116"><name>Hyazinthenstraße</name><desc>local_ref=A
+name=Hyazinthenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wheelchair:description=Es gibt abgesenkte Bordsteinkanten. Einsteig zur Bahn durch vorhandene Rampe in der Bahn möglich. Bitte dem Straßenbahnfahrer bescheid geben.
+id=node/1915075181</desc></wpt><wpt lat="51.4799411" lon="11.9279227"><name>Zentrum Neustadt</name><desc>bus=yes
+local_ref=A
+name=Zentrum Neustadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1915075275</desc></wpt><wpt lat="51.4824584" lon="11.946676"><name>Rennbahnkreuz</name><desc>local_ref=A
+name=Rennbahnkreuz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wheelchair:description=Es gibt abgesenkte Bordsteinkanten. Einsteig zur Bahn durch vorhandene Rampe in der Bahn möglich. Bitte dem Straßenbahnfahrer bescheid geben.
+id=node/1915092044</desc></wpt><wpt lat="51.4832493" lon="11.9468904"><name>Rennbahnkreuz</name><desc>local_ref=C
+name=Rennbahnkreuz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1915092045</desc></wpt><wpt lat="51.4815371" lon="11.957426"><name>Saline</name><desc>local_ref=A
+name=Saline
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=no
+wheelchair:description=Es gibt abgesenkte Bordsteinkanten. Einsteig zur Bahn durch vorhandene Rampe in der Bahn möglich. Bitte dem Straßenbahnfahrer Bescheid geben. An dieser Haltestelle ist der Einstieg von der Straße zu hoch und zu steil für die Rampe.
+id=node/1915619784</desc></wpt><wpt lat="51.481581" lon="11.9568441"><name>Saline</name><desc>local_ref=B
+name=Saline
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=no
+wheelchair:description=Es gibt abgesenkte Bordsteinkanten. Einsteig zur Bahn durch vorhandene Rampe in der Bahn möglich, bitte dem Straßenbahnfahrer Bescheid geben. An dieser Haltestelle Einstieg von der Straße: zu großer Höhenunterschied und zu steil für die Rampe.
+id=node/1915619785</desc></wpt><wpt lat="51.4862691" lon="11.9460563"><name>Gimritzer Damm</name><desc>local_ref=A
+name=Gimritzer Damm
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1916701658</desc></wpt><wpt lat="51.5000628" lon="11.9328311"><name>Heide-Universitätsklinikum</name><desc>local_ref=A
+name=Heide-Universitätsklinikum
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1917160016</desc></wpt><wpt lat="51.5000957" lon="11.932888"><name>Heide-Universitätsklinikum</name><desc>local_ref=B
+name=Heide-Universitätsklinikum
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1917160021</desc></wpt><wpt lat="51.4983114" lon="11.9354453"><name>Straßburger Weg</name><desc>local_ref=A
+name=Straßburger Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1917160387</desc></wpt><wpt lat="51.4957253" lon="11.9391947"><name>Weinberg Campus</name><desc>local_ref=A
+name=Weinberg Campus
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1917160395</desc></wpt><wpt lat="51.5075583" lon="11.9279349"><name>Kröllwitz</name><desc>local_ref=C
+name=Kröllwitz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1917221184</desc></wpt><wpt lat="51.507633" lon="11.9276655"><name>Kröllwitz</name><desc>local_ref=A
+name=Kröllwitz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1917221196</desc></wpt><wpt lat="51.5039039" lon="11.9290099"><name>Spechtweg</name><desc>local_ref=A
+name=Spechtweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1917221403</desc></wpt><wpt lat="51.4821965" lon="11.9632122"><name>Ankerstraße</name><desc>local_ref=A
+name=Ankerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1918311639</desc></wpt><wpt lat="51.4823563" lon="11.9666683"><name>Hallmarkt</name><desc>local_ref=A
+name=Hallmarkt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1918311651</desc></wpt><wpt lat="51.4793151" lon="11.9704944"><name>Franckeplatz</name><desc>local_ref=B
+name=Franckeplatz
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1918453023</desc></wpt><wpt lat="51.4826238" lon="11.96984"><name>Marktplatz</name><desc>addr:municipality=Halle (Saale)
+addr:postcode=06108
+local_ref=B
+name=Marktplatz
+operator=Hallesche Verkehrs-AG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1918453026</desc></wpt><wpt lat="51.4829399" lon="11.968959"><name>Marktplatz</name><desc>addr:municipality=Halle (Saale)
+addr:postcode=06108
+local_ref=C
+name=Marktplatz
+operator=Hallesche Verkehrs-AG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1918453027</desc></wpt><wpt lat="51.3736446" lon="11.9949606"><name>Am Stadtpark</name><desc>name=Am Stadtpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1918670681</desc></wpt><wpt lat="51.3769448" lon="11.9895198"><name>Stadtstadion</name><desc>name=Stadtstadion
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1918670682</desc></wpt><wpt lat="51.3769234" lon="11.9892033"><name>Stadtstadion</name><desc>name=Stadtstadion
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1918670683</desc></wpt><wpt lat="51.360414" lon="11.9944101"><name>Lindenstraße</name><desc>name=Lindenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1918670686</desc></wpt><wpt lat="51.3616204" lon="11.9944324"><name>Lindenstraße</name><desc>name=Lindenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1918670742</desc></wpt><wpt lat="51.488047" lon="11.9774067"><name>Am Steintor</name><desc>local_ref=A
+name=Am Steintor
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1919990554</desc></wpt><wpt lat="51.4847304" lon="11.973119"><name>Joliot-Curie-Platz</name><desc>local_ref=A
+name=Joliot-Curie-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1919990719</desc></wpt><wpt lat="51.4884514" lon="11.9785205"><name>Am Steintor</name><desc>local_ref=D
+name=Am Steintor
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=no
+id=node/1919990830</desc></wpt><wpt lat="51.4965173" lon="11.9662933"><name>Reileck</name><desc>bus=yes
+highway=bus_stop
+local_ref=A
+name=Reileck
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1922037553</desc></wpt><wpt lat="51.4984276" lon="11.9628551"><name>Landesmuseum für Vorgeschichte</name><desc>local_ref=B
+name=Landesmuseum für Vorgeschichte
+name:de=Landesmuseum für Vorgeschichte
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1922338658</desc></wpt><wpt lat="51.5076777" lon="11.9379848"><name>Schwuchtstraße</name><desc>local_ref=A
+name=Schwuchtstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1922457261</desc></wpt><wpt lat="51.5053818" lon="11.9508322"><name>Talstraße</name><desc>local_ref=B
+name=Talstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1922457284</desc></wpt><wpt lat="51.5000969" lon="11.9584901"><name>Triftstraße</name><desc>bus=yes
+local_ref=A
+name=Triftstraße
+operator=HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1922560144</desc></wpt><wpt lat="51.4975197" lon="11.955842"><name>Volkspark</name><desc>local_ref=B
+name=Volkspark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1923305623</desc></wpt><wpt lat="51.4909231" lon="11.9658978"><name>Hermannstraße</name><desc>local_ref=B
+name=Hermannstraße
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1923880217</desc></wpt><wpt lat="51.4850158" lon="11.9688092"><name>Neues Theater</name><desc>local_ref=B
+name=Neues Theater
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1923880218</desc></wpt><wpt lat="51.4845343" lon="11.9693562"><name>Neues Theater</name><desc>local_ref=A
+name=Neues Theater
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1923880234</desc></wpt><wpt lat="51.5087462" lon="11.9617672"><name>Am Klausberg</name><desc>local_ref=A
+name=Am Klausberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1924170430</desc></wpt><wpt lat="51.5131985" lon="11.9586942"><name>Pfarrstraße</name><desc>local_ref=B
+name=Pfarrstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1924170432</desc></wpt><wpt lat="51.5105914" lon="11.961503"><name>Seebener Straße</name><desc>local_ref=A
+name=Seebener Straße
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=no
+id=node/1924170762</desc></wpt><wpt lat="51.5192199" lon="11.9579265"><name>Trotha</name><desc>local_ref=A
+name=Trotha
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1924170776</desc></wpt><wpt lat="51.5192248" lon="11.9580743"><name>Trotha</name><desc>local_ref=C
+name=Trotha
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1924170787</desc></wpt><wpt lat="51.4995663" lon="11.9665622"><name>Hegelstraße</name><desc>local_ref=B
+name=Hegelstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1924232860</desc></wpt><wpt lat="51.5036784" lon="11.9668271"><name>Kurallee</name><desc>bench=yes
+bus=yes
+highway=bus_stop
+local_ref=B
+name=Kurallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1924232868</desc></wpt><wpt lat="51.5065814" lon="11.9655598"><name>Zoo</name><desc>local_ref=A
+name=Zoo
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1924233146</desc></wpt><wpt lat="51.5052531" lon="11.9598076"><name>Emil-Eichhorn-Straße</name><desc>local_ref=B
+name=Emil-Eichhorn-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1927108758</desc></wpt><wpt lat="51.4937322" lon="11.9647939"><name>Mühlweg</name><desc>local_ref=B
+name=Mühlweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1927197252</desc></wpt><wpt lat="52.0919452" lon="11.6209099"><name>Leipziger Chaussee</name><desc>name=Leipziger Chaussee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1011
+tram=yes
+uic_ref=953323
+wheelchair=yes
+id=node/1930133452</desc></wpt><wpt lat="52.0921517" lon="11.620948"><name>Leipziger Chaussee</name><desc>name=Leipziger Chaussee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=11
+tram=yes
+uic_ref=953323
+wheelchair=yes
+id=node/1930133453</desc></wpt><wpt lat="52.0897362" lon="11.6210393"><name>Weinbrennerallee</name><desc>name=Weinbrennerallee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1010
+tram=yes
+uic_ref=964373
+wheelchair=yes
+id=node/1930133483</desc></wpt><wpt lat="52.0899597" lon="11.6210809"><name>Weinbrennerallee</name><desc>name=Weinbrennerallee
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=10
+tram=yes
+uic_ref=964373
+wheelchair=yes
+id=node/1930133484</desc></wpt><wpt lat="51.8807141" lon="11.0536976"><name>Herbingstraße</name><desc>name=Herbingstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1988799713</desc></wpt><wpt lat="51.884108" lon="11.0565326"><name>Klusstraße</name><desc>name=Klusstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1988799826</desc></wpt><wpt lat="51.8842909" lon="11.0566308"><name>Klusstraße</name><desc>name=Klusstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1988799828</desc></wpt><wpt lat="51.8881447" lon="11.0573046"><name>Landratsamt</name><desc>name=Landratsamt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1989953780</desc></wpt><wpt lat="51.8882928" lon="11.0573529"><name>Landratsamt</name><desc>name=Landratsamt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1989953781</desc></wpt><wpt lat="51.8941374" lon="11.0607547"><name>Heinrich-Heine-Platz</name><desc>name=Heinrich-Heine-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1989954067</desc></wpt><wpt lat="51.894122" lon="11.0606424"><name>Heinrich-Heine-Platz</name><desc>name=Heinrich-Heine-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1989954072</desc></wpt><wpt lat="51.8946033" lon="11.0497962"><name>Holzmarkt</name><desc>name=Holzmarkt
+network=VTO
+operator=HVG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1990099278</desc></wpt><wpt lat="51.8836021" lon="11.051301"><name>Westerhäuser Straße</name><desc>name=Westerhäuser Straße
+network=2
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990099307</desc></wpt><wpt lat="51.8837674" lon="11.0512546"><name>Westerhäuser Straße</name><desc>name=Westerhäuser Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990099325</desc></wpt><wpt lat="51.8918029" lon="11.0487562"><name>Heinrich-Julius-Straße</name><desc>name=Heinrich-Julius-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990099576</desc></wpt><wpt lat="51.8919183" lon="11.0488664"><name>Heinrich-Julius-Straße</name><desc>name=Heinrich-Julius-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990099582</desc></wpt><wpt lat="51.8938466" lon="11.0570036"><name>Kühlinger Straße</name><desc>bus=yes
+name=Kühlinger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990099732</desc></wpt><wpt lat="51.8972522" lon="11.0504452"><name>Hoher Weg</name><desc>name=Hoher Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1990100160</desc></wpt><wpt lat="51.8972549" lon="11.0504046"><name>Hoher Weg</name><desc>name=Hoher Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1990100162</desc></wpt><wpt lat="51.9045992" lon="11.0468767"><name>Friedhof</name><desc>name=Friedhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990120352</desc></wpt><wpt lat="51.8992762" lon="11.0481766"><name>Gröperstraße</name><desc>name=Gröperstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990120359</desc></wpt><wpt lat="51.899279" lon="11.0482177"><name>Gröperstraße</name><desc>name=Gröperstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990120360</desc></wpt><wpt lat="51.8993808" lon="11.0404658"><name>Torteich</name><desc>name=Torteich
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1990152158</desc></wpt><wpt lat="51.8980106" lon="11.0464897"><name>Johannesbrunnen</name><desc>name=Johannesbrunnen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+wheelchair:description=erhöhter Einstieg vorhanden, jedoch fahren nicht nur Niedrigflurwagen
+id=node/1990152176</desc></wpt><wpt lat="51.8980257" lon="11.0465231"><name>Johannesbrunnen</name><desc>name=Johannesbrunnen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wheelchair:description=erhöhter Einstieg vorhanden, jedoch fahren nicht nur Niedrigflurwagen
+id=node/1990152187</desc></wpt><wpt lat="51.8988528" lon="11.0437886"><name>Voigtei</name><desc>name=Voigtei
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1990152315</desc></wpt><wpt lat="51.8988923" lon="11.0437502"><name>Voigtei</name><desc>name=Voigtei
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1990152370</desc></wpt><wpt lat="51.8029506" lon="12.2407894"><name>Peterholzstraße</name><desc>name=Peterholzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1992008801</desc></wpt><wpt lat="51.8094153" lon="12.2411817"><name>DVG</name><desc>fixme=check position, add platform
+name=DVG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1992008811</desc></wpt><wpt lat="51.8128683" lon="12.2414609"><name>Friedhof III</name><desc>name=Friedhof III
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1992066453</desc></wpt><wpt lat="51.8157367" lon="12.2417289"><name>Klughardtstraße</name><desc>name=Klughardtstraße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1992066869</desc></wpt><wpt lat="51.8184336" lon="12.2418187"><name>Wasserwerkstraße</name><desc>bus=yes
+name=Wasserwerkstraße
+operator=Dessauer Verkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1992093249</desc></wpt><wpt lat="51.8230013" lon="12.2421238"><name>Am alten Wasserturm</name><desc>name=Am alten Wasserturm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1992093268</desc></wpt><wpt lat="51.8305223" lon="12.2400675"><name>August-Bebel-Platz</name><desc>name=August-Bebel-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1992093305</desc></wpt><wpt lat="51.8313749" lon="12.2425319"><name>Museum Nord</name><desc>bus=yes
+name=Museum Nord
+network=Dessauer Verkehrsgesellschaft mbH
+operator=Dessauer Verkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:15001:10447
+tram=yes
+wheelchair=yes
+id=node/1992093357</desc></wpt><wpt lat="51.8369616" lon="12.2376784"><name>Theater</name><desc>name=Theater
+network=Dessauer Verkehrsgesellschaft mbH
+operator=Dessauer Verkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1992116775</desc></wpt><wpt lat="51.829462" lon="12.2346105"><name>Amalienstraße</name><desc>bus=yes
+name=Amalienstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1992135110</desc></wpt><wpt lat="51.8247975" lon="12.2093748"><name>BSZ Sporthalle</name><desc>name=BSZ Sporthalle
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1992159213</desc></wpt><wpt lat="51.8264289" lon="12.2130493"><name>BSZ Haupteingang</name><desc>name=BSZ Haupteingang
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1992159240</desc></wpt><wpt lat="51.8279044" lon="12.2251796"><name>Altener Straße</name><desc>name=Altener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1992159285</desc></wpt><wpt lat="51.8177691" lon="12.1959703"><name>Städtisches Klinikum</name><desc>name=Städtisches Klinikum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1992244541</desc></wpt><wpt lat="51.818063" lon="12.2012212"><name>Medizinisches Versorgungszentrum (MVZ)</name><desc>name=Medizinisches Versorgungszentrum (MVZ)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1992244548</desc></wpt><wpt lat="51.1584513" lon="11.8042333"><name>Nordstraße</name><desc>name=Nordstraße
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1992568497</desc></wpt><wpt lat="51.1613584" lon="11.8004776"><name>Wiesenstraße</name><desc>name=Wiesenstraße
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1992789608</desc></wpt><wpt lat="52.0860236" lon="11.6208489"><name>Am Hopfengarten</name><desc>name=Am Hopfengarten
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1009
+tram=yes
+uic_ref=964372
+wheelchair=yes
+id=node/2022091149</desc></wpt><wpt lat="52.0863827" lon="11.6208822"><name>Am Hopfengarten</name><desc>name=Am Hopfengarten
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=9
+tram=yes
+uic_ref=964372
+wheelchair=yes
+id=node/2022091154</desc></wpt><wpt lat="52.0816965" lon="11.6209801"><name>Flugplatz/Technisches Hilfswerk</name><desc>name=Flugplatz/Technisches Hilfswerk
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1008
+tram=yes
+uic_ref=953518
+wheelchair=yes
+id=node/2022091158</desc></wpt><wpt lat="52.0820076" lon="11.6210891"><name>Flugplatz/Technisches Hilfswerk</name><desc>name=Flugplatz/Technisches Hilfswerk
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=8
+tram=yes
+uic_ref=953518
+wheelchair=yes
+id=node/2022091164</desc></wpt><wpt lat="52.0816368" lon="11.6153819"><name>Merkurweg</name><desc>name=Merkurweg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=7
+tram=yes
+uic_ref=964374
+wheelchair=yes
+id=node/2022091167</desc></wpt><wpt lat="52.0817538" lon="11.6149983"><name>Merkurweg</name><desc>name=Merkurweg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1007
+tram=yes
+uic_ref=964374
+wheelchair=yes
+id=node/2022091178</desc></wpt><wpt lat="52.0825881" lon="11.6097245"><name>Pallasweg</name><desc>name=Pallasweg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1006
+tram=yes
+uic_ref=962747
+wheelchair=yes
+id=node/2022091179</desc></wpt><wpt lat="52.0826268" lon="11.6090015"><name>Pallasweg</name><desc>name=Pallasweg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=6
+tram=yes
+uic_ref=962747
+wheelchair=yes
+id=node/2022091180</desc></wpt><wpt lat="52.0891822" lon="11.6065865"><name>Reform</name><desc>name=Reform
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1004
+tram=yes
+uic_name=Reform, Magdeburg
+uic_ref=964375
+wheelchair=yes
+id=node/2022119168</desc></wpt><wpt lat="52.0892261" lon="11.6071398"><name>Reform</name><desc>name=Reform
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=4
+tram=yes
+uic_name=Reform, Magdeburg
+uic_ref=964375
+wheelchair=yes
+id=node/2022119175</desc></wpt><wpt lat="51.3695645" lon="11.9944253"><name>Slawenweg</name><desc>name=Slawenweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2024716163</desc></wpt><wpt lat="51.3696959" lon="11.9944181"><name>Slawenweg</name><desc>name=Slawenweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2024716170</desc></wpt><wpt lat="52.0835539" lon="11.6023359"><name>Bördepark Ost</name><desc>name=Bördepark Ost
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=5
+ref_name=Bördepark Ost, Magdeburg
+tram=yes
+wheelchair=yes
+id=node/2031045670</desc></wpt><wpt lat="52.0830626" lon="11.6031329"><name>Bördepark Ost</name><desc>name=Bördepark Ost
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1005
+tram=yes
+wheelchair=yes
+id=node/2031045679</desc></wpt><wpt lat="51.1520747" lon="11.8141274"><name>Curt-Becker-Platz</name><desc>name=Curt-Becker-Platz
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/2059089147</desc></wpt><wpt lat="51.1577717" lon="11.8066846"><name>Jägerplatz</name><desc>name=Jägerplatz
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2059089165</desc></wpt><wpt lat="51.162604" lon="11.7973642"><name>Hauptbahnhof</name><desc>addr:city=Naumburg (Saale)
+addr:postcode=06618
+addr:street=Bahnhofstraße
+name=Hauptbahnhof
+operator=Naumburger Straßenbahn GmbH
+phone=+49 3445 703002
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+website=https://naumburger-strassenbahn.de/
+wheelchair=limited
+wheelchair:description=Haltestelle behindertengerecht. Beim Einstieg muß Straßenbahnfahrer helfen.
+id=node/2059089172</desc></wpt><wpt lat="51.1495985" lon="11.8130174"><name>Vogelwiese</name><desc>name=Vogelwiese
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2059092713</desc></wpt><wpt lat="52.1514036" lon="11.6563175"><name>Lostauer Straße</name><desc>name=Lostauer Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=151
+tram=yes
+wheelchair=yes
+id=node/2070019411</desc></wpt><wpt lat="52.0679329" lon="11.6744584"><name>Husumer Straße</name><desc>name=Husumer Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=74
+tram=yes
+wheelchair=no
+id=node/2070455446</desc></wpt><wpt lat="52.0683854" lon="11.6739926"><name>Husumer Straße</name><desc>name=Husumer Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:mvb=1074
+tram=yes
+wheelchair=no
+id=node/2070455458</desc></wpt><wpt lat="52.1069321" lon="11.5912315"><name>Sudenburg (Kroatenweg)</name><desc>bus=no
+name=Sudenburg (Kroatenweg)
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=61;1061
+tram=yes
+uic_name=Kroatenweg, Magdeburg
+uic_ref=953365
+wheelchair=no
+id=node/2077282599</desc></wpt><wpt lat="52.1471295" lon="11.645137"><name>Agnetenstraße</name><desc>name=Agnetenstraße
+network=marego
+note=nur im Umleitungsverkehr über Agnetenstraße
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=11470
+tram=yes
+wheelchair=no
+id=node/2081440274</desc></wpt><wpt lat="52.1380107" lon="11.6403436"><name>Opernhaus (Ersatzhaltestelle)</name><desc>name=Opernhaus (Ersatzhaltestelle)
+network=marego
+note=Nur für einzelne Ein- und Ausrücker sowie Umleitungsverkehr
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=22
+tram=yes
+uic_ref=953333
+wheelchair=yes
+id=node/2081440306</desc></wpt><wpt lat="52.1380344" lon="11.6403469"><name>Opernhaus (Ersatzhaltestelle)</name><desc>name=Opernhaus (Ersatzhaltestelle)
+network=marego
+note=Nur für einzelne Ein- und Ausrücker sowie Umleitungsverkehr
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=22
+tram=yes
+uic_ref=953333
+wheelchair=yes
+id=node/2081440311</desc></wpt><wpt lat="51.3449771" lon="11.9950116"><name>Merseburg, Haeckelstraße</name><desc>name=Merseburg, Haeckelstraße
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/2126183278</desc></wpt><wpt lat="51.3450019" lon="11.9950519"><name>Merseburg, Haeckelstraße</name><desc>name=Merseburg, Haeckelstraße
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/2126183279</desc></wpt><wpt lat="51.483836" lon="11.9701807"><name>Kleinschmieden</name><desc>local_ref=A
+name=Kleinschmieden
+on_demand=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2133719723</desc></wpt><wpt lat="51.3041502" lon="12.0699473"><name>Bad Dürrenberg, Bahnhof</name><desc>gtfs:stop_id=000005043
+name=Bad Dürrenberg, Bahnhof
+network=Mitteldeutscher Verkehrsverbund
+network:short=MDV
+network:wikidata=Q1742463
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2285777494</desc></wpt><wpt lat="51.1549959" lon="11.8133757"><name>Marientor</name><desc>name=Marientor
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2305791234</desc></wpt><wpt lat="51.8398041" lon="12.2367986"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+official_name=Dessau Hauptbahnhof (Tram/Bus), Dessau-Roßlau
+operator=Dessauer Verkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+ref=S1
+tram=yes
+id=node/2481561397</desc></wpt><wpt lat="51.3650672" lon="11.9943687"><name>Carl-von-Basedow-Klinikum</name><desc>name=Carl-von-Basedow-Klinikum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2505189654</desc></wpt><wpt lat="51.3653385" lon="11.9945357"><name>Carl-von-Basedow-Klinikum</name><desc>name=Carl-von-Basedow-Klinikum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2505189672</desc></wpt><wpt lat="51.8920139" lon="11.0576372"><name>Erich-Weinert-Straße</name><desc>name=Erich-Weinert-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2923655208</desc></wpt><wpt lat="51.8811679" lon="11.0536645"><name>Herbingstraße</name><desc>name=Herbingstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2923655209</desc></wpt><wpt lat="51.8943848" lon="11.0498035"><name>Holzmarkt</name><desc>name=Holzmarkt
+network=VTO
+operator=HVG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/2923655210</desc></wpt><wpt lat="51.8171947" lon="12.190318"><name>Zoberberg Mitte</name><desc>name=Zoberberg Mitte
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3209602517</desc></wpt><wpt lat="51.7985019" lon="12.2397503"><name>Tempelhofer Straße</name><desc>name=Tempelhofer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3209609875</desc></wpt><wpt lat="51.822474" lon="12.2097951"><name>Kleine Schaftrift</name><desc>name=Kleine Schaftrift
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3209985610</desc></wpt><wpt lat="51.8267531" lon="12.2186255"><name>Robert-Bosch-Straße</name><desc>name=Robert-Bosch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3209994784</desc></wpt><wpt lat="51.8259049" lon="12.2422387"><name>Friedhofstraße</name><desc>name=Friedhofstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3210320464</desc></wpt><wpt lat="51.8062649" lon="12.2410246"><name>Damaschkestraße</name><desc>name=Damaschkestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3210320645</desc></wpt><wpt lat="51.8029538" lon="12.2408325"><name>Peterholzstraße</name><desc>name=Peterholzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3210320646</desc></wpt><wpt lat="51.7989498" lon="12.2398863"><name>Tempelhofer Straße</name><desc>name=Tempelhofer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3210320660</desc></wpt><wpt lat="51.830497" lon="12.2424449"><name>Dessau Center</name><desc>name=Dessau Center
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/3210323317</desc></wpt><wpt lat="51.155574" lon="11.8114433"><name>Poststraße</name><desc>name=Poststraße
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3686718350</desc></wpt><wpt lat="52.132036" lon="11.6265224"><name>Hauptbahnhof/Kölner Platz</name><desc>name=Hauptbahnhof/Kölner Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4215832103</desc></wpt><wpt lat="52.1319394" lon="11.6270839"><name>Hauptbahnhof/Kölner Platz</name><desc>name=Hauptbahnhof/Kölner Platz
+note=wird während der Tunnelbauphase nicht angefahren
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+source=http://www.volksstimme.de/lokal/magdeburg/tunnelbau-die-baustellenlinie-41-rollt
+tram=yes
+wheelchair=yes
+id=node/4215832106</desc></wpt><wpt lat="52.1085021" lon="11.6273392"><name>Dodendorfer Straße</name><desc>name=Dodendorfer Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+proposed=tram_stop
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=10007
+tram=yes
+uic_ref=953452
+wheelchair=yes
+id=node/4385535655</desc></wpt><wpt lat="52.1086626" lon="11.6266968"><name>Dodendorfer Straße</name><desc>name=Dodendorfer Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+proposed=tram_stop
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=10017
+tram=yes
+uic_ref=953452
+wheelchair=yes
+id=node/4385535656</desc></wpt><wpt lat="52.131749" lon="11.6368046"><name>Alter Markt</name><desc>name=Alter Markt
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4473468523</desc></wpt><wpt lat="52.1747327" lon="11.6221016"><name>Kannenstieg</name><desc>name=Kannenstieg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=169011
+tram=yes
+id=node/4510788587</desc></wpt><wpt lat="52.1717702" lon="11.6241935"><name>Pablo-Picasso-Straße</name><desc>name=Pablo-Picasso-Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=169006
+tram=yes
+id=node/4510789592</desc></wpt><wpt lat="52.1695856" lon="11.6243283"><name>Hanns-Eisler-Platz</name><desc>name=Hanns-Eisler-Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=169013
+tram=yes
+id=node/4510789603</desc></wpt><wpt lat="52.1671553" lon="11.6244757"><name>Milchweg</name><desc>name=Milchweg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=3170
+tram=yes
+id=node/4510789615</desc></wpt><wpt lat="52.1231339" lon="11.654924"><name>Am Cracauer Tor</name><desc>name=Am Cracauer Tor
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4521085318</desc></wpt><wpt lat="52.1646858" lon="11.6507701"><name>Pettenkoferstraße</name><desc>name=Pettenkoferstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/4544695228</desc></wpt><wpt lat="51.4489704" lon="11.9595782"><name>Südstadt, Veszpremer Straße</name><desc>local_ref=B
+name=Südstadt, Veszpremer Straße
+operator=HAVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/4737729822</desc></wpt><wpt lat="52.1128719" lon="11.6085561"><name>Südring</name><desc>name=Südring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2065
+ref_name=Südring, Magdeburg
+tram=yes
+wheelchair=yes
+id=node/4914885680</desc></wpt><wpt lat="51.1496643" lon="11.8071143"><name>Salztor</name><desc>name=Salztor
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/5258791314</desc></wpt><wpt lat="51.3347047" lon="11.991997"><name>Kötzschener Weg</name><desc>local_ref=A
+name=Kötzschener Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/5438683069</desc></wpt><wpt lat="52.1104869" lon="11.6136009"><name>Hertzstraße</name><desc>name=Hertzstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=10005
+ref_name=Hertzstr., Magdeburg
+tram=yes
+wheelchair=yes
+id=node/5820310934</desc></wpt><wpt lat="52.1102562" lon="11.615309"><name>Hertzstraße</name><desc>name=Hertzstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=10015
+ref_name=Hertzstr., Magdeburg
+tram=yes
+wheelchair=yes
+id=node/5820310935</desc></wpt><wpt lat="52.1099301" lon="11.6186593"><name>Raiffeisenstraße</name><desc>name=Raiffeisenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2016
+tram=yes
+wheelchair=yes
+id=node/5831859091</desc></wpt><wpt lat="52.1098291" lon="11.6192385"><name>Raiffeisenstraße</name><desc>name=Raiffeisenstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2116
+tram=yes
+wheelchair=yes
+id=node/5831859092</desc></wpt><wpt lat="51.4947743" lon="11.9661841"><name>Reileck</name><desc>local_ref=D
+name=Reileck
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/6252462083</desc></wpt><wpt lat="52.1098372" lon="11.6379981"><name>Budenbergstraße</name><desc>name=Budenbergstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2086
+tram=yes
+wheelchair=yes
+id=node/6258110012</desc></wpt><wpt lat="52.1100528" lon="11.6373995"><name>Budenbergstraße</name><desc>name=Budenbergstraße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2186
+tram=yes
+wheelchair=yes
+id=node/6258110013</desc></wpt><wpt lat="52.1120402" lon="11.6326716"><name>Benediktinerstraße/Gesellschaftshaus</name><desc>name=Benediktinerstraße/Gesellschaftshaus
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=86
+tram=yes
+id=node/6258114211</desc></wpt><wpt lat="52.1115219" lon="11.633025"><name>Benediktinerstraße/Gesellschaftshaus</name><desc>name=Benediktinerstraße/Gesellschaftshaus
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=1086
+tram=yes
+id=node/6258114281</desc></wpt><wpt lat="51.337661" lon="11.9949198"><name>Leunaweg</name><desc>local_ref=D
+name=Leunaweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/6870956560</desc></wpt><wpt lat="51.3375475" lon="11.9950794"><name>Leunaweg</name><desc>local_ref=F
+name=Leunaweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/6870959129</desc></wpt><wpt lat="52.1318583" lon="11.6369129"><name>Alter Markt</name><desc>name=Alter Markt
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/6926783604</desc></wpt><wpt lat="51.8343156" lon="12.2427318"><name>Bauhausmuseum</name><desc>name=Bauhausmuseum
+network=Dessauer Verkehrsgesellschaft mbH
+operator=Dessauer Verkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:15001:30320
+tram=yes
+id=node/7016900049</desc></wpt><wpt lat="51.4310105" lon="11.9841572"><name>Kurt-Wüsteneck-Straße</name><desc>local_ref=B
+name=Kurt-Wüsteneck-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/7123637544</desc></wpt><wpt lat="51.8397574" lon="12.2367624"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+official_name=Dessau Hauptbahnhof (Tram/Bus), Dessau-Roßlau
+operator=Dessauer Verkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+ref=S2
+tram=yes
+id=node/7153944112</desc></wpt><wpt lat="51.8942841" lon="11.0539513"><name>Fischmarkt</name><desc>name=Fischmarkt
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=limited
+id=node/7350993976</desc></wpt><wpt lat="52.1743449" lon="11.6224247"><name>Kannenstieg</name><desc>name=Kannenstieg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=169001
+tram=yes
+id=node/7515315090</desc></wpt><wpt lat="52.172148" lon="11.6242093"><name>Pablo-Picasso-Straße</name><desc>name=Pablo-Picasso-Straße
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=169016
+tram=yes
+id=node/7531966133</desc></wpt><wpt lat="52.1691624" lon="11.6243163"><name>Hanns-Eisler-Platz</name><desc>name=Hanns-Eisler-Platz
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=169003
+tram=yes
+id=node/7531966135</desc></wpt><wpt lat="52.1314803" lon="11.6219589"><name>ZOB/Adelheidring</name><desc>name=ZOB/Adelheidring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=9201
+tram=yes
+id=node/7810747838</desc></wpt><wpt lat="52.1318571" lon="11.6223176"><name>ZOB/Adelheidring</name><desc>name=ZOB/Adelheidring
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=9200
+tram=yes
+id=node/7810747839</desc></wpt><wpt lat="52.1642083" lon="11.6476846"><name>Zoo</name><desc>bus=no
+name=Zoo
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=43
+tram=yes
+uic_name=Zoo, Magdeburg
+uic_ref=953352
+wheelchair=yes
+id=node/7850521470</desc></wpt><wpt lat="51.4686575" lon="11.9837234"><name>Heinrich-Schütz-Straße</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+local_ref=A
+name=Heinrich-Schütz-Straße
+network=MDV
+operator=HAVAG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7954156753</desc></wpt><wpt lat="52.109762" lon="11.632506"><name>S-Bf. Buckau / Puppentheater</name><desc>name=S-Bf. Buckau / Puppentheater
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=A
+ref:mvb=10009
+tram=yes
+wheelchair=yes
+id=node/8227468760</desc></wpt><wpt lat="52.1094364" lon="11.6315246"><name>S-Bf. Buckau / Puppentheater</name><desc>name=S-Bf. Buckau / Puppentheater
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref=B
+ref:mvb=10019
+tram=yes
+wheelchair=yes
+id=node/8227468761</desc></wpt><wpt lat="51.8809905" lon="11.0534511"><name>Herbingstraße</name><desc>name=Herbingstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8233134499</desc></wpt><wpt lat="51.8937585" lon="11.057231"><name>Kühlinger Straße</name><desc>bus=yes
+name=Kühlinger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8238250446</desc></wpt><wpt lat="51.8881056" lon="11.0492851"><name>Spiegelstraße</name><desc>name=Spiegelstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8238250596</desc></wpt><wpt lat="51.888036" lon="11.0492686"><name>Spiegelstraße</name><desc>name=Spiegelstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8238250597</desc></wpt><wpt lat="51.5105908" lon="11.961501"><name>Seebener Straße</name><desc>local_ref=A
+name=Seebener Straße
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=no
+id=node/8343660052</desc></wpt><wpt lat="51.3033745" lon="12.0704693"><name>Bad Dürrenberg, Markt</name><desc>local_ref=B
+name=Bad Dürrenberg, Markt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8635471440</desc></wpt><wpt lat="51.3033218" lon="12.0705162"><name>Bad Dürrenberg, Markt</name><desc>gtfs:stop_id=000000692
+local_ref=A
+name=Bad Dürrenberg, Markt
+network=Mitteldeutscher Verkehrsverbund
+network:short=MDV
+network:wikidata=Q1742463
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8635471443</desc></wpt><wpt lat="51.3547513" lon="11.9932132"><name>Merseburg/Zentrum Bedarfshalt</name><desc>name=Merseburg/Zentrum Bedarfshalt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8653894009</desc></wpt><wpt lat="51.3006597" lon="12.0652187"><name>Platz der Freiheit</name><desc>name=Platz der Freiheit
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/8830027192</desc></wpt><wpt lat="52.1667568" lon="11.6243629"><name>Milchweg</name><desc>name=Milchweg
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=2170
+tram=yes
+id=node/8893443137</desc></wpt><wpt lat="51.4912862" lon="11.9659029"><name>Hermannstraße</name><desc>bench=yes
+bus=yes
+departures_board=timetable
+local_ref=A
+name=Hermannstraße
+operator=HAVAG
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tram=yes
+wheelchair=limited
+id=node/9074945754</desc></wpt><wpt lat="51.4983006" lon="11.962862"><name>Landesmuseum für Vorgeschichte</name><desc>bus=yes
+local_ref=A
+name=Landesmuseum für Vorgeschichte
+name:de=Landesmuseum für Vorgeschichte
+phone=+49 345 524730
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+website=http://www.lda-lsa.de/landesmuseum_fuer_vorgeschichte/
+wheelchair=no
+wheelchair:description=Zugang: Schräge am Seiteneingang. Behindertengerechtes WC im Erdgeschoss. Teilweise kleine Schwellen in den Ausstellungsräumen, Aufzug in alle Etagen.
+id=node/9215929970</desc></wpt><wpt lat="52.1229325" lon="11.6550624"><name>Am Cracauer Tor</name><desc>name=Am Cracauer Tor
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/9243593269</desc></wpt><wpt lat="51.1520231" lon="11.8140724"><name>Curt-Becker-Platz</name><desc>name=Curt-Becker-Platz
+operator=Naumburger Straßenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/9888884581</desc></wpt><wpt lat="51.5076041" lon="11.9627009"><name>Geschwister-Scholl-Straße</name><desc>local_ref=A
+name=Geschwister-Scholl-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/10017532473</desc></wpt><wpt lat="51.5076673" lon="11.9628238"><name>Geschwister-Scholl-Straße</name><desc>local_ref=B
+name=Geschwister-Scholl-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/10017532474</desc></wpt><wpt lat="51.5028229" lon="11.9569136"><name>Historisches Straßenbahndepot</name><desc>local_ref=A
+name=Historisches Straßenbahndepot
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/10017532475</desc></wpt><wpt lat="51.5029057" lon="11.9571504"><name>Historisches Straßenbahndepot</name><desc>local_ref=B
+name=Historisches Straßenbahndepot
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/10017532478</desc></wpt><wpt lat="52.1286247" lon="11.5855845"><name>Westfriedhof</name><desc>bus=no
+name=Westfriedhof
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref:mvb=123
+tram=yes
+wheelchair=yes
+id=node/10176034593</desc></wpt><wpt lat="51.4474647" lon="11.9839948"><name>S-Bahnhof Rosengarten</name><desc>local_ref=A
+name=S-Bahnhof Rosengarten
+network=Mitteldeutscher Verkehrsverbund
+network:short=MDV
+network:wikidata=Q1742463
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/10658462868</desc></wpt><wpt lat="51.4474687" lon="11.9839569"><name>S-Bahnhof Rosengarten</name><desc>local_ref=B
+name=S-Bahnhof Rosengarten
+network=Mitteldeutscher Verkehrsverbund
+network:short=MDV
+network:wikidata=Q1742463
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/10658462869</desc></wpt><wpt lat="51.4604014" lon="11.9838356"><name>BG Klinikum Bergmannstrost Halle</name><desc>lit=yes
+local_ref=A
+name=BG Klinikum Bergmannstrost Halle
+network=Mitteldeutscher Verkehrsverbund
+network:short=MDV
+network:wikidata=Q1742463
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/10670154933</desc></wpt><wpt lat="51.4514335" lon="11.9839258"><name>Theodor-Neubauer-Straße</name><desc>lit=yes
+local_ref=A
+name=Theodor-Neubauer-Straße
+network=Mitteldeutscher Verkehrsverbund
+network:short=MDV
+network:wikidata=Q1742463
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/10670368200</desc></wpt><wpt lat="51.4855358" lon="11.9945034"><name>Betriebshof Freiimfelder Straße</name><desc>local_ref=D
+name=Betriebshof Freiimfelder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/10832479627</desc></wpt><wpt lat="51.4855365" lon="11.9945487"><name>Betriebshof Freiimfelder Straße</name><desc>local_ref=E
+name=Betriebshof Freiimfelder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/10832479628</desc></wpt><wpt lat="51.4877018" lon="11.9953562"><name>Betriebshaltestelle</name><desc>name=Betriebshaltestelle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/10832479633</desc></wpt><wpt lat="51.4876924" lon="11.9956107"><name>Betriebshaltestelle</name><desc>name=Betriebshaltestelle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/10832479634</desc></wpt><wpt lat="51.4785942" lon="12.0255532"><name>Bitterfelder Straße</name><desc>local_ref=B
+name=Bitterfelder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/11183760118</desc></wpt><wpt lat="51.4788714" lon="12.0315286"><name>Käthe-Kollwitz-Straße</name><desc>local_ref=B
+name=Käthe-Kollwitz-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/11185909763</desc></wpt><wpt lat="52.1260814" lon="11.6544809"><name>Heumarkt</name><desc>name=Heumarkt
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref_name=Heumarkt, Magdeburg
+tram=yes
+wheelchair=limited
+id=node/11455206979</desc></wpt><wpt lat="52.126249" lon="11.6537757"><name>Heumarkt</name><desc>name=Heumarkt
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+ref_name=Heumarkt, Magdeburg
+tram=yes
+wheelchair=limited
+id=node/11455206980</desc></wpt><wpt lat="52.1273391" lon="11.6478725"><name>Zollbrücke</name><desc>name=Zollbrücke
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11749021865</desc></wpt><wpt lat="52.1271863" lon="11.6484956"><name>Zollbrücke</name><desc>name=Zollbrücke
+network=marego
+operator=Magdeburger Verkehrsbetriebe GmbH &amp; Co. KG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11749021866</desc></wpt><wpt lat="51.3485706" lon="11.9957463"><name>Merseburg, Herweghstraße</name><desc>name=Merseburg, Herweghstraße
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/11866677621</desc></wpt><wpt lat="51.3485656" lon="11.9957845"><name>Merseburg, Herweghstraße</name><desc>name=Merseburg, Herweghstraße
+network=Mitteldeutscher Verkehrsverbund
+operator=Hallesche Verkehrs-AG
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/11866737717</desc></wpt><wpt lat="51.4904384" lon="11.944437"><name>Blücherstraße/Peißnitzinsel</name><desc>name=Blücherstraße/Peißnitzinsel
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/12163558450</desc></wpt><wpt lat="51.4902009" lon="11.9444839"><name>Blücherstraße/Peißnitzinsel</name><desc>name=Blücherstraße/Peißnitzinsel
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/12163558451</desc></wpt></gpx>

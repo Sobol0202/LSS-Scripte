@@ -1,0 +1,788 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="51.8013518" lon="12.1793864"><name>Einkaufspark am Teufelssumpf</name><desc>addr:city=Dessau-Roßlau
+addr:housenumber=34
+addr:postcode=06847
+addr:street=Lichtenauer Straße
+name=Einkaufspark am Teufelssumpf
+shop=mall
+wheelchair=yes
+id=node/274814925</desc></wpt><wpt lat="51.0556686" lon="12.1014599"><name>Einkaufspark Floßgraben</name><desc>name=Einkaufspark Floßgraben
+shop=mall
+toilets=yes
+id=node/1248128614</desc></wpt><wpt lat="51.4805643" lon="11.92306"><name>Neustädter Passage</name><desc>name=Neustädter Passage
+shop=mall
+wheelchair=yes
+id=node/1761960492</desc></wpt><wpt lat="51.4806392" lon="11.9747859"><name>Ritterhaus</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:housenumber=89
+addr:postcode=06108
+addr:street=Leipziger Straße
+name=Ritterhaus
+opening_hours=Mo-Sa 07:00-20:30
+phone=+49 345 2927730
+shop=mall
+toilets=no
+toilets:wheelchair=yes
+wheelchair=yes
+wheelchair:description=verschiedene Läden darin, WC im 1. OG mit Schlüssel
+id=node/3084834433</desc></wpt><wpt lat="51.6269118" lon="12.1269017"><name>Bauernmarkt</name><desc>name=Bauernmarkt
+opening_hours=Mo-Fr 08:00-12:00, 12:30-17:00,Sep-Oct 12:30-18:00; Sa 08:00-11:00
+operator=Agrargenossenschaft Zörbig e. G.
+phone=+49 34956 20287
+shop=mall
+id=node/3754616921</desc></wpt><wpt lat="51.4479003" lon="11.958434"><name>Jeans Fritz</name><desc>addr:city=Halle (Saale)
+addr:housenumber=90
+addr:postcode=06128
+addr:street=Südstadtring
+name=Jeans Fritz
+shop=mall
+wheelchair=yes
+wheelchair:description=Kabinen zu klein für Rollstuhl, manche Aufsteller zu eng sonst barrierefrei
+id=node/5643835254</desc></wpt><wpt lat="51.8956723" lon="11.0521053"><name>Martini Arkaden</name><desc>name=Martini Arkaden
+shop=mall
+id=node/7802099677</desc></wpt><wpt lat="51.8012487" lon="12.2535701"><name>Damaschkecenter</name><desc>addr:city=Dessau-Roßlau
+addr:housenumber=33
+addr:postcode=06849
+addr:street=Kreuzbergstraße
+name=Damaschkecenter
+opening_hours=Mo-Sa 07:00-20:00
+shop=mall
+toilets=no
+id=node/7820850643</desc></wpt><trk><name>Tivoli</name><desc>building=yes
+name=Tivoli
+shop=mall
+type=multipolygon
+id=relation/2162928</desc><trkseg><trkpt lat="51.3566052" lon="11.993942"/><trkpt lat="51.356475" lon="11.9939713"/><trkpt lat="51.3563351" lon="11.9940008"/><trkpt lat="51.3560911" lon="11.9940288"/><trkpt lat="51.3560832" lon="11.9939273"/><trkpt lat="51.356067" lon="11.9939339"/><trkpt lat="51.3559766" lon="11.9939511"/><trkpt lat="51.3560042" lon="11.9942807"/><trkpt lat="51.3565563" lon="11.9947641"/><trkpt lat="51.3565861" lon="11.9946898"/><trkpt lat="51.3566654" lon="11.994759"/><trkpt lat="51.3566052" lon="11.993942"/></trkseg><trkseg><trkpt lat="51.3565118" lon="11.994333"/><trkpt lat="51.3565237" lon="11.9945002"/><trkpt lat="51.3563557" lon="11.9943557"/><trkpt lat="51.3565118" lon="11.994333"/></trkseg></trk><trk><name>Einkaufspark Zepziger Weg</name><desc>addr:city=Bernburg
+addr:housenumber=6
+addr:postcode=06406
+addr:street=Zepziger Weg
+building=retail
+name=Einkaufspark Zepziger Weg
+shop=mall
+source=Bing
+type=multipolygon
+wheelchair=yes
+id=relation/4077355</desc><trkseg><trkpt lat="51.7804563" lon="11.7528892"/><trkpt lat="51.780068" lon="11.7531412"/><trkpt lat="51.7801045" lon="11.7532915"/><trkpt lat="51.779724" lon="11.7535463"/><trkpt lat="51.779382" lon="11.7537801"/><trkpt lat="51.7795253" lon="11.7543197"/><trkpt lat="51.779625" lon="11.7542444"/><trkpt lat="51.7796596" lon="11.7543767"/><trkpt lat="51.7799181" lon="11.7545762"/><trkpt lat="51.780028" lon="11.7541418"/><trkpt lat="51.7806638" lon="11.7537156"/><trkpt lat="51.7806073" lon="11.7534635"/><trkpt lat="51.7805797" lon="11.7533333"/><trkpt lat="51.7804563" lon="11.7528892"/></trkseg><trkseg><trkpt lat="51.7804638" lon="11.7535679"/><trkpt lat="51.780278" lon="11.7536833"/><trkpt lat="51.7802631" lon="11.7537342"/><trkpt lat="51.7801817" lon="11.7537932"/><trkpt lat="51.7800739" lon="11.7533802"/><trkpt lat="51.7803759" lon="11.7531844"/><trkpt lat="51.7804638" lon="11.7535679"/></trkseg></trk><trk><name>Arsenal</name><desc>addr:city=Wittenberg
+addr:country=DE
+addr:housenumber=1
+addr:postcode=06886
+addr:street=Arsenalplatz
+building=commercial
+layer=1
+name=Arsenal
+opening_hours=Mo-Sa 09:00-20:00
+phone=+49 3491 4590910
+shop=mall
+type=multipolygon
+website=https://www.arsenal-wittenberg.de/
+wheelchair=yes
+id=relation/15259083</desc><trkseg><trkpt lat="51.8671976" lon="12.6443916"/><trkpt lat="51.8673182" lon="12.644376"/><trkpt lat="51.8673816" lon="12.6443978"/><trkpt lat="51.8674111" lon="12.6444062"/><trkpt lat="51.867412" lon="12.6443524"/><trkpt lat="51.8674149" lon="12.6442807"/><trkpt lat="51.8675438" lon="12.6443038"/><trkpt lat="51.8676332" lon="12.6443126"/><trkpt lat="51.8677319" lon="12.6443086"/><trkpt lat="51.8677327" lon="12.6441857"/><trkpt lat="51.8677564" lon="12.6441781"/><trkpt lat="51.8677766" lon="12.6441857"/><trkpt lat="51.8677807" lon="12.6445625"/><trkpt lat="51.8684852" lon="12.6445087"/><trkpt lat="51.8684664" lon="12.6440757"/><trkpt lat="51.8685105" lon="12.6440661"/><trkpt lat="51.8685734" lon="12.6440542"/><trkpt lat="51.8685571" lon="12.6438497"/><trkpt lat="51.8685025" lon="12.6438558"/><trkpt lat="51.8684505" lon="12.6438595"/><trkpt lat="51.8684219" lon="12.6434752"/><trkpt lat="51.8681167" lon="12.6435248"/><trkpt lat="51.8677874" lon="12.643571"/><trkpt lat="51.8677832" lon="12.6437268"/><trkpt lat="51.8677566" lon="12.6437266"/><trkpt lat="51.8677274" lon="12.643731"/><trkpt lat="51.8677274" lon="12.643511"/><trkpt lat="51.8676126" lon="12.6435215"/><trkpt lat="51.867617" lon="12.6436292"/><trkpt lat="51.8674336" lon="12.6436517"/><trkpt lat="51.8673484" lon="12.6436617"/><trkpt lat="51.8673034" lon="12.6436665"/><trkpt lat="51.8672338" lon="12.6436708"/><trkpt lat="51.8672364" lon="12.6437768"/><trkpt lat="51.8672332" lon="12.6437771"/><trkpt lat="51.8671847" lon="12.6437817"/><trkpt lat="51.867081" lon="12.6437926"/><trkpt lat="51.8670248" lon="12.6437984"/><trkpt lat="51.8670444" lon="12.6440653"/><trkpt lat="51.8670803" lon="12.6444032"/><trkpt lat="51.8671976" lon="12.6443916"/></trkseg></trk><trk><name>Mettehof</name><desc>addr:city=Quedlinburg
+addr:housenumber=23
+addr:postcode=06484
+addr:street=Harzweg
+name=Mettehof
+opening_hours=Mo-Sa 09:00-20:00
+operator=City- und Centermanagement Weimar GmbH
+shop=mall
+toilets:wheelchair=yes
+type=multipolygon
+website=https://www.mettehof-quedlinburg.de/
+wheelchair=yes
+id=relation/18115313</desc><trkseg><trkpt lat="51.7818052" lon="11.1453283"/><trkpt lat="51.7822177" lon="11.1461779"/><trkpt lat="51.7822515" lon="11.1462485"/><trkpt lat="51.7823105" lon="11.1461747"/><trkpt lat="51.7822767" lon="11.1461041"/><trkpt lat="51.7824621" lon="11.1458689"/><trkpt lat="51.7821917" lon="11.1453022"/><trkpt lat="51.7821714" lon="11.1445149"/><trkpt lat="51.7819784" lon="11.1441986"/><trkpt lat="51.7815843" lon="11.1442264"/><trkpt lat="51.781509" lon="11.1441641"/><trkpt lat="51.7814356" lon="11.1441631"/><trkpt lat="51.7813641" lon="11.1442224"/><trkpt lat="51.7813653" lon="11.1443499"/><trkpt lat="51.7815739" lon="11.1448095"/><trkpt lat="51.7817915" lon="11.1447974"/><trkpt lat="51.7818052" lon="11.1453283"/></trkseg><trkseg><trkpt lat="51.782636" lon="11.1436735"/><trkpt lat="51.7820029" lon="11.1437072"/><trkpt lat="51.7820091" lon="11.1440114"/><trkpt lat="51.7826422" lon="11.1439777"/><trkpt lat="51.782636" lon="11.1436735"/></trkseg></trk><trk><name>Allee-Center</name><desc>addr:city=Magdeburg
+addr:country=DE
+addr:housenumber=11
+addr:postcode=39104
+addr:street=Ernst-Reuter-Allee
+building=commercial
+building:levels=4
+contact:email=info@allee-center-magdeburg.de
+contact:fax=+49 391 5334455
+contact:phone=+49 391 5334433
+contact:website=http://www.allee-center-magdeburg.de/
+height=18.5 m
+name=Allee-Center
+opening_hours=Mo-Th,Sa 09:30-20:00; Fr 09:30-22:00
+operator=ECE Projektmanagement GmbH &amp; Co. KG
+shop=mall
+surveillance=indoor
+wheelchair=yes
+wikidata=Q5399475
+id=way/5154273</desc><trkseg><trkpt lat="52.1299369" lon="11.6394455"/><trkpt lat="52.1299254" lon="11.6394091"/><trkpt lat="52.1299366" lon="11.6393649"/><trkpt lat="52.1299713" lon="11.6392273"/><trkpt lat="52.129997" lon="11.6391251"/><trkpt lat="52.1300301" lon="11.6389939"/><trkpt lat="52.1300336" lon="11.63898"/><trkpt lat="52.1300565" lon="11.6388895"/><trkpt lat="52.1300587" lon="11.6388809"/><trkpt lat="52.1300655" lon="11.6388539"/><trkpt lat="52.1300741" lon="11.6388195"/><trkpt lat="52.1300799" lon="11.6387965"/><trkpt lat="52.130103" lon="11.6387051"/><trkpt lat="52.1300764" lon="11.6386889"/><trkpt lat="52.1300844" lon="11.6386569"/><trkpt lat="52.1300916" lon="11.6386282"/><trkpt lat="52.1300995" lon="11.638597"/><trkpt lat="52.1301072" lon="11.6385661"/><trkpt lat="52.1301337" lon="11.6385844"/><trkpt lat="52.1301611" lon="11.6384776"/><trkpt lat="52.130169" lon="11.6384462"/><trkpt lat="52.1301927" lon="11.6384625"/><trkpt lat="52.1302178" lon="11.6383601"/><trkpt lat="52.1302642" lon="11.6381776"/><trkpt lat="52.1302922" lon="11.6380673"/><trkpt lat="52.1303999" lon="11.6376417"/><trkpt lat="52.1304167" lon="11.6375753"/><trkpt lat="52.1303919" lon="11.6375582"/><trkpt lat="52.1304087" lon="11.6374911"/><trkpt lat="52.1303554" lon="11.6374556"/><trkpt lat="52.1303707" lon="11.6373952"/><trkpt lat="52.1303876" lon="11.6373313"/><trkpt lat="52.1304137" lon="11.6373483"/><trkpt lat="52.1304404" lon="11.6373658"/><trkpt lat="52.1306304" lon="11.6366143"/><trkpt lat="52.1306057" lon="11.6365979"/><trkpt lat="52.1306127" lon="11.6365708"/><trkpt lat="52.130621" lon="11.6365382"/><trkpt lat="52.1306246" lon="11.6365406"/><trkpt lat="52.130627" lon="11.6365312"/><trkpt lat="52.1306383" lon="11.6364859"/><trkpt lat="52.1306345" lon="11.6364836"/><trkpt lat="52.130657" lon="11.6363936"/><trkpt lat="52.1306208" lon="11.6363693"/><trkpt lat="52.1306018" lon="11.6363568"/><trkpt lat="52.1306032" lon="11.6363508"/><trkpt lat="52.1305694" lon="11.6363283"/><trkpt lat="52.1305678" lon="11.636334"/><trkpt lat="52.1305478" lon="11.6363195"/><trkpt lat="52.1305563" lon="11.6362823"/><trkpt lat="52.1303552" lon="11.6361473"/><trkpt lat="52.1299681" lon="11.6358872"/><trkpt lat="52.1299653" lon="11.6358994"/><trkpt lat="52.1299481" lon="11.6358884"/><trkpt lat="52.1299409" lon="11.635916"/><trkpt lat="52.1299333" lon="11.6359113"/><trkpt lat="52.129692" lon="11.6368659"/><trkpt lat="52.1297148" lon="11.6368817"/><trkpt lat="52.1297596" lon="11.6369153"/><trkpt lat="52.1297441" lon="11.6369776"/><trkpt lat="52.1297298" lon="11.6370355"/><trkpt lat="52.1297046" lon="11.6370185"/><trkpt lat="52.1296781" lon="11.6370008"/><trkpt lat="52.1296496" lon="11.6369818"/><trkpt lat="52.1295926" lon="11.6369436"/><trkpt lat="52.129569" lon="11.6370376"/><trkpt lat="52.1295562" lon="11.6370884"/><trkpt lat="52.1295821" lon="11.6371058"/><trkpt lat="52.1295744" lon="11.6371363"/><trkpt lat="52.1295714" lon="11.6371482"/><trkpt lat="52.1295452" lon="11.6371309"/><trkpt lat="52.1294529" lon="11.6374927"/><trkpt lat="52.1293948" lon="11.6377272"/><trkpt lat="52.1293769" lon="11.6377996"/><trkpt lat="52.1293684" lon="11.637831"/><trkpt lat="52.1293524" lon="11.6378942"/><trkpt lat="52.129334" lon="11.6379671"/><trkpt lat="52.1293164" lon="11.6380363"/><trkpt lat="52.1293431" lon="11.6380544"/><trkpt lat="52.1294111" lon="11.6380999"/><trkpt lat="52.1293898" lon="11.6381858"/><trkpt lat="52.1293797" lon="11.6382267"/><trkpt lat="52.1293552" lon="11.6382086"/><trkpt lat="52.1293464" lon="11.6382426"/><trkpt lat="52.1293268" lon="11.6383384"/><trkpt lat="52.1293254" lon="11.6383521"/><trkpt lat="52.1293156" lon="11.6384457"/><trkpt lat="52.1293155" lon="11.6385491"/><trkpt lat="52.1293196" lon="11.6386035"/><trkpt lat="52.1293247" lon="11.6386604"/><trkpt lat="52.1293441" lon="11.6387635"/><trkpt lat="52.1293733" lon="11.638861"/><trkpt lat="52.1294099" lon="11.6389482"/><trkpt lat="52.1294305" lon="11.6389236"/><trkpt lat="52.1294472" lon="11.6389609"/><trkpt lat="52.1294668" lon="11.6390046"/><trkpt lat="52.1294996" lon="11.639077"/><trkpt lat="52.129525" lon="11.6391329"/><trkpt lat="52.1295619" lon="11.6392155"/><trkpt lat="52.1295751" lon="11.639245"/><trkpt lat="52.1296211" lon="11.6393478"/><trkpt lat="52.1296501" lon="11.6393129"/><trkpt lat="52.1297006" lon="11.6394254"/><trkpt lat="52.1297118" lon="11.6394506"/><trkpt lat="52.1297065" lon="11.6394899"/><trkpt lat="52.1297089" lon="11.6395157"/><trkpt lat="52.129713" lon="11.6395385"/><trkpt lat="52.1297184" lon="11.639559"/><trkpt lat="52.1297273" lon="11.639583"/><trkpt lat="52.1297378" lon="11.6396039"/><trkpt lat="52.1297509" lon="11.6396234"/><trkpt lat="52.1297628" lon="11.6396366"/><trkpt lat="52.1297762" lon="11.6396477"/><trkpt lat="52.1297928" lon="11.639657"/><trkpt lat="52.1298051" lon="11.6396611"/><trkpt lat="52.1298153" lon="11.6396628"/><trkpt lat="52.1298249" lon="11.6396631"/><trkpt lat="52.1298413" lon="11.6396606"/><trkpt lat="52.1298572" lon="11.6396543"/><trkpt lat="52.1298675" lon="11.6396481"/><trkpt lat="52.1298781" lon="11.6396398"/><trkpt lat="52.1298876" lon="11.6396301"/><trkpt lat="52.1298949" lon="11.6396214"/><trkpt lat="52.1299033" lon="11.6396092"/><trkpt lat="52.1299119" lon="11.639594"/><trkpt lat="52.1299195" lon="11.6395769"/><trkpt lat="52.1299254" lon="11.6395603"/><trkpt lat="52.1299311" lon="11.6395391"/><trkpt lat="52.129935" lon="11.6395181"/><trkpt lat="52.1299376" lon="11.6394933"/><trkpt lat="52.1299382" lon="11.6394712"/><trkpt lat="52.1299369" lon="11.6394455"/></trkseg></trk><trk><name>Hallescher Einkaufspark (HEP)</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:housenumber=147
+addr:postcode=06112
+addr:street=Leipziger Chaussee
+addr:suburb=Bruckdorf
+building=commercial
+building:levels=3
+max_level=1
+min_level=-1
+name=Hallescher Einkaufspark (HEP)
+roof:levels=1
+roof:shape=flat
+shop=mall
+toilets=yes
+wheelchair=yes
+id=way/25116049</desc><trkseg><trkpt lat="51.4554805" lon="12.0149947"/><trkpt lat="51.4546258" lon="12.0161258"/><trkpt lat="51.4535232" lon="12.017585"/><trkpt lat="51.4533194" lon="12.0178546"/><trkpt lat="51.4534515" lon="12.0181115"/><trkpt lat="51.4533853" lon="12.018199"/><trkpt lat="51.4534235" lon="12.0182764"/><trkpt lat="51.4534617" lon="12.0183476"/><trkpt lat="51.4535279" lon="12.01826"/><trkpt lat="51.4535495" lon="12.018302"/><trkpt lat="51.4537467" lon="12.0186857"/><trkpt lat="51.4537913" lon="12.0186266"/><trkpt lat="51.4538426" lon="12.0187263"/><trkpt lat="51.4549709" lon="12.0172332"/><trkpt lat="51.4550545" lon="12.0173961"/><trkpt lat="51.4550752" lon="12.0173688"/><trkpt lat="51.4551156" lon="12.0174475"/><trkpt lat="51.4554994" lon="12.0169396"/><trkpt lat="51.4555545" lon="12.0170467"/><trkpt lat="51.4559029" lon="12.0165857"/><trkpt lat="51.4555326" lon="12.0158651"/><trkpt lat="51.4555654" lon="12.0158218"/><trkpt lat="51.4556038" lon="12.0157709"/><trkpt lat="51.4556392" lon="12.0157241"/><trkpt lat="51.4556851" lon="12.0158134"/><trkpt lat="51.4558859" lon="12.0155477"/><trkpt lat="51.4557252" lon="12.015235"/><trkpt lat="51.4557714" lon="12.0151739"/><trkpt lat="51.4557294" lon="12.0150947"/><trkpt lat="51.4556872" lon="12.01501"/><trkpt lat="51.4555688" lon="12.0151667"/><trkpt lat="51.4554805" lon="12.0149947"/></trkseg></trk><trk><name>Salzer Park</name><desc>addr:city=Schönebeck (Elbe)
+addr:housenumber=10
+addr:postcode=39218
+addr:street=Stadionstraße
+building=retail
+name=Salzer Park
+shop=mall
+wheelchair=yes
+id=way/26092980</desc><trkseg><trkpt lat="52.0158507" lon="11.717976"/><trkpt lat="52.0157796" lon="11.7169147"/><trkpt lat="52.0152353" lon="11.7170129"/><trkpt lat="52.0152576" lon="11.7173648"/><trkpt lat="52.0152231" lon="11.7173711"/><trkpt lat="52.0152151" lon="11.7172574"/><trkpt lat="52.0150815" lon="11.7172808"/><trkpt lat="52.0149813" lon="11.7157582"/><trkpt lat="52.0148823" lon="11.7157753"/><trkpt lat="52.0148697" lon="11.7155574"/><trkpt lat="52.0144749" lon="11.7156304"/><trkpt lat="52.0143679" lon="11.7156494"/><trkpt lat="52.0144432" lon="11.7167871"/><trkpt lat="52.0144887" lon="11.7174704"/><trkpt lat="52.01449" lon="11.71749"/><trkpt lat="52.0145055" lon="11.7174874"/><trkpt lat="52.0146174" lon="11.7174683"/><trkpt lat="52.0146412" lon="11.7178259"/><trkpt lat="52.0146732" lon="11.7178815"/><trkpt lat="52.0146895" lon="11.7179096"/><trkpt lat="52.0147056" lon="11.7179376"/><trkpt lat="52.0147515" lon="11.7180171"/><trkpt lat="52.0148299" lon="11.7181531"/><trkpt lat="52.0158507" lon="11.717976"/></trkseg></trk><trk><name>Kirschbergcenter</name><desc>building=yes
+name=Kirschbergcenter
+shop=mall
+wheelchair=limited
+id=way/26376762</desc><trkseg><trkpt lat="51.16366" lon="12.0948142"/><trkpt lat="51.1636206" lon="12.0947818"/><trkpt lat="51.1636958" lon="12.0945081"/><trkpt lat="51.1628369" lon="12.093892"/><trkpt lat="51.1626355" lon="12.0946"/><trkpt lat="51.1635072" lon="12.0951988"/><trkpt lat="51.1635504" lon="12.095032"/><trkpt lat="51.1635937" lon="12.0950622"/><trkpt lat="51.16366" lon="12.0948142"/></trkseg></trk><trk><name>Rathaus-Center Dessau</name><desc>addr:city=Dessau-Roßlau
+addr:country=DE
+addr:housenumber=49
+addr:postcode=06844
+addr:street=Kavalierstraße
+building=retail
+building:material=glass
+comment=Das ist ein 3D Haus / sieh google josm/Basic/editing
+height=15
+internet_access=wlan
+layer=3
+name=Rathaus-Center Dessau
+opening_hours=Mo-Sa 09:30-19:00
+phone=+49340260730
+roof:colour=grey
+roof:height=1
+roof:material=concrete
+roof:shape=flat
+shop=mall
+website=https://www.rathauscenter-dessau.de/
+id=way/26980710</desc><trkseg><trkpt lat="51.833686" lon="12.2437538"/><trkpt lat="51.8336809" lon="12.2439331"/><trkpt lat="51.8337178" lon="12.2439358"/><trkpt lat="51.833708" lon="12.2442857"/><trkpt lat="51.8336703" lon="12.244283"/><trkpt lat="51.8336651" lon="12.2444729"/><trkpt lat="51.8336899" lon="12.2444747"/><trkpt lat="51.8336888" lon="12.2445156"/><trkpt lat="51.8336856" lon="12.2446358"/><trkpt lat="51.8336999" lon="12.2446368"/><trkpt lat="51.8336984" lon="12.2446954"/><trkpt lat="51.8336601" lon="12.2446928"/><trkpt lat="51.8336556" lon="12.2448664"/><trkpt lat="51.8336898" lon="12.2448687"/><trkpt lat="51.8336779" lon="12.2453288"/><trkpt lat="51.8336742" lon="12.2453285"/><trkpt lat="51.8336776" lon="12.2451951"/><trkpt lat="51.8336559" lon="12.2451937"/><trkpt lat="51.8336508" lon="12.2453933"/><trkpt lat="51.8336718" lon="12.2453947"/><trkpt lat="51.833672" lon="12.2453879"/><trkpt lat="51.8336744" lon="12.2453881"/><trkpt lat="51.833674" lon="12.245402"/><trkpt lat="51.8336737" lon="12.2454123"/><trkpt lat="51.8337198" lon="12.2454156"/><trkpt lat="51.8337185" lon="12.2454648"/><trkpt lat="51.8336966" lon="12.2462704"/><trkpt lat="51.8337122" lon="12.2462917"/><trkpt lat="51.8337307" lon="12.2463169"/><trkpt lat="51.8340159" lon="12.2463117"/><trkpt lat="51.8343978" lon="12.2463048"/><trkpt lat="51.8343954" lon="12.2462898"/><trkpt lat="51.8343498" lon="12.2460015"/><trkpt lat="51.834382" lon="12.2459881"/><trkpt lat="51.8344004" lon="12.2459805"/><trkpt lat="51.8344306" lon="12.245968"/><trkpt lat="51.8344322" lon="12.2459782"/><trkpt lat="51.8344877" lon="12.2459552"/><trkpt lat="51.8344965" lon="12.2459516"/><trkpt lat="51.8344394" lon="12.2455902"/><trkpt lat="51.8344452" lon="12.2453371"/><trkpt lat="51.8344545" lon="12.2449304"/><trkpt lat="51.8344898" lon="12.2449326"/><trkpt lat="51.8344934" lon="12.2447752"/><trkpt lat="51.8344939" lon="12.2447561"/><trkpt lat="51.8344627" lon="12.2447542"/><trkpt lat="51.834468" lon="12.2445262"/><trkpt lat="51.8345047" lon="12.2445285"/><trkpt lat="51.8345089" lon="12.2443489"/><trkpt lat="51.834478" lon="12.2443469"/><trkpt lat="51.8344865" lon="12.2439941"/><trkpt lat="51.8345212" lon="12.2439963"/><trkpt lat="51.8345257" lon="12.2438116"/><trkpt lat="51.8344928" lon="12.2438094"/><trkpt lat="51.8344985" lon="12.2435845"/><trkpt lat="51.8345333" lon="12.2435869"/><trkpt lat="51.8345381" lon="12.243401"/><trkpt lat="51.8345381" lon="12.243399"/><trkpt lat="51.8345039" lon="12.2433967"/><trkpt lat="51.8345152" lon="12.2429588"/><trkpt lat="51.8339669" lon="12.2429216"/><trkpt lat="51.8339659" lon="12.2429603"/><trkpt lat="51.8339755" lon="12.2430202"/><trkpt lat="51.8339395" lon="12.2430353"/><trkpt lat="51.8339099" lon="12.2430477"/><trkpt lat="51.8338729" lon="12.2430633"/><trkpt lat="51.8337831" lon="12.243059"/><trkpt lat="51.8337767" lon="12.2432813"/><trkpt lat="51.8337344" lon="12.2432781"/><trkpt lat="51.8337324" lon="12.2433473"/><trkpt lat="51.8337005" lon="12.2433449"/><trkpt lat="51.8336955" lon="12.2435168"/><trkpt lat="51.8337285" lon="12.2435192"/><trkpt lat="51.8337218" lon="12.2437565"/><trkpt lat="51.833686" lon="12.2437538"/></trkseg></trk><trk><name>Rathauspassage</name><desc>addr:city=Halberstadt
+addr:housenumber=7
+addr:postcode=38820
+addr:street=Holzmarkt
+building=yes
+name=Rathauspassage
+shop=mall
+website=https://www.rathauspassagen-halberstadt.de/
+wheelchair=yes
+id=way/27579439</desc><trkseg><trkpt lat="51.8951025" lon="11.0526054"/><trkpt lat="51.8948807" lon="11.0516935"/><trkpt lat="51.8948046" lon="11.051731"/><trkpt lat="51.8947434" lon="11.0514279"/><trkpt lat="51.8943341" lon="11.0502014"/><trkpt lat="51.8942851" lon="11.0501441"/><trkpt lat="51.894238" lon="11.0501274"/><trkpt lat="51.8941889" lon="11.0501373"/><trkpt lat="51.8941506" lon="11.0501704"/><trkpt lat="51.894115" lon="11.0502233"/><trkpt lat="51.8940944" lon="11.0502983"/><trkpt lat="51.8940941" lon="11.0504047"/><trkpt lat="51.8942247" lon="11.0517712"/><trkpt lat="51.8945208" lon="11.0517394"/><trkpt lat="51.8945908" lon="11.0526661"/><trkpt lat="51.8947172" lon="11.0526513"/><trkpt lat="51.8947334" lon="11.0528628"/><trkpt lat="51.8948204" lon="11.0528447"/><trkpt lat="51.8948328" lon="11.0529642"/><trkpt lat="51.8951025" lon="11.0526054"/></trkseg></trk><trk><name>Stadtpassage</name><desc>building=yes
+name=Stadtpassage
+shop=mall
+wheelchair=yes
+id=way/28309668</desc><trkseg><trkpt lat="52.7883352" lon="11.7545308"/><trkpt lat="52.7884099" lon="11.7548865"/><trkpt lat="52.7884371" lon="11.7548693"/><trkpt lat="52.7884508" lon="11.7549026"/><trkpt lat="52.7884676" lon="11.7549436"/><trkpt lat="52.7884763" lon="11.7549647"/><trkpt lat="52.7884881" lon="11.7549505"/><trkpt lat="52.7885119" lon="11.7550126"/><trkpt lat="52.7887368" lon="11.7547717"/><trkpt lat="52.7885555" lon="11.7539088"/><trkpt lat="52.7884721" lon="11.7539567"/><trkpt lat="52.78844" lon="11.753804"/><trkpt lat="52.7883406" lon="11.753861"/><trkpt lat="52.7882187" lon="11.7539311"/><trkpt lat="52.7882449" lon="11.7540496"/><trkpt lat="52.7882555" lon="11.7541063"/><trkpt lat="52.7882471" lon="11.7541111"/><trkpt lat="52.7883204" lon="11.7544603"/><trkpt lat="52.7883288" lon="11.7544555"/><trkpt lat="52.7883363" lon="11.754491"/><trkpt lat="52.7883436" lon="11.754526"/><trkpt lat="52.7883352" lon="11.7545308"/></trkseg></trk><trk><name>Kaufland-Center</name><desc>addr:city=Schönebeck (Elbe)
+addr:housenumber=31-33
+addr:postcode=39218
+addr:street=Calbesche Straße
+building=retail
+name=Kaufland-Center
+shop=mall
+wheelchair=yes
+id=way/28763462</desc><trkseg><trkpt lat="51.9970537" lon="11.7245432"/><trkpt lat="51.9968823" lon="11.7245655"/><trkpt lat="51.9968809" lon="11.7245263"/><trkpt lat="51.9967903" lon="11.7245375"/><trkpt lat="51.9967914" lon="11.7245758"/><trkpt lat="51.9962721" lon="11.7246426"/><trkpt lat="51.9962715" lon="11.7246025"/><trkpt lat="51.9962082" lon="11.724609"/><trkpt lat="51.996208" lon="11.7246207"/><trkpt lat="51.9959372" lon="11.7246544"/><trkpt lat="51.995937" lon="11.7246854"/><trkpt lat="51.9955754" lon="11.7247298"/><trkpt lat="51.9956055" lon="11.7253735"/><trkpt lat="51.9955224" lon="11.7253471"/><trkpt lat="51.9953642" lon="11.7267232"/><trkpt lat="51.9958087" lon="11.7268649"/><trkpt lat="51.9958609" lon="11.7264184"/><trkpt lat="51.9958987" lon="11.7264288"/><trkpt lat="51.9959073" lon="11.7263574"/><trkpt lat="51.9958685" lon="11.7263451"/><trkpt lat="51.9959122" lon="11.7259671"/><trkpt lat="51.9959628" lon="11.7259837"/><trkpt lat="51.9959727" lon="11.7258953"/><trkpt lat="51.9959226" lon="11.7258797"/><trkpt lat="51.9959409" lon="11.7257241"/><trkpt lat="51.9961209" lon="11.7257005"/><trkpt lat="51.9961245" lon="11.7257932"/><trkpt lat="51.9962675" lon="11.7257788"/><trkpt lat="51.9962625" lon="11.7256502"/><trkpt lat="51.9965194" lon="11.7253969"/><trkpt lat="51.9965617" lon="11.7253916"/><trkpt lat="51.9965615" lon="11.7253851"/><trkpt lat="51.9969207" lon="11.7253411"/><trkpt lat="51.9969203" lon="11.7252979"/><trkpt lat="51.9970558" lon="11.7252811"/><trkpt lat="51.9970557" lon="11.7252777"/><trkpt lat="51.9972322" lon="11.7252556"/><trkpt lat="51.9972202" lon="11.7250088"/><trkpt lat="51.9970435" lon="11.7250308"/><trkpt lat="51.9970244" lon="11.7246221"/><trkpt lat="51.9970552" lon="11.7246195"/><trkpt lat="51.9970765" lon="11.7245787"/><trkpt lat="51.9970537" lon="11.7245432"/></trkseg></trk><trk><name>Bördepark</name><desc>addr:city=Magdeburg
+addr:country=DE
+addr:housenumber=67-71
+addr:postcode=39118
+addr:street=Salbker Chaussee
+building=yes
+name=Bördepark
+shop=mall
+wheelchair=yes
+wikidata=Q1019926
+wikipedia=de:Bördepark
+id=way/30484499</desc><trkseg><trkpt lat="52.0834489" lon="11.5972831"/><trkpt lat="52.0834554" lon="11.5978675"/><trkpt lat="52.0834702" lon="11.599511"/><trkpt lat="52.0834777" lon="11.6005599"/><trkpt lat="52.0834189" lon="11.6005599"/><trkpt lat="52.0832974" lon="11.6005636"/><trkpt lat="52.0832984" lon="11.6006935"/><trkpt lat="52.0833112" lon="11.6017253"/><trkpt lat="52.0837198" lon="11.6017258"/><trkpt lat="52.0837195" lon="11.601651"/><trkpt lat="52.0837444" lon="11.6016516"/><trkpt lat="52.0843005" lon="11.6016301"/><trkpt lat="52.0842927" lon="11.6009675"/><trkpt lat="52.0845622" lon="11.600959"/><trkpt lat="52.0845536" lon="11.6002374"/><trkpt lat="52.0844066" lon="11.600242"/><trkpt lat="52.0844" lon="11.5996824"/><trkpt lat="52.0845576" lon="11.5996775"/><trkpt lat="52.0845378" lon="11.5979876"/><trkpt lat="52.0843475" lon="11.5979935"/><trkpt lat="52.0843389" lon="11.5972562"/><trkpt lat="52.0838922" lon="11.59727"/><trkpt lat="52.0838915" lon="11.597212"/><trkpt lat="52.0838276" lon="11.5972139"/><trkpt lat="52.0838283" lon="11.5972719"/><trkpt lat="52.0834489" lon="11.5972831"/></trkseg></trk><trk><name>Passage am Märchenbrunnen</name><desc>addr:city=Magdeburg
+addr:country=DE
+addr:housenumber=11
+addr:postcode=39126
+addr:street=Neustädter Platz
+building=yes
+building:levels=1
+name=Passage am Märchenbrunnen
+opening_hours=Mo-Sa 07:00-20:00
+shop=mall
+surveillance=indoor
+wheelchair=yes
+id=way/30599247</desc><trkseg><trkpt lat="52.1696881" lon="11.6325831"/><trkpt lat="52.1698002" lon="11.6334352"/><trkpt lat="52.170138" lon="11.6333171"/><trkpt lat="52.1700833" lon="11.6329007"/><trkpt lat="52.1701564" lon="11.6328752"/><trkpt lat="52.1700991" lon="11.6324394"/><trkpt lat="52.169899" lon="11.6325094"/><trkpt lat="52.1696881" lon="11.6325831"/></trkseg></trk><trk><name>Hansecenter</name><desc>building=retail
+building:levels=1
+name=Hansecenter
+roof:colour=grey
+roof:shape=flat
+shop=mall
+id=way/30697119</desc><trkseg><trkpt lat="52.5172234" lon="11.4017697"/><trkpt lat="52.5170782" lon="11.4018449"/><trkpt lat="52.517088" lon="11.4018958"/><trkpt lat="52.5164157" lon="11.4022427"/><trkpt lat="52.5159199" lon="11.4024985"/><trkpt lat="52.5158896" lon="11.40234"/><trkpt lat="52.5158352" lon="11.4023682"/><trkpt lat="52.5157392" lon="11.4018667"/><trkpt lat="52.5156817" lon="11.4018965"/><trkpt lat="52.5156663" lon="11.4018162"/><trkpt lat="52.5156126" lon="11.4018441"/><trkpt lat="52.5155883" lon="11.4017178"/><trkpt lat="52.5154946" lon="11.4017665"/><trkpt lat="52.5155038" lon="11.4018142"/><trkpt lat="52.5154405" lon="11.4018473"/><trkpt lat="52.5154244" lon="11.4017645"/><trkpt lat="52.5152808" lon="11.4018398"/><trkpt lat="52.5153137" lon="11.4020092"/><trkpt lat="52.5150614" lon="11.4021417"/><trkpt lat="52.5151238" lon="11.4024624"/><trkpt lat="52.5152198" lon="11.402412"/><trkpt lat="52.5153688" lon="11.4031774"/><trkpt lat="52.5158268" lon="11.4029365"/><trkpt lat="52.5159101" lon="11.4033643"/><trkpt lat="52.5163153" lon="11.4031512"/><trkpt lat="52.5163655" lon="11.4034086"/><trkpt lat="52.5167637" lon="11.4031992"/><trkpt lat="52.5167563" lon="11.403161"/><trkpt lat="52.5168732" lon="11.4030998"/><trkpt lat="52.5168804" lon="11.403137"/><trkpt lat="52.5174044" lon="11.4028641"/><trkpt lat="52.5172911" lon="11.4022764"/><trkpt lat="52.517318" lon="11.4022625"/><trkpt lat="52.5172234" lon="11.4017697"/></trkseg></trk><trk><name>Nova</name><desc>building=commercial
+building:levels=3
+email=info@nova-shopping.de
+fax=+4934638 360 10
+internet_access=wlan
+internet_access:fee=no
+name=Nova
+opening_hours=Mo-Sa 10:00-20:00; Fr 10:00-22:00; PH off
+phone=+4934638 360 0
+shop=mall
+toilets=yes
+toilets:wheelchair=yes
+website=https://www.nova-shopping.de/
+wheelchair=yes
+wikidata=Q2002766
+wikipedia=de:Nova (Einkaufszentrum)
+id=way/31481138</desc><trkseg><trkpt lat="51.3447161" lon="12.177998"/><trkpt lat="51.3447213" lon="12.177998"/><trkpt lat="51.3447213" lon="12.1779663"/><trkpt lat="51.3447214" lon="12.1778898"/><trkpt lat="51.3447215" lon="12.1778279"/><trkpt lat="51.3447215" lon="12.1778016"/><trkpt lat="51.3447163" lon="12.1778016"/><trkpt lat="51.344718" lon="12.1759099"/><trkpt lat="51.344718" lon="12.1758349"/><trkpt lat="51.3447181" lon="12.1757599"/><trkpt lat="51.344719" lon="12.1746765"/><trkpt lat="51.3437105" lon="12.1746743"/><trkpt lat="51.3437099" lon="12.1754413"/><trkpt lat="51.3436308" lon="12.1754411"/><trkpt lat="51.3436305" lon="12.1757367"/><trkpt lat="51.3436304" lon="12.1758097"/><trkpt lat="51.3436304" lon="12.1758826"/><trkpt lat="51.3436302" lon="12.1760622"/><trkpt lat="51.3436299" lon="12.1764335"/><trkpt lat="51.3433424" lon="12.1764328"/><trkpt lat="51.343341" lon="12.1780537"/><trkpt lat="51.343307" lon="12.1780537"/><trkpt lat="51.3433069" lon="12.1781268"/><trkpt lat="51.3432749" lon="12.1781268"/><trkpt lat="51.3432747" lon="12.1783557"/><trkpt lat="51.3430519" lon="12.1783552"/><trkpt lat="51.3430505" lon="12.179974"/><trkpt lat="51.344033" lon="12.1799761"/><trkpt lat="51.3441588" lon="12.1799764"/><trkpt lat="51.3443141" lon="12.1799768"/><trkpt lat="51.3443593" lon="12.1799769"/><trkpt lat="51.3444019" lon="12.179977"/><trkpt lat="51.3447145" lon="12.1799777"/><trkpt lat="51.3447174" lon="12.1792823"/><trkpt lat="51.3447161" lon="12.177998"/></trkseg></trk><trk><name>Neustadt Centrum Halle</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:housenumber=17d
+addr:postcode=06122
+addr:street=Neustädter Passage
+building=yes
+building:levels=4
+name=Neustadt Centrum Halle
+shop=mall
+website=https://www.neustadtcentrum.de/
+wheelchair=yes
+wikidata=Q34476558
+id=way/31960076</desc><trkseg><trkpt lat="51.4796915" lon="11.9170509"/><trkpt lat="51.4793" lon="11.917152"/><trkpt lat="51.4791684" lon="11.917186"/><trkpt lat="51.4791821" lon="11.9173997"/><trkpt lat="51.4792108" lon="11.9178481"/><trkpt lat="51.4793219" lon="11.9194807"/><trkpt lat="51.479172" lon="11.919476"/><trkpt lat="51.4791947" lon="11.9198262"/><trkpt lat="51.4792592" lon="11.9206122"/><trkpt lat="51.4799262" lon="11.9204309"/><trkpt lat="51.4800051" lon="11.9204155"/><trkpt lat="51.4807198" lon="11.9202761"/><trkpt lat="51.4807874" lon="11.9202629"/><trkpt lat="51.4810363" lon="11.9202144"/><trkpt lat="51.4811598" lon="11.9201903"/><trkpt lat="51.4810477" lon="11.9187945"/><trkpt lat="51.4808604" lon="11.9188312"/><trkpt lat="51.4799009" lon="11.9190279"/><trkpt lat="51.479844" lon="11.9190395"/><trkpt lat="51.4798271" lon="11.9188186"/><trkpt lat="51.4797088" lon="11.9172771"/><trkpt lat="51.4796915" lon="11.9170509"/></trkseg></trk><trk><name>way/32149764</name><desc>check_date:opening_hours=2024-08-20
+name:signed=no
+opening_hours:signed=no
+shop=mall
+id=way/32149764</desc><trkseg><trkpt lat="52.1285426" lon="11.5986293"/><trkpt lat="52.1284442" lon="11.5986329"/><trkpt lat="52.1282375" lon="11.5986403"/><trkpt lat="52.1282364" lon="11.5985651"/><trkpt lat="52.1281833" lon="11.5985671"/><trkpt lat="52.1281844" lon="11.5986423"/><trkpt lat="52.1280725" lon="11.5986463"/><trkpt lat="52.1280825" lon="11.5993805"/><trkpt lat="52.1280839" lon="11.5994153"/><trkpt lat="52.1280833" lon="11.5994426"/><trkpt lat="52.1280916" lon="11.6000642"/><trkpt lat="52.1279779" lon="11.600068"/><trkpt lat="52.1279789" lon="11.6001441"/><trkpt lat="52.1287644" lon="11.6001183"/><trkpt lat="52.1289059" lon="11.6001134"/><trkpt lat="52.1288906" lon="11.5999364"/><trkpt lat="52.1287508" lon="11.5999411"/><trkpt lat="52.1287489" lon="11.5997849"/><trkpt lat="52.1287445" lon="11.5994342"/><trkpt lat="52.1286472" lon="11.5994374"/><trkpt lat="52.1285811" lon="11.5994395"/><trkpt lat="52.128554" lon="11.5994404"/><trkpt lat="52.1285535" lon="11.5994257"/><trkpt lat="52.1285531" lon="11.5993983"/><trkpt lat="52.1285526" lon="11.5993636"/><trkpt lat="52.128548" lon="11.5990262"/><trkpt lat="52.1285426" lon="11.5986293"/></trkseg></trk><trk><name>Einkaufs Center Wimmelburg</name><desc>addr:city=Wimmelburg
+addr:housenumber=1a
+addr:postcode=06313
+addr:street=Schulstraße
+building=yes
+name=Einkaufs Center Wimmelburg
+shop=mall
+id=way/34130809</desc><trkseg><trkpt lat="51.5204863" lon="11.5113306"/><trkpt lat="51.5203279" lon="11.5115861"/><trkpt lat="51.5207771" lon="11.5123051"/><trkpt lat="51.520587" lon="11.5126118"/><trkpt lat="51.520746" lon="11.5128662"/><trkpt lat="51.5208783" lon="11.5126528"/><trkpt lat="51.5210076" lon="11.5124442"/><trkpt lat="51.5210409" lon="11.5124975"/><trkpt lat="51.5210934" lon="11.5124126"/><trkpt lat="51.5210631" lon="11.512364"/><trkpt lat="51.5210973" lon="11.5123088"/><trkpt lat="51.5204863" lon="11.5113306"/></trkseg></trk><trk><name>Saale-Center</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:housenumber=9
+addr:postcode=06124
+addr:street=Rennbahnring
+building=yes
+building:levels=3
+name=Saale-Center
+shop=mall
+toilets:wheelchair=yes
+website=https://www.saale-center.de/
+wheelchair=yes
+id=way/34320858</desc><trkseg><trkpt lat="51.4806379" lon="11.9410213"/><trkpt lat="51.4805904" lon="11.9410012"/><trkpt lat="51.4805395" lon="11.941"/><trkpt lat="51.4805367" lon="11.9409787"/><trkpt lat="51.4805003" lon="11.9409877"/><trkpt lat="51.4805048" lon="11.9410544"/><trkpt lat="51.4802594" lon="11.9411024"/><trkpt lat="51.4802638" lon="11.94116"/><trkpt lat="51.4801518" lon="11.9411817"/><trkpt lat="51.4802664" lon="11.9416438"/><trkpt lat="51.4803963" lon="11.9416157"/><trkpt lat="51.4804014" lon="11.9416703"/><trkpt lat="51.4804418" lon="11.9422552"/><trkpt lat="51.4804675" lon="11.942617"/><trkpt lat="51.4804907" lon="11.9426124"/><trkpt lat="51.4805583" lon="11.942892"/><trkpt lat="51.4806271" lon="11.9428772"/><trkpt lat="51.480623" lon="11.942828"/><trkpt lat="51.4807192" lon="11.9428074"/><trkpt lat="51.4807237" lon="11.9428617"/><trkpt lat="51.4807897" lon="11.9428475"/><trkpt lat="51.4808101" lon="11.9425504"/><trkpt lat="51.4808316" lon="11.9425462"/><trkpt lat="51.4808058" lon="11.9421864"/><trkpt lat="51.4807675" lon="11.94161"/><trkpt lat="51.480763" lon="11.9415451"/><trkpt lat="51.4808021" lon="11.9415384"/><trkpt lat="51.4807846" lon="11.9412972"/><trkpt lat="51.4807734" lon="11.9412984"/><trkpt lat="51.480763" lon="11.9412187"/><trkpt lat="51.4807364" lon="11.9411447"/><trkpt lat="51.4807092" lon="11.9411705"/><trkpt lat="51.4806722" lon="11.9411088"/><trkpt lat="51.4806296" lon="11.9410673"/><trkpt lat="51.4806379" lon="11.9410213"/></trkseg></trk><trk><name>Einkaufscenter</name><desc>addr:city=Teutschenthal
+addr:country=DE
+addr:housenumber=10A
+addr:postcode=06179
+addr:street=Lauchstädter Straße
+addr:suburb=Angersdorf
+building=retail
+name=Einkaufscenter
+shop=mall
+id=way/34418389</desc><trkseg><trkpt lat="51.4589353" lon="11.9078645"/><trkpt lat="51.4586955" lon="11.9085771"/><trkpt lat="51.4585295" lon="11.9090706"/><trkpt lat="51.4587258" lon="11.9092408"/><trkpt lat="51.4588449" lon="11.9088869"/><trkpt lat="51.4588858" lon="11.9089224"/><trkpt lat="51.4589333" lon="11.908781"/><trkpt lat="51.4591725" lon="11.9080701"/><trkpt lat="51.4590516" lon="11.9079653"/><trkpt lat="51.4589353" lon="11.9078645"/></trkseg></trk><trk><name>Halle Center</name><desc>addr:city=Landsberg
+addr:housenumber=1
+addr:postcode=06188
+addr:street=Saarbrücker Straße
+building=retail
+changing_table=yes
+check_date=2025-01-02
+name=Halle Center
+roof:colour=gray
+roof:shape=flat
+shop=mall
+toilets=yes
+website=https://www.hallecenter.de/
+wheelchair=yes
+id=way/34964595</desc><trkseg><trkpt lat="51.5122588" lon="12.0514311"/><trkpt lat="51.5122215" lon="12.0515725"/><trkpt lat="51.5122147" lon="12.0515962"/><trkpt lat="51.5122008" lon="12.0516449"/><trkpt lat="51.5121638" lon="12.0517833"/><trkpt lat="51.512141" lon="12.0518687"/><trkpt lat="51.5120685" lon="12.0521574"/><trkpt lat="51.5119617" lon="12.0525378"/><trkpt lat="51.5118337" lon="12.0530186"/><trkpt lat="51.5124165" lon="12.0534215"/><trkpt lat="51.5124739" lon="12.0532071"/><trkpt lat="51.5127638" lon="12.0534076"/><trkpt lat="51.5129456" lon="12.0527285"/><trkpt lat="51.5128002" lon="12.0526279"/><trkpt lat="51.5128854" lon="12.0523096"/><trkpt lat="51.5129516" lon="12.0520623"/><trkpt lat="51.5130068" lon="12.0518562"/><trkpt lat="51.5130876" lon="12.0515547"/><trkpt lat="51.5130811" lon="12.0515189"/><trkpt lat="51.513078" lon="12.0515019"/><trkpt lat="51.5130233" lon="12.0511994"/><trkpt lat="51.5130213" lon="12.0511867"/><trkpt lat="51.5130184" lon="12.0511678"/><trkpt lat="51.5129833" lon="12.050981"/><trkpt lat="51.512947" lon="12.0507811"/><trkpt lat="51.5134277" lon="12.0505557"/><trkpt lat="51.513404" lon="12.0504253"/><trkpt lat="51.513373" lon="12.0504398"/><trkpt lat="51.5130788" lon="12.0488198"/><trkpt lat="51.5130133" lon="12.0488505"/><trkpt lat="51.5130064" lon="12.0488128"/><trkpt lat="51.5129969" lon="12.0487604"/><trkpt lat="51.5129119" lon="12.0488003"/><trkpt lat="51.5128965" lon="12.0487155"/><trkpt lat="51.5124351" lon="12.0483183"/><trkpt lat="51.5123045" lon="12.0482059"/><trkpt lat="51.5122975" lon="12.0481672"/><trkpt lat="51.5122165" lon="12.0477212"/><trkpt lat="51.5120641" lon="12.0477926"/><trkpt lat="51.5116057" lon="12.0480076"/><trkpt lat="51.5115818" lon="12.0480188"/><trkpt lat="51.5115683" lon="12.0480251"/><trkpt lat="51.5115617" lon="12.0480282"/><trkpt lat="51.5109437" lon="12.048318"/><trkpt lat="51.5105827" lon="12.0484873"/><trkpt lat="51.51065" lon="12.048839"/><trkpt lat="51.5104389" lon="12.0489323"/><trkpt lat="51.510536" lon="12.0494665"/><trkpt lat="51.5106335" lon="12.0494208"/><trkpt lat="51.5107429" lon="12.0493695"/><trkpt lat="51.5107717" lon="12.0495346"/><trkpt lat="51.5108646" lon="12.0494926"/><trkpt lat="51.5110164" lon="12.049424"/><trkpt lat="51.5114781" lon="12.0492061"/><trkpt lat="51.5116882" lon="12.0491076"/><trkpt lat="51.5117767" lon="12.0491849"/><trkpt lat="51.5118001" lon="12.0492062"/><trkpt lat="51.5118235" lon="12.0492275"/><trkpt lat="51.5118603" lon="12.0492611"/><trkpt lat="51.5118781" lon="12.0493592"/><trkpt lat="51.5118801" lon="12.0493701"/><trkpt lat="51.5118844" lon="12.0493936"/><trkpt lat="51.5119154" lon="12.0495642"/><trkpt lat="51.5119581" lon="12.0497996"/><trkpt lat="51.5119695" lon="12.0498623"/><trkpt lat="51.5119789" lon="12.0499143"/><trkpt lat="51.5120016" lon="12.0499036"/><trkpt lat="51.5120027" lon="12.0499095"/><trkpt lat="51.5120037" lon="12.0499145"/><trkpt lat="51.5120397" lon="12.0501138"/><trkpt lat="51.5120479" lon="12.0501589"/><trkpt lat="51.5120632" lon="12.0502436"/><trkpt lat="51.5120915" lon="12.050399"/><trkpt lat="51.5120999" lon="12.0504453"/><trkpt lat="51.512124" lon="12.0505778"/><trkpt lat="51.5121053" lon="12.0505866"/><trkpt lat="51.5121062" lon="12.0505913"/><trkpt lat="51.5121087" lon="12.050597"/><trkpt lat="51.5121297" lon="12.0507156"/><trkpt lat="51.5121469" lon="12.0508097"/><trkpt lat="51.5121638" lon="12.0509089"/><trkpt lat="51.5121986" lon="12.0511"/><trkpt lat="51.5122004" lon="12.0511101"/><trkpt lat="51.5122027" lon="12.0511225"/><trkpt lat="51.5122301" lon="12.051273"/><trkpt lat="51.5122588" lon="12.0514311"/></trkseg></trk><trk><name>Edeka</name><desc>building=yes
+check_date=2024-10-18
+name=Edeka
+shop=mall
+id=way/35214355</desc><trkseg><trkpt lat="51.8460956" lon="10.8066617"/><trkpt lat="51.8456647" lon="10.8072835"/><trkpt lat="51.8457788" lon="10.8074906"/><trkpt lat="51.845703" lon="10.8076"/><trkpt lat="51.8460056" lon="10.8081494"/><trkpt lat="51.8462645" lon="10.8086196"/><trkpt lat="51.8464049" lon="10.8088744"/><trkpt lat="51.8464995" lon="10.8087379"/><trkpt lat="51.8466396" lon="10.8089881"/><trkpt lat="51.8467401" lon="10.8088584"/><trkpt lat="51.8466949" lon="10.8087783"/><trkpt lat="51.8468737" lon="10.8085282"/><trkpt lat="51.8468055" lon="10.8084044"/><trkpt lat="51.8468661" lon="10.8083169"/><trkpt lat="51.8467326" lon="10.8080745"/><trkpt lat="51.8469868" lon="10.8077077"/><trkpt lat="51.8469142" lon="10.807576"/><trkpt lat="51.8465818" lon="10.8069725"/><trkpt lat="51.846509" lon="10.8070776"/><trkpt lat="51.8463728" lon="10.8068304"/><trkpt lat="51.8462701" lon="10.8069786"/><trkpt lat="51.8460956" lon="10.8066617"/></trkseg></trk><trk><name>Harzpark</name><desc>addr:housenumber=10
+addr:postcode=38855
+addr:street=Halberstädter Straße
+building=yes
+name=Harzpark
+shop=mall
+id=way/35214356</desc><trkseg><trkpt lat="51.847492" lon="10.8087802"/><trkpt lat="51.8474417" lon="10.808841"/><trkpt lat="51.8473513" lon="10.8087016"/><trkpt lat="51.8467567" lon="10.8094972"/><trkpt lat="51.8477164" lon="10.8112783"/><trkpt lat="51.8483624" lon="10.8104118"/><trkpt lat="51.847492" lon="10.8087802"/></trkseg></trk><trk><name>Hagen Passage</name><desc>addr:city=Haldensleben
+addr:country=DE
+addr:housenumber=43-49
+addr:postcode=39340
+addr:street=Hagenstraße
+building=retail
+building:levels=1
+name=Hagen Passage
+shop=mall
+id=way/37110811</desc><trkseg><trkpt lat="52.2882908" lon="11.4083089"/><trkpt lat="52.2882923" lon="11.408311"/><trkpt lat="52.2882962" lon="11.4083033"/><trkpt lat="52.2882948" lon="11.4083013"/><trkpt lat="52.2883266" lon="11.4082409"/><trkpt lat="52.2883281" lon="11.4082429"/><trkpt lat="52.2883317" lon="11.4082358"/><trkpt lat="52.2883303" lon="11.4082338"/><trkpt lat="52.2883616" lon="11.4081743"/><trkpt lat="52.2883631" lon="11.4081763"/><trkpt lat="52.2883669" lon="11.4081688"/><trkpt lat="52.2883655" lon="11.4081669"/><trkpt lat="52.2883966" lon="11.4081077"/><trkpt lat="52.2883983" lon="11.4081099"/><trkpt lat="52.2884022" lon="11.4081022"/><trkpt lat="52.2884007" lon="11.4081001"/><trkpt lat="52.2884322" lon="11.4080402"/><trkpt lat="52.2884338" lon="11.4080424"/><trkpt lat="52.2884373" lon="11.4080355"/><trkpt lat="52.2884358" lon="11.4080333"/><trkpt lat="52.2884668" lon="11.4079743"/><trkpt lat="52.2884682" lon="11.4079761"/><trkpt lat="52.2884723" lon="11.407968"/><trkpt lat="52.288471" lon="11.4079663"/><trkpt lat="52.2885019" lon="11.4079076"/><trkpt lat="52.2885033" lon="11.4079094"/><trkpt lat="52.2885069" lon="11.4079022"/><trkpt lat="52.2885057" lon="11.4079004"/><trkpt lat="52.2885374" lon="11.4078401"/><trkpt lat="52.2885386" lon="11.4078418"/><trkpt lat="52.2885421" lon="11.407835"/><trkpt lat="52.2885409" lon="11.4078334"/><trkpt lat="52.2885531" lon="11.4078104"/><trkpt lat="52.2885542" lon="11.407812"/><trkpt lat="52.2885577" lon="11.4078051"/><trkpt lat="52.2885566" lon="11.4078036"/><trkpt lat="52.2885722" lon="11.4077739"/><trkpt lat="52.2885734" lon="11.4077755"/><trkpt lat="52.2885776" lon="11.4077674"/><trkpt lat="52.2885765" lon="11.4077659"/><trkpt lat="52.2886521" lon="11.407622"/><trkpt lat="52.2886909" lon="11.4076751"/><trkpt lat="52.2887035" lon="11.4076538"/><trkpt lat="52.2887865" lon="11.4075112"/><trkpt lat="52.2887685" lon="11.4074832"/><trkpt lat="52.2887719" lon="11.4074773"/><trkpt lat="52.288722" lon="11.4073996"/><trkpt lat="52.2887188" lon="11.407405"/><trkpt lat="52.2886747" lon="11.4073364"/><trkpt lat="52.2886776" lon="11.4073314"/><trkpt lat="52.2886278" lon="11.4072539"/><trkpt lat="52.2886248" lon="11.4072591"/><trkpt lat="52.2885811" lon="11.4071911"/><trkpt lat="52.288584" lon="11.407186"/><trkpt lat="52.2885418" lon="11.4071202"/><trkpt lat="52.2884465" lon="11.4072839"/><trkpt lat="52.2883761" lon="11.4071744"/><trkpt lat="52.2883793" lon="11.4071688"/><trkpt lat="52.2883294" lon="11.4070911"/><trkpt lat="52.2883262" lon="11.4070965"/><trkpt lat="52.2882403" lon="11.4069629"/><trkpt lat="52.2882437" lon="11.4069571"/><trkpt lat="52.2881933" lon="11.4068786"/><trkpt lat="52.2881897" lon="11.4068848"/><trkpt lat="52.2881426" lon="11.4068114"/><trkpt lat="52.2882352" lon="11.4066524"/><trkpt lat="52.2881925" lon="11.4065861"/><trkpt lat="52.2881892" lon="11.4065919"/><trkpt lat="52.2881399" lon="11.4065153"/><trkpt lat="52.2881371" lon="11.4065202"/><trkpt lat="52.2881204" lon="11.4064942"/><trkpt lat="52.2880538" lon="11.4066086"/><trkpt lat="52.2880973" lon="11.4066762"/><trkpt lat="52.2880249" lon="11.4068006"/><trkpt lat="52.2879681" lon="11.4069166"/><trkpt lat="52.2879658" lon="11.4069141"/><trkpt lat="52.2879623" lon="11.4069207"/><trkpt lat="52.2879639" lon="11.4069238"/><trkpt lat="52.2879322" lon="11.4069845"/><trkpt lat="52.2879303" lon="11.4069816"/><trkpt lat="52.2879264" lon="11.4069876"/><trkpt lat="52.2879284" lon="11.4069911"/><trkpt lat="52.2878976" lon="11.4070514"/><trkpt lat="52.2878955" lon="11.4070488"/><trkpt lat="52.2878918" lon="11.4070557"/><trkpt lat="52.2878939" lon="11.407058"/><trkpt lat="52.287861" lon="11.4071189"/><trkpt lat="52.2878255" lon="11.4070698"/><trkpt lat="52.2878269" lon="11.4070666"/><trkpt lat="52.2878227" lon="11.4070609"/><trkpt lat="52.2878199" lon="11.4070652"/><trkpt lat="52.2878051" lon="11.4070448"/><trkpt lat="52.2875593" lon="11.4075131"/><trkpt lat="52.2875744" lon="11.4075335"/><trkpt lat="52.2875726" lon="11.4075364"/><trkpt lat="52.2875768" lon="11.4075436"/><trkpt lat="52.2875795" lon="11.4075399"/><trkpt lat="52.2876136" lon="11.4075879"/><trkpt lat="52.287612" lon="11.407591"/><trkpt lat="52.2876155" lon="11.407597"/><trkpt lat="52.2876181" lon="11.4075945"/><trkpt lat="52.2876382" lon="11.4076226"/><trkpt lat="52.2876371" lon="11.4076255"/><trkpt lat="52.2876405" lon="11.407631"/><trkpt lat="52.2876422" lon="11.4076287"/><trkpt lat="52.2876623" lon="11.4076568"/><trkpt lat="52.287661" lon="11.4076594"/><trkpt lat="52.2876654" lon="11.4076663"/><trkpt lat="52.2876666" lon="11.4076634"/><trkpt lat="52.2877007" lon="11.4077103"/><trkpt lat="52.2876995" lon="11.4077137"/><trkpt lat="52.2877037" lon="11.4077206"/><trkpt lat="52.287705" lon="11.4077169"/><trkpt lat="52.2877389" lon="11.4077631"/><trkpt lat="52.2877377" lon="11.4077671"/><trkpt lat="52.2877415" lon="11.4077738"/><trkpt lat="52.2877433" lon="11.4077697"/><trkpt lat="52.2877768" lon="11.407816"/><trkpt lat="52.2877756" lon="11.4078189"/><trkpt lat="52.2877802" lon="11.4078263"/><trkpt lat="52.2877814" lon="11.4078235"/><trkpt lat="52.287812" lon="11.4078657"/><trkpt lat="52.2878108" lon="11.4078706"/><trkpt lat="52.2878153" lon="11.4078755"/><trkpt lat="52.2878173" lon="11.4078726"/><trkpt lat="52.2878475" lon="11.4079154"/><trkpt lat="52.2878466" lon="11.4079189"/><trkpt lat="52.2878507" lon="11.4079249"/><trkpt lat="52.2878522" lon="11.4079223"/><trkpt lat="52.2878747" lon="11.4079536"/><trkpt lat="52.2878735" lon="11.4079574"/><trkpt lat="52.2878783" lon="11.4079634"/><trkpt lat="52.2878797" lon="11.4079611"/><trkpt lat="52.2879238" lon="11.4080226"/><trkpt lat="52.2879226" lon="11.4080263"/><trkpt lat="52.2879269" lon="11.4080324"/><trkpt lat="52.2879285" lon="11.4080292"/><trkpt lat="52.2879516" lon="11.4080599"/><trkpt lat="52.2879508" lon="11.4080631"/><trkpt lat="52.2879542" lon="11.4080694"/><trkpt lat="52.2879558" lon="11.4080671"/><trkpt lat="52.2879907" lon="11.408114"/><trkpt lat="52.287989" lon="11.4081168"/><trkpt lat="52.2879929" lon="11.4081234"/><trkpt lat="52.2879946" lon="11.4081206"/><trkpt lat="52.2880284" lon="11.4081663"/><trkpt lat="52.2880273" lon="11.4081697"/><trkpt lat="52.2880312" lon="11.4081769"/><trkpt lat="52.2880328" lon="11.408174"/><trkpt lat="52.2880658" lon="11.4082206"/><trkpt lat="52.288064" lon="11.4082243"/><trkpt lat="52.2880691" lon="11.4082309"/><trkpt lat="52.2880712" lon="11.4082269"/><trkpt lat="52.2881053" lon="11.4082746"/><trkpt lat="52.2881039" lon="11.4082772"/><trkpt lat="52.2881073" lon="11.4082826"/><trkpt lat="52.288109" lon="11.4082806"/><trkpt lat="52.2881433" lon="11.4083272"/><trkpt lat="52.2881417" lon="11.4083309"/><trkpt lat="52.2881463" lon="11.4083372"/><trkpt lat="52.2881477" lon="11.4083338"/><trkpt lat="52.2881818" lon="11.4083806"/><trkpt lat="52.2881802" lon="11.4083852"/><trkpt lat="52.2881841" lon="11.4083901"/><trkpt lat="52.288186" lon="11.4083872"/><trkpt lat="52.2882199" lon="11.408434"/><trkpt lat="52.2882185" lon="11.4084375"/><trkpt lat="52.2882224" lon="11.4084438"/><trkpt lat="52.2882268" lon="11.4084381"/><trkpt lat="52.288225" lon="11.408434"/><trkpt lat="52.2882565" lon="11.4083737"/><trkpt lat="52.2882583" lon="11.4083763"/><trkpt lat="52.2882618" lon="11.4083694"/><trkpt lat="52.2882602" lon="11.4083671"/><trkpt lat="52.2882908" lon="11.4083089"/></trkseg></trk><trk><name>Dessau Center</name><desc>building=retail
+layer=1
+name=Dessau Center
+shop=mall
+wheelchair=yes
+id=way/37635358</desc><trkseg><trkpt lat="51.8304717" lon="12.2441494"/><trkpt lat="51.8305028" lon="12.2442484"/><trkpt lat="51.8305285" lon="12.2441817"/><trkpt lat="51.8305645" lon="12.2441196"/><trkpt lat="51.8306444" lon="12.2440406"/><trkpt lat="51.8307327" lon="12.2439652"/><trkpt lat="51.8308727" lon="12.2438456"/><trkpt lat="51.8309215" lon="12.2438186"/><trkpt lat="51.8309111" lon="12.2437439"/><trkpt lat="51.8308879" lon="12.2435891"/><trkpt lat="51.8307729" lon="12.2429307"/><trkpt lat="51.8306875" lon="12.2428158"/><trkpt lat="51.8306014" lon="12.2426996"/><trkpt lat="51.829969" lon="12.2426558"/><trkpt lat="51.8298608" lon="12.242651"/><trkpt lat="51.8298432" lon="12.243062"/><trkpt lat="51.82996" lon="12.2430741"/><trkpt lat="51.8299531" lon="12.2433603"/><trkpt lat="51.8298457" lon="12.2433555"/><trkpt lat="51.8298403" lon="12.2435913"/><trkpt lat="51.8299447" lon="12.2436947"/><trkpt lat="51.8302419" lon="12.2439737"/><trkpt lat="51.8304378" lon="12.2441191"/><trkpt lat="51.8304717" lon="12.2441494"/></trkseg></trk><trk><name>Heideringpassage</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:postcode=06120
+addr:street=Heideringpassage
+check_date:opening_hours=2023-07-01
+landuse=retail
+name=Heideringpassage
+opening_hours:signed=no
+shop=mall
+toilets=no
+wheelchair=yes
+id=way/39301778</desc><trkseg><trkpt lat="51.5159397" lon="11.9138351"/><trkpt lat="51.5162195" lon="11.913826"/><trkpt lat="51.5163132" lon="11.9136148"/><trkpt lat="51.5163013" lon="11.9135161"/><trkpt lat="51.5162531" lon="11.9132519"/><trkpt lat="51.5162331" lon="11.9130972"/><trkpt lat="51.5162193" lon="11.9129902"/><trkpt lat="51.5161876" lon="11.9126142"/><trkpt lat="51.5161671" lon="11.9123713"/><trkpt lat="51.5161033" lon="11.9121688"/><trkpt lat="51.5160926" lon="11.9120826"/><trkpt lat="51.5159375" lon="11.9120864"/><trkpt lat="51.5158752" lon="11.9121519"/><trkpt lat="51.5156629" lon="11.9121097"/><trkpt lat="51.5156636" lon="11.9121753"/><trkpt lat="51.5156794" lon="11.9126634"/><trkpt lat="51.515699" lon="11.9132672"/><trkpt lat="51.515698" lon="11.9133425"/><trkpt lat="51.51556" lon="11.913349"/><trkpt lat="51.5154829" lon="11.9134939"/><trkpt lat="51.5155138" lon="11.9135477"/><trkpt lat="51.5154624" lon="11.9136367"/><trkpt lat="51.5154866" lon="11.9137579"/><trkpt lat="51.5155545" lon="11.9138689"/><trkpt lat="51.5157264" lon="11.9138421"/><trkpt lat="51.5159397" lon="11.9138351"/></trkseg></trk><trk><name>Kauflandcenter</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:housenumber=90
+addr:postcode=06128
+addr:street=Südstadtring
+building=retail
+check_date:opening_hours=2020-11-14
+name=Kauflandcenter
+opening_hours=Mo-Fr 07:00-22:00; Sa 07:00-20:00
+phone=+49 345 2260450
+shop=mall
+wheelchair=yes
+id=way/40160730</desc><trkseg><trkpt lat="51.4476161" lon="11.9594408"/><trkpt lat="51.4486495" lon="11.9596184"/><trkpt lat="51.4487552" lon="11.9580352"/><trkpt lat="51.4481438" lon="11.9579301"/><trkpt lat="51.4481693" lon="11.9575483"/><trkpt lat="51.4477473" lon="11.9574758"/><trkpt lat="51.4476161" lon="11.9594408"/></trkseg></trk><trk><name>Elbe Park</name><desc>addr:city=Hohe Börde
+addr:housenumber=1
+addr:postcode=39326
+addr:street=Am Elbepark
+building=yes
+name=Elbe Park
+shop=mall
+website=https://www.elbe-park.com/
+wheelchair=yes
+wikidata=Q19962277
+id=way/47512417</desc><trkseg><trkpt lat="52.1785065" lon="11.4830795"/><trkpt lat="52.1785107" lon="11.4830927"/><trkpt lat="52.1785177" lon="11.483102"/><trkpt lat="52.1785265" lon="11.4831058"/><trkpt lat="52.1785355" lon="11.4831034"/><trkpt lat="52.1785431" lon="11.4830953"/><trkpt lat="52.178548" lon="11.4830829"/><trkpt lat="52.1785487" lon="11.4830755"/><trkpt lat="52.1785588" lon="11.4830761"/><trkpt lat="52.1785706" lon="11.4830769"/><trkpt lat="52.1785709" lon="11.4830851"/><trkpt lat="52.178575" lon="11.4830983"/><trkpt lat="52.1785821" lon="11.4831076"/><trkpt lat="52.1785909" lon="11.4831114"/><trkpt lat="52.1785998" lon="11.4831091"/><trkpt lat="52.1786074" lon="11.483101"/><trkpt lat="52.1786124" lon="11.4830885"/><trkpt lat="52.1786132" lon="11.4830794"/><trkpt lat="52.1787468" lon="11.4830872"/><trkpt lat="52.1787474" lon="11.4831098"/><trkpt lat="52.1787786" lon="11.4831667"/><trkpt lat="52.1796382" lon="11.4832361"/><trkpt lat="52.1798934" lon="11.4828628"/><trkpt lat="52.1800186" lon="11.4826788"/><trkpt lat="52.1800272" lon="11.4826836"/><trkpt lat="52.1802846" lon="11.4827041"/><trkpt lat="52.180568" lon="11.4822869"/><trkpt lat="52.180591" lon="11.4815447"/><trkpt lat="52.1767696" lon="11.4812299"/><trkpt lat="52.1759484" lon="11.483594"/><trkpt lat="52.1762703" lon="11.4838861"/><trkpt lat="52.1766585" lon="11.4842468"/><trkpt lat="52.1766602" lon="11.4842486"/><trkpt lat="52.1769222" lon="11.4834959"/><trkpt lat="52.1769183" lon="11.4834911"/><trkpt lat="52.176922" lon="11.4834811"/><trkpt lat="52.177109" lon="11.4833972"/><trkpt lat="52.1771775" lon="11.4831988"/><trkpt lat="52.1772413" lon="11.4830142"/><trkpt lat="52.1772535" lon="11.4830238"/><trkpt lat="52.1772527" lon="11.4830405"/><trkpt lat="52.1783369" lon="11.4831294"/><trkpt lat="52.1783705" lon="11.4830798"/><trkpt lat="52.178372" lon="11.48306"/><trkpt lat="52.1785063" lon="11.4830721"/><trkpt lat="52.1785065" lon="11.4830795"/></trkseg></trk><trk><name>Altstadt-Passagen</name><desc>addr:city=Wernigerode
+addr:country=DE
+addr:housenumber=37
+addr:postcode=38855
+addr:street=Ringstraße
+building=commercial
+name=Altstadt-Passagen
+opening_hours=Mo-Fr 09:30-18:00; Sa 09:30-16:00
+shop=mall
+toilets=yes
+wheelchair=yes
+id=way/61939831</desc><trkseg><trkpt lat="51.835762" lon="10.7837684"/><trkpt lat="51.8356339" lon="10.7838447"/><trkpt lat="51.8356333" lon="10.783842"/><trkpt lat="51.8355726" lon="10.7838786"/><trkpt lat="51.8355404" lon="10.7838975"/><trkpt lat="51.8355345" lon="10.7838711"/><trkpt lat="51.8354574" lon="10.7839167"/><trkpt lat="51.8354525" lon="10.7838934"/><trkpt lat="51.8354162" lon="10.7839154"/><trkpt lat="51.8354218" lon="10.7839379"/><trkpt lat="51.8353913" lon="10.7839556"/><trkpt lat="51.8353469" lon="10.783982"/><trkpt lat="51.8353426" lon="10.7839621"/><trkpt lat="51.8352188" lon="10.7840347"/><trkpt lat="51.8352215" lon="10.7840879"/><trkpt lat="51.8351956" lon="10.784154"/><trkpt lat="51.8352063" lon="10.7843395"/><trkpt lat="51.8352033" lon="10.7843392"/><trkpt lat="51.8352127" lon="10.7845061"/><trkpt lat="51.8352193" lon="10.784629"/><trkpt lat="51.8352221" lon="10.7846294"/><trkpt lat="51.8352328" lon="10.7848158"/><trkpt lat="51.8352655" lon="10.7848729"/><trkpt lat="51.8354525" lon="10.7849253"/><trkpt lat="51.8355939" lon="10.7849652"/><trkpt lat="51.8358324" lon="10.7850317"/><trkpt lat="51.8358604" lon="10.7847702"/><trkpt lat="51.835901" lon="10.7843856"/><trkpt lat="51.8358137" lon="10.7839947"/><trkpt lat="51.835762" lon="10.7837684"/></trkseg></trk><trk><name>Neustadt Kaufhaus</name><desc>addr:city=Magdeburg
+addr:country=DE
+addr:postcode=39124
+building=yes
+building:levels=3
+name=Neustadt Kaufhaus
+shop=mall
+id=way/84808499</desc><trkseg><trkpt lat="52.1579636" lon="11.6364041"/><trkpt lat="52.1583661" lon="11.636256"/><trkpt lat="52.1583763" lon="11.6362523"/><trkpt lat="52.1583417" lon="11.6360027"/><trkpt lat="52.1578675" lon="11.6361772"/><trkpt lat="52.1578864" lon="11.636313"/><trkpt lat="52.1579405" lon="11.6362931"/><trkpt lat="52.1579562" lon="11.6364068"/><trkpt lat="52.1579636" lon="11.6364041"/></trkseg></trk><trk><name>Neustadt Passage</name><desc>addr:city=Magdeburg
+addr:country=DE
+addr:postcode=39124
+building=yes
+building:levels=2
+name=Neustadt Passage
+shop=mall
+id=way/84808542</desc><trkseg><trkpt lat="52.1584763" lon="11.635951"/><trkpt lat="52.1585074" lon="11.6361676"/><trkpt lat="52.158534" lon="11.6363531"/><trkpt lat="52.1586275" lon="11.6363169"/><trkpt lat="52.1588692" lon="11.6362239"/><trkpt lat="52.1588928" lon="11.6362364"/><trkpt lat="52.1589134" lon="11.6362427"/><trkpt lat="52.1589333" lon="11.6362465"/><trkpt lat="52.158951" lon="11.636248"/><trkpt lat="52.1589673" lon="11.6362472"/><trkpt lat="52.1589835" lon="11.636243"/><trkpt lat="52.1590072" lon="11.6362328"/><trkpt lat="52.1590264" lon="11.6362202"/><trkpt lat="52.159051" lon="11.6361986"/><trkpt lat="52.1590703" lon="11.6361711"/><trkpt lat="52.1590868" lon="11.6361436"/><trkpt lat="52.1593247" lon="11.6360514"/><trkpt lat="52.1594337" lon="11.6360112"/><trkpt lat="52.1593741" lon="11.6356147"/><trkpt lat="52.1584763" lon="11.635951"/></trkseg></trk><trk><name>Kaufland Center</name><desc>addr:city=Dessau-Roßlau
+addr:country=DE
+addr:housenumber=2
+addr:postcode=06842
+addr:street=Am Eichengarten
+building=retail
+name=Kaufland Center
+shop=mall
+id=way/86560827</desc><trkseg><trkpt lat="51.8195956" lon="12.3022969"/><trkpt lat="51.8195494" lon="12.3022533"/><trkpt lat="51.8189719" lon="12.3016926"/><trkpt lat="51.8188298" lon="12.3015535"/><trkpt lat="51.8188174" lon="12.3015839"/><trkpt lat="51.8187631" lon="12.3017164"/><trkpt lat="51.818672" lon="12.3016285"/><trkpt lat="51.8185517" lon="12.3019509"/><trkpt lat="51.8186424" lon="12.302044"/><trkpt lat="51.8185338" lon="12.3023393"/><trkpt lat="51.8185238" lon="12.3023665"/><trkpt lat="51.819246" lon="12.3030593"/><trkpt lat="51.8194112" lon="12.3032211"/><trkpt lat="51.8195615" lon="12.3033682"/><trkpt lat="51.8197053" lon="12.3033033"/><trkpt lat="51.8197369" lon="12.3034979"/><trkpt lat="51.8198026" lon="12.3035588"/><trkpt lat="51.8200147" lon="12.3034748"/><trkpt lat="51.8200529" lon="12.3033776"/><trkpt lat="51.8200245" lon="12.3031836"/><trkpt lat="51.8201675" lon="12.3031231"/><trkpt lat="51.8203939" lon="12.3024951"/><trkpt lat="51.8206708" lon="12.3017534"/><trkpt lat="51.8201668" lon="12.30127"/><trkpt lat="51.8200976" lon="12.3014452"/><trkpt lat="51.8199849" lon="12.3017667"/><trkpt lat="51.8198878" lon="12.3020216"/><trkpt lat="51.8198768" lon="12.3020412"/><trkpt lat="51.8198446" lon="12.3021332"/><trkpt lat="51.8198132" lon="12.3022143"/><trkpt lat="51.8197473" lon="12.3021429"/><trkpt lat="51.8197144" lon="12.3021505"/><trkpt lat="51.8196865" lon="12.3021639"/><trkpt lat="51.8196386" lon="12.3021754"/><trkpt lat="51.8195956" lon="12.3022969"/></trkseg></trk><trk><name>way/87254768</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:housenumber=5
+addr:postcode=06122
+addr:street=Am Meeresbrunnen
+building=yes
+building:levels=2
+opening_hours=Mo-Fr 07:00-20:00; Sa 07:00-20:00
+shop=mall
+wheelchair=yes
+id=way/87254768</desc><trkseg><trkpt lat="51.4825737" lon="11.9408231"/><trkpt lat="51.4821036" lon="11.9409098"/><trkpt lat="51.482123" lon="11.9411804"/><trkpt lat="51.4821842" lon="11.9411691"/><trkpt lat="51.4822305" lon="11.9418342"/><trkpt lat="51.4826416" lon="11.9417566"/><trkpt lat="51.4826294" lon="11.941601"/><trkpt lat="51.4825802" lon="11.9409134"/><trkpt lat="51.4825737" lon="11.9408231"/></trkseg></trk><trk><name>Einkaufszentrum "Lindenpark"</name><desc>addr:city=Wolmirstedt
+addr:country=DE
+addr:housenumber=22
+addr:postcode=39326
+addr:street=Rogätzer Straße
+landuse=retail
+name=Einkaufszentrum "Lindenpark"
+shop=mall
+source=Bing
+id=way/88452804</desc><trkseg><trkpt lat="52.2615237" lon="11.6367348"/><trkpt lat="52.261294" lon="11.6378369"/><trkpt lat="52.26128" lon="11.637896"/><trkpt lat="52.2612723" lon="11.6379288"/><trkpt lat="52.2613831" lon="11.6380221"/><trkpt lat="52.2614339" lon="11.6380668"/><trkpt lat="52.2617224" lon="11.6383474"/><trkpt lat="52.2617297" lon="11.6383274"/><trkpt lat="52.2619417" lon="11.6385337"/><trkpt lat="52.2622856" lon="11.6389051"/><trkpt lat="52.2623722" lon="11.6390065"/><trkpt lat="52.262392" lon="11.6390298"/><trkpt lat="52.262806" lon="11.6395117"/><trkpt lat="52.2628667" lon="11.6395749"/><trkpt lat="52.2629422" lon="11.6396536"/><trkpt lat="52.263067" lon="11.6397508"/><trkpt lat="52.2631164" lon="11.6398033"/><trkpt lat="52.2631523" lon="11.6398386"/><trkpt lat="52.2632281" lon="11.6398934"/><trkpt lat="52.2632924" lon="11.6399224"/><trkpt lat="52.2633802" lon="11.6399475"/><trkpt lat="52.2634464" lon="11.6399569"/><trkpt lat="52.2635246" lon="11.6399546"/><trkpt lat="52.2635677" lon="11.6399514"/><trkpt lat="52.2636181" lon="11.6399279"/><trkpt lat="52.2636498" lon="11.6398973"/><trkpt lat="52.2636761" lon="11.6398527"/><trkpt lat="52.2637435" lon="11.6396746"/><trkpt lat="52.2636598" lon="11.6393558"/><trkpt lat="52.2635634" lon="11.6389443"/><trkpt lat="52.2635032" lon="11.6386346"/><trkpt lat="52.2633931" lon="11.63792"/><trkpt lat="52.2633541" lon="11.6378738"/><trkpt lat="52.2625793" lon="11.6372975"/><trkpt lat="52.2617834" lon="11.6368732"/><trkpt lat="52.2615237" lon="11.6367348"/></trkseg></trk><trk><name>West-Center</name><desc>addr:city=Dessau-Roßlau
+addr:housenumber=5
+addr:postcode=06862
+addr:street=Tornauer Weg
+building=commercial
+name=West-Center
+shop=mall
+id=way/93387618</desc><trkseg><trkpt lat="51.8942722" lon="12.2241093"/><trkpt lat="51.8940953" lon="12.2238693"/><trkpt lat="51.8937847" lon="12.2244733"/><trkpt lat="51.8936605" lon="12.2244733"/><trkpt lat="51.8933785" lon="12.2250231"/><trkpt lat="51.8936605" lon="12.2254025"/><trkpt lat="51.8938086" lon="12.2251315"/><trkpt lat="51.8937838" lon="12.2251021"/><trkpt lat="51.8942196" lon="12.2243261"/><trkpt lat="51.8942913" lon="12.2241945"/><trkpt lat="51.8942722" lon="12.2241093"/></trkseg></trk><trk><name>Kannenstieg Center</name><desc>addr:city=Magdeburg
+addr:country=DE
+addr:housenumber=11
+addr:postcode=39128
+addr:street=Hanns-Eisler-Platz
+building=yes
+building:levels=1
+name=Kannenstieg Center
+opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-16:00
+roof:shape=flat
+shop=mall
+wheelchair=yes
+id=way/95387068</desc><trkseg><trkpt lat="52.1694288" lon="11.6255496"/><trkpt lat="52.1694458" lon="11.6255485"/><trkpt lat="52.1694458" lon="11.6255498"/><trkpt lat="52.1694503" lon="11.6255495"/><trkpt lat="52.1694503" lon="11.6255481"/><trkpt lat="52.1694997" lon="11.6255449"/><trkpt lat="52.1694998" lon="11.6255461"/><trkpt lat="52.1695041" lon="11.6255459"/><trkpt lat="52.1695041" lon="11.6255445"/><trkpt lat="52.1695056" lon="11.6255444"/><trkpt lat="52.1695071" lon="11.6256018"/><trkpt lat="52.1695302" lon="11.6256002"/><trkpt lat="52.1695577" lon="11.6255984"/><trkpt lat="52.1695571" lon="11.6255753"/><trkpt lat="52.1695603" lon="11.6255751"/><trkpt lat="52.1695602" lon="11.6255737"/><trkpt lat="52.169608" lon="11.6255705"/><trkpt lat="52.1696081" lon="11.6255719"/><trkpt lat="52.1696125" lon="11.6255716"/><trkpt lat="52.1696124" lon="11.6255702"/><trkpt lat="52.1696618" lon="11.6255669"/><trkpt lat="52.1696618" lon="11.6255684"/><trkpt lat="52.1696662" lon="11.6255681"/><trkpt lat="52.1696662" lon="11.6255666"/><trkpt lat="52.1697158" lon="11.6255634"/><trkpt lat="52.1697158" lon="11.6255646"/><trkpt lat="52.1697202" lon="11.6255644"/><trkpt lat="52.1697201" lon="11.6255629"/><trkpt lat="52.1697696" lon="11.6255597"/><trkpt lat="52.1697697" lon="11.625561"/><trkpt lat="52.1697741" lon="11.6255607"/><trkpt lat="52.169774" lon="11.6255592"/><trkpt lat="52.1698235" lon="11.625556"/><trkpt lat="52.1698235" lon="11.6255573"/><trkpt lat="52.1698279" lon="11.625557"/><trkpt lat="52.1698279" lon="11.6255555"/><trkpt lat="52.1698773" lon="11.6255523"/><trkpt lat="52.1698773" lon="11.6255536"/><trkpt lat="52.1698817" lon="11.6255534"/><trkpt lat="52.1698817" lon="11.6255519"/><trkpt lat="52.1699294" lon="11.6255487"/><trkpt lat="52.1699294" lon="11.6255501"/><trkpt lat="52.1699337" lon="11.6255499"/><trkpt lat="52.1699269" lon="11.625273"/><trkpt lat="52.1698743" lon="11.6252765"/><trkpt lat="52.169857" lon="11.6245835"/><trkpt lat="52.1698575" lon="11.6245835"/><trkpt lat="52.1698572" lon="11.6245707"/><trkpt lat="52.1698494" lon="11.6245713"/><trkpt lat="52.1698494" lon="11.6245736"/><trkpt lat="52.1698024" lon="11.6245767"/><trkpt lat="52.1698024" lon="11.6245748"/><trkpt lat="52.1697957" lon="11.6245752"/><trkpt lat="52.1697958" lon="11.6245777"/><trkpt lat="52.1697485" lon="11.6245808"/><trkpt lat="52.1697485" lon="11.6245785"/><trkpt lat="52.1697418" lon="11.624579"/><trkpt lat="52.1697419" lon="11.6245815"/><trkpt lat="52.1696949" lon="11.6245846"/><trkpt lat="52.1696948" lon="11.6245823"/><trkpt lat="52.1696881" lon="11.6245828"/><trkpt lat="52.1696882" lon="11.6245852"/><trkpt lat="52.169641" lon="11.6245883"/><trkpt lat="52.1696409" lon="11.6245862"/><trkpt lat="52.1696343" lon="11.6245867"/><trkpt lat="52.1696343" lon="11.624589"/><trkpt lat="52.1695872" lon="11.6245922"/><trkpt lat="52.1695871" lon="11.6245899"/><trkpt lat="52.1695804" lon="11.6245903"/><trkpt lat="52.1695805" lon="11.6245927"/><trkpt lat="52.1695332" lon="11.6245958"/><trkpt lat="52.1695331" lon="11.6245938"/><trkpt lat="52.1695265" lon="11.6245942"/><trkpt lat="52.1695266" lon="11.6245967"/><trkpt lat="52.1694794" lon="11.6245998"/><trkpt lat="52.1694793" lon="11.6245977"/><trkpt lat="52.1694726" lon="11.6245982"/><trkpt lat="52.1694726" lon="11.6246007"/><trkpt lat="52.1694255" lon="11.6246038"/><trkpt lat="52.1694255" lon="11.6246016"/><trkpt lat="52.1694188" lon="11.624602"/><trkpt lat="52.1694189" lon="11.6246046"/><trkpt lat="52.1693716" lon="11.6246078"/><trkpt lat="52.1693716" lon="11.6246054"/><trkpt lat="52.1693649" lon="11.6246059"/><trkpt lat="52.169365" lon="11.6246084"/><trkpt lat="52.1693174" lon="11.6246116"/><trkpt lat="52.1693173" lon="11.6246092"/><trkpt lat="52.1693095" lon="11.6246097"/><trkpt lat="52.1693098" lon="11.6246223"/><trkpt lat="52.169311" lon="11.6246223"/><trkpt lat="52.1693129" lon="11.6246985"/><trkpt lat="52.169312" lon="11.6246985"/><trkpt lat="52.1693123" lon="11.6247093"/><trkpt lat="52.1693135" lon="11.6247092"/><trkpt lat="52.1693149" lon="11.6247673"/><trkpt lat="52.1692956" lon="11.6247686"/><trkpt lat="52.1692702" lon="11.6247703"/><trkpt lat="52.1692699" lon="11.6247581"/><trkpt lat="52.1692644" lon="11.6247585"/><trkpt lat="52.1692644" lon="11.6247605"/><trkpt lat="52.1692014" lon="11.6247646"/><trkpt lat="52.1692014" lon="11.624763"/><trkpt lat="52.1691947" lon="11.6247635"/><trkpt lat="52.1691948" lon="11.6247653"/><trkpt lat="52.1691319" lon="11.6247695"/><trkpt lat="52.1691319" lon="11.6247679"/><trkpt lat="52.1691252" lon="11.6247683"/><trkpt lat="52.1691255" lon="11.6247774"/><trkpt lat="52.1691266" lon="11.6247773"/><trkpt lat="52.1691284" lon="11.6248499"/><trkpt lat="52.1691274" lon="11.6248499"/><trkpt lat="52.1691276" lon="11.6248571"/><trkpt lat="52.1691288" lon="11.624857"/><trkpt lat="52.1691306" lon="11.624929"/><trkpt lat="52.1691295" lon="11.6249291"/><trkpt lat="52.1691297" lon="11.6249363"/><trkpt lat="52.1691309" lon="11.6249362"/><trkpt lat="52.1691334" lon="11.6250335"/><trkpt lat="52.1691324" lon="11.6250336"/><trkpt lat="52.1691326" lon="11.6250407"/><trkpt lat="52.1691338" lon="11.6250406"/><trkpt lat="52.1691349" lon="11.6250876"/><trkpt lat="52.1691339" lon="11.6250877"/><trkpt lat="52.169134" lon="11.6250949"/><trkpt lat="52.1691352" lon="11.6250948"/><trkpt lat="52.169137" lon="11.6251668"/><trkpt lat="52.169136" lon="11.6251669"/><trkpt lat="52.1691362" lon="11.6251742"/><trkpt lat="52.1691374" lon="11.6251741"/><trkpt lat="52.1691392" lon="11.6252462"/><trkpt lat="52.1691382" lon="11.6252463"/><trkpt lat="52.1691384" lon="11.6252534"/><trkpt lat="52.1691396" lon="11.6252533"/><trkpt lat="52.1691414" lon="11.6253255"/><trkpt lat="52.1691404" lon="11.6253256"/><trkpt lat="52.1691406" lon="11.6253328"/><trkpt lat="52.1691418" lon="11.6253328"/><trkpt lat="52.1691436" lon="11.625407"/><trkpt lat="52.1691426" lon="11.625407"/><trkpt lat="52.1691427" lon="11.6254141"/><trkpt lat="52.1691439" lon="11.625414"/><trkpt lat="52.1691457" lon="11.6254839"/><trkpt lat="52.1691447" lon="11.6254839"/><trkpt lat="52.1691448" lon="11.6254911"/><trkpt lat="52.169146" lon="11.625491"/><trkpt lat="52.1691478" lon="11.6255632"/><trkpt lat="52.1691468" lon="11.6255632"/><trkpt lat="52.169147" lon="11.6255704"/><trkpt lat="52.1691481" lon="11.6255704"/><trkpt lat="52.1691499" lon="11.6256425"/><trkpt lat="52.1691489" lon="11.6256426"/><trkpt lat="52.1691491" lon="11.6256498"/><trkpt lat="52.1691503" lon="11.6256497"/><trkpt lat="52.169152" lon="11.6257218"/><trkpt lat="52.169151" lon="11.6257219"/><trkpt lat="52.1691512" lon="11.6257291"/><trkpt lat="52.1691524" lon="11.6257291"/><trkpt lat="52.1691542" lon="11.625801"/><trkpt lat="52.1691532" lon="11.6258011"/><trkpt lat="52.1691534" lon="11.6258082"/><trkpt lat="52.1691546" lon="11.6258081"/><trkpt lat="52.1691564" lon="11.6258808"/><trkpt lat="52.1691555" lon="11.6258809"/><trkpt lat="52.1691557" lon="11.6258899"/><trkpt lat="52.1691613" lon="11.6258895"/><trkpt lat="52.1691613" lon="11.6258876"/><trkpt lat="52.1692264" lon="11.6258833"/><trkpt lat="52.1692264" lon="11.6258849"/><trkpt lat="52.1692308" lon="11.6258846"/><trkpt lat="52.1692307" lon="11.6258826"/><trkpt lat="52.1692958" lon="11.6258783"/><trkpt lat="52.1692959" lon="11.6258799"/><trkpt lat="52.1693014" lon="11.6258795"/><trkpt lat="52.1693012" lon="11.6258704"/><trkpt lat="52.1693" lon="11.6258705"/><trkpt lat="52.1692983" lon="11.6257985"/><trkpt lat="52.1693196" lon="11.6257971"/><trkpt lat="52.1693439" lon="11.6257955"/><trkpt lat="52.1693342" lon="11.625403"/><trkpt lat="52.169425" lon="11.625397"/><trkpt lat="52.1694288" lon="11.6255496"/></trkseg></trk><trk><name>SKET-Passage</name><desc>building=retail
+name=SKET-Passage
+shop=mall
+id=way/100348290</desc><trkseg><trkpt lat="52.1016243" lon="11.6442339"/><trkpt lat="52.101558" lon="11.6443091"/><trkpt lat="52.1015614" lon="11.6443167"/><trkpt lat="52.1015674" lon="11.6443306"/><trkpt lat="52.1015022" lon="11.6444083"/><trkpt lat="52.1014729" lon="11.6443407"/><trkpt lat="52.1013485" lon="11.6444889"/><trkpt lat="52.101452" lon="11.6447278"/><trkpt lat="52.101392" lon="11.6448117"/><trkpt lat="52.1013761" lon="11.6447816"/><trkpt lat="52.1013366" lon="11.6448368"/><trkpt lat="52.1013525" lon="11.6448669"/><trkpt lat="52.1013368" lon="11.6448888"/><trkpt lat="52.1013557" lon="11.6449246"/><trkpt lat="52.1013647" lon="11.6449416"/><trkpt lat="52.1013097" lon="11.6450185"/><trkpt lat="52.1012918" lon="11.6449845"/><trkpt lat="52.1012189" lon="11.6450605"/><trkpt lat="52.1012949" lon="11.6452627"/><trkpt lat="52.1014361" lon="11.645075"/><trkpt lat="52.1017381" lon="11.644687"/><trkpt lat="52.1019901" lon="11.6443654"/><trkpt lat="52.1026774" lon="11.6435607"/><trkpt lat="52.1030851" lon="11.6431667"/><trkpt lat="52.1031325" lon="11.6431209"/><trkpt lat="52.1030885" lon="11.6429943"/><trkpt lat="52.1030733" lon="11.6429501"/><trkpt lat="52.1029836" lon="11.6427001"/><trkpt lat="52.1029276" lon="11.6427623"/><trkpt lat="52.1028661" lon="11.6428306"/><trkpt lat="52.1028026" lon="11.6426885"/><trkpt lat="52.1026846" lon="11.642827"/><trkpt lat="52.1027114" lon="11.642887"/><trkpt lat="52.1027458" lon="11.6429641"/><trkpt lat="52.1025558" lon="11.643175"/><trkpt lat="52.1024929" lon="11.6432461"/><trkpt lat="52.1022615" lon="11.6435077"/><trkpt lat="52.1021594" lon="11.6436233"/><trkpt lat="52.1021509" lon="11.6436033"/><trkpt lat="52.1021371" lon="11.6435725"/><trkpt lat="52.1020347" lon="11.6436381"/><trkpt lat="52.1019138" lon="11.643747"/><trkpt lat="52.1018579" lon="11.6438107"/><trkpt lat="52.1018171" lon="11.6438572"/><trkpt lat="52.1017268" lon="11.6439766"/><trkpt lat="52.1016601" lon="11.6440862"/><trkpt lat="52.1016422" lon="11.6441156"/><trkpt lat="52.101606" lon="11.6441845"/><trkpt lat="52.1016196" lon="11.6442213"/><trkpt lat="52.1016243" lon="11.6442339"/></trkseg></trk><trk><name>Junkerspark</name><desc>addr:city=Dessau-Roßlau
+addr:housenumber=4
+addr:postcode=06847
+addr:street=Ernst-Zindel-Straße
+building=commercial
+name=Junkerspark
+shop=mall
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/108252177</desc><trkseg><trkpt lat="51.8188377" lon="12.1800347"/><trkpt lat="51.8182918" lon="12.1799261"/><trkpt lat="51.818284" lon="12.1800288"/><trkpt lat="51.8182398" lon="12.18002"/><trkpt lat="51.818183" lon="12.1800086"/><trkpt lat="51.8181648" lon="12.180248"/><trkpt lat="51.8181978" lon="12.1802546"/><trkpt lat="51.818118" lon="12.181303"/><trkpt lat="51.8180433" lon="12.1812881"/><trkpt lat="51.8180009" lon="12.1818453"/><trkpt lat="51.8181365" lon="12.1818723"/><trkpt lat="51.8181329" lon="12.1819199"/><trkpt lat="51.8181299" lon="12.1819589"/><trkpt lat="51.8181791" lon="12.1819687"/><trkpt lat="51.8181784" lon="12.1819773"/><trkpt lat="51.8188529" lon="12.1821116"/><trkpt lat="51.818863" lon="12.1819781"/><trkpt lat="51.8187885" lon="12.1819632"/><trkpt lat="51.818889" lon="12.1806421"/><trkpt lat="51.818793" lon="12.180623"/><trkpt lat="51.8188377" lon="12.1800347"/></trkseg></trk><trk><name>Altmark-Forum</name><desc>addr:city=Stendal
+addr:housenumber=1-5
+addr:postcode=39576
+addr:street=Dr.-Kurt-Schumacher-Straße
+building=retail
+name=Altmark-Forum
+shop=mall
+toilets:wheelchair=yes
+wheelchair=limited
+id=way/109239409</desc><trkseg><trkpt lat="52.6002206" lon="11.8350819"/><trkpt lat="52.6001246" lon="11.8351236"/><trkpt lat="52.6001249" lon="11.8351256"/><trkpt lat="52.6001101" lon="11.8351321"/><trkpt lat="52.6000932" lon="11.8350278"/><trkpt lat="52.6000917" lon="11.8350284"/><trkpt lat="52.6000737" lon="11.8349157"/><trkpt lat="52.6000508" lon="11.8347747"/><trkpt lat="52.5999311" lon="11.8348254"/><trkpt lat="52.5999406" lon="11.8348859"/><trkpt lat="52.5997428" lon="11.8349728"/><trkpt lat="52.5996699" lon="11.8350049"/><trkpt lat="52.5995163" lon="11.8350724"/><trkpt lat="52.5994898" lon="11.8350841"/><trkpt lat="52.5994893" lon="11.8350809"/><trkpt lat="52.5994296" lon="11.8351079"/><trkpt lat="52.5993927" lon="11.8351246"/><trkpt lat="52.5994097" lon="11.8352264"/><trkpt lat="52.5994114" lon="11.8352256"/><trkpt lat="52.5994393" lon="11.8353985"/><trkpt lat="52.5994828" lon="11.8356678"/><trkpt lat="52.5994409" lon="11.8356843"/><trkpt lat="52.5994473" lon="11.8357594"/><trkpt lat="52.5994525" lon="11.8357582"/><trkpt lat="52.5994511" lon="11.8357426"/><trkpt lat="52.5994706" lon="11.8357405"/><trkpt lat="52.5994704" lon="11.8358236"/><trkpt lat="52.5994706" lon="11.8358568"/><trkpt lat="52.5994707" lon="11.8359939"/><trkpt lat="52.5995386" lon="11.8359937"/><trkpt lat="52.5995837" lon="11.8359936"/><trkpt lat="52.5995833" lon="11.8361781"/><trkpt lat="52.5996524" lon="11.8361791"/><trkpt lat="52.5997393" lon="11.8361786"/><trkpt lat="52.5997393" lon="11.8361817"/><trkpt lat="52.5997546" lon="11.8361816"/><trkpt lat="52.5997706" lon="11.8361815"/><trkpt lat="52.5997706" lon="11.8361799"/><trkpt lat="52.5997971" lon="11.8361797"/><trkpt lat="52.5997972" lon="11.8361816"/><trkpt lat="52.5998145" lon="11.8361815"/><trkpt lat="52.5998145" lon="11.8361795"/><trkpt lat="52.5999023" lon="11.8361801"/><trkpt lat="52.5999358" lon="11.8361799"/><trkpt lat="52.5999516" lon="11.8361798"/><trkpt lat="52.5999656" lon="11.8361798"/><trkpt lat="52.5999656" lon="11.8361784"/><trkpt lat="52.6005572" lon="11.8361784"/><trkpt lat="52.6005572" lon="11.8357991"/><trkpt lat="52.6005572" lon="11.835672"/><trkpt lat="52.6004253" lon="11.8356703"/><trkpt lat="52.6004254" lon="11.8356282"/><trkpt lat="52.6004263" lon="11.835277"/><trkpt lat="52.6006233" lon="11.8352773"/><trkpt lat="52.6006234" lon="11.8350754"/><trkpt lat="52.6004333" lon="11.8350755"/><trkpt lat="52.6003874" lon="11.835075"/><trkpt lat="52.6002839" lon="11.8350746"/><trkpt lat="52.6002206" lon="11.8350747"/><trkpt lat="52.6002206" lon="11.8350819"/></trkseg></trk><trk><name>Nordharz Center</name><desc>building=retail
+building:levels=3
+name=Nordharz Center
+roof:levels=1
+roof:shape=flat
+shop=mall
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/109586970</desc><trkseg><trkpt lat="51.807929" lon="10.9392739"/><trkpt lat="51.8077387" lon="10.9384544"/><trkpt lat="51.8075361" lon="10.9385775"/><trkpt lat="51.8074608" lon="10.9382532"/><trkpt lat="51.8071087" lon="10.9384672"/><trkpt lat="51.8071832" lon="10.9387879"/><trkpt lat="51.8066232" lon="10.9391281"/><trkpt lat="51.8066614" lon="10.9392926"/><trkpt lat="51.8063613" lon="10.9394749"/><trkpt lat="51.8063982" lon="10.9396338"/><trkpt lat="51.8061966" lon="10.9397563"/><trkpt lat="51.8062343" lon="10.9399189"/><trkpt lat="51.8060322" lon="10.9400417"/><trkpt lat="51.8061443" lon="10.9405242"/><trkpt lat="51.8065285" lon="10.9402908"/><trkpt lat="51.8065157" lon="10.9402357"/><trkpt lat="51.8073586" lon="10.9397237"/><trkpt lat="51.8073376" lon="10.9396333"/><trkpt lat="51.807929" lon="10.9392739"/></trkseg></trk><trk><name>Mansfeld Center</name><desc>addr:city=Hettstedt
+addr:housenumber=20
+addr:postcode=06333
+addr:street=Kämmritzer Weg
+building=retail
+name=Mansfeld Center
+shop=mall
+wheelchair=yes
+id=way/110537226</desc><trkseg><trkpt lat="51.6549172" lon="11.4864599"/><trkpt lat="51.6546189" lon="11.4884058"/><trkpt lat="51.6552334" lon="11.4886598"/><trkpt lat="51.655531" lon="11.4867056"/><trkpt lat="51.6549172" lon="11.4864599"/></trkseg></trk><trk><name>Hettstedter Meile</name><desc>building=retail
+name=Hettstedter Meile
+shop=mall
+wheelchair=yes
+id=way/110539506</desc><trkseg><trkpt lat="51.6568264" lon="11.4988899"/><trkpt lat="51.6574202" lon="11.499037"/><trkpt lat="51.6574328" lon="11.4989042"/><trkpt lat="51.6576366" lon="11.4989547"/><trkpt lat="51.6577082" lon="11.4982032"/><trkpt lat="51.6569698" lon="11.4980203"/><trkpt lat="51.6569842" lon="11.4978692"/><trkpt lat="51.6569657" lon="11.4978143"/><trkpt lat="51.6568836" lon="11.497794"/><trkpt lat="51.6568567" lon="11.4978297"/><trkpt lat="51.6568154" lon="11.4982633"/><trkpt lat="51.6567664" lon="11.4982512"/><trkpt lat="51.6567169" lon="11.4987706"/><trkpt lat="51.656835" lon="11.4987998"/><trkpt lat="51.6568264" lon="11.4988899"/></trkseg></trk><trk><name>Ohre-Park</name><desc>addr:city=Haldensleben
+addr:country=DE
+addr:housenumber=2
+addr:postcode=39340
+addr:street=Friedrich-Schmelzer-Straße
+building=retail
+name=Ohre-Park
+shop=mall
+wheelchair=yes
+id=way/115214293</desc><trkseg><trkpt lat="52.2836972" lon="11.4307836"/><trkpt lat="52.2831939" lon="11.4320307"/><trkpt lat="52.2831751" lon="11.4320101"/><trkpt lat="52.2828939" lon="11.4327065"/><trkpt lat="52.2830433" lon="11.4328679"/><trkpt lat="52.2830733" lon="11.4327937"/><trkpt lat="52.2832229" lon="11.4329545"/><trkpt lat="52.2832526" lon="11.4328802"/><trkpt lat="52.2833282" lon="11.432962"/><trkpt lat="52.2833568" lon="11.4328872"/><trkpt lat="52.2834328" lon="11.4329696"/><trkpt lat="52.2835059" lon="11.432787"/><trkpt lat="52.2834307" lon="11.4327067"/><trkpt lat="52.2835501" lon="11.4324109"/><trkpt lat="52.2836253" lon="11.4324923"/><trkpt lat="52.283802" lon="11.4320539"/><trkpt lat="52.2837272" lon="11.4319733"/><trkpt lat="52.2838463" lon="11.4316761"/><trkpt lat="52.2839222" lon="11.431757"/><trkpt lat="52.284158" lon="11.4311714"/><trkpt lat="52.2837834" lon="11.4307694"/><trkpt lat="52.2837542" lon="11.4308424"/><trkpt lat="52.2836972" lon="11.4307836"/></trkseg></trk><trk><name>Charlotten Center</name><desc>building:levels=6
+building:part=commercial
+name=Charlotten Center
+shop=mall
+id=way/127157811</desc><trkseg><trkpt lat="51.4800287" lon="11.9803353"/><trkpt lat="51.480054" lon="11.9803266"/><trkpt lat="51.4800714" lon="11.9803206"/><trkpt lat="51.4800867" lon="11.9804041"/><trkpt lat="51.4801011" lon="11.9804822"/><trkpt lat="51.4800782" lon="11.9804924"/><trkpt lat="51.480096" lon="11.9805878"/><trkpt lat="51.4800537" lon="11.9806068"/><trkpt lat="51.4801353" lon="11.9809992"/><trkpt lat="51.4804101" lon="11.9808588"/><trkpt lat="51.4806254" lon="11.9807489"/><trkpt lat="51.4806575" lon="11.9807449"/><trkpt lat="51.4806837" lon="11.9807331"/><trkpt lat="51.480701" lon="11.9806944"/><trkpt lat="51.4806953" lon="11.9806581"/><trkpt lat="51.4806795" lon="11.9806143"/><trkpt lat="51.4805987" lon="11.9801961"/><trkpt lat="51.4805756" lon="11.9802079"/><trkpt lat="51.4805648" lon="11.9801563"/><trkpt lat="51.4805467" lon="11.9800691"/><trkpt lat="51.4804556" lon="11.9801153"/><trkpt lat="51.4803037" lon="11.9793379"/><trkpt lat="51.480218" lon="11.9793241"/><trkpt lat="51.4799978" lon="11.9795429"/><trkpt lat="51.4801299" lon="11.9802409"/><trkpt lat="51.4800287" lon="11.9803353"/></trkseg></trk><trk><name>way/128534617</name><desc>addr:city=Diesdorf
+addr:country=DE
+addr:housenumber=2
+addr:postcode=29413
+addr:street=Bauernstraße
+building=commercial
+shop=mall
+id=way/128534617</desc><trkseg><trkpt lat="52.7511326" lon="10.8747318"/><trkpt lat="52.7510441" lon="10.874687"/><trkpt lat="52.7510377" lon="10.874722"/><trkpt lat="52.7507709" lon="10.8745871"/><trkpt lat="52.7507215" lon="10.8748538"/><trkpt lat="52.7508487" lon="10.8749181"/><trkpt lat="52.7509789" lon="10.874984"/><trkpt lat="52.7510767" lon="10.8750335"/><trkpt lat="52.7511326" lon="10.8747318"/></trkseg></trk><trk><name>E-Center</name><desc>addr:city=Zerbst/Anhalt
+addr:country=DE
+addr:housenumber=1
+addr:postcode=39261
+addr:street=Coswiger Straße
+building:levels=1
+building:part=yes
+changing_table=yes
+name=E-Center
+opening_hours=Mo-We,Sa 08:00-20:00, Th-Fr 08:00-21:00
+operator=Edeka
+payment:cash=yes
+payment:mastercard=yes
+payment:visa=yes
+shop=mall
+toilets=yes
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/132124933</desc><trkseg><trkpt lat="51.963259" lon="12.1002779"/><trkpt lat="51.9632691" lon="12.0991272"/><trkpt lat="51.9624967" lon="12.0991095"/><trkpt lat="51.9624867" lon="12.1002602"/><trkpt lat="51.963259" lon="12.1002779"/></trkseg></trk><trk><name>way/133509999</name><desc>addr:housenumber=25
+addr:postcode=06406
+addr:street=Karlsplatz
+building=yes
+shop=mall
+id=way/133509999</desc><trkseg><trkpt lat="51.7934783" lon="11.7426543"/><trkpt lat="51.7934789" lon="11.7426563"/><trkpt lat="51.7935042" lon="11.7427423"/><trkpt lat="51.7935146" lon="11.7427455"/><trkpt lat="51.793588" lon="11.7426911"/><trkpt lat="51.7936112" lon="11.7427676"/><trkpt lat="51.7936811" lon="11.7427142"/><trkpt lat="51.7937656" lon="11.7426485"/><trkpt lat="51.7937844" lon="11.7427132"/><trkpt lat="51.793789" lon="11.7427098"/><trkpt lat="51.793834" lon="11.7428618"/><trkpt lat="51.7938293" lon="11.742866"/><trkpt lat="51.7938651" lon="11.7429876"/><trkpt lat="51.793867" lon="11.7429934"/><trkpt lat="51.7938806" lon="11.7429828"/><trkpt lat="51.7938794" lon="11.7429782"/><trkpt lat="51.7939477" lon="11.7429254"/><trkpt lat="51.7939489" lon="11.7429295"/><trkpt lat="51.7939794" lon="11.7429056"/><trkpt lat="51.7940095" lon="11.7428826"/><trkpt lat="51.7940082" lon="11.7428782"/><trkpt lat="51.7940543" lon="11.742844"/><trkpt lat="51.7940553" lon="11.7428478"/><trkpt lat="51.7940917" lon="11.7428185"/><trkpt lat="51.7940902" lon="11.7428138"/><trkpt lat="51.7940569" lon="11.7426995"/><trkpt lat="51.7940008" lon="11.7427404"/><trkpt lat="51.7939743" lon="11.7426509"/><trkpt lat="51.7940275" lon="11.7426096"/><trkpt lat="51.7939781" lon="11.7424449"/><trkpt lat="51.7940628" lon="11.7423786"/><trkpt lat="51.7940213" lon="11.7422392"/><trkpt lat="51.7939897" lon="11.7421337"/><trkpt lat="51.7939734" lon="11.7420893"/><trkpt lat="51.7939501" lon="11.7420359"/><trkpt lat="51.7939309" lon="11.7419975"/><trkpt lat="51.7939075" lon="11.7419592"/><trkpt lat="51.7938465" lon="11.7421419"/><trkpt lat="51.7937637" lon="11.7420689"/><trkpt lat="51.7937323" lon="11.7421598"/><trkpt lat="51.7936908" lon="11.7421226"/><trkpt lat="51.7937221" lon="11.7420315"/><trkpt lat="51.7936418" lon="11.7419617"/><trkpt lat="51.7936081" lon="11.7421055"/><trkpt lat="51.7935955" lon="11.7421595"/><trkpt lat="51.7935611" lon="11.7423061"/><trkpt lat="51.7935222" lon="11.7424726"/><trkpt lat="51.7934783" lon="11.7426543"/></trkseg></trk><trk><name>Saline Passage</name><desc>addr:city=Bad Dürrenberg
+addr:country=DE
+addr:housename=Saline Passage
+addr:postcode=06231
+addr:street=Breite Straße
+building=retail
+name=Saline Passage
+shop=mall
+wheelchair=yes
+id=way/136977995</desc><trkseg><trkpt lat="51.2969528" lon="12.0678117"/><trkpt lat="51.2969505" lon="12.0683147"/><trkpt lat="51.2968439" lon="12.0683142"/><trkpt lat="51.2968147" lon="12.0682807"/><trkpt lat="51.2967476" lon="12.0684081"/><trkpt lat="51.2967792" lon="12.068441"/><trkpt lat="51.2967875" lon="12.0692294"/><trkpt lat="51.2967414" lon="12.0693188"/><trkpt lat="51.2968296" lon="12.0694514"/><trkpt lat="51.2968671" lon="12.069393"/><trkpt lat="51.2973615" lon="12.0693836"/><trkpt lat="51.2973629" lon="12.0686692"/><trkpt lat="51.2976145" lon="12.0684814"/><trkpt lat="51.297425" lon="12.0678339"/><trkpt lat="51.2971114" lon="12.0680362"/><trkpt lat="51.2970659" lon="12.0680349"/><trkpt lat="51.2970625" lon="12.0678139"/><trkpt lat="51.2969528" lon="12.0678117"/></trkseg></trk><trk><name>Einkaufszentrum</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:housenumber=3
+addr:postcode=06126
+addr:street=Weststraße
+building=yes
+building:levels=3
+name=Einkaufszentrum
+roof:levels=1
+shop=mall
+wheelchair=limited
+id=way/151632617</desc><trkseg><trkpt lat="51.4793688" lon="11.9035666"/><trkpt lat="51.4793663" lon="11.9043473"/><trkpt lat="51.4793642" lon="11.9050154"/><trkpt lat="51.4795523" lon="11.9050149"/><trkpt lat="51.4796491" lon="11.9050147"/><trkpt lat="51.4796491" lon="11.9049519"/><trkpt lat="51.4797122" lon="11.9049524"/><trkpt lat="51.4797112" lon="11.9047218"/><trkpt lat="51.4797264" lon="11.9046547"/><trkpt lat="51.4797478" lon="11.9046025"/><trkpt lat="51.4797896" lon="11.9045728"/><trkpt lat="51.4798537" lon="11.9045727"/><trkpt lat="51.4798536" lon="11.9043544"/><trkpt lat="51.4798535" lon="11.9040846"/><trkpt lat="51.479815" lon="11.9040847"/><trkpt lat="51.4798149" lon="11.9038372"/><trkpt lat="51.4796178" lon="11.9038374"/><trkpt lat="51.4796121" lon="11.9035615"/><trkpt lat="51.4795487" lon="11.9035628"/><trkpt lat="51.4795482" lon="11.9034211"/><trkpt lat="51.479454" lon="11.9034212"/><trkpt lat="51.479458" lon="11.9035647"/><trkpt lat="51.4793688" lon="11.9035666"/></trkseg></trk><trk><name>way/161404056</name><desc>building=yes
+shop=mall
+id=way/161404056</desc><trkseg><trkpt lat="52.2593639" lon="11.8441204"/><trkpt lat="52.2591368" lon="11.8441111"/><trkpt lat="52.2591361" lon="11.8441565"/><trkpt lat="52.2580004" lon="11.8441101"/><trkpt lat="52.2579959" lon="11.8444085"/><trkpt lat="52.2592539" lon="11.8444598"/><trkpt lat="52.2592533" lon="11.8445021"/><trkpt lat="52.2593585" lon="11.8445064"/><trkpt lat="52.2594073" lon="11.8445084"/><trkpt lat="52.2594086" lon="11.8444239"/><trkpt lat="52.2593593" lon="11.8444219"/><trkpt lat="52.2593639" lon="11.8441204"/></trkseg></trk><trk><name>Kaufland</name><desc>addr:city=Lutherstadt Eisleben
+addr:housenumber=77
+addr:postcode=06295
+addr:street=Hallesche Straße
+building=retail
+name=Kaufland
+opening_hours=Mo-Fr 07:00-22:00; Sa 07:00-20:00; Su,PH off
+phone=+49 3475 71170
+shop=mall
+wheelchair=yes
+id=way/168480999</desc><trkseg><trkpt lat="51.5237038" lon="11.5571779"/><trkpt lat="51.523505" lon="11.557734"/><trkpt lat="51.5233902" lon="11.5580549"/><trkpt lat="51.5241541" lon="11.5586798"/><trkpt lat="51.5241974" lon="11.558552"/><trkpt lat="51.5242856" lon="11.5584946"/><trkpt lat="51.5243596" lon="11.5585397"/><trkpt lat="51.5245859" lon="11.5579076"/><trkpt lat="51.5237038" lon="11.5571779"/></trkseg></trk><trk><name>Einkaufszentrum Schöne Aussicht</name><desc>addr:city=Weißenfels
+addr:housenumber=2
+addr:postcode=06667
+addr:street=Am Marktwege
+building=retail
+name=Einkaufszentrum Schöne Aussicht
+opening_hours=Mo-Sa 09:00-20:00
+operator=CEV Center Entwicklungs- und Verwaltungs-GmbH
+shop=mall
+toilets=yes
+id=way/173690485</desc><trkseg><trkpt lat="51.1846999" lon="11.9256952"/><trkpt lat="51.1838644" lon="11.9255638"/><trkpt lat="51.1838774" lon="11.9253596"/><trkpt lat="51.1836234" lon="11.9253093"/><trkpt lat="51.1836643" lon="11.9247709"/><trkpt lat="51.1836731" lon="11.9245849"/><trkpt lat="51.1835984" lon="11.924574"/><trkpt lat="51.1835929" lon="11.9247573"/><trkpt lat="51.1832244" lon="11.9247003"/><trkpt lat="51.1832412" lon="11.9244949"/><trkpt lat="51.1830117" lon="11.9244673"/><trkpt lat="51.1828828" lon="11.9267276"/><trkpt lat="51.1835336" lon="11.9268164"/><trkpt lat="51.1836349" lon="11.9268246"/><trkpt lat="51.184201" lon="11.9269227"/><trkpt lat="51.1843313" lon="11.9270305"/><trkpt lat="51.1851648" lon="11.9286553"/><trkpt lat="51.1856827" lon="11.9279895"/><trkpt lat="51.1857969" lon="11.9278413"/><trkpt lat="51.1846999" lon="11.9256952"/></trkseg></trk><trk><name>Klia Passage</name><desc>building=yes
+name=Klia Passage
+shop=mall
+id=way/178881726</desc><trkseg><trkpt lat="51.3542516" lon="11.9939578"/><trkpt lat="51.3543333" lon="11.9942239"/><trkpt lat="51.3544793" lon="11.9946996"/><trkpt lat="51.3545891" lon="11.9946122"/><trkpt lat="51.3548416" lon="11.9944113"/><trkpt lat="51.3548024" lon="11.9943773"/><trkpt lat="51.3547764" lon="11.9943398"/><trkpt lat="51.3547412" lon="11.9942781"/><trkpt lat="51.3547094" lon="11.9942084"/><trkpt lat="51.3546876" lon="11.9941412"/><trkpt lat="51.3546646" lon="11.9941603"/><trkpt lat="51.3545876" lon="11.9939039"/><trkpt lat="51.3545756" lon="11.9939104"/><trkpt lat="51.3544955" lon="11.9936489"/><trkpt lat="51.3544598" lon="11.9937081"/><trkpt lat="51.3544452" lon="11.9936625"/><trkpt lat="51.3543585" lon="11.9937211"/><trkpt lat="51.3543953" lon="11.9938606"/><trkpt lat="51.3543719" lon="11.9938772"/><trkpt lat="51.3543468" lon="11.993895"/><trkpt lat="51.3543362" lon="11.993859"/><trkpt lat="51.3542434" lon="11.9939286"/><trkpt lat="51.3542516" lon="11.9939578"/></trkseg></trk><trk><name>Kosmos</name><desc>building=retail
+name=Kosmos
+shop=mall
+id=way/180309572</desc><trkseg><trkpt lat="51.198346" lon="11.943908"/><trkpt lat="51.1983609" lon="11.944232"/><trkpt lat="51.1983861" lon="11.9442304"/><trkpt lat="51.1983931" lon="11.9443608"/><trkpt lat="51.1983709" lon="11.944364"/><trkpt lat="51.1983387" lon="11.9444123"/><trkpt lat="51.198351" lon="11.9446602"/><trkpt lat="51.1983548" lon="11.9447364"/><trkpt lat="51.1983113" lon="11.9447376"/><trkpt lat="51.1982778" lon="11.9447797"/><trkpt lat="51.1982849" lon="11.9449094"/><trkpt lat="51.1983241" lon="11.9449344"/><trkpt lat="51.1983634" lon="11.9449321"/><trkpt lat="51.1983772" lon="11.9452453"/><trkpt lat="51.1982378" lon="11.9452622"/><trkpt lat="51.1982507" lon="11.9454761"/><trkpt lat="51.1984889" lon="11.9454442"/><trkpt lat="51.1984917" lon="11.945533"/><trkpt lat="51.1986999" lon="11.9455034"/><trkpt lat="51.1986871" lon="11.9452781"/><trkpt lat="51.1986571" lon="11.9452804"/><trkpt lat="51.1986235" lon="11.9445687"/><trkpt lat="51.1985915" lon="11.9438898"/><trkpt lat="51.198346" lon="11.943908"/></trkseg></trk><trk><name>Charlottencenter</name><desc>building=yes
+name=Charlottencenter
+shop=mall
+id=way/185080949</desc><trkseg><trkpt lat="51.4803899" lon="11.9791551"/><trkpt lat="51.4803057" lon="11.9791396"/><trkpt lat="51.4802219" lon="11.9791243"/><trkpt lat="51.4798955" lon="11.9794288"/><trkpt lat="51.4799208" lon="11.9795623"/><trkpt lat="51.4798844" lon="11.9795824"/><trkpt lat="51.4800287" lon="11.9803353"/><trkpt lat="51.480054" lon="11.9803266"/><trkpt lat="51.4800714" lon="11.9803206"/><trkpt lat="51.4800867" lon="11.9804041"/><trkpt lat="51.4801011" lon="11.9804822"/><trkpt lat="51.4800782" lon="11.9804924"/><trkpt lat="51.480096" lon="11.9805878"/><trkpt lat="51.4800537" lon="11.9806068"/><trkpt lat="51.4801353" lon="11.9809992"/><trkpt lat="51.4804101" lon="11.9808588"/><trkpt lat="51.4806254" lon="11.9807489"/><trkpt lat="51.4806575" lon="11.9807449"/><trkpt lat="51.4806837" lon="11.9807331"/><trkpt lat="51.480701" lon="11.9806944"/><trkpt lat="51.4806953" lon="11.9806581"/><trkpt lat="51.4806795" lon="11.9806143"/><trkpt lat="51.4805987" lon="11.9801961"/><trkpt lat="51.4805756" lon="11.9802079"/><trkpt lat="51.4805648" lon="11.9801563"/><trkpt lat="51.4805467" lon="11.9800691"/><trkpt lat="51.4805677" lon="11.9800612"/><trkpt lat="51.4803899" lon="11.9791551"/></trkseg></trk><trk><name>Dessau Center</name><desc>amenity=parking
+building=yes
+layer=1
+name=Dessau Center
+parking=multi-storey
+shop=mall
+wheelchair=yes
+id=way/191405093</desc><trkseg><trkpt lat="51.8299447" lon="12.2436947"/><trkpt lat="51.8298403" lon="12.2435913"/><trkpt lat="51.8298297" lon="12.2439021"/><trkpt lat="51.8295743" lon="12.2446027"/><trkpt lat="51.8295467" lon="12.2446696"/><trkpt lat="51.8300174" lon="12.2451415"/><trkpt lat="51.830161" lon="12.2447014"/><trkpt lat="51.830248" lon="12.2444889"/><trkpt lat="51.8304717" lon="12.2441494"/><trkpt lat="51.8304378" lon="12.2441191"/><trkpt lat="51.8302419" lon="12.2439737"/><trkpt lat="51.8299447" lon="12.2436947"/></trkseg></trk><trk><name>Fachmarktzentrum Genthin</name><desc>addr:city=Genthin
+addr:country=DE
+addr:housenumber=4
+addr:postcode=39307
+addr:street=Bergzower Straße
+addr:suburb=Genthin
+landuse=retail
+name=Fachmarktzentrum Genthin
+operator=DEFAMA Deutsche Fachmarkt AG
+shop=mall
+id=way/197562805</desc><trkseg><trkpt lat="52.409404" lon="12.1519427"/><trkpt lat="52.4088115" lon="12.1519641"/><trkpt lat="52.408829" lon="12.1521228"/><trkpt lat="52.4088728" lon="12.1529073"/><trkpt lat="52.4088993" lon="12.1530257"/><trkpt lat="52.4089149" lon="12.1530629"/><trkpt lat="52.4089541" lon="12.1531062"/><trkpt lat="52.4090388" lon="12.1531786"/><trkpt lat="52.4090798" lon="12.1532026"/><trkpt lat="52.4092332" lon="12.1532572"/><trkpt lat="52.4093959" lon="12.1532706"/><trkpt lat="52.4094907" lon="12.1532597"/><trkpt lat="52.4095659" lon="12.1532438"/><trkpt lat="52.4096614" lon="12.1532104"/><trkpt lat="52.4097733" lon="12.1531559"/><trkpt lat="52.4097791" lon="12.1527662"/><trkpt lat="52.4097327" lon="12.1520892"/><trkpt lat="52.4097226" lon="12.1520112"/><trkpt lat="52.4097031" lon="12.151928"/><trkpt lat="52.409404" lon="12.1519427"/></trkseg></trk><trk><name>way/197958560</name><desc>building=retail
+building:levels=1
+name:signed=no
+opening_hours:signed=no
+roof:colour=grey
+roof:shape=flat
+shop=mall
+id=way/197958560</desc><trkseg><trkpt lat="52.5292707" lon="11.4103214"/><trkpt lat="52.5292605" lon="11.4107627"/><trkpt lat="52.5292307" lon="11.4107608"/><trkpt lat="52.5292256" lon="11.4109777"/><trkpt lat="52.5292555" lon="11.4109796"/><trkpt lat="52.5292439" lon="11.4114817"/><trkpt lat="52.5292093" lon="11.4114795"/><trkpt lat="52.5292026" lon="11.4117624"/><trkpt lat="52.5292374" lon="11.4117646"/><trkpt lat="52.529226" lon="11.4122566"/><trkpt lat="52.5292237" lon="11.4123535"/><trkpt lat="52.5294597" lon="11.4123683"/><trkpt lat="52.5294798" lon="11.4115017"/><trkpt lat="52.5295219" lon="11.4115044"/><trkpt lat="52.5295337" lon="11.4110018"/><trkpt lat="52.5294915" lon="11.4109991"/><trkpt lat="52.5295068" lon="11.4103362"/><trkpt lat="52.5295088" lon="11.4102552"/><trkpt lat="52.5294453" lon="11.4102512"/><trkpt lat="52.5294434" lon="11.4103322"/><trkpt lat="52.5292707" lon="11.4103214"/></trkseg></trk><trk><name>Elster Center</name><desc>addr:city=Jessen (Elster)
+addr:housenumber=12g
+addr:postcode=06917
+addr:street=Schlossweg
+building=retail
+name=Elster Center
+shop=mall
+id=way/205230895</desc><trkseg><trkpt lat="51.7866131" lon="12.9602188"/><trkpt lat="51.7864878" lon="12.960585"/><trkpt lat="51.7864602" lon="12.9606656"/><trkpt lat="51.7863007" lon="12.9611366"/><trkpt lat="51.7868622" lon="12.9616386"/><trkpt lat="51.7869812" lon="12.961745"/><trkpt lat="51.7870304" lon="12.9616012"/><trkpt lat="51.7870532" lon="12.9616217"/><trkpt lat="51.7871641" lon="12.9612978"/><trkpt lat="51.7870654" lon="12.9612096"/><trkpt lat="51.7871644" lon="12.9609204"/><trkpt lat="51.7871216" lon="12.9608822"/><trkpt lat="51.7871763" lon="12.9607224"/><trkpt lat="51.7871535" lon="12.960702"/><trkpt lat="51.7866131" lon="12.9602188"/></trkseg></trk><trk><name>Ross-Passage</name><desc>addr:city=Südharz
+addr:country=DE
+addr:housenumber=69
+addr:postcode=06536
+addr:street=Hallesche Straße
+addr:suburb=Roßla
+building=retail
+name=Ross-Passage
+shop=mall
+website=http://www.rosspassage.de
+id=way/220141743</desc><trkseg><trkpt lat="51.4628005" lon="11.0709569"/><trkpt lat="51.4627249" lon="11.0709425"/><trkpt lat="51.4627286" lon="11.0708934"/><trkpt lat="51.462646" lon="11.0708777"/><trkpt lat="51.4626422" lon="11.0709294"/><trkpt lat="51.4625991" lon="11.0709212"/><trkpt lat="51.4625955" lon="11.0709698"/><trkpt lat="51.4623958" lon="11.0709318"/><trkpt lat="51.4623232" lon="11.0719145"/><trkpt lat="51.4625676" lon="11.071961"/><trkpt lat="51.4625639" lon="11.0720108"/><trkpt lat="51.4626307" lon="11.0720235"/><trkpt lat="51.4626344" lon="11.0719734"/><trkpt lat="51.4627221" lon="11.07199"/><trkpt lat="51.4627515" lon="11.0716669"/><trkpt lat="51.4627914" lon="11.0716238"/><trkpt lat="51.4628062" lon="11.0714385"/><trkpt lat="51.4627758" lon="11.0713797"/><trkpt lat="51.4628005" lon="11.0709569"/></trkseg></trk><trk><name>CARAT-Park</name><desc>addr:city=Wittenberg
+addr:country=DE
+addr:housenumber=16
+addr:postcode=06886
+addr:street=Teucheler Weg
+building=yes
+name=CARAT-Park
+shop=mall
+id=way/223718626</desc><trkseg><trkpt lat="51.8819695" lon="12.6494502"/><trkpt lat="51.8817012" lon="12.6494824"/><trkpt lat="51.8816757" lon="12.6491171"/><trkpt lat="51.8816748" lon="12.6491036"/><trkpt lat="51.8816219" lon="12.6491117"/><trkpt lat="51.8816162" lon="12.6490548"/><trkpt lat="51.8815643" lon="12.6490664"/><trkpt lat="51.8815477" lon="12.6491199"/><trkpt lat="51.8809429" lon="12.6492004"/><trkpt lat="51.8809533" lon="12.6493658"/><trkpt lat="51.8808872" lon="12.649376"/><trkpt lat="51.8808839" lon="12.6493293"/><trkpt lat="51.8808096" lon="12.6493349"/><trkpt lat="51.8808112" lon="12.6493834"/><trkpt lat="51.8804826" lon="12.6494252"/><trkpt lat="51.8804985" lon="12.6497507"/><trkpt lat="51.8804273" lon="12.6497583"/><trkpt lat="51.8804419" lon="12.6500152"/><trkpt lat="51.8803744" lon="12.6500159"/><trkpt lat="51.8803477" lon="12.6503125"/><trkpt lat="51.8803704" lon="12.6507732"/><trkpt lat="51.8803817" lon="12.6510776"/><trkpt lat="51.8803555" lon="12.6510799"/><trkpt lat="51.8803747" lon="12.6515142"/><trkpt lat="51.8804468" lon="12.6516151"/><trkpt lat="51.8807893" lon="12.6515777"/><trkpt lat="51.8808522" lon="12.6514543"/><trkpt lat="51.8808144" lon="12.650698"/><trkpt lat="51.8808761" lon="12.6506878"/><trkpt lat="51.8808775" lon="12.6507227"/><trkpt lat="51.8809212" lon="12.6507816"/><trkpt lat="51.8809803" lon="12.6507751"/><trkpt lat="51.8810155" lon="12.6507038"/><trkpt lat="51.8810156" lon="12.6506694"/><trkpt lat="51.8814193" lon="12.6506225"/><trkpt lat="51.8814199" lon="12.6506578"/><trkpt lat="51.8814596" lon="12.6507152"/><trkpt lat="51.8815117" lon="12.6507091"/><trkpt lat="51.8815484" lon="12.6506492"/><trkpt lat="51.8815498" lon="12.650607"/><trkpt lat="51.8816172" lon="12.6505939"/><trkpt lat="51.8816248" lon="12.6505815"/><trkpt lat="51.8816198" lon="12.650478"/><trkpt lat="51.8818845" lon="12.6504492"/><trkpt lat="51.8819462" lon="12.6503352"/><trkpt lat="51.8819319" lon="12.6501078"/><trkpt lat="51.8819949" lon="12.6499996"/><trkpt lat="51.8819695" lon="12.6494502"/></trkseg></trk><trk><name>HansePark</name><desc>addr:city=Tangermünde
+addr:country=DE
+addr:housenumber=11
+addr:postcode=39590
+addr:street=Kirschallee
+landuse=retail
+name=HansePark
+shop=mall
+id=way/256946362</desc><trkseg><trkpt lat="52.5474584" lon="11.9650148"/><trkpt lat="52.5468702" lon="11.9659322"/><trkpt lat="52.5472235" lon="11.9665625"/><trkpt lat="52.547233" lon="11.9665794"/><trkpt lat="52.5472416" lon="11.9665942"/><trkpt lat="52.5480911" lon="11.9680608"/><trkpt lat="52.5484496" lon="11.9686858"/><trkpt lat="52.5487565" lon="11.9692074"/><trkpt lat="52.5495803" lon="11.9664208"/><trkpt lat="52.5493308" lon="11.9659983"/><trkpt lat="52.5489786" lon="11.965398"/><trkpt lat="52.5480798" lon="11.9638718"/><trkpt lat="52.5472262" lon="11.9645095"/><trkpt lat="52.5472129" lon="11.964519"/><trkpt lat="52.5471839" lon="11.9645395"/><trkpt lat="52.5472532" lon="11.9646534"/><trkpt lat="52.547418" lon="11.9649448"/><trkpt lat="52.5474584" lon="11.9650148"/></trkseg></trk><trk><name>Brühl-Center</name><desc>addr:city=Zeitz
+building=yes
+name=Brühl-Center
+shop=mall
+website=https://www.wbg-zeitz.de/bruehl-center.html
+id=way/274985300</desc><trkseg><trkpt lat="51.0495692" lon="12.1287821"/><trkpt lat="51.0495202" lon="12.1287966"/><trkpt lat="51.0495456" lon="12.1290993"/><trkpt lat="51.0496384" lon="12.1290725"/><trkpt lat="51.0496333" lon="12.1290162"/><trkpt lat="51.0498895" lon="12.1289361"/><trkpt lat="51.050108" lon="12.129045"/><trkpt lat="51.0500913" lon="12.1291235"/><trkpt lat="51.0501765" lon="12.1291632"/><trkpt lat="51.0502124" lon="12.1289803"/><trkpt lat="51.0501594" lon="12.1288231"/><trkpt lat="51.050116" lon="12.1288019"/><trkpt lat="51.0500985" lon="12.1284638"/><trkpt lat="51.050144" lon="12.1284603"/><trkpt lat="51.0501872" lon="12.1282344"/><trkpt lat="51.0500297" lon="12.1281798"/><trkpt lat="51.0500286" lon="12.1281983"/><trkpt lat="51.049941" lon="12.1281886"/><trkpt lat="51.0498417" lon="12.1281859"/><trkpt lat="51.0497358" lon="12.1282009"/><trkpt lat="51.0496754" lon="12.1282115"/><trkpt lat="51.0496726" lon="12.128163"/><trkpt lat="51.0494613" lon="12.1282274"/><trkpt lat="51.0494814" lon="12.1283955"/><trkpt lat="51.0495065" lon="12.1283855"/><trkpt lat="51.0495206" lon="12.1284878"/><trkpt lat="51.0495528" lon="12.128474"/><trkpt lat="51.0495692" lon="12.1287821"/></trkseg></trk><trk><name>Saline Passage</name><desc>addr:housename=Saline Passage
+addr:housenumber=13
+addr:postcode=06231
+addr:street=Soleweg
+building=retail
+name=Saline Passage
+shop=mall
+wheelchair=yes
+id=way/298776138</desc><trkseg><trkpt lat="51.2970117" lon="12.0677885"/><trkpt lat="51.2970109" lon="12.0672956"/><trkpt lat="51.2969364" lon="12.0672958"/><trkpt lat="51.2969359" lon="12.0669939"/><trkpt lat="51.2968257" lon="12.0669943"/><trkpt lat="51.2968267" lon="12.0677162"/><trkpt lat="51.2968269" lon="12.0678076"/><trkpt lat="51.2969065" lon="12.0678073"/><trkpt lat="51.2969065" lon="12.0677889"/><trkpt lat="51.2970117" lon="12.0677885"/></trkseg></trk><trk><name>way/328908480</name><desc>building=yes
+shop=mall
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/328908480</desc><trkseg><trkpt lat="52.2595616" lon="11.8449534"/><trkpt lat="52.2595021" lon="11.8449512"/><trkpt lat="52.2594961" lon="11.8453829"/><trkpt lat="52.2594833" lon="11.8463162"/><trkpt lat="52.2593778" lon="11.8463124"/><trkpt lat="52.2593713" lon="11.8467841"/><trkpt lat="52.2594458" lon="11.8467868"/><trkpt lat="52.2594438" lon="11.8469363"/><trkpt lat="52.2595342" lon="11.8469396"/><trkpt lat="52.2595616" lon="11.8449534"/></trkseg></trk><trk><name>way/331897813</name><desc>building=yes
+shop=mall
+wheelchair=yes
+id=way/331897813</desc><trkseg><trkpt lat="51.5125001" lon="11.5746765"/><trkpt lat="51.5127913" lon="11.5748372"/><trkpt lat="51.5130854" lon="11.5734616"/><trkpt lat="51.5126759" lon="11.5732355"/><trkpt lat="51.5123818" lon="11.574611"/><trkpt lat="51.5124395" lon="11.5746428"/><trkpt lat="51.5125001" lon="11.5746765"/></trkseg></trk><trk><name>way/331897839</name><desc>building=yes
+shop=mall
+wheelchair=yes
+id=way/331897839</desc><trkseg><trkpt lat="51.5125052" lon="11.573513"/><trkpt lat="51.5122787" lon="11.5733916"/><trkpt lat="51.5120452" lon="11.5745169"/><trkpt lat="51.5120986" lon="11.5745455"/><trkpt lat="51.5122717" lon="11.5746383"/><trkpt lat="51.5125052" lon="11.573513"/></trkseg></trk><trk><name>Eisleber-Einkaufs-Erlebnis</name><desc>building=yes
+name=Eisleber-Einkaufs-Erlebnis
+shop=mall
+wheelchair=yes
+id=way/331897861</desc><trkseg><trkpt lat="51.5120775" lon="11.5746125"/><trkpt lat="51.5119567" lon="11.5747239"/><trkpt lat="51.5120201" lon="11.5749325"/><trkpt lat="51.5121206" lon="11.5749416"/><trkpt lat="51.512152" lon="11.5748408"/><trkpt lat="51.512164" lon="11.5748022"/><trkpt lat="51.5120775" lon="11.5746125"/></trkseg></trk><trk><name>Regioshop und Kulturhalle "Typisch Harz"</name><desc>building=yes
+contact:website=https://harzdrenalin.de/kaufhaus-typisch-harz/
+name=Regioshop und Kulturhalle "Typisch Harz"
+shop=mall
+toilets=yes
+id=way/337341689</desc><trkseg><trkpt lat="51.742879" lon="10.8883742"/><trkpt lat="51.7427252" lon="10.888369"/><trkpt lat="51.74269" lon="10.8883678"/><trkpt lat="51.7426893" lon="10.8884201"/><trkpt lat="51.7426839" lon="10.8888485"/><trkpt lat="51.7428728" lon="10.8888548"/><trkpt lat="51.742879" lon="10.8883742"/></trkseg></trk><trk><name>way/375153187</name><desc>addr:city=Zerbst/Anhalt
+addr:country=DE
+addr:housenumber=23
+addr:postcode=39261
+addr:street=Jütrichauer Straße
+building=yes
+shop=mall
+toilets:wheelchair=no
+wheelchair=yes
+id=way/375153187</desc><trkseg><trkpt lat="51.9631643" lon="12.0973737"/><trkpt lat="51.9625845" lon="12.0973523"/><trkpt lat="51.9625779" lon="12.097827"/><trkpt lat="51.9631" lon="12.0978463"/><trkpt lat="51.9631032" lon="12.0976145"/><trkpt lat="51.9631609" lon="12.0976166"/><trkpt lat="51.9631643" lon="12.0973737"/></trkseg></trk><trk><name>City-Center</name><desc>addr:city=Genthin
+addr:country=DE
+addr:housenumber=40-44
+addr:postcode=39307
+addr:street=Brandenburger Straße
+addr:suburb=Genthin
+building=yes
+name=City-Center
+shop=mall
+id=way/391674575</desc><trkseg><trkpt lat="52.4054614" lon="12.1572394"/><trkpt lat="52.4054606" lon="12.1572931"/><trkpt lat="52.4054097" lon="12.1572931"/><trkpt lat="52.4054108" lon="12.1574398"/><trkpt lat="52.4055697" lon="12.157436"/><trkpt lat="52.4055701" lon="12.1574906"/><trkpt lat="52.4055603" lon="12.1574902"/><trkpt lat="52.405561" lon="12.1575636"/><trkpt lat="52.4057182" lon="12.157548"/><trkpt lat="52.4059912" lon="12.1576175"/><trkpt lat="52.4059966" lon="12.1571375"/><trkpt lat="52.4055128" lon="12.1572291"/><trkpt lat="52.4054614" lon="12.1572394"/></trkseg></trk><trk><name>Flora Park</name><desc>addr:city=Magdeburg
+addr:country=DE
+addr:housenumber=37
+addr:postcode=39128
+addr:street=Olvenstedter Graseweg
+building=yes
+email=info@florapark-center.de
+fax=+49 391 5441351 29
+internet_access=wlan
+name=Flora Park
+opening_hours=Mo-Sa 09:30-20:00
+phone=+49 391 5441351 10
+shop=mall
+toilets=yes
+website=https://florapark-center.de/
+wikidata=Q15110767
+wikipedia=de:Florapark (Einkaufszentrum)
+id=way/427389192</desc><trkseg><trkpt lat="52.1609136" lon="11.6061648"/><trkpt lat="52.1609011" lon="11.606135"/><trkpt lat="52.1608806" lon="11.606121"/><trkpt lat="52.1608588" lon="11.6061272"/><trkpt lat="52.1608425" lon="11.6061516"/><trkpt lat="52.1608369" lon="11.6061866"/><trkpt lat="52.1608437" lon="11.6062209"/><trkpt lat="52.1608609" lon="11.6062438"/><trkpt lat="52.1608829" lon="11.6062479"/><trkpt lat="52.1608867" lon="11.6062449"/><trkpt lat="52.1609028" lon="11.6062319"/><trkpt lat="52.1609142" lon="11.6062009"/><trkpt lat="52.1609412" lon="11.6061987"/><trkpt lat="52.160957" lon="11.6067459"/><trkpt lat="52.1609284" lon="11.6067458"/><trkpt lat="52.16091" lon="11.6067125"/><trkpt lat="52.1608976" lon="11.6067097"/><trkpt lat="52.1608828" lon="11.6067064"/><trkpt lat="52.1608595" lon="11.6067302"/><trkpt lat="52.1608573" lon="11.6067414"/><trkpt lat="52.1608511" lon="11.6067728"/><trkpt lat="52.1608567" lon="11.6067993"/><trkpt lat="52.1608614" lon="11.6068143"/><trkpt lat="52.1608834" lon="11.6068401"/><trkpt lat="52.1609032" lon="11.6068309"/><trkpt lat="52.1609126" lon="11.6068258"/><trkpt lat="52.1609294" lon="11.6067905"/><trkpt lat="52.1609576" lon="11.6067882"/><trkpt lat="52.1609744" lon="11.6072996"/><trkpt lat="52.1610797" lon="11.6072933"/><trkpt lat="52.1610793" lon="11.6072764"/><trkpt lat="52.1611213" lon="11.6072735"/><trkpt lat="52.161122" lon="11.6073015"/><trkpt lat="52.1611615" lon="11.6072988"/><trkpt lat="52.1612108" lon="11.6072953"/><trkpt lat="52.16121" lon="11.6072667"/><trkpt lat="52.1612233" lon="11.6072657"/><trkpt lat="52.1612227" lon="11.6072417"/><trkpt lat="52.1612315" lon="11.6072411"/><trkpt lat="52.1612397" lon="11.6075247"/><trkpt lat="52.1613546" lon="11.6075197"/><trkpt lat="52.1613546" lon="11.6074848"/><trkpt lat="52.1616795" lon="11.607467"/><trkpt lat="52.1616789" lon="11.6073122"/><trkpt lat="52.1616787" lon="11.6072434"/><trkpt lat="52.1617939" lon="11.607234"/><trkpt lat="52.1617923" lon="11.6071656"/><trkpt lat="52.1618529" lon="11.6071598"/><trkpt lat="52.1618447" lon="11.6067752"/><trkpt lat="52.1618724" lon="11.6067733"/><trkpt lat="52.1618685" lon="11.6066247"/><trkpt lat="52.1618409" lon="11.6066265"/><trkpt lat="52.1618282" lon="11.6061894"/><trkpt lat="52.1618561" lon="11.6061889"/><trkpt lat="52.1618519" lon="11.6060431"/><trkpt lat="52.1618241" lon="11.6060452"/><trkpt lat="52.161812" lon="11.6056072"/><trkpt lat="52.1618392" lon="11.6056052"/><trkpt lat="52.1618351" lon="11.6054595"/><trkpt lat="52.1618318" lon="11.6053127"/><trkpt lat="52.1618036" lon="11.6053149"/><trkpt lat="52.1617953" lon="11.6050238"/><trkpt lat="52.1618224" lon="11.6050218"/><trkpt lat="52.1618184" lon="11.604876"/><trkpt lat="52.1617919" lon="11.6048779"/><trkpt lat="52.1617786" lon="11.60444"/><trkpt lat="52.1618062" lon="11.6044377"/><trkpt lat="52.161802" lon="11.6042917"/><trkpt lat="52.1617748" lon="11.6042936"/><trkpt lat="52.1617629" lon="11.6038562"/><trkpt lat="52.1617894" lon="11.6038539"/><trkpt lat="52.1617853" lon="11.6037076"/><trkpt lat="52.1617587" lon="11.6037096"/><trkpt lat="52.1617496" lon="11.6034111"/><trkpt lat="52.1615662" lon="11.6034242"/><trkpt lat="52.1615648" lon="11.60338"/><trkpt lat="52.1614753" lon="11.603387"/><trkpt lat="52.161476" lon="11.6034314"/><trkpt lat="52.1610275" lon="11.6034654"/><trkpt lat="52.1610266" lon="11.6034209"/><trkpt lat="52.1609369" lon="11.603425"/><trkpt lat="52.1609382" lon="11.6034717"/><trkpt lat="52.1605796" lon="11.6034978"/><trkpt lat="52.1603994" lon="11.6035109"/><trkpt lat="52.1603979" lon="11.6034677"/><trkpt lat="52.160308" lon="11.6034743"/><trkpt lat="52.1603092" lon="11.6035176"/><trkpt lat="52.1601303" lon="11.6035306"/><trkpt lat="52.1601286" lon="11.6034883"/><trkpt lat="52.1600389" lon="11.6034949"/><trkpt lat="52.1600401" lon="11.6035374"/><trkpt lat="52.1594167" lon="11.6035845"/><trkpt lat="52.1594118" lon="11.6034396"/><trkpt lat="52.1593227" lon="11.6034444"/><trkpt lat="52.1593201" lon="11.6033614"/><trkpt lat="52.1592202" lon="11.6033691"/><trkpt lat="52.1592227" lon="11.6034524"/><trkpt lat="52.1589546" lon="11.6034739"/><trkpt lat="52.1589102" lon="11.6034775"/><trkpt lat="52.1588742" lon="11.6034804"/><trkpt lat="52.1588718" lon="11.6033952"/><trkpt lat="52.1587272" lon="11.603407"/><trkpt lat="52.1587298" lon="11.6034914"/><trkpt lat="52.1586849" lon="11.6034948"/><trkpt lat="52.1586974" lon="11.6039296"/><trkpt lat="52.1586448" lon="11.6039337"/><trkpt lat="52.1586493" lon="11.6040967"/><trkpt lat="52.1587017" lon="11.6040936"/><trkpt lat="52.158718" lon="11.6046608"/><trkpt lat="52.1586657" lon="11.6046651"/><trkpt lat="52.1586703" lon="11.6048278"/><trkpt lat="52.1587231" lon="11.6048238"/><trkpt lat="52.158765" lon="11.6062811"/><trkpt lat="52.1588682" lon="11.6062731"/><trkpt lat="52.1594769" lon="11.6062257"/><trkpt lat="52.1595398" lon="11.606223"/><trkpt lat="52.1596061" lon="11.6062165"/><trkpt lat="52.1596064" lon="11.606231"/><trkpt lat="52.1597373" lon="11.6062222"/><trkpt lat="52.1597295" lon="11.6058588"/><trkpt lat="52.1597558" lon="11.6058557"/><trkpt lat="52.1597791" lon="11.6058887"/><trkpt lat="52.15981" lon="11.605885"/><trkpt lat="52.1598302" lon="11.6058469"/><trkpt lat="52.159828" lon="11.6057967"/><trkpt lat="52.1598046" lon="11.6057637"/><trkpt lat="52.1597738" lon="11.6057674"/><trkpt lat="52.1597535" lon="11.6058055"/><trkpt lat="52.1597283" lon="11.6058085"/><trkpt lat="52.1597116" lon="11.6052964"/><trkpt lat="52.1597623" lon="11.6052917"/><trkpt lat="52.1597634" lon="11.6053414"/><trkpt lat="52.1597448" lon="11.6053801"/><trkpt lat="52.1597484" lon="11.6054289"/><trkpt lat="52.1597721" lon="11.6054593"/><trkpt lat="52.1598021" lon="11.6054535"/><trkpt lat="52.1598207" lon="11.6054148"/><trkpt lat="52.1598171" lon="11.6053659"/><trkpt lat="52.1597934" lon="11.6053355"/><trkpt lat="52.1597919" lon="11.6052893"/><trkpt lat="52.1601215" lon="11.6052657"/><trkpt lat="52.1601225" lon="11.6053095"/><trkpt lat="52.1601002" lon="11.605343"/><trkpt lat="52.1600997" lon="11.6053923"/><trkpt lat="52.1601212" lon="11.605427"/><trkpt lat="52.1601515" lon="11.6054256"/><trkpt lat="52.1601718" lon="11.605389"/><trkpt lat="52.1601696" lon="11.6053398"/><trkpt lat="52.1601462" lon="11.6053084"/><trkpt lat="52.1601448" lon="11.605264"/><trkpt lat="52.1603111" lon="11.6052516"/><trkpt lat="52.1604813" lon="11.6052389"/><trkpt lat="52.1604826" lon="11.605284"/><trkpt lat="52.1604613" lon="11.6053184"/><trkpt lat="52.1604618" lon="11.6053672"/><trkpt lat="52.1604838" lon="11.6054003"/><trkpt lat="52.1605137" lon="11.6053972"/><trkpt lat="52.160533" lon="11.6053599"/><trkpt lat="52.1605298" lon="11.6053114"/><trkpt lat="52.160506" lon="11.6052816"/><trkpt lat="52.1605046" lon="11.6052371"/><trkpt lat="52.1608408" lon="11.605212"/><trkpt lat="52.1608418" lon="11.6052552"/><trkpt lat="52.1608187" lon="11.6052857"/><trkpt lat="52.1608163" lon="11.6053341"/><trkpt lat="52.1608361" lon="11.6053704"/><trkpt lat="52.1608659" lon="11.6053721"/><trkpt lat="52.1608872" lon="11.6053381"/><trkpt lat="52.1608868" lon="11.6052895"/><trkpt lat="52.160865" lon="11.6052564"/><trkpt lat="52.1608641" lon="11.6052102"/><trkpt lat="52.1609147" lon="11.6052065"/><trkpt lat="52.1609277" lon="11.6057305"/><trkpt lat="52.1608995" lon="11.6057318"/><trkpt lat="52.1608837" lon="11.6056999"/><trkpt lat="52.160859" lon="11.6056921"/><trkpt lat="52.160837" lon="11.605712"/><trkpt lat="52.160828" lon="11.6057502"/><trkpt lat="52.1608362" lon="11.605789"/><trkpt lat="52.1608578" lon="11.6058101"/><trkpt lat="52.1608747" lon="11.6058057"/><trkpt lat="52.1608826" lon="11.6058037"/><trkpt lat="52.1608991" lon="11.6057727"/><trkpt lat="52.1609289" lon="11.6057704"/><trkpt lat="52.1609401" lon="11.6061635"/><trkpt lat="52.1609136" lon="11.6061648"/></trkseg></trk><trk><name>Halle Leipzig The Style Outlets</name><desc>addr:city=Sandersdorf-Brehna
+addr:country=DE
+addr:housenumber=1
+addr:postcode=06796
+addr:street=Thiemendorfer Mark
+addr:suburb=Brehna
+brand=The Style Outlets
+brand:wikidata=Q129029344
+building=retail
+building:levels=1
+internet_access=wlan
+internet_access:fee=no
+name=Halle Leipzig The Style Outlets
+old_name=Fashion Outlet Halle Leipzig
+opening_hours=10:00-20:00
+operator=Immobilien und Treuhand GmbH
+operator:short=ITG GmbH
+shop=mall
+toilets=yes
+website=https://halle.leipzig.thestyleoutlets.de/
+wheelchair=yes
+wikidata=Q129035547
+id=way/451070814</desc><trkseg><trkpt lat="51.5551402" lon="12.1929797"/><trkpt lat="51.5548478" lon="12.1920307"/><trkpt lat="51.5545897" lon="12.191193"/><trkpt lat="51.5538751" lon="12.1917625"/><trkpt lat="51.5536624" lon="12.1919321"/><trkpt lat="51.5536116" lon="12.1917673"/><trkpt lat="51.5534847" lon="12.1918685"/><trkpt lat="51.5535355" lon="12.1920336"/><trkpt lat="51.5532103" lon="12.1922928"/><trkpt lat="51.5526781" lon="12.192717"/><trkpt lat="51.5532248" lon="12.1944912"/><trkpt lat="51.5535615" lon="12.1942229"/><trkpt lat="51.553579" lon="12.1942795"/><trkpt lat="51.5541333" lon="12.1938377"/><trkpt lat="51.5540218" lon="12.1934758"/><trkpt lat="51.554123" lon="12.1933951"/><trkpt lat="51.5542291" lon="12.1937397"/><trkpt lat="51.5544811" lon="12.1935389"/><trkpt lat="51.5544727" lon="12.1935117"/><trkpt lat="51.5551402" lon="12.1929797"/></trkseg></trk><trk><name>way/490943051</name><desc>building=yes
+shop=mall
+id=way/490943051</desc><trkseg><trkpt lat="51.7937298" lon="12.9688984"/><trkpt lat="51.7936413" lon="12.9686125"/><trkpt lat="51.7935769" lon="12.968669"/><trkpt lat="51.7935382" lon="12.9690998"/><trkpt lat="51.7934773" lon="12.9691523"/><trkpt lat="51.7935416" lon="12.9693493"/><trkpt lat="51.7937086" lon="12.969205"/><trkpt lat="51.7936923" lon="12.9691521"/><trkpt lat="51.7937129" lon="12.9689117"/><trkpt lat="51.7937298" lon="12.9688984"/></trkseg></trk><trk><name>Glasmanufaktur Harzkristall</name><desc>addr:city=Derenburg
+addr:country=DE
+addr:housenumber=5
+addr:postcode=38895
+addr:street=Im Freien Felde
+building=retail
+building:levels=2
+email=info@harzkristall.de
+name=Glasmanufaktur Harzkristall
+opening_hours=Jan-Mar: Mo-Su 10:00-17:00; Apr-Dec: Mo-Su 10:00-18:00
+phone=+49 39453 6800
+roof:levels=0
+shop=mall
+toilets=no
+toilets:wheelchair=yes
+tourism=attraction
+website=https://www.harzkristall.de
+wheelchair=yes
+id=way/554665215</desc><trkseg><trkpt lat="51.8670761" lon="10.8799129"/><trkpt lat="51.8672727" lon="10.8800818"/><trkpt lat="51.8673754" lon="10.8797724"/><trkpt lat="51.8673398" lon="10.8797414"/><trkpt lat="51.8671764" lon="10.8796066"/><trkpt lat="51.8670761" lon="10.8799129"/></trkseg></trk><trk><name>Muldepark</name><desc>addr:city=Bitterfeld-Wolfen
+addr:housenumber=75
+addr:postcode=06766
+addr:street=Friedensstraße
+landuse=retail
+name=Muldepark
+shop=mall
+id=way/558803008</desc><trkseg><trkpt lat="51.6961716" lon="12.2611304"/><trkpt lat="51.6957079" lon="12.2573943"/><trkpt lat="51.6953123" lon="12.2575976"/><trkpt lat="51.695214" lon="12.2569349"/><trkpt lat="51.6936063" lon="12.2577236"/><trkpt lat="51.6936336" lon="12.258237"/><trkpt lat="51.693893" lon="12.2598061"/><trkpt lat="51.6942816" lon="12.2626997"/><trkpt lat="51.6961716" lon="12.2611304"/></trkseg></trk><trk><name>Nahversogungszentrum Am Treff</name><desc>addr:city=Halle (Saale)
+addr:housenumber=31
+addr:postcode=06124
+addr:street=Richard-Paulick-Straße
+building=yes
+name=Nahversogungszentrum Am Treff
+operator=GTB Real Estate
+shop=mall
+source=local knowledge
+id=way/738818000</desc><trkseg><trkpt lat="51.4770979" lon="11.9313241"/><trkpt lat="51.4770597" lon="11.9310539"/><trkpt lat="51.4768749" lon="11.9297456"/><trkpt lat="51.4767891" lon="11.929138"/><trkpt lat="51.4761585" lon="11.9293665"/><trkpt lat="51.4762345" lon="11.9299334"/><trkpt lat="51.4763215" lon="11.9299053"/><trkpt lat="51.4763256" lon="11.9299333"/><trkpt lat="51.4763292" lon="11.9299585"/><trkpt lat="51.4766031" lon="11.9298643"/><trkpt lat="51.4767475" lon="11.9308838"/><trkpt lat="51.4766383" lon="11.9309184"/><trkpt lat="51.4767006" lon="11.9313711"/><trkpt lat="51.4767655" lon="11.9313537"/><trkpt lat="51.4767755" lon="11.931435"/><trkpt lat="51.4770979" lon="11.9313241"/></trkseg></trk><trk><name>Ehle-Center</name><desc>addr:city=Gommern
+addr:country=DE
+addr:housenumber=2
+addr:postcode=39245
+addr:street=Im Gewerbepark
+landuse=retail
+name=Ehle-Center
+shop=mall
+id=way/817243530</desc><trkseg><trkpt lat="52.0816482" lon="11.8148346"/><trkpt lat="52.081755" lon="11.8144681"/><trkpt lat="52.0817079" lon="11.8144261"/><trkpt lat="52.0816801" lon="11.8143808"/><trkpt lat="52.0816461" lon="11.8142653"/><trkpt lat="52.0816449" lon="11.8142548"/><trkpt lat="52.0816401" lon="11.8142271"/><trkpt lat="52.0816365" lon="11.8141893"/><trkpt lat="52.0816365" lon="11.8141339"/><trkpt lat="52.0816461" lon="11.814018"/><trkpt lat="52.0817014" lon="11.8134589"/><trkpt lat="52.081701" lon="11.8134245"/><trkpt lat="52.0816976" lon="11.8133926"/><trkpt lat="52.081689" lon="11.8133633"/><trkpt lat="52.0816791" lon="11.8133426"/><trkpt lat="52.0816681" lon="11.813329"/><trkpt lat="52.0816465" lon="11.8133122"/><trkpt lat="52.0815983" lon="11.8132941"/><trkpt lat="52.0815808" lon="11.8132897"/><trkpt lat="52.081578" lon="11.8133203"/><trkpt lat="52.0815317" lon="11.8133088"/><trkpt lat="52.0815347" lon="11.8132766"/><trkpt lat="52.081107" lon="11.8131707"/><trkpt lat="52.0810151" lon="11.8131508"/><trkpt lat="52.0809723" lon="11.8131398"/><trkpt lat="52.0809575" lon="11.8131362"/><trkpt lat="52.08086" lon="11.813111"/><trkpt lat="52.0808083" lon="11.8130976"/><trkpt lat="52.0805962" lon="11.8130427"/><trkpt lat="52.0805781" lon="11.8130376"/><trkpt lat="52.080433" lon="11.8129973"/><trkpt lat="52.0804174" lon="11.812993"/><trkpt lat="52.0797751" lon="11.8128319"/><trkpt lat="52.079745" lon="11.8128244"/><trkpt lat="52.0796598" lon="11.812803"/><trkpt lat="52.0795739" lon="11.8127817"/><trkpt lat="52.079578" lon="11.8128034"/><trkpt lat="52.079579" lon="11.8128266"/><trkpt lat="52.0794339" lon="11.8143566"/><trkpt lat="52.0793781" lon="11.8148756"/><trkpt lat="52.0794247" lon="11.8148869"/><trkpt lat="52.0797362" lon="11.8149515"/><trkpt lat="52.0805177" lon="11.8151376"/><trkpt lat="52.0811629" lon="11.8153006"/><trkpt lat="52.0812666" lon="11.8153341"/><trkpt lat="52.0815462" lon="11.8150168"/><trkpt lat="52.0816482" lon="11.8148346"/></trkseg></trk><trk><name>Stadtcenter Rolltreppe</name><desc>addr:city=Halle (Saale)
+addr:country=DE
+addr:housenumber=57-60
+addr:postcode=06108
+addr:street=Große Ulrichstraße
+building=retail
+name=Stadtcenter Rolltreppe
+opening_hours=Mo-Sa 08:00-20:30
+payment:cash=yes
+payment:coins=yes
+payment:credit_cards=yes
+payment:debit_cards=yes
+payment:girocard=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:notes=yes
+payment:visa=yes
+shop=mall
+wheelchair=yes
+id=way/1176328637</desc><trkseg><trkpt lat="51.483915" lon="11.9703691"/><trkpt lat="51.4839248" lon="11.9704323"/><trkpt lat="51.4841407" lon="11.970414"/><trkpt lat="51.4843815" lon="11.9703866"/><trkpt lat="51.4845495" lon="11.9703742"/><trkpt lat="51.4846608" lon="11.9703338"/><trkpt lat="51.4846334" lon="11.9701096"/><trkpt lat="51.4846204" lon="11.9700211"/><trkpt lat="51.4846578" lon="11.9700072"/><trkpt lat="51.4847355" lon="11.969978"/><trkpt lat="51.4847237" lon="11.9698847"/><trkpt lat="51.4847199" lon="11.969898"/><trkpt lat="51.4847131" lon="11.9699071"/><trkpt lat="51.4847066" lon="11.969909"/><trkpt lat="51.4846991" lon="11.969908"/><trkpt lat="51.4846918" lon="11.9699007"/><trkpt lat="51.4846882" lon="11.9698909"/><trkpt lat="51.4846872" lon="11.9698847"/><trkpt lat="51.4845639" lon="11.9699274"/><trkpt lat="51.4845476" lon="11.9698272"/><trkpt lat="51.4844946" lon="11.9698466"/><trkpt lat="51.4844998" lon="11.9699457"/><trkpt lat="51.4844473" lon="11.969958"/><trkpt lat="51.4844443" lon="11.9698737"/><trkpt lat="51.4844396" lon="11.9698747"/><trkpt lat="51.4844349" lon="11.9697594"/><trkpt lat="51.4844088" lon="11.9697629"/><trkpt lat="51.4843987" lon="11.969746"/><trkpt lat="51.4843574" lon="11.9697515"/><trkpt lat="51.4843592" lon="11.9697825"/><trkpt lat="51.4843202" lon="11.9697855"/><trkpt lat="51.4843167" lon="11.9697312"/><trkpt lat="51.4843191" lon="11.9697305"/><trkpt lat="51.4843186" lon="11.9697253"/><trkpt lat="51.4843107" lon="11.9697267"/><trkpt lat="51.4843085" lon="11.9696918"/><trkpt lat="51.4843123" lon="11.9696908"/><trkpt lat="51.4843009" lon="11.9696125"/><trkpt lat="51.4842937" lon="11.9695474"/><trkpt lat="51.484062" lon="11.9695736"/><trkpt lat="51.484062" lon="11.9695836"/><trkpt lat="51.4840023" lon="11.9695902"/><trkpt lat="51.4840029" lon="11.9696036"/><trkpt lat="51.4839316" lon="11.9696114"/><trkpt lat="51.483932" lon="11.9696259"/><trkpt lat="51.4839202" lon="11.969629"/><trkpt lat="51.4839058" lon="11.9696374"/><trkpt lat="51.4838911" lon="11.9696506"/><trkpt lat="51.4838788" lon="11.9696661"/><trkpt lat="51.4838632" lon="11.9696428"/><trkpt lat="51.4838507" lon="11.9696699"/><trkpt lat="51.4838387" lon="11.969696"/><trkpt lat="51.4838317" lon="11.9697218"/><trkpt lat="51.4838272" lon="11.9697483"/><trkpt lat="51.4838259" lon="11.9697773"/><trkpt lat="51.4838272" lon="11.969806"/><trkpt lat="51.4838325" lon="11.9698374"/><trkpt lat="51.483839" lon="11.9698676"/><trkpt lat="51.4838486" lon="11.9698934"/><trkpt lat="51.4838612" lon="11.969915"/><trkpt lat="51.4838662" lon="11.9699124"/><trkpt lat="51.4838716" lon="11.9699457"/><trkpt lat="51.4838483" lon="11.9699543"/><trkpt lat="51.483915" lon="11.9703691"/></trkseg></trk><trk><name>Heuweg-Center</name><desc>addr:city=Weißenfels
+addr:housenumber=135
+addr:postcode=06667
+addr:street=Merseburger Straße
+building=retail
+check_date=2024-08-20
+name=Heuweg-Center
+shop=mall
+toilets=yes
+wheelchair=yes
+id=way/1228930342</desc><trkseg><trkpt lat="51.2184775" lon="11.9677588"/><trkpt lat="51.218425" lon="11.9685433"/><trkpt lat="51.2188876" lon="11.9686263"/><trkpt lat="51.2189637" lon="11.9674575"/><trkpt lat="51.2190979" lon="11.9674876"/><trkpt lat="51.219055" lon="11.9663499"/><trkpt lat="51.2188692" lon="11.9663117"/><trkpt lat="51.2188419" lon="11.9662438"/><trkpt lat="51.2188003" lon="11.9662752"/><trkpt lat="51.2187996" lon="11.9663056"/><trkpt lat="51.2187629" lon="11.9662976"/><trkpt lat="51.2187938" lon="11.9658747"/><trkpt lat="51.2189092" lon="11.9659011"/><trkpt lat="51.2190301" lon="11.9657784"/><trkpt lat="51.2189885" lon="11.9647491"/><trkpt lat="51.2185164" lon="11.9646543"/><trkpt lat="51.2184646" lon="11.965263"/><trkpt lat="51.2184341" lon="11.9652529"/><trkpt lat="51.2184266" lon="11.9652973"/><trkpt lat="51.2184253" lon="11.965328"/><trkpt lat="51.2184572" lon="11.9653312"/><trkpt lat="51.2184229" lon="11.9657932"/><trkpt lat="51.2184018" lon="11.9657881"/><trkpt lat="51.2182473" lon="11.9676763"/><trkpt lat="51.2183678" lon="11.9677085"/><trkpt lat="51.2183734" lon="11.9676695"/><trkpt lat="51.2184847" lon="11.9676934"/><trkpt lat="51.2184775" lon="11.9677588"/></trkseg></trk><trk><name>Merse-Center</name><desc>addr:city=Merseburg
+addr:country=DE
+addr:housenumber=4
+addr:postcode=06217
+addr:street=Querfurter Straße
+building=retail
+contact:email=verwaltung@mersecenter.de
+contact:fax=+49 3461 203909
+contact:phone=+49 3461 203900
+name=Merse-Center
+opening_hours=Mo-Fr 09:00-19:00; Sa 09:00-16:00
+operator=DTU Immobilien GmbH
+shop=mall
+start_date=1993
+website=https://www.mersecenter.com/index.html
+wheelchair=yes
+id=way/1323992757</desc><trkseg><trkpt lat="51.3701711" lon="11.9822122"/><trkpt lat="51.3703418" lon="11.9832559"/><trkpt lat="51.3703763" lon="11.9834665"/><trkpt lat="51.3703608" lon="11.983473"/><trkpt lat="51.3704156" lon="11.9838075"/><trkpt lat="51.3705392" lon="11.9837556"/><trkpt lat="51.3706212" lon="11.9842563"/><trkpt lat="51.370919" lon="11.9841312"/><trkpt lat="51.3713181" lon="11.9839635"/><trkpt lat="51.3711474" lon="11.9829213"/><trkpt lat="51.3711414" lon="11.9828843"/><trkpt lat="51.3711972" lon="11.9828609"/><trkpt lat="51.3711913" lon="11.9828249"/><trkpt lat="51.3712021" lon="11.9828204"/><trkpt lat="51.3710389" lon="11.9818227"/><trkpt lat="51.3706097" lon="11.9820029"/><trkpt lat="51.3706135" lon="11.9820265"/><trkpt lat="51.3705855" lon="11.9820382"/><trkpt lat="51.3701711" lon="11.9822122"/></trkseg></trk><trk><name>Altmark-Park</name><desc>addr:city=Stendal
+addr:country=DE
+addr:housenumber=16
+addr:postcode=39576
+addr:street=Industriestraße
+addr:suburb=Südost
+landuse=retail
+name=Altmark-Park
+shop=mall
+id=way/1385123050</desc><trkseg><trkpt lat="52.5844922" lon="11.874344"/><trkpt lat="52.584492" lon="11.8743196"/><trkpt lat="52.5844302" lon="11.874323"/><trkpt lat="52.5844252" lon="11.8742907"/><trkpt lat="52.5843764" lon="11.8742923"/><trkpt lat="52.5843759" lon="11.8743412"/><trkpt lat="52.5843704" lon="11.8743549"/><trkpt lat="52.5843603" lon="11.8743693"/><trkpt lat="52.5843442" lon="11.8743776"/><trkpt lat="52.5842954" lon="11.8743883"/><trkpt lat="52.5842632" lon="11.8744027"/><trkpt lat="52.5840929" lon="11.8744227"/><trkpt lat="52.5839483" lon="11.8744447"/><trkpt lat="52.583937" lon="11.8744222"/><trkpt lat="52.5839329" lon="11.8743941"/><trkpt lat="52.5839214" lon="11.8740865"/><trkpt lat="52.5839148" lon="11.8739067"/><trkpt lat="52.5839126" lon="11.8738478"/><trkpt lat="52.5838715" lon="11.8727406"/><trkpt lat="52.5837861" lon="11.8727509"/><trkpt lat="52.5836772" lon="11.872764"/><trkpt lat="52.5836804" lon="11.8728426"/><trkpt lat="52.5825834" lon="11.8729712"/><trkpt lat="52.5825763" lon="11.8730052"/><trkpt lat="52.5825685" lon="11.8730849"/><trkpt lat="52.5825705" lon="11.873188"/><trkpt lat="52.5824935" lon="11.8731981"/><trkpt lat="52.582482" lon="11.8731997"/><trkpt lat="52.5827634" lon="11.8787291"/><trkpt lat="52.58277" lon="11.8788583"/><trkpt lat="52.5832814" lon="11.8788094"/><trkpt lat="52.583279" lon="11.8787475"/><trkpt lat="52.5832549" lon="11.8781293"/><trkpt lat="52.5837417" lon="11.8780772"/><trkpt lat="52.5842002" lon="11.8791983"/><trkpt lat="52.5843357" lon="11.8789203"/><trkpt lat="52.5843926" lon="11.8788073"/><trkpt lat="52.5844907" lon="11.8786171"/><trkpt lat="52.5845533" lon="11.8785055"/><trkpt lat="52.5846269" lon="11.8784205"/><trkpt lat="52.5847283" lon="11.878344"/><trkpt lat="52.5848839" lon="11.878243"/><trkpt lat="52.5849375" lon="11.8781984"/><trkpt lat="52.5849814" lon="11.8781506"/><trkpt lat="52.5850066" lon="11.8780985"/><trkpt lat="52.5850266" lon="11.8780358"/><trkpt lat="52.5850126" lon="11.8776988"/><trkpt lat="52.5850008" lon="11.8774131"/><trkpt lat="52.5849995" lon="11.8771527"/><trkpt lat="52.5848826" lon="11.8743091"/><trkpt lat="52.5844922" lon="11.874344"/></trkseg></trk><trk><name>way/150387139</name><desc>id=way/150387139</desc><trkseg><trkpt lat="52.1297177" lon="11.6299397"/><trkpt lat="52.1297276" lon="11.6298902"/><trkpt lat="52.1297384" lon="11.629836"/><trkpt lat="52.1297513" lon="11.6298423"/><trkpt lat="52.1297628" lon="11.6297852"/><trkpt lat="52.1297989" lon="11.629589"/><trkpt lat="52.1298154" lon="11.6295072"/><trkpt lat="52.1298614" lon="11.6292577"/><trkpt lat="52.1298809" lon="11.6291466"/><trkpt lat="52.1299097" lon="11.6289903"/><trkpt lat="52.1299481" lon="11.6290086"/><trkpt lat="52.1299562" lon="11.6290125"/><trkpt lat="52.1302521" lon="11.6291541"/><trkpt lat="52.1302898" lon="11.6291733"/><trkpt lat="52.1303302" lon="11.6291934"/><trkpt lat="52.1304111" lon="11.6292317"/><trkpt lat="52.1306073" lon="11.6293244"/><trkpt lat="52.1306287" lon="11.6293344"/><trkpt lat="52.130689" lon="11.6293629"/><trkpt lat="52.1306586" lon="11.6295304"/><trkpt lat="52.1306241" lon="11.6297159"/><trkpt lat="52.1306209" lon="11.6297334"/><trkpt lat="52.1306176" lon="11.6297509"/><trkpt lat="52.1305974" lon="11.6298597"/><trkpt lat="52.1306773" lon="11.6298989"/><trkpt lat="52.1307504" lon="11.6299334"/><trkpt lat="52.1307863" lon="11.6297522"/><trkpt lat="52.130814" lon="11.6296122"/><trkpt lat="52.1308455" lon="11.6294456"/><trkpt lat="52.1308636" lon="11.6293501"/><trkpt lat="52.1308821" lon="11.6292522"/><trkpt lat="52.1309008" lon="11.6291533"/><trkpt lat="52.1309314" lon="11.6289921"/><trkpt lat="52.1311744" lon="11.629057"/><trkpt lat="52.1313945" lon="11.6291157"/><trkpt lat="52.131389" lon="11.6291802"/><trkpt lat="52.1314021" lon="11.629189"/><trkpt lat="52.1314145" lon="11.6292011"/><trkpt lat="52.1314255" lon="11.6292168"/><trkpt lat="52.1314352" lon="11.6292346"/><trkpt lat="52.1314488" lon="11.6292722"/><trkpt lat="52.1314576" lon="11.6293114"/><trkpt lat="52.1314594" lon="11.6293544"/><trkpt lat="52.1314564" lon="11.6293975"/><trkpt lat="52.1314127" lon="11.6296116"/><trkpt lat="52.1313874" lon="11.6297395"/><trkpt lat="52.1313168" lon="11.6300825"/><trkpt lat="52.131306" lon="11.6301422"/><trkpt lat="52.1312494" lon="11.6304562"/><trkpt lat="52.131019" lon="11.6303465"/><trkpt lat="52.130865" lon="11.6302708"/><trkpt lat="52.1308445" lon="11.6303854"/><trkpt lat="52.130825" lon="11.6304924"/><trkpt lat="52.1309071" lon="11.6305335"/><trkpt lat="52.130929" lon="11.6305445"/><trkpt lat="52.1310431" lon="11.6306017"/><trkpt lat="52.1311011" lon="11.6306307"/><trkpt lat="52.1312298" lon="11.6306478"/><trkpt lat="52.1312252" lon="11.6306929"/><trkpt lat="52.1311929" lon="11.6310048"/><trkpt lat="52.1311897" lon="11.6310363"/><trkpt lat="52.131171" lon="11.6312238"/><trkpt lat="52.1311561" lon="11.6313724"/><trkpt lat="52.1311451" lon="11.6314826"/><trkpt lat="52.1311059" lon="11.6315242"/><trkpt lat="52.1310728" lon="11.6315594"/><trkpt lat="52.1309427" lon="11.6314951"/><trkpt lat="52.1309134" lon="11.6314805"/><trkpt lat="52.1308211" lon="11.6314364"/><trkpt lat="52.1307589" lon="11.6314033"/><trkpt lat="52.1307213" lon="11.6313851"/><trkpt lat="52.1306839" lon="11.6313671"/><trkpt lat="52.1305086" lon="11.6312824"/><trkpt lat="52.130483" lon="11.6312682"/><trkpt lat="52.1305125" lon="11.631186"/><trkpt lat="52.1305324" lon="11.6311002"/><trkpt lat="52.1305413" lon="11.6311054"/><trkpt lat="52.1305701" lon="11.6309486"/><trkpt lat="52.1305998" lon="11.6307806"/><trkpt lat="52.1306254" lon="11.6306389"/><trkpt lat="52.1305494" lon="11.6306024"/><trkpt lat="52.1304653" lon="11.6305616"/><trkpt lat="52.1304116" lon="11.6308596"/><trkpt lat="52.1303837" lon="11.6310141"/><trkpt lat="52.1303716" lon="11.6310813"/><trkpt lat="52.1303511" lon="11.6311951"/><trkpt lat="52.130316" lon="11.6311787"/><trkpt lat="52.1299966" lon="11.6310295"/><trkpt lat="52.1299702" lon="11.6310167"/><trkpt lat="52.1299325" lon="11.6310001"/><trkpt lat="52.1296222" lon="11.6308547"/><trkpt lat="52.1295707" lon="11.6308287"/><trkpt lat="52.1295952" lon="11.6306913"/><trkpt lat="52.1296071" lon="11.6306284"/><trkpt lat="52.1296807" lon="11.6302189"/><trkpt lat="52.1297084" lon="11.6300606"/><trkpt lat="52.1297196" lon="11.6300023"/><trkpt lat="52.1297309" lon="11.629945"/><trkpt lat="52.1297177" lon="11.6299397"/></trkseg></trk><trk><name>way/318073198</name><desc>id=way/318073198</desc><trkseg><trkpt lat="52.129827" lon="11.6300538"/><trkpt lat="52.1298358" lon="11.63"/><trkpt lat="52.1298803" lon="11.6300234"/><trkpt lat="52.1298903" lon="11.6299685"/><trkpt lat="52.1298996" lon="11.6299178"/><trkpt lat="52.1298539" lon="11.629897"/><trkpt lat="52.1298634" lon="11.6298369"/><trkpt lat="52.1301333" lon="11.6299676"/><trkpt lat="52.1301567" lon="11.6299789"/><trkpt lat="52.1304" lon="11.6300969"/><trkpt lat="52.1304892" lon="11.6301398"/><trkpt lat="52.1305002" lon="11.6301453"/><trkpt lat="52.1305412" lon="11.6301653"/><trkpt lat="52.1305725" lon="11.6299948"/><trkpt lat="52.1305974" lon="11.6298597"/><trkpt lat="52.1306773" lon="11.6298989"/><trkpt lat="52.1307504" lon="11.6299334"/><trkpt lat="52.1307036" lon="11.6301943"/><trkpt lat="52.130865" lon="11.6302708"/><trkpt lat="52.1308445" lon="11.6303854"/><trkpt lat="52.130825" lon="11.6304924"/><trkpt lat="52.1307574" lon="11.6304586"/><trkpt lat="52.1306663" lon="11.6304129"/><trkpt lat="52.1306254" lon="11.6306389"/><trkpt lat="52.1305494" lon="11.6306022"/><trkpt lat="52.1304653" lon="11.6305616"/><trkpt lat="52.1304986" lon="11.6303774"/><trkpt lat="52.1304502" lon="11.6303552"/><trkpt lat="52.1304229" lon="11.6303421"/><trkpt lat="52.1303821" lon="11.6303225"/><trkpt lat="52.130361" lon="11.6303123"/><trkpt lat="52.1301167" lon="11.630194"/><trkpt lat="52.1300936" lon="11.6301828"/><trkpt lat="52.129827" lon="11.6300538"/></trkseg></trk><trk><name>way/318073199</name><desc>id=way/318073199</desc><trkseg><trkpt lat="52.1306445" lon="11.630097"/><trkpt lat="52.1306574" lon="11.6301097"/><trkpt lat="52.1306692" lon="11.6301317"/><trkpt lat="52.1306768" lon="11.6301582"/><trkpt lat="52.1306823" lon="11.6301874"/><trkpt lat="52.1306832" lon="11.6302162"/><trkpt lat="52.1306829" lon="11.630245"/><trkpt lat="52.1306816" lon="11.6302724"/><trkpt lat="52.130679" lon="11.6302999"/><trkpt lat="52.1306753" lon="11.6303189"/><trkpt lat="52.13067" lon="11.6303379"/><trkpt lat="52.1306575" lon="11.6303734"/><trkpt lat="52.13065" lon="11.6303885"/><trkpt lat="52.1306422" lon="11.6304029"/><trkpt lat="52.1306345" lon="11.6304144"/><trkpt lat="52.1306256" lon="11.6304266"/><trkpt lat="52.1306125" lon="11.6304374"/><trkpt lat="52.1305977" lon="11.6304469"/><trkpt lat="52.1305878" lon="11.6304492"/><trkpt lat="52.1305766" lon="11.6304488"/><trkpt lat="52.130565" lon="11.6304446"/><trkpt lat="52.1305538" lon="11.6304383"/><trkpt lat="52.1305438" lon="11.630427"/><trkpt lat="52.1305362" lon="11.6304136"/><trkpt lat="52.1305296" lon="11.6303927"/><trkpt lat="52.1305242" lon="11.6303711"/><trkpt lat="52.1305198" lon="11.6303275"/><trkpt lat="52.130518" lon="11.6302834"/><trkpt lat="52.1305192" lon="11.6302655"/><trkpt lat="52.1305217" lon="11.6302462"/><trkpt lat="52.1305251" lon="11.6302273"/><trkpt lat="52.1305302" lon="11.6302084"/><trkpt lat="52.1305349" lon="11.6301897"/><trkpt lat="52.1305408" lon="11.6301731"/><trkpt lat="52.130555" lon="11.6301497"/><trkpt lat="52.1305701" lon="11.6301283"/><trkpt lat="52.1305851" lon="11.6301115"/><trkpt lat="52.1306006" lon="11.6300968"/><trkpt lat="52.1306105" lon="11.6300921"/><trkpt lat="52.130622" lon="11.6300914"/><trkpt lat="52.1306341" lon="11.6300925"/><trkpt lat="52.1306445" lon="11.630097"/></trkseg></trk><trk><name>way/22792859</name><desc>id=way/22792859</desc><trkseg><trkpt lat="52.1297822" lon="11.6286616"/><trkpt lat="52.1294974" lon="11.6285714"/><trkpt lat="52.12935" lon="11.6285207"/><trkpt lat="52.1293091" lon="11.6285264"/><trkpt lat="52.129268" lon="11.6285469"/><trkpt lat="52.1292173" lon="11.6285975"/><trkpt lat="52.1291685" lon="11.628671"/><trkpt lat="52.1292052" lon="11.6286905"/><trkpt lat="52.1291871" lon="11.6287805"/><trkpt lat="52.1291602" lon="11.6287659"/><trkpt lat="52.1291333" lon="11.6287523"/><trkpt lat="52.1291118" lon="11.6288621"/><trkpt lat="52.1290151" lon="11.6293721"/><trkpt lat="52.129042" lon="11.6293857"/><trkpt lat="52.1292081" lon="11.6294698"/><trkpt lat="52.1295999" lon="11.629658"/><trkpt lat="52.1296406" lon="11.6294376"/><trkpt lat="52.1296462" lon="11.629409"/><trkpt lat="52.129655" lon="11.6293645"/><trkpt lat="52.129732" lon="11.6289309"/><trkpt lat="52.1297361" lon="11.6289076"/><trkpt lat="52.1297386" lon="11.628894"/><trkpt lat="52.1297528" lon="11.6288185"/><trkpt lat="52.1297822" lon="11.6286616"/></trkseg></trk><trk><name>way/317981308</name><desc>id=way/317981308</desc><trkseg><trkpt lat="52.1294013" lon="11.6287739"/><trkpt lat="52.1293029" lon="11.6292915"/><trkpt lat="52.1292148" lon="11.6292483"/><trkpt lat="52.1292094" lon="11.6292775"/><trkpt lat="52.1291789" lon="11.6292626"/><trkpt lat="52.1292316" lon="11.6289777"/><trkpt lat="52.1292428" lon="11.6289173"/><trkpt lat="52.1292614" lon="11.6288166"/><trkpt lat="52.1292412" lon="11.6288067"/><trkpt lat="52.1292601" lon="11.6287046"/><trkpt lat="52.1294013" lon="11.6287739"/></trkseg></trk><trk><name>way/317981311</name><desc>id=way/317981311</desc><trkseg><trkpt lat="52.1294013" lon="11.6287739"/><trkpt lat="52.129623" lon="11.6288827"/><trkpt lat="52.1295271" lon="11.6294015"/><trkpt lat="52.1293029" lon="11.6292915"/><trkpt lat="52.1294013" lon="11.6287739"/></trkseg></trk><trk><name>way/414824868</name><desc>id=way/414824868</desc><trkseg><trkpt lat="52.1294099" lon="11.6299158"/><trkpt lat="52.1293898" lon="11.6300242"/><trkpt lat="52.129343" lon="11.6300028"/><trkpt lat="52.1293105" lon="11.629987"/><trkpt lat="52.1293287" lon="11.6298779"/><trkpt lat="52.1293647" lon="11.6298951"/><trkpt lat="52.1294099" lon="11.6299158"/></trkseg></trk><trk><name>way/414824871</name><desc>id=way/414824871</desc><trkseg><trkpt lat="52.1289681" lon="11.6303267"/><trkpt lat="52.1289319" lon="11.6304501"/><trkpt lat="52.1290096" lon="11.6304903"/><trkpt lat="52.1290342" lon="11.6303578"/><trkpt lat="52.1290132" lon="11.6303486"/><trkpt lat="52.1289681" lon="11.6303267"/></trkseg></trk><trk><name>way/414824877</name><desc>id=way/414824877</desc><trkseg><trkpt lat="52.1289974" lon="11.6296287"/><trkpt lat="52.1288478" lon="11.6304486"/><trkpt lat="52.1288089" lon="11.6304478"/><trkpt lat="52.128856" lon="11.6301876"/><trkpt lat="52.1289603" lon="11.6296109"/><trkpt lat="52.1289974" lon="11.6296287"/></trkseg></trk><trk><name>way/414824878</name><desc>id=way/414824878</desc><trkseg><trkpt lat="52.129042" lon="11.6293857"/><trkpt lat="52.1290151" lon="11.6293721"/><trkpt lat="52.1291333" lon="11.6287523"/><trkpt lat="52.1291602" lon="11.6287659"/><trkpt lat="52.129042" lon="11.6293857"/></trkseg></trk><trk><name>way/880797655</name><desc>id=way/880797655</desc><trkseg><trkpt lat="52.1297384" lon="11.629836"/><trkpt lat="52.1297513" lon="11.6298423"/><trkpt lat="52.1298022" lon="11.6298672"/><trkpt lat="52.1297929" lon="11.6299219"/><trkpt lat="52.1297845" lon="11.6299711"/><trkpt lat="52.1297309" lon="11.629945"/><trkpt lat="52.1297177" lon="11.6299397"/><trkpt lat="52.1297276" lon="11.6298902"/><trkpt lat="52.1297384" lon="11.629836"/></trkseg></trk><trk><name>way/880797656</name><desc>id=way/880797656</desc><trkseg><trkpt lat="52.1301333" lon="11.6299676"/><trkpt lat="52.1300936" lon="11.6301828"/><trkpt lat="52.1301167" lon="11.630194"/><trkpt lat="52.1301567" lon="11.6299789"/><trkpt lat="52.1301333" lon="11.6299676"/></trkseg></trk><trk><name>way/880797659</name><desc>id=way/880797659</desc><trkseg><trkpt lat="52.1298634" lon="11.6298369"/><trkpt lat="52.1298539" lon="11.629897"/><trkpt lat="52.1298275" lon="11.6298853"/><trkpt lat="52.1298189" lon="11.6299345"/><trkpt lat="52.1298098" lon="11.6299869"/><trkpt lat="52.1298358" lon="11.63"/><trkpt lat="52.129827" lon="11.6300538"/><trkpt lat="52.1298237" lon="11.6300522"/><trkpt lat="52.1297876" lon="11.6300349"/><trkpt lat="52.1297196" lon="11.6300023"/><trkpt lat="52.1297309" lon="11.629945"/><trkpt lat="52.1297845" lon="11.6299711"/><trkpt lat="52.1297929" lon="11.6299219"/><trkpt lat="52.1298022" lon="11.6298672"/><trkpt lat="52.1297513" lon="11.6298423"/><trkpt lat="52.1297628" lon="11.6297852"/><trkpt lat="52.1298634" lon="11.6298369"/></trkseg></trk><trk><name>way/880797660</name><desc>id=way/880797660</desc><trkseg><trkpt lat="52.1298275" lon="11.6298853"/><trkpt lat="52.1298539" lon="11.629897"/><trkpt lat="52.1298996" lon="11.6299178"/><trkpt lat="52.1298903" lon="11.6299685"/><trkpt lat="52.1298803" lon="11.6300234"/><trkpt lat="52.1298358" lon="11.63"/><trkpt lat="52.1298098" lon="11.6299869"/><trkpt lat="52.1298189" lon="11.6299345"/><trkpt lat="52.1298275" lon="11.6298853"/></trkseg></trk><trk><name>way/880797676</name><desc>id=way/880797676</desc><trkseg><trkpt lat="52.1305413" lon="11.6311054"/><trkpt lat="52.1305324" lon="11.6311002"/><trkpt lat="52.1305125" lon="11.631186"/><trkpt lat="52.130483" lon="11.6312682"/><trkpt lat="52.1305086" lon="11.6312824"/><trkpt lat="52.1305413" lon="11.6311054"/></trkseg></trk><trk><name>way/880817199</name><desc>id=way/880817199</desc><trkseg><trkpt lat="52.1291718" lon="11.6288825"/><trkpt lat="52.1292428" lon="11.6289173"/><trkpt lat="52.1292316" lon="11.6289777"/><trkpt lat="52.1291607" lon="11.6289422"/><trkpt lat="52.1291718" lon="11.6288825"/></trkseg></trk><trk><name>way/880817200</name><desc>id=way/880817200</desc><trkseg><trkpt lat="52.1296522" lon="11.628854"/><trkpt lat="52.1297168" lon="11.6288842"/><trkpt lat="52.1297106" lon="11.628919"/><trkpt lat="52.129732" lon="11.6289309"/><trkpt lat="52.1297361" lon="11.6289076"/><trkpt lat="52.1297386" lon="11.628894"/><trkpt lat="52.1297528" lon="11.6288185"/><trkpt lat="52.1297114" lon="11.628795"/><trkpt lat="52.1296559" lon="11.6288225"/><trkpt lat="52.1296522" lon="11.628854"/></trkseg></trk><trk><name>way/880817201</name><desc>id=way/880817201</desc><trkseg><trkpt lat="52.1295899" lon="11.6293305"/><trkpt lat="52.129655" lon="11.6293645"/><trkpt lat="52.1296462" lon="11.629409"/><trkpt lat="52.1296406" lon="11.6294376"/><trkpt lat="52.1295755" lon="11.6294037"/><trkpt lat="52.1295899" lon="11.6293305"/></trkseg></trk><trk><name>way/880817202</name><desc>id=way/880817202</desc><trkseg><trkpt lat="52.1291789" lon="11.6292626"/><trkpt lat="52.1292094" lon="11.6292775"/><trkpt lat="52.1291985" lon="11.6293495"/><trkpt lat="52.1291673" lon="11.6293334"/><trkpt lat="52.1291789" lon="11.6292626"/></trkseg></trk><trk><name>way/880817205</name><desc>id=way/880817205</desc><trkseg><trkpt lat="52.1293206" lon="11.6304194"/><trkpt lat="52.1293675" lon="11.6304432"/><trkpt lat="52.129348" lon="11.6305452"/><trkpt lat="52.1293011" lon="11.6305214"/><trkpt lat="52.1293067" lon="11.6304919"/><trkpt lat="52.1293206" lon="11.6304194"/></trkseg></trk><trk><name>way/880817206</name><desc>id=way/880817206</desc><trkseg><trkpt lat="52.1293805" lon="11.6300831"/><trkpt lat="52.1293898" lon="11.6300242"/><trkpt lat="52.1294518" lon="11.6300547"/><trkpt lat="52.1294411" lon="11.6301129"/><trkpt lat="52.1293805" lon="11.6300831"/></trkseg></trk><trk><name>way/880817208</name><desc>id=way/880817208</desc><trkseg><trkpt lat="52.1289707" lon="11.6303124"/><trkpt lat="52.1289791" lon="11.6302643"/><trkpt lat="52.1289818" lon="11.6302486"/><trkpt lat="52.1289172" lon="11.6302188"/><trkpt lat="52.1289061" lon="11.6302827"/><trkpt lat="52.1289707" lon="11.6303124"/></trkseg></trk><trk><name>way/880817209</name><desc>id=way/880817209</desc><trkseg><trkpt lat="52.1290516" lon="11.6298614"/><trkpt lat="52.1290418" lon="11.6299175"/><trkpt lat="52.1289909" lon="11.6298929"/><trkpt lat="52.1290096" lon="11.6297903"/><trkpt lat="52.1290601" lon="11.6298147"/><trkpt lat="52.1290516" lon="11.6298614"/></trkseg></trk><trk><name>way/880817210</name><desc>id=way/880817210</desc><trkseg><trkpt lat="52.1293437" lon="11.6297941"/><trkpt lat="52.1293287" lon="11.6298779"/><trkpt lat="52.1293105" lon="11.629987"/><trkpt lat="52.1290516" lon="11.6298614"/><trkpt lat="52.1290601" lon="11.6298147"/><trkpt lat="52.1290096" lon="11.6297903"/><trkpt lat="52.1289909" lon="11.6298929"/><trkpt lat="52.1290418" lon="11.6299175"/><trkpt lat="52.1290751" lon="11.6299337"/><trkpt lat="52.1290118" lon="11.6302801"/><trkpt lat="52.1289791" lon="11.6302643"/><trkpt lat="52.1289818" lon="11.6302486"/><trkpt lat="52.1289172" lon="11.6302188"/><trkpt lat="52.1289061" lon="11.6302827"/><trkpt lat="52.1289707" lon="11.6303124"/><trkpt lat="52.1289681" lon="11.6303267"/><trkpt lat="52.1289319" lon="11.6304501"/><trkpt lat="52.1288478" lon="11.6304486"/><trkpt lat="52.1289974" lon="11.6296287"/><trkpt lat="52.1293437" lon="11.6297941"/></trkseg></trk><trk><name>way/318073190</name><desc>id=way/318073190</desc><trkseg><trkpt lat="52.1311451" lon="11.6314826"/><trkpt lat="52.1311568" lon="11.6315119"/><trkpt lat="52.1311766" lon="11.6315617"/><trkpt lat="52.1311419" lon="11.6315985"/><trkpt lat="52.1311042" lon="11.6316385"/><trkpt lat="52.131082" lon="11.6315868"/><trkpt lat="52.1310728" lon="11.6315594"/><trkpt lat="52.1311059" lon="11.6315242"/><trkpt lat="52.1311451" lon="11.6314826"/></trkseg></trk><trk><name>way/318073200</name><desc>id=way/318073200</desc><trkseg><trkpt lat="52.1308636" lon="11.6293501"/><trkpt lat="52.1308821" lon="11.6292522"/><trkpt lat="52.1310658" lon="11.6293426"/><trkpt lat="52.1310745" lon="11.6292895"/><trkpt lat="52.131144" lon="11.6293161"/><trkpt lat="52.1311744" lon="11.629057"/><trkpt lat="52.1313945" lon="11.6291157"/><trkpt lat="52.131389" lon="11.6291802"/><trkpt lat="52.1313264" lon="11.6291701"/><trkpt lat="52.1313046" lon="11.6293935"/><trkpt lat="52.131315" lon="11.6294012"/><trkpt lat="52.1312403" lon="11.6297802"/><trkpt lat="52.1309434" lon="11.62962"/><trkpt lat="52.1309818" lon="11.6294083"/><trkpt lat="52.1308636" lon="11.6293501"/></trkseg></trk><trk><name>way/318073201</name><desc>id=way/318073201</desc><trkseg><trkpt lat="52.1311744" lon="11.629057"/><trkpt lat="52.131144" lon="11.6293161"/><trkpt lat="52.1310745" lon="11.6292895"/><trkpt lat="52.1310658" lon="11.6293426"/><trkpt lat="52.1308821" lon="11.6292522"/><trkpt lat="52.1309008" lon="11.6291533"/><trkpt lat="52.1309314" lon="11.6289921"/><trkpt lat="52.1311744" lon="11.629057"/></trkseg></trk><trk><name>way/880797675</name><desc>id=way/880797675</desc><trkseg><trkpt lat="52.1311011" lon="11.6306307"/><trkpt lat="52.1312252" lon="11.6306929"/><trkpt lat="52.1312298" lon="11.6306478"/><trkpt lat="52.1311011" lon="11.6306307"/></trkseg></trk><trk><name>way/880797683</name><desc>id=way/880797683</desc><trkseg><trkpt lat="52.1311451" lon="11.6314826"/><trkpt lat="52.1311252" lon="11.631478"/><trkpt lat="52.1310968" lon="11.6315082"/><trkpt lat="52.1310728" lon="11.6315349"/><trkpt lat="52.1310728" lon="11.6315594"/><trkpt lat="52.1311059" lon="11.6315242"/><trkpt lat="52.1311451" lon="11.6314826"/></trkseg></trk><trk><name>way/880817211</name><desc>id=way/880817211</desc><trkseg><trkpt lat="52.1307157" lon="11.6307929"/><trkpt lat="52.1306755" lon="11.6307736"/><trkpt lat="52.130634" lon="11.6310024"/><trkpt lat="52.1306611" lon="11.6310154"/><trkpt lat="52.1306742" lon="11.6310217"/><trkpt lat="52.1307157" lon="11.6307929"/></trkseg></trk><trk><name>way/880817212</name><desc>id=way/880817212</desc><trkseg><trkpt lat="52.1308744" lon="11.6307067"/><trkpt lat="52.1308921" lon="11.6306074"/><trkpt lat="52.1309403" lon="11.6306301"/><trkpt lat="52.1309227" lon="11.6307294"/><trkpt lat="52.1308744" lon="11.6307067"/></trkseg></trk><trk><name>way/880817213</name><desc>id=way/880817213</desc><trkseg><trkpt lat="52.1310829" lon="11.6309754"/><trkpt lat="52.1311434" lon="11.6309885"/><trkpt lat="52.1311374" lon="11.631062"/><trkpt lat="52.1310769" lon="11.6310488"/><trkpt lat="52.1310829" lon="11.6309754"/></trkseg></trk><trk><name>way/880817214</name><desc>id=way/880817214</desc><trkseg><trkpt lat="52.1308586" lon="11.6312753"/><trkpt lat="52.130842" lon="11.6313707"/><trkpt lat="52.130797" lon="11.6313499"/><trkpt lat="52.1308136" lon="11.6312545"/><trkpt lat="52.1308586" lon="11.6312753"/></trkseg></trk></gpx>

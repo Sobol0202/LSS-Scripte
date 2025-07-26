@@ -1,0 +1,1191 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="52.8563705" lon="10.9556984"><name>node/702950482</name><desc>generator:source=biomass
+power=generator
+id=node/702950482</desc></wpt><wpt lat="51.5625155" lon="12.2040969"><name>node/2100334614</name><desc>generator:source=biomass
+power=generator
+id=node/2100334614</desc></wpt><wpt lat="52.5322881" lon="11.5261294"><name>node/2190863116</name><desc>generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:output:electricity=yes
+generator:output:heat=yes
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=node/2190863116</desc></wpt><wpt lat="52.5760991" lon="11.6593607"><name>node/2190978389</name><desc>generator:method=combustion
+generator:source=biomass
+power=generator
+id=node/2190978389</desc></wpt><wpt lat="52.7363944" lon="11.9804352"><name>node/2249388823</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:output:heat=yes
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=node/2249388823</desc></wpt><wpt lat="51.6422865" lon="11.634145"><name>node/2934334871</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=node/2934334871</desc></wpt><wpt lat="52.7267547" lon="12.0118498"><name>node/3577450837</name><desc>generator:method=combustion
+generator:source=biomass
+generator:source:specific=wood
+power=generator
+start_date=2004-07-27
+id=node/3577450837</desc></wpt><wpt lat="51.6932552" lon="11.9099609"><name>node/3681419736</name><desc>generator:output:electricity=1 MW
+generator:source=biomass
+power=generator
+id=node/3681419736</desc></wpt><wpt lat="52.1417769" lon="11.1297619"><name>node/8431582172</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=node/8431582172</desc></wpt><wpt lat="52.0968306" lon="10.9990472"><name>node/8478366720</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=node/8478366720</desc></wpt><wpt lat="52.0149287" lon="11.0347393"><name>node/8488564916</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=node/8488564916</desc></wpt><wpt lat="52.0149708" lon="11.0343719"><name>node/8488564917</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=node/8488564917</desc></wpt><wpt lat="52.0087717" lon="11.0387599"><name>node/8489253703</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=node/8489253703</desc></wpt><wpt lat="52.0077827" lon="11.0389477"><name>node/8489253704</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=node/8489253704</desc></wpt><wpt lat="51.9788619" lon="10.9896192"><name>node/8494676091</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=node/8494676091</desc></wpt><trk><name>way/194439746</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/194439746</desc><trkseg><trkpt lat="52.576647" lon="11.0559361"/><trkpt lat="52.5766623" lon="11.0558887"/><trkpt lat="52.5766677" lon="11.0558358"/><trkpt lat="52.5766627" lon="11.0557828"/><trkpt lat="52.5766477" lon="11.0557352"/><trkpt lat="52.5766243" lon="11.0556979"/><trkpt lat="52.5765949" lon="11.0556747"/><trkpt lat="52.5765625" lon="11.055668"/><trkpt lat="52.5765306" lon="11.0556786"/><trkpt lat="52.5765023" lon="11.0557052"/><trkpt lat="52.5764797" lon="11.0557477"/><trkpt lat="52.576467" lon="11.0558002"/><trkpt lat="52.5764656" lon="11.0558566"/><trkpt lat="52.5764757" lon="11.0559106"/><trkpt lat="52.5764962" lon="11.0559559"/><trkpt lat="52.5765247" lon="11.0559874"/><trkpt lat="52.576558" lon="11.0560014"/><trkpt lat="52.5765922" lon="11.0559964"/><trkpt lat="52.5766234" lon="11.055973"/><trkpt lat="52.576647" lon="11.0559361"/></trkseg></trk><trk><name>way/194439758</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/194439758</desc><trkseg><trkpt lat="52.5766551" lon="11.0553879"/><trkpt lat="52.5766372" lon="11.0553454"/><trkpt lat="52.576612" lon="11.0553142"/><trkpt lat="52.5765822" lon="11.0552976"/><trkpt lat="52.5765508" lon="11.0552972"/><trkpt lat="52.5765208" lon="11.055313"/><trkpt lat="52.5764954" lon="11.0553436"/><trkpt lat="52.5764771" lon="11.0553857"/><trkpt lat="52.5764677" lon="11.0554351"/><trkpt lat="52.5764682" lon="11.0554869"/><trkpt lat="52.5764798" lon="11.0555393"/><trkpt lat="52.5765014" lon="11.0555822"/><trkpt lat="52.5765305" lon="11.0556107"/><trkpt lat="52.5765638" lon="11.0556213"/><trkpt lat="52.5765973" lon="11.0556129"/><trkpt lat="52.5766271" lon="11.0555864"/><trkpt lat="52.5766497" lon="11.0555449"/><trkpt lat="52.5766625" lon="11.0554933"/><trkpt lat="52.576664" lon="11.0554376"/><trkpt lat="52.5766551" lon="11.0553879"/></trkseg></trk><trk><name>way/194439766</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/194439766</desc><trkseg><trkpt lat="52.5765339" lon="11.0568851"/><trkpt lat="52.57655" lon="11.0568189"/><trkpt lat="52.5765524" lon="11.0567476"/><trkpt lat="52.5765406" lon="11.0566789"/><trkpt lat="52.5765161" lon="11.0566201"/><trkpt lat="52.5764814" lon="11.0565774"/><trkpt lat="52.5764401" lon="11.0565553"/><trkpt lat="52.5763968" lon="11.0565562"/><trkpt lat="52.5763559" lon="11.0565801"/><trkpt lat="52.5763213" lon="11.0566252"/><trkpt lat="52.5762977" lon="11.0566866"/><trkpt lat="52.5762875" lon="11.0567572"/><trkpt lat="52.5762919" lon="11.0568295"/><trkpt lat="52.5763105" lon="11.0568954"/><trkpt lat="52.5763412" lon="11.0569477"/><trkpt lat="52.5763806" lon="11.0569805"/><trkpt lat="52.5764243" lon="11.0569903"/><trkpt lat="52.5764676" lon="11.0569761"/><trkpt lat="52.5765057" lon="11.0569392"/><trkpt lat="52.5765339" lon="11.0568851"/></trkseg></trk><trk><name>way/205786206</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=2
+roof:shape=round
+id=way/205786206</desc><trkseg><trkpt lat="51.9600683" lon="11.3629156"/><trkpt lat="51.9600599" lon="11.3628794"/><trkpt lat="51.9600436" lon="11.3628527"/><trkpt lat="51.9600196" lon="11.3628383"/><trkpt lat="51.959994" lon="11.3628426"/><trkpt lat="51.9599735" lon="11.3628629"/><trkpt lat="51.9599598" lon="11.3628961"/><trkpt lat="51.9599563" lon="11.3629383"/><trkpt lat="51.9599641" lon="11.3629764"/><trkpt lat="51.9599787" lon="11.3630025"/><trkpt lat="51.959999" lon="11.363018"/><trkpt lat="51.9600225" lon="11.3630192"/><trkpt lat="51.960044" lon="11.3630051"/><trkpt lat="51.9600594" lon="11.36298"/><trkpt lat="51.9600674" lon="11.3629503"/><trkpt lat="51.9600683" lon="11.3629156"/></trkseg></trk><trk><name>way/205786208</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/205786208</desc><trkseg><trkpt lat="51.9592712" lon="11.3625761"/><trkpt lat="51.9592335" lon="11.3625443"/><trkpt lat="51.9591866" lon="11.3625339"/><trkpt lat="51.9591412" lon="11.3625508"/><trkpt lat="51.9591014" lon="11.3625939"/><trkpt lat="51.959072" lon="11.3626637"/><trkpt lat="51.959062" lon="11.3627581"/><trkpt lat="51.9590761" lon="11.3628429"/><trkpt lat="51.9591044" lon="11.3629031"/><trkpt lat="51.959146" lon="11.3629447"/><trkpt lat="51.9591955" lon="11.3629586"/><trkpt lat="51.9592342" lon="11.3629477"/><trkpt lat="51.9592777" lon="11.3629078"/><trkpt lat="51.9593094" lon="11.3628425"/><trkpt lat="51.9593233" lon="11.3627616"/><trkpt lat="51.9593177" lon="11.362683"/><trkpt lat="51.9593007" lon="11.3626261"/><trkpt lat="51.9592712" lon="11.3625761"/></trkseg></trk><trk><name>way/205786210</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/205786210</desc><trkseg><trkpt lat="51.9598587" lon="11.3627193"/><trkpt lat="51.9598452" lon="11.3626759"/><trkpt lat="51.9598258" lon="11.3626423"/><trkpt lat="51.9598002" lon="11.3626175"/><trkpt lat="51.9597699" lon="11.3626055"/><trkpt lat="51.9597394" lon="11.3626085"/><trkpt lat="51.9597086" lon="11.3626279"/><trkpt lat="51.959687" lon="11.3626553"/><trkpt lat="51.9596666" lon="11.362704"/><trkpt lat="51.9596579" lon="11.3627587"/><trkpt lat="51.9596623" lon="11.3628225"/><trkpt lat="51.9596773" lon="11.3628708"/><trkpt lat="51.9597032" lon="11.3629113"/><trkpt lat="51.9597336" lon="11.3629339"/><trkpt lat="51.9597663" lon="11.3629396"/><trkpt lat="51.9597974" lon="11.362929"/><trkpt lat="51.9598263" lon="11.3629019"/><trkpt lat="51.9598479" lon="11.3628622"/><trkpt lat="51.9598606" lon="11.3628152"/><trkpt lat="51.959864" lon="11.3627712"/><trkpt lat="51.9598587" lon="11.3627193"/></trkseg></trk><trk><name>way/205786211</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/205786211</desc><trkseg><trkpt lat="51.959585" lon="11.3625402"/><trkpt lat="51.9595715" lon="11.3624968"/><trkpt lat="51.9595521" lon="11.3624632"/><trkpt lat="51.9595264" lon="11.3624384"/><trkpt lat="51.9594962" lon="11.3624264"/><trkpt lat="51.9594657" lon="11.3624294"/><trkpt lat="51.9594349" lon="11.3624488"/><trkpt lat="51.9594133" lon="11.3624762"/><trkpt lat="51.9593928" lon="11.362525"/><trkpt lat="51.9593842" lon="11.3625796"/><trkpt lat="51.9593886" lon="11.3626434"/><trkpt lat="51.9594036" lon="11.3626918"/><trkpt lat="51.9594295" lon="11.3627323"/><trkpt lat="51.9594598" lon="11.3627548"/><trkpt lat="51.9594926" lon="11.3627605"/><trkpt lat="51.9595237" lon="11.3627499"/><trkpt lat="51.9595525" lon="11.3627228"/><trkpt lat="51.9595742" lon="11.3626832"/><trkpt lat="51.9595869" lon="11.3626362"/><trkpt lat="51.9595903" lon="11.3625922"/><trkpt lat="51.959585" lon="11.3625402"/></trkseg></trk><trk><name>way/205786212</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/205786212</desc><trkseg><trkpt lat="51.9595164" lon="11.3629052"/><trkpt lat="51.9595029" lon="11.3628618"/><trkpt lat="51.9594835" lon="11.3628282"/><trkpt lat="51.9594578" lon="11.3628034"/><trkpt lat="51.9594276" lon="11.3627914"/><trkpt lat="51.9593971" lon="11.3627944"/><trkpt lat="51.9593662" lon="11.3628138"/><trkpt lat="51.9593447" lon="11.3628412"/><trkpt lat="51.9593242" lon="11.36289"/><trkpt lat="51.9593156" lon="11.3629446"/><trkpt lat="51.95932" lon="11.3630084"/><trkpt lat="51.959335" lon="11.3630568"/><trkpt lat="51.9593609" lon="11.3630973"/><trkpt lat="51.9593912" lon="11.3631198"/><trkpt lat="51.959424" lon="11.3631255"/><trkpt lat="51.959455" lon="11.3631149"/><trkpt lat="51.9594839" lon="11.3630878"/><trkpt lat="51.9595056" lon="11.3630482"/><trkpt lat="51.9595183" lon="11.3630012"/><trkpt lat="51.9595217" lon="11.3629572"/><trkpt lat="51.9595164" lon="11.3629052"/></trkseg></trk><trk><name>way/205786213</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/205786213</desc><trkseg><trkpt lat="51.9597955" lon="11.363077"/><trkpt lat="51.9597819" lon="11.3630336"/><trkpt lat="51.9597626" lon="11.363"/><trkpt lat="51.9597369" lon="11.3629752"/><trkpt lat="51.9597067" lon="11.3629632"/><trkpt lat="51.9596761" lon="11.3629662"/><trkpt lat="51.9596453" lon="11.3629856"/><trkpt lat="51.9596238" lon="11.363013"/><trkpt lat="51.9596033" lon="11.3630618"/><trkpt lat="51.9595947" lon="11.3631164"/><trkpt lat="51.9595991" lon="11.3631802"/><trkpt lat="51.9596141" lon="11.3632285"/><trkpt lat="51.95964" lon="11.3632691"/><trkpt lat="51.9596703" lon="11.3632916"/><trkpt lat="51.9597031" lon="11.3632973"/><trkpt lat="51.9597341" lon="11.3632867"/><trkpt lat="51.959763" lon="11.3632596"/><trkpt lat="51.9597847" lon="11.36322"/><trkpt lat="51.9597973" lon="11.363173"/><trkpt lat="51.9598008" lon="11.3631289"/><trkpt lat="51.9597955" lon="11.363077"/></trkseg></trk><trk><name>way/207706492</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=way/207706492</desc><trkseg><trkpt lat="52.6402706" lon="11.6101829"/><trkpt lat="52.6393526" lon="11.6105798"/><trkpt lat="52.6393376" lon="11.6131767"/><trkpt lat="52.6393148" lon="11.6135067"/><trkpt lat="52.6393116" lon="11.6141799"/><trkpt lat="52.6402022" lon="11.6141981"/><trkpt lat="52.64021" lon="11.6138258"/><trkpt lat="52.6402453" lon="11.6124469"/><trkpt lat="52.6402681" lon="11.6123369"/><trkpt lat="52.6403023" lon="11.61229"/><trkpt lat="52.6403487" lon="11.6122203"/><trkpt lat="52.6403951" lon="11.6120352"/><trkpt lat="52.6404227" lon="11.6119185"/><trkpt lat="52.6404227" lon="11.6118126"/><trkpt lat="52.6403999" lon="11.6116999"/><trkpt lat="52.640356" lon="11.6115752"/><trkpt lat="52.6403186" lon="11.6114987"/><trkpt lat="52.6402811" lon="11.6113928"/><trkpt lat="52.6402655" lon="11.6112681"/><trkpt lat="52.6402706" lon="11.6101829"/></trkseg></trk><trk><name>way/209739308</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+operator=Agrar- und Tierzucht- Gesellschaft Nahrstedt mbH
+power=generator
+start_date=2006
+id=way/209739308</desc><trkseg><trkpt lat="52.5828657" lon="11.7061708"/><trkpt lat="52.5828587" lon="11.7045795"/><trkpt lat="52.5828554" lon="11.7043199"/><trkpt lat="52.5820937" lon="11.704189"/><trkpt lat="52.5819573" lon="11.7041699"/><trkpt lat="52.5809881" lon="11.7040321"/><trkpt lat="52.5809159" lon="11.7048143"/><trkpt lat="52.5809037" lon="11.7049809"/><trkpt lat="52.5808641" lon="11.7049717"/><trkpt lat="52.5808072" lon="11.7056356"/><trkpt lat="52.5808025" lon="11.7056912"/><trkpt lat="52.5821451" lon="11.7060193"/><trkpt lat="52.5828657" lon="11.7061708"/></trkseg></trk><trk><name>way/216494372</name><desc>generator:source=biomass
+power=generator
+id=way/216494372</desc><trkseg><trkpt lat="52.6285675" lon="11.707229"/><trkpt lat="52.6287697" lon="11.7070348"/><trkpt lat="52.6288098" lon="11.7068047"/><trkpt lat="52.6287969" lon="11.7065504"/><trkpt lat="52.628731" lon="11.7063109"/><trkpt lat="52.6286652" lon="11.706172"/><trkpt lat="52.6282048" lon="11.7056814"/><trkpt lat="52.6280153" lon="11.7054556"/><trkpt lat="52.6278639" lon="11.7063363"/><trkpt lat="52.6279488" lon="11.7069658"/><trkpt lat="52.6280331" lon="11.7075005"/><trkpt lat="52.6282341" lon="11.7074018"/><trkpt lat="52.6285675" lon="11.707229"/></trkseg></trk><trk><name>way/227753773</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/227753773</desc><trkseg><trkpt lat="51.4579697" lon="11.8322619"/><trkpt lat="51.4579792" lon="11.8323318"/><trkpt lat="51.4580031" lon="11.8323923"/><trkpt lat="51.4580384" lon="11.8324361"/><trkpt lat="51.4580809" lon="11.8324578"/><trkpt lat="51.4581255" lon="11.8324549"/><trkpt lat="51.4581667" lon="11.8324277"/><trkpt lat="51.4581997" lon="11.8323796"/><trkpt lat="51.4582204" lon="11.8323162"/><trkpt lat="51.4582264" lon="11.8322452"/><trkpt lat="51.4582169" lon="11.8321753"/><trkpt lat="51.458193" lon="11.8321148"/><trkpt lat="51.4581577" lon="11.832071"/><trkpt lat="51.4581152" lon="11.8320492"/><trkpt lat="51.4580707" lon="11.8320521"/><trkpt lat="51.4580294" lon="11.8320793"/><trkpt lat="51.4579964" lon="11.8321275"/><trkpt lat="51.4579757" lon="11.8321909"/><trkpt lat="51.4579697" lon="11.8322619"/></trkseg></trk><trk><name>way/227753796</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/227753796</desc><trkseg><trkpt lat="51.4576712" lon="11.8324766"/><trkpt lat="51.4576879" lon="11.832557"/><trkpt lat="51.4577207" lon="11.8326234"/><trkpt lat="51.4577656" lon="11.8326677"/><trkpt lat="51.4578173" lon="11.8326848"/><trkpt lat="51.4578695" lon="11.8326724"/><trkpt lat="51.4579159" lon="11.8326321"/><trkpt lat="51.457951" lon="11.8325688"/><trkpt lat="51.4579704" lon="11.83249"/><trkpt lat="51.4579719" lon="11.8324054"/><trkpt lat="51.4579552" lon="11.832325"/><trkpt lat="51.4579225" lon="11.8322586"/><trkpt lat="51.4578775" lon="11.8322142"/><trkpt lat="51.4578258" lon="11.8321972"/><trkpt lat="51.4577736" lon="11.8322096"/><trkpt lat="51.4577272" lon="11.8322499"/><trkpt lat="51.4576921" lon="11.8323132"/><trkpt lat="51.4576727" lon="11.8323919"/><trkpt lat="51.4576712" lon="11.8324766"/></trkseg></trk><trk><name>way/252924074</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/252924074</desc><trkseg><trkpt lat="52.7652827" lon="10.8592928"/><trkpt lat="52.7652645" lon="10.8593142"/><trkpt lat="52.7652495" lon="10.8593413"/><trkpt lat="52.7652382" lon="10.8593729"/><trkpt lat="52.7652312" lon="10.8594078"/><trkpt lat="52.7652286" lon="10.8594443"/><trkpt lat="52.7652308" lon="10.8594809"/><trkpt lat="52.7652374" lon="10.8595159"/><trkpt lat="52.7652484" lon="10.8595479"/><trkpt lat="52.7652631" lon="10.8595755"/><trkpt lat="52.765281" lon="10.8595973"/><trkpt lat="52.7653012" lon="10.8596126"/><trkpt lat="52.7653229" lon="10.8596206"/><trkpt lat="52.7653452" lon="10.8596209"/><trkpt lat="52.7653669" lon="10.8596136"/><trkpt lat="52.7653873" lon="10.8595989"/><trkpt lat="52.7654055" lon="10.8595776"/><trkpt lat="52.7654205" lon="10.8595505"/><trkpt lat="52.7654318" lon="10.8595189"/><trkpt lat="52.7654388" lon="10.859484"/><trkpt lat="52.7654414" lon="10.8594475"/><trkpt lat="52.7654393" lon="10.8594109"/><trkpt lat="52.7654326" lon="10.8593759"/><trkpt lat="52.7654216" lon="10.8593439"/><trkpt lat="52.7654069" lon="10.8593163"/><trkpt lat="52.765389" lon="10.8592944"/><trkpt lat="52.7653688" lon="10.8592792"/><trkpt lat="52.7653471" lon="10.8592712"/><trkpt lat="52.7653249" lon="10.8592709"/><trkpt lat="52.7653031" lon="10.8592782"/><trkpt lat="52.7652827" lon="10.8592928"/></trkseg></trk><trk><name>way/252924075</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=3
+roof:shape=round
+id=way/252924075</desc><trkseg><trkpt lat="52.7568065" lon="10.9564562"/><trkpt lat="52.7567959" lon="10.9564645"/><trkpt lat="52.7567901" lon="10.9564706"/><trkpt lat="52.7567827" lon="10.9564801"/><trkpt lat="52.7567772" lon="10.956489"/><trkpt lat="52.7567692" lon="10.9565057"/><trkpt lat="52.7567645" lon="10.9565188"/><trkpt lat="52.756761" lon="10.956532"/><trkpt lat="52.7567579" lon="10.956549"/><trkpt lat="52.7567563" lon="10.9565648"/><trkpt lat="52.7567561" lon="10.9565883"/><trkpt lat="52.7567573" lon="10.9566035"/><trkpt lat="52.7567605" lon="10.9566228"/><trkpt lat="52.7567633" lon="10.956634"/><trkpt lat="52.7567684" lon="10.9566491"/><trkpt lat="52.7567724" lon="10.9566586"/><trkpt lat="52.7567775" lon="10.9566685"/><trkpt lat="52.7567841" lon="10.9566788"/><trkpt lat="52.7567949" lon="10.9566914"/><trkpt lat="52.7568003" lon="10.9566962"/><trkpt lat="52.7568119" lon="10.9567038"/><trkpt lat="52.7568156" lon="10.9567056"/><trkpt lat="52.7568234" lon="10.9567082"/><trkpt lat="52.7568297" lon="10.9567093"/><trkpt lat="52.7568384" lon="10.9567095"/><trkpt lat="52.7568435" lon="10.9567089"/><trkpt lat="52.756852" lon="10.9567067"/><trkpt lat="52.7568589" lon="10.9567037"/><trkpt lat="52.7568646" lon="10.9567003"/><trkpt lat="52.7568737" lon="10.9566933"/><trkpt lat="52.7568818" lon="10.9566848"/><trkpt lat="52.7568928" lon="10.9566689"/><trkpt lat="52.7569004" lon="10.9566534"/><trkpt lat="52.7569063" lon="10.956637"/><trkpt lat="52.756911" lon="10.9566179"/><trkpt lat="52.7569132" lon="10.9566031"/><trkpt lat="52.7569147" lon="10.9565803"/><trkpt lat="52.7569131" lon="10.9565522"/><trkpt lat="52.7569108" lon="10.9565379"/><trkpt lat="52.7569073" lon="10.9565233"/><trkpt lat="52.7569003" lon="10.9565033"/><trkpt lat="52.7568951" lon="10.9564923"/><trkpt lat="52.7568888" lon="10.9564816"/><trkpt lat="52.7568784" lon="10.9564683"/><trkpt lat="52.7568716" lon="10.9564618"/><trkpt lat="52.756866" lon="10.9564575"/><trkpt lat="52.7568576" lon="10.9564525"/><trkpt lat="52.7568495" lon="10.9564494"/><trkpt lat="52.7568375" lon="10.9564473"/><trkpt lat="52.7568325" lon="10.9564473"/><trkpt lat="52.7568232" lon="10.9564488"/><trkpt lat="52.7568201" lon="10.9564497"/><trkpt lat="52.7568065" lon="10.9564562"/></trkseg></trk><trk><name>way/252924076</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/252924076</desc><trkseg><trkpt lat="52.7566112" lon="10.9566666"/><trkpt lat="52.7565922" lon="10.9566813"/><trkpt lat="52.75658" lon="10.956694"/><trkpt lat="52.756567" lon="10.9567108"/><trkpt lat="52.7565557" lon="10.9567291"/><trkpt lat="52.7565422" lon="10.9567574"/><trkpt lat="52.7565332" lon="10.9567826"/><trkpt lat="52.7565265" lon="10.9568078"/><trkpt lat="52.7565209" lon="10.9568383"/><trkpt lat="52.7565178" lon="10.9568695"/><trkpt lat="52.7565174" lon="10.9569096"/><trkpt lat="52.7565199" lon="10.9569403"/><trkpt lat="52.7565254" lon="10.9569736"/><trkpt lat="52.7565312" lon="10.9569968"/><trkpt lat="52.7565398" lon="10.9570228"/><trkpt lat="52.7565478" lon="10.9570417"/><trkpt lat="52.7565574" lon="10.9570601"/><trkpt lat="52.75657" lon="10.9570797"/><trkpt lat="52.7565879" lon="10.9571007"/><trkpt lat="52.7566004" lon="10.9571119"/><trkpt lat="52.7566188" lon="10.9571241"/><trkpt lat="52.7566285" lon="10.9571286"/><trkpt lat="52.7566417" lon="10.957133"/><trkpt lat="52.7566541" lon="10.9571353"/><trkpt lat="52.7566689" lon="10.9571357"/><trkpt lat="52.75668" lon="10.9571344"/><trkpt lat="52.7566946" lon="10.9571305"/><trkpt lat="52.7567075" lon="10.957125"/><trkpt lat="52.7567192" lon="10.957118"/><trkpt lat="52.7567351" lon="10.9571055"/><trkpt lat="52.756751" lon="10.9570887"/><trkpt lat="52.75677" lon="10.9570611"/><trkpt lat="52.7567844" lon="10.9570321"/><trkpt lat="52.7567955" lon="10.9570012"/><trkpt lat="52.7568039" lon="10.9569672"/><trkpt lat="52.7568085" lon="10.9569369"/><trkpt lat="52.7568109" lon="10.9568953"/><trkpt lat="52.7568083" lon="10.9568477"/><trkpt lat="52.7568037" lon="10.9568181"/><trkpt lat="52.7567969" lon="10.9567896"/><trkpt lat="52.7567851" lon="10.9567558"/><trkpt lat="52.7567747" lon="10.9567336"/><trkpt lat="52.7567624" lon="10.9567128"/><trkpt lat="52.7567448" lon="10.9566904"/><trkpt lat="52.7567316" lon="10.9566777"/><trkpt lat="52.7567203" lon="10.9566689"/><trkpt lat="52.7567053" lon="10.9566602"/><trkpt lat="52.7566896" lon="10.9566541"/><trkpt lat="52.7566697" lon="10.9566506"/><trkpt lat="52.756658" lon="10.9566506"/><trkpt lat="52.7566428" lon="10.9566529"/><trkpt lat="52.7566334" lon="10.9566557"/><trkpt lat="52.7566112" lon="10.9566666"/></trkseg></trk><trk><name>way/252924077</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=3
+roof:shape=round
+id=way/252924077</desc><trkseg><trkpt lat="52.7568837" lon="10.9567238"/><trkpt lat="52.7568731" lon="10.9567321"/><trkpt lat="52.7568673" lon="10.9567382"/><trkpt lat="52.7568599" lon="10.9567478"/><trkpt lat="52.7568544" lon="10.9567566"/><trkpt lat="52.7568463" lon="10.9567734"/><trkpt lat="52.7568417" lon="10.9567865"/><trkpt lat="52.7568382" lon="10.9567996"/><trkpt lat="52.7568351" lon="10.9568166"/><trkpt lat="52.7568335" lon="10.9568324"/><trkpt lat="52.7568333" lon="10.956856"/><trkpt lat="52.7568345" lon="10.9568711"/><trkpt lat="52.7568377" lon="10.9568905"/><trkpt lat="52.7568405" lon="10.9569017"/><trkpt lat="52.7568455" lon="10.9569168"/><trkpt lat="52.7568496" lon="10.9569263"/><trkpt lat="52.7568547" lon="10.9569361"/><trkpt lat="52.7568613" lon="10.9569464"/><trkpt lat="52.756872" lon="10.9569591"/><trkpt lat="52.7568774" lon="10.9569639"/><trkpt lat="52.7568891" lon="10.9569715"/><trkpt lat="52.7568928" lon="10.9569732"/><trkpt lat="52.7569005" lon="10.9569758"/><trkpt lat="52.7569069" lon="10.956977"/><trkpt lat="52.7569155" lon="10.9569772"/><trkpt lat="52.7569206" lon="10.9569766"/><trkpt lat="52.7569292" lon="10.9569744"/><trkpt lat="52.756936" lon="10.9569714"/><trkpt lat="52.7569418" lon="10.956968"/><trkpt lat="52.7569509" lon="10.9569609"/><trkpt lat="52.756959" lon="10.9569524"/><trkpt lat="52.7569699" lon="10.9569366"/><trkpt lat="52.7569776" lon="10.956921"/><trkpt lat="52.7569835" lon="10.9569046"/><trkpt lat="52.7569882" lon="10.9568855"/><trkpt lat="52.7569904" lon="10.9568707"/><trkpt lat="52.7569918" lon="10.9568479"/><trkpt lat="52.7569902" lon="10.9568199"/><trkpt lat="52.7569879" lon="10.9568056"/><trkpt lat="52.7569845" lon="10.956791"/><trkpt lat="52.7569775" lon="10.956771"/><trkpt lat="52.7569723" lon="10.95676"/><trkpt lat="52.756966" lon="10.9567492"/><trkpt lat="52.7569556" lon="10.956736"/><trkpt lat="52.7569488" lon="10.9567294"/><trkpt lat="52.7569432" lon="10.9567252"/><trkpt lat="52.7569347" lon="10.9567202"/><trkpt lat="52.7569267" lon="10.956717"/><trkpt lat="52.7569147" lon="10.956715"/><trkpt lat="52.7569097" lon="10.956715"/><trkpt lat="52.7569004" lon="10.9567164"/><trkpt lat="52.7568973" lon="10.9567173"/><trkpt lat="52.7568837" lon="10.9567238"/></trkseg></trk><trk><name>way/252925192</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/252925192</desc><trkseg><trkpt lat="52.7000868" lon="11.2541503"/><trkpt lat="52.7000772" lon="11.254167"/><trkpt lat="52.7000729" lon="11.2541766"/><trkpt lat="52.7000682" lon="11.2541896"/><trkpt lat="52.7000631" lon="11.2542098"/><trkpt lat="52.7000611" lon="11.2542219"/><trkpt lat="52.7000591" lon="11.254244"/><trkpt lat="52.7000592" lon="11.2542614"/><trkpt lat="52.7000602" lon="11.2542753"/><trkpt lat="52.7000633" lon="11.2542956"/><trkpt lat="52.7000664" lon="11.2543085"/><trkpt lat="52.7000731" lon="11.2543282"/><trkpt lat="52.70008" lon="11.2543428"/><trkpt lat="52.7000861" lon="11.2543528"/><trkpt lat="52.700096" lon="11.2543655"/><trkpt lat="52.7001015" lon="11.254371"/><trkpt lat="52.7001113" lon="11.2543786"/><trkpt lat="52.7001195" lon="11.2543831"/><trkpt lat="52.7001288" lon="11.2543863"/><trkpt lat="52.700138" lon="11.2543878"/><trkpt lat="52.7001476" lon="11.2543875"/><trkpt lat="52.700161" lon="11.254384"/><trkpt lat="52.7001701" lon="11.2543793"/><trkpt lat="52.700178" lon="11.2543737"/><trkpt lat="52.7001848" lon="11.2543674"/><trkpt lat="52.7001894" lon="11.2543623"/><trkpt lat="52.7001973" lon="11.2543517"/><trkpt lat="52.7002057" lon="11.2543367"/><trkpt lat="52.7002089" lon="11.2543295"/><trkpt lat="52.7002133" lon="11.2543177"/><trkpt lat="52.7002177" lon="11.2543027"/><trkpt lat="52.7002224" lon="11.2542749"/><trkpt lat="52.7002235" lon="11.2542566"/><trkpt lat="52.7002231" lon="11.2542377"/><trkpt lat="52.700221" lon="11.2542182"/><trkpt lat="52.7002186" lon="11.2542055"/><trkpt lat="52.7002121" lon="11.254183"/><trkpt lat="52.7002036" lon="11.2541633"/><trkpt lat="52.7001965" lon="11.2541515"/><trkpt lat="52.7001858" lon="11.2541379"/><trkpt lat="52.7001763" lon="11.2541292"/><trkpt lat="52.7001641" lon="11.2541216"/><trkpt lat="52.7001547" lon="11.2541181"/><trkpt lat="52.7001461" lon="11.2541165"/><trkpt lat="52.7001383" lon="11.2541164"/><trkpt lat="52.7001278" lon="11.2541181"/><trkpt lat="52.7001215" lon="11.2541203"/><trkpt lat="52.700113" lon="11.2541246"/><trkpt lat="52.7001059" lon="11.2541295"/><trkpt lat="52.7000983" lon="11.2541363"/><trkpt lat="52.7000931" lon="11.2541421"/><trkpt lat="52.7000868" lon="11.2541503"/></trkseg></trk><trk><name>way/252925194</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/252925194</desc><trkseg><trkpt lat="52.7000096" lon="11.2544444"/><trkpt lat="52.6999984" lon="11.2544639"/><trkpt lat="52.6999929" lon="11.2544762"/><trkpt lat="52.6999871" lon="11.2544923"/><trkpt lat="52.6999811" lon="11.254516"/><trkpt lat="52.6999784" lon="11.2545318"/><trkpt lat="52.6999762" lon="11.2545579"/><trkpt lat="52.6999762" lon="11.2545792"/><trkpt lat="52.6999775" lon="11.2545966"/><trkpt lat="52.6999812" lon="11.2546207"/><trkpt lat="52.6999852" lon="11.2546372"/><trkpt lat="52.6999931" lon="11.2546606"/><trkpt lat="52.7000015" lon="11.2546784"/><trkpt lat="52.7000091" lon="11.2546909"/><trkpt lat="52.7000208" lon="11.2547059"/><trkpt lat="52.700028" lon="11.2547131"/><trkpt lat="52.7000396" lon="11.2547221"/><trkpt lat="52.7000498" lon="11.2547277"/><trkpt lat="52.700061" lon="11.2547316"/><trkpt lat="52.7000723" lon="11.2547334"/><trkpt lat="52.7000842" lon="11.254733"/><trkpt lat="52.7001" lon="11.2547289"/><trkpt lat="52.7001113" lon="11.2547232"/><trkpt lat="52.7001209" lon="11.2547163"/><trkpt lat="52.7001292" lon="11.2547087"/><trkpt lat="52.7001351" lon="11.2547021"/><trkpt lat="52.7001446" lon="11.2546893"/><trkpt lat="52.7001545" lon="11.2546717"/><trkpt lat="52.7001588" lon="11.2546622"/><trkpt lat="52.7001642" lon="11.2546479"/><trkpt lat="52.7001695" lon="11.2546291"/><trkpt lat="52.7001751" lon="11.2545965"/><trkpt lat="52.7001765" lon="11.2545735"/><trkpt lat="52.700176" lon="11.2545504"/><trkpt lat="52.7001735" lon="11.2545271"/><trkpt lat="52.7001704" lon="11.2545106"/><trkpt lat="52.7001626" lon="11.2544838"/><trkpt lat="52.7001523" lon="11.2544601"/><trkpt lat="52.7001435" lon="11.2544451"/><trkpt lat="52.7001307" lon="11.254429"/><trkpt lat="52.7001188" lon="11.2544181"/><trkpt lat="52.7001043" lon="11.2544091"/><trkpt lat="52.7000927" lon="11.2544047"/><trkpt lat="52.7000821" lon="11.2544028"/><trkpt lat="52.7000724" lon="11.2544027"/><trkpt lat="52.70006" lon="11.2544047"/><trkpt lat="52.700052" lon="11.2544075"/><trkpt lat="52.7000419" lon="11.2544126"/><trkpt lat="52.700033" lon="11.2544187"/><trkpt lat="52.700024" lon="11.2544268"/><trkpt lat="52.7000174" lon="11.2544341"/><trkpt lat="52.7000096" lon="11.2544444"/></trkseg></trk><trk><name>way/252949550</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/252949550</desc><trkseg><trkpt lat="52.64677" lon="11.7701413"/><trkpt lat="52.6467949" lon="11.7698834"/><trkpt lat="52.6467807" lon="11.7696489"/><trkpt lat="52.6466669" lon="11.7695668"/><trkpt lat="52.6465084" lon="11.7695193"/><trkpt lat="52.6451721" lon="11.7697105"/><trkpt lat="52.6452422" lon="11.7713244"/><trkpt lat="52.6461886" lon="11.7709937"/><trkpt lat="52.64677" lon="11.7701413"/></trkseg></trk><trk><name>way/255658024</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/255658024</desc><trkseg><trkpt lat="52.2396941" lon="11.2748224"/><trkpt lat="52.2397047" lon="11.2748688"/><trkpt lat="52.2397231" lon="11.2749082"/><trkpt lat="52.2397478" lon="11.2749371"/><trkpt lat="52.2397765" lon="11.2749531"/><trkpt lat="52.2398068" lon="11.2749546"/><trkpt lat="52.2398361" lon="11.2749417"/><trkpt lat="52.2398617" lon="11.2749155"/><trkpt lat="52.2398816" lon="11.2748784"/><trkpt lat="52.239894" lon="11.2748335"/><trkpt lat="52.2398979" lon="11.2747846"/><trkpt lat="52.239893" lon="11.274736"/><trkpt lat="52.2398797" lon="11.2746918"/><trkpt lat="52.2398591" lon="11.2746558"/><trkpt lat="52.239833" lon="11.2746311"/><trkpt lat="52.2398036" lon="11.2746197"/><trkpt lat="52.2397763" lon="11.2746219"/><trkpt lat="52.2397502" lon="11.2746357"/><trkpt lat="52.2397274" lon="11.2746603"/><trkpt lat="52.2397092" lon="11.2746938"/><trkpt lat="52.2396972" lon="11.2747339"/><trkpt lat="52.239692" lon="11.2747778"/><trkpt lat="52.2396941" lon="11.2748224"/></trkseg></trk><trk><name>way/255658026</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/255658026</desc><trkseg><trkpt lat="52.2394689" lon="11.2748379"/><trkpt lat="52.2394899" lon="11.2748793"/><trkpt lat="52.2395182" lon="11.274907"/><trkpt lat="52.2395504" lon="11.2749178"/><trkpt lat="52.2395831" lon="11.2749104"/><trkpt lat="52.2396124" lon="11.2748858"/><trkpt lat="52.239635" lon="11.2748467"/><trkpt lat="52.2396484" lon="11.2747976"/><trkpt lat="52.239651" lon="11.2747439"/><trkpt lat="52.2396444" lon="11.2746988"/><trkpt lat="52.2396301" lon="11.2746587"/><trkpt lat="52.2396094" lon="11.274627"/><trkpt lat="52.239584" lon="11.2746063"/><trkpt lat="52.239556" lon="11.2745985"/><trkpt lat="52.2395267" lon="11.2746046"/><trkpt lat="52.2394999" lon="11.2746247"/><trkpt lat="52.239478" lon="11.2746568"/><trkpt lat="52.239463" lon="11.2746982"/><trkpt lat="52.2394562" lon="11.274745"/><trkpt lat="52.2394582" lon="11.2747931"/><trkpt lat="52.2394689" lon="11.2748379"/></trkseg></trk><trk><name>way/264555301</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/264555301</desc><trkseg><trkpt lat="52.922564" lon="11.7950275"/><trkpt lat="52.922571" lon="11.7949717"/><trkpt lat="52.9225673" lon="11.794915"/><trkpt lat="52.9225531" lon="11.7948631"/><trkpt lat="52.92253" lon="11.7948209"/><trkpt lat="52.9225001" lon="11.7947927"/><trkpt lat="52.9224665" lon="11.7947811"/><trkpt lat="52.9224287" lon="11.7947892"/><trkpt lat="52.9223948" lon="11.7948182"/><trkpt lat="52.922369" lon="11.7948647"/><trkpt lat="52.9223543" lon="11.794923"/><trkpt lat="52.9223524" lon="11.7949861"/><trkpt lat="52.9223638" lon="11.7950465"/><trkpt lat="52.9223869" lon="11.7950968"/><trkpt lat="52.9224189" lon="11.795131"/><trkpt lat="52.9224561" lon="11.7951449"/><trkpt lat="52.9224903" lon="11.7951387"/><trkpt lat="52.9225216" lon="11.7951153"/><trkpt lat="52.922547" lon="11.795077"/><trkpt lat="52.922564" lon="11.7950275"/></trkseg></trk><trk><name>way/264555302</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/264555302</desc><trkseg><trkpt lat="52.9226735" lon="11.7954469"/><trkpt lat="52.9226882" lon="11.7953887"/><trkpt lat="52.92269" lon="11.7953256"/><trkpt lat="52.9226787" lon="11.7952653"/><trkpt lat="52.9226557" lon="11.7952151"/><trkpt lat="52.9226236" lon="11.7951809"/><trkpt lat="52.9225865" lon="11.795167"/><trkpt lat="52.9225524" lon="11.7951732"/><trkpt lat="52.9225211" lon="11.7951966"/><trkpt lat="52.9224957" lon="11.7952349"/><trkpt lat="52.9224787" lon="11.7952843"/><trkpt lat="52.9224717" lon="11.79534"/><trkpt lat="52.9224755" lon="11.7953966"/><trkpt lat="52.9224896" lon="11.7954485"/><trkpt lat="52.9225127" lon="11.7954906"/><trkpt lat="52.9225425" lon="11.7955188"/><trkpt lat="52.9225761" lon="11.7955303"/><trkpt lat="52.9226139" lon="11.7955223"/><trkpt lat="52.9226477" lon="11.7954933"/><trkpt lat="52.9226735" lon="11.7954469"/></trkseg></trk><trk><name>way/283594145</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/283594145</desc><trkseg><trkpt lat="52.4733277" lon="11.1160843"/><trkpt lat="52.473321" lon="11.1160919"/><trkpt lat="52.4733146" lon="11.1161003"/><trkpt lat="52.4733087" lon="11.1161096"/><trkpt lat="52.4733033" lon="11.1161196"/><trkpt lat="52.4732983" lon="11.1161302"/><trkpt lat="52.4732939" lon="11.1161415"/><trkpt lat="52.4732901" lon="11.1161534"/><trkpt lat="52.4732868" lon="11.1161656"/><trkpt lat="52.4732841" lon="11.1161783"/><trkpt lat="52.4732821" lon="11.1161913"/><trkpt lat="52.4732807" lon="11.1162045"/><trkpt lat="52.4732799" lon="11.1162179"/><trkpt lat="52.4732798" lon="11.1162313"/><trkpt lat="52.4732803" lon="11.1162447"/><trkpt lat="52.4732815" lon="11.1162579"/><trkpt lat="52.4732833" lon="11.116271"/><trkpt lat="52.4732858" lon="11.1162838"/><trkpt lat="52.4732888" lon="11.1162962"/><trkpt lat="52.4732925" lon="11.1163082"/><trkpt lat="52.4732967" lon="11.1163197"/><trkpt lat="52.4733014" lon="11.1163306"/><trkpt lat="52.4733067" lon="11.1163409"/><trkpt lat="52.4733125" lon="11.1163504"/><trkpt lat="52.4733187" lon="11.1163591"/><trkpt lat="52.4733253" lon="11.116367"/><trkpt lat="52.4733322" lon="11.1163741"/><trkpt lat="52.4733395" lon="11.1163802"/><trkpt lat="52.473347" lon="11.1163853"/><trkpt lat="52.4733548" lon="11.1163894"/><trkpt lat="52.4733628" lon="11.1163925"/><trkpt lat="52.4733708" lon="11.1163945"/><trkpt lat="52.4733789" lon="11.1163955"/><trkpt lat="52.473387" lon="11.1163955"/><trkpt lat="52.473395" lon="11.1163944"/><trkpt lat="52.473403" lon="11.1163922"/><trkpt lat="52.4734108" lon="11.1163891"/><trkpt lat="52.4734185" lon="11.1163849"/><trkpt lat="52.473426" lon="11.1163798"/><trkpt lat="52.4734331" lon="11.1163737"/><trkpt lat="52.47344" lon="11.1163667"/><trkpt lat="52.4734465" lon="11.1163589"/><trkpt lat="52.4734526" lon="11.1163502"/><trkpt lat="52.4734583" lon="11.1163408"/><trkpt lat="52.4734635" lon="11.1163307"/><trkpt lat="52.4734682" lon="11.1163199"/><trkpt lat="52.4734724" lon="11.1163085"/><trkpt lat="52.473476" lon="11.1162967"/><trkpt lat="52.4734791" lon="11.1162844"/><trkpt lat="52.4734815" lon="11.1162718"/><trkpt lat="52.4734834" lon="11.1162588"/><trkpt lat="52.4734846" lon="11.1162457"/><trkpt lat="52.4734852" lon="11.1162325"/><trkpt lat="52.4734851" lon="11.1162192"/><trkpt lat="52.4734844" lon="11.116206"/><trkpt lat="52.4734831" lon="11.1161929"/><trkpt lat="52.4734812" lon="11.1161801"/><trkpt lat="52.4734787" lon="11.1161677"/><trkpt lat="52.4734756" lon="11.1161557"/><trkpt lat="52.473472" lon="11.1161442"/><trkpt lat="52.4734678" lon="11.1161331"/><trkpt lat="52.4734632" lon="11.1161226"/><trkpt lat="52.473458" lon="11.1161127"/><trkpt lat="52.4734524" lon="11.1161034"/><trkpt lat="52.4734464" lon="11.116095"/><trkpt lat="52.4734401" lon="11.1160873"/><trkpt lat="52.4734333" lon="11.1160804"/><trkpt lat="52.4734263" lon="11.1160744"/><trkpt lat="52.473419" lon="11.1160693"/><trkpt lat="52.4734115" lon="11.1160652"/><trkpt lat="52.4734038" lon="11.116062"/><trkpt lat="52.473396" lon="11.1160598"/><trkpt lat="52.4733881" lon="11.1160586"/><trkpt lat="52.4733802" lon="11.1160583"/><trkpt lat="52.4733723" lon="11.1160591"/><trkpt lat="52.4733644" lon="11.1160609"/><trkpt lat="52.4733567" lon="11.1160637"/><trkpt lat="52.4733491" lon="11.1160675"/><trkpt lat="52.4733417" lon="11.1160722"/><trkpt lat="52.4733346" lon="11.1160778"/><trkpt lat="52.4733277" lon="11.1160843"/></trkseg></trk><trk><name>way/283594149</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/283594149</desc><trkseg><trkpt lat="52.4735345" lon="11.1162196"/><trkpt lat="52.4735287" lon="11.1162252"/><trkpt lat="52.4735233" lon="11.1162315"/><trkpt lat="52.4735182" lon="11.1162385"/><trkpt lat="52.4735134" lon="11.1162461"/><trkpt lat="52.4735091" lon="11.1162544"/><trkpt lat="52.4735051" lon="11.1162632"/><trkpt lat="52.4735016" lon="11.1162724"/><trkpt lat="52.4734986" lon="11.1162821"/><trkpt lat="52.473496" lon="11.1162922"/><trkpt lat="52.473494" lon="11.1163026"/><trkpt lat="52.4734924" lon="11.1163132"/><trkpt lat="52.4734914" lon="11.116324"/><trkpt lat="52.4734909" lon="11.1163349"/><trkpt lat="52.4734909" lon="11.1163458"/><trkpt lat="52.4734915" lon="11.1163567"/><trkpt lat="52.4734926" lon="11.1163674"/><trkpt lat="52.4734942" lon="11.116378"/><trkpt lat="52.4734963" lon="11.1163884"/><trkpt lat="52.4734989" lon="11.1163984"/><trkpt lat="52.473502" lon="11.1164081"/><trkpt lat="52.4735056" lon="11.1164173"/><trkpt lat="52.4735096" lon="11.116426"/><trkpt lat="52.473514" lon="11.1164342"/><trkpt lat="52.4735188" lon="11.1164417"/><trkpt lat="52.4735239" lon="11.1164486"/><trkpt lat="52.4735294" lon="11.1164549"/><trkpt lat="52.4735351" lon="11.1164603"/><trkpt lat="52.4735411" lon="11.1164651"/><trkpt lat="52.4735473" lon="11.116469"/><trkpt lat="52.4735537" lon="11.116472"/><trkpt lat="52.4735602" lon="11.1164743"/><trkpt lat="52.4735668" lon="11.1164756"/><trkpt lat="52.4735735" lon="11.1164761"/><trkpt lat="52.4735801" lon="11.1164758"/><trkpt lat="52.4735866" lon="11.1164745"/><trkpt lat="52.473593" lon="11.1164725"/><trkpt lat="52.4735992" lon="11.1164697"/><trkpt lat="52.4736053" lon="11.116466"/><trkpt lat="52.4736113" lon="11.1164616"/><trkpt lat="52.473617" lon="11.1164564"/><trkpt lat="52.4736224" lon="11.1164506"/><trkpt lat="52.4736275" lon="11.116444"/><trkpt lat="52.4736323" lon="11.1164368"/><trkpt lat="52.4736368" lon="11.116429"/><trkpt lat="52.4736408" lon="11.1164207"/><trkpt lat="52.4736445" lon="11.1164118"/><trkpt lat="52.4736477" lon="11.1164026"/><trkpt lat="52.4736505" lon="11.1163929"/><trkpt lat="52.4736528" lon="11.1163829"/><trkpt lat="52.4736546" lon="11.1163727"/><trkpt lat="52.4736559" lon="11.1163622"/><trkpt lat="52.4736567" lon="11.1163516"/><trkpt lat="52.4736571" lon="11.116341"/><trkpt lat="52.4736569" lon="11.1163303"/><trkpt lat="52.4736562" lon="11.1163197"/><trkpt lat="52.4736549" lon="11.1163092"/><trkpt lat="52.4736533" lon="11.1162991"/><trkpt lat="52.4736512" lon="11.1162892"/><trkpt lat="52.4736486" lon="11.1162797"/><trkpt lat="52.4736456" lon="11.1162704"/><trkpt lat="52.4736421" lon="11.1162616"/><trkpt lat="52.4736383" lon="11.1162533"/><trkpt lat="52.4736341" lon="11.1162455"/><trkpt lat="52.4736295" lon="11.1162382"/><trkpt lat="52.4736246" lon="11.1162315"/><trkpt lat="52.4736194" lon="11.1162254"/><trkpt lat="52.4736139" lon="11.1162201"/><trkpt lat="52.4736082" lon="11.1162154"/><trkpt lat="52.4736023" lon="11.1162114"/><trkpt lat="52.4735962" lon="11.1162083"/><trkpt lat="52.47359" lon="11.1162058"/><trkpt lat="52.4735838" lon="11.1162042"/><trkpt lat="52.4735774" lon="11.1162034"/><trkpt lat="52.473571" lon="11.1162033"/><trkpt lat="52.4735647" lon="11.1162041"/><trkpt lat="52.4735584" lon="11.1162057"/><trkpt lat="52.4735522" lon="11.116208"/><trkpt lat="52.4735461" lon="11.1162111"/><trkpt lat="52.4735402" lon="11.116215"/><trkpt lat="52.4735345" lon="11.1162196"/></trkseg></trk><trk><name>way/296252406</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/296252406</desc><trkseg><trkpt lat="52.0114882" lon="11.3516961"/><trkpt lat="52.0114939" lon="11.3516256"/><trkpt lat="52.0114825" lon="11.3515636"/><trkpt lat="52.0114583" lon="11.3515137"/><trkpt lat="52.0114202" lon="11.3514802"/><trkpt lat="52.011386" lon="11.3514738"/><trkpt lat="52.011343" lon="11.3514938"/><trkpt lat="52.0113137" lon="11.3515322"/><trkpt lat="52.0112926" lon="11.3515956"/><trkpt lat="52.0112895" lon="11.3516512"/><trkpt lat="52.0113018" lon="11.3517189"/><trkpt lat="52.0113277" lon="11.3517687"/><trkpt lat="52.0113632" lon="11.3517994"/><trkpt lat="52.0113956" lon="11.3518058"/><trkpt lat="52.0114369" lon="11.3517887"/><trkpt lat="52.0114658" lon="11.3517538"/><trkpt lat="52.0114882" lon="11.3516961"/></trkseg></trk><trk><name>way/296252407</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/296252407</desc><trkseg><trkpt lat="52.0114347" lon="11.3511141"/><trkpt lat="52.0113952" lon="11.3511397"/><trkpt lat="52.0113628" lon="11.351196"/><trkpt lat="52.0113514" lon="11.3512445"/><trkpt lat="52.0113505" lon="11.3513057"/><trkpt lat="52.0113636" lon="11.3513634"/><trkpt lat="52.0113943" lon="11.3514154"/><trkpt lat="52.0114307" lon="11.3514411"/><trkpt lat="52.011468" lon="11.3514425"/><trkpt lat="52.0115053" lon="11.3514197"/><trkpt lat="52.011536" lon="11.3513727"/><trkpt lat="52.0115526" lon="11.3513107"/><trkpt lat="52.0115526" lon="11.3512473"/><trkpt lat="52.011536" lon="11.3511839"/><trkpt lat="52.0115096" lon="11.3511412"/><trkpt lat="52.0114733" lon="11.3511155"/><trkpt lat="52.0114347" lon="11.3511141"/></trkseg></trk><trk><name>way/296252408</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/296252408</desc><trkseg><trkpt lat="52.0111278" lon="11.3510001"/><trkpt lat="52.01114" lon="11.3510885"/><trkpt lat="52.0111628" lon="11.3511426"/><trkpt lat="52.011204" lon="11.351191"/><trkpt lat="52.0112505" lon="11.3512095"/><trkpt lat="52.0112944" lon="11.351201"/><trkpt lat="52.0113435" lon="11.351154"/><trkpt lat="52.0113768" lon="11.3510742"/><trkpt lat="52.0113847" lon="11.3510058"/><trkpt lat="52.0113786" lon="11.350936"/><trkpt lat="52.0113505" lon="11.3508605"/><trkpt lat="52.0113093" lon="11.3508121"/><trkpt lat="52.0112619" lon="11.3507935"/><trkpt lat="52.0112058" lon="11.3508106"/><trkpt lat="52.0111698" lon="11.3508491"/><trkpt lat="52.01114" lon="11.3509146"/><trkpt lat="52.0111278" lon="11.3510001"/></trkseg></trk><trk><name>way/308038334</name><desc>generator:source=biomass
+power=generator
+id=way/308038334</desc><trkseg><trkpt lat="52.7378454" lon="11.4656706"/><trkpt lat="52.7376435" lon="11.4655838"/><trkpt lat="52.7376332" lon="11.4657353"/><trkpt lat="52.737487" lon="11.4658104"/><trkpt lat="52.73615" lon="11.4663152"/><trkpt lat="52.7359344" lon="11.4668887"/><trkpt lat="52.7360542" lon="11.468634"/><trkpt lat="52.7364937" lon="11.4683785"/><trkpt lat="52.7367861" lon="11.4686784"/><trkpt lat="52.7369062" lon="11.4692667"/><trkpt lat="52.7373788" lon="11.4693701"/><trkpt lat="52.7373541" lon="11.4691452"/><trkpt lat="52.7377853" lon="11.4690574"/><trkpt lat="52.7376512" lon="11.467121"/><trkpt lat="52.7383847" lon="11.466936"/><trkpt lat="52.7387235" lon="11.466295"/><trkpt lat="52.7378454" lon="11.4656706"/></trkseg></trk><trk><name>way/332236145</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=2
+roof:shape=round
+id=way/332236145</desc><trkseg><trkpt lat="52.8632593" lon="11.3378611"/><trkpt lat="52.8632366" lon="11.337858"/><trkpt lat="52.8632147" lon="11.3378679"/><trkpt lat="52.8631961" lon="11.3378897"/><trkpt lat="52.8631841" lon="11.3379173"/><trkpt lat="52.8631779" lon="11.3379497"/><trkpt lat="52.863178" lon="11.3379836"/><trkpt lat="52.8631845" lon="11.3380159"/><trkpt lat="52.8631966" lon="11.3380433"/><trkpt lat="52.8632133" lon="11.3380631"/><trkpt lat="52.8632328" lon="11.3380734"/><trkpt lat="52.8632533" lon="11.3380732"/><trkpt lat="52.8632728" lon="11.3380625"/><trkpt lat="52.8632893" lon="11.3380424"/><trkpt lat="52.8633022" lon="11.3380114"/><trkpt lat="52.863308" lon="11.3379749"/><trkpt lat="52.8633059" lon="11.3379374"/><trkpt lat="52.8632962" lon="11.3379033"/><trkpt lat="52.86328" lon="11.3378768"/><trkpt lat="52.8632593" lon="11.3378611"/></trkseg></trk><trk><name>way/332236146</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332236146</desc><trkseg><trkpt lat="52.8631355" lon="11.3384209"/><trkpt lat="52.863162" lon="11.3384747"/><trkpt lat="52.863198" lon="11.3385102"/><trkpt lat="52.8632392" lon="11.3385232"/><trkpt lat="52.8632766" lon="11.3385143"/><trkpt lat="52.8633105" lon="11.3384867"/><trkpt lat="52.8633375" lon="11.3384431"/><trkpt lat="52.8633552" lon="11.3383877"/><trkpt lat="52.8633616" lon="11.3383261"/><trkpt lat="52.8633562" lon="11.3382641"/><trkpt lat="52.8633395" lon="11.338208"/><trkpt lat="52.8633131" lon="11.3381632"/><trkpt lat="52.8632797" lon="11.338134"/><trkpt lat="52.8632425" lon="11.3381234"/><trkpt lat="52.8632011" lon="11.3381345"/><trkpt lat="52.8631646" lon="11.3381684"/><trkpt lat="52.8631372" lon="11.338221"/><trkpt lat="52.8631223" lon="11.3382859"/><trkpt lat="52.8631217" lon="11.3383553"/><trkpt lat="52.8631355" lon="11.3384209"/></trkseg></trk><trk><name>way/332236148</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332236148</desc><trkseg><trkpt lat="52.8631284" lon="11.3375871"/><trkpt lat="52.8630955" lon="11.3375827"/><trkpt lat="52.8630637" lon="11.3375971"/><trkpt lat="52.8630367" lon="11.3376287"/><trkpt lat="52.8630194" lon="11.3376688"/><trkpt lat="52.8630103" lon="11.3377157"/><trkpt lat="52.8630105" lon="11.3377649"/><trkpt lat="52.8630199" lon="11.3378117"/><trkpt lat="52.8630375" lon="11.3378514"/><trkpt lat="52.8630616" lon="11.3378801"/><trkpt lat="52.86309" lon="11.3378951"/><trkpt lat="52.8631197" lon="11.3378948"/><trkpt lat="52.863148" lon="11.3378793"/><trkpt lat="52.8631719" lon="11.3378501"/><trkpt lat="52.8631907" lon="11.3378051"/><trkpt lat="52.863199" lon="11.3377523"/><trkpt lat="52.863196" lon="11.3376978"/><trkpt lat="52.8631819" lon="11.3376484"/><trkpt lat="52.8631584" lon="11.3376099"/><trkpt lat="52.8631284" lon="11.3375871"/></trkseg></trk><trk><name>way/332974345</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332974345</desc><trkseg><trkpt lat="52.4476519" lon="12.2543114"/><trkpt lat="52.4476324" lon="12.2542494"/><trkpt lat="52.4476017" lon="12.2542012"/><trkpt lat="52.4475631" lon="12.2541719"/><trkpt lat="52.4475208" lon="12.2541648"/><trkpt lat="52.4474794" lon="12.2541806"/><trkpt lat="52.4474433" lon="12.2542176"/><trkpt lat="52.4474166" lon="12.2542718"/><trkpt lat="52.447402" lon="12.2543374"/><trkpt lat="52.4474012" lon="12.2544071"/><trkpt lat="52.4474142" lon="12.2544735"/><trkpt lat="52.4474397" lon="12.2545294"/><trkpt lat="52.4474748" lon="12.2545687"/><trkpt lat="52.4475158" lon="12.2545871"/><trkpt lat="52.4475582" lon="12.2545827"/><trkpt lat="52.4475975" lon="12.2545559"/><trkpt lat="52.4476293" lon="12.2545097"/><trkpt lat="52.4476503" lon="12.254449"/><trkpt lat="52.4476581" lon="12.2543804"/><trkpt lat="52.4476519" lon="12.2543114"/></trkseg></trk><trk><name>way/332974346</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332974346</desc><trkseg><trkpt lat="52.4475369" lon="12.2548284"/><trkpt lat="52.447533" lon="12.2547577"/><trkpt lat="52.4475166" lon="12.254692"/><trkpt lat="52.4474891" lon="12.2546372"/><trkpt lat="52.447453" lon="12.2545982"/><trkpt lat="52.4474114" lon="12.2545783"/><trkpt lat="52.4473682" lon="12.2545794"/><trkpt lat="52.447327" lon="12.2546014"/><trkpt lat="52.4472917" lon="12.2546423"/><trkpt lat="52.4472652" lon="12.2546984"/><trkpt lat="52.44725" lon="12.2547649"/><trkpt lat="52.4472475" lon="12.2548358"/><trkpt lat="52.4472578" lon="12.2549047"/><trkpt lat="52.44728" lon="12.2549657"/><trkpt lat="52.4473122" lon="12.2550131"/><trkpt lat="52.4473514" lon="12.2550429"/><trkpt lat="52.4473943" lon="12.2550524"/><trkpt lat="52.447437" lon="12.2550407"/><trkpt lat="52.4474757" lon="12.255009"/><trkpt lat="52.4475069" lon="12.2549599"/><trkpt lat="52.447528" lon="12.2548978"/><trkpt lat="52.4475369" lon="12.2548284"/></trkseg></trk><trk><name>way/332974347</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332974347</desc><trkseg><trkpt lat="52.4473998" lon="12.2541899"/><trkpt lat="52.4473943" lon="12.2541284"/><trkpt lat="52.4473781" lon="12.2540722"/><trkpt lat="52.4473524" lon="12.2540263"/><trkpt lat="52.4473197" lon="12.2539949"/><trkpt lat="52.4472828" lon="12.2539807"/><trkpt lat="52.447245" lon="12.253985"/><trkpt lat="52.4472096" lon="12.2540074"/><trkpt lat="52.4471799" lon="12.2540459"/><trkpt lat="52.4471583" lon="12.2540971"/><trkpt lat="52.447147" lon="12.2541564"/><trkpt lat="52.4471467" lon="12.2542186"/><trkpt lat="52.4471577" lon="12.2542782"/><trkpt lat="52.4471789" lon="12.2543297"/><trkpt lat="52.4472084" lon="12.2543688"/><trkpt lat="52.4472436" lon="12.2543918"/><trkpt lat="52.4472814" lon="12.2543968"/><trkpt lat="52.4473184" lon="12.2543834"/><trkpt lat="52.4473513" lon="12.2543526"/><trkpt lat="52.4473772" lon="12.2543072"/><trkpt lat="52.4473939" lon="12.2542513"/><trkpt lat="52.4473998" lon="12.2541899"/></trkseg></trk><trk><name>way/332974350</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332974350</desc><trkseg><trkpt lat="52.4446504" lon="12.2535738"/><trkpt lat="52.4446309" lon="12.2534921"/><trkpt lat="52.4445964" lon="12.2534252"/><trkpt lat="52.4445504" lon="12.2533804"/><trkpt lat="52.4444981" lon="12.2533624"/><trkpt lat="52.4444451" lon="12.2533733"/><trkpt lat="52.4443971" lon="12.2534119"/><trkpt lat="52.4443593" lon="12.2534739"/><trkpt lat="52.4443358" lon="12.2535527"/><trkpt lat="52.4443293" lon="12.2536397"/><trkpt lat="52.4443403" lon="12.2537256"/><trkpt lat="52.4443676" lon="12.2538009"/><trkpt lat="52.4444084" lon="12.2538575"/><trkpt lat="52.4444582" lon="12.2538893"/><trkpt lat="52.4445117" lon="12.2538929"/><trkpt lat="52.4445629" lon="12.2538678"/><trkpt lat="52.4446064" lon="12.2538169"/><trkpt lat="52.4446374" lon="12.2537455"/><trkpt lat="52.4446526" lon="12.2536614"/><trkpt lat="52.4446504" lon="12.2535738"/></trkseg></trk><trk><name>way/332974352</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=2
+roof:shape=round
+id=way/332974352</desc><trkseg><trkpt lat="52.4462059" lon="12.2553657"/><trkpt lat="52.4461937" lon="12.2553758"/><trkpt lat="52.446184" lon="12.2553916"/><trkpt lat="52.4461779" lon="12.2554117"/><trkpt lat="52.4461759" lon="12.2554338"/><trkpt lat="52.4461785" lon="12.2554575"/><trkpt lat="52.4461859" lon="12.2554783"/><trkpt lat="52.4461972" lon="12.2554939"/><trkpt lat="52.4462109" lon="12.2555023"/><trkpt lat="52.4462256" lon="12.2555026"/><trkpt lat="52.4462395" lon="12.2554948"/><trkpt lat="52.446251" lon="12.2554798"/><trkpt lat="52.4462587" lon="12.2554593"/><trkpt lat="52.4462618" lon="12.2554357"/><trkpt lat="52.4462601" lon="12.2554135"/><trkpt lat="52.4462543" lon="12.2553932"/><trkpt lat="52.4462449" lon="12.2553769"/><trkpt lat="52.4462329" lon="12.2553663"/><trkpt lat="52.4462194" lon="12.2553625"/><trkpt lat="52.4462059" lon="12.2553657"/></trkseg></trk><trk><name>way/332974356</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332974356</desc><trkseg><trkpt lat="52.4507933" lon="12.25691"/><trkpt lat="52.4507603" lon="12.2568769"/><trkpt lat="52.4507228" lon="12.2568623"/><trkpt lat="52.4506843" lon="12.2568674"/><trkpt lat="52.4506486" lon="12.2568919"/><trkpt lat="52.4506194" lon="12.2569333"/><trkpt lat="52.4505994" lon="12.2569874"/><trkpt lat="52.4505906" lon="12.2570491"/><trkpt lat="52.4505949" lon="12.2571188"/><trkpt lat="52.4506135" lon="12.2571819"/><trkpt lat="52.450644" lon="12.2572307"/><trkpt lat="52.4506829" lon="12.2572596"/><trkpt lat="52.4507255" lon="12.2572649"/><trkpt lat="52.4507666" lon="12.2572461"/><trkpt lat="52.4508013" lon="12.2572053"/><trkpt lat="52.4508255" lon="12.2571476"/><trkpt lat="52.4508362" lon="12.2570798"/><trkpt lat="52.4508332" lon="12.2570166"/><trkpt lat="52.4508184" lon="12.2569581"/><trkpt lat="52.4507933" lon="12.25691"/></trkseg></trk><trk><name>way/332974357</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332974357</desc><trkseg><trkpt lat="52.4511966" lon="12.2559386"/><trkpt lat="52.4511814" lon="12.2558953"/><trkpt lat="52.4511585" lon="12.2558624"/><trkpt lat="52.4511304" lon="12.2558432"/><trkpt lat="52.4511" lon="12.25584"/><trkpt lat="52.4510706" lon="12.2558529"/><trkpt lat="52.4510453" lon="12.2558806"/><trkpt lat="52.4510268" lon="12.2559202"/><trkpt lat="52.451017" lon="12.2559675"/><trkpt lat="52.451017" lon="12.2560175"/><trkpt lat="52.4510271" lon="12.2560658"/><trkpt lat="52.4510463" lon="12.2561059"/><trkpt lat="52.4510724" lon="12.2561335"/><trkpt lat="52.4511027" lon="12.2561455"/><trkpt lat="52.4511337" lon="12.2561405"/><trkpt lat="52.4511619" lon="12.2561191"/><trkpt lat="52.4511843" lon="12.2560837"/><trkpt lat="52.4511984" lon="12.2560382"/><trkpt lat="52.4512026" lon="12.2559876"/><trkpt lat="52.4511966" lon="12.2559386"/></trkseg></trk><trk><name>way/332974358</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/332974358</desc><trkseg><trkpt lat="52.4508612" lon="12.2560641"/><trkpt lat="52.450839" lon="12.2561044"/><trkpt lat="52.4508258" lon="12.2561541"/><trkpt lat="52.4508229" lon="12.2562082"/><trkpt lat="52.4508306" lon="12.2562609"/><trkpt lat="52.4508482" lon="12.2563069"/><trkpt lat="52.4508738" lon="12.2563413"/><trkpt lat="52.4509047" lon="12.2563606"/><trkpt lat="52.4509377" lon="12.2563627"/><trkpt lat="52.4509695" lon="12.2563474"/><trkpt lat="52.4509966" lon="12.2563163"/><trkpt lat="52.4510152" lon="12.256276"/><trkpt lat="52.4510257" lon="12.2562283"/><trkpt lat="52.4510271" lon="12.2561777"/><trkpt lat="52.4510192" lon="12.2561288"/><trkpt lat="52.4510028" lon="12.2560859"/><trkpt lat="52.4509794" lon="12.2560529"/><trkpt lat="52.450951" lon="12.2560329"/><trkpt lat="52.4509203" lon="12.2560276"/><trkpt lat="52.4508901" lon="12.2560376"/><trkpt lat="52.4508612" lon="12.2560641"/></trkseg></trk><trk><name>way/371033855</name><desc>generator:source=biomass
+power=generator
+id=way/371033855</desc><trkseg><trkpt lat="52.4016588" lon="12.0528531"/><trkpt lat="52.4016281" lon="12.0528808"/><trkpt lat="52.4016051" lon="12.0529239"/><trkpt lat="52.4015923" lon="12.0529772"/><trkpt lat="52.4015913" lon="12.0530345"/><trkpt lat="52.4016023" lon="12.053089"/><trkpt lat="52.4016239" lon="12.0531341"/><trkpt lat="52.40165" lon="12.0531621"/><trkpt lat="52.4016802" lon="12.0531758"/><trkpt lat="52.4017115" lon="12.0531737"/><trkpt lat="52.4017408" lon="12.0531562"/><trkpt lat="52.4017655" lon="12.0531248"/><trkpt lat="52.4017833" lon="12.0530825"/><trkpt lat="52.4017923" lon="12.0530335"/><trkpt lat="52.4017919" lon="12.0529822"/><trkpt lat="52.4017801" lon="12.0529282"/><trkpt lat="52.4017578" lon="12.0528841"/><trkpt lat="52.4017277" lon="12.0528548"/><trkpt lat="52.4016933" lon="12.052844"/><trkpt lat="52.4016588" lon="12.0528531"/></trkseg></trk><trk><name>way/371033857</name><desc>generator:source=biomass
+power=generator
+id=way/371033857</desc><trkseg><trkpt lat="52.4017087" lon="12.0532679"/><trkpt lat="52.4017012" lon="12.0533202"/><trkpt lat="52.4017043" lon="12.0533737"/><trkpt lat="52.4017177" lon="12.0534228"/><trkpt lat="52.4017399" lon="12.0534622"/><trkpt lat="52.4017697" lon="12.0534884"/><trkpt lat="52.4018031" lon="12.0534971"/><trkpt lat="52.4018364" lon="12.0534872"/><trkpt lat="52.4018658" lon="12.0534598"/><trkpt lat="52.4018881" lon="12.0534181"/><trkpt lat="52.4019008" lon="12.0533667"/><trkpt lat="52.4019024" lon="12.0533113"/><trkpt lat="52.4018927" lon="12.0532581"/><trkpt lat="52.4018729" lon="12.0532133"/><trkpt lat="52.4018461" lon="12.0531823"/><trkpt lat="52.4018147" lon="12.0531671"/><trkpt lat="52.4017819" lon="12.053169"/><trkpt lat="52.4017512" lon="12.0531882"/><trkpt lat="52.401726" lon="12.0532223"/><trkpt lat="52.4017087" lon="12.0532679"/></trkseg></trk><trk><name>way/403541739</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/403541739</desc><trkseg><trkpt lat="52.8015727" lon="11.2357246"/><trkpt lat="52.8015995" lon="11.2357429"/><trkpt lat="52.8016284" lon="11.2357465"/><trkpt lat="52.8016566" lon="11.2357352"/><trkpt lat="52.8016813" lon="11.2357099"/><trkpt lat="52.8017" lon="11.2356731"/><trkpt lat="52.8017109" lon="11.2356286"/><trkpt lat="52.8017129" lon="11.2355808"/><trkpt lat="52.8017058" lon="11.2355342"/><trkpt lat="52.8016903" lon="11.2354936"/><trkpt lat="52.8016654" lon="11.2354605"/><trkpt lat="52.8016352" lon="11.2354435"/><trkpt lat="52.8016033" lon="11.2354444"/><trkpt lat="52.8015735" lon="11.2354633"/><trkpt lat="52.8015494" lon="11.2354978"/><trkpt lat="52.8015338" lon="11.2355439"/><trkpt lat="52.8015286" lon="11.235596"/><trkpt lat="52.8015345" lon="11.2356479"/><trkpt lat="52.8015506" lon="11.2356934"/><trkpt lat="52.8015727" lon="11.2357246"/></trkseg></trk><trk><name>way/403541741</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/403541741</desc><trkseg><trkpt lat="52.8014306" lon="11.2349196"/><trkpt lat="52.8014766" lon="11.2349398"/><trkpt lat="52.801524" lon="11.2349338"/><trkpt lat="52.8015675" lon="11.2349022"/><trkpt lat="52.8016024" lon="11.2348487"/><trkpt lat="52.8016246" lon="11.2347792"/><trkpt lat="52.8016317" lon="11.2347014"/><trkpt lat="52.8016229" lon="11.2346241"/><trkpt lat="52.8015993" lon="11.2345559"/><trkpt lat="52.8015633" lon="11.2345044"/><trkpt lat="52.8015205" lon="11.234476"/><trkpt lat="52.8014744" lon="11.2344717"/><trkpt lat="52.8014299" lon="11.234492"/><trkpt lat="52.8013917" lon="11.2345348"/><trkpt lat="52.8013638" lon="11.2345956"/><trkpt lat="52.8013492" lon="11.234668"/><trkpt lat="52.8013493" lon="11.2347443"/><trkpt lat="52.8013642" lon="11.2348166"/><trkpt lat="52.8013923" lon="11.2348771"/><trkpt lat="52.8014306" lon="11.2349196"/></trkseg></trk><trk><name>way/403541742</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/403541742</desc><trkseg><trkpt lat="52.8015529" lon="11.2358263"/><trkpt lat="52.801536" lon="11.2358582"/><trkpt lat="52.8015255" lon="11.2359003"/><trkpt lat="52.8015242" lon="11.2359457"/><trkpt lat="52.8015322" lon="11.2359891"/><trkpt lat="52.8015486" lon="11.2360256"/><trkpt lat="52.8015714" lon="11.236051"/><trkpt lat="52.801598" lon="11.2360621"/><trkpt lat="52.8016253" lon="11.2360579"/><trkpt lat="52.8016502" lon="11.2360388"/><trkpt lat="52.8016698" lon="11.2360069"/><trkpt lat="52.8016813" lon="11.2359688"/><trkpt lat="52.8016849" lon="11.2359267"/><trkpt lat="52.8016803" lon="11.2358848"/><trkpt lat="52.801668" lon="11.2358475"/><trkpt lat="52.8016492" lon="11.2358184"/><trkpt lat="52.8016258" lon="11.2358006"/><trkpt lat="52.8016003" lon="11.2357959"/><trkpt lat="52.8015751" lon="11.2358048"/><trkpt lat="52.8015529" lon="11.2358263"/></trkseg></trk><trk><name>way/413020166</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/413020166</desc><trkseg><trkpt lat="52.3979924" lon="11.7881608"/><trkpt lat="52.3979941" lon="11.7881995"/><trkpt lat="52.3980028" lon="11.7882355"/><trkpt lat="52.3980177" lon="11.7882654"/><trkpt lat="52.3980375" lon="11.7882866"/><trkpt lat="52.3980651" lon="11.7882976"/><trkpt lat="52.3980933" lon="11.7882915"/><trkpt lat="52.3981181" lon="11.7882691"/><trkpt lat="52.3981364" lon="11.7882334"/><trkpt lat="52.3981455" lon="11.7881894"/><trkpt lat="52.3981443" lon="11.7881429"/><trkpt lat="52.3981329" lon="11.7881003"/><trkpt lat="52.3981128" lon="11.7880673"/><trkpt lat="52.3980885" lon="11.7880492"/><trkpt lat="52.3980619" lon="11.7880458"/><trkpt lat="52.3980362" lon="11.7880574"/><trkpt lat="52.3980144" lon="11.7880827"/><trkpt lat="52.3979993" lon="11.7881186"/><trkpt lat="52.3979924" lon="11.7881608"/></trkseg></trk><trk><name>way/413020167</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/413020167</desc><trkseg><trkpt lat="52.3978788" lon="11.7878976"/><trkpt lat="52.397878" lon="11.7879426"/><trkpt lat="52.3978867" lon="11.7879853"/><trkpt lat="52.3979038" lon="11.7880205"/><trkpt lat="52.3979273" lon="11.7880438"/><trkpt lat="52.3979543" lon="11.7880524"/><trkpt lat="52.3979814" lon="11.7880453"/><trkpt lat="52.3980062" lon="11.7880222"/><trkpt lat="52.3980243" lon="11.7879862"/><trkpt lat="52.3980333" lon="11.787942"/><trkpt lat="52.3980321" lon="11.7878953"/><trkpt lat="52.3980209" lon="11.7878525"/><trkpt lat="52.3980011" lon="11.787819"/><trkpt lat="52.3979778" lon="11.7878005"/><trkpt lat="52.3979522" lon="11.7877953"/><trkpt lat="52.397927" lon="11.7878041"/><trkpt lat="52.3979048" lon="11.7878258"/><trkpt lat="52.3978881" lon="11.7878581"/><trkpt lat="52.3978788" lon="11.7878976"/></trkseg></trk><trk><name>way/421881257</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/421881257</desc><trkseg><trkpt lat="51.8776401" lon="11.7684213"/><trkpt lat="51.8776561" lon="11.7685064"/><trkpt lat="51.877689" lon="11.7685776"/><trkpt lat="51.8777303" lon="11.768623"/><trkpt lat="51.8777782" lon="11.7686454"/><trkpt lat="51.877828" lon="11.7686426"/><trkpt lat="51.8778749" lon="11.7686149"/><trkpt lat="51.8779141" lon="11.768565"/><trkpt lat="51.8779418" lon="11.7684979"/><trkpt lat="51.8779554" lon="11.7684201"/><trkpt lat="51.8779533" lon="11.7683394"/><trkpt lat="51.8779359" lon="11.7682637"/><trkpt lat="51.8779049" lon="11.7682005"/><trkpt lat="51.8778586" lon="11.7681527"/><trkpt lat="51.877805" lon="11.7681333"/><trkpt lat="51.8777505" lon="11.7681447"/><trkpt lat="51.8777017" lon="11.7681854"/><trkpt lat="51.8776644" lon="11.7682506"/><trkpt lat="51.877643" lon="11.7683325"/><trkpt lat="51.8776401" lon="11.7684213"/></trkseg></trk><trk><name>way/421881258</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/421881258</desc><trkseg><trkpt lat="51.8779471" lon="11.7686667"/><trkpt lat="51.8779593" lon="11.7687266"/><trkpt lat="51.8779823" lon="11.7687775"/><trkpt lat="51.8780176" lon="11.7688172"/><trkpt lat="51.8780592" lon="11.768835"/><trkpt lat="51.878102" lon="11.7688288"/><trkpt lat="51.8781409" lon="11.7687993"/><trkpt lat="51.8781713" lon="11.76875"/><trkpt lat="51.8781895" lon="11.768687"/><trkpt lat="51.8781933" lon="11.7686177"/><trkpt lat="51.8781824" lon="11.7685504"/><trkpt lat="51.8781579" lon="11.7684932"/><trkpt lat="51.8781265" lon="11.7684558"/><trkpt lat="51.8780894" lon="11.7684361"/><trkpt lat="51.8780505" lon="11.7684359"/><trkpt lat="51.8780134" lon="11.7684553"/><trkpt lat="51.8779819" lon="11.7684924"/><trkpt lat="51.877959" lon="11.7685435"/><trkpt lat="51.877947" lon="11.7686036"/><trkpt lat="51.8779471" lon="11.7686667"/></trkseg></trk><trk><name>way/421881259</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=3
+roof:shape=round
+id=way/421881259</desc><trkseg><trkpt lat="51.8784566" lon="11.7687236"/><trkpt lat="51.8784656" lon="11.7687487"/><trkpt lat="51.8784793" lon="11.7687675"/><trkpt lat="51.8784961" lon="11.7687777"/><trkpt lat="51.878514" lon="11.7687782"/><trkpt lat="51.878531" lon="11.7687689"/><trkpt lat="51.8785451" lon="11.7687509"/><trkpt lat="51.8785547" lon="11.7687263"/><trkpt lat="51.8785585" lon="11.7686979"/><trkpt lat="51.8785563" lon="11.7686691"/><trkpt lat="51.8785482" lon="11.7686431"/><trkpt lat="51.8785379" lon="11.7686262"/><trkpt lat="51.8785252" lon="11.7686145"/><trkpt lat="51.8785109" lon="11.768609"/><trkpt lat="51.8784962" lon="11.7686101"/><trkpt lat="51.8784823" lon="11.7686177"/><trkpt lat="51.8784703" lon="11.7686312"/><trkpt lat="51.878461" lon="11.7686496"/><trkpt lat="51.8784552" lon="11.7686714"/><trkpt lat="51.8784533" lon="11.768695"/><trkpt lat="51.8784566" lon="11.7687236"/></trkseg></trk><trk><name>way/459074400</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/459074400</desc><trkseg><trkpt lat="52.7921528" lon="10.8722319"/><trkpt lat="52.7921336" lon="10.872209"/><trkpt lat="52.7921111" lon="10.8721971"/><trkpt lat="52.7920875" lon="10.8721973"/><trkpt lat="52.792065" lon="10.8722096"/><trkpt lat="52.792046" lon="10.8722327"/><trkpt lat="52.7920322" lon="10.8722645"/><trkpt lat="52.792025" lon="10.8723017"/><trkpt lat="52.7920251" lon="10.8723408"/><trkpt lat="52.7920338" lon="10.8723818"/><trkpt lat="52.7920504" lon="10.8724153"/><trkpt lat="52.7920729" lon="10.8724375"/><trkpt lat="52.7920987" lon="10.8724456"/><trkpt lat="52.7921246" lon="10.8724386"/><trkpt lat="52.7921475" lon="10.8724174"/><trkpt lat="52.7921646" lon="10.8723845"/><trkpt lat="52.7921739" lon="10.8723439"/><trkpt lat="52.7921742" lon="10.8723005"/><trkpt lat="52.7921668" lon="10.8722634"/><trkpt lat="52.7921528" lon="10.8722319"/></trkseg></trk><trk><name>way/459074401</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/459074401</desc><trkseg><trkpt lat="52.7922339" lon="10.8725273"/><trkpt lat="52.7922173" lon="10.8724937"/><trkpt lat="52.7921948" lon="10.8724715"/><trkpt lat="52.792169" lon="10.8724635"/><trkpt lat="52.7921431" lon="10.8724704"/><trkpt lat="52.7921202" lon="10.8724917"/><trkpt lat="52.7921031" lon="10.8725245"/><trkpt lat="52.7920938" lon="10.8725651"/><trkpt lat="52.7920935" lon="10.8726085"/><trkpt lat="52.7921009" lon="10.8726456"/><trkpt lat="52.7921149" lon="10.8726771"/><trkpt lat="52.7921341" lon="10.8727"/><trkpt lat="52.7921566" lon="10.8727119"/><trkpt lat="52.7921802" lon="10.8727117"/><trkpt lat="52.7922027" lon="10.8726994"/><trkpt lat="52.7922217" lon="10.8726763"/><trkpt lat="52.7922355" lon="10.8726445"/><trkpt lat="52.7922427" lon="10.8726073"/><trkpt lat="52.7922426" lon="10.8725682"/><trkpt lat="52.7922339" lon="10.8725273"/></trkseg></trk><trk><name>way/481478181</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+man_made=storage_tank
+power=generator
+id=way/481478181</desc><trkseg><trkpt lat="51.7210442" lon="12.8240772"/><trkpt lat="51.7210274" lon="12.8241061"/><trkpt lat="51.721017" lon="12.8241421"/><trkpt lat="51.7210141" lon="12.8241815"/><trkpt lat="51.7210197" lon="12.8242242"/><trkpt lat="51.721034" lon="12.8242612"/><trkpt lat="51.7210553" lon="12.8242881"/><trkpt lat="51.721081" lon="12.8243018"/><trkpt lat="51.721108" lon="12.8243005"/><trkpt lat="51.7211332" lon="12.8242844"/><trkpt lat="51.7211534" lon="12.8242554"/><trkpt lat="51.7211663" lon="12.8242171"/><trkpt lat="51.7211704" lon="12.8241739"/><trkpt lat="51.721166" lon="12.8241349"/><trkpt lat="51.7211544" lon="12.8241007"/><trkpt lat="51.72112" lon="12.8240621"/><trkpt lat="51.7210899" lon="12.8240506"/><trkpt lat="51.7210657" lon="12.824058"/><trkpt lat="51.7210442" lon="12.8240772"/></trkseg></trk><trk><name>way/539028061</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/539028061</desc><trkseg><trkpt lat="52.7151144" lon="11.368827"/><trkpt lat="52.7150895" lon="11.3687882"/><trkpt lat="52.7150583" lon="11.3687651"/><trkpt lat="52.7150243" lon="11.36876"/><trkpt lat="52.7149911" lon="11.3687735"/><trkpt lat="52.7149624" lon="11.3688043"/><trkpt lat="52.7149413" lon="11.3688488"/><trkpt lat="52.7149302" lon="11.3689022"/><trkpt lat="52.7149303" lon="11.3689587"/><trkpt lat="52.7149415" lon="11.369012"/><trkpt lat="52.7149624" lon="11.3690559"/><trkpt lat="52.7149907" lon="11.3690863"/><trkpt lat="52.7150235" lon="11.3691"/><trkpt lat="52.7150571" lon="11.3690955"/><trkpt lat="52.7150882" lon="11.3690734"/><trkpt lat="52.7151132" lon="11.3690359"/><trkpt lat="52.7151295" lon="11.368987"/><trkpt lat="52.7151354" lon="11.3689321"/><trkpt lat="52.7151303" lon="11.368877"/><trkpt lat="52.7151144" lon="11.368827"/></trkseg></trk><trk><name>way/539028062</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/539028062</desc><trkseg><trkpt lat="52.7148669" lon="11.3686871"/><trkpt lat="52.7148422" lon="11.3686635"/><trkpt lat="52.7148142" lon="11.3686537"/><trkpt lat="52.7147858" lon="11.3686587"/><trkpt lat="52.7147596" lon="11.3686779"/><trkpt lat="52.7147384" lon="11.3687095"/><trkpt lat="52.7147241" lon="11.3687504"/><trkpt lat="52.7147182" lon="11.3687966"/><trkpt lat="52.7147212" lon="11.3688435"/><trkpt lat="52.7147346" lon="11.368891"/><trkpt lat="52.7147571" lon="11.368928"/><trkpt lat="52.7147858" lon="11.3689501"/><trkpt lat="52.7148175" lon="11.3689547"/><trkpt lat="52.7148481" lon="11.3689411"/><trkpt lat="52.7148741" lon="11.368911"/><trkpt lat="52.7148923" lon="11.3688681"/><trkpt lat="52.7149005" lon="11.3688175"/><trkpt lat="52.7148977" lon="11.3687653"/><trkpt lat="52.7148861" lon="11.3687222"/><trkpt lat="52.7148669" lon="11.3686871"/></trkseg></trk><trk><name>way/539028063</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/539028063</desc><trkseg><trkpt lat="52.7146217" lon="11.368926"/><trkpt lat="52.7145767" lon="11.3689467"/><trkpt lat="52.7145381" lon="11.3689903"/><trkpt lat="52.7145103" lon="11.3690523"/><trkpt lat="52.7144961" lon="11.3691258"/><trkpt lat="52.7144972" lon="11.3692029"/><trkpt lat="52.7145133" lon="11.3692753"/><trkpt lat="52.7145429" lon="11.369335"/><trkpt lat="52.7145826" lon="11.3693758"/><trkpt lat="52.7146281" lon="11.369393"/><trkpt lat="52.7146746" lon="11.3693849"/><trkpt lat="52.714717" lon="11.3693523"/><trkpt lat="52.7147506" lon="11.3692988"/><trkpt lat="52.7147719" lon="11.3692301"/><trkpt lat="52.7147785" lon="11.3691537"/><trkpt lat="52.7147698" lon="11.369078"/><trkpt lat="52.7147466" lon="11.369011"/><trkpt lat="52.7147115" lon="11.36896"/><trkpt lat="52.7146683" lon="11.3689307"/><trkpt lat="52.7146217" lon="11.368926"/></trkseg></trk><trk><name>way/543726117</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/543726117</desc><trkseg><trkpt lat="52.7924192" lon="10.8729114"/><trkpt lat="52.7924117" lon="10.8728488"/><trkpt lat="52.7923923" lon="10.8727937"/><trkpt lat="52.7923631" lon="10.8727519"/><trkpt lat="52.7923273" lon="10.872728"/><trkpt lat="52.7922888" lon="10.8727247"/><trkpt lat="52.7922517" lon="10.8727422"/><trkpt lat="52.7922201" lon="10.8727787"/><trkpt lat="52.7921973" lon="10.8728303"/><trkpt lat="52.7921859" lon="10.8728912"/><trkpt lat="52.792187" lon="10.872955"/><trkpt lat="52.7922007" lon="10.8730147"/><trkpt lat="52.7922253" lon="10.8730639"/><trkpt lat="52.7922582" lon="10.8730971"/><trkpt lat="52.7922959" lon="10.8731109"/><trkpt lat="52.7923342" lon="10.8731037"/><trkpt lat="52.7923691" lon="10.8730763"/><trkpt lat="52.7923967" lon="10.8730317"/><trkpt lat="52.792414" lon="10.8729747"/><trkpt lat="52.7924192" lon="10.8729114"/></trkseg></trk><trk><name>way/605009632</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/605009632</desc><trkseg><trkpt lat="51.8222959" lon="11.2653626"/><trkpt lat="51.8223074" lon="11.2652965"/><trkpt lat="51.8223043" lon="11.2652279"/><trkpt lat="51.8222891" lon="11.265171"/><trkpt lat="51.8222639" lon="11.2651245"/><trkpt lat="51.822231" lon="11.2650929"/><trkpt lat="51.8221936" lon="11.2650792"/><trkpt lat="51.8221555" lon="11.2650849"/><trkpt lat="51.8221203" lon="11.2651094"/><trkpt lat="51.8220916" lon="11.2651503"/><trkpt lat="51.822072" lon="11.2652035"/><trkpt lat="51.8220636" lon="11.2652639"/><trkpt lat="51.8220671" lon="11.2653256"/><trkpt lat="51.8220846" lon="11.2653882"/><trkpt lat="51.8221143" lon="11.2654375"/><trkpt lat="51.8221526" lon="11.2654673"/><trkpt lat="51.8221948" lon="11.2654741"/><trkpt lat="51.822236" lon="11.2654572"/><trkpt lat="51.8222711" lon="11.2654185"/><trkpt lat="51.8222959" lon="11.2653626"/></trkseg></trk><trk><name>way/605009633</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/605009633</desc><trkseg><trkpt lat="51.8225098" lon="11.2651124"/><trkpt lat="51.8225297" lon="11.2650594"/><trkpt lat="51.8225385" lon="11.2649991"/><trkpt lat="51.8225353" lon="11.2649373"/><trkpt lat="51.8225182" lon="11.2648743"/><trkpt lat="51.8224888" lon="11.2648245"/><trkpt lat="51.8224507" lon="11.2647941"/><trkpt lat="51.8224084" lon="11.2647865"/><trkpt lat="51.8223671" lon="11.2648028"/><trkpt lat="51.8223317" lon="11.2648411"/><trkpt lat="51.8223065" lon="11.2648965"/><trkpt lat="51.8222946" lon="11.2649626"/><trkpt lat="51.8222973" lon="11.2650313"/><trkpt lat="51.8223121" lon="11.2650885"/><trkpt lat="51.8223371" lon="11.2651355"/><trkpt lat="51.8223699" lon="11.2651677"/><trkpt lat="51.8224072" lon="11.2651819"/><trkpt lat="51.8224454" lon="11.2651768"/><trkpt lat="51.8224807" lon="11.2651529"/><trkpt lat="51.8225098" lon="11.2651124"/></trkseg></trk><trk><name>way/605009635</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/605009635</desc><trkseg><trkpt lat="51.8225988" lon="11.2646551"/><trkpt lat="51.8226178" lon="11.2646025"/><trkpt lat="51.8226257" lon="11.2645429"/><trkpt lat="51.8226219" lon="11.2644823"/><trkpt lat="51.8226043" lon="11.264421"/><trkpt lat="51.8225748" lon="11.264373"/><trkpt lat="51.822537" lon="11.2643442"/><trkpt lat="51.8224954" lon="11.2643382"/><trkpt lat="51.822455" lon="11.2643555"/><trkpt lat="51.8224207" lon="11.2643941"/><trkpt lat="51.8223966" lon="11.2644494"/><trkpt lat="51.8223857" lon="11.2645146"/><trkpt lat="51.8223892" lon="11.264582"/><trkpt lat="51.8224044" lon="11.2646377"/><trkpt lat="51.8224295" lon="11.2646831"/><trkpt lat="51.8224621" lon="11.2647137"/><trkpt lat="51.8224989" lon="11.2647266"/><trkpt lat="51.8225363" lon="11.2647204"/><trkpt lat="51.8225708" lon="11.2646958"/><trkpt lat="51.8225988" lon="11.2646551"/></trkseg></trk><trk><name>way/626672528</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/626672528</desc><trkseg><trkpt lat="52.239621" lon="11.2751263"/><trkpt lat="52.2396305" lon="11.2751626"/><trkpt lat="52.2396462" lon="11.2751926"/><trkpt lat="52.2396666" lon="11.2752135"/><trkpt lat="52.2396899" lon="11.2752236"/><trkpt lat="52.2397141" lon="11.2752219"/><trkpt lat="52.2397427" lon="11.2752028"/><trkpt lat="52.2397647" lon="11.2751673"/><trkpt lat="52.2397769" lon="11.2751209"/><trkpt lat="52.2397774" lon="11.2750704"/><trkpt lat="52.2397661" lon="11.2750234"/><trkpt lat="52.2397448" lon="11.2749868"/><trkpt lat="52.2397166" lon="11.2749662"/><trkpt lat="52.2396894" lon="11.2749637"/><trkpt lat="52.2396632" lon="11.2749762"/><trkpt lat="52.2396412" lon="11.2750023"/><trkpt lat="52.2396258" lon="11.275039"/><trkpt lat="52.2396188" lon="11.275082"/><trkpt lat="52.239621" lon="11.2751263"/></trkseg></trk><trk><name>way/665419171</name><desc>generator:source=biomass
+power=generator
+id=way/665419171</desc><trkseg><trkpt lat="51.3034346" lon="12.0939949"/><trkpt lat="51.3034818" lon="12.0952551"/><trkpt lat="51.3046434" lon="12.0951548"/><trkpt lat="51.304839" lon="12.0951379"/><trkpt lat="51.3050012" lon="12.0938784"/><trkpt lat="51.3048856" lon="12.0938001"/><trkpt lat="51.304834" lon="12.0938051"/><trkpt lat="51.3034346" lon="12.0939949"/></trkseg></trk><trk><name>way/672125312</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/672125312</desc><trkseg><trkpt lat="52.6907462" lon="11.1908362"/><trkpt lat="52.6907785" lon="11.1908298"/><trkpt lat="52.6908083" lon="11.1908088"/><trkpt lat="52.6908334" lon="11.1907747"/><trkpt lat="52.6908516" lon="11.1907303"/><trkpt lat="52.6908615" lon="11.1906793"/><trkpt lat="52.6908623" lon="11.1906258"/><trkpt lat="52.6908539" lon="11.190574"/><trkpt lat="52.690837" lon="11.1905282"/><trkpt lat="52.690813" lon="11.1904922"/><trkpt lat="52.6907838" lon="11.1904688"/><trkpt lat="52.6907518" lon="11.1904599"/><trkpt lat="52.6907195" lon="11.1904662"/><trkpt lat="52.6906897" lon="11.1904873"/><trkpt lat="52.6906646" lon="11.1905213"/><trkpt lat="52.6906464" lon="11.1905657"/><trkpt lat="52.6906365" lon="11.1906167"/><trkpt lat="52.6906357" lon="11.1906703"/><trkpt lat="52.6906441" lon="11.190722"/><trkpt lat="52.690661" lon="11.1907678"/><trkpt lat="52.690685" lon="11.1908038"/><trkpt lat="52.6907142" lon="11.1908273"/><trkpt lat="52.6907462" lon="11.1908362"/></trkseg></trk><trk><name>way/672125313</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/672125313</desc><trkseg><trkpt lat="52.6904684" lon="11.1909992"/><trkpt lat="52.6905036" lon="11.1909935"/><trkpt lat="52.690537" lon="11.1909742"/><trkpt lat="52.6905665" lon="11.1909422"/><trkpt lat="52.6905906" lon="11.1908995"/><trkpt lat="52.6906078" lon="11.1908485"/><trkpt lat="52.6906171" lon="11.1907923"/><trkpt lat="52.690618" lon="11.190734"/><trkpt lat="52.6906103" lon="11.190677"/><trkpt lat="52.6905947" lon="11.1906247"/><trkpt lat="52.6905719" lon="11.1905801"/><trkpt lat="52.6905433" lon="11.1905458"/><trkpt lat="52.6905105" lon="11.1905238"/><trkpt lat="52.6904755" lon="11.1905154"/><trkpt lat="52.6904404" lon="11.190521"/><trkpt lat="52.690407" lon="11.1905404"/><trkpt lat="52.6903774" lon="11.1905723"/><trkpt lat="52.6903533" lon="11.1906151"/><trkpt lat="52.6903362" lon="11.190666"/><trkpt lat="52.6903269" lon="11.1907223"/><trkpt lat="52.690326" lon="11.1907806"/><trkpt lat="52.6903336" lon="11.1908376"/><trkpt lat="52.6903493" lon="11.1908899"/><trkpt lat="52.6903721" lon="11.1909344"/><trkpt lat="52.6904007" lon="11.1909687"/><trkpt lat="52.6904334" lon="11.1909907"/><trkpt lat="52.6904684" lon="11.1909992"/></trkseg></trk><trk><name>way/672143401</name><desc>building=digester
+building:colour=#6c646c
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#6c646c
+roof:height=5
+roof:shape=round
+id=way/672143401</desc><trkseg><trkpt lat="52.7240379" lon="11.1765276"/><trkpt lat="52.7240646" lon="11.1765203"/><trkpt lat="52.7240882" lon="11.1764983"/><trkpt lat="52.7241058" lon="11.1764643"/><trkpt lat="52.7241153" lon="11.1764224"/><trkpt lat="52.7241156" lon="11.1763777"/><trkpt lat="52.7241066" lon="11.1763355"/><trkpt lat="52.7240893" lon="11.176301"/><trkpt lat="52.724066" lon="11.1762783"/><trkpt lat="52.7240394" lon="11.1762701"/><trkpt lat="52.7240127" lon="11.1762775"/><trkpt lat="52.7239891" lon="11.1762995"/><trkpt lat="52.7239715" lon="11.1763335"/><trkpt lat="52.723962" lon="11.1763753"/><trkpt lat="52.7239617" lon="11.1764201"/><trkpt lat="52.7239708" lon="11.1764622"/><trkpt lat="52.723988" lon="11.1764967"/><trkpt lat="52.7240113" lon="11.1765195"/><trkpt lat="52.7240379" lon="11.1765276"/></trkseg></trk><trk><name>way/672143402</name><desc>building=digester
+building:colour=#6c646c
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#6c646c
+roof:height=5
+roof:shape=round
+id=way/672143402</desc><trkseg><trkpt lat="52.7240397" lon="11.1762044"/><trkpt lat="52.7240665" lon="11.176197"/><trkpt lat="52.72409" lon="11.176175"/><trkpt lat="52.7241076" lon="11.176141"/><trkpt lat="52.7241171" lon="11.1760992"/><trkpt lat="52.7241174" lon="11.1760544"/><trkpt lat="52.7241084" lon="11.1760123"/><trkpt lat="52.7240911" lon="11.1759778"/><trkpt lat="52.7240678" lon="11.175955"/><trkpt lat="52.7240412" lon="11.1759469"/><trkpt lat="52.7240145" lon="11.1759542"/><trkpt lat="52.7239909" lon="11.1759762"/><trkpt lat="52.7239733" lon="11.1760102"/><trkpt lat="52.7239638" lon="11.1760521"/><trkpt lat="52.7239635" lon="11.1760968"/><trkpt lat="52.7239726" lon="11.176139"/><trkpt lat="52.7239898" lon="11.1761735"/><trkpt lat="52.7240131" lon="11.1761962"/><trkpt lat="52.7240397" lon="11.1762044"/></trkseg></trk><trk><name>way/745307232</name><desc>barrier=fence
+generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=way/745307232</desc><trkseg><trkpt lat="52.660253" lon="11.371083"/><trkpt lat="52.6602514" lon="11.3717937"/><trkpt lat="52.6603181" lon="11.371838"/><trkpt lat="52.6603645" lon="11.3718756"/><trkpt lat="52.6603539" lon="11.3719332"/><trkpt lat="52.6605166" lon="11.3720995"/><trkpt lat="52.6614927" lon="11.3719225"/><trkpt lat="52.6616033" lon="11.3723329"/><trkpt lat="52.6616578" lon="11.3723584"/><trkpt lat="52.6617139" lon="11.3723677"/><trkpt lat="52.6617855" lon="11.3723811"/><trkpt lat="52.6618229" lon="11.3723811"/><trkpt lat="52.6618571" lon="11.3723463"/><trkpt lat="52.6619588" lon="11.3721317"/><trkpt lat="52.6619848" lon="11.3720244"/><trkpt lat="52.6619844" lon="11.3719426"/><trkpt lat="52.662132" lon="11.3718574"/><trkpt lat="52.6626221" lon="11.3717213"/><trkpt lat="52.6625127" lon="11.3712707"/><trkpt lat="52.6624045" lon="11.370857"/><trkpt lat="52.6623773" lon="11.3708744"/><trkpt lat="52.6623667" lon="11.3708292"/><trkpt lat="52.6623439" lon="11.3707577"/><trkpt lat="52.6623188" lon="11.3707054"/><trkpt lat="52.6606451" lon="11.3709989"/><trkpt lat="52.660253" lon="11.371083"/></trkseg></trk><trk><name>way/814155815</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/814155815</desc><trkseg><trkpt lat="52.5954313" lon="10.9730834"/><trkpt lat="52.595459" lon="10.9731208"/><trkpt lat="52.5954916" lon="10.9731452"/><trkpt lat="52.5955269" lon="10.9731548"/><trkpt lat="52.5955626" lon="10.9731491"/><trkpt lat="52.5955961" lon="10.9731284"/><trkpt lat="52.5956252" lon="10.9730941"/><trkpt lat="52.5956479" lon="10.9730486"/><trkpt lat="52.5956628" lon="10.9729949"/><trkpt lat="52.5956686" lon="10.9729367"/><trkpt lat="52.5956651" lon="10.9728781"/><trkpt lat="52.5956526" lon="10.9728229"/><trkpt lat="52.5956317" lon="10.9727749"/><trkpt lat="52.5956041" lon="10.9727375"/><trkpt lat="52.5955715" lon="10.9727131"/><trkpt lat="52.5955361" lon="10.9727035"/><trkpt lat="52.5955005" lon="10.9727092"/><trkpt lat="52.595467" lon="10.9727299"/><trkpt lat="52.5954378" lon="10.9727642"/><trkpt lat="52.5954151" lon="10.9728097"/><trkpt lat="52.5954003" lon="10.9728634"/><trkpt lat="52.5953944" lon="10.9729216"/><trkpt lat="52.5953979" lon="10.9729802"/><trkpt lat="52.5954105" lon="10.9730354"/><trkpt lat="52.5954313" lon="10.9730834"/></trkseg></trk><trk><name>way/823095864</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/823095864</desc><trkseg><trkpt lat="52.2901557" lon="11.3306866"/><trkpt lat="52.2901266" lon="11.3307008"/><trkpt lat="52.2901014" lon="11.3307283"/><trkpt lat="52.2900823" lon="11.3307668"/><trkpt lat="52.2900709" lon="11.3308128"/><trkpt lat="52.2900684" lon="11.3308623"/><trkpt lat="52.2900749" lon="11.3309107"/><trkpt lat="52.2900898" lon="11.3309539"/><trkpt lat="52.2901081" lon="11.3309834"/><trkpt lat="52.2901304" lon="11.3310045"/><trkpt lat="52.2901552" lon="11.3310158"/><trkpt lat="52.2901809" lon="11.3310166"/><trkpt lat="52.2902059" lon="11.3310068"/><trkpt lat="52.2902286" lon="11.330987"/><trkpt lat="52.2902475" lon="11.3309586"/><trkpt lat="52.2902635" lon="11.330916"/><trkpt lat="52.2902711" lon="11.3308676"/><trkpt lat="52.2902695" lon="11.3308178"/><trkpt lat="52.2902589" lon="11.3307709"/><trkpt lat="52.2902403" lon="11.3307313"/><trkpt lat="52.2902153" lon="11.3307025"/><trkpt lat="52.2901862" lon="11.3306872"/><trkpt lat="52.2901557" lon="11.3306866"/></trkseg></trk><trk><name>way/823095865</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/823095865</desc><trkseg><trkpt lat="52.2903417" lon="11.3306536"/><trkpt lat="52.2903208" lon="11.3306828"/><trkpt lat="52.2903055" lon="11.3307201"/><trkpt lat="52.2902968" lon="11.3307628"/><trkpt lat="52.2902954" lon="11.3308077"/><trkpt lat="52.2903015" lon="11.3308516"/><trkpt lat="52.2903146" lon="11.3308912"/><trkpt lat="52.2903336" lon="11.3309237"/><trkpt lat="52.2903567" lon="11.3309461"/><trkpt lat="52.2903825" lon="11.3309579"/><trkpt lat="52.2904093" lon="11.3309583"/><trkpt lat="52.2904352" lon="11.3309472"/><trkpt lat="52.2904585" lon="11.3309254"/><trkpt lat="52.2904775" lon="11.3308944"/><trkpt lat="52.2904925" lon="11.3308492"/><trkpt lat="52.2904984" lon="11.3307987"/><trkpt lat="52.2904945" lon="11.3307476"/><trkpt lat="52.2904813" lon="11.330701"/><trkpt lat="52.2904599" lon="11.3306631"/><trkpt lat="52.2904326" lon="11.3306378"/><trkpt lat="52.2904018" lon="11.3306273"/><trkpt lat="52.2903705" lon="11.3306327"/><trkpt lat="52.2903417" lon="11.3306536"/></trkseg></trk><trk><name>way/837512297</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/837512297</desc><trkseg><trkpt lat="52.8058192" lon="11.156585"/><trkpt lat="52.8058674" lon="11.1566133"/><trkpt lat="52.8059185" lon="11.1566133"/><trkpt lat="52.8059667" lon="11.156585"/><trkpt lat="52.8060064" lon="11.1565317"/><trkpt lat="52.806033" lon="11.1564594"/><trkpt lat="52.8060432" lon="11.1563822"/><trkpt lat="52.8060384" lon="11.1563036"/><trkpt lat="52.8060189" lon="11.1562315"/><trkpt lat="52.8059867" lon="11.1561732"/><trkpt lat="52.8059451" lon="11.1561344"/><trkpt lat="52.8058982" lon="11.1561192"/><trkpt lat="52.8058508" lon="11.156129"/><trkpt lat="52.8058077" lon="11.1561629"/><trkpt lat="52.8057731" lon="11.1562175"/><trkpt lat="52.8057496" lon="11.1562926"/><trkpt lat="52.8057426" lon="11.1563764"/><trkpt lat="52.805753" lon="11.1564592"/><trkpt lat="52.8057795" lon="11.1565315"/><trkpt lat="52.8058192" lon="11.156585"/></trkseg></trk><trk><name>way/837512298</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/837512298</desc><trkseg><trkpt lat="52.8055202" lon="11.1565787"/><trkpt lat="52.805547" lon="11.1566241"/><trkpt lat="52.8055813" lon="11.1566523"/><trkpt lat="52.8056194" lon="11.1566601"/><trkpt lat="52.8056568" lon="11.1566465"/><trkpt lat="52.8056877" lon="11.1566156"/><trkpt lat="52.8057112" lon="11.1565703"/><trkpt lat="52.805725" lon="11.156515"/><trkpt lat="52.8057276" lon="11.1564554"/><trkpt lat="52.8057188" lon="11.1563975"/><trkpt lat="52.8056995" lon="11.156347"/><trkpt lat="52.8056716" lon="11.156309"/><trkpt lat="52.8056358" lon="11.1562866"/><trkpt lat="52.8055974" lon="11.1562852"/><trkpt lat="52.805561" lon="11.1563049"/><trkpt lat="52.8055306" lon="11.1563435"/><trkpt lat="52.8055096" lon="11.1563965"/><trkpt lat="52.8055004" lon="11.1564581"/><trkpt lat="52.8055041" lon="11.1565212"/><trkpt lat="52.8055202" lon="11.1565787"/></trkseg></trk><trk><name>way/894173673</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=3
+roof:shape=round
+id=way/894173673</desc><trkseg><trkpt lat="52.7702202" lon="11.1288171"/><trkpt lat="52.7702384" lon="11.1288026"/><trkpt lat="52.7702527" lon="11.128779"/><trkpt lat="52.7702613" lon="11.1287499"/><trkpt lat="52.7702639" lon="11.1287178"/><trkpt lat="52.7702601" lon="11.128686"/><trkpt lat="52.7702503" lon="11.1286579"/><trkpt lat="52.7702356" lon="11.1286365"/><trkpt lat="52.7702175" lon="11.128624"/><trkpt lat="52.770198" lon="11.1286216"/><trkpt lat="52.770179" lon="11.1286298"/><trkpt lat="52.7701626" lon="11.1286476"/><trkpt lat="52.7701505" lon="11.1286731"/><trkpt lat="52.7701439" lon="11.1287046"/><trkpt lat="52.7701439" lon="11.1287381"/><trkpt lat="52.7701507" lon="11.1287696"/><trkpt lat="52.7701633" lon="11.1287957"/><trkpt lat="52.7701804" lon="11.1288134"/><trkpt lat="52.7702001" lon="11.1288208"/><trkpt lat="52.7702202" lon="11.1288171"/></trkseg></trk><trk><name>way/894173674</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=3
+roof:shape=round
+id=way/894173674</desc><trkseg><trkpt lat="52.7703141" lon="11.1284076"/><trkpt lat="52.7702986" lon="11.1283879"/><trkpt lat="52.7702802" lon="11.1283773"/><trkpt lat="52.7702599" lon="11.1283771"/><trkpt lat="52.7702408" lon="11.128388"/><trkpt lat="52.770225" lon="11.1284087"/><trkpt lat="52.7702141" lon="11.1284369"/><trkpt lat="52.7702095" lon="11.1284695"/><trkpt lat="52.7702116" lon="11.1285027"/><trkpt lat="52.7702203" lon="11.1285329"/><trkpt lat="52.7702345" lon="11.1285567"/><trkpt lat="52.7702526" lon="11.1285714"/><trkpt lat="52.7702727" lon="11.1285754"/><trkpt lat="52.7702918" lon="11.1285687"/><trkpt lat="52.7703086" lon="11.1285522"/><trkpt lat="52.7703214" lon="11.1285278"/><trkpt lat="52.7703287" lon="11.1284979"/><trkpt lat="52.7703299" lon="11.1284657"/><trkpt lat="52.7703249" lon="11.1284345"/><trkpt lat="52.7703141" lon="11.1284076"/></trkseg></trk><trk><name>way/906949799</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/906949799</desc><trkseg><trkpt lat="51.9603558" lon="11.3632964"/><trkpt lat="51.9603382" lon="11.3633676"/><trkpt lat="51.9603366" lon="11.3634443"/><trkpt lat="51.9603492" lon="11.3635103"/><trkpt lat="51.9603737" lon="11.3635669"/><trkpt lat="51.9604077" lon="11.3636083"/><trkpt lat="51.960448" lon="11.3636307"/><trkpt lat="51.9604906" lon="11.3636317"/><trkpt lat="51.9605313" lon="11.3636114"/><trkpt lat="51.9605661" lon="11.3635716"/><trkpt lat="51.9605917" lon="11.3635163"/><trkpt lat="51.9606055" lon="11.3634509"/><trkpt lat="51.9606061" lon="11.3633818"/><trkpt lat="51.9605914" lon="11.3633089"/><trkpt lat="51.9605622" lon="11.3632485"/><trkpt lat="51.9605221" lon="11.363208"/><trkpt lat="51.9604758" lon="11.3631923"/><trkpt lat="51.960429" lon="11.3632031"/><trkpt lat="51.9603873" lon="11.3632393"/><trkpt lat="51.9603558" lon="11.3632964"/></trkseg></trk><trk><name>way/908116961</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=way/908116961</desc><trkseg><trkpt lat="52.1356108" lon="11.129994"/><trkpt lat="52.1356264" lon="11.1301085"/><trkpt lat="52.1357261" lon="11.1300691"/><trkpt lat="52.1357106" lon="11.1299579"/><trkpt lat="52.1356108" lon="11.129994"/></trkseg></trk><trk><name>way/915421121</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/915421121</desc><trkseg><trkpt lat="51.9600189" lon="11.1356199"/><trkpt lat="51.9600414" lon="11.1356543"/><trkpt lat="51.960069" lon="11.1356771"/><trkpt lat="51.9600995" lon="11.1356863"/><trkpt lat="51.9601303" lon="11.1356812"/><trkpt lat="51.960159" lon="11.1356623"/><trkpt lat="51.9601832" lon="11.135631"/><trkpt lat="51.960201" lon="11.1355899"/><trkpt lat="51.960211" lon="11.1355423"/><trkpt lat="51.9602123" lon="11.1354921"/><trkpt lat="51.9602048" lon="11.1354433"/><trkpt lat="51.9601891" lon="11.1353999"/><trkpt lat="51.9601666" lon="11.1353655"/><trkpt lat="51.960139" lon="11.1353427"/><trkpt lat="51.9601085" lon="11.1353335"/><trkpt lat="51.9600777" lon="11.1353386"/><trkpt lat="51.9600491" lon="11.1353575"/><trkpt lat="51.9600248" lon="11.1353888"/><trkpt lat="51.960007" lon="11.1354299"/><trkpt lat="51.9599971" lon="11.1354775"/><trkpt lat="51.9599958" lon="11.1355277"/><trkpt lat="51.9600033" lon="11.1355765"/><trkpt lat="51.9600189" lon="11.1356199"/></trkseg></trk><trk><name>way/915421122</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/915421122</desc><trkseg><trkpt lat="51.9599478" lon="11.1360209"/><trkpt lat="51.9599704" lon="11.1360553"/><trkpt lat="51.959998" lon="11.1360781"/><trkpt lat="51.9600284" lon="11.1360873"/><trkpt lat="51.9600592" lon="11.1360822"/><trkpt lat="51.9600879" lon="11.1360633"/><trkpt lat="51.9601121" lon="11.136032"/><trkpt lat="51.96013" lon="11.1359909"/><trkpt lat="51.9601399" lon="11.1359433"/><trkpt lat="51.9601412" lon="11.1358931"/><trkpt lat="51.9601337" lon="11.1358443"/><trkpt lat="51.9601181" lon="11.1358009"/><trkpt lat="51.9600955" lon="11.1357665"/><trkpt lat="51.9600679" lon="11.1357437"/><trkpt lat="51.9600375" lon="11.1357345"/><trkpt lat="51.9600067" lon="11.1357396"/><trkpt lat="51.959978" lon="11.1357585"/><trkpt lat="51.9599538" lon="11.1357898"/><trkpt lat="51.9599359" lon="11.1358309"/><trkpt lat="51.959926" lon="11.1358785"/><trkpt lat="51.9599247" lon="11.1359287"/><trkpt lat="51.9599322" lon="11.1359775"/><trkpt lat="51.9599478" lon="11.1360209"/></trkseg></trk><trk><name>way/915421123</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/915421123</desc><trkseg><trkpt lat="51.960052" lon="11.136391"/><trkpt lat="51.9600745" lon="11.1364255"/><trkpt lat="51.9601021" lon="11.1364482"/><trkpt lat="51.9601325" lon="11.1364575"/><trkpt lat="51.9601634" lon="11.1364524"/><trkpt lat="51.960192" lon="11.1364334"/><trkpt lat="51.9602163" lon="11.1364021"/><trkpt lat="51.9602341" lon="11.136361"/><trkpt lat="51.960244" lon="11.1363134"/><trkpt lat="51.9602453" lon="11.1362632"/><trkpt lat="51.9602378" lon="11.1362144"/><trkpt lat="51.9602222" lon="11.1361711"/><trkpt lat="51.9601997" lon="11.1361366"/><trkpt lat="51.960172" lon="11.1361138"/><trkpt lat="51.9601416" lon="11.1361046"/><trkpt lat="51.9601108" lon="11.1361097"/><trkpt lat="51.9600821" lon="11.1361287"/><trkpt lat="51.9600579" lon="11.13616"/><trkpt lat="51.9600401" lon="11.1362011"/><trkpt lat="51.9600301" lon="11.1362487"/><trkpt lat="51.9600288" lon="11.1362989"/><trkpt lat="51.9600363" lon="11.1363476"/><trkpt lat="51.960052" lon="11.136391"/></trkseg></trk><trk><name>way/916713795</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=2
+roof:shape=round
+id=way/916713795</desc><trkseg><trkpt lat="51.9512627" lon="11.3011242"/><trkpt lat="51.9512569" lon="11.3011586"/><trkpt lat="51.9512611" lon="11.3011937"/><trkpt lat="51.9512744" lon="11.3012221"/><trkpt lat="51.951294" lon="11.301238"/><trkpt lat="51.951316" lon="11.3012382"/><trkpt lat="51.9513326" lon="11.3012266"/><trkpt lat="51.9513454" lon="11.3012059"/><trkpt lat="51.9513526" lon="11.301179"/><trkpt lat="51.9513532" lon="11.3011497"/><trkpt lat="51.9513439" lon="11.301114"/><trkpt lat="51.9513251" lon="11.3010899"/><trkpt lat="51.9513016" lon="11.3010832"/><trkpt lat="51.9512789" lon="11.3010957"/><trkpt lat="51.9512627" lon="11.3011242"/></trkseg></trk><trk><name>way/916713796</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/916713796</desc><trkseg><trkpt lat="51.9516624" lon="11.3024372"/><trkpt lat="51.9516618" lon="11.3024986"/><trkpt lat="51.9516702" lon="11.3025584"/><trkpt lat="51.9516869" lon="11.3026135"/><trkpt lat="51.9517112" lon="11.3026606"/><trkpt lat="51.9517416" lon="11.3026971"/><trkpt lat="51.9517764" lon="11.3027211"/><trkpt lat="51.9518137" lon="11.3027312"/><trkpt lat="51.9518515" lon="11.3027268"/><trkpt lat="51.9518875" lon="11.3027081"/><trkpt lat="51.9519199" lon="11.3026763"/><trkpt lat="51.9519467" lon="11.302633"/><trkpt lat="51.951967" lon="11.302579"/><trkpt lat="51.9519787" lon="11.3025187"/><trkpt lat="51.951981" lon="11.3024556"/><trkpt lat="51.9519739" lon="11.3023934"/><trkpt lat="51.9519578" lon="11.3023358"/><trkpt lat="51.9519335" lon="11.3022863"/><trkpt lat="51.9519026" lon="11.3022478"/><trkpt lat="51.9518669" lon="11.3022224"/><trkpt lat="51.9518285" lon="11.3022119"/><trkpt lat="51.9517891" lon="11.3022169"/><trkpt lat="51.9517516" lon="11.3022374"/><trkpt lat="51.9517184" lon="11.3022721"/><trkpt lat="51.9516914" lon="11.302319"/><trkpt lat="51.9516724" lon="11.3023751"/><trkpt lat="51.9516624" lon="11.3024372"/></trkseg></trk><trk><name>way/916713797</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/916713797</desc><trkseg><trkpt lat="51.9518434" lon="11.3021824"/><trkpt lat="51.9518822" lon="11.3021734"/><trkpt lat="51.951918" lon="11.3021477"/><trkpt lat="51.9519482" lon="11.3021072"/><trkpt lat="51.9519704" lon="11.3020548"/><trkpt lat="51.9519831" lon="11.3019946"/><trkpt lat="51.9519854" lon="11.3019388"/><trkpt lat="51.9519795" lon="11.3018838"/><trkpt lat="51.9519656" lon="11.3018326"/><trkpt lat="51.9519446" lon="11.3017883"/><trkpt lat="51.9519176" lon="11.3017535"/><trkpt lat="51.9518863" lon="11.3017301"/><trkpt lat="51.9518525" lon="11.3017197"/><trkpt lat="51.9518145" lon="11.3017238"/><trkpt lat="51.9517785" lon="11.3017441"/><trkpt lat="51.9517471" lon="11.3017791"/><trkpt lat="51.9517225" lon="11.3018263"/><trkpt lat="51.9517065" lon="11.3018824"/><trkpt lat="51.9517002" lon="11.3019434"/><trkpt lat="51.9517041" lon="11.3020049"/><trkpt lat="51.9517179" lon="11.3020625"/><trkpt lat="51.9517405" lon="11.3021122"/><trkpt lat="51.9517705" lon="11.3021504"/><trkpt lat="51.9518056" lon="11.3021743"/><trkpt lat="51.9518434" lon="11.3021824"/></trkseg></trk><trk><name>way/916713798</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/916713798</desc><trkseg><trkpt lat="51.9517169" lon="11.3014327"/><trkpt lat="51.9517182" lon="11.3014908"/><trkpt lat="51.9517284" lon="11.3015466"/><trkpt lat="51.9517469" lon="11.3015964"/><trkpt lat="51.9517726" lon="11.3016369"/><trkpt lat="51.9518038" lon="11.3016657"/><trkpt lat="51.9518384" lon="11.3016808"/><trkpt lat="51.9518761" lon="11.3016809"/><trkpt lat="51.9519125" lon="11.3016648"/><trkpt lat="51.951945" lon="11.3016336"/><trkpt lat="51.9519712" lon="11.3015896"/><trkpt lat="51.9519893" lon="11.3015359"/><trkpt lat="51.9519979" lon="11.3014763"/><trkpt lat="51.9519966" lon="11.3014151"/><trkpt lat="51.9519853" lon="11.3013568"/><trkpt lat="51.9519649" lon="11.3013053"/><trkpt lat="51.9519377" lon="11.3012654"/><trkpt lat="51.9519051" lon="11.3012383"/><trkpt lat="51.9518693" lon="11.3012257"/><trkpt lat="51.9518327" lon="11.3012284"/><trkpt lat="51.9517977" lon="11.3012464"/><trkpt lat="51.9517668" lon="11.3012783"/><trkpt lat="51.951742" lon="11.3013221"/><trkpt lat="51.951725" lon="11.3013747"/><trkpt lat="51.9517169" lon="11.3014327"/></trkseg></trk><trk><name>way/916713799</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/916713799</desc><trkseg><trkpt lat="51.9514516" lon="11.3011511"/><trkpt lat="51.9514317" lon="11.3011987"/><trkpt lat="51.9514196" lon="11.3012527"/><trkpt lat="51.9514158" lon="11.3013099"/><trkpt lat="51.9514207" lon="11.3013669"/><trkpt lat="51.9514339" lon="11.3014202"/><trkpt lat="51.9514547" lon="11.3014668"/><trkpt lat="51.9514818" lon="11.3015039"/><trkpt lat="51.9515136" lon="11.3015292"/><trkpt lat="51.9515483" lon="11.3015413"/><trkpt lat="51.9515826" lon="11.3015398"/><trkpt lat="51.9516157" lon="11.3015253"/><trkpt lat="51.9516457" lon="11.3014986"/><trkpt lat="51.9516711" lon="11.3014612"/><trkpt lat="51.9516905" lon="11.3014153"/><trkpt lat="51.9517028" lon="11.3013619"/><trkpt lat="51.9517069" lon="11.3013052"/><trkpt lat="51.9517026" lon="11.3012486"/><trkpt lat="51.9516899" lon="11.3011953"/><trkpt lat="51.9516698" lon="11.3011486"/><trkpt lat="51.9516434" lon="11.301111"/><trkpt lat="51.9516121" lon="11.3010848"/><trkpt lat="51.9515779" lon="11.3010715"/><trkpt lat="51.9515428" lon="11.3010719"/><trkpt lat="51.9515087" lon="11.301086"/><trkpt lat="51.9514777" lon="11.3011129"/><trkpt lat="51.9514516" lon="11.3011511"/></trkseg></trk><trk><name>way/916713800</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/916713800</desc><trkseg><trkpt lat="51.9513226" lon="11.3025029"/><trkpt lat="51.9513441" lon="11.3025576"/><trkpt lat="51.9513733" lon="11.3026021"/><trkpt lat="51.9514083" lon="11.3026334"/><trkpt lat="51.951447" lon="11.3026498"/><trkpt lat="51.951487" lon="11.3026501"/><trkpt lat="51.9515258" lon="11.3026344"/><trkpt lat="51.951561" lon="11.3026036"/><trkpt lat="51.9515904" lon="11.3025597"/><trkpt lat="51.9516123" lon="11.3025053"/><trkpt lat="51.9516252" lon="11.3024439"/><trkpt lat="51.9516284" lon="11.3023842"/><trkpt lat="51.9516232" lon="11.302325"/><trkpt lat="51.9516097" lon="11.3022692"/><trkpt lat="51.9515888" lon="11.3022199"/><trkpt lat="51.9515615" lon="11.3021796"/><trkpt lat="51.9515292" lon="11.3021505"/><trkpt lat="51.9514937" lon="11.3021341"/><trkpt lat="51.951455" lon="11.3021315"/><trkpt lat="51.9514171" lon="11.302144"/><trkpt lat="51.9513821" lon="11.3021709"/><trkpt lat="51.9513521" lon="11.3022106"/><trkpt lat="51.9513288" lon="11.3022608"/><trkpt lat="51.9513136" lon="11.3023186"/><trkpt lat="51.9513073" lon="11.3023806"/><trkpt lat="51.9513104" lon="11.3024433"/><trkpt lat="51.9513226" lon="11.3025029"/></trkseg></trk><trk><name>way/916713801</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/916713801</desc><trkseg><trkpt lat="51.9513656" lon="11.3017049"/><trkpt lat="51.9513525" lon="11.3017639"/><trkpt lat="51.9513481" lon="11.3018263"/><trkpt lat="51.9513528" lon="11.3018885"/><trkpt lat="51.9513663" lon="11.3019473"/><trkpt lat="51.9513878" lon="11.3019994"/><trkpt lat="51.9514162" lon="11.302042"/><trkpt lat="51.9514499" lon="11.3020727"/><trkpt lat="51.9514871" lon="11.3020898"/><trkpt lat="51.9515274" lon="11.3020923"/><trkpt lat="51.9515669" lon="11.3020788"/><trkpt lat="51.9516032" lon="11.3020503"/><trkpt lat="51.9516342" lon="11.3020083"/><trkpt lat="51.9516579" lon="11.3019554"/><trkpt lat="51.9516731" lon="11.3018947"/><trkpt lat="51.9516787" lon="11.3018299"/><trkpt lat="51.9516745" lon="11.3017648"/><trkpt lat="51.9516608" lon="11.3017033"/><trkpt lat="51.9516382" lon="11.301649"/><trkpt lat="51.9516082" lon="11.3016052"/><trkpt lat="51.9515726" lon="11.3015745"/><trkpt lat="51.9515334" lon="11.3015588"/><trkpt lat="51.9514929" lon="11.3015589"/><trkpt lat="51.9514537" lon="11.3015749"/><trkpt lat="51.951418" lon="11.301606"/><trkpt lat="51.951388" lon="11.3016502"/><trkpt lat="51.9513656" lon="11.3017049"/></trkseg></trk><trk><name>way/916713802</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/916713802</desc><trkseg><trkpt lat="51.9510705" lon="11.3014273"/><trkpt lat="51.9510595" lon="11.3014867"/><trkpt lat="51.9510575" lon="11.3015486"/><trkpt lat="51.9510646" lon="11.3016095"/><trkpt lat="51.9510805" lon="11.3016659"/><trkpt lat="51.9511042" lon="11.3017145"/><trkpt lat="51.9511343" lon="11.3017526"/><trkpt lat="51.9511692" lon="11.301778"/><trkpt lat="51.9512068" lon="11.3017891"/><trkpt lat="51.9512449" lon="11.3017854"/><trkpt lat="51.9512805" lon="11.3017678"/><trkpt lat="51.9513126" lon="11.3017372"/><trkpt lat="51.9513394" lon="11.3016954"/><trkpt lat="51.9513595" lon="11.3016447"/><trkpt lat="51.9513719" lon="11.3015877"/><trkpt lat="51.9513757" lon="11.3015277"/><trkpt lat="51.9513709" lon="11.3014679"/><trkpt lat="51.9513576" lon="11.3014115"/><trkpt lat="51.9513367" lon="11.3013616"/><trkpt lat="51.9513069" lon="11.3013184"/><trkpt lat="51.9512714" lon="11.3012885"/><trkpt lat="51.9512324" lon="11.301274"/><trkpt lat="51.9511925" lon="11.3012756"/><trkpt lat="51.951154" lon="11.3012933"/><trkpt lat="51.9511195" lon="11.301326"/><trkpt lat="51.9510911" lon="11.3013717"/><trkpt lat="51.9510705" lon="11.3014273"/></trkseg></trk><trk><name>way/949987877</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/949987877</desc><trkseg><trkpt lat="52.6479782" lon="10.9074175"/><trkpt lat="52.647968" lon="10.9074597"/><trkpt lat="52.6479649" lon="10.9075048"/><trkpt lat="52.6479694" lon="10.9075496"/><trkpt lat="52.6479811" lon="10.9075907"/><trkpt lat="52.6479991" lon="10.9076251"/><trkpt lat="52.648022" lon="10.9076503"/><trkpt lat="52.6480482" lon="10.9076643"/><trkpt lat="52.6480758" lon="10.9076661"/><trkpt lat="52.6481027" lon="10.9076555"/><trkpt lat="52.6481269" lon="10.9076333"/><trkpt lat="52.6481465" lon="10.9076012"/><trkpt lat="52.6481601" lon="10.9075615"/><trkpt lat="52.6481666" lon="10.9075172"/><trkpt lat="52.6481657" lon="10.9074717"/><trkpt lat="52.6481572" lon="10.9074283"/><trkpt lat="52.6481395" lon="10.9073857"/><trkpt lat="52.6481147" lon="10.9073542"/><trkpt lat="52.6480853" lon="10.9073366"/><trkpt lat="52.648054" lon="10.9073347"/><trkpt lat="52.6480239" lon="10.9073487"/><trkpt lat="52.6479978" lon="10.9073772"/><trkpt lat="52.6479782" lon="10.9074175"/></trkseg></trk><trk><name>way/949987878</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/949987878</desc><trkseg><trkpt lat="52.6482061" lon="10.9074309"/><trkpt lat="52.6481994" lon="10.9074758"/><trkpt lat="52.6482003" lon="10.9075219"/><trkpt lat="52.6482085" lon="10.9075659"/><trkpt lat="52.6482236" lon="10.9076048"/><trkpt lat="52.6482444" lon="10.9076356"/><trkpt lat="52.6482695" lon="10.9076562"/><trkpt lat="52.6482969" lon="10.9076651"/><trkpt lat="52.6483249" lon="10.9076616"/><trkpt lat="52.6483534" lon="10.9076441"/><trkpt lat="52.6483776" lon="10.9076137"/><trkpt lat="52.6483955" lon="10.9075731"/><trkpt lat="52.6484055" lon="10.9075256"/><trkpt lat="52.6484067" lon="10.9074755"/><trkpt lat="52.6483991" lon="10.9074269"/><trkpt lat="52.6483833" lon="10.907384"/><trkpt lat="52.6483607" lon="10.9073505"/><trkpt lat="52.6483327" lon="10.907329"/><trkpt lat="52.6483022" lon="10.9073219"/><trkpt lat="52.6482717" lon="10.9073299"/><trkpt lat="52.648244" lon="10.9073522"/><trkpt lat="52.6482214" lon="10.9073869"/><trkpt lat="52.6482061" lon="10.9074309"/></trkseg></trk><trk><name>way/949987879</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/949987879</desc><trkseg><trkpt lat="52.6481979" lon="10.907093"/><trkpt lat="52.6482009" lon="10.9071385"/><trkpt lat="52.6482111" lon="10.9071811"/><trkpt lat="52.6482277" lon="10.9072178"/><trkpt lat="52.6482496" lon="10.907246"/><trkpt lat="52.6482751" lon="10.9072637"/><trkpt lat="52.6483027" lon="10.9072698"/><trkpt lat="52.6483302" lon="10.9072637"/><trkpt lat="52.6483558" lon="10.9072459"/><trkpt lat="52.6483802" lon="10.9072131"/><trkpt lat="52.6483976" lon="10.9071699"/><trkpt lat="52.6484064" lon="10.9071201"/><trkpt lat="52.6484058" lon="10.9070682"/><trkpt lat="52.6483959" lon="10.907019"/><trkpt lat="52.6483776" lon="10.9069768"/><trkpt lat="52.6483525" lon="10.9069455"/><trkpt lat="52.6483239" lon="10.9069282"/><trkpt lat="52.6482935" lon="10.9069252"/><trkpt lat="52.6482639" lon="10.9069368"/><trkpt lat="52.6482375" lon="10.906962"/><trkpt lat="52.6482167" lon="10.9069986"/><trkpt lat="52.6482031" lon="10.9070435"/><trkpt lat="52.6481979" lon="10.907093"/></trkseg></trk><trk><name>way/984122371</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/984122371</desc><trkseg><trkpt lat="52.4510422" lon="12.2572209"/><trkpt lat="52.4509981" lon="12.2571766"/><trkpt lat="52.4509479" lon="12.2571571"/><trkpt lat="52.4508964" lon="12.2571639"/><trkpt lat="52.4508487" lon="12.2571967"/><trkpt lat="52.4508096" lon="12.257252"/><trkpt lat="52.4507829" lon="12.2573244"/><trkpt lat="52.4507711" lon="12.2574069"/><trkpt lat="52.4507769" lon="12.2575002"/><trkpt lat="52.4508018" lon="12.2575846"/><trkpt lat="52.4508425" lon="12.2576498"/><trkpt lat="52.4508946" lon="12.2576885"/><trkpt lat="52.4509516" lon="12.2576956"/><trkpt lat="52.4510065" lon="12.2576704"/><trkpt lat="52.4510529" lon="12.2576159"/><trkpt lat="52.4510853" lon="12.2575387"/><trkpt lat="52.4510996" lon="12.257448"/><trkpt lat="52.4510956" lon="12.2573635"/><trkpt lat="52.4510758" lon="12.2572852"/><trkpt lat="52.4510422" lon="12.2572209"/></trkseg></trk><trk><name>way/984122377</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/984122377</desc><trkseg><trkpt lat="52.4478841" lon="12.2548113"/><trkpt lat="52.4478799" lon="12.2547353"/><trkpt lat="52.4478622" lon="12.2546647"/><trkpt lat="52.4478327" lon="12.2546057"/><trkpt lat="52.4477938" lon="12.2545637"/><trkpt lat="52.4477492" lon="12.2545423"/><trkpt lat="52.4477026" lon="12.2545435"/><trkpt lat="52.4476584" lon="12.2545671"/><trkpt lat="52.4476204" lon="12.2546111"/><trkpt lat="52.4475919" lon="12.2546715"/><trkpt lat="52.4475756" lon="12.254743"/><trkpt lat="52.4475728" lon="12.2548192"/><trkpt lat="52.4475839" lon="12.2548934"/><trkpt lat="52.4476078" lon="12.2549589"/><trkpt lat="52.4476424" lon="12.2550099"/><trkpt lat="52.4476846" lon="12.255042"/><trkpt lat="52.4477307" lon="12.2550522"/><trkpt lat="52.4477766" lon="12.2550396"/><trkpt lat="52.4478182" lon="12.2550055"/><trkpt lat="52.4478518" lon="12.2549527"/><trkpt lat="52.4478744" lon="12.254886"/><trkpt lat="52.4478841" lon="12.2548113"/></trkseg></trk><trk><name>way/984122402</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/984122402</desc><trkseg><trkpt lat="52.4460495" lon="12.2549191"/><trkpt lat="52.4460168" lon="12.254939"/><trkpt lat="52.445988" lon="12.2549711"/><trkpt lat="52.4459647" lon="12.2550136"/><trkpt lat="52.4459483" lon="12.255064"/><trkpt lat="52.4459397" lon="12.2551194"/><trkpt lat="52.4459394" lon="12.2551766"/><trkpt lat="52.4459475" lon="12.2552322"/><trkpt lat="52.4459635" lon="12.255283"/><trkpt lat="52.4459864" lon="12.2553261"/><trkpt lat="52.4460149" lon="12.2553589"/><trkpt lat="52.4460474" lon="12.2553796"/><trkpt lat="52.4460819" lon="12.2553869"/><trkpt lat="52.4461165" lon="12.2553804"/><trkpt lat="52.4461492" lon="12.2553606"/><trkpt lat="52.446178" lon="12.2553285"/><trkpt lat="52.4462013" lon="12.255286"/><trkpt lat="52.4462178" lon="12.2552356"/><trkpt lat="52.4462264" lon="12.2551802"/><trkpt lat="52.4462266" lon="12.255123"/><trkpt lat="52.4462186" lon="12.2550674"/><trkpt lat="52.4462026" lon="12.2550166"/><trkpt lat="52.4461797" lon="12.2549735"/><trkpt lat="52.4461512" lon="12.2549407"/><trkpt lat="52.4461187" lon="12.25492"/><trkpt lat="52.4460841" lon="12.2549127"/><trkpt lat="52.4460495" lon="12.2549191"/></trkseg></trk><trk><name>way/992494053</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/992494053</desc><trkseg><trkpt lat="52.3187637" lon="12.0973026"/><trkpt lat="52.318745" lon="12.0973774"/><trkpt lat="52.3187428" lon="12.0974581"/><trkpt lat="52.3187575" lon="12.0975353"/><trkpt lat="52.3187873" lon="12.0975998"/><trkpt lat="52.3188287" lon="12.097644"/><trkpt lat="52.3188768" lon="12.0976626"/><trkpt lat="52.3189259" lon="12.0976535"/><trkpt lat="52.3189702" lon="12.0976177"/><trkpt lat="52.3190045" lon="12.0975595"/><trkpt lat="52.3190247" lon="12.0974857"/><trkpt lat="52.3190289" lon="12.0974146"/><trkpt lat="52.3190198" lon="12.0973446"/><trkpt lat="52.3189983" lon="12.0972824"/><trkpt lat="52.3189663" lon="12.0972336"/><trkpt lat="52.3189269" lon="12.0972027"/><trkpt lat="52.3188836" lon="12.0971928"/><trkpt lat="52.3188404" lon="12.0972045"/><trkpt lat="52.3187969" lon="12.0972426"/><trkpt lat="52.3187637" lon="12.0973026"/></trkseg></trk><trk><name>way/992494054</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/992494054</desc><trkseg><trkpt lat="52.318893" lon="12.0968692"/><trkpt lat="52.3188784" lon="12.0969309"/><trkpt lat="52.3188774" lon="12.096997"/><trkpt lat="52.3188899" lon="12.0970599"/><trkpt lat="52.3189146" lon="12.0971123"/><trkpt lat="52.3189485" lon="12.0971482"/><trkpt lat="52.3189879" lon="12.0971634"/><trkpt lat="52.3190281" lon="12.0971562"/><trkpt lat="52.3190645" lon="12.0971274"/><trkpt lat="52.3190929" lon="12.0970803"/><trkpt lat="52.31911" lon="12.0970204"/><trkpt lat="52.3191141" lon="12.0969602"/><trkpt lat="52.3191067" lon="12.0969008"/><trkpt lat="52.3190885" lon="12.096848"/><trkpt lat="52.3190612" lon="12.0968069"/><trkpt lat="52.3190275" lon="12.0967816"/><trkpt lat="52.3189907" lon="12.0967744"/><trkpt lat="52.3189544" lon="12.096786"/><trkpt lat="52.3189193" lon="12.096819"/><trkpt lat="52.318893" lon="12.0968692"/></trkseg></trk><trk><name>way/992494055</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/992494055</desc><trkseg><trkpt lat="52.3189842" lon="12.0964419"/><trkpt lat="52.3189697" lon="12.0965036"/><trkpt lat="52.3189687" lon="12.0965697"/><trkpt lat="52.3189812" lon="12.0966326"/><trkpt lat="52.3190058" lon="12.096685"/><trkpt lat="52.3190398" lon="12.0967209"/><trkpt lat="52.3190792" lon="12.0967361"/><trkpt lat="52.3191194" lon="12.0967289"/><trkpt lat="52.3191558" lon="12.0967001"/><trkpt lat="52.3191842" lon="12.0966531"/><trkpt lat="52.3192013" lon="12.0965932"/><trkpt lat="52.3192054" lon="12.0965329"/><trkpt lat="52.319198" lon="12.0964735"/><trkpt lat="52.3191798" lon="12.0964207"/><trkpt lat="52.3191525" lon="12.0963796"/><trkpt lat="52.3191188" lon="12.0963543"/><trkpt lat="52.319082" lon="12.0963471"/><trkpt lat="52.3190456" lon="12.0963588"/><trkpt lat="52.3190106" lon="12.0963917"/><trkpt lat="52.3189842" lon="12.0964419"/></trkseg></trk><trk><name>way/992494056</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/992494056</desc><trkseg><trkpt lat="52.3191369" lon="12.0957011"/><trkpt lat="52.3191223" lon="12.0957628"/><trkpt lat="52.3191213" lon="12.095829"/><trkpt lat="52.3191338" lon="12.0958919"/><trkpt lat="52.3191585" lon="12.0959443"/><trkpt lat="52.3191924" lon="12.0959802"/><trkpt lat="52.3192318" lon="12.0959954"/><trkpt lat="52.319272" lon="12.0959882"/><trkpt lat="52.3193084" lon="12.0959594"/><trkpt lat="52.3193368" lon="12.0959123"/><trkpt lat="52.3193539" lon="12.0958524"/><trkpt lat="52.319358" lon="12.0957921"/><trkpt lat="52.3193506" lon="12.0957327"/><trkpt lat="52.3193324" lon="12.0956799"/><trkpt lat="52.3193051" lon="12.0956389"/><trkpt lat="52.3192714" lon="12.0956135"/><trkpt lat="52.3192346" lon="12.0956063"/><trkpt lat="52.3191982" lon="12.095618"/><trkpt lat="52.3191632" lon="12.0956509"/><trkpt lat="52.3191369" lon="12.0957011"/></trkseg></trk><trk><name>way/992494057</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/992494057</desc><trkseg><trkpt lat="52.3192333" lon="12.0952553"/><trkpt lat="52.3192188" lon="12.095317"/><trkpt lat="52.3192177" lon="12.0953831"/><trkpt lat="52.3192302" lon="12.095446"/><trkpt lat="52.3192549" lon="12.0954984"/><trkpt lat="52.3192889" lon="12.0955343"/><trkpt lat="52.3193282" lon="12.0955495"/><trkpt lat="52.3193684" lon="12.0955423"/><trkpt lat="52.3194048" lon="12.0955135"/><trkpt lat="52.3194332" lon="12.0954665"/><trkpt lat="52.3194503" lon="12.0954066"/><trkpt lat="52.3194545" lon="12.0953463"/><trkpt lat="52.319447" lon="12.0952869"/><trkpt lat="52.3194288" lon="12.0952341"/><trkpt lat="52.3194015" lon="12.095193"/><trkpt lat="52.3193679" lon="12.0951677"/><trkpt lat="52.319331" lon="12.0951605"/><trkpt lat="52.3192947" lon="12.0951722"/><trkpt lat="52.3192596" lon="12.0952051"/><trkpt lat="52.3192333" lon="12.0952553"/></trkseg></trk><trk><name>way/992494058</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/992494058</desc><trkseg><trkpt lat="52.3194148" lon="12.0956708"/><trkpt lat="52.3194101" lon="12.0957477"/><trkpt lat="52.3194213" lon="12.0958227"/><trkpt lat="52.319447" lon="12.0958874"/><trkpt lat="52.3194845" lon="12.0959345"/><trkpt lat="52.3195294" lon="12.0959585"/><trkpt lat="52.3195766" lon="12.0959567"/><trkpt lat="52.3196207" lon="12.0959294"/><trkpt lat="52.3196568" lon="12.0958796"/><trkpt lat="52.3196808" lon="12.095813"/><trkpt lat="52.3196898" lon="12.0957372"/><trkpt lat="52.3196839" lon="12.0956656"/><trkpt lat="52.3196646" lon="12.0956006"/><trkpt lat="52.3196339" lon="12.0955486"/><trkpt lat="52.3195948" lon="12.0955149"/><trkpt lat="52.3195512" lon="12.0955027"/><trkpt lat="52.3195075" lon="12.0955134"/><trkpt lat="52.319468" lon="12.0955459"/><trkpt lat="52.3194349" lon="12.0956009"/><trkpt lat="52.3194148" lon="12.0956708"/></trkseg></trk><trk><name>way/992520145</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=way/992520145</desc><trkseg><trkpt lat="52.130199" lon="11.2571773"/><trkpt lat="52.1301761" lon="11.2572263"/><trkpt lat="52.1302095" lon="11.2572677"/><trkpt lat="52.1301536" lon="11.2573768"/><trkpt lat="52.1301741" lon="11.2573754"/><trkpt lat="52.1301944" lon="11.2573794"/><trkpt lat="52.1302141" lon="11.2573885"/><trkpt lat="52.1302385" lon="11.2574085"/><trkpt lat="52.1302598" lon="11.2574364"/><trkpt lat="52.130283" lon="11.2573919"/><trkpt lat="52.1302664" lon="11.2573717"/><trkpt lat="52.1302528" lon="11.2573463"/><trkpt lat="52.1302428" lon="11.2573169"/><trkpt lat="52.1302355" lon="11.2572724"/><trkpt lat="52.1302363" lon="11.2572263"/><trkpt lat="52.130199" lon="11.2571773"/></trkseg></trk><trk><name>way/995612896</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=way/995612896</desc><trkseg><trkpt lat="52.1555994" lon="11.17128"/><trkpt lat="52.1555834" lon="11.171412"/><trkpt lat="52.1556098" lon="11.1714211"/><trkpt lat="52.1556258" lon="11.1712884"/><trkpt lat="52.1555994" lon="11.17128"/></trkseg></trk><trk><name>way/995942523</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=reciprocating_engine
+power=generator
+id=way/995942523</desc><trkseg><trkpt lat="52.1465632" lon="11.1424073"/><trkpt lat="52.1464833" lon="11.1424206"/><trkpt lat="52.146486" lon="11.1424621"/><trkpt lat="52.1465658" lon="11.1424487"/><trkpt lat="52.1465632" lon="11.1424073"/></trkseg></trk><trk><name>way/1044813973</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1044813973</desc><trkseg><trkpt lat="52.6344124" lon="11.4499211"/><trkpt lat="52.6344408" lon="11.4499406"/><trkpt lat="52.6344713" lon="11.4499462"/><trkpt lat="52.6345016" lon="11.4499373"/><trkpt lat="52.6345291" lon="11.4499147"/><trkpt lat="52.6345517" lon="11.4498803"/><trkpt lat="52.6345674" lon="11.4498368"/><trkpt lat="52.6345751" lon="11.4497877"/><trkpt lat="52.6345741" lon="11.449737"/><trkpt lat="52.6345645" lon="11.4496889"/><trkpt lat="52.634547" lon="11.4496472"/><trkpt lat="52.6345231" lon="11.4496154"/><trkpt lat="52.6344947" lon="11.4495959"/><trkpt lat="52.6344641" lon="11.4495903"/><trkpt lat="52.6344338" lon="11.4495992"/><trkpt lat="52.6344063" lon="11.4496218"/><trkpt lat="52.6343838" lon="11.4496562"/><trkpt lat="52.634368" lon="11.4496997"/><trkpt lat="52.6343603" lon="11.4497488"/><trkpt lat="52.6343614" lon="11.4497994"/><trkpt lat="52.634371" lon="11.4498476"/><trkpt lat="52.6343885" lon="11.4498892"/><trkpt lat="52.6344124" lon="11.4499211"/></trkseg></trk><trk><name>way/1044813974</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1044813974</desc><trkseg><trkpt lat="52.6346582" lon="11.449846"/><trkpt lat="52.6346866" lon="11.4498655"/><trkpt lat="52.6347171" lon="11.4498711"/><trkpt lat="52.6347474" lon="11.4498622"/><trkpt lat="52.6347749" lon="11.4498396"/><trkpt lat="52.6347975" lon="11.4498052"/><trkpt lat="52.6348132" lon="11.4497616"/><trkpt lat="52.6348209" lon="11.4497126"/><trkpt lat="52.6348199" lon="11.4496619"/><trkpt lat="52.6348103" lon="11.4496138"/><trkpt lat="52.6347928" lon="11.4495721"/><trkpt lat="52.6347689" lon="11.4495403"/><trkpt lat="52.6347405" lon="11.4495208"/><trkpt lat="52.6347099" lon="11.4495152"/><trkpt lat="52.6346797" lon="11.4495241"/><trkpt lat="52.6346521" lon="11.4495467"/><trkpt lat="52.6346296" lon="11.4495811"/><trkpt lat="52.6346138" lon="11.4496246"/><trkpt lat="52.6346061" lon="11.4496737"/><trkpt lat="52.6346072" lon="11.4497243"/><trkpt lat="52.6346168" lon="11.4497725"/><trkpt lat="52.6346343" lon="11.4498141"/><trkpt lat="52.6346582" lon="11.449846"/></trkseg></trk><trk><name>way/1093622511</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1093622511</desc><trkseg><trkpt lat="52.3879223" lon="11.9893065"/><trkpt lat="52.3879126" lon="11.9893474"/><trkpt lat="52.3879107" lon="11.9893912"/><trkpt lat="52.3879169" lon="11.9894339"/><trkpt lat="52.3879304" lon="11.9894717"/><trkpt lat="52.3879502" lon="11.9895013"/><trkpt lat="52.3879756" lon="11.9895206"/><trkpt lat="52.3880033" lon="11.989526"/><trkpt lat="52.3880308" lon="11.9895172"/><trkpt lat="52.3880552" lon="11.989495"/><trkpt lat="52.3880743" lon="11.9894615"/><trkpt lat="52.3880861" lon="11.9894199"/><trkpt lat="52.3880895" lon="11.9893745"/><trkpt lat="52.3880842" lon="11.9893295"/><trkpt lat="52.3880701" lon="11.9892881"/><trkpt lat="52.3880486" lon="11.9892562"/><trkpt lat="52.3880221" lon="11.9892372"/><trkpt lat="52.3879932" lon="11.9892331"/><trkpt lat="52.3879651" lon="11.9892443"/><trkpt lat="52.3879406" lon="11.9892696"/><trkpt lat="52.3879223" lon="11.9893065"/></trkseg></trk><trk><name>way/1093622512</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1093622512</desc><trkseg><trkpt lat="52.3879374" lon="11.9889276"/><trkpt lat="52.3879242" lon="11.9889655"/><trkpt lat="52.3879174" lon="11.9890077"/><trkpt lat="52.3879176" lon="11.9890514"/><trkpt lat="52.3879246" lon="11.9890935"/><trkpt lat="52.3879382" lon="11.9891312"/><trkpt lat="52.3879572" lon="11.9891618"/><trkpt lat="52.3879804" lon="11.9891832"/><trkpt lat="52.38801" lon="11.9891947"/><trkpt lat="52.3880404" lon="11.9891914"/><trkpt lat="52.3880688" lon="11.9891734"/><trkpt lat="52.3880927" lon="11.9891425"/><trkpt lat="52.3881099" lon="11.9891014"/><trkpt lat="52.388119" lon="11.9890537"/><trkpt lat="52.388119" lon="11.9890039"/><trkpt lat="52.3881104" lon="11.9889573"/><trkpt lat="52.3880939" lon="11.9889168"/><trkpt lat="52.388071" lon="11.9888859"/><trkpt lat="52.3880436" lon="11.988867"/><trkpt lat="52.3880141" lon="11.988862"/><trkpt lat="52.387985" lon="11.9888711"/><trkpt lat="52.3879586" lon="11.9888936"/><trkpt lat="52.3879374" lon="11.9889276"/></trkseg></trk><trk><name>way/1093622513</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1093622513</desc><trkseg><trkpt lat="52.3869325" lon="11.9894441"/><trkpt lat="52.3869519" lon="11.9894796"/><trkpt lat="52.3869766" lon="11.9895048"/><trkpt lat="52.3870046" lon="11.9895175"/><trkpt lat="52.3870337" lon="11.9895168"/><trkpt lat="52.3870614" lon="11.9895028"/><trkpt lat="52.3870857" lon="11.9894764"/><trkpt lat="52.3871044" lon="11.98944"/><trkpt lat="52.3871161" lon="11.9893963"/><trkpt lat="52.3871198" lon="11.9893491"/><trkpt lat="52.3871152" lon="11.989302"/><trkpt lat="52.3871028" lon="11.989259"/><trkpt lat="52.3870834" lon="11.9892235"/><trkpt lat="52.3870587" lon="11.9891983"/><trkpt lat="52.3870307" lon="11.9891855"/><trkpt lat="52.3870016" lon="11.9891862"/><trkpt lat="52.3869739" lon="11.9892003"/><trkpt lat="52.3869496" lon="11.9892266"/><trkpt lat="52.3869309" lon="11.9892631"/><trkpt lat="52.3869192" lon="11.9893067"/><trkpt lat="52.3869155" lon="11.989354"/><trkpt lat="52.3869201" lon="11.989401"/><trkpt lat="52.3869325" lon="11.9894441"/></trkseg></trk><trk><name>way/1119042323</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=3
+roof:shape=round
+id=way/1119042323</desc><trkseg><trkpt lat="52.5460437" lon="11.4047058"/><trkpt lat="52.5460731" lon="11.4046988"/><trkpt lat="52.5460998" lon="11.4046771"/><trkpt lat="52.5461211" lon="11.404643"/><trkpt lat="52.5461349" lon="11.4045997"/><trkpt lat="52.5461399" lon="11.4045516"/><trkpt lat="52.5461357" lon="11.4045032"/><trkpt lat="52.5461225" lon="11.4044593"/><trkpt lat="52.5461018" lon="11.4044243"/><trkpt lat="52.5460754" lon="11.4044016"/><trkpt lat="52.5460461" lon="11.4043933"/><trkpt lat="52.5460167" lon="11.4044003"/><trkpt lat="52.5459901" lon="11.404422"/><trkpt lat="52.5459688" lon="11.4044561"/><trkpt lat="52.5459549" lon="11.4044994"/><trkpt lat="52.5459499" lon="11.4045475"/><trkpt lat="52.5459542" lon="11.4045959"/><trkpt lat="52.5459673" lon="11.4046398"/><trkpt lat="52.5459881" lon="11.4046748"/><trkpt lat="52.5460144" lon="11.4046975"/><trkpt lat="52.5460437" lon="11.4047058"/></trkseg></trk><trk><name>way/1119042324</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1119042324</desc><trkseg><trkpt lat="52.5466782" lon="11.4044617"/><trkpt lat="52.5467081" lon="11.404455"/><trkpt lat="52.5467356" lon="11.4044348"/><trkpt lat="52.5467586" lon="11.4044026"/><trkpt lat="52.5467751" lon="11.404361"/><trkpt lat="52.5467838" lon="11.4043135"/><trkpt lat="52.5467841" lon="11.4042639"/><trkpt lat="52.5467758" lon="11.4042162"/><trkpt lat="52.5467597" lon="11.4041742"/><trkpt lat="52.546737" lon="11.4041414"/><trkpt lat="52.5467097" lon="11.4041205"/><trkpt lat="52.5466798" lon="11.404113"/><trkpt lat="52.5466499" lon="11.4041197"/><trkpt lat="52.5466224" lon="11.40414"/><trkpt lat="52.5465994" lon="11.4041722"/><trkpt lat="52.5465829" lon="11.4042137"/><trkpt lat="52.5465742" lon="11.4042612"/><trkpt lat="52.5465739" lon="11.4043109"/><trkpt lat="52.5465822" lon="11.4043586"/><trkpt lat="52.5465983" lon="11.4044005"/><trkpt lat="52.546621" lon="11.4044333"/><trkpt lat="52.5466484" lon="11.4044543"/><trkpt lat="52.5466782" lon="11.4044617"/></trkseg></trk><trk><name>way/1119042325</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1119042325</desc><trkseg><trkpt lat="52.5463357" lon="11.4040513"/><trkpt lat="52.5463033" lon="11.4040762"/><trkpt lat="52.5462756" lon="11.404113"/><trkpt lat="52.546254" lon="11.4041598"/><trkpt lat="52.5462398" lon="11.4042136"/><trkpt lat="52.5462339" lon="11.4042715"/><trkpt lat="52.5462365" lon="11.40433"/><trkpt lat="52.5462476" lon="11.4043858"/><trkpt lat="52.5462665" lon="11.4044356"/><trkpt lat="52.5462921" lon="11.4044764"/><trkpt lat="52.5463229" lon="11.4045061"/><trkpt lat="52.5463572" lon="11.4045227"/><trkpt lat="52.5463928" lon="11.4045254"/><trkpt lat="52.5464278" lon="11.404514"/><trkpt lat="52.5464601" lon="11.4044892"/><trkpt lat="52.5464879" lon="11.4044523"/><trkpt lat="52.5465095" lon="11.4044056"/><trkpt lat="52.5465237" lon="11.4043517"/><trkpt lat="52.5465296" lon="11.4042939"/><trkpt lat="52.5465269" lon="11.4042353"/><trkpt lat="52.5465158" lon="11.4041796"/><trkpt lat="52.5464969" lon="11.4041298"/><trkpt lat="52.5464713" lon="11.4040889"/><trkpt lat="52.5464405" lon="11.4040593"/><trkpt lat="52.5464063" lon="11.4040426"/><trkpt lat="52.5463707" lon="11.4040399"/><trkpt lat="52.5463357" lon="11.4040513"/></trkseg></trk><trk><name>way/1119042326</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1119042326</desc><trkseg><trkpt lat="52.5463528" lon="11.4035162"/><trkpt lat="52.5463181" lon="11.4035284"/><trkpt lat="52.5462863" lon="11.4035538"/><trkpt lat="52.546259" lon="11.403591"/><trkpt lat="52.5462379" lon="11.4036379"/><trkpt lat="52.5462243" lon="11.4036917"/><trkpt lat="52.5462189" lon="11.4037492"/><trkpt lat="52.5462221" lon="11.4038073"/><trkpt lat="52.5462336" lon="11.4038624"/><trkpt lat="52.5462528" lon="11.4039114"/><trkpt lat="52.5462785" lon="11.4039514"/><trkpt lat="52.5463094" lon="11.4039801"/><trkpt lat="52.5463435" lon="11.4039958"/><trkpt lat="52.5463789" lon="11.4039977"/><trkpt lat="52.5464135" lon="11.4039856"/><trkpt lat="52.5464454" lon="11.4039601"/><trkpt lat="52.5464727" lon="11.4039229"/><trkpt lat="52.5464937" lon="11.403876"/><trkpt lat="52.5465073" lon="11.4038223"/><trkpt lat="52.5465127" lon="11.4037647"/><trkpt lat="52.5465096" lon="11.4037066"/><trkpt lat="52.5464981" lon="11.4036515"/><trkpt lat="52.5464789" lon="11.4036026"/><trkpt lat="52.5464531" lon="11.4035625"/><trkpt lat="52.5464223" lon="11.4035338"/><trkpt lat="52.5463882" lon="11.4035181"/><trkpt lat="52.5463528" lon="11.4035162"/></trkseg></trk><trk><name>way/1119042327</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1119042327</desc><trkseg><trkpt lat="52.5463326" lon="11.4030706"/><trkpt lat="52.546331" lon="11.4031217"/><trkpt lat="52.5463359" lon="11.4031721"/><trkpt lat="52.546347" lon="11.4032198"/><trkpt lat="52.546364" lon="11.4032627"/><trkpt lat="52.546386" lon="11.4032988"/><trkpt lat="52.5464121" lon="11.4033266"/><trkpt lat="52.5464411" lon="11.4033448"/><trkpt lat="52.5464718" lon="11.4033528"/><trkpt lat="52.5465029" lon="11.4033501"/><trkpt lat="52.5465329" lon="11.4033368"/><trkpt lat="52.5465606" lon="11.4033135"/><trkpt lat="52.5465847" lon="11.4032813"/><trkpt lat="52.5466042" lon="11.4032416"/><trkpt lat="52.5466183" lon="11.403196"/><trkpt lat="52.5466263" lon="11.4031466"/><trkpt lat="52.5466279" lon="11.4030956"/><trkpt lat="52.546623" lon="11.4030451"/><trkpt lat="52.5466119" lon="11.4029974"/><trkpt lat="52.5465949" lon="11.4029546"/><trkpt lat="52.5465729" lon="11.4029185"/><trkpt lat="52.5465468" lon="11.4028907"/><trkpt lat="52.5465178" lon="11.4028724"/><trkpt lat="52.5464871" lon="11.4028644"/><trkpt lat="52.546456" lon="11.4028672"/><trkpt lat="52.546426" lon="11.4028804"/><trkpt lat="52.5463983" lon="11.4029037"/><trkpt lat="52.5463742" lon="11.4029359"/><trkpt lat="52.5463547" lon="11.4029757"/><trkpt lat="52.5463406" lon="11.4030212"/><trkpt lat="52.5463326" lon="11.4030706"/></trkseg></trk><trk><name>way/1119042328</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1119042328</desc><trkseg><trkpt lat="52.5466091" lon="11.4036768"/><trkpt lat="52.5465858" lon="11.4037141"/><trkpt lat="52.5465689" lon="11.4037599"/><trkpt lat="52.5465595" lon="11.4038111"/><trkpt lat="52.5465581" lon="11.4038645"/><trkpt lat="52.5465648" lon="11.4039169"/><trkpt lat="52.5465792" lon="11.4039649"/><trkpt lat="52.5466004" lon="11.4040054"/><trkpt lat="52.5466271" lon="11.404036"/><trkpt lat="52.5466576" lon="11.4040548"/><trkpt lat="52.54669" lon="11.4040604"/><trkpt lat="52.5467222" lon="11.4040527"/><trkpt lat="52.5467522" lon="11.404032"/><trkpt lat="52.5467781" lon="11.4039997"/><trkpt lat="52.5467984" lon="11.4039579"/><trkpt lat="52.5468117" lon="11.403909"/><trkpt lat="52.5468171" lon="11.4038563"/><trkpt lat="52.5468145" lon="11.4038029"/><trkpt lat="52.5468038" lon="11.4037524"/><trkpt lat="52.5467858" lon="11.4037077"/><trkpt lat="52.5467617" lon="11.4036719"/><trkpt lat="52.5467329" lon="11.403647"/><trkpt lat="52.5467012" lon="11.4036347"/><trkpt lat="52.5466687" lon="11.4036358"/><trkpt lat="52.5466373" lon="11.4036501"/><trkpt lat="52.5466091" lon="11.4036768"/></trkseg></trk><trk><name>way/1119042329</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1119042329</desc><trkseg><trkpt lat="52.5466203" lon="11.403307"/><trkpt lat="52.546611" lon="11.403388"/><trkpt lat="52.5466225" lon="11.4034681"/><trkpt lat="52.5466529" lon="11.4035336"/><trkpt lat="52.5466968" lon="11.4035732"/><trkpt lat="52.5467468" lon="11.4035799"/><trkpt lat="52.546794" lon="11.4035527"/><trkpt lat="52.5468305" lon="11.4034962"/><trkpt lat="52.5468498" lon="11.4034202"/><trkpt lat="52.5468487" lon="11.4033378"/><trkpt lat="52.5468273" lon="11.4032634"/><trkpt lat="52.5467893" lon="11.4032097"/><trkpt lat="52.5467413" lon="11.403186"/><trkpt lat="52.5466916" lon="11.4031965"/><trkpt lat="52.5466488" lon="11.4032393"/><trkpt lat="52.5466203" lon="11.403307"/></trkseg></trk><trk><name>way/1120084618</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1120084618</desc><trkseg><trkpt lat="51.751091" lon="12.9593065"/><trkpt lat="51.7510682" lon="12.9593028"/><trkpt lat="51.751046" lon="12.9593118"/><trkpt lat="51.7510271" lon="12.9593326"/><trkpt lat="51.7510137" lon="12.9593626"/><trkpt lat="51.7510077" lon="12.9593945"/><trkpt lat="51.7510082" lon="12.9594278"/><trkpt lat="51.7510149" lon="12.9594593"/><trkpt lat="51.7510274" lon="12.9594858"/><trkpt lat="51.7510443" lon="12.9595048"/><trkpt lat="51.7510641" lon="12.9595145"/><trkpt lat="51.7510847" lon="12.9595138"/><trkpt lat="51.7511042" lon="12.9595028"/><trkpt lat="51.7511206" lon="12.9594827"/><trkpt lat="51.7511324" lon="12.9594553"/><trkpt lat="51.7511386" lon="12.9594197"/><trkpt lat="51.7511369" lon="12.9593828"/><trkpt lat="51.7511276" lon="12.9593491"/><trkpt lat="51.7511116" lon="12.9593226"/><trkpt lat="51.751091" lon="12.9593065"/></trkseg></trk><trk><name>way/1120084619</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1120084619</desc><trkseg><trkpt lat="51.7508735" lon="12.9585523"/><trkpt lat="51.7508375" lon="12.9585687"/><trkpt lat="51.7508072" lon="12.9586039"/><trkpt lat="51.7507861" lon="12.9586539"/><trkpt lat="51.7507769" lon="12.9587124"/><trkpt lat="51.7507797" lon="12.9587667"/><trkpt lat="51.7507927" lon="12.9588169"/><trkpt lat="51.7508147" lon="12.9588581"/><trkpt lat="51.7508435" lon="12.9588864"/><trkpt lat="51.7508763" lon="12.9588989"/><trkpt lat="51.7509099" lon="12.9588944"/><trkpt lat="51.7509409" lon="12.9588733"/><trkpt lat="51.7509665" lon="12.9588378"/><trkpt lat="51.750984" lon="12.9587913"/><trkpt lat="51.7509917" lon="12.9587383"/><trkpt lat="51.750988" lon="12.9586782"/><trkpt lat="51.7509717" lon="12.9586238"/><trkpt lat="51.7509449" lon="12.9585816"/><trkpt lat="51.7509108" lon="12.9585568"/><trkpt lat="51.7508735" lon="12.9585523"/></trkseg></trk><trk><name>way/1120084620</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1120084620</desc><trkseg><trkpt lat="51.7511333" lon="12.9586865"/><trkpt lat="51.7510973" lon="12.9587028"/><trkpt lat="51.751067" lon="12.9587381"/><trkpt lat="51.7510459" lon="12.958788"/><trkpt lat="51.7510367" lon="12.9588466"/><trkpt lat="51.7510395" lon="12.9589009"/><trkpt lat="51.7510525" lon="12.9589511"/><trkpt lat="51.7510745" lon="12.9589923"/><trkpt lat="51.7511033" lon="12.9590206"/><trkpt lat="51.7511361" lon="12.9590331"/><trkpt lat="51.7511697" lon="12.9590286"/><trkpt lat="51.7512007" lon="12.9590075"/><trkpt lat="51.7512263" lon="12.958972"/><trkpt lat="51.7512438" lon="12.9589255"/><trkpt lat="51.7512515" lon="12.9588725"/><trkpt lat="51.7512478" lon="12.9588124"/><trkpt lat="51.7512315" lon="12.958758"/><trkpt lat="51.7512047" lon="12.9587158"/><trkpt lat="51.7511706" lon="12.958691"/><trkpt lat="51.7511333" lon="12.9586865"/></trkseg></trk><trk><name>way/1125296167</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1125296167</desc><trkseg><trkpt lat="51.961704" lon="11.3635119"/><trkpt lat="51.9617393" lon="11.3634912"/><trkpt lat="51.9617686" lon="11.3634529"/><trkpt lat="51.9617885" lon="11.3634012"/><trkpt lat="51.9617969" lon="11.3633418"/><trkpt lat="51.9617929" lon="11.3632812"/><trkpt lat="51.961777" lon="11.363226"/><trkpt lat="51.9617508" lon="11.3631823"/><trkpt lat="51.9617173" lon="11.3631549"/><trkpt lat="51.9616801" lon="11.3631467"/><trkpt lat="51.9616432" lon="11.3631587"/><trkpt lat="51.9616113" lon="11.363189"/><trkpt lat="51.961587" lon="11.3632343"/><trkpt lat="51.961573" lon="11.3632899"/><trkpt lat="51.9615708" lon="11.3633498"/><trkpt lat="51.9615806" lon="11.3634077"/><trkpt lat="51.9616013" lon="11.3634574"/><trkpt lat="51.9616308" lon="11.3634937"/><trkpt lat="51.9616665" lon="11.3635127"/><trkpt lat="51.961704" lon="11.3635119"/></trkseg></trk><trk><name>way/1125296168</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1125296168</desc><trkseg><trkpt lat="51.8928601" lon="10.7679466"/><trkpt lat="51.8928895" lon="10.7679329"/><trkpt lat="51.8929145" lon="10.7679042"/><trkpt lat="51.8929322" lon="10.7678638"/><trkpt lat="51.8929408" lon="10.7678161"/><trkpt lat="51.8929392" lon="10.7677666"/><trkpt lat="51.8929276" lon="10.7677207"/><trkpt lat="51.8929073" lon="10.7676835"/><trkpt lat="51.8928806" lon="10.7676592"/><trkpt lat="51.8928504" lon="10.7676506"/><trkpt lat="51.8928202" lon="10.7676585"/><trkpt lat="51.8927943" lon="10.7676809"/><trkpt lat="51.892774" lon="10.7677154"/><trkpt lat="51.8927616" lon="10.7677586"/><trkpt lat="51.8927582" lon="10.7678059"/><trkpt lat="51.8927642" lon="10.7678525"/><trkpt lat="51.8927791" lon="10.7678936"/><trkpt lat="51.8928012" lon="10.767925"/><trkpt lat="51.8928295" lon="10.7679439"/><trkpt lat="51.8928601" lon="10.7679466"/></trkseg></trk><trk><name>way/1157085937</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085937</desc><trkseg><trkpt lat="51.8843069" lon="12.0666193"/><trkpt lat="51.8843522" lon="12.0665983"/><trkpt lat="51.8843909" lon="12.0665544"/><trkpt lat="51.8844186" lon="12.0664925"/><trkpt lat="51.8844324" lon="12.0664194"/><trkpt lat="51.8844306" lon="12.0663429"/><trkpt lat="51.8844136" lon="12.0662716"/><trkpt lat="51.8843831" lon="12.0662132"/><trkpt lat="51.8843425" lon="12.0661741"/><trkpt lat="51.8842963" lon="12.0661585"/><trkpt lat="51.8842495" lon="12.0661683"/><trkpt lat="51.8842077" lon="12.0662016"/><trkpt lat="51.8841748" lon="12.066255"/><trkpt lat="51.8841542" lon="12.0663228"/><trkpt lat="51.8841482" lon="12.0663976"/><trkpt lat="51.8841574" lon="12.0664717"/><trkpt lat="51.8841808" lon="12.0665369"/><trkpt lat="51.884216" lon="12.0665865"/><trkpt lat="51.8842597" lon="12.0666152"/><trkpt lat="51.8843069" lon="12.0666193"/></trkseg></trk><trk><name>way/1157085938</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085938</desc><trkseg><trkpt lat="51.884304" lon="12.0661059"/><trkpt lat="51.8843395" lon="12.0660879"/><trkpt lat="51.8843694" lon="12.0660521"/><trkpt lat="51.8843905" lon="12.0660025"/><trkpt lat="51.8844004" lon="12.0659444"/><trkpt lat="51.8843981" lon="12.0658843"/><trkpt lat="51.8843839" lon="12.0658287"/><trkpt lat="51.8843592" lon="12.0657836"/><trkpt lat="51.8843268" lon="12.065754"/><trkpt lat="51.8842903" lon="12.0657431"/><trkpt lat="51.8842535" lon="12.0657521"/><trkpt lat="51.8842209" lon="12.0657797"/><trkpt lat="51.8841955" lon="12.0658228"/><trkpt lat="51.88418" lon="12.0658769"/><trkpt lat="51.8841762" lon="12.0659362"/><trkpt lat="51.8841843" lon="12.0659944"/><trkpt lat="51.8842036" lon="12.0660451"/><trkpt lat="51.884232" lon="12.0660831"/><trkpt lat="51.8842668" lon="12.0661043"/><trkpt lat="51.884304" lon="12.0661059"/></trkseg></trk><trk><name>way/1157085939</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085939</desc><trkseg><trkpt lat="51.8840337" lon="12.0660437"/><trkpt lat="51.8840694" lon="12.0660317"/><trkpt lat="51.8841005" lon="12.0660011"/><trkpt lat="51.8841234" lon="12.0659552"/><trkpt lat="51.8841355" lon="12.0658995"/><trkpt lat="51.8841353" lon="12.0658405"/><trkpt lat="51.8841229" lon="12.065785"/><trkpt lat="51.8840997" lon="12.0657395"/><trkpt lat="51.8840684" lon="12.0657093"/><trkpt lat="51.8840326" lon="12.065698"/><trkpt lat="51.8839966" lon="12.0657068"/><trkpt lat="51.8839674" lon="12.0657312"/><trkpt lat="51.8839441" lon="12.0657688"/><trkpt lat="51.883929" lon="12.0658162"/><trkpt lat="51.8839235" lon="12.0658688"/><trkpt lat="51.8839282" lon="12.0659216"/><trkpt lat="51.8839426" lon="12.0659695"/><trkpt lat="51.8839653" lon="12.0660081"/><trkpt lat="51.8839976" lon="12.0660355"/><trkpt lat="51.8840337" lon="12.0660437"/></trkseg></trk><trk><name>way/1157085940</name><desc>building=yes
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085940</desc><trkseg><trkpt lat="51.8839771" lon="12.0665377"/><trkpt lat="51.884022" lon="12.0665211"/><trkpt lat="51.8840608" lon="12.0664813"/><trkpt lat="51.8840893" lon="12.0664227"/><trkpt lat="51.8841042" lon="12.0663522"/><trkpt lat="51.8841037" lon="12.0662777"/><trkpt lat="51.8840879" lon="12.0662077"/><trkpt lat="51.8840587" lon="12.0661502"/><trkpt lat="51.8840193" lon="12.0661117"/><trkpt lat="51.8839742" lon="12.0660966"/><trkpt lat="51.8839287" lon="12.0661067"/><trkpt lat="51.8838903" lon="12.0661378"/><trkpt lat="51.8838598" lon="12.0661866"/><trkpt lat="51.8838402" lon="12.0662484"/><trkpt lat="51.8838334" lon="12.066317"/><trkpt lat="51.8838401" lon="12.0663857"/><trkpt lat="51.8838596" lon="12.0664475"/><trkpt lat="51.8838901" lon="12.0664965"/><trkpt lat="51.8839314" lon="12.0665291"/><trkpt lat="51.8839771" lon="12.0665377"/></trkseg></trk><trk><name>way/1157085942</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085942</desc><trkseg><trkpt lat="51.8740774" lon="10.9290959"/><trkpt lat="51.8741236" lon="10.9290712"/><trkpt lat="51.8741622" lon="10.9290235"/><trkpt lat="51.8741892" lon="10.928958"/><trkpt lat="51.8742016" lon="10.9288819"/><trkpt lat="51.8741979" lon="10.9288034"/><trkpt lat="51.8741787" lon="10.9287311"/><trkpt lat="51.874146" lon="10.9286729"/><trkpt lat="51.8741034" lon="10.9286351"/><trkpt lat="51.8740555" lon="10.9286218"/><trkpt lat="51.8740075" lon="10.9286346"/><trkpt lat="51.873965" lon="10.9286715"/><trkpt lat="51.8739322" lon="10.9287287"/><trkpt lat="51.8739125" lon="10.9288"/><trkpt lat="51.8739082" lon="10.9288778"/><trkpt lat="51.8739195" lon="10.9289537"/><trkpt lat="51.8739454" lon="10.9290195"/><trkpt lat="51.8739831" lon="10.9290683"/><trkpt lat="51.8740288" lon="10.9290949"/><trkpt lat="51.8740774" lon="10.9290959"/></trkseg></trk><trk><name>way/1157085943</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085943</desc><trkseg><trkpt lat="51.8743228" lon="10.9292289"/><trkpt lat="51.8743598" lon="10.9292112"/><trkpt lat="51.8743913" lon="10.9291749"/><trkpt lat="51.8744136" lon="10.9291239"/><trkpt lat="51.8744244" lon="10.9290638"/><trkpt lat="51.8744225" lon="10.9290014"/><trkpt lat="51.874408" lon="10.9289434"/><trkpt lat="51.8743827" lon="10.9288963"/><trkpt lat="51.8743492" lon="10.9288652"/><trkpt lat="51.8743112" lon="10.9288536"/><trkpt lat="51.874273" lon="10.9288627"/><trkpt lat="51.8742395" lon="10.9288908"/><trkpt lat="51.8742133" lon="10.9289347"/><trkpt lat="51.8741971" lon="10.9289899"/><trkpt lat="51.8741927" lon="10.9290506"/><trkpt lat="51.8742006" lon="10.9291103"/><trkpt lat="51.8742198" lon="10.9291629"/><trkpt lat="51.8742484" lon="10.9292027"/><trkpt lat="51.8742842" lon="10.929226"/><trkpt lat="51.8743228" lon="10.9292289"/></trkseg></trk><trk><name>way/1157085947</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085947</desc><trkseg><trkpt lat="51.8515889" lon="10.8443399"/><trkpt lat="51.8516258" lon="10.8443192"/><trkpt lat="51.8516565" lon="10.8442802"/><trkpt lat="51.8516776" lon="10.8442269"/><trkpt lat="51.8516867" lon="10.8441655"/><trkpt lat="51.8516829" lon="10.8441025"/><trkpt lat="51.8516666" lon="10.8440451"/><trkpt lat="51.8516396" lon="10.8439994"/><trkpt lat="51.8516048" lon="10.8439707"/><trkpt lat="51.8515661" lon="10.843962"/><trkpt lat="51.8515278" lon="10.8439743"/><trkpt lat="51.8514948" lon="10.8440052"/><trkpt lat="51.8514697" lon="10.8440515"/><trkpt lat="51.8514551" lon="10.8441084"/><trkpt lat="51.8514524" lon="10.8441699"/><trkpt lat="51.851462" lon="10.8442295"/><trkpt lat="51.8514829" lon="10.844281"/><trkpt lat="51.8515129" lon="10.844319"/><trkpt lat="51.8515498" lon="10.8443398"/><trkpt lat="51.8515889" lon="10.8443399"/></trkseg></trk><trk><name>way/1157085948</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085948</desc><trkseg><trkpt lat="51.8517938" lon="10.8441111"/><trkpt lat="51.8518244" lon="10.8440937"/><trkpt lat="51.8518497" lon="10.8440607"/><trkpt lat="51.8518667" lon="10.8440159"/><trkpt lat="51.8518734" lon="10.8439645"/><trkpt lat="51.8518692" lon="10.8439124"/><trkpt lat="51.8518544" lon="10.8438656"/><trkpt lat="51.8518308" lon="10.8438295"/><trkpt lat="51.8518012" lon="10.8438082"/><trkpt lat="51.8517688" lon="10.8438043"/><trkpt lat="51.8517375" lon="10.8438181"/><trkpt lat="51.8517127" lon="10.843845"/><trkpt lat="51.8516943" lon="10.843883"/><trkpt lat="51.8516841" lon="10.8439283"/><trkpt lat="51.8516829" lon="10.8439765"/><trkpt lat="51.8516909" lon="10.844023"/><trkpt lat="51.8517074" lon="10.8440632"/><trkpt lat="51.8517308" lon="10.8440932"/><trkpt lat="51.8517613" lon="10.8441109"/><trkpt lat="51.8517938" lon="10.8441111"/></trkseg></trk><trk><name>way/1157085949</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1157085949</desc><trkseg><trkpt lat="51.8518002" lon="10.8444886"/><trkpt lat="51.851831" lon="10.8444716"/><trkpt lat="51.8518566" lon="10.8444391"/><trkpt lat="51.851874" lon="10.8443947"/><trkpt lat="51.8518813" lon="10.8443434"/><trkpt lat="51.8518777" lon="10.8442911"/><trkpt lat="51.8518636" lon="10.8442437"/><trkpt lat="51.8518405" lon="10.8442066"/><trkpt lat="51.8518111" lon="10.844184"/><trkpt lat="51.8517788" lon="10.8441786"/><trkpt lat="51.8517471" lon="10.8441908"/><trkpt lat="51.8517214" lon="10.844217"/><trkpt lat="51.851702" lon="10.844255"/><trkpt lat="51.8516908" lon="10.8443009"/><trkpt lat="51.8516891" lon="10.8443501"/><trkpt lat="51.8516969" lon="10.8443977"/><trkpt lat="51.8517135" lon="10.8444391"/><trkpt lat="51.8517372" lon="10.84447"/><trkpt lat="51.8517677" lon="10.844488"/><trkpt lat="51.8518002" lon="10.8444886"/></trkseg></trk><trk><name>way/1175044979</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=2
+roof:shape=round
+id=way/1175044979</desc><trkseg><trkpt lat="52.5463251" lon="11.4034862"/><trkpt lat="52.5463404" lon="11.4034778"/><trkpt lat="52.5463532" lon="11.4034618"/><trkpt lat="52.5463623" lon="11.4034398"/><trkpt lat="52.5463665" lon="11.4034141"/><trkpt lat="52.5463654" lon="11.4033877"/><trkpt lat="52.5463592" lon="11.4033632"/><trkpt lat="52.5463486" lon="11.4033432"/><trkpt lat="52.5463346" lon="11.40333"/><trkpt lat="52.5463188" lon="11.4033249"/><trkpt lat="52.5463028" lon="11.4033285"/><trkpt lat="52.5462881" lon="11.4033407"/><trkpt lat="52.5462767" lon="11.4033601"/><trkpt lat="52.5462697" lon="11.4033847"/><trkpt lat="52.5462681" lon="11.4034116"/><trkpt lat="52.5462719" lon="11.4034378"/><trkpt lat="52.5462808" lon="11.4034606"/><trkpt lat="52.5462937" lon="11.4034773"/><trkpt lat="52.546309" lon="11.403486"/><trkpt lat="52.5463251" lon="11.4034862"/></trkseg></trk><trk><name>way/1177230321</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1177230321</desc><trkseg><trkpt lat="52.753984" lon="11.2967869"/><trkpt lat="52.7540182" lon="11.2967656"/><trkpt lat="52.7540463" lon="11.2967268"/><trkpt lat="52.754065" lon="11.2966748"/><trkpt lat="52.7540722" lon="11.2966156"/><trkpt lat="52.7540672" lon="11.2965557"/><trkpt lat="52.7540504" lon="11.2965019"/><trkpt lat="52.7540239" lon="11.2964604"/><trkpt lat="52.7539905" lon="11.2964357"/><trkpt lat="52.753954" lon="11.2964306"/><trkpt lat="52.7539186" lon="11.2964458"/><trkpt lat="52.7538896" lon="11.2964773"/><trkpt lat="52.7538681" lon="11.2965222"/><trkpt lat="52.7538562" lon="11.296576"/><trkpt lat="52.7538552" lon="11.2966332"/><trkpt lat="52.753865" lon="11.2966881"/><trkpt lat="52.7538849" lon="11.2967351"/><trkpt lat="52.7539126" lon="11.2967695"/><trkpt lat="52.7539474" lon="11.2967882"/><trkpt lat="52.753984" lon="11.2967869"/></trkseg></trk><trk><name>way/1177230322</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1177230322</desc><trkseg><trkpt lat="52.7542157" lon="11.2967521"/><trkpt lat="52.7542435" lon="11.296733"/><trkpt lat="52.754266" lon="11.2967"/><trkpt lat="52.7542806" lon="11.2966565"/><trkpt lat="52.7542858" lon="11.2966076"/><trkpt lat="52.754281" lon="11.2965586"/><trkpt lat="52.7542667" lon="11.2965148"/><trkpt lat="52.7542445" lon="11.2964813"/><trkpt lat="52.7542168" lon="11.2964617"/><trkpt lat="52.7541868" lon="11.2964581"/><trkpt lat="52.7541578" lon="11.296471"/><trkpt lat="52.7541336" lon="11.2964979"/><trkpt lat="52.7541158" lon="11.2965361"/><trkpt lat="52.7541064" lon="11.2965817"/><trkpt lat="52.7541062" lon="11.2966299"/><trkpt lat="52.7541153" lon="11.2966756"/><trkpt lat="52.7541328" lon="11.2967142"/><trkpt lat="52.7541568" lon="11.2967416"/><trkpt lat="52.7541857" lon="11.2967551"/><trkpt lat="52.7542157" lon="11.2967521"/></trkseg></trk><trk><name>way/1177230323</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=5
+roof:shape=round
+id=way/1177230323</desc><trkseg><trkpt lat="52.7544279" lon="11.2967431"/><trkpt lat="52.7544568" lon="11.2967241"/><trkpt lat="52.7544802" lon="11.2966903"/><trkpt lat="52.7544954" lon="11.2966457"/><trkpt lat="52.7545009" lon="11.2965952"/><trkpt lat="52.7544959" lon="11.2965445"/><trkpt lat="52.7544811" lon="11.2964995"/><trkpt lat="52.754458" lon="11.2964652"/><trkpt lat="52.7544293" lon="11.2964454"/><trkpt lat="52.7543983" lon="11.2964425"/><trkpt lat="52.7543685" lon="11.2964567"/><trkpt lat="52.7543445" lon="11.2964844"/><trkpt lat="52.754327" lon="11.296523"/><trkpt lat="52.7543177" lon="11.2965687"/><trkpt lat="52.7543174" lon="11.2966169"/><trkpt lat="52.7543263" lon="11.2966629"/><trkpt lat="52.7543435" lon="11.2967019"/><trkpt lat="52.7543672" lon="11.2967302"/><trkpt lat="52.7543969" lon="11.2967452"/><trkpt lat="52.7544279" lon="11.2967431"/></trkseg></trk><trk><name>way/1177230324</name><desc>building=digester
+building:colour=grey
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=grey
+roof:height=3
+roof:shape=round
+id=way/1177230324</desc><trkseg><trkpt lat="52.7543305" lon="11.2964367"/><trkpt lat="52.7543395" lon="11.2964312"/><trkpt lat="52.7543469" lon="11.2964211"/><trkpt lat="52.7543518" lon="11.2964074"/><trkpt lat="52.7543536" lon="11.2963919"/><trkpt lat="52.7543522" lon="11.2963762"/><trkpt lat="52.7543477" lon="11.2963621"/><trkpt lat="52.7543406" lon="11.2963514"/><trkpt lat="52.7543318" lon="11.2963452"/><trkpt lat="52.7543222" lon="11.2963443"/><trkpt lat="52.754313" lon="11.2963487"/><trkpt lat="52.7543057" lon="11.296357"/><trkpt lat="52.7543004" lon="11.2963686"/><trkpt lat="52.7542975" lon="11.2963824"/><trkpt lat="52.7542973" lon="11.2963969"/><trkpt lat="52.7542998" lon="11.2964109"/><trkpt lat="52.7543048" lon="11.2964229"/><trkpt lat="52.7543118" lon="11.2964318"/><trkpt lat="52.7543209" lon="11.2964369"/><trkpt lat="52.7543305" lon="11.2964367"/></trkseg></trk><trk><name>way/1180438917</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1180438917</desc><trkseg><trkpt lat="52.770544" lon="11.1292198"/><trkpt lat="52.7705861" lon="11.1291897"/><trkpt lat="52.77062" lon="11.129139"/><trkpt lat="52.7706423" lon="11.1290729"/><trkpt lat="52.7706506" lon="11.1289985"/><trkpt lat="52.7706439" lon="11.1289236"/><trkpt lat="52.7706231" lon="11.1288562"/><trkpt lat="52.7705903" lon="11.1288035"/><trkpt lat="52.770549" lon="11.1287709"/><trkpt lat="52.7705035" lon="11.128762"/><trkpt lat="52.7704588" lon="11.1287777"/><trkpt lat="52.7704183" lon="11.1288179"/><trkpt lat="52.7703882" lon="11.1288779"/><trkpt lat="52.7703717" lon="11.1289511"/><trkpt lat="52.7703709" lon="11.1290291"/><trkpt lat="52.7703857" lon="11.1291032"/><trkpt lat="52.7704145" lon="11.129165"/><trkpt lat="52.770454" lon="11.1292076"/><trkpt lat="52.7704984" lon="11.1292259"/><trkpt lat="52.770544" lon="11.1292198"/></trkseg></trk><trk><name>way/1191682533</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1191682533</desc><trkseg><trkpt lat="52.3509045" lon="11.9477471"/><trkpt lat="52.3508977" lon="11.9478154"/><trkpt lat="52.3508997" lon="11.9478845"/><trkpt lat="52.3509105" lon="11.9479514"/><trkpt lat="52.3509295" lon="11.9480131"/><trkpt lat="52.350956" lon="11.9480671"/><trkpt lat="52.3509887" lon="11.9481108"/><trkpt lat="52.3510263" lon="11.9481425"/><trkpt lat="52.3510671" lon="11.9481607"/><trkpt lat="52.3511093" lon="11.9481646"/><trkpt lat="52.3511511" lon="11.948154"/><trkpt lat="52.3511906" lon="11.9481295"/><trkpt lat="52.3512261" lon="11.948092"/><trkpt lat="52.3512561" lon="11.9480433"/><trkpt lat="52.3512793" lon="11.9479854"/><trkpt lat="52.3512946" lon="11.947921"/><trkpt lat="52.3513014" lon="11.9478527"/><trkpt lat="52.3512993" lon="11.9477836"/><trkpt lat="52.3512885" lon="11.9477166"/><trkpt lat="52.3512695" lon="11.9476549"/><trkpt lat="52.351243" lon="11.9476009"/><trkpt lat="52.3512103" lon="11.9475572"/><trkpt lat="52.3511727" lon="11.9475255"/><trkpt lat="52.3511319" lon="11.9475073"/><trkpt lat="52.3510898" lon="11.9475034"/><trkpt lat="52.351048" lon="11.947514"/><trkpt lat="52.3510085" lon="11.9475385"/><trkpt lat="52.3509729" lon="11.947576"/><trkpt lat="52.3509429" lon="11.9476247"/><trkpt lat="52.3509198" lon="11.9476826"/><trkpt lat="52.3509045" lon="11.9477471"/></trkseg></trk><trk><name>way/1191682534</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1191682534</desc><trkseg><trkpt lat="52.3511658" lon="11.9497769"/><trkpt lat="52.3511648" lon="11.9498166"/><trkpt lat="52.3511685" lon="11.9498558"/><trkpt lat="52.3511768" lon="11.9498931"/><trkpt lat="52.3511894" lon="11.9499269"/><trkpt lat="52.3512128" lon="11.9499656"/><trkpt lat="52.3512416" lon="11.9499927"/><trkpt lat="52.3512738" lon="11.9500062"/><trkpt lat="52.3513071" lon="11.9500051"/><trkpt lat="52.3513389" lon="11.9499896"/><trkpt lat="52.3513671" lon="11.9499607"/><trkpt lat="52.3513895" lon="11.9499206"/><trkpt lat="52.3514046" lon="11.9498722"/><trkpt lat="52.3514113" lon="11.9498189"/><trkpt lat="52.351409" lon="11.9497646"/><trkpt lat="52.351398" lon="11.9497133"/><trkpt lat="52.3513781" lon="11.949667"/><trkpt lat="52.3513512" lon="11.9496316"/><trkpt lat="52.3513193" lon="11.9496097"/><trkpt lat="52.3512849" lon="11.9496032"/><trkpt lat="52.3512508" lon="11.9496126"/><trkpt lat="52.3512197" lon="11.949637"/><trkpt lat="52.3511939" lon="11.9496747"/><trkpt lat="52.3511754" lon="11.9497226"/><trkpt lat="52.3511658" lon="11.9497769"/></trkseg></trk><trk><name>way/1191682535</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1191682535</desc><trkseg><trkpt lat="52.3509594" lon="11.9500633"/><trkpt lat="52.3509839" lon="11.9500969"/><trkpt lat="52.3510134" lon="11.9501171"/><trkpt lat="52.3510452" lon="11.9501223"/><trkpt lat="52.3510765" lon="11.950112"/><trkpt lat="52.3511046" lon="11.950087"/><trkpt lat="52.3511269" lon="11.9500496"/><trkpt lat="52.3511416" lon="11.9500031"/><trkpt lat="52.3511472" lon="11.9499516"/><trkpt lat="52.3511452" lon="11.9499117"/><trkpt lat="52.3511376" lon="11.9498737"/><trkpt lat="52.351125" lon="11.9498394"/><trkpt lat="52.3511081" lon="11.9498106"/><trkpt lat="52.3510806" lon="11.9497838"/><trkpt lat="52.3510496" lon="11.9497713"/><trkpt lat="52.3510177" lon="11.9497744"/><trkpt lat="52.3509877" lon="11.9497926"/><trkpt lat="52.3509624" lon="11.9498245"/><trkpt lat="52.3509439" lon="11.9498672"/><trkpt lat="52.3509339" lon="11.9499168"/><trkpt lat="52.3509332" lon="11.9499691"/><trkpt lat="52.350942" lon="11.9500195"/><trkpt lat="52.3509594" lon="11.9500633"/></trkseg></trk><trk><name>way/1192974736</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=2
+roof:shape=round
+id=way/1192974736</desc><trkseg><trkpt lat="52.3880844" lon="11.9888192"/><trkpt lat="52.3880948" lon="11.9888154"/><trkpt lat="52.3881039" lon="11.9888062"/><trkpt lat="52.3881107" lon="11.9887925"/><trkpt lat="52.3881143" lon="11.988776"/><trkpt lat="52.3881144" lon="11.9887585"/><trkpt lat="52.388111" lon="11.9887418"/><trkpt lat="52.3881044" lon="11.988728"/><trkpt lat="52.3880954" lon="11.9887184"/><trkpt lat="52.388085" lon="11.9887143"/><trkpt lat="52.3880743" lon="11.988716"/><trkpt lat="52.3880649" lon="11.988723"/><trkpt lat="52.3880574" lon="11.9887345"/><trkpt lat="52.3880524" lon="11.9887493"/><trkpt lat="52.3880506" lon="11.9887659"/><trkpt lat="52.3880521" lon="11.9887826"/><trkpt lat="52.3880568" lon="11.9887977"/><trkpt lat="52.3880641" lon="11.9888096"/><trkpt lat="52.3880737" lon="11.9888172"/><trkpt lat="52.3880844" lon="11.9888192"/></trkseg></trk><trk><name>way/1212595232</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1212595232</desc><trkseg><trkpt lat="51.4546987" lon="11.3927984"/><trkpt lat="51.4546774" lon="11.3927288"/><trkpt lat="51.4546433" lon="11.3926737"/><trkpt lat="51.4546" lon="11.392639"/><trkpt lat="51.4545522" lon="11.3926283"/><trkpt lat="51.4545046" lon="11.3926427"/><trkpt lat="51.4544625" lon="11.3926806"/><trkpt lat="51.45443" lon="11.3927382"/><trkpt lat="51.4544107" lon="11.3928093"/><trkpt lat="51.4544066" lon="11.3928866"/><trkpt lat="51.454418" lon="11.392962"/><trkpt lat="51.4544418" lon="11.3930237"/><trkpt lat="51.454476" lon="11.3930713"/><trkpt lat="51.4545174" lon="11.3931002"/><trkpt lat="51.4545624" lon="11.393108"/><trkpt lat="51.4546067" lon="11.3930938"/><trkpt lat="51.4546464" lon="11.393059"/><trkpt lat="51.4546778" lon="11.3930067"/><trkpt lat="51.454698" lon="11.3929418"/><trkpt lat="51.4547052" lon="11.3928702"/><trkpt lat="51.4546987" lon="11.3927984"/></trkseg></trk><trk><name>way/1212595233</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1212595233</desc><trkseg><trkpt lat="51.4544892" lon="11.3925866"/><trkpt lat="51.4545015" lon="11.392533"/><trkpt lat="51.4545024" lon="11.392476"/><trkpt lat="51.4544915" lon="11.3924203"/><trkpt lat="51.4544697" lon="11.3923734"/><trkpt lat="51.4544396" lon="11.3923406"/><trkpt lat="51.4544044" lon="11.3923255"/><trkpt lat="51.4543681" lon="11.3923299"/><trkpt lat="51.4543347" lon="11.3923531"/><trkpt lat="51.4543079" lon="11.3923927"/><trkpt lat="51.4542907" lon="11.3924442"/><trkpt lat="51.454285" lon="11.3925019"/><trkpt lat="51.4542912" lon="11.3925581"/><trkpt lat="51.4543082" lon="11.3926081"/><trkpt lat="51.4543344" lon="11.3926467"/><trkpt lat="51.4543669" lon="11.3926698"/><trkpt lat="51.4544023" lon="11.3926749"/><trkpt lat="51.4544369" lon="11.3926614"/><trkpt lat="51.4544669" lon="11.3926309"/><trkpt lat="51.4544892" lon="11.3925866"/></trkseg></trk><trk><name>way/1216594430</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1216594430</desc><trkseg><trkpt lat="51.8494555" lon="11.2572967"/><trkpt lat="51.8494424" lon="11.2573331"/><trkpt lat="51.8494373" lon="11.2573744"/><trkpt lat="51.8494406" lon="11.2574162"/><trkpt lat="51.8494519" lon="11.2574541"/><trkpt lat="51.8494702" lon="11.2574841"/><trkpt lat="51.8494943" lon="11.2575034"/><trkpt lat="51.849521" lon="11.2575087"/><trkpt lat="51.8495472" lon="11.2574995"/><trkpt lat="51.8495701" lon="11.2574767"/><trkpt lat="51.8495871" lon="11.257443"/><trkpt lat="51.8495962" lon="11.2574021"/><trkpt lat="51.8495965" lon="11.2573586"/><trkpt lat="51.8495878" lon="11.2573174"/><trkpt lat="51.8495719" lon="11.2572841"/><trkpt lat="51.8495502" lon="11.2572608"/><trkpt lat="51.8495251" lon="11.25725"/><trkpt lat="51.8494991" lon="11.2572528"/><trkpt lat="51.8494751" lon="11.2572689"/><trkpt lat="51.8494555" lon="11.2572967"/></trkseg></trk><trk><name>way/1216594431</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1216594431</desc><trkseg><trkpt lat="51.8493199" lon="11.2570894"/><trkpt lat="51.8493068" lon="11.2571258"/><trkpt lat="51.8493017" lon="11.2571671"/><trkpt lat="51.8493049" lon="11.2572089"/><trkpt lat="51.8493163" lon="11.2572468"/><trkpt lat="51.8493346" lon="11.2572767"/><trkpt lat="51.8493587" lon="11.257296"/><trkpt lat="51.8493854" lon="11.2573014"/><trkpt lat="51.8494116" lon="11.2572922"/><trkpt lat="51.8494345" lon="11.2572694"/><trkpt lat="51.8494515" lon="11.2572357"/><trkpt lat="51.8494606" lon="11.2571948"/><trkpt lat="51.8494609" lon="11.2571513"/><trkpt lat="51.8494522" lon="11.2571101"/><trkpt lat="51.8494363" lon="11.2570768"/><trkpt lat="51.8494146" lon="11.2570535"/><trkpt lat="51.8493895" lon="11.2570427"/><trkpt lat="51.8493635" lon="11.2570455"/><trkpt lat="51.8493394" lon="11.2570616"/><trkpt lat="51.8493199" lon="11.2570894"/></trkseg></trk><trk><name>way/1216594432</name><desc>building=digester
+building:colour=#007f7f
+building:levels=2
+generator:source=biomass
+power=generator
+roof:colour=#3f7f7f
+roof:height=5
+roof:shape=round
+id=way/1216594432</desc><trkseg><trkpt lat="51.8491981" lon="11.2573109"/><trkpt lat="51.849185" lon="11.2573474"/><trkpt lat="51.8491799" lon="11.2573887"/><trkpt lat="51.8491831" lon="11.2574304"/><trkpt lat="51.8491945" lon="11.2574683"/><trkpt lat="51.8492128" lon="11.2574983"/><trkpt lat="51.8492369" lon="11.2575176"/><trkpt lat="51.8492636" lon="11.257523"/><trkpt lat="51.8492898" lon="11.2575137"/><trkpt lat="51.8493127" lon="11.257491"/><trkpt lat="51.8493297" lon="11.2574572"/><trkpt lat="51.8493388" lon="11.2574163"/><trkpt lat="51.8493391" lon="11.2573728"/><trkpt lat="51.8493304" lon="11.2573317"/><trkpt lat="51.8493145" lon="11.2572984"/><trkpt lat="51.8492928" lon="11.2572751"/><trkpt lat="51.8492677" lon="11.2572642"/><trkpt lat="51.8492417" lon="11.2572671"/><trkpt lat="51.8492176" lon="11.2572832"/><trkpt lat="51.8491981" lon="11.2573109"/></trkseg></trk><trk><name>way/1216594433</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+id=way/1216594433</desc><trkseg><trkpt lat="51.8497463" lon="11.2580172"/><trkpt lat="51.8496714" lon="11.2579021"/><trkpt lat="51.8495366" lon="11.2576949"/><trkpt lat="51.8494633" lon="11.25782"/><trkpt lat="51.849673" lon="11.2581422"/><trkpt lat="51.8497463" lon="11.2580172"/></trkseg></trk><trk><name>Biogasanlage Polenzko</name><desc>addr:city=Polenzko
+addr:country=DE
+addr:housenumber=29
+addr:postcode=39264
+addr:street=Dorfstraße
+building=yes
+generator:method=anaerobic_digestion
+generator:output:electricity=530 kW
+generator:output:heat=yes
+generator:source=biomass
+generator:type=bioreactor
+name=Biogasanlage Polenzko
+power=generator
+ref:EEG=E418780200000E0000000010178700001
+start_date=2008-04-08
+id=way/1348589066</desc><trkseg><trkpt lat="52.0116672" lon="12.252725"/><trkpt lat="52.0116624" lon="12.2525928"/><trkpt lat="52.0115195" lon="12.2526065"/><trkpt lat="52.0115218" lon="12.2526705"/><trkpt lat="52.0116162" lon="12.2526615"/><trkpt lat="52.0116186" lon="12.2527296"/><trkpt lat="52.0116672" lon="12.252725"/></trkseg></trk><trk><name>way/1385320217</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1385320217</desc><trkseg><trkpt lat="51.8832805" lon="11.8500149"/><trkpt lat="51.8832884" lon="11.8499402"/><trkpt lat="51.8832813" lon="11.8498653"/><trkpt lat="51.883258" lon="11.8497942"/><trkpt lat="51.8832212" lon="11.84974"/><trkpt lat="51.8831754" lon="11.8497092"/><trkpt lat="51.8831257" lon="11.8497052"/><trkpt lat="51.8830782" lon="11.8497287"/><trkpt lat="51.8830383" lon="11.8497768"/><trkpt lat="51.8830121" lon="11.8498395"/><trkpt lat="51.8829995" lon="11.8499125"/><trkpt lat="51.883002" lon="11.8499882"/><trkpt lat="51.8830192" lon="11.8500586"/><trkpt lat="51.8830494" lon="11.8501165"/><trkpt lat="51.8830894" lon="11.8501558"/><trkpt lat="51.883135" lon="11.8501725"/><trkpt lat="51.8831815" lon="11.8501647"/><trkpt lat="51.8832241" lon="11.8501333"/><trkpt lat="51.8832583" lon="11.8500816"/><trkpt lat="51.8832805" lon="11.8500149"/></trkseg></trk><trk><name>way/1385320218</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1385320218</desc><trkseg><trkpt lat="51.8834652" lon="11.8496313"/><trkpt lat="51.8834731" lon="11.8495567"/><trkpt lat="51.883466" lon="11.8494818"/><trkpt lat="51.8834427" lon="11.8494106"/><trkpt lat="51.8834059" lon="11.8493565"/><trkpt lat="51.8833601" lon="11.8493256"/><trkpt lat="51.8833104" lon="11.8493217"/><trkpt lat="51.8832629" lon="11.8493451"/><trkpt lat="51.883223" lon="11.8493932"/><trkpt lat="51.8831968" lon="11.849456"/><trkpt lat="51.8831842" lon="11.8495289"/><trkpt lat="51.8831867" lon="11.8496046"/><trkpt lat="51.8832039" lon="11.8496751"/><trkpt lat="51.8832341" lon="11.849733"/><trkpt lat="51.8832741" lon="11.8497723"/><trkpt lat="51.8833197" lon="11.8497889"/><trkpt lat="51.8833662" lon="11.8497811"/><trkpt lat="51.8834088" lon="11.8497497"/><trkpt lat="51.883443" lon="11.849698"/><trkpt lat="51.8834652" lon="11.8496313"/></trkseg></trk><trk><name>way/1385320219</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1385320219</desc><trkseg><trkpt lat="51.8838682" lon="11.8505567"/><trkpt lat="51.8838774" lon="11.8504703"/><trkpt lat="51.8838692" lon="11.8503836"/><trkpt lat="51.8838422" lon="11.8503013"/><trkpt lat="51.8837996" lon="11.8502386"/><trkpt lat="51.8837465" lon="11.8502028"/><trkpt lat="51.883689" lon="11.8501983"/><trkpt lat="51.883634" lon="11.8502254"/><trkpt lat="51.8835879" lon="11.8502811"/><trkpt lat="51.8835575" lon="11.8503537"/><trkpt lat="51.883543" lon="11.8504382"/><trkpt lat="51.8835458" lon="11.8505258"/><trkpt lat="51.8835658" lon="11.8506074"/><trkpt lat="51.8836007" lon="11.8506744"/><trkpt lat="51.883647" lon="11.8507199"/><trkpt lat="51.8836998" lon="11.8507392"/><trkpt lat="51.8837536" lon="11.8507302"/><trkpt lat="51.8838029" lon="11.8506938"/><trkpt lat="51.8838425" lon="11.8506339"/><trkpt lat="51.8838682" lon="11.8505567"/></trkseg></trk><trk><name>way/1385320220</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1385320220</desc><trkseg><trkpt lat="51.8835086" lon="11.8504583"/><trkpt lat="51.8835179" lon="11.8503718"/><trkpt lat="51.8835096" lon="11.8502852"/><trkpt lat="51.8834826" lon="11.8502028"/><trkpt lat="51.8834401" lon="11.8501401"/><trkpt lat="51.8833869" lon="11.8501044"/><trkpt lat="51.8833295" lon="11.8500998"/><trkpt lat="51.8832744" lon="11.850127"/><trkpt lat="51.8832283" lon="11.8501827"/><trkpt lat="51.8831979" lon="11.8502553"/><trkpt lat="51.8831834" lon="11.8503398"/><trkpt lat="51.8831863" lon="11.8504274"/><trkpt lat="51.8832062" lon="11.8505089"/><trkpt lat="51.8832411" lon="11.850576"/><trkpt lat="51.8832874" lon="11.8506215"/><trkpt lat="51.8833402" lon="11.8506407"/><trkpt lat="51.8833941" lon="11.8506317"/><trkpt lat="51.8834434" lon="11.8505954"/><trkpt lat="51.8834829" lon="11.8505355"/><trkpt lat="51.8835086" lon="11.8504583"/></trkseg></trk><trk><name>way/1385320221</name><desc>building=digester
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1385320221</desc><trkseg><trkpt lat="51.8837467" lon="11.8500043"/><trkpt lat="51.8837559" lon="11.8499179"/><trkpt lat="51.8837476" lon="11.8498312"/><trkpt lat="51.8837206" lon="11.8497489"/><trkpt lat="51.8836781" lon="11.8496861"/><trkpt lat="51.883625" lon="11.8496504"/><trkpt lat="51.8835675" lon="11.8496458"/><trkpt lat="51.8835125" lon="11.849673"/><trkpt lat="51.8834663" lon="11.8497287"/><trkpt lat="51.883436" lon="11.8498013"/><trkpt lat="51.8834214" lon="11.8498858"/><trkpt lat="51.8834243" lon="11.8499734"/><trkpt lat="51.8834442" lon="11.850055"/><trkpt lat="51.8834791" lon="11.850122"/><trkpt lat="51.8835254" lon="11.8501675"/><trkpt lat="51.8835782" lon="11.8501867"/><trkpt lat="51.8836321" lon="11.8501777"/><trkpt lat="51.8836814" lon="11.8501414"/><trkpt lat="51.8837209" lon="11.8500815"/><trkpt lat="51.8837467" lon="11.8500043"/></trkseg></trk></gpx>

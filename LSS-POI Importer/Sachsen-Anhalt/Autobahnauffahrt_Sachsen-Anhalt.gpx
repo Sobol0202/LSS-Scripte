@@ -1,0 +1,1514 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="51.0392815" lon="11.9411378"><name>Droyßig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12789
+TMC:cid_58:tabcd_1:NextLocationCode=12790
+TMC:cid_58:tabcd_1:PrevLocationCode=12788
+highway=motorway_junction
+name=Droyßig
+ref=21b
+id=node/508694</desc></wpt><wpt lat="51.1010082" lon="11.9558888"><name>Rasthof Osterfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=5565
+TMC:cid_58:tabcd_1:NextLocationCode=12792
+TMC:cid_58:tabcd_1:PrevLocationCode=12790
+highway=motorway_junction
+name=Rasthof Osterfeld
+noref=yes
+id=node/508738</desc></wpt><wpt lat="51.287375" lon="12.1326462"><name>Bad Dürrenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=12793
+TMC:cid_58:tabcd_1:NextLocationCode=5244
+TMC:cid_58:tabcd_1:PrevLocationCode=43894
+highway=motorway_junction
+name=Bad Dürrenberg
+ref=18
+id=node/508935</desc></wpt><wpt lat="51.6055851" lon="12.1846554"><name>Rasthof Köckern</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12800
+TMC:cid_58:tabcd_1:NextLocationCode=43896
+TMC:cid_58:tabcd_1:PrevLocationCode=12799
+highway=motorway_junction
+name=Rasthof Köckern
+noref=yes
+id=node/509193</desc></wpt><wpt lat="51.6326378" lon="12.1958677"><name>Bitterfeld-Wolfen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43896
+TMC:cid_58:tabcd_1:NextLocationCode=12802
+TMC:cid_58:tabcd_1:PrevLocationCode=12800
+destination=Bitterfeld;Wolfen
+highway=motorway_junction
+name=Bitterfeld-Wolfen
+ref=12
+id=node/509212</desc></wpt><wpt lat="51.8450261" lon="12.3271625"><name>Vockerode</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12804
+TMC:cid_58:tabcd_1:NextLocationCode=12805
+TMC:cid_58:tabcd_1:PrevLocationCode=12803
+highway=motorway_junction
+name=Vockerode
+ref=9
+id=node/509304</desc></wpt><wpt lat="51.8668745" lon="12.3695197"><name>Rastplatz Kliekener Aue</name><desc>highway=motorway_junction
+name=Rastplatz Kliekener Aue
+noref=yes
+id=node/509321</desc></wpt><wpt lat="51.9611949" lon="12.4644436"><name>Köselitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12806
+TMC:cid_58:tabcd_1:NextLocationCode=12807
+TMC:cid_58:tabcd_1:PrevLocationCode=12805
+highway=motorway_junction
+name=Köselitz
+ref=7
+id=node/509378</desc></wpt><wpt lat="51.8691464" lon="12.3759745"><name>Rastplatz Kliekener Aue</name><desc>highway=motorway_junction
+name=Rastplatz Kliekener Aue
+noref=yes
+id=node/509871</desc></wpt><wpt lat="51.7264269" lon="12.2157215"><name>Rastplatz Mosigkauer Heide</name><desc>highway=motorway_junction
+name=Rastplatz Mosigkauer Heide
+noref=yes
+id=node/509949</desc></wpt><wpt lat="51.6096915" lon="12.1861197"><name>Rasthof Köckern</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12800
+TMC:cid_58:tabcd_1:NextLocationCode=43896
+TMC:cid_58:tabcd_1:PrevLocationCode=12799
+highway=motorway_junction
+name=Rasthof Köckern
+noref=yes
+id=node/509995</desc></wpt><wpt lat="51.5603847" lon="12.187013"><name>Halle</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12799
+TMC:cid_58:tabcd_1:NextLocationCode=12800
+TMC:cid_58:tabcd_1:PrevLocationCode=12797
+highway=motorway_junction
+name=Halle
+ref=13
+id=node/510030</desc></wpt><wpt lat="51.5505075" lon="12.189967"><name>Halle</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12799
+TMC:cid_58:tabcd_1:NextLocationCode=12800
+TMC:cid_58:tabcd_1:PrevLocationCode=12797
+highway=motorway_junction
+name=Halle
+ref=13
+id=node/21484185</desc></wpt><wpt lat="51.3512539" lon="12.1872928"><name>Leipzig-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=12794
+TMC:cid_58:tabcd_1:NextLocationCode=12795
+TMC:cid_58:tabcd_1:PrevLocationCode=5244
+hazmat=designated
+highway=motorway_junction
+name=Leipzig-West
+ref=17
+id=node/25581623</desc></wpt><wpt lat="52.2185164" lon="11.060658"><name>Rasthof Lappwald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10526
+TMC:cid_58:tabcd_1:NextLocationCode=10528
+TMC:cid_58:tabcd_1:PrevLocationCode=10527
+highway=motorway_junction
+name=Rasthof Lappwald
+noref=yes
+id=node/26305502</desc></wpt><wpt lat="51.7518306" lon="12.2276977"><name>Dessau-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12802
+TMC:cid_58:tabcd_1:NextLocationCode=12803
+TMC:cid_58:tabcd_1:PrevLocationCode=43896
+highway=motorway_junction
+name=Dessau-Süd
+ref=11a
+id=node/26317586</desc></wpt><wpt lat="51.7517648" lon="12.2273545"><name>Dessau-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12802
+TMC:cid_58:tabcd_1:NextLocationCode=12803
+TMC:cid_58:tabcd_1:PrevLocationCode=43896
+highway=motorway_junction
+name=Dessau-Süd
+ref=11a
+id=node/26518303</desc></wpt><wpt lat="51.2315977" lon="12.0538792"><name>Kreuz Rippachtal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=43894
+TMC:cid_58:tabcd_1:NextLocationCode=12793
+TMC:cid_58:tabcd_1:PrevLocationCode=13924
+highway=motorway_junction
+name=Kreuz Rippachtal
+ref=19
+id=node/26856004</desc></wpt><wpt lat="51.2380983" lon="12.1357756"><name>Lützen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=43537
+TMC:cid_58:tabcd_1:NextLocationCode=10373
+TMC:cid_58:tabcd_1:PrevLocationCode=43535
+highway=motorway_junction
+name=Lützen
+ref=28
+id=node/26856020</desc></wpt><wpt lat="51.237266" lon="12.0674835"><name>Kreuz Rippachtal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=43535
+TMC:cid_58:tabcd_1:NextLocationCode=43537
+TMC:cid_58:tabcd_1:PrevLocationCode=43533
+highway=motorway_junction
+name=Kreuz Rippachtal
+ref=27
+id=node/26856083</desc></wpt><wpt lat="51.5558061" lon="12.0057663"><name>Parkplatz Petersberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43977
+TMC:cid_58:tabcd_1:NextLocationCode=43534
+TMC:cid_58:tabcd_1:PrevLocationCode=43532
+highway=motorway_junction
+name=Parkplatz Petersberg
+noref=yes
+id=node/26911647</desc></wpt><wpt lat="52.0856131" lon="11.5378572"><name>Wanzleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43508
+TMC:cid_58:tabcd_1:NextLocationCode=43510
+TMC:cid_58:tabcd_1:PrevLocationCode=43506
+highway=motorway_junction
+name=Wanzleben
+ref=4
+id=node/26912975</desc></wpt><wpt lat="52.0023888" lon="11.6602085"><name>Schönebeck</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43514
+TMC:cid_58:tabcd_1:NextLocationCode=43975
+TMC:cid_58:tabcd_1:PrevLocationCode=43512
+highway=motorway_junction
+name=Schönebeck
+ref=7
+id=node/26913104</desc></wpt><wpt lat="52.0037211" lon="11.6596598"><name>Schönebeck</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43514
+TMC:cid_58:tabcd_1:NextLocationCode=43975
+TMC:cid_58:tabcd_1:PrevLocationCode=43512
+highway=motorway_junction
+name=Schönebeck
+ref=7
+id=node/26913343</desc></wpt><wpt lat="52.0522091" lon="11.6180099"><name>Magdeburg-Reform</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43512
+TMC:cid_58:tabcd_1:NextLocationCode=43514
+TMC:cid_58:tabcd_1:PrevLocationCode=43970
+highway=motorway_junction
+name=Magdeburg-Reform
+ref=6
+id=node/26913366</desc></wpt><wpt lat="52.0686501" lon="11.5614029"><name>Magdeburg-Sudenburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43510
+TMC:cid_58:tabcd_1:NextLocationCode=43970
+TMC:cid_58:tabcd_1:PrevLocationCode=43508
+highway=motorway_junction
+name=Magdeburg-Sudenburg
+ref=5
+id=node/26913671</desc></wpt><wpt lat="52.0835678" lon="11.5399601"><name>Wanzleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43508
+TMC:cid_58:tabcd_1:NextLocationCode=43510
+TMC:cid_58:tabcd_1:PrevLocationCode=43506
+highway=motorway_junction
+name=Wanzleben
+ref=4
+id=node/26913683</desc></wpt><wpt lat="52.1444523" lon="11.5418966"><name>Magdeburg-Stadtfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43506
+TMC:cid_58:tabcd_1:NextLocationCode=43508
+TMC:cid_58:tabcd_1:PrevLocationCode=43504
+highway=motorway_junction
+name=Magdeburg-Stadtfeld
+ref=3
+id=node/26913721</desc></wpt><wpt lat="51.5739934" lon="11.9004659"><name>Halle-Trotha</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43532
+TMC:cid_58:tabcd_1:NextLocationCode=43977
+TMC:cid_58:tabcd_1:PrevLocationCode=43530
+highway=motorway_junction
+name=Halle-Trotha
+ref=15
+id=node/26949271</desc></wpt><wpt lat="51.6825755" lon="11.77342"><name>Könnern</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43526
+TMC:cid_58:tabcd_1:NextLocationCode=43972
+TMC:cid_58:tabcd_1:PrevLocationCode=43522
+highway=motorway_junction
+name=Könnern
+ref=12
+id=node/26949802</desc></wpt><wpt lat="51.6832744" lon="11.7706374"><name>Könnern</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43526
+TMC:cid_58:tabcd_1:NextLocationCode=43972
+TMC:cid_58:tabcd_1:PrevLocationCode=43522
+highway=motorway_junction
+name=Könnern
+ref=12
+id=node/26966951</desc></wpt><wpt lat="51.7351099" lon="11.6677223"><name>Plötzkau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43522
+TMC:cid_58:tabcd_1:NextLocationCode=43526
+TMC:cid_58:tabcd_1:PrevLocationCode=43520
+highway=motorway_junction
+name=Plötzkau
+ref=11
+id=node/26967140</desc></wpt><wpt lat="51.8208076" lon="12.3074623"><name>Dessau-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12803
+TMC:cid_58:tabcd_1:NextLocationCode=12804
+TMC:cid_58:tabcd_1:PrevLocationCode=12802
+highway=motorway_junction
+name=Dessau-Ost
+ref=10
+id=node/27348822</desc></wpt><wpt lat="52.2166501" lon="11.0789689"><name>Marienborn / Helmstedt</name><desc>highway=motorway_junction
+name=Marienborn / Helmstedt
+ref=63
+id=node/30027637</desc></wpt><wpt lat="52.1699856" lon="11.5551787"><name>Kreuz Magdeburg</name><desc>highway=motorway_junction
+name=Kreuz Magdeburg
+ref=68
+id=node/30042501</desc></wpt><wpt lat="52.1790613" lon="11.5900321"><name>Magdeburg-Kannenstieg</name><desc>highway=motorway_junction
+name=Magdeburg-Kannenstieg
+ref=69
+id=node/30042514</desc></wpt><wpt lat="52.2139173" lon="11.6694166"><name>Magdeburg-Rothensee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10537
+TMC:cid_58:tabcd_1:NextLocationCode=10538
+TMC:cid_58:tabcd_1:PrevLocationCode=10536
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Magdeburg-Rothensee
+ref=71
+id=node/30042518</desc></wpt><wpt lat="52.2355671" lon="11.9891501"><name>Rastplatz Ihlegrund</name><desc>highway=motorway_junction
+name=Rastplatz Ihlegrund
+noref=yes
+id=node/30042558</desc></wpt><wpt lat="52.1854843" lon="11.447781"><name>Rasthof Börde</name><desc>highway=motorway_junction
+name=Rasthof Börde
+noref=yes
+id=node/30042625</desc></wpt><wpt lat="52.174902" lon="11.4837472"><name>Irxleben</name><desc>highway=motorway_junction
+name=Irxleben
+ref=67
+id=node/30042632</desc></wpt><wpt lat="52.1837921" lon="11.608526"><name>Magdeburg-Zentrum</name><desc>highway=motorway_junction
+name=Magdeburg-Zentrum
+ref=70
+id=node/30042666</desc></wpt><wpt lat="52.2094167" lon="11.6619052"><name>Magdeburg-Rothensee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10537
+TMC:cid_58:tabcd_1:NextLocationCode=10538
+TMC:cid_58:tabcd_1:PrevLocationCode=10536
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Magdeburg-Rothensee
+ref=71
+id=node/30042670</desc></wpt><wpt lat="52.2256918" lon="11.8230253"><name>Burg-Zentrum</name><desc>highway=motorway_junction
+name=Burg-Zentrum
+ref=73
+id=node/30042713</desc></wpt><wpt lat="52.2320956" lon="11.8884027"><name>Burg-Ost</name><desc>highway=motorway_junction
+name=Burg-Ost
+ref=74
+id=node/30042719</desc></wpt><wpt lat="52.2332721" lon="12.062122"><name>Theeßen</name><desc>highway=motorway_junction
+name=Theeßen
+ref=75
+id=node/30042748</desc></wpt><wpt lat="51.2401485" lon="12.0617692"><name>node/32846788</name><desc>highway=motorway_junction
+id=node/32846788</desc></wpt><wpt lat="51.4037088" lon="11.8646022"><name>Dreieck Halle-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43525
+TMC:cid_58:tabcd_1:NextLocationCode=43527
+TMC:cid_58:tabcd_1:PrevLocationCode=12706
+highway=motorway_junction
+name=Dreieck Halle-Süd
+ref=22
+id=node/32846844</desc></wpt><wpt lat="51.4812256" lon="11.8443118"><name>Halle-Neustadt</name><desc>highway=motorway_junction
+name=Halle-Neustadt
+ref=3
+id=node/32846858</desc></wpt><wpt lat="51.4287028" lon="11.8643276"><name>Holleben</name><desc>highway=motorway_junction
+name=Holleben
+ref=5
+id=node/32851491</desc></wpt><wpt lat="51.2373467" lon="12.0457197"><name>Kreuz Rippachtal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=43535
+TMC:cid_58:tabcd_1:NextLocationCode=43537
+TMC:cid_58:tabcd_1:PrevLocationCode=43533
+highway=motorway_junction
+name=Kreuz Rippachtal
+ref=27
+id=node/32851713</desc></wpt><wpt lat="52.1061747" lon="11.6061927"><name>node/33483334</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33483334</desc></wpt><wpt lat="52.1108631" lon="11.6084475"><name>node/33483340</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33483340</desc></wpt><wpt lat="52.1207745" lon="11.616307"><name>node/33483368</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33483368</desc></wpt><wpt lat="52.1302767" lon="11.6217519"><name>node/33483385</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33483385</desc></wpt><wpt lat="52.1371986" lon="11.6278049"><name>node/33483390</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33483390</desc></wpt><wpt lat="52.1493995" lon="11.6277225"><name>node/33483408</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33483408</desc></wpt><wpt lat="52.1582856" lon="11.6273348"><name>node/33483415</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33483415</desc></wpt><wpt lat="52.1644006" lon="11.6274871"><name>node/33483423</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33483423</desc></wpt><wpt lat="51.9328643" lon="10.6415316"><name>Abbenrode</name><desc>highway=motorway_junction
+name=Abbenrode
+ref=15
+id=node/33506181</desc></wpt><wpt lat="51.8105148" lon="10.9449926"><name>Blankenburg-Mitte</name><desc>highway=motorway_junction
+name=Blankenburg-Mitte
+old_name:2004-2018=Blankenburg-Zentrum
+ref=21
+id=node/33506242</desc></wpt><wpt lat="51.8047316" lon="10.9960581"><name>Blankenburg-Ost</name><desc>highway=motorway_junction
+name=Blankenburg-Ost
+ref=22
+id=node/33506321</desc></wpt><wpt lat="52.1858444" lon="11.6183911"><name>node/33782655</name><desc>highway=motorway_junction
+id=node/33782655</desc></wpt><wpt lat="52.1870159" lon="11.6169337"><name>node/33782744</name><desc>highway=motorway_junction
+id=node/33782744</desc></wpt><wpt lat="52.1839032" lon="11.6213771"><name>node/33782746</name><desc>highway=motorway_junction
+id=node/33782746</desc></wpt><wpt lat="52.1809809" lon="11.6259066"><name>node/33782748</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33782748</desc></wpt><wpt lat="52.1724297" lon="11.6271432"><name>node/33782755</name><desc>highway=motorway_junction
+source=https://commons.wikimedia.org/wiki/File:Stadtteile_magdeburg.png
+id=node/33782755</desc></wpt><wpt lat="52.0822718" lon="11.589284"><name>node/33837560</name><desc>highway=motorway_junction
+id=node/33837560</desc></wpt><wpt lat="52.1516502" lon="11.6275783"><name>node/33962638</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/33962638</desc></wpt><wpt lat="52.2047188" lon="11.6068852"><name>node/33962663</name><desc>highway=motorway_junction
+id=node/33962663</desc></wpt><wpt lat="52.2395654" lon="11.6013368"><name>node/33962705</name><desc>highway=motorway_junction
+id=node/33962705</desc></wpt><wpt lat="52.1434213" lon="11.6279019"><name>node/34917413</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/34917413</desc></wpt><wpt lat="52.2633211" lon="11.6245826"><name>node/35131469</name><desc>highway=motorway_junction
+id=node/35131469</desc></wpt><wpt lat="52.2500295" lon="11.6029983"><name>node/35131545</name><desc>highway=motorway_junction
+id=node/35131545</desc></wpt><wpt lat="52.2629142" lon="11.6234438"><name>node/35131557</name><desc>highway=motorway_junction
+id=node/35131557</desc></wpt><wpt lat="52.1889601" lon="11.613937"><name>node/35132275</name><desc>highway=motorway_junction
+id=node/35132275</desc></wpt><wpt lat="52.1996268" lon="11.6067638"><name>node/35132283</name><desc>highway=motorway_junction
+id=node/35132283</desc></wpt><wpt lat="52.2212342" lon="11.6065728"><name>node/35132292</name><desc>highway=motorway_junction
+id=node/35132292</desc></wpt><wpt lat="52.1896107" lon="11.626997"><name>Magdeburg-Zentrum</name><desc>highway=motorway_junction
+name=Magdeburg-Zentrum
+ref=70
+id=node/36589876</desc></wpt><wpt lat="52.1825112" lon="11.6231461"><name>node/36591662</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/36591662</desc></wpt><wpt lat="52.1620993" lon="11.6269465"><name>node/36593602</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/36593602</desc></wpt><wpt lat="52.1360992" lon="11.6264178"><name>node/36796034</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/36796034</desc></wpt><wpt lat="52.129588" lon="11.6211794"><name>node/36796038</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/36796038</desc></wpt><wpt lat="52.1251736" lon="11.6186313"><name>node/36796048</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/36796048</desc></wpt><wpt lat="52.1192476" lon="11.6152555"><name>node/36796778</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/36796778</desc></wpt><wpt lat="52.111936" lon="11.6094986"><name>node/36796795</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/36796795</desc></wpt><wpt lat="52.1049526" lon="11.6047481"><name>node/36797659</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/36797659</desc></wpt><wpt lat="52.0956971" lon="11.6041687"><name>node/46504255</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/46504255</desc></wpt><wpt lat="51.0393039" lon="11.9408982"><name>Droyßig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12789
+TMC:cid_58:tabcd_1:NextLocationCode=12790
+TMC:cid_58:tabcd_1:PrevLocationCode=12788
+highway=motorway_junction
+name=Droyßig
+ref=21b
+id=node/51647547</desc></wpt><wpt lat="52.0852145" lon="11.5936281"><name>node/53786248</name><desc>highway=motorway_junction
+id=node/53786248</desc></wpt><wpt lat="52.0802704" lon="11.5851855"><name>node/53786261</name><desc>highway=motorway_junction
+id=node/53786261</desc></wpt><wpt lat="52.0756787" lon="11.5726047"><name>node/53786273</name><desc>highway=motorway_junction
+id=node/53786273</desc></wpt><wpt lat="52.0730168" lon="11.5605322"><name>node/53786291</name><desc>destination=Stendal
+highway=motorway_junction
+id=node/53786291</desc></wpt><wpt lat="52.0706873" lon="11.5549453"><name>node/53786298</name><desc>destination=Halle
+highway=motorway_junction
+noref=yes
+id=node/53786298</desc></wpt><wpt lat="51.9627188" lon="12.4671298"><name>Köselitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12806
+TMC:cid_58:tabcd_1:NextLocationCode=12807
+TMC:cid_58:tabcd_1:PrevLocationCode=12805
+highway=motorway_junction
+name=Köselitz
+ref=7
+id=node/54769333</desc></wpt><wpt lat="52.1011303" lon="11.6042296"><name>node/57480890</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/57480890</desc></wpt><wpt lat="52.1990634" lon="11.5499015"><name>Dahlenwarsleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43502
+TMC:cid_58:tabcd_1:NextLocationCode=43504
+highway=motorway_junction
+name=Dahlenwarsleben
+ref=1
+id=node/60211440</desc></wpt><wpt lat="52.0369273" lon="11.5182476"><name>Langenweddingen</name><desc>highway=motorway_junction
+name=Langenweddingen
+id=node/76526290</desc></wpt><wpt lat="52.0718663" lon="11.5576262"><name>node/78283236</name><desc>destination=Stendal
+highway=motorway_junction
+id=node/78283236</desc></wpt><wpt lat="52.0686983" lon="11.5523295"><name>node/78283688</name><desc>destination=Halle
+highway=motorway_junction
+noref=yes
+id=node/78283688</desc></wpt><wpt lat="52.1871352" lon="11.3597275"><name>Bornstedt</name><desc>highway=motorway_junction
+name=Bornstedt
+ref=66
+id=node/81386754</desc></wpt><wpt lat="52.1870043" lon="11.3646492"><name>Bornstedt</name><desc>highway=motorway_junction
+name=Bornstedt
+ref=66
+id=node/81390514</desc></wpt><wpt lat="52.0721556" lon="11.555045"><name>node/81420063</name><desc>destination=Halberstadt
+highway=motorway_junction
+id=node/81420063</desc></wpt><wpt lat="52.0703201" lon="11.5574537"><name>node/81421456</name><desc>destination=Magdeburg
+highway=motorway_junction
+id=node/81421456</desc></wpt><wpt lat="52.2259582" lon="11.8210579"><name>Burg-Zentrum</name><desc>highway=motorway_junction
+name=Burg-Zentrum
+ref=73
+id=node/88061064</desc></wpt><wpt lat="51.7870462" lon="11.5690211"><name>Güsten</name><desc>highway=motorway_junction
+name=Güsten
+ref=30
+id=node/90367660</desc></wpt><wpt lat="51.7826279" lon="11.4569761"><name>Aschersleben-Mitte</name><desc>highway=motorway_junction
+name=Aschersleben-Mitte
+old_name:2003-2018=Aschersleben-Zentrum
+ref=28
+id=node/90367700</desc></wpt><wpt lat="51.7828917" lon="11.4592651"><name>Aschersleben-Mitte</name><desc>highway=motorway_junction
+name=Aschersleben-Mitte
+old_name:2003-2018=Aschersleben-Zentrum
+ref=28
+id=node/90648347</desc></wpt><wpt lat="51.8244261" lon="10.9247502"><name>Halberstadt</name><desc>highway=motorway_junction
+name=Halberstadt
+old_name:2004-2018=Heimburg
+ref=20
+id=node/91078857</desc></wpt><wpt lat="51.8503105" lon="10.8187564"><name>Wernigerode-Mitte</name><desc>highway=motorway_junction
+name=Wernigerode-Mitte
+old_name:2002-2018=Wernigerode-Zentrum
+ref=19
+id=node/91092862</desc></wpt><wpt lat="51.8498674" lon="10.8197102"><name>Wernigerode-Mitte</name><desc>highway=motorway_junction
+name=Wernigerode-Mitte
+old_name:2002-2018=Wernigerode-Zentrum
+ref=19
+id=node/91092925</desc></wpt><wpt lat="52.0748696" lon="11.5698186"><name>node/104753439</name><desc>highway=motorway_junction
+id=node/104753439</desc></wpt><wpt lat="51.7929086" lon="11.3310266"><name>Hoym</name><desc>highway=motorway_junction
+name=Hoym
+ref=26
+id=node/114394693</desc></wpt><wpt lat="51.4698267" lon="11.0971347"><name>Roßla</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12699
+TMC:cid_58:tabcd_1:NextLocationCode=43982
+TMC:cid_58:tabcd_1:PrevLocationCode=43981
+highway=motorway_junction
+name=Roßla
+ref=14
+id=node/114453000</desc></wpt><wpt lat="51.4484838" lon="11.2611382"><name>Sangerhausen-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12700
+TMC:cid_58:tabcd_1:NextLocationCode=12701
+TMC:cid_58:tabcd_1:PrevLocationCode=43983
+highway=motorway_junction
+name=Sangerhausen-West
+ref=15
+id=node/114453219</desc></wpt><wpt lat="51.4434555" lon="11.5414007"><name>Eisleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12704
+TMC:cid_58:tabcd_1:NextLocationCode=12705
+TMC:cid_58:tabcd_1:PrevLocationCode=12703
+highway=motorway_junction
+name=Eisleben
+ref=19
+id=node/114453429</desc></wpt><wpt lat="51.4643408" lon="11.0236424"><name>Berga</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12698
+TMC:cid_58:tabcd_1:NextLocationCode=43981
+TMC:cid_58:tabcd_1:PrevLocationCode=45517
+highway=motorway_junction
+name=Berga
+ref=13
+id=node/146431422</desc></wpt><wpt lat="51.8883684" lon="12.3996789"><name>Coswig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12805
+TMC:cid_58:tabcd_1:NextLocationCode=12806
+TMC:cid_58:tabcd_1:PrevLocationCode=12804
+highway=motorway_junction
+name=Coswig
+ref=8
+id=node/153626649</desc></wpt><wpt lat="52.2334602" lon="12.0624828"><name>Theeßen</name><desc>highway=motorway_junction
+name=Theeßen
+ref=75
+id=node/163021040</desc></wpt><wpt lat="51.368174" lon="11.9130993"><name>Merseburg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43529
+TMC:cid_58:tabcd_1:NextLocationCode=43531
+TMC:cid_58:tabcd_1:PrevLocationCode=43527
+highway=motorway_junction
+name=Merseburg-Nord
+ref=24
+id=node/185718147</desc></wpt><wpt lat="51.8239459" lon="10.9250672"><name>Halberstadt</name><desc>highway=motorway_junction
+name=Halberstadt
+old_name:2004-2018=Heimburg
+ref=20
+id=node/190647599</desc></wpt><wpt lat="51.8128499" lon="10.9396006"><name>Blankenburg-Mitte</name><desc>highway=motorway_junction
+name=Blankenburg-Mitte
+old_name:2004-2018=Blankenburg-Zentrum
+ref=21
+id=node/190647734</desc></wpt><wpt lat="51.4646042" lon="11.0208913"><name>Berga</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12698
+TMC:cid_58:tabcd_1:NextLocationCode=43981
+TMC:cid_58:tabcd_1:PrevLocationCode=45517
+destination=Berga;Kelbra;Bad Frankenhausen;Stolberg
+highway=motorway_junction
+name=Berga
+ref=13
+id=node/191226232</desc></wpt><wpt lat="51.7721802" lon="11.404133"><name>Aschersleben-West</name><desc>highway=motorway_junction
+name=Aschersleben-West
+ref=27
+id=node/192350183</desc></wpt><wpt lat="51.4059866" lon="11.8578919"><name>Dreieck Halle-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43681
+TMC:cid_58:tabcd_1:NextLocationCode=43685
+highway=motorway_junction
+name=Dreieck Halle-Süd
+ref=6
+traffic_sign=DE:274-100
+id=node/192746169</desc></wpt><wpt lat="51.403739" lon="11.8615665"><name>Dreieck Halle-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43525
+TMC:cid_58:tabcd_1:NextLocationCode=43527
+TMC:cid_58:tabcd_1:PrevLocationCode=12706
+highway=motorway_junction
+name=Dreieck Halle-Süd
+ref=22
+id=node/192756831</desc></wpt><wpt lat="51.3958059" lon="11.8989157"><name>Bad Lauchstädt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43527
+TMC:cid_58:tabcd_1:NextLocationCode=43529
+TMC:cid_58:tabcd_1:PrevLocationCode=43525
+highway=motorway_junction
+name=Bad Lauchstädt
+ref=23
+id=node/192768895</desc></wpt><wpt lat="51.3949623" lon="11.9004966"><name>Bad Lauchstädt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43527
+TMC:cid_58:tabcd_1:NextLocationCode=43529
+TMC:cid_58:tabcd_1:PrevLocationCode=43525
+highway=motorway_junction
+name=Bad Lauchstädt
+note=U 10
+ref=23
+id=node/192768933</desc></wpt><wpt lat="51.3099065" lon="11.9507653"><name>Merseburg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43531
+TMC:cid_58:tabcd_1:NextLocationCode=43533
+TMC:cid_58:tabcd_1:PrevLocationCode=43529
+highway=motorway_junction
+name=Merseburg-Süd
+ref=25
+id=node/192787076</desc></wpt><wpt lat="51.2677683" lon="11.9775301"><name>Leuna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43533
+TMC:cid_58:tabcd_1:NextLocationCode=43535
+TMC:cid_58:tabcd_1:PrevLocationCode=43531
+highway=motorway_junction
+name=Leuna
+ref=26
+id=node/192798582</desc></wpt><wpt lat="51.2647988" lon="11.9806091"><name>Leuna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43533
+TMC:cid_58:tabcd_1:NextLocationCode=43535
+TMC:cid_58:tabcd_1:PrevLocationCode=43531
+highway=motorway_junction
+name=Leuna
+ref=26
+id=node/192798678</desc></wpt><wpt lat="51.236227" lon="12.057919"><name>node/192811712</name><desc>highway=motorway_junction
+id=node/192811712</desc></wpt><wpt lat="51.2421488" lon="12.0640453"><name>Kreuz Rippachtal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=43894
+TMC:cid_58:tabcd_1:NextLocationCode=12793
+TMC:cid_58:tabcd_1:PrevLocationCode=13924
+highway=motorway_junction
+name=Kreuz Rippachtal
+ref=19
+id=node/192832330</desc></wpt><wpt lat="51.2385082" lon="12.1374268"><name>Lützen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=43537
+TMC:cid_58:tabcd_1:NextLocationCode=10373
+TMC:cid_58:tabcd_1:PrevLocationCode=43535
+highway=motorway_junction
+name=Lützen
+ref=28
+id=node/192842150</desc></wpt><wpt lat="51.5014976" lon="12.0495611"><name>Halle/Peißen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10347
+TMC:cid_58:tabcd_1:NextLocationCode=10348
+TMC:cid_58:tabcd_1:PrevLocationCode=43534
+highway=motorway_junction
+name=Halle/Peißen
+ref=17
+id=node/194608334</desc></wpt><wpt lat="51.5103148" lon="12.0387552"><name>Halle/Peißen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10347
+TMC:cid_58:tabcd_1:NextLocationCode=10348
+TMC:cid_58:tabcd_1:PrevLocationCode=43534
+highway=motorway_junction
+name=Halle/Peißen
+ref=17
+wikidata=Q4283280
+id=node/194608345</desc></wpt><wpt lat="51.5392636" lon="12.0137995"><name>Halle-Tornau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43534
+TMC:cid_58:tabcd_1:NextLocationCode=10347
+TMC:cid_58:tabcd_1:PrevLocationCode=43977
+highway=motorway_junction
+name=Halle-Tornau
+ref=16
+id=node/194616419</desc></wpt><wpt lat="51.5430423" lon="12.0119819"><name>Halle-Tornau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43534
+TMC:cid_58:tabcd_1:NextLocationCode=10347
+TMC:cid_58:tabcd_1:PrevLocationCode=43977
+highway=motorway_junction
+name=Halle-Tornau
+ref=16
+id=node/194616487</desc></wpt><wpt lat="51.7359728" lon="11.6670457"><name>Plötzkau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43522
+TMC:cid_58:tabcd_1:NextLocationCode=43526
+TMC:cid_58:tabcd_1:PrevLocationCode=43520
+highway=motorway_junction
+name=Plötzkau
+ref=11
+id=node/194630155</desc></wpt><wpt lat="51.8983334" lon="11.6913239"><name>Calbe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43516
+TMC:cid_58:tabcd_1:NextLocationCode=43518
+TMC:cid_58:tabcd_1:PrevLocationCode=43975
+highway=motorway_junction
+name=Calbe
+ref=8
+id=node/194650580</desc></wpt><wpt lat="51.8942" lon="11.6888626"><name>Calbe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43516
+TMC:cid_58:tabcd_1:NextLocationCode=43518
+TMC:cid_58:tabcd_1:PrevLocationCode=43975
+highway=motorway_junction
+name=Calbe
+ref=8
+id=node/194650849</desc></wpt><wpt lat="51.1811955" lon="12.0059626"><name>Weißenfels</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=12792
+TMC:cid_58:tabcd_1:NextLocationCode=13924
+TMC:cid_58:tabcd_1:PrevLocationCode=5565
+highway=motorway_junction
+name=Weißenfels
+ref=20
+id=node/207110035</desc></wpt><wpt lat="51.8486402" lon="11.6833365"><name>Staßfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43518
+TMC:cid_58:tabcd_1:NextLocationCode=43773
+TMC:cid_58:tabcd_1:PrevLocationCode=43516
+highway=motorway_junction
+name=Staßfurt
+ref=9
+id=node/208734116</desc></wpt><wpt lat="51.8500683" lon="11.6847052"><name>Staßfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43518
+TMC:cid_58:tabcd_1:NextLocationCode=43773
+TMC:cid_58:tabcd_1:PrevLocationCode=43516
+highway=motorway_junction
+name=Staßfurt
+ref=9
+id=node/208734189</desc></wpt><wpt lat="51.631504" lon="11.8593501"><name>Löbejün</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43528
+TMC:cid_58:tabcd_1:NextLocationCode=43530
+TMC:cid_58:tabcd_1:PrevLocationCode=43972
+highway=motorway_junction
+name=Löbejün
+ref=13
+id=node/208765277</desc></wpt><wpt lat="51.6330595" lon="11.8571794"><name>Löbejün</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43528
+TMC:cid_58:tabcd_1:NextLocationCode=43530
+TMC:cid_58:tabcd_1:PrevLocationCode=43972
+highway=motorway_junction
+name=Löbejün
+ref=13
+id=node/208765345</desc></wpt><wpt lat="51.5723004" lon="11.9067945"><name>Halle-Trotha</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43532
+TMC:cid_58:tabcd_1:NextLocationCode=43977
+TMC:cid_58:tabcd_1:PrevLocationCode=43530
+highway=motorway_junction
+name=Halle-Trotha
+ref=15
+id=node/208781417</desc></wpt><wpt lat="52.1733914" lon="11.6274616"><name>node/243217240</name><desc>highway=motorway_junction
+id=node/243217240</desc></wpt><wpt lat="52.1760259" lon="11.6284885"><name>node/243217245</name><desc>highway=motorway_junction
+id=node/243217245</desc></wpt><wpt lat="52.1749815" lon="11.6281187"><name>node/243217759</name><desc>highway=motorway_junction
+id=node/243217759</desc></wpt><wpt lat="51.8722397" lon="10.7575619"><name>Wernigerode-Nord</name><desc>highway=motorway_junction
+name=Wernigerode-Nord
+ref=18
+id=node/247114376</desc></wpt><wpt lat="51.4243632" lon="11.8639352"><name>Holleben</name><desc>highway=motorway_junction
+name=Holleben
+ref=5
+id=node/252804026</desc></wpt><wpt lat="51.4536909" lon="11.8621517"><name>Teutschenthal</name><desc>highway=motorway_junction
+name=Teutschenthal
+ref=4
+id=node/252956458</desc></wpt><wpt lat="51.4497189" lon="11.8633026"><name>Teutschenthal</name><desc>highway=motorway_junction
+name=Teutschenthal
+ref=4
+id=node/252956464</desc></wpt><wpt lat="51.7720654" lon="11.4059511"><name>Aschersleben-West</name><desc>highway=motorway_junction
+name=Aschersleben-West
+ref=27
+id=node/253998532</desc></wpt><wpt lat="51.4011306" lon="11.7703755"><name>Schafstädt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12706
+TMC:cid_58:tabcd_1:NextLocationCode=43525
+TMC:cid_58:tabcd_1:PrevLocationCode=12705
+highway=motorway_junction
+name=Schafstädt
+ref=21
+id=node/256487027</desc></wpt><wpt lat="51.418758" lon="11.6507117"><name>Querfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12705
+TMC:cid_58:tabcd_1:NextLocationCode=12706
+TMC:cid_58:tabcd_1:PrevLocationCode=12704
+highway=motorway_junction
+name=Querfurt
+ref=20
+id=node/256487761</desc></wpt><wpt lat="51.4191696" lon="11.6474683"><name>Querfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12705
+TMC:cid_58:tabcd_1:NextLocationCode=12706
+TMC:cid_58:tabcd_1:PrevLocationCode=12704
+highway=motorway_junction
+name=Querfurt
+ref=20
+id=node/256488058</desc></wpt><wpt lat="51.4011563" lon="11.7693423"><name>Schafstädt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12706
+TMC:cid_58:tabcd_1:NextLocationCode=43525
+TMC:cid_58:tabcd_1:PrevLocationCode=12705
+highway=motorway_junction
+name=Schafstädt
+ref=21
+id=node/256488155</desc></wpt><wpt lat="51.9037286" lon="10.682641"><name>Stapelburg</name><desc>highway=motorway_junction
+name=Stapelburg
+ref=16
+id=node/257506186</desc></wpt><wpt lat="51.9352519" lon="10.6338809"><name>Abbenrode</name><desc>highway=motorway_junction
+name=Abbenrode
+ref=15
+id=node/259147830</desc></wpt><wpt lat="51.9060057" lon="10.6779353"><name>Stapelburg</name><desc>highway=motorway_junction
+name=Stapelburg
+ref=16
+id=node/259586573</desc></wpt><wpt lat="52.2217996" lon="11.712919"><name>Lostau</name><desc>highway=motorway_junction
+name=Lostau
+ref=72
+id=node/261024457</desc></wpt><wpt lat="52.2223145" lon="11.7169433"><name>Lostau</name><desc>highway=motorway_junction
+name=Lostau
+ref=72
+id=node/261024843</desc></wpt><wpt lat="51.8046606" lon="10.9945631"><name>Blankenburg-Ost</name><desc>highway=motorway_junction
+name=Blankenburg-Ost
+ref=22
+id=node/262207030</desc></wpt><wpt lat="51.4806272" lon="11.844802"><name>Halle-Neustadt</name><desc>highway=motorway_junction
+name=Halle-Neustadt
+ref=3
+id=node/266007162</desc></wpt><wpt lat="51.4404009" lon="12.143616"><name>Gröbers</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10349
+TMC:cid_58:tabcd_1:NextLocationCode=10350
+TMC:cid_58:tabcd_1:PrevLocationCode=10348
+highway=motorway_junction
+name=Gröbers
+ref=19
+id=node/266385311</desc></wpt><wpt lat="51.4671645" lon="11.8566728"><name>Rastplatz Pappelgrund</name><desc>highway=motorway_junction
+name=Rastplatz Pappelgrund
+noref=yes
+id=node/271301358</desc></wpt><wpt lat="51.4641898" lon="11.8584558"><name>Rastplatz Pappelgrund</name><desc>highway=motorway_junction
+name=Rastplatz Pappelgrund
+noref=yes
+id=node/271301662</desc></wpt><wpt lat="51.568381" lon="12.2218371"><name>node/271674698</name><desc>highway=motorway_junction
+toll:name=Brehna Ost/B183a
+id=node/271674698</desc></wpt><wpt lat="51.5683579" lon="12.2224956"><name>node/271674716</name><desc>highway=motorway_junction
+toll:name=Brehna Ost/B183a
+id=node/271674716</desc></wpt><wpt lat="52.24556" lon="11.6015496"><name>node/276957672</name><desc>highway=motorway_junction
+id=node/276957672</desc></wpt><wpt lat="51.8460076" lon="12.3276853"><name>Vockerode</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12804
+TMC:cid_58:tabcd_1:NextLocationCode=12805
+TMC:cid_58:tabcd_1:PrevLocationCode=12803
+highway=motorway_junction
+name=Vockerode
+ref=9
+id=node/279015485</desc></wpt><wpt lat="51.4697091" lon="11.0986789"><name>Roßla</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12699
+TMC:cid_58:tabcd_1:NextLocationCode=43982
+TMC:cid_58:tabcd_1:PrevLocationCode=43981
+highway=motorway_junction
+name=Roßla
+ref=14
+id=node/279173164</desc></wpt><wpt lat="51.3056504" lon="11.9868648"><name>node/279374628</name><desc>highway=motorway_junction
+id=node/279374628</desc></wpt><wpt lat="51.8188747" lon="12.3058384"><name>Dessau-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12803
+TMC:cid_58:tabcd_1:NextLocationCode=12804
+TMC:cid_58:tabcd_1:PrevLocationCode=12802
+highway=motorway_junction
+name=Dessau-Ost
+ref=10
+id=node/280423024</desc></wpt><wpt lat="51.0887089" lon="11.9557532"><name>Naumburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=12790
+TMC:cid_58:tabcd_1:NextLocationCode=5565
+TMC:cid_58:tabcd_1:PrevLocationCode=12789
+highway=motorway_junction
+name=Naumburg
+ref=21a
+id=node/280429243</desc></wpt><wpt lat="52.2167504" lon="11.0744803"><name>Rasthof Marienborn</name><desc>highway=motorway_junction
+name=Rasthof Marienborn
+noref=yes
+id=node/281714624</desc></wpt><wpt lat="52.2073901" lon="11.1318412"><name>Alleringersleben</name><desc>highway=motorway_junction
+name=Alleringersleben
+ref=64
+id=node/281715672</desc></wpt><wpt lat="52.1966267" lon="11.2642429"><name>Eilsleben</name><desc>highway=motorway_junction
+name=Eilsleben
+ref=65
+id=node/281716698</desc></wpt><wpt lat="52.2331642" lon="11.8961444"><name>Burg-Ost</name><desc>highway=motorway_junction
+name=Burg-Ost
+ref=74
+id=node/281722117</desc></wpt><wpt lat="51.804611" lon="11.1996403"><name>Quedlinburg-Ost</name><desc>highway=motorway_junction
+name=Quedlinburg-Ost
+ref=25
+id=node/282703764</desc></wpt><wpt lat="51.8865195" lon="12.3983285"><name>Coswig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12805
+TMC:cid_58:tabcd_1:NextLocationCode=12806
+TMC:cid_58:tabcd_1:PrevLocationCode=12804
+highway=motorway_junction
+name=Coswig
+ref=8
+id=node/286794309</desc></wpt><wpt lat="51.2572696" lon="11.9974777"><name>node/288377403</name><desc>highway=motorway_junction
+noref=yes
+id=node/288377403</desc></wpt><wpt lat="51.8054154" lon="11.1965448"><name>Quedlinburg-Ost</name><desc>highway=motorway_junction
+name=Quedlinburg-Ost
+ref=25
+id=node/292122955</desc></wpt><wpt lat="52.0543729" lon="11.6095211"><name>Magdeburg-Reform</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43512
+TMC:cid_58:tabcd_1:NextLocationCode=43514
+TMC:cid_58:tabcd_1:PrevLocationCode=43970
+highway=motorway_junction
+name=Magdeburg-Reform
+ref=6
+id=node/293439438</desc></wpt><wpt lat="52.0148821" lon="11.5070201"><name>Altenweddingen</name><desc>highway=motorway_junction
+name=Altenweddingen
+id=node/295675739</desc></wpt><wpt lat="52.1829765" lon="11.4571799"><name>Rasthof Börde</name><desc>highway=motorway_junction
+name=Rasthof Börde
+noref=yes
+id=node/297171838</desc></wpt><wpt lat="51.256062" lon="12.0029485"><name>node/297692189</name><desc>highway=motorway_junction
+noref=yes
+id=node/297692189</desc></wpt><wpt lat="51.4518946" lon="11.2304486"><name>Parkplatz Helmetal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43982
+TMC:cid_58:tabcd_1:NextLocationCode=43983
+TMC:cid_58:tabcd_1:PrevLocationCode=12699
+highway=motorway_junction
+name=Parkplatz Helmetal
+noref=yes
+id=node/297700537</desc></wpt><wpt lat="51.4523064" lon="11.2250867"><name>Parkplatz Helmetal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43982
+TMC:cid_58:tabcd_1:NextLocationCode=43983
+TMC:cid_58:tabcd_1:PrevLocationCode=12699
+highway=motorway_junction
+name=Parkplatz Helmetal
+noref=yes
+id=node/297700545</desc></wpt><wpt lat="51.7878356" lon="11.571955"><name>Güsten</name><desc>highway=motorway_junction
+name=Güsten
+ref=30
+id=node/301580023</desc></wpt><wpt lat="52.2269552" lon="11.7512574"><name>Rastplatz Krähenberge</name><desc>highway=motorway_junction
+name=Rastplatz Krähenberge
+noref=yes
+id=node/301669334</desc></wpt><wpt lat="52.2282195" lon="11.7573759"><name>Rastplatz Krähenberge</name><desc>highway=motorway_junction
+name=Rastplatz Krähenberge
+noref=yes
+id=node/301669969</desc></wpt><wpt lat="52.2430919" lon="12.1391248"><name>Rastplatz Wüstenforst</name><desc>highway=motorway_junction
+name=Rastplatz Wüstenforst
+noref=yes
+id=node/301671131</desc></wpt><wpt lat="51.8036952" lon="11.6891914"><name>Kreuz Bernburg</name><desc>highway=motorway_junction
+name=Kreuz Bernburg
+ref=32
+id=node/301942983</desc></wpt><wpt lat="52.2071399" lon="11.1356624"><name>Alleringersleben</name><desc>highway=motorway_junction
+name=Alleringersleben
+ref=64
+id=node/302091983</desc></wpt><wpt lat="51.8719501" lon="10.7676472"><name>Wernigerode-Nord</name><desc>highway=motorway_junction
+name=Wernigerode-Nord
+ref=18
+id=node/304039766</desc></wpt><wpt lat="51.0949159" lon="11.9555938"><name>Naumburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=12790
+TMC:cid_58:tabcd_1:NextLocationCode=5565
+TMC:cid_58:tabcd_1:PrevLocationCode=12789
+highway=motorway_junction
+name=Naumburg
+ref=21a
+id=node/305378486</desc></wpt><wpt lat="51.7765458" lon="11.5094163"><name>Aschersleben-Ost</name><desc>highway=motorway_junction
+name=Aschersleben-Ost
+ref=29
+id=node/307951181</desc></wpt><wpt lat="51.5592789" lon="12.0021413"><name>Parkplatz Petersberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43977
+TMC:cid_58:tabcd_1:NextLocationCode=43534
+TMC:cid_58:tabcd_1:PrevLocationCode=43532
+highway=motorway_junction
+name=Parkplatz Petersberg
+noref=yes
+id=node/309438693</desc></wpt><wpt lat="52.0591962" lon="11.5906213"><name>Rastplatz Sülzegrund</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43970
+TMC:cid_58:tabcd_1:NextLocationCode=43512
+TMC:cid_58:tabcd_1:PrevLocationCode=43510
+highway=motorway_junction
+name=Rastplatz Sülzegrund
+noref=yes
+id=node/309449504</desc></wpt><wpt lat="52.0606365" lon="11.5843614"><name>Rastplatz Sülzegrund</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43970
+TMC:cid_58:tabcd_1:NextLocationCode=43512
+TMC:cid_58:tabcd_1:PrevLocationCode=43510
+highway=motorway_junction
+name=Rastplatz Sülzegrund
+noref=yes
+id=node/309449548</desc></wpt><wpt lat="52.1986467" lon="11.2502784"><name>Rastplatz Lorkberg</name><desc>highway=motorway_junction
+name=Rastplatz Lorkberg
+noref=yes
+id=node/309453768</desc></wpt><wpt lat="52.1995012" lon="11.2426118"><name>Rastplatz Lorkberg</name><desc>highway=motorway_junction
+name=Rastplatz Lorkberg
+noref=yes
+id=node/309453809</desc></wpt><wpt lat="51.2911547" lon="12.1370822"><name>Bad Dürrenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=12793
+TMC:cid_58:tabcd_1:NextLocationCode=5244
+TMC:cid_58:tabcd_1:PrevLocationCode=43894
+highway=motorway_junction
+name=Bad Dürrenberg
+ref=18
+id=node/312399449</desc></wpt><wpt lat="51.4400917" lon="12.143982"><name>Gröbers</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10349
+TMC:cid_58:tabcd_1:NextLocationCode=10350
+TMC:cid_58:tabcd_1:PrevLocationCode=10348
+highway=motorway_junction
+name=Gröbers
+ref=19
+id=node/314426138</desc></wpt><wpt lat="52.0376574" lon="11.5184818"><name>Langenweddingen</name><desc>highway=motorway_junction
+name=Langenweddingen
+id=node/318665739</desc></wpt><wpt lat="52.2354116" lon="11.9642012"><name>Rastplatz Ihlegrund</name><desc>highway=motorway_junction
+name=Rastplatz Ihlegrund
+noref=yes
+id=node/319053287</desc></wpt><wpt lat="51.4781493" lon="12.0777986"><name>Halle-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10348
+TMC:cid_58:tabcd_1:NextLocationCode=10349
+TMC:cid_58:tabcd_1:PrevLocationCode=10347
+highway=motorway_junction
+name=Halle-Ost
+ref=18
+id=node/321795545</desc></wpt><wpt lat="51.4789422" lon="12.0765674"><name>Halle-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10348
+TMC:cid_58:tabcd_1:NextLocationCode=10349
+TMC:cid_58:tabcd_1:PrevLocationCode=10347
+highway=motorway_junction
+name=Halle-Ost
+ref=18
+id=node/321796208</desc></wpt><wpt lat="51.4664329" lon="11.04212"><name>Goldene Aue</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43981
+TMC:cid_58:tabcd_1:NextLocationCode=12699
+TMC:cid_58:tabcd_1:PrevLocationCode=12698
+highway=motorway_junction
+name=Goldene Aue
+noref=yes
+id=node/322129623</desc></wpt><wpt lat="52.2153485" lon="11.6067865"><name>node/326962071</name><desc>highway=motorway_junction
+id=node/326962071</desc></wpt><wpt lat="51.2082745" lon="12.0295197"><name>node/331139306</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=13924
+TMC:cid_58:tabcd_1:NextLocationCode=43894
+TMC:cid_58:tabcd_1:PrevLocationCode=12792
+highway=motorway_junction
+noref=yes
+id=node/331139306</desc></wpt><wpt lat="52.1099388" lon="11.6076977"><name>node/334265627</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/334265627</desc></wpt><wpt lat="52.1952578" lon="11.2756955"><name>Eilsleben</name><desc>highway=motorway_junction
+name=Eilsleben
+ref=65
+id=node/335285243</desc></wpt><wpt lat="52.1969402" lon="11.6070421"><name>node/337993608</name><desc>highway=motorway_junction
+id=node/337993608</desc></wpt><wpt lat="52.2547531" lon="11.6068559"><name>node/414114137</name><desc>highway=motorway_junction
+id=node/414114137</desc></wpt><wpt lat="51.8042507" lon="11.6860272"><name>Kreuz Bernburg</name><desc>highway=motorway_junction
+name=Kreuz Bernburg
+ref=32
+id=node/423188172</desc></wpt><wpt lat="51.2107118" lon="12.0322041"><name>node/434716217</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=13924
+TMC:cid_58:tabcd_1:NextLocationCode=43894
+TMC:cid_58:tabcd_1:PrevLocationCode=12792
+highway=motorway_junction
+noref=yes
+id=node/434716217</desc></wpt><wpt lat="52.1329931" lon="11.6239397"><name>node/447837465</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/447837465</desc></wpt><wpt lat="51.8060436" lon="11.6792369"><name>Kreuz Bernburg</name><desc>highway=motorway_junction
+name=Kreuz Bernburg
+ref=32
+id=node/475362866</desc></wpt><wpt lat="51.4689743" lon="11.0472828"><name>Goldene Aue</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43981
+TMC:cid_58:tabcd_1:NextLocationCode=12699
+TMC:cid_58:tabcd_1:PrevLocationCode=12698
+highway=motorway_junction
+name=Goldene Aue
+noref=yes
+id=node/539128207</desc></wpt><wpt lat="51.7935888" lon="11.3287064"><name>Hoym</name><desc>highway=motorway_junction
+name=Hoym
+ref=26
+id=node/558577538</desc></wpt><wpt lat="52.171219" lon="11.4930858"><name>Irxleben</name><desc>highway=motorway_junction
+name=Irxleben
+ref=67
+id=node/665352012</desc></wpt><wpt lat="52.1765229" lon="11.5810025"><name>Magdeburg-Kannenstieg</name><desc>highway=motorway_junction
+name=Magdeburg-Kannenstieg
+ref=69
+id=node/665398343</desc></wpt><wpt lat="52.5165112" lon="11.7406255"><name>Lüderitz</name><desc>construction=motorway_junction
+destination=Lüderitz
+highway=motorway_junction
+name=Lüderitz
+ref=18
+id=node/772976398</desc></wpt><wpt lat="52.2075098" lon="11.606696"><name>node/1045685743</name><desc>highway=motorway_junction
+id=node/1045685743</desc></wpt><wpt lat="52.1759629" lon="11.5461867"><name>Kreuz Magdeburg</name><desc>highway=motorway_junction
+name=Kreuz Magdeburg
+ref=2
+id=node/1052777015</desc></wpt><wpt lat="52.2885284" lon="11.6230655"><name>Wolmirstedt</name><desc>highway=motorway_junction
+name=Wolmirstedt
+ref=21
+id=node/1086069804</desc></wpt><wpt lat="52.5176356" lon="11.7419642"><name>Lüderitz</name><desc>construction=motorway_junction
+destination=Lüderitz
+highway=motorway_junction
+name=Lüderitz
+ref=18
+id=node/1086083064</desc></wpt><wpt lat="52.7754833" lon="11.7112195"><name>Osterburg</name><desc>highway=motorway_junction
+name=Osterburg
+ref=15
+id=node/1087828201</desc></wpt><wpt lat="52.7770183" lon="11.7099185"><name>Osterburg</name><desc>highway=motorway_junction
+name=Osterburg
+ref=15
+id=node/1087828219</desc></wpt><wpt lat="52.8899843" lon="11.7131557"><name>Seehausen</name><desc>highway=motorway_junction
+name=Seehausen
+ref=14
+id=node/1087831729</desc></wpt><wpt lat="52.8881381" lon="11.7107155"><name>Seehausen</name><desc>highway=motorway_junction
+name=Seehausen
+ref=14
+id=node/1087831747</desc></wpt><wpt lat="52.1782958" lon="11.6281659"><name>node/1096165663</name><desc>highway=motorway_junction
+source=https://commons.wikimedia.org/wiki/File:Stadtteile_magdeburg.png
+id=node/1096165663</desc></wpt><wpt lat="52.0148534" lon="11.5068268"><name>Altenweddingen</name><desc>highway=motorway_junction
+name=Altenweddingen
+id=node/1115176456</desc></wpt><wpt lat="51.5772707" lon="11.887316"><name>Dreieck Halle-Nord</name><desc>highway=motorway_junction
+name=Dreieck Halle-Nord
+ref=1
+id=node/1148648543</desc></wpt><wpt lat="51.7996411" lon="11.6826382"><name>Kreuz Bernburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43520
+TMC:cid_58:tabcd_1:NextLocationCode=43522
+TMC:cid_58:tabcd_1:PrevLocationCode=43773
+highway=motorway_junction
+name=Kreuz Bernburg
+ref=10
+id=node/1231084318</desc></wpt><wpt lat="51.8096264" lon="11.6846375"><name>Kreuz Bernburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43520
+TMC:cid_58:tabcd_1:NextLocationCode=43522
+TMC:cid_58:tabcd_1:PrevLocationCode=43773
+highway=motorway_junction
+name=Kreuz Bernburg
+ref=10
+id=node/1342724639</desc></wpt><wpt lat="52.2031386" lon="11.5469375"><name>Dahlenwarsleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=13.00
+TMC:cid_58:tabcd_1:LocationCode=43502
+TMC:cid_58:tabcd_1:NextLocationCode=43504
+highway=motorway_junction
+name=Dahlenwarsleben
+ref=1
+id=node/1347139654</desc></wpt><wpt lat="52.1663748" lon="11.5321273"><name>Kreuz Magdeburg</name><desc>highway=motorway_junction
+name=Kreuz Magdeburg
+ref=68
+id=node/1347303839</desc></wpt><wpt lat="52.1437251" lon="11.5414308"><name>Magdeburg-Stadtfeld</name><desc>highway=motorway_junction
+name=Magdeburg-Stadtfeld
+ref=3
+id=node/1347946345</desc></wpt><wpt lat="52.0739585" lon="11.551545"><name>Magdeburg-Sudenburg</name><desc>highway=motorway_junction
+name=Magdeburg-Sudenburg
+ref=5
+id=node/1348061539</desc></wpt><wpt lat="51.6344069" lon="12.1963426"><name>Bitterfeld-Wolfen</name><desc>destination=Bitterfeld;Wolfen
+highway=motorway_junction
+name=Bitterfeld-Wolfen
+ref=12
+id=node/1356965564</desc></wpt><wpt lat="52.1595841" lon="11.5445878"><name>Kreuz Magdeburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43504
+TMC:cid_58:tabcd_1:NextLocationCode=43506
+TMC:cid_58:tabcd_1:PrevLocationCode=43502
+highway=motorway_junction
+name=Kreuz Magdeburg
+ref=2
+id=node/1360259661</desc></wpt><wpt lat="51.5021867" lon="12.0162143"><name>node/1403139400</name><desc>highway=motorway_junction
+id=node/1403139400</desc></wpt><wpt lat="51.9985535" lon="11.4929807"><name>Schwaneberg</name><desc>highway=motorway_junction
+name=Schwaneberg
+id=node/1425034365</desc></wpt><wpt lat="52.0027648" lon="11.4964747"><name>Schwaneberg</name><desc>highway=motorway_junction
+name=Schwaneberg
+id=node/1489919199</desc></wpt><wpt lat="52.3316647" lon="11.6165287"><name>Colbitz</name><desc>highway=motorway_junction
+name=Colbitz
+ref=20
+id=node/1495407551</desc></wpt><wpt lat="51.511782" lon="12.0622974"><name>node/1542406134</name><desc>highway=motorway_junction
+id=node/1542406134</desc></wpt><wpt lat="51.5122408" lon="12.0633552"><name>node/1542406527</name><desc>highway=motorway_junction
+id=node/1542406527</desc></wpt><wpt lat="51.3421146" lon="12.1840333"><name>Leipzig-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=12794
+TMC:cid_58:tabcd_1:NextLocationCode=12795
+TMC:cid_58:tabcd_1:PrevLocationCode=5244
+hazmat=designated
+highway=motorway_junction
+name=Leipzig-West
+ref=17
+id=node/1545952040</desc></wpt><wpt lat="52.2447658" lon="12.1511791"><name>Rastplatz Wüstenforst</name><desc>highway=motorway_junction
+name=Rastplatz Wüstenforst
+noref=yes
+id=node/1552536356</desc></wpt><wpt lat="51.9748644" lon="11.468076"><name>node/1554824082</name><desc>highway=motorway_junction
+id=node/1554824082</desc></wpt><wpt lat="51.9774339" lon="11.4724857"><name>node/1554824091</name><desc>highway=motorway_junction
+id=node/1554824091</desc></wpt><wpt lat="51.309095" lon="11.9521018"><name>Merseburg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43531
+TMC:cid_58:tabcd_1:NextLocationCode=43533
+TMC:cid_58:tabcd_1:PrevLocationCode=43529
+highway=motorway_junction
+name=Merseburg-Süd
+ref=25
+id=node/1581680086</desc></wpt><wpt lat="51.1726281" lon="12.0003196"><name>Weißenfels</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=12792
+TMC:cid_58:tabcd_1:NextLocationCode=13924
+TMC:cid_58:tabcd_1:PrevLocationCode=5565
+highway=motorway_junction
+name=Weißenfels
+ref=20
+id=node/1583306711</desc></wpt><wpt lat="51.18334" lon="12.0001133"><name>Weißenfels-Süd</name><desc>highway=motorway_junction
+name=Weißenfels-Süd
+source:name=Ankündigungstafel
+toll:name=Weißenfels-Süd/B87
+id=node/1583306760</desc></wpt><wpt lat="51.1972339" lon="11.997722"><name>node/1583306812</name><desc>highway=motorway_junction
+toll:name=Weißenfels Selauer Straße
+id=node/1583306812</desc></wpt><wpt lat="52.1684143" lon="11.6275217"><name>node/1587239706</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/1587239706</desc></wpt><wpt lat="51.4437375" lon="11.5432151"><name>Eisleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12704
+TMC:cid_58:tabcd_1:NextLocationCode=12705
+TMC:cid_58:tabcd_1:PrevLocationCode=12703
+highway=motorway_junction
+name=Eisleben
+ref=19
+id=node/1604888645</desc></wpt><wpt lat="51.8867092" lon="10.7158534"><name>Ilsenburg</name><desc>highway=motorway_junction
+name=Ilsenburg
+ref=17
+id=node/1604948165</desc></wpt><wpt lat="51.1103092" lon="11.9557542"><name>Rasthof Osterfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=5565
+TMC:cid_58:tabcd_1:NextLocationCode=12792
+TMC:cid_58:tabcd_1:PrevLocationCode=12790
+highway=motorway_junction
+name=Rasthof Osterfeld
+noref=yes
+id=node/1618614575</desc></wpt><wpt lat="51.451127" lon="11.3088297"><name>Sangerhausen-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12701
+TMC:cid_58:tabcd_1:NextLocationCode=12702
+TMC:cid_58:tabcd_1:PrevLocationCode=12700
+highway=motorway_junction
+name=Sangerhausen-Süd
+ref=16
+id=node/1642177758</desc></wpt><wpt lat="51.4518558" lon="11.3004536"><name>Sangerhausen-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12701
+TMC:cid_58:tabcd_1:NextLocationCode=12702
+TMC:cid_58:tabcd_1:PrevLocationCode=12700
+highway=motorway_junction
+name=Sangerhausen-Süd
+ref=16
+id=node/1642177780</desc></wpt><wpt lat="51.1844116" lon="12.0007323"><name>Weißenfels-Süd</name><desc>highway=motorway_junction
+name=Weißenfels-Süd
+source:name=Ankündigungstafel
+toll:name=Weißenfels-Süd/B87
+id=node/1655800378</desc></wpt><wpt lat="51.2015794" lon="11.9969278"><name>node/1655800381</name><desc>highway=motorway_junction
+toll:name=Weißenfels Selauer Straße
+id=node/1655800381</desc></wpt><wpt lat="51.3700984" lon="11.9123818"><name>Merseburg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=43529
+TMC:cid_58:tabcd_1:NextLocationCode=43531
+TMC:cid_58:tabcd_1:PrevLocationCode=43527
+highway=motorway_junction
+name=Merseburg-Nord
+ref=24
+id=node/1684037838</desc></wpt><wpt lat="51.7223916" lon="12.2151681"><name>Rastplatz Mosigkauer Heide</name><desc>highway=motorway_junction
+name=Rastplatz Mosigkauer Heide
+noref=yes
+id=node/1718407877</desc></wpt><wpt lat="51.2137822" lon="11.997586"><name>node/1723808060</name><desc>highway=motorway_junction
+toll:name=Weißenfels Weißenfelser Straße
+id=node/1723808060</desc></wpt><wpt lat="51.2185677" lon="11.9800044"><name>node/1723808284</name><desc>highway=motorway_junction
+toll:name=Burgwerben Burgwerbener Straße
+id=node/1723808284</desc></wpt><wpt lat="51.2269368" lon="11.9720135"><name>node/1723808559</name><desc>highway=motorway_junction
+toll:name=Weißenfels-Nord
+id=node/1723808559</desc></wpt><wpt lat="51.2284276" lon="11.9714023"><name>node/1724468622</name><desc>highway=motorway_junction
+toll:name=Weißenfels-Nord
+id=node/1724468622</desc></wpt><wpt lat="51.1747861" lon="12.0058521"><name>node/1724989108</name><desc>highway=motorway_junction
+id=node/1724989108</desc></wpt><wpt lat="51.1784534" lon="12.0014562"><name>node/1724989154</name><desc>highway=motorway_junction
+id=node/1724989154</desc></wpt><wpt lat="51.4002604" lon="11.7237548"><name>Parkplatz Querfurter Platte</name><desc>highway=motorway_junction
+name=Parkplatz Querfurter Platte
+noref=yes
+id=node/1745745182</desc></wpt><wpt lat="51.4005667" lon="11.7219961"><name>Parkplatz Querfurter Platte</name><desc>highway=motorway_junction
+name=Parkplatz Querfurter Platte
+noref=yes
+id=node/1745745188</desc></wpt><wpt lat="52.288738" lon="11.6230609"><name>Wolmirstedt</name><desc>highway=motorway_junction
+name=Wolmirstedt
+ref=21
+id=node/1788019223</desc></wpt><wpt lat="51.5199441" lon="11.8400093"><name>Salzmünde</name><desc>highway=motorway_junction
+name=Salzmünde
+ref=2
+id=node/1788791433</desc></wpt><wpt lat="52.1409423" lon="11.6290209"><name>node/1807893650</name><desc>highway=motorway_junction
+source=https://de.wikipedia.org/wiki/Magdeburger_Ring
+id=node/1807893650</desc></wpt><wpt lat="52.6180746" lon="11.7808306"><name>Stendal-Mitte</name><desc>destination=Stendal;Uenglingen;Bismarck
+highway=motorway_junction
+name=Stendal-Mitte
+ref=16
+id=node/1812273922</desc></wpt><wpt lat="52.6203158" lon="11.7819148"><name>Stendal-Mitte</name><desc>destination=Stendal;Uenglingen;Bismarck
+highway=motorway_junction
+name=Stendal-Mitte
+ref=16
+id=node/1812273981</desc></wpt><wpt lat="51.4938749" lon="12.2036634"><name>Rastplatz Kapellenberg</name><desc>hazmat=designated
+highway=motorway_junction
+name=Rastplatz Kapellenberg
+noref=yes
+id=node/1867987216</desc></wpt><wpt lat="51.8053179" lon="11.682388"><name>Kreuz Bernburg</name><desc>highway=motorway_junction
+name=Kreuz Bernburg
+ref=32
+id=node/1899065138</desc></wpt><wpt lat="51.811813" lon="11.1244441"><name>Quedlinburg-Mitte</name><desc>highway=motorway_junction
+name=Quedlinburg-Mitte
+old_name:2004-2018=Quedlinburg-Zentrum
+ref=24
+id=node/1940324490</desc></wpt><wpt lat="51.7756986" lon="11.5178436"><name>Aschersleben-Ost</name><desc>highway=motorway_junction
+name=Aschersleben-Ost
+ref=29
+id=node/1940409359</desc></wpt><wpt lat="51.8097946" lon="11.6477835"><name>Ilberstedt</name><desc>highway=motorway_junction
+name=Ilberstedt
+ref=31
+id=node/1942435390</desc></wpt><wpt lat="51.8103837" lon="11.6493234"><name>Ilberstedt</name><desc>highway=motorway_junction
+name=Ilberstedt
+ref=31
+id=node/1942447594</desc></wpt><wpt lat="51.8880866" lon="10.7138998"><name>Ilsenburg</name><desc>highway=motorway_junction
+name=Ilsenburg
+ref=17
+id=node/1960103090</desc></wpt><wpt lat="52.332305" lon="11.6160147"><name>Colbitz</name><desc>highway=motorway_junction
+name=Colbitz
+ref=20
+id=node/2026252160</desc></wpt><wpt lat="51.5248211" lon="11.8404771"><name>Salzmünde</name><desc>highway=motorway_junction
+name=Salzmünde
+ref=2
+id=node/2085457455</desc></wpt><wpt lat="51.8086758" lon="11.0259733"><name>Thale</name><desc>highway=motorway_junction
+name=Thale
+ref=23
+id=node/2264537122</desc></wpt><wpt lat="51.809051" lon="11.0268225"><name>Thale</name><desc>highway=motorway_junction
+name=Thale
+ref=23
+id=node/2264537123</desc></wpt><wpt lat="51.8128299" lon="11.1316825"><name>Quedlinburg-Mitte</name><desc>highway=motorway_junction
+name=Quedlinburg-Mitte
+old_name:2004-2018=Quedlinburg-Zentrum
+ref=24
+id=node/2272356379</desc></wpt><wpt lat="51.9620468" lon="11.4481777"><name>node/2312684968</name><desc>highway=motorway_junction
+id=node/2312684968</desc></wpt><wpt lat="51.9697515" lon="12.4832147"><name>Rastplatz Rosselquelle</name><desc>highway=motorway_junction
+name=Rastplatz Rosselquelle
+noref=yes
+id=node/2320702829</desc></wpt><wpt lat="51.3457183" lon="11.9230076"><name>Parkplatz Geiseltal</name><desc>highway=motorway_junction
+name=Parkplatz Geiseltal
+noref=yes
+id=node/2331635799</desc></wpt><wpt lat="51.3485724" lon="11.9206898"><name>Parkplatz Geiseltal</name><desc>highway=motorway_junction
+name=Parkplatz Geiseltal
+noref=yes
+id=node/2331635825</desc></wpt><wpt lat="51.9719284" lon="12.490293"><name>Rastplatz Rosselquelle</name><desc>highway=motorway_junction
+name=Rastplatz Rosselquelle
+noref=yes
+id=node/2451472049</desc></wpt><wpt lat="51.5396656" lon="12.1525431"><name>Landsberg</name><desc>highway=motorway_junction
+name=Landsberg
+id=node/2613307374</desc></wpt><wpt lat="51.5404516" lon="12.1547222"><name>Landsberg</name><desc>highway=motorway_junction
+name=Landsberg
+id=node/2613307389</desc></wpt><wpt lat="51.2129233" lon="11.9981471"><name>node/2747055814</name><desc>highway=motorway_junction
+toll:name=Weißenfels Weißenfelser Straße
+id=node/2747055814</desc></wpt><wpt lat="51.4797406" lon="11.8843543"><name>node/2799585667</name><desc>highway=motorway_junction
+id=node/2799585667</desc></wpt><wpt lat="51.3007208" lon="11.9860336"><name>node/2805952946</name><desc>highway=motorway_junction
+id=node/2805952946</desc></wpt><wpt lat="51.7101866" lon="12.2126001"><name>Thurland</name><desc>highway=motorway_junction
+name=Thurland
+ref=11b
+id=node/2976377099</desc></wpt><wpt lat="51.7048783" lon="12.2118611"><name>Thurland</name><desc>highway=motorway_junction
+name=Thurland
+ref=11b
+id=node/2976377105</desc></wpt><wpt lat="51.4327509" lon="11.4186612"><name>node/3019228630</name><desc>highway=motorway_junction
+noref=yes
+id=node/3019228630</desc></wpt><wpt lat="51.4351556" lon="11.4310713"><name>node/3020310206</name><desc>highway=motorway_junction
+noref=yes
+id=node/3020310206</desc></wpt><wpt lat="51.4293393" lon="11.3954445"><name>Allstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12703
+TMC:cid_58:tabcd_1:NextLocationCode=12704
+TMC:cid_58:tabcd_1:PrevLocationCode=12702
+highway=motorway_junction
+name=Allstedt
+ref=18
+id=node/3036688541</desc></wpt><wpt lat="51.4292782" lon="11.3893659"><name>Allstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12703
+TMC:cid_58:tabcd_1:NextLocationCode=12704
+TMC:cid_58:tabcd_1:PrevLocationCode=12702
+highway=motorway_junction
+name=Allstedt
+ref=18
+id=node/3046069961</desc></wpt><wpt lat="51.4392222" lon="11.3413487"><name>Dreieck Südharz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12702
+TMC:cid_58:tabcd_1:NextLocationCode=12703
+TMC:cid_58:tabcd_1:PrevLocationCode=12701
+highway=motorway_junction
+name=Dreieck Südharz
+ref=17
+id=node/3047982871</desc></wpt><wpt lat="51.4418386" lon="11.3299584"><name>Dreieck Südharz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12702
+TMC:cid_58:tabcd_1:NextLocationCode=12703
+TMC:cid_58:tabcd_1:PrevLocationCode=12701
+highway=motorway_junction
+name=Dreieck Südharz
+ref=17
+id=node/3048346583</desc></wpt><wpt lat="51.4482783" lon="11.2645017"><name>Sangerhausen-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12700
+TMC:cid_58:tabcd_1:NextLocationCode=12701
+TMC:cid_58:tabcd_1:PrevLocationCode=43983
+highway=motorway_junction
+name=Sangerhausen-West
+ref=15
+id=node/3259092560</desc></wpt><wpt lat="51.438718" lon="11.3321327"><name>Dreieck Südharz</name><desc>highway=motorway_junction
+name=Dreieck Südharz
+ref=1
+id=node/3277014383</desc></wpt><wpt lat="52.096217" lon="11.6046298"><name>node/3658001796</name><desc>highway=motorway_junction
+id=node/3658001796</desc></wpt><wpt lat="52.4036054" lon="11.6374619"><name>Tangerhütte</name><desc>highway=motorway_junction
+name=Tangerhütte
+ref=19
+id=node/4066974806</desc></wpt><wpt lat="52.4044496" lon="11.6383014"><name>Tangerhütte</name><desc>highway=motorway_junction
+name=Tangerhütte
+ref=19
+id=node/4066974807</desc></wpt><wpt lat="52.9095871" lon="11.7330715"><name>Seehausen Nord</name><desc>construction=motorway_junction
+highway=motorway_junction
+name=Seehausen Nord
+ref=13
+id=node/4066997031</desc></wpt><wpt lat="52.9120109" lon="11.7336076"><name>Seehausen Nord</name><desc>construction=motorway_junction
+highway=motorway_junction
+name=Seehausen Nord
+ref=13
+id=node/4066997032</desc></wpt><wpt lat="52.5683929" lon="11.7774909"><name>Stendal</name><desc>highway=motorway_junction
+name=Stendal
+ref=17
+id=node/4070058962</desc></wpt><wpt lat="52.5700337" lon="11.7771433"><name>Stendal</name><desc>highway=motorway_junction
+name=Stendal
+ref=17
+id=node/4070058984</desc></wpt><wpt lat="51.5015813" lon="12.0126812"><name>node/7029161322</name><desc>highway=motorway_junction
+id=node/7029161322</desc></wpt><wpt lat="51.4788659" lon="11.8857058"><name>node/8672816390</name><desc>highway=motorway_junction
+id=node/8672816390</desc></wpt></gpx>
