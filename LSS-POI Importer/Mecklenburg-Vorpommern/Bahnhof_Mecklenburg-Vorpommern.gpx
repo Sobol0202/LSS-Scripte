@@ -1,0 +1,1182 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.9389493" lon="12.1179181"><name>Schwaan</name><desc>internet_access=no
+name=Schwaan
+network=VVW
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WSN
+railway:station_category=5
+uic_ref=8010322
+wikidata=Q50332591
+id=node/31308757</desc></wpt><wpt lat="53.5150049" lon="13.9892981"><name>Pasewalk</name><desc>image=https://commons.wikimedia.org/wiki/File:Bahnhof_Pasewalk.jpg
+name=Pasewalk
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WP
+railway:station_category=4
+ref:station=4870
+start_date=1863-03-16
+train=yes
+uic_name=Pasewalk
+uic_ref=8010268
+wheelchair=yes
+wikidata=Q801310
+wikipedia=de:Bahnhof Pasewalk
+id=node/32828690</desc></wpt><wpt lat="54.0750292" lon="12.3766833"><name>Sanitz (b Rostock)</name><desc>alt_name:pl=Zające
+name=Sanitz (b Rostock)
+public_transport=station
+railway=station
+railway:ref=WSTZ
+wheelchair=no
+wikidata=Q50315078
+id=node/59640885</desc></wpt><wpt lat="54.0768375" lon="12.0475371"><name>Groß Schwaß</name><desc>name=Groß Schwaß
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WGS
+uic_ref=8011735
+wheelchair=limited
+wikidata=Q28053382
+id=node/59974553</desc></wpt><wpt lat="53.7723504" lon="11.7146716"><name>Blankenberg (Meckl)</name><desc>name=Blankenberg (Meckl)
+official_name=Blankenberg (Meckl)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WBL
+railway:station_category=6
+short_name=Blankenberg (Meckl)
+train=yes
+uic_name=Blankenberg(Meckl)
+uic_ref=8010051
+wikidata=Q800534
+wikipedia=de:Bahnhof Blankenberg (Meckl)
+id=node/60463394</desc></wpt><wpt lat="53.7622878" lon="13.7984274"><name>Ducherow</name><desc>name=Ducherow
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WUD
+railway:station_category=6
+uic_ref=8011438
+wheelchair=yes
+wikidata=Q800691
+wikipedia=de:Bahnhof Ducherow
+id=node/89777864</desc></wpt><wpt lat="53.378098" lon="10.7541756"><name>Boizenburg/Elbe</name><desc>name=Boizenburg/Elbe
+public_transport=station
+railway=station
+railway:ref=WBZ
+train=yes
+uic_ref=8011230
+wheelchair=yes
+wikidata=Q50404519
+id=node/90045486</desc></wpt><wpt lat="53.334718" lon="11.4945852"><name>Ludwigslust</name><desc>addr:city=Ludwigslust
+addr:country=DE
+addr:housenumber=1
+addr:postcode=19288
+addr:street=Rudolf-Tarnow-Straße
+name=Ludwigslust
+operator=DB Netz AG;DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WL
+railway:station_category=4
+ref:station=3843
+train=yes
+uic_ref=8010216
+wheelchair=yes
+wikidata=Q801130
+wikipedia=de:Bahnhof Ludwigslust
+id=node/99994278</desc></wpt><wpt lat="53.3649145" lon="11.0829878"><name>Pritzier</name><desc>name=Pritzier
+public_transport=station
+railway=station
+railway:ref=WPRZ
+uic_ref=8012677
+wheelchair=no
+wikidata=Q50404364
+id=node/99994397</desc></wpt><wpt lat="53.5335264" lon="13.5005972"><name>Neetzka</name><desc>name=Neetzka
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WNA
+railway:station_category=7
+ref:station=4328
+train=yes
+uic_ref=8012421
+wheelchair=yes
+wikidata=Q50376498
+id=node/139251880</desc></wpt><wpt lat="53.5638586" lon="13.3663556"><name>Sponholz</name><desc>name=Sponholz
+public_transport=station
+railway=station
+railway:ref=WSP
+train=yes
+wikidata=Q50376500
+id=node/139253237</desc></wpt><wpt lat="53.2830948" lon="11.5638854"><name>Grabow (Meckl)</name><desc>ele=40.2
+name=Grabow (Meckl)
+note="Grabow (Meckl)" ist die offizielle Betriebsstellenbezeichnung, die auch in Fahrplanmedien genannt wird; aufgrund von Weichen im Stationsbereich offenbar Bahnhof (railway=station) statt Haltepunkt (railway=halt)
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WGRB
+wheelchair=yes
+wikidata=Q800831
+id=node/247745275</desc></wpt><wpt lat="53.6345969" lon="14.008688"><name>Torgelow</name><desc>addr:city=Torgelow
+addr:housenumber=1
+addr:postcode=17358
+addr:street=Espelkamper Straße
+name=Torgelow
+operator=DB InfraGO AG
+platforms=2
+public_transport=station
+railway=station
+railway:ref=WTO
+railway:station_category=6
+ref:station=6229
+train=yes
+uic_ref=8013131
+wikidata=Q7825714
+id=node/248917319</desc></wpt><wpt lat="53.5151195" lon="13.7434324"><name>Strasburg (Uckermark)</name><desc>name=Strasburg (Uckermark)
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WSB
+railway:station_category=6
+ref:station=6051
+train=yes
+uic_name=Strasburg(Uckerm)
+uic_ref=8010339
+wheelchair=yes
+wikidata=Q19274515
+wikipedia=de:Bahnhof Strasburg (Uckerm)
+id=node/248926662</desc></wpt><wpt lat="53.51802" lon="13.5729263"><name>Oertzenhof</name><desc>name=Oertzenhof
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WOE
+railway:station_category=7
+ref:station=4736
+train=yes
+uic_ref=8012555
+wikidata=Q50376493
+id=node/248927189</desc></wpt><wpt lat="53.5618868" lon="13.2615857"><name>Neubrandenburg</name><desc>name=Neubrandenburg
+name:ar=نويبراندنبورغ
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WN
+railway:station_category=3
+ref:station=4363
+uic_ref=8010241
+wheelchair=yes
+id=node/248929513</desc></wpt><wpt lat="53.7433643" lon="12.7611747"><name>Malchin</name><desc>name=Malchin
+public_transport=station
+railway=station
+railway:ref=WMA
+uic_ref=8010227
+wheelchair=yes
+wikidata=Q50376517
+id=node/252070096</desc></wpt><wpt lat="53.7684088" lon="12.578006"><name>Teterow</name><desc>name=Teterow
+platforms=2
+public_transport=station
+railway=station
+railway:ref=WTE
+uic_ref=8010348
+wikidata=Q50376520
+id=node/252073533</desc></wpt><wpt lat="53.7550167" lon="12.3871455"><name>Lalendorf</name><desc>name=Lalendorf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WLD
+railway:station_category=7
+toilets:wheelchair=no
+uic_ref=8010199
+wheelchair=limited
+wikidata=Q801053
+wikipedia=de:Bahnhof Lalendorf
+id=node/252076066</desc></wpt><wpt lat="53.8372304" lon="11.998196"><name>Bützow</name><desc>name=Bützow
+network=VVW
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WB
+railway:station_category=4
+uic_name=Bützow
+uic_ref=8010066
+wheelchair=yes
+wikidata=Q186740
+wikipedia=de:Bahnhof Bützow
+id=node/252086216</desc></wpt><wpt lat="53.7666849" lon="11.4661982"><name>Bad Kleinen</name><desc>name=Bad Kleinen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WK
+railway:station_category=4
+uic_name=Bad Kleinen
+uic_ref=8010018
+wheelchair=yes
+wikidata=Q324562
+wikipedia=de:Bahnhof Bad Kleinen
+id=node/252097111</desc></wpt><wpt lat="53.6353803" lon="11.4075049"><name>Schwerin Hauptbahnhof</name><desc>departures_board=realtime
+departures_board:speech_output=yes
+name=Schwerin Hauptbahnhof
+operator=DB Netz AG;DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WS
+railway:station_category=3
+ref:station=5755
+train=yes
+uic_name=Schwerin Hbf
+uic_ref=8010324
+wheelchair=yes
+wikidata=Q464303
+wikipedia=de:Schwerin Hauptbahnhof
+id=node/252098248</desc></wpt><wpt lat="54.1416699" lon="11.8428302"><name>Heiligendamm</name><desc>image=https://wiki.openstreetmap.org/wiki/File:2014_Heiligendamm_Bahnhof_der_Schmalspurbahn.jpg
+name=Heiligendamm
+operator=Mecklenburgische Bäderbahn Molli GmbH
+public_transport=station
+railway=station
+railway:ref=WHDM
+website=https://www.molli-bahn.de/
+wheelchair=yes
+wikidata=Q28053526
+wikipedia=de:Bäderbahn Molli
+id=node/262287422</desc></wpt><wpt lat="54.147685" lon="11.7597761"><name>Kühlungsborn Ost</name><desc>name=Kühlungsborn Ost
+operator=Mecklenburgische Bäderbahn Molli GmbH
+public_transport=stop_position
+railway=station
+railway:position=12.7
+railway:ref=WKBO
+train=yes
+wheelchair=limited
+wikidata=Q28053528
+id=node/262858440</desc></wpt><wpt lat="54.0764452" lon="13.3966061"><name>node/266613824</name><desc>id=node/266613824</desc></wpt><wpt lat="54.3713605" lon="13.6983821"><name>Sellin-Ost</name><desc>layer=3
+name=Sellin-Ost
+public_transport=station
+railway=station
+train=yes
+wheelchair=limited
+wikidata=Q50744585
+id=node/267123955</desc></wpt><wpt lat="54.3088727" lon="13.0777309"><name>Stralsund Hbf</name><desc>name=Stralsund Hbf
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WSR
+railway:station_category=3
+ref:station=6049
+toilets:wheelchair=yes
+train=yes
+uic_ref=8010338
+website=https://www.bahnhof.de/stralsund-hbf
+wheelchair=yes
+wikidata=Q320175
+wikipedia=de:Stralsund Hauptbahnhof
+id=node/277350630</desc></wpt><wpt lat="54.043754" lon="13.7687479"><name>Wolgast</name><desc>name=Wolgast
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:ref=WWO
+train=yes
+uic_ref=8013339
+wheelchair=yes
+wikidata=Q19355068
+wikipedia=de:Bahnhof Wolgast
+id=node/278182301</desc></wpt><wpt lat="54.2682538" lon="12.7114929"><name>Buchenhorst</name><desc>name=Buchenhorst
+public_transport=station
+railway=station
+railway:ref=WBUH
+uic_ref=8011281
+wikidata=Q50330461
+id=node/278191662</desc></wpt><wpt lat="54.1989452" lon="12.3053923"><name>Gelbensande</name><desc>name=Gelbensande
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WGE
+uic_ref=8011611
+wikidata=Q46964531
+id=node/278193399</desc></wpt><wpt lat="54.1771273" lon="12.0907438"><name>Warnemünde</name><desc>name=Warnemünde
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WWM
+railway:station_category=3
+uic_ref=8013236
+wheelchair=yes
+wikidata=Q801578
+wikipedia=de:Bahnhof Warnemünde
+id=node/289634477</desc></wpt><wpt lat="53.4277031" lon="12.9420975"><name>Kratzeburg</name><desc>addr:city=Kratzeburg
+addr:housenumber=25
+addr:postcode=17237
+addr:street=Dorfstraße
+name=Kratzeburg
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WKG
+railway:station_category=7
+ref:station=3399
+train=yes
+uic_ref=8012093
+wheelchair=yes
+wikidata=Q55616242
+id=node/295428645</desc></wpt><wpt lat="53.9011976" lon="13.053976"><name>Demmin</name><desc>ele=5
+name=Demmin
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WDM
+railway:station_category=6
+start_date=1877/12/01
+uic_ref=8011356
+wheelchair=no
+wikidata=Q800652
+wikipedia=de:Bahnhof Demmin
+id=node/297094694</desc></wpt><wpt lat="53.6914721" lon="13.2428289"><name>Altentreptow</name><desc>name=Altentreptow
+public_transport=station
+railway=station
+railway:ref=WATR
+uic_ref=8011025
+wikidata=Q50374672
+id=node/312959037</desc></wpt><wpt lat="53.4997494" lon="13.303131"><name>Burg Stargard</name><desc>name=Burg Stargard
+public_transport=station
+railway=station
+railway:ref=WBSG
+uic_ref=8011293
+wikidata=Q50386881
+id=node/315274167</desc></wpt><wpt lat="53.430096" lon="11.8307565"><name>Parchim</name><desc>name=Parchim
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WPM
+railway:station_category=6
+ref:station=4864
+train=yes
+uic_ref=8010267
+website=https://www.bahnhof.de/bahnhof-de/Parchim-1024784
+wheelchair=limited
+wikidata=Q11811244
+wikimedia_commons=File:Bahnhof Parchim.jpg
+wikipedia=de:Bahnhof Parchim
+id=node/322539164</desc></wpt><wpt lat="53.377434" lon="11.5936035"><name>Neustadt-Glewe</name><desc>name=Neustadt-Glewe
+public_transport=station
+railway=station
+railway:ref=WNG
+train=yes
+wikidata=Q50400034
+id=node/322539715</desc></wpt><wpt lat="54.3674624" lon="13.5610087"><name>Seelvitz</name><desc>layer=3
+name=Seelvitz
+public_transport=station
+railway=station
+train=yes
+wikidata=Q50743877
+id=node/322787585</desc></wpt><wpt lat="54.3776941" lon="13.6387321"><name>Garftitz</name><desc>layer=3
+name=Garftitz
+public_transport=station
+railway=station
+train=yes
+wikidata=Q50744419
+id=node/322787646</desc></wpt><wpt lat="54.4050029" lon="13.6005789"><name>Ostseebad Binz</name><desc>name=Ostseebad Binz
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WBI
+railway:station_category=3
+ref:station=653
+start_date=1939
+train=yes
+uic_ref=8011191
+wheelchair=yes
+wikidata=Q801302
+wikipedia=de:Bahnhof Ostseebad Binz
+id=node/324223788</desc></wpt><wpt lat="53.4560235" lon="14.2156133"><name>Löcknitz</name><desc>addr:city=Löcknitz
+addr:housenumber=1
+addr:postcode=17321
+addr:street=Ernst-Thälmann-Straße
+name=Löcknitz
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WLK
+railway:station_category=7
+ref:station=3758
+train=yes
+uic_ref=8010213
+wikidata=Q6711333
+id=node/331223356</desc></wpt><wpt lat="53.8377199" lon="10.7597958"><name>Herrnburg</name><desc>name=Herrnburg
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WHB
+railway:station_category=6
+uic_ref=8011864
+wheelchair=yes
+wikidata=Q50379764
+id=node/332785625</desc></wpt><wpt lat="53.8535346" lon="10.9279621"><name>Schönberg (Meckl)</name><desc>name=Schönberg (Meckl)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WSBG
+uic_ref=8012902
+wheelchair=yes
+wikidata=Q50379770
+id=node/332786255</desc></wpt><wpt lat="53.8512367" lon="11.0685896"><name>Grieben (Meckl)</name><desc>name=Grieben (Meckl)
+public_transport=station
+railway=station
+railway:ref=WGBN
+uic_ref=8011702
+wikidata=Q50379774
+id=node/332786689</desc></wpt><wpt lat="54.4810721" lon="13.5118"><name>Lietzow (Rügen)</name><desc>name=Lietzow (Rügen)
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WLI
+railway:station_category=6
+ref:station=3716
+train=yes
+wheelchair=yes
+wikidata=Q6544368
+id=node/343805839</desc></wpt><wpt lat="53.5095714" lon="14.0097015"><name>Pasewalk Ost</name><desc>name=Pasewalk Ost
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WPO
+railway:station_category=7
+ref:station=4871
+train=yes
+uic_ref=8012610
+wikidata=Q7141925
+id=node/346212675</desc></wpt><wpt lat="53.5532449" lon="11.5067764"><name>Plate (Mecklenburg)</name><desc>name=Plate (Mecklenburg)
+railway=station
+short_name=Plate (Meckl)
+wheelchair=yes
+wikidata=Q50396388
+id=node/443114891</desc></wpt><wpt lat="53.8008459" lon="12.1725806"><name>Güstrow</name><desc>addr:city=Güstrow
+addr:country=DE
+addr:housenumber=3
+addr:postcode=18273
+addr:street=Bahnhofsplatz
+electrified=contact_line
+name=Güstrow
+network=VVW
+operator=DB Netz AG
+phone=+49 381 2401055
+public_transport=station
+railway=station
+railway:ref=WG
+railway:station_category=3
+uic_ref=8010153
+website=https://www.bahnhof.de/bahnhof-de/bahnhof/G-C3-BCstrow-1027676
+wheelchair=yes
+wikidata=Q9283974
+id=node/597155800</desc></wpt><wpt lat="53.7959266" lon="12.2228723"><name>Priemerburg</name><desc>level=0
+name=Priemerburg
+note:name=NUP bedeutet 'Natur- und Umweltpark'
+official_name=Priemerburg - NUP Güstrow
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WPI
+railway:station_category=6
+uic_name=Priemerburg
+uic_ref=8010284
+wikidata=Q50376527
+id=node/599049850</desc></wpt><wpt lat="53.7068096" lon="12.9141801"><name>Reuterstadt Stavenhagen</name><desc>name=Reuterstadt Stavenhagen
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WRST
+train=yes
+uic_ref=8012758
+wheelchair=yes
+wikidata=Q50376514
+id=node/599541110</desc></wpt><wpt lat="53.3861892" lon="11.3745295"><name>Jasnitz</name><desc>name=Jasnitz
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WJAS
+ref:IFOPT=de:13076:4253
+uic_ref=8011951
+wikidata=Q18515722
+id=node/601495963</desc></wpt><wpt lat="53.5216253" lon="12.4524517"><name>Nossentin</name><desc>name=Nossentin
+operator=Regio Infra Nord-Ost GmbH &amp; Co. KG
+public_transport=station
+railway=station
+railway:ref=WNOS
+train=yes
+uic_ref=8012517
+wikidata=Q50385081
+id=node/601496169</desc></wpt><wpt lat="53.8248776" lon="13.1502426"><name>Sternfeld</name><desc>description=Kreuzungsbahnhof
+name=Sternfeld
+public_transport=station
+railway=station
+railway:ref=WSE
+uic_ref=8013051
+wheelchair=yes
+wikidata=Q50374661
+id=node/601579583</desc></wpt><wpt lat="54.2102147" lon="13.0738497"><name>Elmenhorst</name><desc>name=Elmenhorst
+public_transport=station
+railway=station
+railway:ref=WELM
+uic_ref=8011481
+wheelchair=yes
+wikidata=Q50374635
+id=node/601579589</desc></wpt><wpt lat="53.508058" lon="12.0538554"><name>Passow(Meckl)</name><desc>abandoned:railway=station
+description=Nur im Sommer an den Wochenenden.
+name=Passow(Meckl)
+network=RB19
+public_transport=station
+railway=station
+train=yes
+wheelchair=limited
+wikidata=Q117475635
+id=node/662951540</desc></wpt><wpt lat="54.0764152" lon="13.3958675"><name>node/703667903</name><desc>id=node/703667903</desc></wpt><wpt lat="54.0764727" lon="13.3966524"><name>node/704727306</name><desc>id=node/704727306</desc></wpt><wpt lat="53.5725448" lon="11.6447986"><name>Crivitz</name><desc>internet_access=no
+name=Crivitz
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WCZ
+shelter=yes
+train=yes
+wikidata=Q50396515
+id=node/817929665</desc></wpt><wpt lat="54.0781503" lon="12.1311246"><name>Rostock Hauptbahnhof</name><desc>internet_access=wlan
+internet_access:fee=no
+internet_access:ssid=WiFi@Bahn
+level=0
+name=Rostock Hauptbahnhof
+network=VVW
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WR
+railway:station_category=2
+toilets:wheelchair=no
+uic_name=Rostock Hbf
+uic_ref=8010304
+wheelchair=yes
+wikidata=Q682569
+wikipedia=de:Rostock Hauptbahnhof
+id=node/987773654</desc></wpt><wpt lat="53.364017" lon="10.953624"><name>Brahlstorf</name><desc>name=Brahlstorf
+public_transport=station
+railway=station
+railway:ref=WBRH
+uic_ref=8011248
+wheelchair=no
+wikidata=Q50404419
+id=node/1104185426</desc></wpt><wpt lat="53.4134275" lon="11.2153217"><name>Hagenow Land</name><desc>name=Hagenow Land
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WHL
+railway:station_category=5
+uic_ref=8010156
+wheelchair=limited
+wikidata=Q800862
+wikipedia=de:Bahnhof Hagenow Land
+id=node/1242349730</desc></wpt><wpt lat="53.4292711" lon="11.1849621"><name>Hagenow Stadt</name><desc>name=Hagenow Stadt
+public_transport=station
+railway=station
+wheelchair=yes
+wikidata=Q17315135
+id=node/1298180932</desc></wpt><wpt lat="53.9194744" lon="12.3395388"><name>Laage (Meckl)</name><desc>name=Laage (Meckl)
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WLA
+railway:station_category=7
+toilets:wheelchair=no
+uic_name=Laage(Meckl)
+uic_ref=8012143
+wheelchair=yes
+wikidata=Q55616435
+id=node/1329847655</desc></wpt><wpt lat="54.0073478" lon="12.1973313"><name>Kavelstorf</name><desc>name=Kavelstorf
+public_transport=station
+railway=station
+railway:ref=WKV
+uic_ref=8012002
+wikidata=Q50380058
+id=node/1330103142</desc></wpt><wpt lat="54.5179867" lon="13.6080148"><name>Lancken</name><desc>addr:city=Sassnitz
+addr:postcode=18546
+addr:street=Am Bahnhof Lancken
+name=Lancken
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WLAK
+railway:station_category=6
+ref:station=3503
+train=yes
+id=node/1343609713</desc></wpt><wpt lat="54.1100218" lon="13.0340847"><name>Grimmen</name><desc>name=Grimmen
+public_transport=station
+railway=station
+railway:ref=WGI
+uic_ref=8011707
+wheelchair=limited
+wikidata=Q50374652
+id=node/1356544097</desc></wpt><wpt lat="53.6530715" lon="11.2514184"><name>Groß Brütz</name><desc>int_name=Groß Brütz
+name=Groß Brütz
+operator=DB Netz AG
+platforms=2
+railway=station
+railway:ref=WGB
+uic_ref=8011718
+wheelchair=yes
+wikidata=Q50387815
+id=node/1632859947</desc></wpt><wpt lat="53.680646" lon="12.425544"><name>Langhagen</name><desc>name=Langhagen
+operator=DB Netz AG;DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WLG
+railway:station_category=7
+uic_ref=8010201
+wheelchair=yes
+wikidata=Q50380099
+id=node/1778688349</desc></wpt><wpt lat="53.8402395" lon="12.3377287"><name>Plaaz</name><desc>level=0
+name=Plaaz
+public_transport=station
+railway=station
+wikidata=Q50379963
+id=node/1918690811</desc></wpt><wpt lat="53.8919301" lon="12.347621"><name>Subzin-Liessow</name><desc>level=0
+name=Subzin-Liessow
+public_transport=station
+railway=station
+railway:ref=WSBN
+uic_ref=8013072
+wikidata=Q55634155
+id=node/1918692233</desc></wpt><wpt lat="53.9700883" lon="12.2458018"><name>Scharstorf</name><desc>name=Scharstorf
+public_transport=station
+railway=station
+railway:ref=WST
+uic_ref=8012856
+wikidata=Q50380060
+id=node/1918707393</desc></wpt><wpt lat="53.5120694" lon="12.355582"><name>Alt Schwerin</name><desc>abandoned:railway=station
+description:DE=Saison-Verkehr April-Oktober
+name=Alt Schwerin
+operator=Regio Infra Nord-Ost GmbH &amp; Co. KG
+public_transport=station
+railway=station
+service=no
+train=yes
+id=node/2209890906</desc></wpt><wpt lat="53.4603764" lon="12.2560539"><name>Plau am See</name><desc>disused:railway=station
+name=Plau am See
+note=saisonaler Halt RB15, RB19 und RB73/74 April-Oktober 2020-2024
+operator=Regio Infra Nord-Ost GmbH &amp; Co. KG
+operator:wikidata=Q2138117
+public_transport=station
+railway=station
+railway:ref=WPU
+train=yes
+wheelchair=yes
+wikidata=Q104922457
+id=node/2368183174</desc></wpt><wpt lat="53.2704382" lon="12.8207576"><name>Mirow</name><desc>name=Mirow
+network=Kleinseenbahn Mirow - Neustrelitz
+operator=Regio Infra Nord-Ost GmbH &amp; Co. KG
+public_transport=station
+railway=station
+wheelchair=limited
+wikidata=Q6874426
+id=node/3158393020</desc></wpt><wpt lat="53.2869233" lon="12.9629075"><name>Wesenberg</name><desc>addr:city=Wesenberg
+addr:country=DE
+addr:housenumber=21
+addr:postcode=17255
+addr:street=Bahnhofstraße
+name=Wesenberg
+operator=Regio Infra Nord-Ost GmbH &amp; Co. KG
+phone=+49 3831 621055
+public_transport=station
+railway=station
+wheelchair=yes
+wikidata=Q7983806
+id=node/3158393638</desc></wpt><wpt lat="53.556497" lon="11.3658914"><name>Holthusen</name><desc>name=Holthusen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WHO
+railway:station_category=6
+uic_ref=8010173
+wheelchair=no
+wikidata=Q50401045
+id=node/3607507615</desc></wpt><wpt lat="53.8573939" lon="11.1844076"><name>Grevesmühlen</name><desc>name=Grevesmühlen
+public_transport=station
+railway=station
+railway:ref=WGV
+train=yes
+uic_ref=8010141
+wheelchair=yes
+wikidata=Q50379783
+id=node/3653214050</desc></wpt><wpt lat="54.065992" lon="13.9601243"><name>Zempin</name><desc>internet_access=no
+name=Zempin
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:position=231.1
+railway:ref=WZP
+uic_ref=8013385
+wheelchair=yes
+wikidata=Q50349464
+id=node/3690524740</desc></wpt><wpt lat="53.8045736" lon="11.3629202"><name>Bobitz</name><desc>name=Bobitz
+public_transport=station
+railway=station
+railway:ref=WBO
+uic_ref=8011215
+wikidata=Q50379787
+id=node/4022460684</desc></wpt><wpt lat="54.0929783" lon="13.3705877"><name>Greifswald</name><desc>name=Greifswald
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WGW
+railway:station_category=4
+toilets:wheelchair=no
+uic_name=Greifswald
+uic_ref=8010139
+wheelchair=no
+wikidata=Q800835
+wikipedia=de:Bahnhof Greifswald
+id=node/4243045146</desc></wpt><wpt lat="54.5164576" lon="13.6379367"><name>Sassnitz</name><desc>local_ref=1
+name=Sassnitz
+old=Saßnitz
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WSZ
+railway:station_category=6
+ref:station=5513
+toilets:wheelchair=yes
+train=yes
+wheelchair=yes
+wheelchair:description=Bahnhof ohne Treppen. Bahnsteig barrierefrei ausgebaut im Jahr 2015. Züge, die hier halten, haben Einstieg ohne Stufe. Keine Lücke zwischen Zug und Bahnsteig.
+wikidata=Q7425780
+wikipedia=de:Bahnhof Sassnitz
+id=node/4244819966</desc></wpt><wpt lat="54.4860637" lon="13.5852873"><name>Sassnitz Fährhafen</name><desc>name=Sassnitz Fährhafen
+operator=Mukran Port
+public_transport=station
+railway=station
+railway:ref=WSZF
+train=yes
+wikidata=Q111590035
+id=node/4244821776</desc></wpt><wpt lat="53.3592383" lon="13.0745118"><name>Neustrelitz Hauptbahnhof</name><desc>name=Neustrelitz Hauptbahnhof
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WNT
+railway:station_category=4
+ref:station=4460
+short_name=Neustrelitz Hbf
+train=yes
+uic_ref=8010250
+wheelchair=yes
+wikidata=Q678650
+wikipedia=de:Neustrelitz Hauptbahnhof
+id=node/4247176265</desc></wpt><wpt lat="53.8560688" lon="13.7018698"><name>Anklam</name><desc>historic:railway=halt
+name=Anklam
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WAK
+railway:station_category=5
+train=yes
+uic_ref=8011044
+wikidata=Q4766078
+wikipedia=de:Bahnhof Anklam
+id=node/4263811817</desc></wpt><wpt lat="53.5217959" lon="12.6805557"><name>Waren (Müritz)</name><desc>level=0
+name=Waren (Müritz)
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WWR
+railway:station_category=3
+train=yes
+uic_ref=8010361
+wheelchair=yes
+wikidata=Q9371000
+wikipedia=de:Bahnhof Waren (Müritz)
+id=node/4265542551</desc></wpt><wpt lat="54.3054374" lon="13.1075647"><name>Stralsund Rügendamm</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:postcode=18439
+addr:street=Platz des 17. Juni
+name=Stralsund Rügendamm
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WSRR
+railway:station_category=6
+train=yes
+wikidata=Q16900769
+id=node/4267863816</desc></wpt><wpt lat="54.3228693" lon="13.1408606"><name>Altefähr</name><desc>name=Altefähr
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WAF
+railway:station_category=6
+ref:station=79
+train=yes
+uic_name=Altefähr
+uic_ref=8011017
+wikidata=Q20170676
+id=node/4268012386</desc></wpt><wpt lat="54.3542272" lon="13.2909797"><name>Samtens</name><desc>addr:city=Samtens
+addr:housenumber=12
+addr:postcode=18573
+addr:street=Stralsunder Straße
+name=Samtens
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WSAM
+railway:station_category=6
+ref:station=5490
+train=yes
+wheelchair=yes
+wikidata=Q7410655
+id=node/4268014239</desc></wpt><wpt lat="54.4207415" lon="13.4186019"><name>Bergen auf Rügen</name><desc>departures_board=realtime
+departures_board:speech_output=no
+name=Bergen auf Rügen
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WBG
+railway:station_category=3
+ref:station=499
+train=yes
+uic_ref=8010033
+wheelchair=yes
+wikidata=Q800466
+wikipedia=de:Bahnhof Bergen auf Rügen
+id=node/4268035708</desc></wpt><wpt lat="54.4448215" lon="13.5642564"><name>Prora</name><desc>name=Prora
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WPRA
+railway:station_category=6
+ref:station=5048
+train=yes
+uic_ref=8012683
+wheelchair=yes
+wikidata=Q7250482
+id=node/4268047717</desc></wpt><wpt lat="54.3928147" lon="13.6099666"><name>Ostseebad Binz Landesbahn</name><desc>name=Ostseebad Binz Landesbahn
+old_name=Binz Ost
+operator=Eisenbahn-Bau- und Betriebsgesellschaft Pressnitztalbahn mbH
+public_transport=station
+railway=station
+railway:ref=WBIO
+short_name=Binz LB
+toilets:wheelchair=no
+uic_name=Binz LB
+website=https://ruegensche-baederbahn.de/fahrplan/
+wheelchair=limited
+wikidata=Q50744161
+id=node/4268064927</desc></wpt><wpt lat="54.3623008" lon="13.7048483"><name>Baabe</name><desc>layer=3
+name=Baabe
+public_transport=station
+railway=station
+toilets:wheelchair=no
+train=yes
+wheelchair=limited
+wikidata=Q50744714
+id=node/4268072086</desc></wpt><wpt lat="54.3569901" lon="13.480617"><name>Putbus</name><desc>name=Putbus
+public_transport=station
+railway=station
+railway:ref=WPUB
+railway:station_category=6
+train=yes
+wheelchair=yes
+wikidata=Q14906374
+id=node/4268095188</desc></wpt><wpt lat="53.9491799" lon="14.1708237"><name>Seebad Heringsdorf</name><desc>addr:city=Heringsdorf
+addr:country=DE
+addr:postcode=17424
+addr:street=Am Bahnhof
+name=Seebad Heringsdorf
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:position=208.6
+railway:ref=WHF
+toilets:wheelchair=no
+uic_ref=8012963
+wheelchair=limited
+wikidata=Q801425
+wikipedia=de:Bahnhof Seebad Heringsdorf
+id=node/4283694816</desc></wpt><wpt lat="53.9726529" lon="13.5498339"><name>Züssow</name><desc>name=Züssow
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WZS
+railway:station_category=5
+uic_ref=8010396
+wheelchair=yes
+wikidata=Q801681
+wikipedia=de:Bahnhof Züssow
+id=node/4530819996</desc></wpt><wpt lat="54.2774286" lon="12.8028195"><name>Velgast</name><desc>name=Velgast
+operator=DB Station&amp;Service AG
+platforms=3
+public_transport=station
+railway=station
+railway:ref=WV
+railway:station_category=5
+uic_ref=8010355
+wheelchair=no
+wikidata=Q7918908
+wikipedia=de:Bahnhof Velgast
+id=node/4530819997</desc></wpt><wpt lat="54.2391997" lon="12.4370512"><name>Ribnitz-Damgarten West</name><desc>name=Ribnitz-Damgarten West
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=WRI
+railway:station_category=4
+ref:IFOPT:DB=de:13073:5018
+uic_ref=8012763
+wheelchair=yes
+wikidata=Q7322379
+wikipedia=de:Bahnhof Ribnitz-Damgarten West
+id=node/4530819999</desc></wpt><wpt lat="53.4569017" lon="11.4318098"><name>Rastow</name><desc>name=Rastow
+public_transport=station
+railway=station
+railway:ref=WRW
+uic_ref=8012716
+wikidata=Q50401047
+id=node/4645539336</desc></wpt><wpt lat="53.6795077" lon="13.7095196"><name>Schwichtenberg</name><desc>addr:city=Galenbeck
+addr:postcode=17099
+addr:street=Zur Kleinbahn
+attraction=train
+name=Schwichtenberg
+operator=MPSB
+public_transport=station
+railway=station
+usage=tourism
+wheelchair=yes
+id=node/4794032486</desc></wpt><wpt lat="53.6793198" lon="13.7272523"><name>Uhlenhorst</name><desc>name=Uhlenhorst
+operator=MPSB
+railway=station
+usage=tourism
+wheelchair=yes
+id=node/4794032488</desc></wpt><wpt lat="54.2012291" lon="13.1968694"><name>Miltzow</name><desc>name=Miltzow
+public_transport=station
+railway=station
+railway:ref=WMI
+wheelchair=yes
+wikidata=Q6861595
+id=node/5224018758</desc></wpt><wpt lat="53.4082098" lon="13.2631029"><name>Blankensee</name><desc>check_date=2025-03-11
+name=Blankensee
+public_transport=station
+railway=station
+railway:ref=WBLS
+uic_ref=8011205
+wheelchair=no
+wikidata=Q50386926
+id=node/5236813264</desc></wpt><wpt lat="54.3008715" lon="12.9310515"><name>Martensdorf</name><desc>name=Martensdorf
+public_transport=station
+railway=station
+railway:ref=WMTF
+train=yes
+uic_ref=8012316
+wikidata=Q50330485
+id=node/5246309061</desc></wpt><wpt lat="54.2510122" lon="12.4874295"><name>Ribnitz-Damgarten Ost</name><desc>name=Ribnitz-Damgarten Ost
+operator=DB Station&amp;Service AG
+public_transport=station
+railway=station
+railway:ref=WRIO
+train=yes
+wikidata=Q24206375
+id=node/5246309065</desc></wpt><wpt lat="53.9608862" lon="11.6150674"><name>Hagebök</name><desc>name=Hagebök
+public_transport=station
+railway=station
+railway:ref=WHK
+wikidata=Q28054808
+id=node/5260051858</desc></wpt><wpt lat="54.3458834" lon="13.7381915"><name>Göhren</name><desc>name=Göhren
+public_transport=stop_position
+railway=station
+train=yes
+wheelchair=yes
+wikidata=Q50674175
+id=node/5261023402</desc></wpt><wpt lat="54.0013674" lon="13.6820293"><name>Buddenhagen</name><desc>name=Buddenhagen
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:ref=WBHN
+train=yes
+uic_ref=8011286
+wheelchair=yes
+wikidata=Q50349940
+id=node/5273777902</desc></wpt><wpt lat="54.08146" lon="13.8696877"><name>Trassenheide</name><desc>name=Trassenheide
+public_transport=station
+railway=station
+railway:position=237.4
+railway:ref=WTH
+train=yes
+uic_ref=8013132
+website=https://www.mv-ostsee.de/trassenheide/bahnhof.html
+wheelchair=yes
+wikidata=Q50349746
+id=node/5273777913</desc></wpt><wpt lat="54.0758441" lon="13.9028657"><name>Zinnowitz</name><desc>name=Zinnowitz
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:ref=WZ
+train=yes
+uic_ref=8010392
+wheelchair=yes
+wikidata=Q9391304
+id=node/5273777914</desc></wpt><wpt lat="54.045193" lon="13.9993621"><name>Koserow</name><desc>name=Koserow
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:position=227.6
+railway:ref=WKO
+train=yes
+uic_ref=8012086
+wheelchair=yes
+id=node/5273777915</desc></wpt><wpt lat="54.0138976" lon="14.049895"><name>Ückeritz</name><desc>name=Ückeritz
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:position=222.3
+railway:ref=WUEK
+train=yes
+uic_ref=8013161
+wheelchair=yes
+id=node/5273777919</desc></wpt><wpt lat="53.9643909" lon="14.129031"><name>Bansin Seebad</name><desc>name=Bansin Seebad
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:position=214.2
+railway:ref=WBN
+train=yes
+uic_ref=8011109
+wheelchair=yes
+id=node/5273778222</desc></wpt><wpt lat="53.9355655" lon="14.1877831"><name>Seebad Ahlbeck</name><desc>name=Seebad Ahlbeck
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:position=206.7
+railway:ref=WAB
+train=yes
+uic_ref=8012962
+wheelchair=yes
+wikidata=Q9334882
+id=node/5273778228</desc></wpt><wpt lat="54.1465539" lon="11.7281345"><name>Kühlungsborn West</name><desc>name=Kühlungsborn West
+operator=Mecklenburgische Bäderbahn Molli GmbH
+public_transport=stop_position
+railway=station
+railway:ref=WKBW
+train=yes
+wheelchair=yes
+wikidata=Q28053423
+wikimedia_commons=Category:Bahnhof Kühlungsborn-West
+id=node/5469986027</desc></wpt><wpt lat="53.4819654" lon="12.4238674"><name>Inselstadt Malchow</name><desc>name=Inselstadt Malchow
+operator=ODEG – Ostdeutsche Eisenbahn GmbH
+public_transport=station
+railway=station
+train=yes
+uic_name=Malchow (Meckl)
+uic_ref=8012296
+website=https://www.odeg.de/
+wheelchair=yes
+wikidata=Q50384857
+id=node/5817770743</desc></wpt><wpt lat="53.9834892" lon="14.0762543"><name>Schmollensee</name><desc>name=Schmollensee
+operator=Usedomer Bäderbahn GmbH
+public_transport=station
+railway=station
+railway:position=218.3
+railway:ref=WSCM
+start_date=2018-04-28
+train=yes
+uic_ref=8012892
+wheelchair=yes
+wikidata=Q9334279
+id=node/6327141044</desc></wpt><wpt lat="54.0999775" lon="11.9049749"><name>Bad Doberan</name><desc>name=Bad Doberan
+network=VVW
+operator=DB Regio
+public_transport=station
+railway=station
+railway:ref=WDO
+wheelchair=yes
+wikidata=Q28053390
+id=node/6360562969</desc></wpt><wpt lat="53.8431495" lon="11.4711023"><name>Dorf Mecklenburg</name><desc>name=Dorf Mecklenburg
+public_transport=station
+railway=station
+railway:ref=WMK
+train=yes
+uic_ref=8012321
+wheelchair=yes
+wikidata=Q66361706
+id=node/6703276961</desc></wpt><wpt lat="54.1754054" lon="12.2471922"><name>Rövershagen</name><desc>name=Rövershagen
+network=VVW
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WRV
+railway:station_category=5
+ref:station=5406
+train=yes
+uic_ref=8010300
+wheelchair=yes
+wikidata=Q26821631
+wikipedia=de:Bahnhof Rövershagen
+id=node/6712128212</desc></wpt><wpt lat="53.5403189" lon="12.2721715"><name>Karow (Meckl)</name><desc>description=Nur im Sommer an den Wochenenden, RB15+RB19.
+internet_access=no
+name=Karow (Meckl)
+operator=Regio Infra Nord-Ost GmbH &amp; Co. KG
+public_transport=station
+railway=station
+railway:ref=WKA
+source=http://de.wikipedia.org/wiki/Bahnhof_Karow_(Meckl)
+train=yes
+uic_ref=8010188
+wikidata=Q800988
+wikipedia=de:Bahnhof Karow (Meckl)
+id=node/7650127523</desc></wpt><wpt lat="53.5166373" lon="12.1289853"><name>Gallin</name><desc>description=Nur im Sommer an den Wochenenden.
+name=Gallin
+network=RB19
+public_transport=station
+railway=station
+train=yes
+wikidata=Q117475602
+id=node/7791524218</desc></wpt><wpt lat="53.4668912" lon="12.0255649"><name>Lübz</name><desc>description=Nur in der Saison am Wochenende!
+2025: Ostern + 29.05-14.09.
+name=Lübz
+network=RB19
+public_transport=station
+railway=station
+train=yes
+url=https://www.odeg.de/linien-fahrplaene/liniennetz-fahrplaene
+id=node/7791646142</desc></wpt><wpt lat="53.3825762" lon="12.2471495"><name>Ganzlin</name><desc>name=Ganzlin
+operator=Regio Infra Nord-Ost GmbH &amp; Co. KG
+public_transport=station
+railway=station
+railway:ref=WGLN
+train=yes
+wikidata=Q77932544
+id=node/8189128726</desc></wpt><wpt lat="53.6024938" lon="13.9381103"><name>Jatznick</name><desc>addr:city=Jatznick
+addr:housenumber=8
+addr:postcode=17309
+addr:street=Am Bahnhof
+name=Jatznick
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WJK
+railway:station_category=6
+ref:station=3038
+train=yes
+uic_ref=8010179
+id=node/9026766695</desc></wpt><wpt lat="53.9342317" lon="11.1233856"><name>Reppenhagen</name><desc>name=Reppenhagen
+public_transport=station
+railway=station
+train=yes
+id=node/9899670105</desc></wpt><wpt lat="53.9639053" lon="11.1609936"><name>Klütz</name><desc>name=Klütz
+public_transport=station
+railway=station
+train=yes
+id=node/9899670107</desc></wpt><wpt lat="53.8964866" lon="11.4697362"><name>Wismar</name><desc>name=Wismar
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=WWI
+railway:station_category=5
+ref:station=6818
+train=yes
+wheelchair=yes
+id=node/11989971615</desc></wpt><wpt lat="54.0761859" lon="13.3972128"><name>node/5298092300</name><desc>id=node/5298092300</desc></wpt><wpt lat="54.0764589" lon="13.3966292"><name>node/5928495672</name><desc>id=node/5928495672</desc></wpt><trk><name>Ehemaliger Bahnhof Alt Karstädt</name><desc>disused:railway=station
+landuse=railway
+name=Ehemaliger Bahnhof Alt Karstädt
+public_transport=station
+railway=station
+train=yes
+id=way/1323578986</desc><trkseg><trkpt lat="53.2861374" lon="11.47442"/><trkpt lat="53.2862728" lon="11.4746206"/><trkpt lat="53.2865106" lon="11.4749442"/><trkpt lat="53.2865537" lon="11.4750393"/><trkpt lat="53.2866826" lon="11.4746694"/><trkpt lat="53.2863024" lon="11.4741249"/><trkpt lat="53.2861374" lon="11.47442"/></trkseg></trk><trk><name>way/31053642</name><desc>id=way/31053642</desc><trkseg><trkpt lat="54.076954" lon="13.3957084"/><trkpt lat="54.0766353" lon="13.3962186"/><trkpt lat="54.0761945" lon="13.3969247"/><trkpt lat="54.0761769" lon="13.3969526"/><trkpt lat="54.0759355" lon="13.3973392"/><trkpt lat="54.0759461" lon="13.3973587"/><trkpt lat="54.0759503" lon="13.3973664"/><trkpt lat="54.0762096" lon="13.3969512"/><trkpt lat="54.0766494" lon="13.3962468"/><trkpt lat="54.0769688" lon="13.3957354"/><trkpt lat="54.0769646" lon="13.3957277"/><trkpt lat="54.076954" lon="13.3957084"/></trkseg></trk><trk><name>way/31053643</name><desc>id=way/31053643</desc><trkseg><trkpt lat="54.0770314" lon="13.3958524"/><trkpt lat="54.0770196" lon="13.3958304"/><trkpt lat="54.077016" lon="13.3958238"/><trkpt lat="54.0762949" lon="13.3969713"/><trkpt lat="54.0761779" lon="13.3971575"/><trkpt lat="54.0760106" lon="13.3974237"/><trkpt lat="54.0759983" lon="13.3974433"/><trkpt lat="54.075995" lon="13.3974485"/><trkpt lat="54.0759975" lon="13.3974532"/><trkpt lat="54.0760104" lon="13.397477"/><trkpt lat="54.0760267" lon="13.3974511"/><trkpt lat="54.0761468" lon="13.3972592"/><trkpt lat="54.0761794" lon="13.397208"/><trkpt lat="54.0761927" lon="13.3971868"/><trkpt lat="54.0763095" lon="13.3970014"/><trkpt lat="54.0763203" lon="13.3969842"/><trkpt lat="54.0764431" lon="13.3967888"/><trkpt lat="54.0770314" lon="13.3958524"/></trkseg></trk></gpx>

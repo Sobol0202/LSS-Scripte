@@ -1,0 +1,1128 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="54.0929686" lon="12.1076782"><name>Maßmannstraße</name><desc>bus=yes
+name=Maßmannstraße
+network=VVW
+operator=RSAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110745793
+id=node/28903601</desc></wpt><wpt lat="54.0926868" lon="12.0993305"><name>Holbeinplatz</name><desc>name=Holbeinplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/28903603</desc></wpt><wpt lat="54.1107029" lon="12.0805053"><name>node/28903615</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/28903615</desc></wpt><wpt lat="54.1164197" lon="12.0605637"><name>Evershagen Süd</name><desc>name=Evershagen Süd
+network=Verkehrsverbund Warnow
+network:short=VVW
+network:wikidata=Q2516492
+operator=Rostocker Straßenbahn AG
+operator:short=RSAG
+operator:wikidata=Q6718062
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/28903623</desc></wpt><wpt lat="54.1245" lon="12.0580997"><name>Thomas-Morus-Straße</name><desc>name=Thomas-Morus-Straße
+network=Verkehrsverbund Warnow
+network:short=VVW
+network:wikidata=Q2516492
+operator=Rostocker Straßenbahn AG
+operator:short=RSAG
+operator:wikidata=Q6718062
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/28903631</desc></wpt><wpt lat="54.1090385" lon="12.1359907"><name>Hafenallee</name><desc>name=Hafenallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q62526365
+id=node/30729084</desc></wpt><wpt lat="54.1112327" lon="12.1372197"><name>Graf-Stauffenberg-Straße</name><desc>name=Graf-Stauffenberg-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746248
+id=node/30729096</desc></wpt><wpt lat="54.1034193" lon="12.1539574"><name>Dierkower Kreuz</name><desc>name=Dierkower Kreuz
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:13003:748:1:2
+tram=yes
+id=node/30729155</desc></wpt><wpt lat="54.0923538" lon="12.1562828"><name>Petridamm</name><desc>name=Petridamm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746258
+id=node/30729197</desc></wpt><wpt lat="54.0912349" lon="12.1514697"><name>Stadthafen</name><desc>name=Stadthafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30729532</desc></wpt><wpt lat="54.1453874" lon="12.0501068"><name>Rügener Straße</name><desc>name=Rügener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+wikidata=Q110733915
+id=node/30731148</desc></wpt><wpt lat="54.148006" lon="12.0579293"><name>Eutiner Straße</name><desc>name=Eutiner Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/51373121</desc></wpt><wpt lat="54.1005491" lon="12.1729891"><name>Katerweg</name><desc>name=Katerweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110752000
+id=node/59769017</desc></wpt><wpt lat="54.1047775" lon="12.1599875"><name>Lorenzstraße</name><desc>name=Lorenzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110751997
+id=node/59769027</desc></wpt><wpt lat="54.0918735" lon="12.1125839"><name>Kabutzenhof</name><desc>name=Kabutzenhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/104287719</desc></wpt><wpt lat="54.0882053" lon="12.1493382"><name>Gerberbruch</name><desc>name=Gerberbruch
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/239118093</desc></wpt><wpt lat="54.0995575" lon="12.0869822"><name>Kunsthalle</name><desc>name=Kunsthalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110745803
+id=node/240405130</desc></wpt><wpt lat="54.073956" lon="12.1043127"><name>Campus Südstadt</name><desc>name=Campus Südstadt
+old_name=Mensa
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+wikidata=Q50316690
+id=node/250137226</desc></wpt><wpt lat="54.0729829" lon="12.1075346"><name>Klinikum Süd</name><desc>name=Klinikum Süd
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+uic_ref=936273
+wheelchair=yes
+wikidata=Q62392976
+id=node/250137227</desc></wpt><wpt lat="54.0721355" lon="12.1120635"><name>node/250137229</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110751811
+id=node/250137229</desc></wpt><wpt lat="54.0720986" lon="12.1171683"><name>Südstadt-Center</name><desc>name=Südstadt-Center
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/250137230</desc></wpt><wpt lat="54.0793142" lon="12.095124"><name>Dr.-Lorenz-Weg</name><desc>name=Dr.-Lorenz-Weg
+network=VVW
+operator=RSAG
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+wikidata=Q66759483
+id=node/250989993</desc></wpt><wpt lat="54.0798047" lon="12.0894022"><name>node/250989997</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/250989997</desc></wpt><wpt lat="54.0736387" lon="12.0866776"><name>Neuer Friedhof</name><desc>name=Neuer Friedhof
+network=VVW
+operator=RSAG
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tram=yes
+wheelchair=limited
+wikidata=Q62393026
+id=node/250990011</desc></wpt><wpt lat="54.0737909" lon="12.0873005"><name>Neuer Friedhof</name><desc>name=Neuer Friedhof
+network=VVW
+operator=RSAG
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=limited
+wikidata=Q62393026
+id=node/250990020</desc></wpt><wpt lat="54.0650509" lon="12.117262"><name>Lomonossowstraße</name><desc>name=Lomonossowstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q99738473
+id=node/252965732</desc></wpt><wpt lat="54.057651" lon="12.1170887"><name>Südblick</name><desc>name=Südblick
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/252965736</desc></wpt><wpt lat="54.1119065" lon="12.1508643"><name>Hölderlinweg</name><desc>name=Hölderlinweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746251
+id=node/252971150</desc></wpt><wpt lat="54.1070437" lon="12.0789447"><name>Rahnstädter Weg</name><desc>name=Rahnstädter Weg
+network=VVW
+operator=Rostocker Straßenbahn AG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110739744
+id=node/264927058</desc></wpt><wpt lat="54.0832248" lon="12.1083114"><name>S Parkstraße</name><desc>name=S Parkstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/264990467</desc></wpt><wpt lat="53.6336851" lon="11.4032612"><name>Platz der Freiheit</name><desc>name=Platz der Freiheit
+note=Ankunft Li. 4
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/270573866</desc></wpt><wpt lat="53.6326886" lon="11.4029058"><name>Platz der Freiheit</name><desc>bus=yes
+highway=bus_stop
+name=Platz der Freiheit
+public_transport=stop_position
+railway=tram_stop
+ref=PDF3
+tram=yes
+wheelchair=yes
+id=node/270573949</desc></wpt><wpt lat="54.1018292" lon="12.0789306"><name>Reutershagen</name><desc>name=Reutershagen
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:13003:862:1:4
+tram=yes
+wikidata=Q62526396
+id=node/270996227</desc></wpt><wpt lat="53.6285901" lon="11.4109081"><name>Marienplatz</name><desc>bus=yes
+highway=bus_stop
+name=Marienplatz
+note=Mittelbahnsteig
+public_transport=stop_position
+railway=tram_stop
+ref=MPL1
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/276968395</desc></wpt><wpt lat="53.6338738" lon="11.4091583"><name>Hauptbahnhof</name><desc>bus=yes
+highway=bus_stop
+name=Hauptbahnhof
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/277203477</desc></wpt><wpt lat="53.621306" lon="11.4089158"><name>Platz der Jugend</name><desc>bus=yes
+highway=bus_stop
+name=Platz der Jugend
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/277955125</desc></wpt><wpt lat="53.6285229" lon="11.4108047"><name>Marienplatz</name><desc>bus=yes
+name=Marienplatz
+note=südwärts
+public_transport=stop_position
+railway=tram_stop
+ref=MPL3
+tram=yes
+wheelchair=yes
+id=node/277957310</desc></wpt><wpt lat="54.1062066" lon="12.1592738"><name>Hinrichsdorfer Straße</name><desc>name=Hinrichsdorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110748311
+id=node/281842198</desc></wpt><wpt lat="54.1085599" lon="12.164891"><name>Kurt-Schumacher-Ring</name><desc>name=Kurt-Schumacher-Ring
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q62526383
+id=node/281842199</desc></wpt><wpt lat="54.0694444" lon="12.1162451"><name>Majakowskistraße</name><desc>name=Majakowskistraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110751622
+id=node/281843883</desc></wpt><wpt lat="54.061358" lon="12.1171715"><name>node/281845677</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/281845677</desc></wpt><wpt lat="54.0581803" lon="12.1164762"><name>Südblick</name><desc>name=Südblick
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/281849650</desc></wpt><wpt lat="54.0902163" lon="12.1179371"><name>Volkstheater</name><desc>name=Volkstheater
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110745787
+id=node/282837133</desc></wpt><wpt lat="54.1218399" lon="12.058603"><name>Ehm-Welk-Straße</name><desc>name=Ehm-Welk-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/282839269</desc></wpt><wpt lat="54.1291619" lon="12.0573905"><name>node/282839270</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/282839270</desc></wpt><wpt lat="54.1327742" lon="12.0571643"><name>node/282839271</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/282839271</desc></wpt><wpt lat="54.1380269" lon="12.0544225"><name>Lütten-Klein Zentrum</name><desc>name=Lütten-Klein Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110733914
+id=node/282839274</desc></wpt><wpt lat="54.1422635" lon="12.0497989"><name>Turkuer Straße</name><desc>name=Turkuer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110733910
+id=node/282841451</desc></wpt><wpt lat="54.1515604" lon="12.0586753"><name>Elmenhorster Weg</name><desc>name=Elmenhorster Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/283292029</desc></wpt><wpt lat="54.1556466" lon="12.0587482"><name>Mecklenburger Allee</name><desc>name=Mecklenburger Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/283292032</desc></wpt><wpt lat="54.1394249" lon="12.0497036"><name>Warnowallee</name><desc>name=Warnowallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110733912
+id=node/283292035</desc></wpt><wpt lat="54.1023108" lon="12.1672209"><name>Dierkow-Zentrum</name><desc>name=Dierkow-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110751998
+id=node/283472559</desc></wpt><wpt lat="53.6452078" lon="11.3822217"><name>Büdnerstraße</name><desc>name=Büdnerstraße
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/286828941</desc></wpt><wpt lat="53.645461" lon="11.3814344"><name>Büdnerstraße</name><desc>name=Büdnerstraße
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/286828944</desc></wpt><wpt lat="53.6474694" lon="11.3766749"><name>Kieler Straße</name><desc>name=Kieler Straße
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=KIEL2
+tram=yes
+wheelchair=yes
+id=node/286828958</desc></wpt><wpt lat="53.6319782" lon="11.4067418"><name>Stadthaus</name><desc>bus=yes
+highway=bus_stop
+name=Stadthaus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/286846507</desc></wpt><wpt lat="53.6293774" lon="11.4037379"><name>Wittenburger Straße</name><desc>bus=yes
+highway=bus_stop
+name=Wittenburger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/286846508</desc></wpt><wpt lat="53.6333268" lon="11.4022457"><name>Platz der Freiheit</name><desc>name=Platz der Freiheit
+public_transport=stop_position
+railway=tram_stop
+ref=PDF1
+tram=yes
+wheelchair=yes
+id=node/286846509</desc></wpt><wpt lat="53.6001915" lon="11.4267745"><name>Ludwigsluster Chaussee</name><desc>name=Ludwigsluster Chaussee
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/292025843</desc></wpt><wpt lat="53.5953315" lon="11.4244083"><name>Haselholz</name><desc>name=Haselholz
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=HASE1
+tram=yes
+wheelchair=yes
+id=node/292025851</desc></wpt><wpt lat="53.5832967" lon="11.4002813"><name>Wüstmark</name><desc>name=Wüstmark
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/292025873</desc></wpt><wpt lat="53.575303" lon="11.3971288"><name>Heizkraftwerk</name><desc>name=Heizkraftwerk
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/292025877</desc></wpt><wpt lat="53.6064649" lon="11.4249954"><name>Gartenstadt</name><desc>name=Gartenstadt
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=GART2
+tram=yes
+wheelchair=yes
+id=node/292367706</desc></wpt><wpt lat="53.6136785" lon="11.4160939"><name>Ostorf</name><desc>name=Ostorf
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/292367711</desc></wpt><wpt lat="53.6383676" lon="11.3952119"><name>Robert-Beltz-Straße</name><desc>name=Robert-Beltz-Straße
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/292367732</desc></wpt><wpt lat="53.6414803" lon="11.3900037"><name>Friesensportplatz</name><desc>name=Friesensportplatz
+note=stadtauswärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/292367740</desc></wpt><wpt lat="53.5937878" lon="11.4165131"><name>Waldfriedhof</name><desc>name=Waldfriedhof
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=WALD2
+tram=yes
+wheelchair=yes
+id=node/292367787</desc></wpt><wpt lat="53.5708926" lon="11.388737"><name>Schwerin Süd</name><desc>name=Schwerin Süd
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/292367806</desc></wpt><wpt lat="53.5651373" lon="11.3826419"><name>Neu Pampow</name><desc>name=Neu Pampow
+note=Ankunft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/292367812</desc></wpt><wpt lat="53.5901615" lon="11.4047328"><name>Krebsförden</name><desc>name=Krebsförden
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/292367818</desc></wpt><wpt lat="53.6527208" lon="11.4063935"><name>Kliniken</name><desc>name=Kliniken
+note=Ankunft
+old_name=Nordstadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/292541010</desc></wpt><wpt lat="53.6034596" lon="11.4287283"><name>Stauffenbergstraße</name><desc>name=Stauffenbergstraße
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=STAU1,2
+tram=yes
+wheelchair=yes
+id=node/293280809</desc></wpt><wpt lat="53.6033392" lon="11.4335318"><name>Dreescher Markt</name><desc>name=Dreescher Markt
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=DRM1,2
+tram=yes
+wheelchair=yes
+id=node/293280812</desc></wpt><wpt lat="53.6019939" lon="11.4414787"><name>Zoo</name><desc>name=Zoo
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=ZOO1,2
+tram=yes
+wheelchair=yes
+id=node/293280814</desc></wpt><wpt lat="53.5996194" lon="11.4485886"><name>Berliner Platz</name><desc>name=Berliner Platz
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=BPL1,2
+tram=yes
+wheelchair=yes
+id=node/293280836</desc></wpt><wpt lat="53.6035704" lon="11.4256049"><name>Blumenbrink</name><desc>name=Blumenbrink
+public_transport=stop_position
+railway=tram_stop
+ref=BLUM2
+tram=yes
+wheelchair=yes
+id=node/293479729</desc></wpt><wpt lat="53.5871535" lon="11.4710542"><name>Hegelstraße</name><desc>name=Hegelstraße
+note=Ankunft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/293765977</desc></wpt><wpt lat="53.5955001" lon="11.4622341"><name>Leibnizstraße</name><desc>name=Leibnizstraße
+note=landwärts
+old_name=Am Fernsehturm
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/293765980</desc></wpt><wpt lat="53.5970932" lon="11.4566577"><name>Neu Zippendorf</name><desc>name=Neu Zippendorf
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/293765983</desc></wpt><wpt lat="53.5925349" lon="11.4675496"><name>Keplerstraße</name><desc>name=Keplerstraße
+network=Straßenbahn
+note=stadtwärts
+operator=Nahverkehr Schwerin GmbH
+public_transport=stop_position
+railway=tram_stop
+ref=2
+tram=yes
+wheelchair=yes
+id=node/293765987</desc></wpt><wpt lat="53.6486766" lon="11.362364"><name>Lankow-Siedlung</name><desc>name=Lankow-Siedlung
+note=Ankunft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/302046665</desc></wpt><wpt lat="53.6490717" lon="11.3626616"><name>Lankow-Siedlung</name><desc>name=Lankow-Siedlung
+note=Abfahrt
+public_transport=stop_position
+railway=tram_stop
+ref=LASI1
+tram=yes
+wheelchair=yes
+id=node/302046669</desc></wpt><wpt lat="53.6507186" lon="11.3666587"><name>Rahlstedter Straße</name><desc>name=Rahlstedter Straße
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=RAHL
+tram=yes
+wheelchair=yes
+id=node/302046671</desc></wpt><wpt lat="53.6504205" lon="11.3714196"><name>Eutiner Straße</name><desc>name=Eutiner Straße
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=EUTI
+tram=yes
+wheelchair=yes
+id=node/302046673</desc></wpt><wpt lat="53.6338977" lon="11.4024084"><name>Platz der Freiheit</name><desc>bus=yes
+highway=bus_stop
+name=Platz der Freiheit
+public_transport=stop_position
+railway=tram_stop
+ref=PDF2
+tram=yes
+wheelchair=yes
+id=node/315642016</desc></wpt><wpt lat="53.6204274" lon="11.4112493"><name>Bertha-Klingberg-Platz</name><desc>name=Bertha-Klingberg-Platz
+old_name=Am Schlossgarten
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/336743581</desc></wpt><wpt lat="53.6218051" lon="11.4089278"><name>Platz der Jugend</name><desc>bus=yes
+highway=bus_stop
+name=Platz der Jugend
+note=stadtwärts
+operator=Nahverkehr Schwerin (NVS)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1123735405</desc></wpt><wpt lat="53.6030014" lon="11.4257533"><name>Blumenbrink</name><desc>name=Blumenbrink
+public_transport=stop_position
+railway=tram_stop
+ref=BLUM1
+tram=yes
+wheelchair=yes
+id=node/1156346564</desc></wpt><wpt lat="53.5925792" lon="11.4674457"><name>Keplerstraße</name><desc>name=Keplerstraße
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346577</desc></wpt><wpt lat="53.5656266" lon="11.3830076"><name>Neu Pampow</name><desc>name=Neu Pampow
+note=Abfahrt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1156346600</desc></wpt><wpt lat="53.5757386" lon="11.3973498"><name>Heizkraftwerk</name><desc>name=Heizkraftwerk
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1156346601</desc></wpt><wpt lat="53.6504032" lon="11.3712587"><name>Eutiner Straße</name><desc>name=Eutiner Straße
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=EUTI
+tram=yes
+wheelchair=yes
+id=node/1156346603</desc></wpt><wpt lat="53.6470226" lon="11.3769454"><name>Kieler Straße</name><desc>name=Kieler Straße
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=KIEL1
+tram=yes
+wheelchair=yes
+id=node/1156346617</desc></wpt><wpt lat="53.5973958" lon="11.4557501"><name>Neu Zippendorf</name><desc>name=Neu Zippendorf
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346628</desc></wpt><wpt lat="53.6034245" lon="11.428568"><name>Stauffenbergstraße</name><desc>name=Stauffenbergstraße
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=STAU1,2
+tram=yes
+wheelchair=yes
+id=node/1156346649</desc></wpt><wpt lat="53.6451049" lon="11.4080254"><name>Lewenberg</name><desc>bus=yes
+name=Lewenberg
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346651</desc></wpt><wpt lat="53.6136805" lon="11.415951"><name>Ostorf</name><desc>name=Ostorf
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346665</desc></wpt><wpt lat="53.5954982" lon="11.4623731"><name>Leibnizstraße</name><desc>name=Leibnizstraße
+note=stadtwärts
+old_name=Am Fernsehturm
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/1156346680</desc></wpt><wpt lat="53.6523282" lon="11.4055003"><name>Kliniken</name><desc>name=Kliniken
+note=Abfahrt
+old_name=Nordstadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346687</desc></wpt><wpt lat="53.6001315" lon="11.4268557"><name>Ludwigsluster Chaussee</name><desc>name=Ludwigsluster Chaussee
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1156346688</desc></wpt><wpt lat="53.6506968" lon="11.3665399"><name>Rahlstedter Straße</name><desc>name=Rahlstedter Straße
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=RAHL
+tram=yes
+wheelchair=yes
+id=node/1156346708</desc></wpt><wpt lat="53.634304" lon="11.4091755"><name>Hauptbahnhof</name><desc>bus=yes
+highway=bus_stop
+name=Hauptbahnhof
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346730</desc></wpt><wpt lat="53.5996047" lon="11.4487527"><name>Berliner Platz</name><desc>name=Berliner Platz
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=BPL1,2
+tram=yes
+wheelchair=yes
+id=node/1156346749</desc></wpt><wpt lat="53.6019982" lon="11.4413474"><name>Zoo</name><desc>name=Zoo
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=ZOO1,2
+tram=yes
+wheelchair=yes
+id=node/1156346770</desc></wpt><wpt lat="53.641459" lon="11.3901093"><name>Friesensportplatz</name><desc>name=Friesensportplatz
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346791</desc></wpt><wpt lat="53.6284935" lon="11.4109063"><name>Marienplatz</name><desc>bus=yes
+highway=bus_stop
+name=Marienplatz
+note=nordwärts
+public_transport=stop_position
+railway=tram_stop
+ref=MPL2
+tram=yes
+wheelchair=yes
+id=node/1156346817</desc></wpt><wpt lat="53.5706035" lon="11.3879116"><name>Schwerin Süd</name><desc>name=Schwerin Süd
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1156346841</desc></wpt><wpt lat="53.6388145" lon="11.3944281"><name>Robert-Beltz-Straße</name><desc>name=Robert-Beltz-Straße
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346905</desc></wpt><wpt lat="53.6450152" lon="11.4080494"><name>Lewenberg</name><desc>bus=yes
+name=Lewenberg
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156346911</desc></wpt><wpt lat="53.6033134" lon="11.4333731"><name>Dreescher Markt</name><desc>name=Dreescher Markt
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=DRM1,2
+tram=yes
+wheelchair=yes
+id=node/1156346913</desc></wpt><wpt lat="53.5938342" lon="11.4166354"><name>Waldfriedhof</name><desc>name=Waldfriedhof
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=WALD1
+tram=yes
+wheelchair=yes
+id=node/1156346923</desc></wpt><wpt lat="53.587084" lon="11.4711508"><name>Hegelstraße</name><desc>name=Hegelstraße
+network=Straßenbahn
+note=Abfahrt, Richtung Altstadt, Einsteigshaltestelle
+operator=Nahverkehr Schwerin GmbH
+public_transport=stop_position
+railway=tram_stop
+ref=1
+tram=yes
+wheelchair=yes
+id=node/1156346949</desc></wpt><wpt lat="53.5829088" lon="11.4001046"><name>Wüstmark</name><desc>name=Wüstmark
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1156346956</desc></wpt><wpt lat="53.5955129" lon="11.4253413"><name>Haselholz</name><desc>name=Haselholz
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+ref=HASE2
+tram=yes
+id=node/1156347005</desc></wpt><wpt lat="53.6411652" lon="11.4087528"><name>Heinrich-Seidel-Straße</name><desc>bus=yes
+name=Heinrich-Seidel-Straße
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156347045</desc></wpt><wpt lat="53.590088" lon="11.4046942"><name>Krebsförden</name><desc>name=Krebsförden
+note=stadtwärts
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1156347056</desc></wpt><wpt lat="53.606543" lon="11.4249236"><name>Gartenstadt</name><desc>name=Gartenstadt
+note=landwärts
+public_transport=stop_position
+railway=tram_stop
+ref=GART1
+tram=yes
+wheelchair=yes
+id=node/1156347085</desc></wpt><wpt lat="54.1184373" lon="12.058859"><name>Bertolt-Brecht-Straße</name><desc>name=Bertolt-Brecht-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1530754911</desc></wpt><wpt lat="54.1194232" lon="12.0586255"><name>Bertolt-Brecht-Straße</name><desc>name=Bertolt-Brecht-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1530754920</desc></wpt><wpt lat="54.061659" lon="12.1172306"><name>node/1530754929</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530754929</desc></wpt><wpt lat="54.1022179" lon="12.1678758"><name>Dierkow-Zentrum</name><desc>name=Dierkow-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110751998
+id=node/1530754936</desc></wpt><wpt lat="54.0983243" lon="12.1569016"><name>Dierkower Damm</name><desc>name=Dierkower Damm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746256
+id=node/1530754944</desc></wpt><wpt lat="54.0986371" lon="12.156733"><name>Dierkower Damm</name><desc>name=Dierkower Damm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746256
+id=node/1530754952</desc></wpt><wpt lat="54.1216051" lon="12.0585113"><name>Ehm-Welk-Straße</name><desc>name=Ehm-Welk-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1530754995</desc></wpt><wpt lat="54.1513234" lon="12.058532"><name>Elmenhorster Weg</name><desc>name=Elmenhorster Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755005</desc></wpt><wpt lat="54.1484718" lon="12.0579486"><name>Eutiner Straße</name><desc>name=Eutiner Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1530755025</desc></wpt><wpt lat="54.1164999" lon="12.0613927"><name>Evershagen Süd</name><desc>bus=yes
+name=Evershagen Süd
+network=Verkehrsverbund Warnow
+network:short=VVW
+network:wikidata=Q2516492
+operator=Rostocker Straßenbahn AG
+operator:short=RSAG
+operator:wikidata=Q6718062
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755031</desc></wpt><wpt lat="54.1288212" lon="12.0573377"><name>node/1530755049</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755049</desc></wpt><wpt lat="54.1132578" lon="12.1443041"><name>Friedensforum</name><desc>name=Friedensforum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746250
+id=node/1530755056</desc></wpt><wpt lat="54.1133721" lon="12.1446835"><name>Friedensforum</name><desc>name=Friedensforum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746250
+id=node/1530755060</desc></wpt><wpt lat="54.0885169" lon="12.1496641"><name>Gerberbruch</name><desc>name=Gerberbruch
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755065</desc></wpt><wpt lat="54.1114261" lon="12.1374871"><name>Graf-Stauffenberg-Straße</name><desc>name=Graf-Stauffenberg-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746248
+id=node/1530755081</desc></wpt><wpt lat="54.1087452" lon="12.1360538"><name>Hafenallee</name><desc>name=Hafenallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q62526365
+id=node/1530755098</desc></wpt><wpt lat="54.0949915" lon="12.094006"><name>Heinrich-Schütz-Straße</name><desc>name=Heinrich-Schütz-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755124</desc></wpt><wpt lat="54.0951576" lon="12.0937774"><name>Heinrich-Schütz-Straße</name><desc>name=Heinrich-Schütz-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755137</desc></wpt><wpt lat="54.1324884" lon="12.0571195"><name>node/1530755141</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755141</desc></wpt><wpt lat="54.1062172" lon="12.1587787"><name>Hinrichsdorfer Straße</name><desc>name=Hinrichsdorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110748311
+id=node/1530755146</desc></wpt><wpt lat="54.092784" lon="12.1004722"><name>Holbeinplatz</name><desc>name=Holbeinplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755156</desc></wpt><wpt lat="54.1117693" lon="12.1511627"><name>Hölderlinweg</name><desc>name=Hölderlinweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746251
+id=node/1530755159</desc></wpt><wpt lat="54.0917791" lon="12.1127985"><name>Kabutzenhof</name><desc>name=Kabutzenhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110745790
+id=node/1530755176</desc></wpt><wpt lat="54.1007144" lon="12.1725955"><name>Katerweg</name><desc>name=Katerweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110752000
+id=node/1530755179</desc></wpt><wpt lat="54.0728161" lon="12.1079453"><name>Klinikum Süd</name><desc>name=Klinikum Süd
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+uic_ref=936273
+wheelchair=yes
+wikidata=Q62392976
+id=node/1530755188</desc></wpt><wpt lat="54.0996027" lon="12.086638"><name>Kunsthalle</name><desc>name=Kunsthalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110745803
+id=node/1530755200</desc></wpt><wpt lat="54.108877" lon="12.1652845"><name>Kurt-Schumacher-Ring</name><desc>name=Kurt-Schumacher-Ring
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q62526383
+id=node/1530755205</desc></wpt><wpt lat="54.0653021" lon="12.117291"><name>Lomonossowstraße</name><desc>name=Lomonossowstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q99738473
+id=node/1530755246</desc></wpt><wpt lat="54.1045359" lon="12.1601781"><name>Lorenzstraße</name><desc>name=Lorenzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110751997
+id=node/1530755252</desc></wpt><wpt lat="54.1379714" lon="12.0550831"><name>Lütten-Klein Zentrum</name><desc>name=Lütten-Klein Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110733914
+id=node/1530755266</desc></wpt><wpt lat="54.0697233" lon="12.1162839"><name>Majakowskistraße</name><desc>name=Majakowskistraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110751622
+id=node/1530755273</desc></wpt><wpt lat="54.1105036" lon="12.0806424"><name>node/1530755288</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1530755288</desc></wpt><wpt lat="54.109173" lon="12.155127"><name>Martin-Niemöller-Straße</name><desc>name=Martin-Niemöller-Straße
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+wikidata=Q110746253
+id=node/1530755293</desc></wpt><wpt lat="54.1093147" lon="12.1548258"><name>Martin-Niemöller-Straße</name><desc>name=Martin-Niemöller-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746253
+id=node/1530755300</desc></wpt><wpt lat="54.0929889" lon="12.1081233"><name>Maßmannstraße</name><desc>name=Maßmannstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+wikidata=Q110745793
+id=node/1530755318</desc></wpt><wpt lat="54.0741027" lon="12.103292"><name>Campus Südstadt</name><desc>name=Campus Südstadt
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+wikidata=Q50316690
+id=node/1530755322</desc></wpt><wpt lat="54.0830028" lon="12.107846"><name>node/1530755346</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755346</desc></wpt><wpt lat="54.0837961" lon="12.1092909"><name>node/1530755364</name><desc>bus=yes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530755364</desc></wpt><wpt lat="54.0929343" lon="12.15731"><name>Petridamm</name><desc>name=Petridamm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110746258
+id=node/1530755373</desc></wpt><wpt lat="54.1068871" lon="12.0787723"><name>Rahnstädter Weg</name><desc>name=Rahnstädter Weg
+network=VVW
+operator=Rostocker Straßenbahn AG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110739744
+id=node/1530770615</desc></wpt><wpt lat="54.1016413" lon="12.079446"><name>node/1530770625</name><desc>public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:13003:862:1:3
+tram=yes
+wheelchair=yes
+wikidata=Q62526396
+id=node/1530770625</desc></wpt><wpt lat="54.0720749" lon="12.1126423"><name>node/1530770630</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q110751811
+id=node/1530770630</desc></wpt><wpt lat="54.1451016" lon="12.0499279"><name>Rügener Straße</name><desc>name=Rügener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+wikidata=Q110733915
+id=node/1530770633</desc></wpt><wpt lat="54.1353007" lon="12.0571045"><name>node/1530770651</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530770651</desc></wpt><wpt lat="54.1359054" lon="12.0570203"><name>node/1530770663</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1530770663</desc></wpt><wpt lat="54.0722152" lon="12.1176708"><name>Südstadt-Center</name><desc>name=Südstadt-Center
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530770745</desc></wpt><wpt lat="54.124082" lon="12.0581701"><name>Thomas-Morus-Straße</name><desc>name=Thomas-Morus-Straße
+network=Verkehrsverbund Warnow
+network:short=VVW
+network:wikidata=Q2516492
+operator=Rostocker Straßenbahn AG
+operator:short=RSAG
+operator:wikidata=Q6718062
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530770750</desc></wpt><wpt lat="54.1419298" lon="12.0497398"><name>Turkuer Straße</name><desc>name=Turkuer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110733910
+id=node/1530770763</desc></wpt><wpt lat="54.0900607" lon="12.1183257"><name>Volkstheater</name><desc>name=Volkstheater
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110745787
+id=node/1530770766</desc></wpt><wpt lat="54.1391018" lon="12.0495785"><name>Warnowallee</name><desc>name=Warnowallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q110733912
+id=node/1530770783</desc></wpt><wpt lat="54.0798343" lon="12.088863"><name>node/1530770786</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1530770786</desc></wpt><wpt lat="54.1018655" lon="12.0789725"><name>Reutershagen</name><desc>name=Reutershagen
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:13003:862:1:8;de:13003:862:2:7
+tram=yes
+wikidata=Q62526396
+id=node/2487070131</desc></wpt><wpt lat="54.1039883" lon="12.1543877"><name>Dierkower Kreuz</name><desc>name=Dierkower Kreuz
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:13003:748:1:3
+tram=yes
+id=node/5082566751</desc></wpt><wpt lat="54.0793999" lon="12.0946675"><name>Dr.-Lorenz-Weg</name><desc>name=Dr.-Lorenz-Weg
+network=VVW
+operator=RSAG
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+wikidata=Q66759483
+id=node/5217764634</desc></wpt><wpt lat="53.6483058" lon="11.4067713"><name>Kinderzentrum</name><desc>name=Kinderzentrum
+network=Verkehrsgemeinschaft Westmecklenburg
+old_name:-2017=Am Friedensberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300163807</desc></wpt><wpt lat="53.6482978" lon="11.4067039"><name>Kinderzentrum</name><desc>name=Kinderzentrum
+network=Verkehrsgemeinschaft Westmecklenburg
+old_name:-2017=Am Friedensberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300163808</desc></wpt><wpt lat="53.6341151" lon="11.4091996"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300163810</desc></wpt><wpt lat="53.6249828" lon="11.4093081"><name>Schlossblick / IHK</name><desc>name=Schlossblick / IHK
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300163814</desc></wpt><wpt lat="53.6285644" lon="11.4108829"><name>Marienplatz</name><desc>name=Marienplatz
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300164559</desc></wpt><wpt lat="53.6341072" lon="11.4091294"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300164580</desc></wpt><wpt lat="53.6411787" lon="11.4088168"><name>Heinrich-Seidel-Straße</name><desc>name=Heinrich-Seidel-Straße
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300164598</desc></wpt><wpt lat="53.6450611" lon="11.4080045"><name>Lewenberg</name><desc>name=Lewenberg
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300164608</desc></wpt><wpt lat="53.6453382" lon="11.4079942"><name>Lewenberg</name><desc>name=Lewenberg
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300164653</desc></wpt><wpt lat="53.6283477" lon="11.4109402"><name>Marienplatz</name><desc>name=Marienplatz
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300164706</desc></wpt><wpt lat="53.6251138" lon="11.4094258"><name>Schlossblick / IHK</name><desc>name=Schlossblick / IHK
+network=Verkehrsgemeinschaft Westmecklenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5300164718</desc></wpt><wpt lat="54.0823182" lon="12.1409231"><name>node/7783719913</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7783719913</desc></wpt><wpt lat="54.082565" lon="12.141144"><name>node/7909223667</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7909223667</desc></wpt><wpt lat="54.112586" lon="12.0780215"><name>Depot 12</name><desc>description:de=nur für Sonderfahrten
+name=Depot 12
+operator=RSAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/10142496077</desc></wpt><wpt lat="54.0916358" lon="12.1525115"><name>Stadthafen</name><desc>name=Stadthafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/12509528379</desc></wpt><wpt lat="53.6336464" lon="11.4023158"><name>Platz der Freiheit</name><desc>highway=bus_stop
+name=Platz der Freiheit
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/12685474772</desc></wpt><trk><name>Dierkower Allee</name><desc>area=yes
+bench=yes
+bin=yes
+lit=yes
+name=Dierkower Allee
+public_transport=platform
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+wheelchair=yes
+id=way/139659330</desc><trkseg><trkpt lat="54.1044982" lon="12.1796108"/><trkpt lat="54.1044816" lon="12.1795827"/><trkpt lat="54.1041491" lon="12.1801598"/><trkpt lat="54.1041657" lon="12.1801879"/><trkpt lat="54.1043333" lon="12.1798941"/><trkpt lat="54.1044982" lon="12.1796108"/></trkseg></trk><trk><name>Dierkower Allee</name><desc>area=yes
+bench=yes
+bin=yes
+lit=yes
+name=Dierkower Allee
+public_transport=platform
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+wheelchair=yes
+id=way/139659398</desc><trkseg><trkpt lat="54.1044421" lon="12.1794599"/><trkpt lat="54.10443" lon="12.1794527"/><trkpt lat="54.104424" lon="12.1794492"/><trkpt lat="54.1044122" lon="12.1794877"/><trkpt lat="54.1043966" lon="12.1795221"/><trkpt lat="54.1043713" lon="12.1795782"/><trkpt lat="54.1041826" lon="12.1798968"/><trkpt lat="54.1040729" lon="12.1800939"/><trkpt lat="54.1040807" lon="12.1801068"/><trkpt lat="54.1040892" lon="12.180121"/><trkpt lat="54.1043959" lon="12.17959"/><trkpt lat="54.1044121" lon="12.1795488"/><trkpt lat="54.1044289" lon="12.179511"/><trkpt lat="54.1044421" lon="12.1794599"/></trkseg></trk></gpx>

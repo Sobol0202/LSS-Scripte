@@ -1,0 +1,3479 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="54.0877799" lon="12.1034335"><name>Ostseesparkasse - Schillingallee</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=27
+addr:postcode=18057
+addr:street=Schillingallee
+addr:suburb=Hansaviertel
+amenity=bank
+check_date=2025-06-24
+check_date:opening_hours=2025-06-24
+name=Ostseesparkasse - Schillingallee
+opening_hours=Mo-Fr 09:00-12:30, Tu,Th 02:00-18:00
+wheelchair=yes
+id=node/247806378</desc></wpt><wpt lat="53.6807241" lon="14.0777752"><name>Sparkasse Uecker-Randow</name><desc>amenity=bank
+name=Sparkasse Uecker-Randow
+opening_hours=Mo,We,Fr 09:00-12:00; Tu,Th 14:00-18:00
+id=node/248854274</desc></wpt><wpt lat="53.558697" lon="13.2671628"><name>Commerzbank</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=52b
+addr:postcode=17033
+addr:street=Friedrich-Engels-Ring
+amenity=bank
+atm=yes
+brand=Commerzbank
+brand:wikidata=Q157617
+brand:wikipedia=de:Commerzbank
+contact:website=https://www.commerzbank.de/filialen/de/Neubrandenburg
+drive_through=no
+name=Commerzbank
+opening_hours=Mo-Fr 09:00-13:00; Mo,Tu,Th 14:00-18:00
+operator=Commerzbank
+wheelchair=yes
+id=node/251500616</desc></wpt><wpt lat="53.5560022" lon="13.2674924"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+operator=Deutsche Bank
+wheelchair=yes
+id=node/251501782</desc></wpt><wpt lat="53.5195525" lon="12.7151445"><name>node/257568718</name><desc>amenity=bank
+operator=Volksbank
+wheelchair=yes
+id=node/257568718</desc></wpt><wpt lat="53.6510054" lon="12.2668761"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Volks- und Raiffeisenbank
+opening_hours=Mo-Su 05:00-24:00
+self_service=only
+id=node/268422722</desc></wpt><wpt lat="53.651849" lon="12.2665453"><name>Sparkasse</name><desc>amenity=bank
+brand=Sparkasse
+check_date:opening_hours=2022-06-06
+name=Sparkasse
+opening_hours=Mo-Fr 09:00-12:30, Tu,Th 14:00-18:00
+operator=Ostseesparkasse Rostock
+wheelchair=yes
+id=node/268422724</desc></wpt><wpt lat="54.0772811" lon="13.9101309"><name>Sparkasse</name><desc>addr:city=Zinnowitz
+addr:country=DE
+addr:housenumber=45
+addr:postcode=17454
+addr:street=Neue Strandstraße
+amenity=bank
+atm=yes
+check_date=2023-07-29
+name=Sparkasse
+opening_hours=Mo-Fr 08:30-13:00, Mo 14:00-16:00; Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/272455577</desc></wpt><wpt lat="54.0535888" lon="13.9976228"><name>Volksbank</name><desc>addr:city=Koserow
+addr:country=DE
+addr:housenumber=64
+addr:postcode=17459
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+name=Volksbank
+opening_hours=Mo 08:00-12:30; Tu 12:00-16:00; We 08:00-12:30; Th 14:00-18:00; Fr 08:00-12:30
+operator=Volksbank Wolgast eG
+phone=+49 38375 21971
+wheelchair=yes
+id=node/275429590</desc></wpt><wpt lat="53.9711268" lon="14.1431387"><name>Sparkasse</name><desc>amenity=bank
+check_date=2023-08-01
+last_check=2016-12-03
+name=Sparkasse
+opening_hours=Mo, Fr 08:30-12:30; Tu, Th 08:30-12:30, 14:00-18:00 || "Beratung gern auch Außerhalb der Öffnungszeiten nach Vereinbarung"
+operator=Sparkasse Vorpommern
+wheelchair=no
+id=node/275435958</desc></wpt><wpt lat="53.631429" lon="11.3287454"><name>V+R Bank</name><desc>amenity=bank
+name=V+R Bank
+id=node/276901175</desc></wpt><wpt lat="53.890907" lon="11.4660253"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+bic=DEUTDEDB148
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+fax=+49 3841 2422-15
+name=Deutsche Bank
+opening_hours=Mo,We,Fr 09:00-13:00; Tu,Th 09:00-13:00,14:00-18:00
+operator=Deutsche Bank
+phone=+49 3841 2422-0
+website=https://www.deutsche-bank.de/pk.html
+wheelchair=no
+id=node/278049217</desc></wpt><wpt lat="53.8909437" lon="11.4655517"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+bic=NOLADE21WIS
+check_date=2023-07-26
+fax=+49 3841 240-195
+name=Sparkasse
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; We,Fr 09:00-13:00
+operator=Nord/LB
+phone=+49 3841 240-333
+website=https://www.spk-mecklenburg-nordwest.de
+wheelchair=yes
+id=node/278049219</desc></wpt><wpt lat="53.8906435" lon="11.4666917"><name>Volks- und Raiffeisenbank Wismar</name><desc>amenity=bank
+atm=yes
+bic=GENODEF1HWI
+fax=+49 3841 440-151
+name=Volks- und Raiffeisenbank Wismar
+opening_hours=Mo,Tu,Th 09:00-18:00; We,Fr 09:00-12:30
+operator=Genossenschaftsverband
+phone=+49 3841 440-0
+wheelchair=yes
+id=node/278850302</desc></wpt><wpt lat="54.0539637" lon="13.7777993"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+opening_hours=Mo 09:30-13:00, 14:00-16:00; Tu-Th 08:30-13:00, 14:00-18:00; We, Fr 08:00-13:00
+wheelchair=yes
+id=node/282421597</desc></wpt><wpt lat="54.0561242" lon="13.760279"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/282496333</desc></wpt><wpt lat="53.2967095" lon="11.0845452"><name>Sparkasse</name><desc>amenity=bank
+atm=no
+name=Sparkasse
+opening_hours=Mo-Fr 09:00-13:00; Mo, Fr 14:00-16:00; Tu, Th 14:00-18:00
+operator=Sparkasse Mecklenburg-Schwerin
+id=node/283191855</desc></wpt><wpt lat="54.291227" lon="12.3536283"><name>Sparkasse</name><desc>addr:city=Dierhagen
+addr:country=DE
+addr:housenumber=31
+addr:postcode=18347
+addr:street=Strandstraße
+amenity=bank
+atm=yes
+name=Sparkasse
+name:de=Sparkasse Vorpommern
+name:en=Sparkasse Vorpommern
+opening_hours=Tu 08:30-12:30; Th 14:00-18:00
+operator=Sparkasse
+phone=+49 3834 557788
+wheelchair=yes
+id=node/288376727</desc></wpt><wpt lat="54.4547662" lon="13.2579138"><name>Pommersche Volksbank</name><desc>addr:city=Gingst
+addr:housenumber=18
+addr:postcode=18569
+addr:street=Karl-Marx-Straße
+amenity=bank
+atm=yes
+name=Pommersche Volksbank
+phone=+49 38305 225
+wheelchair=limited
+id=node/289120865</desc></wpt><wpt lat="53.776276" lon="12.5649302"><name>Ostseesparkasse</name><desc>amenity=bank
+name=Ostseesparkasse
+id=node/292060648</desc></wpt><wpt lat="53.7703837" lon="12.5740245"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Raiffeisenbank
+opening_hours=Mo-Th 09:00-12:30, Tu,Th 16:00-18:00
+id=node/295477557</desc></wpt><wpt lat="53.7738474" lon="12.5750822"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+bic=DEUTDEFF
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+operator=Deutsche Bank
+wheelchair=yes
+id=node/295477780</desc></wpt><wpt lat="54.1764591" lon="12.0840601"><name>Ostseesparkasse</name><desc>amenity=bank
+check_date=2024-05-23
+name=Ostseesparkasse
+opening_hours=Mo,Th,Th 09:00-12:30,14:00-18:00; We,Fr 09:00-12:30 || "auf Wunsch auch außerhalb Öffnungszeiten"
+operator=Ostseesparkasse Rostock
+website=https://banking.ospa.de/cgi/anfang.cgi
+wheelchair=yes
+id=node/299012425</desc></wpt><wpt lat="53.2745025" lon="12.8152367"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+wheelchair=yes
+id=node/305988513</desc></wpt><wpt lat="53.6101313" lon="12.4281782"><name>Müritz Sparkasse</name><desc>amenity=bank
+name=Müritz Sparkasse
+operator=Sparkasse
+source=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Filialdirektion_roebel6.html
+id=node/307774938</desc></wpt><wpt lat="53.8478761" lon="11.9830096"><name>Sparkasse OSPA</name><desc>addr:city=Bützow
+addr:country=DE
+addr:housenumber=35
+addr:postcode=18246
+addr:street=Langestraße
+amenity=bank
+atm=yes
+check_date=2023-04-28
+name=Sparkasse OSPA
+opening_hours=Mo-Fr 09:00-12:30, Mo,Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/310250778</desc></wpt><wpt lat="53.555748" lon="13.2671745"><name>Commerzbank</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=52b
+addr:postcode=17033
+addr:street=Friedrich-Engels-Ring
+amenity=bank
+atm=yes
+brand=Commerzbank
+brand:wikidata=Q157617
+brand:wikipedia=en:Commerzbank
+cash_in=yes
+contact:website=https://www.commerzbank.de/filialen/de/Neubrandenburg
+drive_through=no
+name=Commerzbank
+operator=Commerzbank AG
+wheelchair=yes
+id=node/311553785</desc></wpt><wpt lat="54.3111476" lon="13.0871124"><name>Postbank</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=4
+addr:postcode=18439
+addr:street=Neuer Markt
+amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+brand:wikipedia=de:Postbank
+check_date=2025-07-05
+check_date:opening_hours=2025-07-05
+name=Postbank
+opening_hours=Mo,Tu 09:00-18:00; We-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00
+operator=Postbank
+wheelchair=no
+id=node/314397586</desc></wpt><wpt lat="54.3601073" lon="13.7051488"><name>Pommersche Volksbank</name><desc>amenity=bank
+atm=yes
+name=Pommersche Volksbank
+opening_hours=Mo-Su,PH 00:00-24:00+
+wheelchair=no
+id=node/319089436</desc></wpt><wpt lat="53.3352474" lon="13.4391345"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/322973663</desc></wpt><wpt lat="54.3686793" lon="12.7251069"><name>Sparkasse Vorpommern</name><desc>addr:city=Barth
+addr:country=DE
+addr:housenumber=2-4
+addr:postcode=18356
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+fax=+49 38231 63200
+name=Sparkasse Vorpommern
+opening_hours=Mo 08:30-16:00; Tu,Th 08:30-18:00; We,Fr 08:30-13:00
+phone=+49 38231 630
+wheelchair=yes
+id=node/330097310</desc></wpt><wpt lat="54.3113406" lon="13.0876637"><name>Sparkasse Vorpommern</name><desc>amenity=bank
+atm=yes
+check_date=2023-07-21
+name=Sparkasse Vorpommern
+opening_hours=Mo-Fr 08:30-13:00, Tu,Th 14:00-18:00, Mo 14:00-16:00
+operator=Sparkasse Vorpommern
+wheelchair=yes
+id=node/332629785</desc></wpt><wpt lat="54.3131527" lon="13.0879112"><name>Pommersche Volksbank</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=24
+addr:postcode=18439
+addr:street=Mönchstraße
+amenity=bank
+atm=yes
+name=Pommersche Volksbank
+opening_hours=Mo-Fr 08:30-12:30, Tu,Th 14:00-18:00, Mo 14:00-16:00
+operator=Pommersche Volksbank
+source=survey, photo
+wheelchair=yes
+id=node/332644511</desc></wpt><wpt lat="54.0710611" lon="12.1168221"><name>node/334344403</name><desc>amenity=bank
+fax=+49 381 643 66 12 08
+opening_hours=Mo 09:00-12:30, 14:00-18:00; Tu 09:00-12:30, 14:00-18:00; Th 09:00-12:30, 14:00-18:00; We 09:00-12:30; Fr 09:00-12:30; Ph off
+operator=OSPA
+phone=+49 381 643 0
+website=https://www.ospa.de/
+wheelchair=yes
+id=node/334344403</desc></wpt><wpt lat="54.0503509" lon="13.7650977"><name>Volksbank</name><desc>amenity=bank
+check_date=2023-11-26
+name=Volksbank
+wheelchair=yes
+id=node/335472782</desc></wpt><wpt lat="53.938326" lon="13.4093842"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+source=survey
+id=node/335638102</desc></wpt><wpt lat="53.8858298" lon="13.6796371"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+id=node/335664054</desc></wpt><wpt lat="53.8563177" lon="13.6886018"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+check_date:opening_hours=2025-05-02
+name=Raiffeisenbank
+opening_hours=Mo,We-Fr 08:30-12:00; Tu 14:00-17:00
+wheelchair=yes
+id=node/335681411</desc></wpt><wpt lat="53.8728903" lon="13.9205541"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+source=survey, photo
+id=node/336100930</desc></wpt><wpt lat="53.8721842" lon="13.9206285"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/336116998</desc></wpt><wpt lat="54.0889393" lon="12.1438663"><name>Ostseesparkasse Rostock (OSPA)</name><desc>amenity=bank
+name=Ostseesparkasse Rostock (OSPA)
+opening_hours=Mo, We, Fr 09:00-12:30; Tu, Th 09:00-12:30, 14:00-18:00
+operator=Ostseesparkasse
+wheelchair=yes
+id=node/337962078</desc></wpt><wpt lat="54.0265392" lon="12.468026"><name>Ostseesparkasse Rostock</name><desc>amenity=bank
+atm=yes
+name=Ostseesparkasse Rostock
+id=node/338218204</desc></wpt><wpt lat="54.1764418" lon="12.0847946"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+check_date=2024-07-08
+name=Volks- und Raiffeisenbank
+operator=Rostocker Volks- und Raiffeisenbank eG Zwst. Rostock-Warnemünde
+wheelchair=limited
+id=node/342262925</desc></wpt><wpt lat="54.0961971" lon="13.3810949"><name>Deutsche Bank</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=2
+addr:postcode=17489
+addr:street=Markt
+amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+check_date:opening_hours=2024-09-15
+fax=+49 3834 8957 200
+name=Deutsche Bank
+opening_hours=Mo-Fr 09:00-13:00
+phone=+49 3834 8957 0
+ref=707
+source=survey, photo
+wheelchair=yes
+id=node/344332127</desc></wpt><wpt lat="54.0962276" lon="13.3819188"><name>Commerzbank</name><desc>amenity=bank
+atm=yes
+brand=Commerzbank
+brand:wikidata=Q157617
+brand:wikipedia=de:Commerzbank
+fax=+49 3834 5799 99
+name=Commerzbank
+opening_hours=Mo-Fr 09:00-13:00, Mo,Tu,Th 14:00-16:00
+phone=+49 3834 5799 0
+source=survey, photo
+wheelchair=no
+id=node/344332129</desc></wpt><wpt lat="54.0960314" lon="13.3822501"><name>Sparkasse Vorpommern</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=10
+addr:postcode=17489
+addr:street=Markt
+amenity=bank
+atm=yes
+check_date:opening_hours=2024-07-26
+fax=+49 3834 7716 27
+name=Sparkasse Vorpommern
+opening_hours=Mo 08:30-13:00,14:00-16:00; Tu,Th 08:30-13:00,14:00-18:00; We,Fr 08:30-13:00
+phone=+49 3834 7716 0
+wheelchair=yes
+id=node/344383143</desc></wpt><wpt lat="54.0955508" lon="13.3821361"><name>Volksbank</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=14
+addr:postcode=17489
+addr:street=Markt
+amenity=bank
+atm=yes
+check_date:opening_hours=2024-08-22
+fax=+493834 547 333
+name=Volksbank
+opening_hours=Mo,We-Fr 08:30-12:00; Tu 14:00-17:00
+phone=+493834 547 0
+source=survey, photo
+website=https://www.vr.de/filialen/G/VolksbankRaiffeisenbankeGHauptgeschaeftsstelle.html
+wheelchair=no
+id=node/344383146</desc></wpt><wpt lat="54.0954047" lon="13.3821036"><name>Postbank</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=12
+addr:postcode=17489
+addr:street=Mühlenstraße
+amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+brand:wikipedia=de:Postbank
+check_date=2024-08-22
+check_date:opening_hours=2024-08-22
+name=Postbank
+opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-12:00
+source=survey, photo
+toilets:wheelchair=no
+wheelchair=yes
+id=node/344383147</desc></wpt><wpt lat="54.3703637" lon="13.023802"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+opening_hours=Mo,Th 08:30-12:30, Mo 14:00-16:30, Th 14:00-18:00
+wheelchair=yes
+id=node/349323727</desc></wpt><wpt lat="54.0875531" lon="12.1404917"><name>Sparda-Bank Berlin</name><desc>amenity=bank
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=de:Sparda-Bank Berlin
+contact:website=http://www.sparda-b.de
+name=Sparda-Bank Berlin
+opening_hours=Mo, Tu, Th 08:30-13:00, 14:00-18:00; We, Fr 08:30-13:00
+operator=Sparda-Bank Berlin eG
+wheelchair=limited
+id=node/357910374</desc></wpt><wpt lat="53.6341716" lon="11.4016411"><name>Sparkasse Mecklenburg-Schwerin</name><desc>amenity=bank
+atm=yes
+description:covid19=Schalter sind geschlossen aber die Automaten sind in Betrieb
+name=Sparkasse Mecklenburg-Schwerin
+opening_hours=Mo-Su 05:00-23:00
+opening_hours:covid19=off
+wheelchair=yes
+id=node/364139555</desc></wpt><wpt lat="53.6289918" lon="11.4106448"><name>Deutsche Bank</name><desc>amenity=bank
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+check_date=2023-11-11
+level=1
+name=Deutsche Bank
+wheelchair=limited
+id=node/365143369</desc></wpt><wpt lat="53.5160304" lon="12.6857117"><name>Müritz-Sparkasse</name><desc>addr:city=Waren (Müritz)
+addr:country=DE
+addr:housenumber=10
+addr:postcode=17192
+addr:street=Friedensstraße
+amenity=bank
+atm=yes
+contact:website=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Hauptgeschaeftsstelle.html
+name=Müritz-Sparkasse
+wheelchair=limited
+id=node/368237117</desc></wpt><wpt lat="53.6299597" lon="14.0104911"><name>Sparkasse Uecker-Randow</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Uecker-Randow
+opening_hours=Mo-Fr 08:30-12:00, Mo 14:00-16:00, Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/369075398</desc></wpt><wpt lat="53.8915987" lon="11.4669443"><name>Commerzbank</name><desc>amenity=bank
+atm=yes
+bic=COBADEFF131
+brand=Commerzbank
+brand:wikidata=Q157617
+brand:wikipedia=de:Commerzbank
+fax=+49 3841 480323
+name=Commerzbank
+opening_hours=Tu,Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00
+operator=Commerzbank
+phone=+49 3841 48030
+wheelchair=no
+id=node/371236730</desc></wpt><wpt lat="53.3249567" lon="11.4968626"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; We,Fr 09:00-13:00
+wheelchair=no
+id=node/373470567</desc></wpt><wpt lat="53.3242998" lon="11.4961089"><name>Volksbank</name><desc>addr:city=Ludwigslust
+addr:country=DE
+addr:housenumber=49
+addr:postcode=19288
+addr:street=Schloßstraße
+amenity=bank
+atm=yes
+name=Volksbank
+operator=VR-Bank eG
+wheelchair=limited
+id=node/373470570</desc></wpt><wpt lat="53.8060536" lon="12.1864723"><name>Ostsee-Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Ostsee-Sparkasse
+opening_hours=Mo-Fr 09:00-12:30, Mo,Tu,Th 14:00-18:00
+operator=Sparkasse
+wheelchair=yes
+id=node/373836344</desc></wpt><wpt lat="53.8920204" lon="11.4648493"><name>Sparda-Bank Berlin</name><desc>amenity=bank
+atm=yes
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=de:Sparda-Bank Berlin
+name=Sparda-Bank Berlin
+opening_hours=Th 09:00-13:00,14:00-18:00
+operator=Sparda-Bank
+wheelchair=no
+id=node/383204242</desc></wpt><wpt lat="53.8933345" lon="11.4650622"><name>Santander</name><desc>addr:city=Wismar
+addr:country=DE
+addr:housenumber=25
+addr:postcode=23966
+addr:street=Krämerstraße
+amenity=bank
+brand=Santander
+brand:wikidata=Q875292
+name=Santander
+old_name=Santander Consumer Bank
+opening_hours=Mo,We 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; Fr 09:00-14:00
+id=node/383206718</desc></wpt><wpt lat="53.7944616" lon="12.1748429"><name>Postbank</name><desc>amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+opening_hours=Mo-Fr 09:30-13:00,14:00-17:30; Sa 09:00-12:00
+id=node/387263643</desc></wpt><wpt lat="54.3048828" lon="13.0716973"><name>Sparkasse Vorpommern</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=138
+addr:postcode=18437
+addr:street=Carl-Heydemann-Ring
+amenity=bank
+name=Sparkasse Vorpommern
+wheelchair=yes
+id=node/392658249</desc></wpt><wpt lat="53.5530306" lon="10.915229"><name>Sparkasse Mecklenburg-Schwerin Zweigstelle Zarrentin</name><desc>addr:city=Zarrentin am Schaalsee
+addr:country=DE
+addr:housenumber=1-1 a
+addr:postcode=19246
+addr:street=Breite Straße
+amenity=bank
+atm=yes
+check_date=2023-04-07
+name=Sparkasse Mecklenburg-Schwerin Zweigstelle Zarrentin
+opening_hours=Tu 09:00-13:00,14:00-18:00; Mo,We,Th off; Fr 09:00-13:00
+website=https://www.sparkasse.de/standorte/filialen/sparkasse-mecklenburg-schwerin-zweigstelle-zarrentin-113019
+wheelchair=yes
+id=node/410828219</desc></wpt><wpt lat="53.4756222" lon="12.4252934"><name>Müritz-Sparkasse</name><desc>addr:city=Malchow
+addr:country=DE
+addr:housenumber=18-20
+addr:postcode=17213
+addr:street=Güstrower Straße
+amenity=bank
+atm=yes
+contact:website=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Filialdirektion_roebel4.html
+name=Müritz-Sparkasse
+opening_hours=Mo-Fr 08:30-12:30, Mo,Fr 13:30-16:00; Tu,Th 13:30-18:00
+wheelchair=yes
+id=node/411853847</desc></wpt><wpt lat="53.6319892" lon="11.4171666"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+check_date=2023-08-26
+name=Sparkasse
+opening_hours=Mo-Su 05:00-23:00
+wheelchair=limited
+id=node/414075956</desc></wpt><wpt lat="53.6277471" lon="11.4122103"><name>Commerzbank</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=32
+addr:postcode=19053
+addr:street=Schloßstraße
+amenity=bank
+atm=yes
+brand=Commerzbank
+brand:wikidata=Q157617
+brand:wikipedia=en:Commerzbank
+check_date:opening_hours=2025-07-04
+name=Commerzbank
+opening_hours=Mo-Fr 09:00-13:00, Mo 14:00-16:00, Tu,Th 14:30-18:00
+phone=+49 385 590000
+toilets:wheelchair=no
+website=https://www.commerzbank.de/filialen/de/Schwerin
+wheelchair=yes
+wheelchair:description=Der Zugang für Rollstuhlfahrer erfolgt über den Eingang in der Mecklenburgstraße
+id=node/414076011</desc></wpt><wpt lat="53.3017497" lon="11.0826503"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Raiffeisenbank
+operator=Raiffeisenbank
+wheelchair=yes
+id=node/414681280</desc></wpt><wpt lat="53.9424196" lon="14.1879226"><name>Sparkasse</name><desc>addr:city=Heringsdorf
+addr:country=DE
+addr:housenumber=17
+addr:postcode=17419
+addr:street=Seestraße
+addr:suburb=Ahlbeck
+amenity=bank
+atm=yes
+check_date:opening_hours=2024-06-15
+name=Sparkasse
+opening_hours=Mo-Fr 08:30-13:00, Mo 14:00-16:00, Tu,Th 14:00-18:00
+id=node/414978890</desc></wpt><wpt lat="54.1342673" lon="12.0689448"><name>OstseeSparkasse Rostock</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=58
+addr:postcode=18106
+addr:street=Kolumbusring
+addr:suburb=Schmarl
+amenity=bank
+check_date=2020-03-15
+name=OstseeSparkasse Rostock
+opening_hours=Mo-Fr 09:00-12:30, Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/418116852</desc></wpt><wpt lat="53.5137282" lon="12.688971"><name>VR-Bank</name><desc>amenity=bank
+atm=yes
+check_date:opening_hours=2022-09-06
+name=VR-Bank
+opening_hours=Mo-Su 00:00+
+wheelchair=limited
+id=node/418842930</desc></wpt><wpt lat="53.7952972" lon="12.1621952"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+operator=Sparkasse
+id=node/427766520</desc></wpt><wpt lat="53.7953865" lon="12.1737454"><name>Sparda-Bank Berlin</name><desc>addr:city=Güstrow
+addr:country=DE
+addr:housenumber=28
+addr:postcode=18273
+addr:street=Pferdemarkt
+amenity=bank
+atm=yes
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=en:Sparda-Bank
+drive_through=no
+name=Sparda-Bank Berlin
+opening_hours=Tu,Th 09:00-13:00,14:00-18:00
+wheelchair=yes
+id=node/428657125</desc></wpt><wpt lat="53.3301094" lon="12.722364"><name>Müritz-Sparkasse</name><desc>addr:city=Rechlin
+addr:country=DE
+addr:housenumber=8
+addr:postcode=17248
+addr:street=Neuer Markt
+amenity=bank
+atm=yes
+contact:website=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Filialdirektion_roebel5.html
+name=Müritz-Sparkasse
+id=node/430966226</desc></wpt><wpt lat="53.8902142" lon="11.4658381"><name>Sparkasse Mecklenburg-Nordwest</name><desc>amenity=bank
+name=Sparkasse Mecklenburg-Nordwest
+id=node/432809615</desc></wpt><wpt lat="54.0813384" lon="13.4184816"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+opening_hours=Mo-Fr 08:30-13:00, Mo 14:00-16:00, Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/433322111</desc></wpt><wpt lat="54.3792089" lon="13.6936715"><name>Sparkasse Vorpommern Filiale Sellin</name><desc>addr:city=Sellin
+addr:country=DE
+addr:housenumber=8
+addr:postcode=18586
+addr:street=August-Bebel-Straße
+amenity=bank
+check_date=2023-10-02
+fax=+49 38303 86073
+name=Sparkasse Vorpommern Filiale Sellin
+opening_hours=Oct- Mar: Mo, Th 08:30-12:30; Tu 14:00-18:00; Apr- Sep: Mo, We, Th 08:30-12:30; Tu 14:00-18:00
+operator=Sparkasse Rügen
+phone=+49 38303 87411
+wheelchair=yes
+id=node/439851458</desc></wpt><wpt lat="53.7803195" lon="12.1760881"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/445998352</desc></wpt><wpt lat="53.4329983" lon="11.1951223"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Raiffeisenbank
+opening_hours=Mo-Fr 08:30-12:30, Mo,Tu,Fr 14:00-16:00, Th 14:00-18:00
+phone=+49 3883 640-0
+wheelchair=yes
+id=node/451698405</desc></wpt><wpt lat="53.5521797" lon="11.5018462"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Raiffeisenbank
+id=node/458748379</desc></wpt><wpt lat="53.2819941" lon="12.969147"><name>Sparkasse</name><desc>addr:city=Wesenberg
+addr:country=DE
+addr:housenumber=11
+addr:postcode=17255
+addr:street=Mittelstraße
+amenity=bank
+name=Sparkasse
+opening_hours=Mo-Fr 09:00-12:30, Mo,Tu,Th 13:30-16:00
+wheelchair=yes
+id=node/459208486</desc></wpt><wpt lat="53.9735628" lon="13.1296992"><name>Sparkasse Neubrandenburg-Demmin</name><desc>addr:city=Loitz
+addr:country=DE
+addr:housenumber=1
+addr:postcode=17121
+addr:street=Am Postberg
+amenity=bank
+atm=yes
+drive_through=no
+name=Sparkasse Neubrandenburg-Demmin
+wheelchair=yes
+id=node/459646327</desc></wpt><wpt lat="53.9686967" lon="12.7106433"><name>Raiffeisenbank</name><desc>addr:city=Gnoien
+addr:country=DE
+addr:housenumber=36
+addr:postcode=17179
+addr:street=Friedenstraße
+amenity=bank
+atm=yes
+name=Raiffeisenbank
+wheelchair=yes
+id=node/468059534</desc></wpt><wpt lat="53.5095541" lon="12.6990227"><name>Müritz-Sparkasse</name><desc>addr:city=Waren (Müritz)
+addr:country=DE
+addr:housenumber=30b
+addr:postcode=17192
+addr:street=Rosa-Luxemburg-Straße
+amenity=bank
+atm=yes
+name=Müritz-Sparkasse
+opening_hours=Mo-We,Fr 08:30-12:30, Th 09:00-12:30, Mo,Fr 13:30-16:00, Tu,Th 13:30-18:00
+website=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Filialdirektion_roebel2.html?
+wheelchair=limited
+id=node/470209230</desc></wpt><wpt lat="54.4354265" lon="12.6869389"><name>Pommersche Volksbank</name><desc>amenity=bank
+atm=yes
+name=Pommersche Volksbank
+opening_hours=Mo,Fr 08:30-12:30
+id=node/470361248</desc></wpt><wpt lat="53.8823738" lon="10.8596815"><name>Sparkasse Mecklenburg-Nordwest</name><desc>addr:city=Selmsdorf
+addr:housenumber=6
+addr:street=Straße der Freiheit
+amenity=bank
+atm=no
+branch=Geschäftsstelle Selmsdorf
+brand=Sparkasse
+name=Sparkasse Mecklenburg-Nordwest
+operator=Sparkasse Mecklenburg-Nordwest
+id=node/473189992</desc></wpt><wpt lat="54.1484841" lon="11.759064"><name>VR Bank</name><desc>amenity=bank
+atm=yes
+name=VR Bank
+wheelchair=no
+id=node/473491387</desc></wpt><wpt lat="53.4751449" lon="12.42267"><name>Raiffeisenbank</name><desc>addr:city=Malchow
+addr:country=DE
+addr:housenumber=30
+addr:postcode=17213
+addr:street=Kirchenstraße
+amenity=bank
+atm=yes
+name=Raiffeisenbank
+opening_hours=Mo,Tu,Th 09:00-12:30, Th 16:00-18:00
+id=node/485201292</desc></wpt><wpt lat="53.5141047" lon="12.6851309"><name>Commerzbank</name><desc>addr:city=Waren (Müritz)
+addr:country=DE
+addr:housenumber=17
+addr:postcode=17192
+addr:street=Mühlenstraße
+amenity=bank
+atm=yes
+brand=Commerzbank
+brand:wikidata=Q157617
+brand:wikipedia=en:Commerzbank
+name=Commerzbank
+wheelchair=limited
+id=node/488648557</desc></wpt><wpt lat="53.7059502" lon="11.1206037"><name>Volksbank</name><desc>addr:city=Gadebusch
+addr:country=DE
+addr:housenumber=3
+addr:postcode=19205
+addr:street=Am Stadtwald
+amenity=bank
+atm=yes
+name=Volksbank
+id=node/499408735</desc></wpt><wpt lat="54.1375284" lon="12.0577249"><name>Targobank</name><desc>amenity=bank
+brand=Targobank
+brand:wikidata=Q1455437
+check_date=2025-05-30
+check_date:opening_hours=2025-05-30
+name=Targobank
+opening_hours=Mo,Tu 10:00-13:00,14:00-18:00; We-Fr 10:00-13:00
+website=https://www.targobank.de/de/service/suchen-und-finden/Details.aspx?banque=02236&amp;guichet=20416&amp;bureau=00&amp;pva=000&amp;type=branch&amp;loca=18107
+wheelchair=yes
+id=node/510726432</desc></wpt><wpt lat="53.520557" lon="12.6500863"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+brand=Raiffeisenbank
+brand:wikidata=Q24282825
+brand:wikipedia=cs:Raiffeisenbank
+name=Raiffeisenbank
+wheelchair=yes
+id=node/512539783</desc></wpt><wpt lat="53.6279319" lon="11.4120383"><name>BBBank</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=37
+addr:postcode=19053
+addr:street=Schloßstraße
+amenity=bank
+brand=BBBank
+brand:wikidata=Q795504
+brand:wikipedia=en:BBBank
+check_date:opening_hours=2025-07-04
+name=BBBank
+opening_hours=Mo,Tu 10:00-13:00; Th 15:00-18:00
+wheelchair=yes
+id=node/523218591</desc></wpt><wpt lat="53.6279405" lon="11.4118888"><name>PSD Bank Nord</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=37
+addr:postcode=19053
+addr:street=Schloßstraße
+amenity=bank
+check_date=2025-07-04
+check_date:opening_hours=2025-07-04
+name=PSD Bank Nord
+opening_hours=Tu,Th 09:00-13:00,14:00-18:00
+wheelchair=yes
+id=node/523218592</desc></wpt><wpt lat="54.090314" lon="12.13056"><name>Commerzbank</name><desc>amenity=bank
+brand=Commerzbank
+brand:wikidata=Q157617
+brand:wikipedia=de:Commerzbank
+check_date=2025-04-07
+check_date:opening_hours=2025-04-07
+name=Commerzbank
+opening_hours=Mo,Tu,Th 09:00-13:00, Tu,Th 14:30-18:00, We,Fr 09:00-13:00, Mo 14:00-16:00
+operator=Commerzbank
+wheelchair=yes
+id=node/527305976</desc></wpt><wpt lat="53.3244699" lon="11.5011701"><name>Postbank</name><desc>amenity=bank
+atm=no
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+operator=Postbank
+wheelchair=yes
+id=node/530811886</desc></wpt><wpt lat="54.1067054" lon="11.6188571"><name>Volks- und Raiffeisenbank eG, SB-Stelle Rerik</name><desc>addr:city=Rerik
+addr:country=DE
+addr:housenumber=9
+addr:postcode=18230
+addr:street=Am Parkplatz
+amenity=bank
+atm=yes
+check_date=2023-07-30
+name=Volks- und Raiffeisenbank eG, SB-Stelle Rerik
+opening_hours=Mo-Su 05:00-00:00
+website=https://www.vrbankmecklenburg.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-geschaeftsstellen.html
+wheelchair=yes
+id=node/540268656</desc></wpt><wpt lat="54.1073043" lon="11.6185948"><name>OstseeSparkasse</name><desc>addr:city=Rerik
+addr:country=DE
+addr:housenumber=6
+addr:postcode=18230
+addr:street=Am Parkplatz
+amenity=bank
+atm=yes
+name=OstseeSparkasse
+opening_hours=Tu,Th 14:00-18:00, Mo,Tu,Th,Fr 09:00-12:30
+website=https://www.sparkasse.de/standorte/filialen/ostseesparkasse-rostock-filiale-rerik-filialleiter-tino-lehmann-4609
+wheelchair=yes
+id=node/540268718</desc></wpt><wpt lat="53.7396352" lon="12.763074"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+operator=Kreissparkasse Demmin
+id=node/559533970</desc></wpt><wpt lat="53.3769466" lon="10.7544978"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Raiffeisenbank
+operator=Raiffeisenbank eG Lauenburg/Elbe
+wheelchair=yes
+id=node/560436661</desc></wpt><wpt lat="53.7930036" lon="12.1765428"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+check_date=2024-12-31
+name=Deutsche Bank
+opening_hours=Mo-Fr 09:00-13:00, Mo 14:00-16:00, Tu,Th 14:00-18:00
+operator=Deutsche Bank
+wheelchair=yes
+id=node/583313148</desc></wpt><wpt lat="53.794733" lon="12.1743812"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+check_date=2023-04-15
+name=Volks- und Raiffeisenbank
+wheelchair=yes
+id=node/583318115</desc></wpt><wpt lat="53.5993165" lon="11.3945226"><name>Sparda-Bank Berlin</name><desc>amenity=bank
+atm=yes
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=en:Sparda-Bank
+name=Sparda-Bank Berlin
+operator=Sparda-Bank
+id=node/599622032</desc></wpt><wpt lat="53.5495747" lon="11.5572307"><name>node/600447249</name><desc>amenity=bank
+operator=Volksbank
+id=node/600447249</desc></wpt><wpt lat="54.4013979" lon="13.612311"><name>Pommersche Volksbank</name><desc>addr:city=Ostseebad Binz
+addr:country=DE
+addr:housenumber=3
+addr:postcode=18609
+addr:street=Schillerstraße
+addr:suburb=Binz
+amenity=bank
+atm=yes
+check_date=2023-07-06
+contact:phone=+49 38393 13975
+contact:website=https://www.pommerschevb.de/Bank_und_Region/filialen-ansprechpartner/filialen/uebersicht-filialen/geschaeftsstelle-binz.html
+name=Pommersche Volksbank
+opening_hours=Mo-Fr 08:30-12:30; Mo 14:00-16:30; Tu,Th 14:00-18:00; PHoff
+wheelchair=yes
+id=node/601150245</desc></wpt><wpt lat="53.9086095" lon="10.9775613"><name>Sparkasse Dassow</name><desc>addr:city=Dassow
+addr:country=DE
+addr:housenumber=2
+addr:postcode=23942
+addr:street=Friedensstraße
+amenity=bank
+atm=yes
+drive_through=no
+fax=+49-38826-88405
+name=Sparkasse Dassow
+opening_hours=Tu,We,Fr 09:00-13:00, Tu 14:00-18:00
+phone=+49-38826-80418
+website=https://www.spk-mecklenburg-nordwest.de/
+wheelchair=yes
+id=node/619532258</desc></wpt><wpt lat="54.0994974" lon="12.073885"><name>Ostseesparkasse</name><desc>amenity=bank
+name=Ostseesparkasse
+opening_hours=Mo, Tu, Th 09:00-12:30, 14:00-18:00; We, Fr 09:00-12:30
+operator=Ostseesparkasse Rostock
+wheelchair=yes
+id=node/623861486</desc></wpt><wpt lat="54.096576" lon="13.3785865"><name>Volksbank</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=26
+addr:postcode=17489
+addr:street=Steinbeckerstraße
+amenity=bank
+atm=yes
+check_date=2023-06-16
+name=Volksbank
+wheelchair=no
+id=node/626928005</desc></wpt><wpt lat="54.0961016" lon="13.3850899"><name>Sparda-Bank Berlin</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=2
+addr:postcode=17489
+addr:street=Schuhhagen
+amenity=bank
+atm=yes
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=de:Sparda-Bank Berlin
+currency:EUR=yes
+drive_through=no
+level=0
+name=Sparda-Bank Berlin
+opening_hours=Tu 09:00-13:00, Th 14:00-18:00; PH off, Mo 09:00-13:00,14:00-18:00, Tu 14:00-18:00, Th 09:00-13:00
+operator=Sparda Bank Berlin eG
+website=https://www.sparda-b.de/kontakt/filialen-geldautomaten.html/l/greifswald/schuhhagen-2/500#!
+wheelchair=yes
+id=node/626928006</desc></wpt><wpt lat="54.11589" lon="12.1915683"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Volks- und Raiffeisenbank
+opening_hours=Mo-Fr 08:00-19:00, Sa 08:00-14:00
+toilets:wheelchair=yes
+wheelchair=yes
+id=node/637773254</desc></wpt><wpt lat="53.5764505" lon="13.2811889"><name>node/668623221</name><desc>addr:city=Neubrandenburg
+addr:housenumber=1
+addr:postcode=17034
+addr:street=Max-Adrion-Straße
+amenity=bank
+operator=Sparkasse Neubrandenburg
+wheelchair=yes
+id=node/668623221</desc></wpt><wpt lat="54.1100276" lon="12.6598095"><name>Sparkasse Vorpommern</name><desc>addr:city=Bad Sülze
+addr:housenumber=12
+addr:postcode=18334
+addr:street=Am Markt
+amenity=bank
+atm=yes
+name=Sparkasse Vorpommern
+opening_hours=Mo,Th 08:30-12:30, Tu 14:00-18:00
+operator=Sparkasse Vorpommern
+id=node/697354655</desc></wpt><wpt lat="54.0884853" lon="12.1329717"><name>Targobank</name><desc>amenity=bank
+atm=yes
+brand=Targobank
+brand:wikidata=Q1455437
+brand:wikipedia=en:Targobank
+check_date=2025-04-06
+name=Targobank
+opening_hours=Mo-Fr 10:00-13:00; Mo,Tu,Th 14:00-18:00
+operator=Targo Bank
+phone=+49 381 45900811
+website=https://www.targobank.de
+wheelchair=no
+id=node/721231539</desc></wpt><wpt lat="54.1387879" lon="12.0564416"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+level=0
+name=Volks- und Raiffeisenbank
+opening_hours=Mo-Fr 06:00-22:00; Sa,Su 09:00-14:00
+operator=Rostocker Volks- und Raiffeisenbank eG
+website=https://www.rostocker-vrbank.de/Ueber-uns/Standorte/Geschaeftsstellen/Luetten-Klein/c1297.html
+wheelchair=yes
+id=node/733810331</desc></wpt><wpt lat="54.1387802" lon="12.0556981"><name>Sparda-Bank Berlin</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=31
+addr:postcode=18107
+addr:street=Warnowallee
+addr:suburb=Lütten Klein
+amenity=bank
+atm=yes
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=en:Sparda-Bank
+name=Sparda-Bank Berlin
+opening_hours=Mo-Th 08:00-18:00; Fr 08:00-16:00
+website=https://www.sparda.de/ihr-weg-zu-uns-geldautomaten-und-filialen/
+wheelchair=yes
+wheelchair:description=voll barrierefrei
+id=node/733810337</desc></wpt><wpt lat="53.7585569" lon="10.9336705"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+id=node/809482222</desc></wpt><wpt lat="53.7748758" lon="11.050715"><name>node/836530785</name><desc>addr:city=Rehna
+addr:country=DE
+addr:housenumber=34b
+addr:postcode=19217
+addr:street=Schweriner Straße
+amenity=bank
+operator=VR-Bank
+website=https://www.vr-bank-wismar.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen/geschaeftsstelle_rehna.html
+id=node/836530785</desc></wpt><wpt lat="53.4581892" lon="12.2635395"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+opening_hours=Mo-Fr 08:00-20:00
+id=node/843403249</desc></wpt><wpt lat="53.4586882" lon="12.2622391"><name>Postbank</name><desc>amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+opening_hours=Mo,We,Fr 09:00-16:00; Tu,Th 09:00-18:00; Sa 09:00-12:00
+id=node/843425253</desc></wpt><wpt lat="53.7402009" lon="14.0798651"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/847570065</desc></wpt><wpt lat="53.3588155" lon="13.0697429"><name>Sparkasse</name><desc>addr:city=Neustrelitz
+addr:country=DE
+addr:housenumber=27
+addr:postcode=17235
+addr:street=Strelitzer Straße
+amenity=bank
+atm=yes
+bic=NOLADE21MST
+contact:phone=+49-3981-2740
+drive_through=no
+name=Sparkasse
+opening_hours=Mo-Fr 09:00-12:30, Mo 13:30-16:00, Tu,Th 13:30-18:00
+operator=Sparkasse Mecklenburg-Strelitz
+wheelchair=yes
+wikidata=Q13601825
+id=node/858501002</desc></wpt><wpt lat="54.1070126" lon="11.902607"><name>Raiffeisenbank</name><desc>addr:city=Bad Doberan
+addr:country=DE
+addr:housenumber=5
+addr:postcode=18209
+addr:street=Severinstraße
+amenity=bank
+atm=yes
+check_date=2025-05-16
+name=Raiffeisenbank
+wheelchair=no
+id=node/860122429</desc></wpt><wpt lat="53.6324246" lon="11.4092752"><name>Deutsche Kreditbank</name><desc>amenity=bank
+check_date=2025-05-14
+check_date:opening_hours=2025-05-14
+name=Deutsche Kreditbank
+opening_hours:signed=no
+id=node/905962227</desc></wpt><wpt lat="53.6290394" lon="11.4128736"><name>HypoVereinsbank</name><desc>amenity=bank
+atm=yes
+brand=HypoVereinsbank
+brand:wikidata=Q220189
+brand:wikipedia=en:HypoVereinsbank
+check_date:opening_hours=2024-06-24
+name=HypoVereinsbank
+opening_hours=Mo-Fr 10:00-13:00, Tu,Th 14:30-17:00
+wheelchair=yes
+id=node/905962739</desc></wpt><wpt lat="54.0473224" lon="14.0009407"><name>Sparkasse</name><desc>addr:city=Koserow
+addr:country=DE
+addr:housenumber=1
+addr:postcode=17459
+addr:street=Siemensstraße
+amenity=bank
+atm=yes
+name=Sparkasse
+opening_hours=Mo 08:30-13:00,14:00-16:00; Tu,Th 08:30-13:00,14:00-18:00; We,Fr 08:30-13:00
+phone=+49 38375 2310
+wheelchair=yes
+id=node/908972412</desc></wpt><wpt lat="53.7377662" lon="12.7630516"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+operator=Deutsche Bank
+id=node/918913363</desc></wpt><wpt lat="54.1035302" lon="12.1682585"><name>Ostseesparkasse Rostock (15)</name><desc>addr:city=Rostock
+addr:housenumber=15
+addr:postcode=18146
+addr:street=Hannes-Meyer-Platz
+addr:suburb=Dierkow
+amenity=bank
+atm=yes
+check_date=2023-10-08
+name=Ostseesparkasse Rostock (15)
+opening_hours=Mo, Tu, Th 09:00-12:30, 14:00-18:00; We, Fr 09:00-12:30
+wheelchair=yes
+id=node/920054999</desc></wpt><wpt lat="53.7386995" lon="14.0428743"><name>Sparkasse</name><desc>addr:city=Ueckermünde
+addr:country=DE
+addr:housenumber=52
+addr:postcode=17373
+addr:street=Ueckerstraße
+amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/922412122</desc></wpt><wpt lat="53.893345" lon="11.445661"><name>node/954277758</name><desc>amenity=bank
+atm=yes
+opening_hours=Mo-Fr 09:00-12:30; Mo,Tu,Th 14:00-18:00
+operator=VR-Bank Wismar
+wheelchair=yes
+id=node/954277758</desc></wpt><wpt lat="53.6949416" lon="12.9079067"><name>Sparkasse</name><desc>addr:city=Stavenhagen
+addr:country=DE
+addr:housenumber=9
+addr:postcode=17153
+addr:street=Markt
+amenity=bank
+bic=NOLADE21NBS
+name=Sparkasse
+operator=Sparkasse Neubrandenburg-Demmin
+wheelchair=yes
+id=node/964912374</desc></wpt><wpt lat="53.6948328" lon="12.9085406"><name>Raiffeisenbank Mecklenburger Seenplatte eG</name><desc>addr:city=Stavenhagen
+addr:country=DE
+addr:housenumber=5
+addr:postcode=17153
+addr:street=Markt
+amenity=bank
+bic=GENODEF1MAL
+name=Raiffeisenbank Mecklenburger Seenplatte eG
+opening_hours=Tu,Th 09:00-12:30,13:30-16:00; Mo 09:00-12:30,13:30-16:00; We,Fr 09:00-12:30
+operator=Raiffeisenbank Malchin
+wheelchair=yes
+id=node/964912375</desc></wpt><wpt lat="54.1063428" lon="11.8989336"><name>Deutsche Bank</name><desc>addr:city=Bad Doberan
+addr:country=DE
+addr:housenumber=13
+addr:postcode=18209
+addr:street=Am Markt
+amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+drive_through=no
+name=Deutsche Bank
+opening_hours=Mo,Th,Fr 10:00-13:00, Tu,Th 14:00-17:00
+operator=Deutsche Bank
+wheelchair=no
+id=node/1000709645</desc></wpt><wpt lat="54.3766103" lon="13.697627"><name>Pommersche Volksbank eG</name><desc>amenity=bank
+atm=yes
+check_date=2023-07-31
+name=Pommersche Volksbank eG
+opening_hours=Mo 08:30-12:30, 14:00-16:30;Tu,Th 08:30-12:30, 14:00-18:00; We, Fr 08:30-12:00
+operator=Pommersche Volksbank eG
+wheelchair=yes
+id=node/1041742992</desc></wpt><wpt lat="53.7737975" lon="12.5754198"><name>Ostseesparkasse</name><desc>addr:city=Teterow
+addr:country=DE
+addr:housenumber=5
+addr:postcode=17166
+addr:street=Marktplatz
+amenity=bank
+bic=NOLADE21ROS
+name=Ostseesparkasse
+wheelchair=limited
+id=node/1059585704</desc></wpt><wpt lat="53.8856569" lon="11.4486012"><name>node/1088218028</name><desc>amenity=bank
+atm=yes
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu-Th 09:00-13:00,14:00-18:00; We,Fr 09:00-13:00
+operator=Sparkasse
+wheelchair=yes
+id=node/1088218028</desc></wpt><wpt lat="53.6612539" lon="11.496483"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/1116999736</desc></wpt><wpt lat="53.5529592" lon="13.2955515"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Raiffeisenbank
+wheelchair=yes
+id=node/1164113100</desc></wpt><wpt lat="53.6687444" lon="13.5492006"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+operator=Sparkasse
+wheelchair=limited
+id=node/1165007839</desc></wpt><wpt lat="53.8380352" lon="10.7618893"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+check_date=2015-09-28
+name=Sparkasse
+opening_hours=Mo 08:30-12:30, 14:00-16:00;Th 08:30-12:30, 14:00-18:00
+wheelchair=yes
+id=node/1288217198</desc></wpt><wpt lat="53.2128897" lon="11.324014"><name>Sparkasse</name><desc>addr:city=Malliß
+addr:country=DE
+addr:housenumber=1
+addr:postcode=19294
+addr:street=Fritz-Reuter-Platz
+amenity=bank
+atm=yes
+name=Sparkasse
+id=node/1324678846</desc></wpt><wpt lat="53.2132452" lon="11.3249306"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+operator=Volksbank Osterburg-Lüchow-Dannenberg
+id=node/1324678848</desc></wpt><wpt lat="54.2712066" lon="12.8090626"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/1346856993</desc></wpt><wpt lat="53.6916111" lon="13.2587688"><name>Volksbank-Raiffeisenbank</name><desc>addr:city=Altentreptow
+addr:country=DE
+addr:housenumber=13
+addr:postcode=17087
+addr:street=Fritz-Reuter-Straße
+amenity=bank
+atm=yes
+name=Volksbank-Raiffeisenbank
+operator=Volksbank-Raiffeisenbank
+id=node/1383971137</desc></wpt><wpt lat="53.5648936" lon="13.2667022"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+wheelchair=yes
+id=node/1400905166</desc></wpt><wpt lat="53.5105252" lon="11.076282"><name>Sparkasse Mecklenburg-Schwerin</name><desc>amenity=bank
+name=Sparkasse Mecklenburg-Schwerin
+wheelchair=yes
+id=node/1427745917</desc></wpt><wpt lat="53.9791887" lon="13.5461538"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+name=Volks- und Raiffeisenbank
+id=node/1440274013</desc></wpt><wpt lat="54.0884842" lon="13.430453"><name>Sparkasse Vorpommern</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=9
+addr:postcode=17493
+addr:street=Rigaer Straße
+amenity=bank
+check_date=2024-02-02
+name=Sparkasse Vorpommern
+opening_hours=Mo 08:30-13:00,14:00-16:00; Tu,Th 08:30-13:00,14:00-18:00; We,Fr 08:30-13:00
+toilets:wheelchair=no
+wheelchair=yes
+id=node/1463055974</desc></wpt><wpt lat="54.3199533" lon="13.0475451"><name>Pommersche Volksbank</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=13-17
+addr:postcode=18437
+addr:street=Grünhufer Bogen
+amenity=bank
+check_date=2023-08-01
+level=0
+name=Pommersche Volksbank
+opening_hours=Mo-Fr 08:30-12:30, Mo 14:00-16:00, Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/1480056391</desc></wpt><wpt lat="54.3053937" lon="13.0972494"><name>Sparkasse Vorpommern</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=63
+addr:postcode=18439
+addr:street=Frankendamm
+amenity=bank
+atm=yes
+name=Sparkasse Vorpommern
+toilets:wheelchair=no
+wheelchair=yes
+id=node/1480062014</desc></wpt><wpt lat="53.559457" lon="13.2613869"><name>Raiffeisenbank</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=5a
+addr:postcode=17033
+addr:street=Stargarder Straße
+amenity=bank
+atm=yes
+name=Raiffeisenbank
+wheelchair=yes
+id=node/1480114510</desc></wpt><wpt lat="54.0824932" lon="13.4057349"><name>Sparda-Bank Berlin</name><desc>addr:city=Greifswald
+addr:housenumber=58
+addr:postcode=17491
+addr:street=Lomonossowallee
+amenity=bank
+atm=yes
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=en:Sparda-Bank
+contact:email=hallo@sparda-b.de
+contact:fax=+49 30 4283 0370
+contact:phone=+49 3834 231 1622
+contact:website=https://www.sparda-b.de
+level=1
+name=Sparda-Bank Berlin
+opening_hours="nach Terminvereinbarung"
+wheelchair=yes
+id=node/1505334423</desc></wpt><wpt lat="53.7644616" lon="13.7874188"><name>Sparkasse Vorpommern</name><desc>amenity=bank
+atm=yes
+description=Sparkassenfiliale
+
+24/7 Bankautomat wird in Kooperation mit Volksbank Vorpommern eG betrieben.
+name=Sparkasse Vorpommern
+id=node/1523834462</desc></wpt><wpt lat="53.4268239" lon="11.8311625"><name>Postbank</name><desc>amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+id=node/1531288534</desc></wpt><wpt lat="53.4277687" lon="11.8291767"><name>VR Bank eG</name><desc>amenity=bank
+name=VR Bank eG
+id=node/1531295139</desc></wpt><wpt lat="53.4287002" lon="11.8486403"><name>VR Bank eG</name><desc>amenity=bank
+name=VR Bank eG
+id=node/1531295141</desc></wpt><wpt lat="53.5552579" lon="13.2675863"><name>HypoVereinsbank</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=1
+addr:postcode=17033
+addr:street=Ziegelbergstraße
+amenity=bank
+brand=HypoVereinsbank
+brand:wikidata=Q220189
+brand:wikipedia=en:HypoVereinsbank
+name=HypoVereinsbank
+website=http://www.hvb.de
+wheelchair=limited
+id=node/1584988016</desc></wpt><wpt lat="53.5572358" lon="13.2651003"><name>Santander</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=23
+addr:postcode=17033
+addr:street=Turmstraße
+amenity=bank
+atm=yes
+atm:opening_hours=24/7
+brand=Santander
+brand:wikidata=Q875292
+brand:wikipedia=en:Santander Bank
+contact:email=neubrandenburg@santander.de
+contact:fax=+49 395 4555620
+contact:phone=+49 395 455560
+contact:website=https://www.santander.de/
+drive_through=no
+name=Santander
+opening_hours=Mo,Tu,Th 09:00-13:00, 14:00-18:00, We 09:00-13:00, 14:00-16:00; Fr 09:00-14:00; Sa, PH off
+operator=Santander Consumer Bank AG
+wheelchair=yes
+id=node/1652825770</desc></wpt><wpt lat="53.6640722" lon="13.8869982"><name>Sparkasse</name><desc>addr:city=Ferdinandshof
+addr:country=DE
+addr:housenumber=2a
+addr:postcode=17379
+addr:street=Schulstraße
+amenity=bank
+atm=yes
+name=Sparkasse
+operator=Sparkasse Uecker Randow
+id=node/1674566419</desc></wpt><wpt lat="54.1386689" lon="12.0522265"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+level=0
+name=Sparkasse
+opening_hours=Mo-Tu,Th 09:00-12:30,14:00-18:00; We,Fr 09:00-12:30
+operator=Ostseesparkasse Rostock
+wheelchair=yes
+id=node/1696722909</desc></wpt><wpt lat="53.3756657" lon="10.7229157"><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.raibalauenburg.de/wirfuersie/filialen-ansprechpartner/filialen/uebersicht-filialen.html
+name=Raiffeisenbank
+operator=Raiffeisenbank e.G. Lauenburg/Elbe
+id=node/1699761896</desc></wpt><wpt lat="53.5573931" lon="13.2578596"><name>Postbank</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=2
+addr:postcode=17033
+addr:street=Marktplatz
+amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+brand:wikipedia=de:Postbank
+contact:website=https://www.postbank.de/
+level=0
+name=Postbank
+opening_hours=Mo-Fr 09:00-20:00, Sa 09:00-18:00; PH off
+opening_hours:atm=Mo-Sa 08:00-20:00; PH off
+operator=Deutsche Bank AG
+wheelchair=yes
+id=node/1719005980</desc></wpt><wpt lat="53.5579103" lon="13.2613843"><name>Sparkasse Neubrandenburg-Demmin</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=13
+addr:postcode=17033
+addr:street=Stargarder Straße
+amenity=bank
+atm=yes
+automatic_door=yes
+fax=+49 395 3732589
+name=Sparkasse Neubrandenburg-Demmin
+official_name=Sparkasse Neubrandenburg - Demmin - Filiale Stargarder Straße
+opening_hours=Mo-Fr 09:00-13:00; Sa 09:00-13:00; PH off
+opening_hours:atm=24/7
+operator=Sparkasse Neubrandenburg-Demmin
+phone=+49 395 3732583
+website=https://www.sparkasse.de/standorte/filialen/sparkasse-neubrandenburg-demmin-filiale-stargarder-strasse-151975
+wheelchair=yes
+id=node/1719005982</desc></wpt><wpt lat="54.1312778" lon="13.6156454"><name>Volksbank Vorpommern eG</name><desc>addr:city=Lubmin
+addr:country=DE
+addr:housenumber=17
+addr:postcode=17509
+addr:street=Wusterhusener Straße
+amenity=bank
+atm=yes
+name=Volksbank Vorpommern eG
+operator=Volksbank Vorpommern eG
+wheelchair=limited
+id=node/1752557282</desc></wpt><wpt lat="54.3140673" lon="13.0918167"><name>HypoVereinsbank</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=76
+addr:postcode=18439
+addr:street=Heilgeiststraße
+amenity=bank
+brand=HypoVereinsbank
+brand:wikidata=Q220189
+brand:wikipedia=en:HypoVereinsbank
+name=HypoVereinsbank
+opening_hours=Mo,Tu,Fr 10:00-13:00; Th 10:00-13:00,14:30-17:00
+website=https://www.hypovereinsbank.de/hvb/privatkunden
+wheelchair=limited
+id=node/1762931140</desc></wpt><wpt lat="54.3674737" lon="12.7263189"><name>Deutsche Bank</name><desc>addr:city=Barth
+addr:housenumber=5
+addr:postcode=18356
+addr:street=Großträgerstraße
+amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+id=node/1794043956</desc></wpt><wpt lat="54.6220745" lon="13.2931854"><name>Sparkasse Vorpommern Filiale Wiek</name><desc>amenity=bank
+atm=yes
+email=service@sparkasse-ruegen.de
+fax=+49 38391 70266
+name=Sparkasse Vorpommern Filiale Wiek
+opening_hours=Mo-Fr 09:00-13:00; Mo,Fr 14:00-16:00; Tu,Th 14:00-18:00
+phone=+49 38391 70723
+website=https://www.spk-vorpommern.de/de/home.html
+id=node/1831840708</desc></wpt><wpt lat="54.4172087" lon="13.4289781"><name>Volksbank Vorpommern eG</name><desc>addr:city=Bergen auf Rügen
+addr:housenumber=67
+addr:postcode=18528
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+check_date=2024-08-11
+check_date:opening_hours=2024-08-11
+email=Posteingang@vbvorpommern.de
+fax=+49 3831 61 61 900
+internet_access=wlan
+name=Volksbank Vorpommern eG
+opening_hours=Mo 08:30-12:30,14:00-16:30; Di,Do 08:30-12:30,14:00-18:00; Mi,Fr 08:30-12:30
+operator=Volksbank Vorpommern eG
+phone=+49 3831 61 61 310
+website=https://www.vbvorpommern.de/wir-fuer-sie/filialen-ansprechpartner/beratung-vor-ort/geschaeftsstelle-bergen-auf-ruegen.html
+wheelchair=yes
+id=node/1871320512</desc></wpt><wpt lat="53.8036648" lon="11.3615159"><name>Volks- und Raiffeisenbank eG</name><desc>addr:city=Bobitz
+addr:country=DE
+addr:housenumber=34
+addr:postcode=23996
+addr:street=Wismarsche Straße
+amenity=bank
+atm=yes
+name=Volks- und Raiffeisenbank eG
+id=node/1882899879</desc></wpt><wpt lat="53.3353456" lon="13.0906446"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+opening_hours=Mo,Tu,Th,Fr 9:00-12:30; We 9:00-12:00
+operator=Sparkasse Mecklenburg-Strelitz
+phone=+49 3981421030
+website=https://www.spk-mecklenburg-strelitz.de/
+id=node/1887469686</desc></wpt><wpt lat="54.4157302" lon="13.4319005"><name>Sparkasse Vorpommern Filiale Bergen</name><desc>addr:city=Bergen auf Rügen
+addr:country=DE
+addr:housename=Sparkasse
+addr:housenumber=4
+addr:postcode=18528
+addr:street=Billrothstraße
+amenity=bank
+atm=yes
+check_date=2024-02-24
+email=info@spk-vorpommern.de
+fax=+49 3834 557 7809
+name=Sparkasse Vorpommern Filiale Bergen
+opening_hours=Mo 08:30-13:00,14:00-16:00; Di 08:30-13:00,14:00-18:00; Mi 08:30-13:00; Do 08:30-13:00,14:00-18:00; Fr 08:30-13:00
+operator=Sparkasse Vorpommern
+phone=+49 3834 557 7801
+website=https://www.sparkasse.de/standorte/filialen/mecklenburg-vorpommern/bergen-auf-ruegen
+wheelchair=yes
+id=node/1965306171</desc></wpt><wpt lat="54.1132864" lon="13.0453073"><name>Pommersche Volksbank</name><desc>addr:city=Grimmen
+addr:country=DE
+addr:housenumber=9
+addr:postcode=18507
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+name=Pommersche Volksbank
+website=https://www.pommerschevb.de/Bank_und_Region/filialen-ansprechpartner/filialen/uebersicht-filialen/geschaeftsstelle-grimmen.html
+wheelchair=no
+id=node/1999281860</desc></wpt><wpt lat="53.8453341" lon="10.9328338"><name>Sparkasse Nordwestmecklenburg</name><desc>amenity=bank
+name=Sparkasse Nordwestmecklenburg
+opening_hours=Mo-Fr 09:00-13:00, Tu,Th 14:00-18:00
+id=node/2030056773</desc></wpt><wpt lat="53.653424" lon="11.1741945"><name>Sparkasse NWM</name><desc>addr:housenumber=23
+addr:street=Dorfmitte Lützow
+amenity=bank
+atm=yes
+name=Sparkasse NWM
+website=https://www.spk-mecklenburg-nordwest.de/de/home/service/filiale-finden.html
+id=node/2132116855</desc></wpt><wpt lat="54.133623" lon="13.6131857"><name>Sparkasse</name><desc>addr:city=Lubmin
+addr:country=DE
+addr:housenumber=16
+addr:postcode=17509
+addr:street=Villenstraße
+amenity=bank
+atm=yes
+brand=Sparkasse
+name=Sparkasse
+opening_hours=Mo-Su,PH 05:00-23:00
+operator=Sparkasse Vorpommern
+id=node/2147629098</desc></wpt><wpt lat="54.1150069" lon="12.1450044"><name>OstseeSparkasse</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=28/29
+addr:postcode=18147
+addr:street=Salvador-Allende-Straße
+addr:suburb=Toitenwinkel
+amenity=bank
+atm=yes
+name=OstseeSparkasse
+wheelchair=yes
+id=node/2149125801</desc></wpt><wpt lat="54.1525567" lon="12.0646276"><name>Sparkasse</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=6a
+addr:postcode=18109
+addr:street=Güstrower Straße
+addr:suburb=Lichtenhagen
+amenity=bank
+atm=yes
+drive_through=no
+name=Sparkasse
+id=node/2163590251</desc></wpt><wpt lat="53.927958" lon="12.3459685"><name>Ostseesparkasse Laage</name><desc>amenity=bank
+atm=yes
+name=Ostseesparkasse Laage
+opening_hours=Mo-Fr 09:00-12:30; Tu,Th 14:00-18:00
+id=node/2171089084</desc></wpt><wpt lat="53.9004318" lon="12.8503132"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+toilets:wheelchair=no
+wheelchair=yes
+id=node/2207071796</desc></wpt><wpt lat="53.630595" lon="14.0107519"><name>Volksbank Raiffeisenbank eG</name><desc>addr:city=Torgelow
+addr:country=DE
+addr:housenumber=42
+addr:postcode=17358
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+name=Volksbank Raiffeisenbank eG
+opening_hours=Mo,We-Fr 8:30-13:00, Tu 14:00-18:00
+id=node/2226594321</desc></wpt><wpt lat="54.314064" lon="13.091132"><name>Banco Santander</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=79
+addr:postcode=18439
+addr:street=Heilgeiststraße
+amenity=bank
+atm=yes
+brand=Banco Santander
+brand:wikidata=Q6496310
+brand:wikipedia=en:Santander Bank
+name=Banco Santander
+official_name=Santander Group
+opening_hours=Mo,We 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; Fr 09:00-14:00
+wheelchair=no
+id=node/2237499949</desc></wpt><wpt lat="53.59795" lon="11.4392247"><name>VR-Bank</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=38
+addr:postcode=19063
+addr:street=Am Grünen Tal
+amenity=bank
+contact:website=https://www.vr-bank.de/wir-fuer-sie/filialen-ansprechpartner/filialen/filialsuche/geschaeftsstelle-schwerin---grosser-dreesch.html
+name=VR-Bank
+opening_hours=Mo-Fr 09:00-13:00, Tu,Th 14:00-18:00
+id=node/2274072230</desc></wpt><wpt lat="54.2593262" lon="13.0308586"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/2278407342</desc></wpt><wpt lat="54.3271144" lon="13.0559185"><name>Sparkasse</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=107
+addr:postcode=18435
+addr:street=Heinrich-Heine-Ring
+amenity=bank
+name=Sparkasse
+wheelchair=yes
+id=node/2278761097</desc></wpt><wpt lat="53.648334" lon="11.3705012"><name>Sparda-Bank</name><desc>amenity=bank
+name=Sparda-Bank
+opening_hours=Mo-Su 05:00-22:00
+website=https://www.sparda-b.de/kontakt/filialen-geldautomaten.html#!
+id=node/2299332765</desc></wpt><wpt lat="53.6590427" lon="11.3609795"><name>Sparkasse Mecklenburg-Vorpommern</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=18
+addr:postcode=19057
+addr:street=Am Margaretenhof
+amenity=bank
+atm=yes
+name=Sparkasse Mecklenburg-Vorpommern
+website=https://www.sparkasse.de/standorte/filialen/sparkasse-mecklenburg-schwerin-sb-standort-am-margaretenhof-schwerin-169356
+id=node/2299332766</desc></wpt><wpt lat="53.647238" lon="11.4065551"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+email=info@vr-bank.de
+fax=+49 385 5490 550
+name=Volks- und Raiffeisenbank
+opening_hours=Mo 08:30-13:00,14:00-16:00; Tu 08:30-13:00,14:00-18:00; We 08:30-13:00,14:00-16:00; Th 08:30-13:00,14:00-18:00; Fr 08:30-13:00
+phone=+49 385 5490 475
+wheelchair=limited
+id=node/2354511326</desc></wpt><wpt lat="53.2971274" lon="14.2362952"><name>Sparkasse Uecker-Randow</name><desc>addr:city=Penkun
+addr:country=DE
+addr:housenumber=6
+addr:postcode=17328
+addr:street=Am Markt
+amenity=bank
+atm=yes
+name=Sparkasse Uecker-Randow
+opening_hours=Mo-Fr 08:30-12:00; Th 14:00-18:00
+id=node/2362435491</desc></wpt><wpt lat="54.1509832" lon="11.7331507"><name>Raiffeisenbank</name><desc>addr:city=Kühlungsborn
+addr:country=DE
+addr:housenumber=28
+addr:postcode=18225
+addr:street=Hermannstraße
+amenity=bank
+name=Raiffeisenbank
+opening_hours=Mo-Su 05:00-24:00
+id=node/2427897072</desc></wpt><wpt lat="53.5117225" lon="11.0734599"><name>Raiffeisenbank Südstormarn Mölln eG FilialeWittenburg</name><desc>addr:city=Wittenburg
+addr:country=DE
+addr:housenumber=37
+addr:postcode=19243
+addr:street=Große Straße
+amenity=bank
+atm=yes
+contact:phone=+49 38852 6020
+name=Raiffeisenbank Südstormarn Mölln eG FilialeWittenburg
+opening_hours=Mo, Fr 08:30-12:30, 14:00-16:00; Tu, Th 08:30-12:30, 14:00-18:00, We 08:30-12:30
+id=node/2574578650</desc></wpt><wpt lat="53.3998898" lon="10.9684989"><name>Sparkasse</name><desc>amenity=bank
+brand=Sparkasse
+name=Sparkasse
+opening_hours=Tu,Th,Fr 09:00-13:00; Th 14:00-18:00
+wheelchair=yes
+id=node/2627005635</desc></wpt><wpt lat="53.3984133" lon="10.9677307"><name>Volksbank Lüneburger Heide</name><desc>amenity=bank
+atm=yes
+brand=Volksbank
+name=Volksbank Lüneburger Heide
+network=BankCard ServiceNetz
+id=node/2627005637</desc></wpt><wpt lat="53.5529666" lon="13.2928199"><name>Sparkasse Neubrandenburg-Demmin</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=22
+addr:postcode=17036
+addr:street=Juri-Gagarin-Ring
+amenity=bank
+atm=yes
+contact:fax=+49 395 3731049
+contact:phone=+49 395 3732041
+contact:website=https://www.spk-nbdm.de/de/home/toolbar/filialen/sparkasse-neubrandenburg-demmin-filiale-oststadt-4727.html
+door=automatic
+drive_through=no
+level=0
+name=Sparkasse Neubrandenburg-Demmin
+opening_hours=Mo 09:00-13:00, 14:00-16:00; Tu,Th 09:00-13:00, 14:00-18:00; We,Fr 09:00-13:00; Sa,PH off
+opening_hours:atm=24/7
+operator=Sparkasse Neubrandenburg-Demmin
+toilets:wheelchair=no
+wheelchair=yes
+id=node/2730588743</desc></wpt><wpt lat="54.5157588" lon="13.6410016"><name>Postbank</name><desc>addr:city=Sassnitz
+addr:country=DE
+addr:housenumber=12
+addr:postcode=18546
+addr:street=Rügen-Galerie
+amenity=bank
+atm=no
+brand=Postbank
+brand:wikidata=Q708835
+check_date:opening_hours=2023-07-18
+description=Postbank-Filiale im Schreibwarenladen, Bargeldauszahlungen am Schalter
+drive_through=no
+name=Postbank
+opening_hours=Mo-Fr 10:00-17:00; Sa 10:00-12:00
+shop=stationery
+wheelchair=yes
+id=node/2924843843</desc></wpt><wpt lat="54.1083552" lon="11.9193715"><name>Sparkasse</name><desc>addr:city=Bad Doberan
+addr:housenumber=1
+addr:postcode=18209
+addr:street=Am Handelspark
+amenity=bank
+name=Sparkasse
+opening_hours=Mo,We,Fr 09:00-12:30; Tu,Th 09:00-12:30,14:00-18:00
+operator=Ostseesparkasse Rostock
+id=node/2940160896</desc></wpt><wpt lat="53.6645501" lon="13.8893961"><name>leer stehend</name><desc>addr:city=Ferdinandshof
+addr:country=DE
+addr:housenumber=27
+addr:postcode=17379
+addr:street=Schulstraße
+amenity=bank
+name=leer stehend
+name:en=closed fo ever
+id=node/3053340491</desc></wpt><wpt lat="54.096193" lon="13.3831259"><name>Targobank</name><desc>amenity=bank
+brand=Targobank
+brand:wikidata=Q1455437
+brand:wikipedia=en:Targobank
+check_date=2024-03-08
+name=Targobank
+opening_hours=Mo-Fr 10:00-13:00, Mo,Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/3092605246</desc></wpt><wpt lat="53.7954474" lon="12.1733662"><name>Sparkasse</name><desc>addr:city=Güstrow
+addr:country=DE
+addr:housenumber=17-18
+addr:postcode=18273
+addr:street=Pferdemarkt
+amenity=bank
+atm=yes
+check_date:opening_hours=2024-12-31
+name=Sparkasse
+opening_hours=Mo,Tu,Th 14:00-18:00, Mo-Fr 09:00-12:30
+operator=Ostseesparkasse
+phone=+49 381 6430
+source=OSPA
+website=https://www.ospa.de
+wheelchair=yes
+id=node/3267096510</desc></wpt><wpt lat="53.2306451" lon="11.4221241"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+operator=Volksbank Dannenberg
+id=node/3446672128</desc></wpt><wpt lat="54.1044532" lon="12.1681048"><name>Deutsche Bank</name><desc>amenity=bank
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+check_date=2023-10-08
+name=Deutsche Bank
+wheelchair=yes
+id=node/3506792493</desc></wpt><wpt lat="53.8479127" lon="11.980029"><name>VR Bank Mecklenburg</name><desc>amenity=bank
+atm=yes
+check_date=2023-04-28
+name=VR Bank Mecklenburg
+website=https://www.vrbankmecklenburg.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen/13656.html
+wheelchair=no
+id=node/3571665498</desc></wpt><wpt lat="53.9401132" lon="12.1037599"><name>OstseeSparkasse Rostock</name><desc>addr:city=Schwaan
+addr:country=DE
+addr:housenumber=2a
+addr:postcode=18258
+addr:street=Mühlenteichplatz
+amenity=bank
+atm=yes
+name=OstseeSparkasse Rostock
+id=node/3626676318</desc></wpt><wpt lat="53.5052565" lon="13.0864905"><name>Raiffeisenbank Mecklenburger Seenplatte</name><desc>addr:city=Penzlin
+addr:country=DE
+addr:housenumber=57
+addr:postcode=17217
+addr:street=Große Straße
+amenity=bank
+atm=yes
+fax=+493962 210215
+name=Raiffeisenbank Mecklenburger Seenplatte
+phone=+493962 210201
+website=https://www.vr.de/filialen/P/RaiffeisenbankMecklenburgerSeenplatteeGFiliale.html
+wheelchair=no
+id=node/3629279453</desc></wpt><wpt lat="53.5569067" lon="13.2579349"><name>Sparda-Bank Berlin</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=9
+addr:postcode=17033
+addr:street=Treptower Straße
+amenity=bank
+atm=yes
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=de:Sparda-Bank (Deutschland)
+contact:website=https://www.sparda-b.de/kontakt/filialen-geldautomaten.html/l/neubrandenburg/treptower-strasse-9/503
+drive_through=no
+name=Sparda-Bank Berlin
+opening_hours=Mo-Fr 09:00-12:00; Tu,Th 15:00-17:00; Sa,PH off
+opening_hours:atm=04:01-22:59
+operator=Sparda-Bank Berlin eG
+toilets:wheelchair=no
+wheelchair=yes
+id=node/3680859119</desc></wpt><wpt lat="54.0884671" lon="12.1248854"><name>Santander</name><desc>amenity=bank
+atm=no
+brand=Santander
+brand:wikidata=Q875292
+brand:wikipedia=en:Santander Bank
+name=Santander
+opening_hours=Mo,Tu,Th 09:00-13:00,14:00-18:00; We 09:00-13:00,14:00-16:00; Fr 09:00-14:00; PH off
+operator=Santander
+wheelchair=limited
+id=node/3683457170</desc></wpt><wpt lat="54.3092749" lon="13.0412661"><name>Sparkasse</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=22
+addr:postcode=18437
+addr:street=Grünthal
+amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/3691353550</desc></wpt><wpt lat="53.3201613" lon="11.4807002"><name>VR Plus</name><desc>amenity=bank
+name=VR Plus
+website=https://www.vr-plus.de/privatkunden/konto---konditionen.html
+wheelchair=yes
+id=node/3709291172</desc></wpt><wpt lat="54.1100179" lon="12.6608279"><name>Volksbank</name><desc>amenity=bank
+name=Volksbank
+wheelchair=yes
+id=node/3725326672</desc></wpt><wpt lat="53.3625657" lon="13.062953"><name>Sparkasse Vermögensmanagement &amp; Immobilienmanagement</name><desc>addr:city=Neustrelitz
+addr:country=DE
+addr:housenumber=58
+addr:postcode=17235
+addr:street=Strelitzer Straße
+amenity=bank
+atm=no
+drive_through=no
+name=Sparkasse Vermögensmanagement &amp; Immobilienmanagement
+opening_hours=Mo-Th 09:00-18:00; Fr 09:00-12:30
+phone=+493981274281
+id=node/3795176914</desc></wpt><wpt lat="54.4006003" lon="13.6134514"><name>Sparkasse Vorpommern ImmobilienCenter</name><desc>amenity=bank
+brand=Sparkasse
+check_date=2024-01-14
+fax=+49 38393 49123
+name=Sparkasse Vorpommern ImmobilienCenter
+opening_hours=Mo-Fr 09:00-13:00; Mo,Fr 14:00-16:00; Tu,Th 14:00-18:00
+operator=Sparkasse
+phone=+49 38393 4910
+wheelchair=yes
+id=node/3851863048</desc></wpt><wpt lat="53.4531947" lon="14.2101345"><name>Postbank</name><desc>addr:city=Löcknitz
+addr:country=DE
+addr:housenumber=90a
+addr:postcode=17321
+addr:street=Chausseestraße
+amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+id=node/3880351324</desc></wpt><wpt lat="53.9702554" lon="12.708614"><name>OSPA</name><desc>addr:city=Gnoien
+addr:country=DE
+addr:housenumber=55
+addr:postcode=17179
+addr:street=Friedenstraße
+amenity=bank
+atm=yes
+name=OSPA
+wheelchair=yes
+id=node/3901779093</desc></wpt><wpt lat="54.0878808" lon="12.1365063"><name>CreditPlusBank</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=16
+addr:postcode=18055
+addr:street=Rungestraße
+addr:suburb=Stadtmitte
+amenity=bank
+atm=no
+check_date=2023-07-04
+contact:phone=+49 381 366 54 510
+contact:website=https://www.creditplus.de/kredite/beratung/filiale-rostock
+level=0
+name=CreditPlusBank
+opening_hours=Mo-Tu, Th 09:00-13:00, 14:00-19:00; We 09:00-13:00, 14:00-16:00; Fr 09:30-14:30
+id=node/3906431445</desc></wpt><wpt lat="54.3242437" lon="13.0573733"><name>Deutsche Bank</name><desc>addr:city=Stralsund
+addr:housenumber=120c
+addr:postcode=18435
+addr:street=Heinrich-Heine-Ring
+amenity=bank
+atm=yes
+branch=SB Terminal
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+check_date=2023-07-21
+name=Deutsche Bank
+opening_hours=24/7
+operator=Deutsche Bank
+wheelchair=yes
+id=node/3989352357</desc></wpt><wpt lat="54.2492203" lon="12.234187"><name>Rostocker Volks- und Raiffeisenbank</name><desc>addr:city=Graal-Müritz
+addr:country=DE
+addr:housenumber=3
+addr:postcode=18181
+addr:street=Kurstraße
+amenity=bank
+atm=yes
+brand=VR-Bank
+check_date=2023-06-14
+contact:fax=+49 381 4967414
+contact:phone=+49 381 4967260
+contact:website=https://www.rostocker-vrbank.de/Ueber-uns/Standorte/Geschaeftsstellen/Graal-Mueritz/c1300.html
+name=Rostocker Volks- und Raiffeisenbank
+opening_hours=Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00
+operator=Rostocker Volks- und Raiffeisenbank eG
+wheelchair=yes
+id=node/4081747299</desc></wpt><wpt lat="53.8459832" lon="10.93414"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+email=info@vrbankmecklenburg.de
+fax=+49 38828 232 551 799
+name=Volks- und Raiffeisenbank
+opening_hours=Mo-Fr 09:00-13:00, Tu,Th 14:00-18:00
+phone=+49 38828 212 92
+website=https://www.vrbankmecklenburg.de/
+id=node/4104438175</desc></wpt><wpt lat="54.1065227" lon="11.897905"><name>OSPA</name><desc>addr:city=Bad Doberan
+addr:country=DE
+addr:housenumber=8
+addr:postcode=18209
+addr:street=Am Markt
+amenity=bank
+check_date=2023-07-10
+last_check=2018-11-25
+name=OSPA
+opening_hours=Mo, Tu, Th 09:00-12:30, 14:00-18:00; We, Fr 09:00-12:30; " auf Wunsch nach Vereinbarung"
+operator=OstseeSparkasse Rostock
+id=node/4165581951</desc></wpt><wpt lat="53.2971449" lon="14.2354575"><name>node/4238093347</name><desc>amenity=bank
+atm=no
+id=node/4238093347</desc></wpt><wpt lat="54.3538431" lon="13.4681259"><name>Pommersche Volksbank</name><desc>addr:housenumber=7
+addr:street=Markt
+amenity=bank
+atm=yes
+check_date=2024-07-22
+name=Pommersche Volksbank
+opening_hours=Th 08:30-12:30,14:00-18:00
+wheelchair=yes
+id=node/4256337600</desc></wpt><wpt lat="53.5071221" lon="13.7443816"><name>VR-Bank Uckermark-Randow eG</name><desc>addr:city=Strasburg (Uckermark)
+addr:country=DE
+addr:housenumber=2
+addr:postcode=17335
+addr:street=Altstädter Straße
+amenity=bank
+atm=yes
+name=VR-Bank Uckermark-Randow eG
+operator=VR-Bank
+id=node/4325957169</desc></wpt><wpt lat="54.0453314" lon="14.002789"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+opening_hours=Mo-Sa 09:00-19:00; Su,PH off
+id=node/4331298794</desc></wpt><wpt lat="53.8919708" lon="11.4669679"><name>Targobank</name><desc>amenity=bank
+atm=yes
+brand=Targobank
+brand:wikidata=Q1455437
+brand:wikipedia=en:Targobank
+name=Targobank
+opening_hours=Mo,Tu,Th 09:00-13:00,14:00-18:00; We 09:00-13:00; Fr 09:00-13:00,14:00-17:00
+id=node/4335978938</desc></wpt><wpt lat="53.9671498" lon="11.1646704"><name>Sparkasse Mecklenburg</name><desc>amenity=bank
+name=Sparkasse Mecklenburg
+opening_hours=Tu 09:00-13:00,14:00-18:00; Th 14:00-18:00; Fr 9:00-13:00; PH off
+operator=Sparkasse Mecklenburg-Nordwest
+wheelchair=yes
+id=node/4379341945</desc></wpt><wpt lat="53.9076358" lon="13.0529681"><name>Sparkasse</name><desc>addr:city=Demmin
+addr:housenumber=6
+addr:postcode=17109
+addr:street=An der Mühle
+amenity=bank
+atm=yes
+description=SB-Center
+drive_through=no
+name=Sparkasse
+opening_hours=Mo-Su 06:00-20:00
+operator=Sparkasse Neubrandenburg - Demmin
+website=https://www.spk-nbdm.de
+id=node/4498909310</desc></wpt><wpt lat="53.9395891" lon="12.1094053"><name>Volks- und Raiffeisenbank</name><desc>addr:city=Schwaan
+addr:country=DE
+addr:housenumber=18
+addr:postcode=18258
+addr:street=August-Bebel-Straße
+amenity=bank
+atm=no
+brand=Volks- und Raiffeisenbank
+name=Volks- und Raiffeisenbank
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; We,Fr 09:00-13:00
+operator=Volks- und Raiffeisenbank e. G.
+survey:date=2016-11-13
+id=node/4507037563</desc></wpt><wpt lat="53.6291639" lon="11.412659"><name>Sparda-Bank Berlin</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=12
+addr:postcode=19053
+addr:street=Mecklenburgstraße
+amenity=bank
+atm=yes
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=en:Sparda-Bank
+name=Sparda-Bank Berlin
+opening_hours=Mo,Tu,Th 09:00-13:00, Tu,Th 14:00-18:00
+operator=Sparda-Bank Berlin eG
+wheelchair=no
+id=node/4589479510</desc></wpt><wpt lat="54.3089778" lon="13.0786487"><name>Sparda-Bank Berlin</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=76
+addr:postcode=18437
+addr:street=Tribseer Damm
+amenity=bank
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+brand:wikipedia=de:Sparda-Bank Berlin
+level=0
+name=Sparda-Bank Berlin
+opening_hours=Tu-Th 09:00-13:00, Tu,Th 14:00-18:00
+wheelchair=yes
+wheelchair:description=Tür die in der Passage ist, ist breiter und damit leichter passierbar.
+id=node/4644513929</desc></wpt><wpt lat="54.1841993" lon="12.8829164"><name>Pommersche Volksbank eG</name><desc>amenity=bank
+atm=yes
+name=Pommersche Volksbank eG
+id=node/4727663830</desc></wpt><wpt lat="53.8915604" lon="11.5309399"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/4898649983</desc></wpt><wpt lat="53.7117064" lon="11.8280826"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+drive_through=no
+name=Sparkasse
+name:de=Sparkasse
+id=node/4972818121</desc></wpt><wpt lat="54.0709044" lon="11.7951195"><name>OSPA</name><desc>addr:city=Kröpelin
+addr:country=DE
+addr:housenumber=8
+addr:postcode=18236
+addr:street=Markt
+amenity=bank
+atm=yes
+check_date:opening_hours=2024-03-15
+name=OSPA
+opening_hours=Mo-Fr 09:00-12:30, Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/5009314424</desc></wpt><wpt lat="54.0883363" lon="12.1373821"><name>K 17</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=17
+addr:postcode=18055
+addr:street=Kröpeliner Straße
+addr:suburb=Stadtmitte
+amenity=bank
+brand=Sparkasse
+check_date=2024-04-05
+contact:website=https://www.ospa.de/de/home/service/filiale-finden.html#/details/178609
+name=K 17
+opening_hours=Mo, Tu, Th 10:00-19:00; We, Fr 10:00-16:00
+operator=OSPA Rostock
+wheelchair=yes
+id=node/5029116312</desc></wpt><wpt lat="53.5057734" lon="13.744882"><name>Sparkasse</name><desc>addr:city=Strasburg (Uckermark)
+addr:housenumber=22
+addr:postcode=17335
+addr:street=Am Markt
+amenity=bank
+atm=yes
+drive_through=no
+name=Sparkasse
+operator=Sparkasse
+id=node/5030242032</desc></wpt><wpt lat="53.7369315" lon="14.0454083"><name>Volksbank Raiffeisenbank eG</name><desc>amenity=bank
+atm=yes
+check_date:opening_hours=2020-10-24
+fax=+493977151119
+name=Volksbank Raiffeisenbank eG
+opening_hours=Mo-Fr 08:30-13:00, Mo 14:00-16:00, Tu 14:00-18:00, Th 14:00-18:00
+operator=Volksbank
+phone=+49397715110
+website=https://www.vbvorpommern.de/startseite.html
+wheelchair=yes
+id=node/5043453021</desc></wpt><wpt lat="53.427583" lon="11.846263"><name>VR-Bank eG</name><desc>amenity=bank
+atm=yes
+name=VR-Bank eG
+opening_hours=Mo,We-Fr 09:00-13:00; Tu 09:00-13:00,14:00-18:00
+id=node/5295797522</desc></wpt><wpt lat="53.6286412" lon="11.4123642"><name>Targobank</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=31
+addr:postcode=19053
+addr:street=Mecklenburgstraße
+amenity=bank
+atm=yes
+brand=Targobank
+brand:wikidata=Q1455437
+brand:wikipedia=en:Targobank
+check_date:opening_hours=2024-10-30
+drive_through=no
+name=Targobank
+opening_hours=Mo-Fr 10:00-13:00, Mo,Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/5305422675</desc></wpt><wpt lat="53.45931" lon="13.5838075"><name>Sparkasse Mecklenburg-Strelitz - Geschäftsstelle Woldegk</name><desc>amenity=bank
+atm=yes
+brand=Sparkasse
+email=kontakt@spk-mecklenburg-strelitz.de
+fax=+49 3981 274267
+name=Sparkasse Mecklenburg-Strelitz - Geschäftsstelle Woldegk
+opening_hours=Mo,Fr 09:00-12:30,13:30-16:00; Tu,Th 09:00-12:30,13:30-18:00; We 09:00-12:30
+phone=+49 3981 274257
+id=node/5337369695</desc></wpt><wpt lat="53.4589875" lon="13.5839239"><name>VR Bank Woldegk</name><desc>addr:city=Woldegk
+addr:country=DE
+addr:housenumber=3
+addr:postcode=17348
+addr:street=Markt
+amenity=bank
+atm=yes
+email=posteingang@vrb-uckermark-randow.de
+fax=+49 3984 36339562
+name=VR Bank Woldegk
+opening_hours=Mo-Th 08:00-12:00; Tu 08:00-12:00,14:00-18:00; Fr 08:00-13:00
+operator=VR-Bank Uckermark-Randow eG
+phone=+49 3984 363380
+website=https://www.vrb-uckermark-randow.de/meine-bank/filialen---ansprechpartner/filialen/uebersicht-filialen/geschaeftsstelle-woldegk.html
+id=node/5337369696</desc></wpt><wpt lat="54.0851874" lon="12.1371214"><name>apoBank Filiale Rostock</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=12
+addr:postcode=18055
+addr:street=August-Bebel-Straße
+addr:suburb=Stadtmitte
+amenity=bank
+name=apoBank Filiale Rostock
+opening_hours=Mo-Tu, Th 08:30-12:00, 13:00-16:00; We 08:30-12:00, 13:00-18:00; Fr 08:30-12:00, 13:00-15:00
+phone=+49381452230
+id=node/5436086721</desc></wpt><wpt lat="53.2739388" lon="12.8242123"><name>node/5436238258</name><desc>amenity=bank
+brand=Volksbank
+opening_hours="Für Beratungen nach vorhetiger Termunvereinbarung sind wir am Donnerstag in Mirow vor Ort"
+operator=Raiffeisenbank Mecklenburger Seenplatte eG
+wheelchair=yes
+id=node/5436238258</desc></wpt><wpt lat="54.515107" lon="13.6388457"><name>VR-Bank</name><desc>addr:city=Sassnitz
+addr:country=DE
+addr:housenumber=4a
+addr:postcode=18546
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+check_date=2023-12-30
+name=VR-Bank
+opening_hours=Mo 08:30-12:30,14:00-16:30; Tu,Th 08:30-12:30,14:00-18:00; We,Fr 08:30-12:30
+operator=Pommersche Volksbank eG
+id=node/5529041516</desc></wpt><wpt lat="54.5159758" lon="13.6408107"><name>Sparkasse</name><desc>addr:city=Sassnitz
+addr:country=DE
+addr:housenumber=15
+addr:postcode=18546
+addr:street=Rügen-Galerie
+amenity=bank
+atm=yes
+drive_through=no
+name=Sparkasse
+opening_hours=Mo 08:30-13:00,14:00-16:00; Tu,Th 08:30-13:00,14:00-18:00; We,Fr 08:30-13:00
+operator=Sparkasse Vorpommern
+wheelchair=yes
+id=node/5529041517</desc></wpt><wpt lat="53.6301943" lon="14.011083"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+wheelchair=yes
+id=node/5590166329</desc></wpt><wpt lat="54.0958038" lon="13.372627"><name>Santander</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=15
+addr:postcode=17489
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+brand=Santander
+brand:wikidata=Q875292
+brand:wikipedia=en:Santander Bank
+name=Santander
+opening_hours=Mo,Tu,Th 09:30-13:00,14:00-18:00; We,Fr 09:30-13:00,14:00-16:00; PH off
+wheelchair=yes
+id=node/5648937712</desc></wpt><wpt lat="53.7372166" lon="11.7138585"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/5678412146</desc></wpt><wpt lat="53.5805921" lon="11.9267374"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/5678443607</desc></wpt><wpt lat="54.106813" lon="12.031939"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+operator=Ostseesparkasse Rostock
+id=node/5694007540</desc></wpt><wpt lat="54.0905702" lon="13.443273"><name>Sparkasse</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=2a
+addr:postcode=17493
+addr:street=Wolgaster Landstraße
+amenity=bank
+atm=yes
+name=Sparkasse
+opening_hours=24/7
+operator=Sparkasse
+toilets:wheelchair=no
+wheelchair=yes
+id=node/5841373045</desc></wpt><wpt lat="53.8741204" lon="12.5497609"><name>VR Volksbank</name><desc>addr:city=Groß Wüstenfelde
+addr:country=DE
+addr:housenumber=72
+addr:postcode=17168
+addr:street=Dorfstraße
+amenity=bank
+atm=yes
+brand=VR-Banken
+name=VR Volksbank
+opening_hours=Th 09:00-12:30, 14:00-18:00
+operator=Raiffeisenbank eG, Geschäftsstelle Groß Wüstenfelde
+id=node/5864182268</desc></wpt><wpt lat="54.0942207" lon="12.7589008"><name>Sparkasse Vorpommern</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Vorpommern
+wheelchair=no
+id=node/5893603313</desc></wpt><wpt lat="54.1879703" lon="12.8771085"><name>Sparkasse Vorpommern</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Vorpommern
+id=node/5893622368</desc></wpt><wpt lat="53.3739036" lon="10.7234844"><name>Sparkasse</name><desc>amenity=bank
+fax=+493855514449
+name=Sparkasse
+opening_hours=Mo 09:00-13:00, 14:00-16:00; Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th 09:00-13:00, 14:00-18:00; Fr 09:00-13:00, 14:00-16:00
+phone=+493855512222
+website=https://www.sparkasse.de/standorte/filialen/sparkasse-mecklenburg-schwerin-geschaeftsstelle-boizenburg-35306
+wheelchair=yes
+id=node/5896108221</desc></wpt><wpt lat="53.3759535" lon="10.7473125"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/5951282046</desc></wpt><wpt lat="54.4186862" lon="13.4335988"><name>Deutsche Bank</name><desc>addr:city=Bergen auf Rügen
+addr:country=DE
+addr:housenumber=8
+addr:postcode=18528
+addr:street=Markt
+amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+check_date=2023-07-29
+name=Deutsche Bank
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; We,Fr 09:00-13:00
+operator=Deutsche Bank
+wheelchair=yes
+id=node/6588740767</desc></wpt><wpt lat="54.1190883" lon="13.8352179"><name>Sparkasse</name><desc>addr:city=Karlshagen
+addr:country=DE
+addr:housenumber=16
+addr:postcode=17449
+addr:street=Strandstraße
+amenity=bank
+atm=yes
+name=Sparkasse
+opening_hours=Mo 08:30-12:30; Tu 14:00-18:00; Apr-Sep: We 08:30-12:30; Th 08:30-12:30
+operator=Sparkasse Vorpommern
+wheelchair=yes
+id=node/6651550665</desc></wpt><wpt lat="54.082609" lon="12.1930244"><name>OstseeSparkasse Rostock</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=2a
+addr:postcode=18055
+addr:street=Timmermannsstrat
+addr:suburb=Brinckmansdorf
+amenity=bank
+atm=no
+bic=NOLADE21ROS
+brand=Sparkasse
+brand:wikidata=Q13601825
+contact:fax=+49 381 643 66 44 99
+contact:phone=+49 381 643 0
+contact:website=https://www.ospa.de/
+name=OstseeSparkasse Rostock
+opening_hours=Mo, Tu, We 09:00-12:30; Th, Fr 09:00-12:30, 14:00-18:00
+start_date=2019-11-04
+id=node/6909626022</desc></wpt><wpt lat="53.556518" lon="13.2635251"><name>Targobank</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=13-15
+addr:postcode=17033
+addr:street=Wartlaustraße
+amenity=bank
+atm=yes
+brand=Targobank
+brand:wikidata=Q1455437
+brand:wikipedia=en:Targobank
+contact:website=https://www.targobank.de/de/filialen/index.html?amcbid=439&amp;city=Neubrandenburg&amp;street=Wartlaustr.%2013-15
+name=Targobank
+opening_hours=Mo-Fr 10:00-13:00, 14:00-18:00; PH off
+id=node/6957931837</desc></wpt><wpt lat="54.0801864" lon="13.9144563"><name>Volksbank Wolgast eG</name><desc>addr:city=Zinnowitz
+addr:country=DE
+addr:housenumber=31
+addr:postcode=17454
+addr:street=Neue Strandstraße
+amenity=bank
+atm=yes
+check_date=2023-09-19
+drive_through=no
+name=Volksbank Wolgast eG
+opening_hours=Mo-Fr 08:30-12:30; Mo 14:00-16:00; Tu 14:00-16:00; Th 14:00-16:00
+id=node/7116196332</desc></wpt><wpt lat="53.5278546" lon="12.9306629"><name>Müritz Sparkasse</name><desc>amenity=bank
+name=Müritz Sparkasse
+source=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Filialdirektion_roebel8.html?n=true&amp;stref=imagebox
+id=node/7674185271</desc></wpt><wpt lat="53.5248164" lon="12.9291175"><name>node/7674627690</name><desc>amenity=bank
+note=Gibt es die Filiale da noch?
+id=node/7674627690</desc></wpt><wpt lat="53.6953296" lon="12.7492751"><name>VR MSE</name><desc>amenity=bank
+name=VR MSE
+source=https://www.raiba-seenplatte.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen.html
+id=node/7674642555</desc></wpt><wpt lat="53.5993267" lon="11.3938023"><name>ING</name><desc>amenity=bank
+atm=yes
+branch=DiBa
+brand=ING
+brand:wikidata=Q645708
+name=ING
+id=node/7692656479</desc></wpt><wpt lat="53.5997428" lon="11.3916148"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+brand:wikipedia=en:Deutsche Postbank
+name=Postbank
+id=node/7692656483</desc></wpt><wpt lat="54.3477552" lon="12.3991"><name>Sparkasse</name><desc>addr:city=Wustrow
+addr:country=DE
+addr:housenumber=28
+addr:postcode=18347
+addr:street=Ernst-Thälmann-Straße
+amenity=bank
+atm=yes
+check_date:opening_hours=2025-04-30
+name=Sparkasse
+opening_hours=Tu 08:30-12:30; Th 14:00-18:00
+id=node/7781132377</desc></wpt><wpt lat="54.3091973" lon="13.0844049"><name>Deutsche Bank</name><desc>addr:city=Stralsund
+addr:country=DE
+addr:housenumber=1
+addr:postcode=18439
+addr:street=Tribseer Straße
+amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+check_date=2025-07-05
+check_date:opening_hours=2025-07-05
+name=Deutsche Bank
+opening_hours=Mo-Fr 09:00-13:00
+operator=Deutsche Bank
+wheelchair=no
+id=node/7892579242</desc></wpt><wpt lat="53.6289045" lon="11.4126895"><name>HypoVereinsbank</name><desc>amenity=bank
+brand=HypoVereinsbank
+brand:wikidata=Q220189
+brand:wikipedia=en:HypoVereinsbank
+check_date=2025-05-07
+check_date:opening_hours=2024-05-28
+name=HypoVereinsbank
+opening_hours=Mo-Fr 10:00-13:00, Tu,Th 14:30-18:00
+wheelchair=no
+id=node/7920371585</desc></wpt><wpt lat="54.3166496" lon="13.3509919"><name>Sparkasse Vorpommern Filiale Garz</name><desc>addr:city=Garz/Rügen
+addr:country=DE
+addr:housenumber=3
+addr:postcode=18574
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+check_date:opening_hours=2023-07-29
+name=Sparkasse Vorpommern Filiale Garz
+opening_hours=Tu 14:00-18:00; Th 08:30-12:30
+website=https://www.spk-vorpommern.de/de/home/toolbar/filialen/sparkasse-vorpommern-s-service-filiale-garz-4637.html
+wheelchair=yes
+id=node/7965868396</desc></wpt><wpt lat="53.8223156" lon="12.791063"><name>Sparkasse</name><desc>addr:city=Neukalen
+addr:housenumber=20
+addr:postcode=17154
+addr:street=Am Markt
+amenity=bank
+name=Sparkasse
+website=https://www.sparkasse.de/standorte/filialen/sparkasse-neubrandenburg-demmin-filiale-neukalen-35290
+id=node/7992701410</desc></wpt><wpt lat="53.7772891" lon="12.177074"><name>Deutsche Bank</name><desc>amenity=bank
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+self_service=yes
+id=node/8191211145</desc></wpt><wpt lat="54.0314581" lon="12.4485183"><name>OSPA</name><desc>amenity=bank
+atm=yes
+check_date=2023-05-02
+name=OSPA
+id=node/8688492087</desc></wpt><wpt lat="53.8778965" lon="12.6186213"><name>OSPA</name><desc>amenity=bank
+atm=yes
+name=OSPA
+id=node/8715593331</desc></wpt><wpt lat="54.0309169" lon="11.6715373"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Volks- und Raiffeisenbank
+id=node/8758525771</desc></wpt><wpt lat="54.0313454" lon="11.6728972"><name>OSPA</name><desc>amenity=bank
+atm=yes
+name=OSPA
+opening_hours=Mo-Fr 09:00-12:30, Tu,Th 14:00-18:00; PH,Sa,Su off
+id=node/8758525785</desc></wpt><wpt lat="53.9245298" lon="13.340495"><name>Sparkasse Vorpommern</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Vorpommern
+opening_hours=Mo-Fr 08:30-13:00; Mo 14:00-16:00; PH,Tu,Th 14:00-18:00
+wheelchair=yes
+id=node/8987644675</desc></wpt><wpt lat="53.9240139" lon="13.3405016"><name>Volksbank Demmin eG</name><desc>amenity=bank
+name=Volksbank Demmin eG
+id=node/8987644677</desc></wpt><wpt lat="53.8638888" lon="11.1844656"><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+name=Volks- und Raiffeisenbank
+id=node/9029850852</desc></wpt><wpt lat="54.4454245" lon="12.5681287"><name>Sparkasse Vorpommern</name><desc>addr:housenumber=8
+addr:street=Bergstraße
+amenity=bank
+check_date=2024-07-04
+check_date:opening_hours=2024-07-03
+name=Sparkasse Vorpommern
+opening_hours=Tu 14:00-18:00; Th 08:30-12:30
+wheelchair=yes
+id=node/9214298446</desc></wpt><wpt lat="54.4088767" lon="13.4163924"><name>Sparkasse</name><desc>addr:city=Bergen auf Rügen
+addr:housenumber=56
+addr:postcode=18528
+addr:street=Ruschwitzstraße
+amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/9299918483</desc></wpt><wpt lat="54.3658198" lon="12.7251968"><name>Pommersche Volksbank</name><desc>addr:city=Barth
+addr:country=DE
+addr:housenumber=66
+addr:postcode=18356
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+email=Posteingang@PommerscheVB.de
+fax=+49 38231 87377
+name=Pommersche Volksbank
+opening_hours=Mo 08:30-12:30,14:00-16:30; Tu,Th 08:30-12:30,14:00-18:00; We,Fr 08:30-12:30
+operator=Pommersche Volksbank eG
+phone=+49 38231 87370
+website=https://www.vbvorpommern.de/
+id=node/9416191488</desc></wpt><wpt lat="53.9694478" lon="13.1280097"><name>Volksbank Demmin eG</name><desc>addr:city=Loitz
+addr:country=DE
+addr:housenumber=162
+addr:postcode=17121
+addr:street=Marktstraße
+amenity=bank
+atm=yes
+currency:EUR=yes
+drive_through=no
+name=Volksbank Demmin eG
+wheelchair=no
+id=node/9909571585</desc></wpt><wpt lat="54.2427694" lon="12.432197"><name>Sparkasse Vorpommern</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Vorpommern
+id=node/10048756821</desc></wpt><wpt lat="54.2427458" lon="12.4326219"><name>Deutsche Bank</name><desc>addr:city=Ribnitz-Damgarten
+addr:country=DE
+addr:housenumber=44
+addr:postcode=18311
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+check_date:opening_hours=2024-05-24
+name=Deutsche Bank
+opening_hours=Mo-We,Fr 10:00-13:00, Tu,Th 14:00-17:00
+id=node/10048756822</desc></wpt><wpt lat="53.7421111" lon="12.7599119"><name>Raiffeisenbank Malchin</name><desc>addr:city=Malchin
+addr:country=DE
+addr:housenumber=1
+addr:postcode=17139
+addr:street=Bürgermeister-Tretow-Straße
+amenity=bank
+name=Raiffeisenbank Malchin
+operator=Raiffeisenbank
+website=https://www.raiba-seenplatte.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen/malchin.html
+id=node/10225005257</desc></wpt><wpt lat="53.5551639" lon="10.9168511"><name>Raiffeisenbank Mölln Südstorman</name><desc>addr:city=Zarrentin am Schaalsee
+addr:housenumber=2d
+addr:postcode=19246
+addr:street=Amtsstraße
+amenity=bank
+name=Raiffeisenbank Mölln Südstorman
+opening_hours=Mo-Fr 09:00-12:30, Tu, Th 14:00-18:00
+id=node/10807152646</desc></wpt><wpt lat="54.3544531" lon="13.4732123"><name>Sparkasse Vorpommern Filiale Putbus</name><desc>addr:city=Putbus
+addr:country=DE
+addr:housenumber=15
+addr:postcode=18581
+addr:street=Circus
+amenity=bank
+atm=yes
+name=Sparkasse Vorpommern Filiale Putbus
+opening_hours=Mo,Fr 09:00-13:00, 14:00-16:00; Tu,Th 09:00-13:00, 14:00-18:00; We 09:00-13:00
+operator=Sparkasse
+phone=+49 38301 782
+wheelchair=yes
+wikidata=Q106804783
+id=node/10991745186</desc></wpt><wpt lat="54.1170228" lon="12.1476737"><name>Filiale Toitenwinkel</name><desc>amenity=bank
+atm=no
+brand=Sparkasse
+name=Filiale Toitenwinkel
+opening_hours=Tu,Th 14:00-18:00, Mo-Fr 09:00-12:30
+operator=Ostseesparkasse Rostock
+id=node/11406019538</desc></wpt><wpt lat="53.3623384" lon="13.0637498"><name>Deutsche Bank</name><desc>amenity=bank
+brand=Deutsche Bank
+brand:wikidata=Q66048
+name=Deutsche Bank
+opening_hours=Mo,Tu,Th,Fr 09:00-13:00
+id=node/11919295068</desc></wpt><wpt lat="53.4540588" lon="14.2076893"><name>VR-Bank Uckermark-Randow eG</name><desc>addr:city=Löcknitz
+addr:country=DE
+addr:housenumber=12
+addr:postcode=17321
+addr:street=Chausseestraße
+amenity=bank
+atm=yes
+drive_through=no
+name=VR-Bank Uckermark-Randow eG
+id=node/11930748409</desc></wpt><wpt lat="53.2306523" lon="11.4221241"><name>VR PLUS Bank</name><desc>addr:city=Eldena
+addr:country=DE
+addr:housenumber=4a
+addr:postcode=19294
+addr:street=Karl-Marx-Platz
+amenity=bank
+atm=yes
+email=posteingang@vr-plus.de
+name=VR PLUS Bank
+opening_hours=Montag, Mittwoch, und Donnerstag 09.00-12.00 Uhr; Dienstag 14.00-17.00 Uhr
+operator=VR PLUS Altmark-Wendland eG
+phone=038755 427-0
+website=https://www.vr-plus.de/startseite.html
+wheelchair=yes
+id=node/11947267650</desc></wpt><wpt lat="53.461711" lon="12.0284331"><name>Sparkasse Parchim-Lübz</name><desc>addr:city=Lübz
+addr:country=DE
+addr:housenumber=26
+addr:postcode=19386
+addr:street=Mühlenstraße
+amenity=bank
+atm=yes
+check_date=2023-10-25
+contact:email=info@spk-m-sn.de
+contact:fax=+49 385551-2233
+contact:phone=+49 385551-2222
+contact:website=https://www.sparkasse.de/standorte/filialen/sparkasse-mecklenburg-schwerin-zweigstelle-luebz-4682
+name=Sparkasse Parchim-Lübz
+old_name=Alte Wassermühle Lübz
+opening_hours=Tu,Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00; Su,PH,Sa,Mo,We off
+start_date=1759
+wheelchair=yes
+id=node/11959273574</desc></wpt><wpt lat="53.4623752" lon="12.0307665"><name>VR Bank Mecklenburg eG.</name><desc>amenity=bank
+atm=yes
+contact:phone=+49 385 54900
+contact:website=https://www.vr.de/standorte/L/vr-bank-mecklenburg-eg-regionalzentrum-luebz-5258.html
+name=VR Bank Mecklenburg eG.
+opening_hours=Mo,Mi,Do,Fr 09:00-13:00; Di 09:00-13:00, 14:00-18:00; Sa,Su,PH off
+operator=Volks- und Raiffeisenbank e.G. Güstrow
+wheelchair=limited
+id=node/12015178787</desc></wpt><wpt lat="53.603251" lon="11.432095"><name>Sparkasse Mecklenburg-Schwerin</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=3-5
+addr:postcode=19061
+addr:street=Dreescher Markt
+amenity=bank
+atm=yes
+branch=Zweigstelle Dreescher Markt
+drive_through=no
+email=info@spk-m-sn.de
+name=Sparkasse Mecklenburg-Schwerin
+opening_hours=Mo 09:00-13:00, 14:00:16:00, Di,Do 09:00-13:00, 14:00:18:00
+operator=Sparkasse
+phone=+49 385 551-2222
+website=https://www.sparkasse-mecklenburg-schwerin.de/de/home/service/filiale-finden.html#/details/35302
+id=node/12211819332</desc></wpt><wpt lat="53.8847863" lon="10.863143"><name>node/12649369238</name><desc>amenity=bank
+brand=Sparkasse
+note=Service-Station
+id=node/12649369238</desc></wpt><wpt lat="54.1117041" lon="13.0381169"><name>Sparkasse Vorpommern</name><desc>addr:city=Grimmen
+addr:country=DE
+addr:housenumber=47
+addr:postcode=18507
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+contact:email=info@spk-vorpommern.de
+contact:fax=+49 3834 557 7609
+contact:phone=+49 3834 557 7601
+name=Sparkasse Vorpommern
+opening_hours=Mo,Fr 09:00-13:00; Tu,Th 09:00-13:00,14:00-18:00
+wheelchair=yes
+id=node/12673543114</desc></wpt><trk><name>Ostseesparkasse</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=72
+addr:postcode=18109
+addr:street=Schiffbauerring
+addr:suburb=Groß Klein
+amenity=bank
+atm=yes
+building=yes
+building:material=glass
+height=4.5 m
+kvl_hro:desc=Kreditinstitutsgebaeude, Bankgebaeude;OALL
+kvl_hro:type=1421
+name=Ostseesparkasse
+roof:shape=flat
+type=multipolygon
+website=https://www.sparkasse.de/standorte/filialen/ostseesparkasse-rostock-filiale-gross-klein-4615
+wheelchair=yes
+id=relation/18360363</desc><trkseg><trkpt lat="54.1481304" lon="12.0760376"/><trkpt lat="54.1481021" lon="12.0760861"/><trkpt lat="54.1481039" lon="12.0763069"/><trkpt lat="54.1483103" lon="12.0763123"/><trkpt lat="54.1483128" lon="12.0759915"/><trkpt lat="54.1483059" lon="12.0759738"/><trkpt lat="54.1482451" lon="12.0759761"/><trkpt lat="54.1482308" lon="12.0759325"/><trkpt lat="54.1482117" lon="12.0759084"/><trkpt lat="54.1482007" lon="12.0759012"/><trkpt lat="54.148189" lon="12.0758978"/><trkpt lat="54.1481771" lon="12.0758986"/><trkpt lat="54.1481656" lon="12.0759034"/><trkpt lat="54.1481548" lon="12.0759121"/><trkpt lat="54.1481453" lon="12.0759243"/><trkpt lat="54.1481373" lon="12.0759396"/><trkpt lat="54.1481314" lon="12.0759574"/><trkpt lat="54.1481277" lon="12.0759769"/><trkpt lat="54.1481263" lon="12.0759973"/><trkpt lat="54.1481275" lon="12.0760178"/><trkpt lat="54.1481304" lon="12.0760376"/></trkseg></trk><trk><name>Sparkasse Neubrandenburg-Demmin - Filiale Löwenvilla</name><desc>addr:city=Neubrandenburg
+addr:housenumber=54
+addr:postcode=17033
+addr:street=Friedrich-Engels-Ring
+amenity=bank
+atm=yes
+loc_name=Löwenvilla
+name=Sparkasse Neubrandenburg-Demmin - Filiale Löwenvilla
+opening_hours=Mo,Th 09:00-13:00,14:00-18:00; Tu,We 09:00-13:00,14:00-16:00; Fr 09:00-13:00
+operator=Sparkasse
+website=https://www.sparkasse.de/standorte/filialen/sparkasse-neubrandenburg-demmin-filiale-loewenvilla-35311
+wheelchair=yes
+id=way/32887654</desc><trkseg><trkpt lat="53.5584992" lon="13.2667527"/><trkpt lat="53.5584027" lon="13.2667973"/><trkpt lat="53.5583992" lon="13.2667758"/><trkpt lat="53.5583168" lon="13.2668053"/><trkpt lat="53.5582307" lon="13.2668361"/><trkpt lat="53.5582322" lon="13.2668582"/><trkpt lat="53.5580693" lon="13.2668901"/><trkpt lat="53.5580851" lon="13.2671198"/><trkpt lat="53.5582475" lon="13.2670882"/><trkpt lat="53.5582492" lon="13.2671135"/><trkpt lat="53.5584409" lon="13.2670329"/><trkpt lat="53.5584371" lon="13.2670099"/><trkpt lat="53.5585483" lon="13.2669584"/><trkpt lat="53.5585365" lon="13.2668858"/><trkpt lat="53.5585552" lon="13.2668771"/><trkpt lat="53.5585396" lon="13.2667818"/><trkpt lat="53.558521" lon="13.2667905"/><trkpt lat="53.5585137" lon="13.266746"/><trkpt lat="53.5584992" lon="13.2667527"/></trkseg></trk><trk><name>Deutsche Bundesbank</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=2
+addr:postcode=18055
+addr:street=Richard-Wagner-Straße
+addr:suburb=Stadtmitte
+amenity=bank
+atm=no
+building=yes
+building:colour=#9C7B8C
+building:material=brick
+check_date=2025-05-14
+height=19 m
+kvl_hro:amenity=office_building
+kvl_hro:type=1411
+name=Deutsche Bundesbank
+opening_hours=Mo-Fr 08:30-12:00
+operator=Deutsche Bundesbank
+phone=+49 381 245-0
+roof:material=grass
+source=KVL HRO
+website=https://www.bundesbank.de/
+id=way/33895767</desc><trkseg><trkpt lat="54.0843168" lon="12.1414547"/><trkpt lat="54.0842276" lon="12.1414772"/><trkpt lat="54.0841199" lon="12.1415043"/><trkpt lat="54.0841109" lon="12.1415066"/><trkpt lat="54.0841254" lon="12.1416743"/><trkpt lat="54.0841692" lon="12.1416633"/><trkpt lat="54.0841992" lon="12.1420097"/><trkpt lat="54.0841527" lon="12.1420214"/><trkpt lat="54.084165" lon="12.1421628"/><trkpt lat="54.0844924" lon="12.1420802"/><trkpt lat="54.0845222" lon="12.1420728"/><trkpt lat="54.0845018" lon="12.1418369"/><trkpt lat="54.0844631" lon="12.1414305"/><trkpt lat="54.0844201" lon="12.1414414"/><trkpt lat="54.0843179" lon="12.1414671"/><trkpt lat="54.0843168" lon="12.1414547"/></trkseg></trk><trk><name>Ostseesparkasse Rostock</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=23
+addr:postcode=18057
+addr:street=Am Vögenteich
+addr:suburb=Kröpeliner-Tor-Vorstadt
+amenity=bank
+atm=yes
+building=yes
+height=24.8
+internet_access=wlan
+internet_access:fee=no
+internet_access:ssid=-SPARKASSE-
+kvl_hro:type=1421
+name=Ostseesparkasse Rostock
+opening_hours=Mo,Tu,Th 09:00-18:00; We,Fr 09:00-12:30
+roof:shape=flat
+wheelchair=yes
+wikidata=Q2036055
+wikipedia=de:OstseeSparkasse Rostock
+id=way/34000948</desc><trkseg><trkpt lat="54.086922" lon="12.1249129"/><trkpt lat="54.0868485" lon="12.1249435"/><trkpt lat="54.0868051" lon="12.1249616"/><trkpt lat="54.086809" lon="12.124988"/><trkpt lat="54.0865062" lon="12.1251259"/><trkpt lat="54.086477" lon="12.12514"/><trkpt lat="54.0865035" lon="12.1252814"/><trkpt lat="54.086521" lon="12.1254241"/><trkpt lat="54.0865231" lon="12.1254885"/><trkpt lat="54.0864331" lon="12.1254575"/><trkpt lat="54.0864249" lon="12.1255177"/><trkpt lat="54.0864364" lon="12.125593"/><trkpt lat="54.086467" lon="12.12572"/><trkpt lat="54.0866443" lon="12.125783"/><trkpt lat="54.087033" lon="12.125921"/><trkpt lat="54.0871115" lon="12.1259589"/><trkpt lat="54.0871887" lon="12.1259999"/><trkpt lat="54.0872726" lon="12.1260494"/><trkpt lat="54.0873404" lon="12.1260982"/><trkpt lat="54.0873358" lon="12.1260456"/><trkpt lat="54.087312" lon="12.1258072"/><trkpt lat="54.087258" lon="12.125799"/><trkpt lat="54.087262" lon="12.1257506"/><trkpt lat="54.087223" lon="12.1257365"/><trkpt lat="54.0871602" lon="12.1257139"/><trkpt lat="54.087141" lon="12.125707"/><trkpt lat="54.0871521" lon="12.1256313"/><trkpt lat="54.087162" lon="12.1255562"/><trkpt lat="54.0871696" lon="12.125459"/><trkpt lat="54.087172" lon="12.1253409"/><trkpt lat="54.0871641" lon="12.1251955"/><trkpt lat="54.087151" lon="12.12505"/><trkpt lat="54.0871385" lon="12.1249505"/><trkpt lat="54.087124" lon="12.124851"/><trkpt lat="54.086926" lon="12.124942"/><trkpt lat="54.086922" lon="12.1249129"/></trkseg></trk><trk><name>HypoVereinsbank</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=1
+addr:postcode=18055
+addr:street=Kuhstraße
+addr:suburb=Stadtmitte
+amenity=bank
+atm=yes
+brand=HypoVereinsbank
+brand:wikidata=Q220189
+brand:wikipedia=en:HypoVereinsbank
+building=yes
+height=27.6 m
+kvl_hro:type=1421
+name=HypoVereinsbank
+opening_hours=Mo-Fr 10:00-13:00; Mo-Th 14:30-18:00; Fr 14:30-16:00
+operator=UniCredit
+phone=+49 381 45466 0
+roof:shape=flat
+source=KVL HRO
+website=http://www.hvb.de
+wheelchair=limited
+id=way/34479529</desc><trkseg><trkpt lat="54.0892082" lon="12.1309777"/><trkpt lat="54.0892046" lon="12.1308572"/><trkpt lat="54.0892025" lon="12.1307858"/><trkpt lat="54.0891725" lon="12.1307884"/><trkpt lat="54.0891686" lon="12.1306629"/><trkpt lat="54.0890682" lon="12.130671"/><trkpt lat="54.0889617" lon="12.1306826"/><trkpt lat="54.0889694" lon="12.1308059"/><trkpt lat="54.088977" lon="12.131"/><trkpt lat="54.0892082" lon="12.1309777"/></trkseg></trk><trk><name>Volks- und Raiffeisenbank</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=19
+addr:postcode=18055
+addr:street=Buchbinderstraße
+addr:suburb=Stadtmitte
+amenity=bank
+atm=yes
+building=yes
+height=11.1 m
+kvl_hro:type=1421
+name=Volks- und Raiffeisenbank
+roof:shape=flat
+source=KVL HRO
+wheelchair=limited
+id=way/34479744</desc><trkseg><trkpt lat="54.0882298" lon="12.1381577"/><trkpt lat="54.0882094" lon="12.1380666"/><trkpt lat="54.0881983" lon="12.1380168"/><trkpt lat="54.0882097" lon="12.1380089"/><trkpt lat="54.0881819" lon="12.1378857"/><trkpt lat="54.0881454" lon="12.1379118"/><trkpt lat="54.0879302" lon="12.1380825"/><trkpt lat="54.0880037" lon="12.1383857"/><trkpt lat="54.0880085" lon="12.138409"/><trkpt lat="54.0880276" lon="12.1383952"/><trkpt lat="54.0881061" lon="12.1383384"/><trkpt lat="54.0881712" lon="12.1382872"/><trkpt lat="54.0882171" lon="12.1382533"/><trkpt lat="54.0882538" lon="12.1382238"/><trkpt lat="54.0882416" lon="12.1381496"/><trkpt lat="54.0882298" lon="12.1381577"/></trkseg></trk><trk><name>Sparkasse</name><desc>amenity=bank
+building=yes
+name=Sparkasse
+source=Geoportal ORKa MV: http://www.orka-mv.de/
+wheelchair=yes
+id=way/35879834</desc><trkseg><trkpt lat="53.8565657" lon="13.6842801"/><trkpt lat="53.8565619" lon="13.6842817"/><trkpt lat="53.8565624" lon="13.6842851"/><trkpt lat="53.8565324" lon="13.6842921"/><trkpt lat="53.8565254" lon="13.6842098"/><trkpt lat="53.8563344" lon="13.6842566"/><trkpt lat="53.8563345" lon="13.6842604"/><trkpt lat="53.8563231" lon="13.6842634"/><trkpt lat="53.8563227" lon="13.68426"/><trkpt lat="53.8562654" lon="13.6842739"/><trkpt lat="53.8562656" lon="13.6842806"/><trkpt lat="53.8562736" lon="13.6842785"/><trkpt lat="53.8562777" lon="13.6843276"/><trkpt lat="53.8562639" lon="13.6843331"/><trkpt lat="53.856262" lon="13.6843206"/><trkpt lat="53.8562584" lon="13.6843223"/><trkpt lat="53.8562824" lon="13.6844736"/><trkpt lat="53.8562858" lon="13.6844729"/><trkpt lat="53.8562856" lon="13.6844697"/><trkpt lat="53.8562982" lon="13.6844666"/><trkpt lat="53.8562986" lon="13.6844699"/><trkpt lat="53.8563242" lon="13.684464"/><trkpt lat="53.8563312" lon="13.684509"/><trkpt lat="53.8563291" lon="13.6845109"/><trkpt lat="53.856327" lon="13.6845131"/><trkpt lat="53.8563252" lon="13.6845159"/><trkpt lat="53.8563238" lon="13.6845192"/><trkpt lat="53.8563227" lon="13.684523"/><trkpt lat="53.8563221" lon="13.684527"/><trkpt lat="53.856322" lon="13.6845312"/><trkpt lat="53.8563224" lon="13.6845353"/><trkpt lat="53.8563232" lon="13.6845392"/><trkpt lat="53.8563245" lon="13.6845427"/><trkpt lat="53.8563262" lon="13.6845458"/><trkpt lat="53.8563281" lon="13.6845483"/><trkpt lat="53.8563304" lon="13.6845501"/><trkpt lat="53.8563327" lon="13.6845511"/><trkpt lat="53.8563352" lon="13.6845514"/><trkpt lat="53.8563376" lon="13.6845509"/><trkpt lat="53.8563445" lon="13.6845942"/><trkpt lat="53.8563168" lon="13.6846065"/><trkpt lat="53.8563177" lon="13.6846118"/><trkpt lat="53.8563187" lon="13.6846122"/><trkpt lat="53.8563695" lon="13.6849373"/><trkpt lat="53.856359" lon="13.6849421"/><trkpt lat="53.8563551" lon="13.6849159"/><trkpt lat="53.8563513" lon="13.6849178"/><trkpt lat="53.8563736" lon="13.6850601"/><trkpt lat="53.8564688" lon="13.6850182"/><trkpt lat="53.8564683" lon="13.6850148"/><trkpt lat="53.8564794" lon="13.6850098"/><trkpt lat="53.8564801" lon="13.6850132"/><trkpt lat="53.8566276" lon="13.6849478"/><trkpt lat="53.8566152" lon="13.684867"/><trkpt lat="53.8566505" lon="13.6848513"/><trkpt lat="53.8566512" lon="13.6848545"/><trkpt lat="53.8566549" lon="13.6848525"/><trkpt lat="53.8566333" lon="13.6847183"/><trkpt lat="53.856463" lon="13.6847925"/><trkpt lat="53.8564216" lon="13.6844089"/><trkpt lat="53.8565798" lon="13.6843769"/><trkpt lat="53.8565657" lon="13.6842801"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Ludwigslust
+addr:country=DE
+addr:housenumber=2
+addr:postcode=19288
+addr:street=Alexandrinenplatz
+amenity=bank
+atm=yes
+building=commercial
+building:levels=2
+name=Sparkasse
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; We,Fr 09:00-13:00
+roof:levels=1
+source=satelite
+toilets:wheelchair=no
+wheelchair=yes
+id=way/37657418</desc><trkseg><trkpt lat="53.3249412" lon="11.4987965"/><trkpt lat="53.3249468" lon="11.4991437"/><trkpt lat="53.3250549" lon="11.4991389"/><trkpt lat="53.3250521" lon="11.4989636"/><trkpt lat="53.3251849" lon="11.4989577"/><trkpt lat="53.3251758" lon="11.4988473"/><trkpt lat="53.3251502" lon="11.4987387"/><trkpt lat="53.3251414" lon="11.4986756"/><trkpt lat="53.325137" lon="11.4986192"/><trkpt lat="53.3250491" lon="11.4986237"/><trkpt lat="53.3250464" lon="11.4984522"/><trkpt lat="53.3249358" lon="11.4984571"/><trkpt lat="53.3249395" lon="11.4986888"/><trkpt lat="53.324952" lon="11.4986882"/><trkpt lat="53.3249537" lon="11.4987959"/><trkpt lat="53.3249412" lon="11.4987965"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=17a
+addr:postcode=18106
+addr:street=Bertolt-Brecht-Straße
+addr:suburb=Evershagen
+amenity=bank
+atm=yes
+building=public
+building:levels=1
+height=3
+name=Sparkasse
+opening_hours=24/7
+operator=Ostseesparkasse Rostock
+roof:shape=flat
+wheelchair=yes
+id=way/62211612</desc><trkseg><trkpt lat="54.1219174" lon="12.0578345"/><trkpt lat="54.1217641" lon="12.0578585"/><trkpt lat="54.1217609" lon="12.0578014"/><trkpt lat="54.1215388" lon="12.0578376"/><trkpt lat="54.1215444" lon="12.0579367"/><trkpt lat="54.1215319" lon="12.0579449"/><trkpt lat="54.1215223" lon="12.0579583"/><trkpt lat="54.1215148" lon="12.0579778"/><trkpt lat="54.1215113" lon="12.0580047"/><trkpt lat="54.1215126" lon="12.0580242"/><trkpt lat="54.1215196" lon="12.0580492"/><trkpt lat="54.1215277" lon="12.0580631"/><trkpt lat="54.1215381" lon="12.0580731"/><trkpt lat="54.1215525" lon="12.0580779"/><trkpt lat="54.1215575" lon="12.0581725"/><trkpt lat="54.1218962" lon="12.0581198"/><trkpt lat="54.1219334" lon="12.0581137"/><trkpt lat="54.1219204" lon="12.0578806"/><trkpt lat="54.1219174" lon="12.0578345"/></trkseg></trk><trk><name>Sparkasse Vorpommern Filiale Vitte</name><desc>addr:city=Insel Hiddensee
+addr:country=DE
+addr:housename=Sparkasse
+addr:housenumber=59
+addr:postcode=18565
+addr:street=Süderende
+addr:suburb=Vitte
+amenity=bank
+atm=yes
+building=retail
+building:levels=1
+check_date:opening_hours=2024-07-28
+name=Sparkasse Vorpommern Filiale Vitte
+note=Opening hours as of August 2018
+opening_hours=We off; Th 11:00-15:00; Fr-Su off; Mo 08:30-12:00; Tu off
+operator=Sparkasse Rügen
+roof:levels=2
+roof:shape=gabled
+wheelchair=yes
+id=way/69549602</desc><trkseg><trkpt lat="54.5648804" lon="13.1035906"/><trkpt lat="54.5649165" lon="13.1035985"/><trkpt lat="54.5649109" lon="13.1036756"/><trkpt lat="54.5649697" lon="13.1036883"/><trkpt lat="54.5649756" lon="13.1036077"/><trkpt lat="54.5650178" lon="13.1036168"/><trkpt lat="54.5650305" lon="13.1034435"/><trkpt lat="54.5648933" lon="13.1034137"/><trkpt lat="54.5648804" lon="13.1035906"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Strelitz Geschäftsstelle Burg Stargard</name><desc>addr:city=Burg Stargard
+addr:housenumber=2
+addr:postcode=17094
+addr:street=Am Markt
+amenity=bank
+atm=yes
+building=yes
+drive_through=no
+email=kontakt@spk-mecklenburg-strelitz.de
+fax=+49 3981 274268
+name=Sparkasse Mecklenburg-Strelitz Geschäftsstelle Burg Stargard
+opening_hours=Mo-Fr 08:30-12:30, Mo,Fr 13:30-16:00, Tu,Th 13:30-18:00
+phone=+49 3981 274258
+website=https://www.spk-mecklenburg-strelitz.de
+wheelchair=yes
+id=way/83870901</desc><trkseg><trkpt lat="53.4959321" lon="13.3095854"/><trkpt lat="53.4959044" lon="13.3095619"/><trkpt lat="53.4958479" lon="13.309514"/><trkpt lat="53.4958312" lon="13.3094999"/><trkpt lat="53.4957733" lon="13.3096929"/><trkpt lat="53.4957996" lon="13.3097153"/><trkpt lat="53.4957887" lon="13.3097518"/><trkpt lat="53.4958841" lon="13.3098327"/><trkpt lat="53.4959284" lon="13.3096851"/><trkpt lat="53.4959075" lon="13.3096674"/><trkpt lat="53.4959321" lon="13.3095854"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=26a
+addr:postcode=19057
+addr:street=Plöner Straße
+amenity=bank
+building=yes
+name=Sparkasse
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00
+id=way/89043221</desc><trkseg><trkpt lat="53.6477195" lon="11.3709174"/><trkpt lat="53.6477252" lon="11.3708146"/><trkpt lat="53.6477511" lon="11.3708184"/><trkpt lat="53.6477557" lon="11.3707432"/><trkpt lat="53.6477602" lon="11.3706704"/><trkpt lat="53.6477337" lon="11.3706651"/><trkpt lat="53.6477388" lon="11.3705652"/><trkpt lat="53.6476093" lon="11.3705436"/><trkpt lat="53.6476052" lon="11.3706427"/><trkpt lat="53.6475731" lon="11.3706453"/><trkpt lat="53.6475587" lon="11.3706818"/><trkpt lat="53.6475569" lon="11.3707214"/><trkpt lat="53.6475605" lon="11.3707579"/><trkpt lat="53.6475713" lon="11.3707878"/><trkpt lat="53.6475959" lon="11.3707967"/><trkpt lat="53.64759" lon="11.3708963"/><trkpt lat="53.6477195" lon="11.3709174"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Schwerin</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=17a
+addr:postcode=19059
+addr:street=Lessingstraße
+amenity=bank
+atm=yes
+building=yes
+building:levels=1
+building:material=brick
+name=Sparkasse Mecklenburg-Schwerin
+roof:shape=hipped
+website=https://www.sparkasse-mecklenburg-schwerin.de/de/home.html
+id=way/90847176</desc><trkseg><trkpt lat="53.6339412" lon="11.3924647"/><trkpt lat="53.6338551" lon="11.3924244"/><trkpt lat="53.6338465" lon="11.3924765"/><trkpt lat="53.6337655" lon="11.3924385"/><trkpt lat="53.6337246" lon="11.3926867"/><trkpt lat="53.6339172" lon="11.3927771"/><trkpt lat="53.6339366" lon="11.3926595"/><trkpt lat="53.6339548" lon="11.3925495"/><trkpt lat="53.6339292" lon="11.3925374"/><trkpt lat="53.6339412" lon="11.3924647"/></trkseg></trk><trk><name>way/91516424</name><desc>addr:city=Teterow
+addr:country=DE
+addr:housenumber=15
+addr:postcode=17166
+addr:street=Poggestraße
+amenity=bank
+building=yes
+operator=Ostseesparkasse
+id=way/91516424</desc><trkseg><trkpt lat="53.7761139" lon="12.5649342"/><trkpt lat="53.7762372" lon="12.5650887"/><trkpt lat="53.7762666" lon="12.5650219"/><trkpt lat="53.7763067" lon="12.5650721"/><trkpt lat="53.7763982" lon="12.5648641"/><trkpt lat="53.7762789" lon="12.5647146"/><trkpt lat="53.776294" lon="12.5646801"/><trkpt lat="53.7762499" lon="12.5646248"/><trkpt lat="53.7761139" lon="12.5649342"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Schwerin</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=10a
+addr:postcode=19063
+addr:street=Magdeburger Straße
+amenity=bank
+atm=yes
+building=yes
+building:colour=#D1CDA3
+building:levels=2
+contact:website=https://www.sparkasse-mecklenburg-schwerin.de/de/home/service/filiale-finden.html?n=true#details/4692
+height=6
+name=Sparkasse Mecklenburg-Schwerin
+roof:material=grass
+roof:shape=flat
+wheelchair=yes
+id=way/92669261</desc><trkseg><trkpt lat="53.5966355" lon="11.452344"/><trkpt lat="53.5965277" lon="11.4526329"/><trkpt lat="53.5965252" lon="11.4526832"/><trkpt lat="53.5965345" lon="11.4527421"/><trkpt lat="53.5965532" lon="11.4527845"/><trkpt lat="53.5965872" lon="11.4528019"/><trkpt lat="53.596644" lon="11.4527806"/><trkpt lat="53.5966596" lon="11.4527567"/><trkpt lat="53.5967567" lon="11.4524718"/><trkpt lat="53.5966969" lon="11.452449"/><trkpt lat="53.5966902" lon="11.4524642"/><trkpt lat="53.5966646" lon="11.4524342"/><trkpt lat="53.5966698" lon="11.4524185"/><trkpt lat="53.5966355" lon="11.452344"/></trkseg></trk><trk><name>Müritz-Sparkasse</name><desc>addr:city=Waren (Müritz)
+addr:country=DE
+addr:housenumber=12-13
+addr:postcode=17192
+addr:street=Friedensstraße
+amenity=bank
+atm=no
+building=yes
+name=Müritz-Sparkasse
+website=https://banking.mueritz-sparkasse.de
+id=way/94956697</desc><trkseg><trkpt lat="53.5156641" lon="12.6860459"/><trkpt lat="53.5156981" lon="12.6858723"/><trkpt lat="53.5155687" lon="12.6858012"/><trkpt lat="53.5154205" lon="12.6857198"/><trkpt lat="53.5153879" lon="12.6858864"/><trkpt lat="53.5153863" lon="12.6861614"/><trkpt lat="53.5155352" lon="12.6861633"/><trkpt lat="53.5155353" lon="12.6861351"/><trkpt lat="53.5155633" lon="12.6861362"/><trkpt lat="53.5155701" lon="12.6860249"/><trkpt lat="53.5155798" lon="12.686"/><trkpt lat="53.5156641" lon="12.6860459"/></trkseg></trk><trk><name>Raiffeisenbank Mecklenburger Seenplatte eG</name><desc>addr:city=Waren (Müritz)
+addr:country=DE
+addr:housenumber=10
+addr:postcode=17192
+addr:street=Kietzstraße
+amenity=bank
+building=public
+name=Raiffeisenbank Mecklenburger Seenplatte eG
+phone=+49 3991 178-0
+website=https://www.raiba-seenplatte.de/
+wheelchair=yes
+id=way/94956789</desc><trkseg><trkpt lat="53.5143312" lon="12.6796705"/><trkpt lat="53.5143549" lon="12.6796665"/><trkpt lat="53.5144339" lon="12.6796514"/><trkpt lat="53.5144463" lon="12.6798353"/><trkpt lat="53.5143676" lon="12.6798503"/><trkpt lat="53.51436" lon="12.6798516"/><trkpt lat="53.5143657" lon="12.6799465"/><trkpt lat="53.5145926" lon="12.6799082"/><trkpt lat="53.5145862" lon="12.6798015"/><trkpt lat="53.5145513" lon="12.6798074"/><trkpt lat="53.5145395" lon="12.6796106"/><trkpt lat="53.5145656" lon="12.6796062"/><trkpt lat="53.5145602" lon="12.6795164"/><trkpt lat="53.5143243" lon="12.6795563"/><trkpt lat="53.5143312" lon="12.6796705"/></trkseg></trk><trk><name>Volksbank Demmin</name><desc>addr:city=Demmin
+addr:country=DE
+addr:housenumber=21
+addr:postcode=17109
+addr:street=Rudolf-Breitscheid-Straße
+amenity=bank
+building=yes
+name=Volksbank Demmin
+website=https://www.volksbank-demmin.de/
+id=way/95640423</desc><trkseg><trkpt lat="53.907722" lon="13.0357396"/><trkpt lat="53.9074486" lon="13.0356094"/><trkpt lat="53.9073666" lon="13.0361054"/><trkpt lat="53.9074558" lon="13.0361479"/><trkpt lat="53.9074747" lon="13.0360338"/><trkpt lat="53.9076588" lon="13.0361215"/><trkpt lat="53.907722" lon="13.0357396"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Schwerin</name><desc>addr:city=Dömitz
+addr:country=DE
+addr:housenumber=8
+addr:postcode=19303
+addr:street=Werderstraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Mecklenburg-Schwerin
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; We,Fr,Sa,Su,PH off
+operator=Sparkasse Mecklenburg-Schwerin
+wheelchair=yes
+id=way/96029968</desc><trkseg><trkpt lat="53.140574" lon="11.2540022"/><trkpt lat="53.1404724" lon="11.2539619"/><trkpt lat="53.1404457" lon="11.2541488"/><trkpt lat="53.1405475" lon="11.2541892"/><trkpt lat="53.1405559" lon="11.2541307"/><trkpt lat="53.1405646" lon="11.2541342"/><trkpt lat="53.1405741" lon="11.2540679"/><trkpt lat="53.1405651" lon="11.2540643"/><trkpt lat="53.140574" lon="11.2540022"/></trkseg></trk><trk><name>VR PLUS Bank</name><desc>addr:city=Dömitz
+addr:country=DE
+addr:housenumber=6a
+addr:postcode=19303
+addr:street=Werderstraße
+amenity=bank
+atm=yes
+building=yes
+email=posteingang@vr-plus.de
+name=VR PLUS Bank
+opening_hours=Montag 14.00-17.00 Uhr; Dienstag, Donnerstag, Freitag 09.00-12.00 Uhr
+operator=VR PLUS Altmark-Wendland eG
+phone=038758 427-0
+website=https://www.vr-plus.de/startseite.html
+wheelchair=yes
+id=way/96029970</desc><trkseg><trkpt lat="53.1406286" lon="11.2536683"/><trkpt lat="53.1406601" lon="11.2534367"/><trkpt lat="53.1404984" lon="11.2533679"/><trkpt lat="53.1404669" lon="11.2535901"/><trkpt lat="53.1406286" lon="11.2536683"/></trkseg></trk><trk><name>VR-Bank</name><desc>addr:housename=VR-Bank Haus
+amenity=bank
+building=yes
+building:levels=3
+name=VR-Bank
+old_name=ehem. Werderklinik
+roof:shape=flat
+website=https://www.brenncke-architektur.de/vr-bank-haus/
+id=way/96064513</desc><trkseg><trkpt lat="53.6353905" lon="11.4235123"/><trkpt lat="53.6353312" lon="11.4234941"/><trkpt lat="53.6353419" lon="11.4233991"/><trkpt lat="53.6352138" lon="11.4233594"/><trkpt lat="53.6352139" lon="11.4233522"/><trkpt lat="53.6350771" lon="11.4233089"/><trkpt lat="53.6350766" lon="11.4233163"/><trkpt lat="53.6349477" lon="11.4232754"/><trkpt lat="53.6349223" lon="11.4234991"/><trkpt lat="53.6350468" lon="11.4235389"/><trkpt lat="53.6350463" lon="11.423546"/><trkpt lat="53.6351922" lon="11.4235916"/><trkpt lat="53.635193" lon="11.423585"/><trkpt lat="53.6353171" lon="11.4236243"/><trkpt lat="53.6353177" lon="11.4236195"/><trkpt lat="53.6353774" lon="11.4236387"/><trkpt lat="53.6353963" lon="11.4236451"/><trkpt lat="53.6353615" lon="11.4239557"/><trkpt lat="53.6354908" lon="11.423997"/><trkpt lat="53.6355099" lon="11.4238068"/><trkpt lat="53.6355213" lon="11.4238106"/><trkpt lat="53.635535" lon="11.4236873"/><trkpt lat="53.6355375" lon="11.4236651"/><trkpt lat="53.6355418" lon="11.4236262"/><trkpt lat="53.6355302" lon="11.4236227"/><trkpt lat="53.635549" lon="11.4234534"/><trkpt lat="53.6355373" lon="11.4234495"/><trkpt lat="53.6355404" lon="11.4234183"/><trkpt lat="53.6355435" lon="11.4233889"/><trkpt lat="53.6354407" lon="11.4233575"/><trkpt lat="53.6354376" lon="11.4233892"/><trkpt lat="53.635435" lon="11.4234194"/><trkpt lat="53.6354228" lon="11.4234152"/><trkpt lat="53.6354223" lon="11.4234181"/><trkpt lat="53.6354017" lon="11.4234125"/><trkpt lat="53.6353905" lon="11.4235123"/></trkseg></trk><trk><name>Hauptverwaltung Sparkasse Vorpommern</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=1
+addr:postcode=17489
+addr:street=An der Sparkasse
+amenity=bank
+atm=yes
+building=yes
+name=Hauptverwaltung Sparkasse Vorpommern
+opening_hours=Mo 08:30-13:00,14:00-16:00; Tu 08:30-13:00,14:00-18:00; We 08:30-13:00; Th 08:30-13:00,14:00-18:00; Fr 08:30-13:00
+wheelchair=yes
+id=way/96791476</desc><trkseg><trkpt lat="54.0740832" lon="13.392998"/><trkpt lat="54.0737982" lon="13.3930154"/><trkpt lat="54.0737951" lon="13.3928671"/><trkpt lat="54.0740935" lon="13.3928488"/><trkpt lat="54.0741108" lon="13.3928029"/><trkpt lat="54.0741087" lon="13.3927208"/><trkpt lat="54.073589" lon="13.3927603"/><trkpt lat="54.073591" lon="13.3928373"/><trkpt lat="54.0736111" lon="13.3928739"/><trkpt lat="54.0737579" lon="13.3928649"/><trkpt lat="54.0737614" lon="13.3930301"/><trkpt lat="54.0736695" lon="13.393038"/><trkpt lat="54.0736439" lon="13.3930057"/><trkpt lat="54.0736143" lon="13.3929858"/><trkpt lat="54.0735761" lon="13.3929799"/><trkpt lat="54.0735387" lon="13.3929944"/><trkpt lat="54.073511" lon="13.3930207"/><trkpt lat="54.0734882" lon="13.3930582"/><trkpt lat="54.0734231" lon="13.3930596"/><trkpt lat="54.0734306" lon="13.3932764"/><trkpt lat="54.0734716" lon="13.3932728"/><trkpt lat="54.073491" lon="13.3933256"/><trkpt lat="54.0735187" lon="13.3933663"/><trkpt lat="54.0735426" lon="13.3933861"/><trkpt lat="54.0735685" lon="13.3933968"/><trkpt lat="54.0735947" lon="13.3933978"/><trkpt lat="54.0736201" lon="13.3933894"/><trkpt lat="54.0736439" lon="13.3933722"/><trkpt lat="54.0736712" lon="13.3933372"/><trkpt lat="54.0736917" lon="13.3932908"/><trkpt lat="54.0737028" lon="13.3932447"/><trkpt lat="54.0740879" lon="13.39322"/><trkpt lat="54.0740832" lon="13.392998"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Schwerin</name><desc>addr:city=Pampow
+addr:country=DE
+addr:housenumber=25a
+addr:postcode=19075
+addr:street=Schweriner Straße
+amenity=bank
+atm=yes
+building=yes
+contact:website=https://www.sparkasse-mecklenburg-schwerin.de/de/home/toolbar/filialen/sparkasse-mecklenburg-schwerin-zweigstelle-pampow-4710.html
+name=Sparkasse Mecklenburg-Schwerin
+wheelchair=limited
+id=way/96953333</desc><trkseg><trkpt lat="53.5682354" lon="11.3601093"/><trkpt lat="53.5682067" lon="11.3601614"/><trkpt lat="53.5681934" lon="11.3602079"/><trkpt lat="53.5681855" lon="11.3602602"/><trkpt lat="53.568191" lon="11.3603327"/><trkpt lat="53.5683022" lon="11.3605804"/><trkpt lat="53.568332" lon="11.3605472"/><trkpt lat="53.5683504" lon="11.3604858"/><trkpt lat="53.5683503" lon="11.3604253"/><trkpt lat="53.568336" lon="11.36037"/><trkpt lat="53.5683547" lon="11.3603421"/><trkpt lat="53.5683149" lon="11.3602442"/><trkpt lat="53.5683001" lon="11.360262"/><trkpt lat="53.5682354" lon="11.3601093"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Schwerin</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=9
+addr:postcode=19053
+addr:street=Marienplatz
+amenity=bank
+atm=yes
+brand=Sparkasse
+building:material=brick
+check_date:opening_hours=2024-08-14
+name=Sparkasse Mecklenburg-Schwerin
+opening_hours=Mo-Fr 09:00-13:00, Tu,Th 14:00-18:00, Mo 14:00-16:00
+roof:levels=1
+roof:shape=gabled
+website=https://www.sparkasse-mecklenburg-schwerin.de/de/home.html
+wheelchair=yes
+wikipedia=de:Sparkasse Mecklenburg-Schwerin
+id=way/97816893</desc><trkseg><trkpt lat="53.6281406" lon="11.4118233"/><trkpt lat="53.6283572" lon="11.4118894"/><trkpt lat="53.628352" lon="11.4119639"/><trkpt lat="53.6284025" lon="11.411983"/><trkpt lat="53.6284201" lon="11.4117582"/><trkpt lat="53.6284176" lon="11.4117577"/><trkpt lat="53.6284188" lon="11.4117431"/><trkpt lat="53.6284208" lon="11.4117434"/><trkpt lat="53.6284307" lon="11.4116691"/><trkpt lat="53.6284299" lon="11.4116634"/><trkpt lat="53.6284378" lon="11.4115753"/><trkpt lat="53.6284395" lon="11.4115689"/><trkpt lat="53.6284411" lon="11.4115317"/><trkpt lat="53.6284438" lon="11.4114656"/><trkpt lat="53.6284417" lon="11.4113698"/><trkpt lat="53.6284395" lon="11.4113697"/><trkpt lat="53.6284399" lon="11.4113547"/><trkpt lat="53.6284422" lon="11.411355"/><trkpt lat="53.628449" lon="11.4112036"/><trkpt lat="53.6282341" lon="11.4111812"/><trkpt lat="53.6282372" lon="11.411092"/><trkpt lat="53.6281713" lon="11.4110817"/><trkpt lat="53.6281676" lon="11.4111746"/><trkpt lat="53.6281292" lon="11.4111704"/><trkpt lat="53.6281061" lon="11.411392"/><trkpt lat="53.628153" lon="11.4114019"/><trkpt lat="53.6281591" lon="11.4113251"/><trkpt lat="53.6281794" lon="11.411328"/><trkpt lat="53.6281406" lon="11.4118233"/></trkseg></trk><trk><name>VR Bank</name><desc>addr:city=Schwerin
+addr:country=DE
+addr:housenumber=17
+addr:postcode=19053
+addr:street=Mecklenburgstraße
+amenity=bank
+atm=yes
+building=apartments
+building:levels=3
+check_date:opening_hours=2024-04-15
+name=VR Bank
+opening_hours=Mo-Fr 09:00-13:00, Tu 14:00-18:00
+operator=VR-Bank eG
+roof:levels=0
+wheelchair=yes
+id=way/97946775</desc><trkseg><trkpt lat="53.6294815" lon="11.4120309"/><trkpt lat="53.6294799" lon="11.4120304"/><trkpt lat="53.629472" lon="11.4123469"/><trkpt lat="53.6294857" lon="11.4123655"/><trkpt lat="53.6295929" lon="11.4123432"/><trkpt lat="53.6295926" lon="11.4123389"/><trkpt lat="53.6295947" lon="11.4123385"/><trkpt lat="53.6295838" lon="11.412126"/><trkpt lat="53.6294815" lon="11.4120309"/></trkseg></trk><trk><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+building=yes
+check_date=2024-07-24
+name=Sparkasse
+opening_hours=Mo-Fr 09:00-13:00, Mo,Tu,Th 14:00-18:00
+id=way/98003293</desc><trkseg><trkpt lat="53.6301536" lon="11.4102804"/><trkpt lat="53.6301845" lon="11.4104611"/><trkpt lat="53.6301949" lon="11.4106047"/><trkpt lat="53.6302565" lon="11.4105723"/><trkpt lat="53.6302331" lon="11.4104369"/><trkpt lat="53.6303229" lon="11.4103912"/><trkpt lat="53.6303386" lon="11.4104804"/><trkpt lat="53.6303063" lon="11.4104961"/><trkpt lat="53.630322" lon="11.4105844"/><trkpt lat="53.6303155" lon="11.4105869"/><trkpt lat="53.6303198" lon="11.4106108"/><trkpt lat="53.6303258" lon="11.4106075"/><trkpt lat="53.630331" lon="11.4106422"/><trkpt lat="53.6303506" lon="11.4106353"/><trkpt lat="53.6304569" lon="11.4106024"/><trkpt lat="53.6304177" lon="11.4101896"/><trkpt lat="53.6303927" lon="11.4101612"/><trkpt lat="53.6301536" lon="11.4102804"/></trkseg></trk><trk><name>Sparkasse Neubrandenburg-Demmin</name><desc>addr:city=Neubrandenburg
+addr:country=DE
+addr:housenumber=11
+addr:postcode=17033
+addr:street=Platanenstraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Neubrandenburg-Demmin
+operator=Filiale Betanienberg Süd
+wheelchair=yes
+id=way/102244593</desc><trkseg><trkpt lat="53.5238894" lon="13.2590757"/><trkpt lat="53.5242026" lon="13.2587633"/><trkpt lat="53.5239221" lon="13.2579677"/><trkpt lat="53.5235862" lon="13.2583028"/><trkpt lat="53.5236383" lon="13.2584503"/><trkpt lat="53.5238772" lon="13.2582119"/><trkpt lat="53.52403" lon="13.258645"/><trkpt lat="53.5238137" lon="13.2588609"/><trkpt lat="53.5238894" lon="13.2590757"/></trkseg></trk><trk><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+building=yes
+name=Raiffeisenbank
+operator=Raiffeisenbank
+wheelchair=yes
+id=way/102388934</desc><trkseg><trkpt lat="53.6932293" lon="13.2472205"/><trkpt lat="53.6932362" lon="13.246948"/><trkpt lat="53.6931444" lon="13.2469414"/><trkpt lat="53.6931358" lon="13.2472137"/><trkpt lat="53.6932293" lon="13.2472205"/></trkseg></trk><trk><name>OSPA Rostock</name><desc>addr:city=Rövershagen
+addr:country=DE
+addr:housenumber=3
+addr:postcode=18182
+addr:street=Rosengrund
+amenity=bank
+atm=yes
+building=yes
+check_date=2023-10-07
+name=OSPA Rostock
+opening_hours=Mo-Fr 09:00-12:30, Tu,Th 14:00-18:00
+roof:shape=pyramidal
+wheelchair=yes
+id=way/107899456</desc><trkseg><trkpt lat="54.1730027" lon="12.2387555"/><trkpt lat="54.1728984" lon="12.2386495"/><trkpt lat="54.1728123" lon="12.2388969"/><trkpt lat="54.1729166" lon="12.2390029"/><trkpt lat="54.1730027" lon="12.2387555"/></trkseg></trk><trk><name>Volks- und Raiffeisenbank</name><desc>addr:city=Lalendorf
+addr:country=DE
+addr:housenumber=4
+addr:postcode=18279
+addr:street=Koppelweg
+amenity=bank
+atm=yes
+building=yes
+name=Volks- und Raiffeisenbank
+toilets:wheelchair=no
+wheelchair=yes
+id=way/111135032</desc><trkseg><trkpt lat="53.7587113" lon="12.3844217"/><trkpt lat="53.7585601" lon="12.3844552"/><trkpt lat="53.7585768" lon="12.3846714"/><trkpt lat="53.758728" lon="12.3846379"/><trkpt lat="53.7587113" lon="12.3844217"/></trkseg></trk><trk><name>Sparkasse Parchim-Lübz</name><desc>addr:city=Parchim
+addr:country=DE
+addr:housenumber=1
+addr:postcode=19370
+addr:street=Moltkeplatz
+amenity=bank
+building=yes
+name=Sparkasse Parchim-Lübz
+operator=Sparkasse
+website=https://www.sparkasse-parchim.de/module/ihre_sparkasse/filialfinder/index.php?n=%2Fmodule%2Fihre_sparkasse%2Ffilialfinder%2F&amp;IFLBSERVERID=IF@@031@@IF
+wheelchair=yes
+id=way/114649018</desc><trkseg><trkpt lat="53.4246406" lon="11.8485389"/><trkpt lat="53.4246213" lon="11.8485378"/><trkpt lat="53.4246119" lon="11.8489978"/><trkpt lat="53.4246198" lon="11.8489982"/><trkpt lat="53.4246184" lon="11.8490668"/><trkpt lat="53.4246638" lon="11.8490694"/><trkpt lat="53.424664" lon="11.8490643"/><trkpt lat="53.4246816" lon="11.8490654"/><trkpt lat="53.4246812" lon="11.8490864"/><trkpt lat="53.4248165" lon="11.8490941"/><trkpt lat="53.4248169" lon="11.8490748"/><trkpt lat="53.424834" lon="11.8490757"/><trkpt lat="53.4248338" lon="11.8490818"/><trkpt lat="53.4248913" lon="11.8490851"/><trkpt lat="53.424902" lon="11.8485565"/><trkpt lat="53.424866" lon="11.8485544"/><trkpt lat="53.4248677" lon="11.8484688"/><trkpt lat="53.4248718" lon="11.848469"/><trkpt lat="53.4248717" lon="11.8484714"/><trkpt lat="53.4248786" lon="11.8484718"/><trkpt lat="53.4248787" lon="11.8484693"/><trkpt lat="53.424908" lon="11.848471"/><trkpt lat="53.4249079" lon="11.8484729"/><trkpt lat="53.4249145" lon="11.8484732"/><trkpt lat="53.4249145" lon="11.8484712"/><trkpt lat="53.4249487" lon="11.8484731"/><trkpt lat="53.4249486" lon="11.8484758"/><trkpt lat="53.4249554" lon="11.8484762"/><trkpt lat="53.4249556" lon="11.8484626"/><trkpt lat="53.4249542" lon="11.8484625"/><trkpt lat="53.4249554" lon="11.8484044"/><trkpt lat="53.4249572" lon="11.8484045"/><trkpt lat="53.4249575" lon="11.8483937"/><trkpt lat="53.4249557" lon="11.8483936"/><trkpt lat="53.4249571" lon="11.8483223"/><trkpt lat="53.4249588" lon="11.8483224"/><trkpt lat="53.424959" lon="11.8483112"/><trkpt lat="53.4249572" lon="11.848311"/><trkpt lat="53.4249584" lon="11.8482507"/><trkpt lat="53.4249593" lon="11.8482507"/><trkpt lat="53.4249595" lon="11.8482397"/><trkpt lat="53.4249532" lon="11.8482393"/><trkpt lat="53.4249532" lon="11.8482415"/><trkpt lat="53.4249159" lon="11.8482394"/><trkpt lat="53.424916" lon="11.8482362"/><trkpt lat="53.4249091" lon="11.8482358"/><trkpt lat="53.4249091" lon="11.8482387"/><trkpt lat="53.4248719" lon="11.8482366"/><trkpt lat="53.424872" lon="11.8482337"/><trkpt lat="53.4248647" lon="11.8482332"/><trkpt lat="53.4248646" lon="11.8482359"/><trkpt lat="53.4248278" lon="11.8482338"/><trkpt lat="53.4248279" lon="11.8482272"/><trkpt lat="53.4248302" lon="11.8482273"/><trkpt lat="53.4248305" lon="11.848211"/><trkpt lat="53.4248286" lon="11.8482109"/><trkpt lat="53.4248298" lon="11.8481516"/><trkpt lat="53.4248338" lon="11.8481438"/><trkpt lat="53.4248294" lon="11.8481371"/><trkpt lat="53.4248265" lon="11.8481429"/><trkpt lat="53.4247922" lon="11.8481409"/><trkpt lat="53.4247923" lon="11.8481361"/><trkpt lat="53.4247509" lon="11.8481338"/><trkpt lat="53.4247508" lon="11.8481387"/><trkpt lat="53.4247175" lon="11.8481368"/><trkpt lat="53.424714" lon="11.8481299"/><trkpt lat="53.4247097" lon="11.8481365"/><trkpt lat="53.4247134" lon="11.8481428"/><trkpt lat="53.4247122" lon="11.8482041"/><trkpt lat="53.4247098" lon="11.848204"/><trkpt lat="53.4247095" lon="11.8482176"/><trkpt lat="53.4247122" lon="11.8482177"/><trkpt lat="53.424712" lon="11.848226"/><trkpt lat="53.4246742" lon="11.8482238"/><trkpt lat="53.4246743" lon="11.8482206"/><trkpt lat="53.4246678" lon="11.8482203"/><trkpt lat="53.4246677" lon="11.848223"/><trkpt lat="53.4246306" lon="11.8482209"/><trkpt lat="53.4246307" lon="11.8482176"/><trkpt lat="53.4246229" lon="11.8482172"/><trkpt lat="53.4246229" lon="11.84822"/><trkpt lat="53.424586" lon="11.8482179"/><trkpt lat="53.4245861" lon="11.8482156"/><trkpt lat="53.4245793" lon="11.8482152"/><trkpt lat="53.4245791" lon="11.848228"/><trkpt lat="53.4245803" lon="11.848228"/><trkpt lat="53.4245792" lon="11.8482801"/><trkpt lat="53.4245774" lon="11.84828"/><trkpt lat="53.4245772" lon="11.8482911"/><trkpt lat="53.4245789" lon="11.8482912"/><trkpt lat="53.4245777" lon="11.8483493"/><trkpt lat="53.424576" lon="11.8483492"/><trkpt lat="53.4245758" lon="11.8483603"/><trkpt lat="53.4245777" lon="11.8483604"/><trkpt lat="53.4245766" lon="11.8484119"/><trkpt lat="53.4245748" lon="11.8484118"/><trkpt lat="53.4245745" lon="11.8484256"/><trkpt lat="53.4245812" lon="11.848426"/><trkpt lat="53.4245813" lon="11.8484245"/><trkpt lat="53.4246152" lon="11.8484265"/><trkpt lat="53.4246151" lon="11.8484289"/><trkpt lat="53.4246227" lon="11.8484294"/><trkpt lat="53.4246228" lon="11.8484274"/><trkpt lat="53.4246429" lon="11.8484285"/><trkpt lat="53.4246406" lon="11.8485389"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Zingst
+addr:country=DE
+addr:housenumber=26
+addr:postcode=18374
+addr:street=Hafenstraße
+amenity=bank
+atm=yes
+building=retail
+name=Sparkasse
+opening_hours=Mo-Fr 08:30-13:00, Tu,Th 14:00-18:00, Mo 14:00-16:00
+wheelchair=yes
+id=way/124039239</desc><trkseg><trkpt lat="54.4344892" lon="12.6869478"/><trkpt lat="54.4346131" lon="12.6871124"/><trkpt lat="54.4346354" lon="12.6870629"/><trkpt lat="54.434651" lon="12.6870836"/><trkpt lat="54.4346711" lon="12.6870388"/><trkpt lat="54.434692" lon="12.6869923"/><trkpt lat="54.4346759" lon="12.6869708"/><trkpt lat="54.4347022" lon="12.6869123"/><trkpt lat="54.4345788" lon="12.6867484"/><trkpt lat="54.4344892" lon="12.6869478"/></trkseg></trk><trk><name>Sparkasse Mecklenburg Nordwest</name><desc>addr:city=Grevesmühlen
+addr:country=DE
+addr:housenumber=1
+addr:postcode=23936
+addr:street=Sparkassenplatz
+amenity=bank
+building=yes
+name=Sparkasse Mecklenburg Nordwest
+website=https://www.spk-mecklenburg-nordwest.de/de/home/service/filiale-finden.html?n=true&amp;stref=service_links#details/4663
+id=way/124758664</desc><trkseg><trkpt lat="53.863358" lon="11.1880294"/><trkpt lat="53.8632863" lon="11.1882563"/><trkpt lat="53.8632498" lon="11.1882757"/><trkpt lat="53.8632612" lon="11.1883358"/><trkpt lat="53.8632563" lon="11.1883517"/><trkpt lat="53.8630479" lon="11.1881645"/><trkpt lat="53.8629915" lon="11.1883457"/><trkpt lat="53.8632025" lon="11.1885349"/><trkpt lat="53.8632104" lon="11.1885962"/><trkpt lat="53.863249" lon="11.1885769"/><trkpt lat="53.8632981" lon="11.1886215"/><trkpt lat="53.8633093" lon="11.1886815"/><trkpt lat="53.8633458" lon="11.1886641"/><trkpt lat="53.8634486" lon="11.1887556"/><trkpt lat="53.8635057" lon="11.1885749"/><trkpt lat="53.8634055" lon="11.188484"/><trkpt lat="53.8634132" lon="11.1884606"/><trkpt lat="53.8634499" lon="11.1884417"/><trkpt lat="53.8634386" lon="11.188379"/><trkpt lat="53.8635062" lon="11.1881628"/><trkpt lat="53.863358" lon="11.1880294"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Ribnitz-Damgarten
+addr:country=DE
+addr:housenumber=9
+addr:postcode=18311
+addr:street=Am Markt
+amenity=bank
+atm=yes
+building=yes
+check_date:opening_hours=2023-10-23
+name=Volksbank
+opening_hours=Mo 08:30-12:30,14:00-16:30; Tu,Th 08:30-12:30,14:00-18:00; We,Fr 08:30-12:30
+id=way/126994981</desc><trkseg><trkpt lat="54.2438502" lon="12.4320378"/><trkpt lat="54.243873" lon="12.4318475"/><trkpt lat="54.2437634" lon="12.4318082"/><trkpt lat="54.2436895" lon="12.4317824"/><trkpt lat="54.2436667" lon="12.4319727"/><trkpt lat="54.2437556" lon="12.4320042"/><trkpt lat="54.2438502" lon="12.4320378"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Ribnitz-Damgarten
+addr:country=DE
+addr:housenumber=2
+addr:postcode=18311
+addr:street=Stralsunder Straße
+amenity=bank
+atm=yes
+building=apartments
+name=Volksbank
+id=way/127239045</desc><trkseg><trkpt lat="54.2522715" lon="12.4736442"/><trkpt lat="54.2523739" lon="12.4737104"/><trkpt lat="54.2524027" lon="12.4735796"/><trkpt lat="54.2523003" lon="12.4735134"/><trkpt lat="54.2522715" lon="12.4736442"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Ribnitz-Damgarten
+addr:country=DE
+addr:housenumber=6
+addr:postcode=18311
+addr:street=Barther Straße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+id=way/127295608</desc><trkseg><trkpt lat="54.2529022" lon="12.4735009"/><trkpt lat="54.2529127" lon="12.4734579"/><trkpt lat="54.2528693" lon="12.4734267"/><trkpt lat="54.2528758" lon="12.4733999"/><trkpt lat="54.2528071" lon="12.4733505"/><trkpt lat="54.2527878" lon="12.4734292"/><trkpt lat="54.2527532" lon="12.4734043"/><trkpt lat="54.2527185" lon="12.4735459"/><trkpt lat="54.2529309" lon="12.4736984"/><trkpt lat="54.2529551" lon="12.4735954"/><trkpt lat="54.2529665" lon="12.4735471"/><trkpt lat="54.2529022" lon="12.4735009"/></trkseg></trk><trk><name>Ospa</name><desc>addr:city=Graal-Müritz
+addr:country=DE
+addr:housenumber=20
+addr:postcode=18181
+addr:street=Kurstraße
+amenity=bank
+brand=Sparkasse
+building=yes
+name=Ospa
+operator=Ostseesparkasse
+wheelchair=yes
+id=way/127582637</desc><trkseg><trkpt lat="54.2501053" lon="12.2326075"/><trkpt lat="54.2499726" lon="12.2325539"/><trkpt lat="54.2499561" lon="12.2326796"/><trkpt lat="54.249949" lon="12.2326776"/><trkpt lat="54.2499197" lon="12.2327084"/><trkpt lat="54.2499361" lon="12.232756"/><trkpt lat="54.2499469" lon="12.2327614"/><trkpt lat="54.249942" lon="12.2327949"/><trkpt lat="54.2500726" lon="12.2328451"/><trkpt lat="54.2501053" lon="12.2326075"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Born a. Darß
+addr:country=DE
+addr:housenumber=2
+addr:postcode=18375
+addr:street=Schulstraße
+addr:suburb=Darß
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+opening_hours=Tu 08:30-12:30; Th 14:00-18:00
+id=way/134074945</desc><trkseg><trkpt lat="54.3828926" lon="12.5275673"/><trkpt lat="54.382763" lon="12.527528"/><trkpt lat="54.3827637" lon="12.5275057"/><trkpt lat="54.3826705" lon="12.5274825"/><trkpt lat="54.3826539" lon="12.5276499"/><trkpt lat="54.3826635" lon="12.5276523"/><trkpt lat="54.3826622" lon="12.5276793"/><trkpt lat="54.3827648" lon="12.5277095"/><trkpt lat="54.3827689" lon="12.5277004"/><trkpt lat="54.3828768" lon="12.5277242"/><trkpt lat="54.3828926" lon="12.5275673"/></trkseg></trk><trk><name>OSPA</name><desc>addr:city=Sanitz
+addr:country=DE
+addr:housenumber=25a
+addr:postcode=18190
+addr:street=Rostocker Straße
+amenity=bank
+building=yes
+name=OSPA
+wheelchair=no
+id=way/134512842</desc><trkseg><trkpt lat="54.077285" lon="12.3794566"/><trkpt lat="54.0769596" lon="12.3794402"/><trkpt lat="54.0769563" lon="12.3796302"/><trkpt lat="54.0772817" lon="12.3796467"/><trkpt lat="54.077285" lon="12.3794566"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Heringsdorf
+addr:country=DE
+addr:housenumber=14b
+addr:postcode=17429
+addr:street=Seestraße
+addr:suburb=Bansin
+amenity=bank
+atm=yes
+building=yes
+name=Volksbank
+opening_hours=Mo,We-Fr 08:30-12:00; Tu 14:00-17:00
+wheelchair=yes
+id=way/136997351</desc><trkseg><trkpt lat="53.9695558" lon="14.1402984"/><trkpt lat="53.9694816" lon="14.1404085"/><trkpt lat="53.9695517" lon="14.1405452"/><trkpt lat="53.969626" lon="14.1404351"/><trkpt lat="53.9696097" lon="14.1404033"/><trkpt lat="53.969603" lon="14.1404132"/><trkpt lat="53.9695771" lon="14.1403628"/><trkpt lat="53.9695838" lon="14.1403528"/><trkpt lat="53.9695558" lon="14.1402984"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Warin
+addr:country=DE
+addr:housenumber=1a
+addr:postcode=19417
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+building=yes
+fax=+49 38482 229 319
+name=Sparkasse
+phone=+49 38482 229 30
+url=https://www.spk-mecklenburg-nordwest.de/
+wheelchair=yes
+id=way/141254892</desc><trkseg><trkpt lat="53.8005544" lon="11.7044757"/><trkpt lat="53.8005642" lon="11.7045855"/><trkpt lat="53.8006837" lon="11.7045662"/><trkpt lat="53.8006774" lon="11.7044555"/><trkpt lat="53.8006659" lon="11.7044572"/><trkpt lat="53.8005544" lon="11.7044757"/></trkseg></trk><trk><name>Sparda-Bank Berlin</name><desc>addr:housenumber=31
+addr:street=Störtebekerstraße
+amenity=bank
+brand=Sparda-Bank Berlin
+brand:wikidata=Q1656189
+building=commercial
+name=Sparda-Bank Berlin
+opening_hours=Mo 09:00-13:00,14:00-18:00
+operator=Sparda-Bank Berlin eG
+wheelchair=yes
+id=way/142286353</desc><trkseg><trkpt lat="54.4137672" lon="13.4186448"/><trkpt lat="54.4136925" lon="13.4186504"/><trkpt lat="54.4136298" lon="13.4187724"/><trkpt lat="54.4136328" lon="13.4187972"/><trkpt lat="54.4136399" lon="13.4189119"/><trkpt lat="54.4136983" lon="13.4190037"/><trkpt lat="54.4137787" lon="13.4189985"/><trkpt lat="54.413828" lon="13.4188941"/><trkpt lat="54.4138205" lon="13.4187299"/><trkpt lat="54.4137672" lon="13.4186448"/></trkseg></trk><trk><name>Volksbank</name><desc>amenity=bank
+atm=yes
+building=yes
+name=Volksbank
+source=Geoportal ORKa MV: http://www.orka-mv.de/
+wheelchair=yes
+id=way/143256150</desc><trkseg><trkpt lat="53.8560962" lon="13.6858596"/><trkpt lat="53.8560237" lon="13.6858573"/><trkpt lat="53.8560221" lon="13.6860066"/><trkpt lat="53.8560899" lon="13.6860088"/><trkpt lat="53.8560882" lon="13.6861601"/><trkpt lat="53.8561764" lon="13.6861629"/><trkpt lat="53.8561807" lon="13.6857707"/><trkpt lat="53.8560972" lon="13.6857681"/><trkpt lat="53.8560962" lon="13.6858596"/></trkseg></trk><trk><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+building=yes
+name=Deutsche Bank
+wheelchair=no
+wikidata=Q107695405
+id=way/147238506</desc><trkseg><trkpt lat="53.9058499" lon="13.0406862"/><trkpt lat="53.905827" lon="13.0405551"/><trkpt lat="53.9057162" lon="13.0406147"/><trkpt lat="53.9057709" lon="13.0408865"/><trkpt lat="53.9059326" lon="13.0407988"/><trkpt lat="53.9059085" lon="13.0406501"/><trkpt lat="53.9058499" lon="13.0406862"/></trkseg></trk><trk><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+website=https://www.spk-nbdm.de
+wheelchair=yes
+id=way/147238703</desc><trkseg><trkpt lat="53.9067689" lon="13.0375659"/><trkpt lat="53.9068133" lon="13.0373013"/><trkpt lat="53.9066963" lon="13.0372447"/><trkpt lat="53.9066519" lon="13.0375093"/><trkpt lat="53.9067689" lon="13.0375659"/></trkseg></trk><trk><name>Pommersche Volksbank</name><desc>addr:city=Samtens
+addr:country=DE
+addr:housenumber=9
+addr:postcode=18573
+addr:street=Gingster Straße
+amenity=bank
+atm=yes
+building=yes
+email=posteingang@pommerschevb.de
+fax=+49 38306 21069
+name=Pommersche Volksbank
+opening_hours=Mo-Fr 08:30-12:30; Mo 14:00-16:30; Tu,Th 14:00-18:00
+phone=+49 38306 1319
+website=https://www.pommerschevb.de/Bank_und_Region/filialen-ansprechpartner/filialen/uebersicht-filialen/geschaeftsstelle-samtens.html
+id=way/150400460</desc><trkseg><trkpt lat="54.3564691" lon="13.2920189"/><trkpt lat="54.3564812" lon="13.2921685"/><trkpt lat="54.3565955" lon="13.2921414"/><trkpt lat="54.3565835" lon="13.2919917"/><trkpt lat="54.3564691" lon="13.2920189"/></trkseg></trk><trk><name>Sparkasse Vorpommern Filiale Samtens</name><desc>addr:city=Samtens
+addr:country=DE
+addr:housenumber=1b
+addr:postcode=18573
+addr:street=Gingster Straße
+amenity=bank
+atm=yes
+building=yes
+fax=+49 38306 21706
+name=Sparkasse Vorpommern Filiale Samtens
+opening_hours=Mo-Fr 09:00-13:00; Mo,Fr 14:00-16:00; Tu,Th 14:00-18:00
+phone=+49 38306 21705
+website=https://www.spk-vorpommern.de/de/home.html
+wheelchair=yes
+id=way/150400599</desc><trkseg><trkpt lat="54.3554335" lon="13.2919661"/><trkpt lat="54.3554419" lon="13.2921344"/><trkpt lat="54.3555642" lon="13.2921164"/><trkpt lat="54.3555558" lon="13.291948"/><trkpt lat="54.3554335" lon="13.2919661"/></trkseg></trk><trk><name>Sparkasse Vorpommern Filiale Sagard</name><desc>addr:city=Sagard
+addr:country=DE
+addr:housenumber=34
+addr:postcode=18551
+addr:street=August-Bebel-Straße
+amenity=bank
+atm=yes
+building=yes
+fax=+49 38302 3086
+name=Sparkasse Vorpommern Filiale Sagard
+opening_hours=Mo-Fr 09:00-13:00; Mo,Fr 14:00-16:00; Tu,Th 14:00-18:00
+operator=Sparkasse
+phone=+49 38302 3085
+roof:shape=hipped
+website=https://www.spk-vorpommern.de/de/home.html
+wheelchair=yes
+id=way/157061218</desc><trkseg><trkpt lat="54.5281362" lon="13.5549832"/><trkpt lat="54.5282836" lon="13.554988"/><trkpt lat="54.5282857" lon="13.5547941"/><trkpt lat="54.5281384" lon="13.5547893"/><trkpt lat="54.5281362" lon="13.5549832"/></trkseg></trk><trk><name>VR-Bank Pasewalk</name><desc>amenity=bank
+atm=yes
+building=yes
+name=VR-Bank Pasewalk
+operator=VR-Bank Uckermark-Randow eG
+id=way/171224847</desc><trkseg><trkpt lat="53.5094901" lon="13.9900796"/><trkpt lat="53.5093996" lon="13.9901151"/><trkpt lat="53.509444" lon="13.9904352"/><trkpt lat="53.5095345" lon="13.9903997"/><trkpt lat="53.5095176" lon="13.9902775"/><trkpt lat="53.5096479" lon="13.9902264"/><trkpt lat="53.5096204" lon="13.9900285"/><trkpt lat="53.5094901" lon="13.9900796"/></trkseg></trk><trk><name>Sparkasse Uecker-Randow</name><desc>addr:city=Pasewalk
+addr:country=DE
+addr:housenumber=20
+addr:postcode=17309
+addr:street=Stettiner Straße
+amenity=bank
+atm=yes
+bic=NOLADE21PSW
+building=yes
+name=Sparkasse Uecker-Randow
+id=way/171871115</desc><trkseg><trkpt lat="53.5042204" lon="13.9947494"/><trkpt lat="53.5043148" lon="13.9947916"/><trkpt lat="53.5044653" lon="13.9938411"/><trkpt lat="53.5043709" lon="13.9937988"/><trkpt lat="53.504321" lon="13.9941177"/><trkpt lat="53.504302" lon="13.9942377"/><trkpt lat="53.5042449" lon="13.9945944"/><trkpt lat="53.5042204" lon="13.9947494"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Marlow
+addr:country=DE
+addr:housenumber=30
+addr:postcode=18337
+addr:street=Bei der Kirche
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+operator=Sparkasse
+wheelchair=yes
+id=way/182454156</desc><trkseg><trkpt lat="54.1539081" lon="12.5724977"/><trkpt lat="54.1538766" lon="12.5725378"/><trkpt lat="54.1539223" lon="12.5726426"/><trkpt lat="54.1539538" lon="12.5726025"/><trkpt lat="54.1540364" lon="12.5724975"/><trkpt lat="54.1539361" lon="12.5722675"/><trkpt lat="54.1538758" lon="12.5723441"/><trkpt lat="54.1538535" lon="12.5723725"/><trkpt lat="54.1539081" lon="12.5724977"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Neukloster
+addr:country=DE
+addr:housenumber=11
+addr:postcode=23992
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+opening_hours=Mo-Fr 09:00-13:00, Tu 14:00-18:00, Th 14:00-18:00
+operator=Sparkasse
+wheelchair=yes
+id=way/184593040</desc><trkseg><trkpt lat="53.8647709" lon="11.6838152"/><trkpt lat="53.8646843" lon="11.6837369"/><trkpt lat="53.8646496" lon="11.6837056"/><trkpt lat="53.8645493" lon="11.6840247"/><trkpt lat="53.8645776" lon="11.6840531"/><trkpt lat="53.8646706" lon="11.6841343"/><trkpt lat="53.8647709" lon="11.6838152"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Greifswald
+addr:country=DE
+addr:housenumber=22
+addr:postcode=17491
+addr:street=Heinrich-Hertz-Straße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+id=way/188391290</desc><trkseg><trkpt lat="54.0774114" lon="13.4057097"/><trkpt lat="54.0774261" lon="13.4059614"/><trkpt lat="54.0774937" lon="13.4059489"/><trkpt lat="54.0775097" lon="13.405968"/><trkpt lat="54.0775337" lon="13.4059735"/><trkpt lat="54.0775561" lon="13.4059617"/><trkpt lat="54.0775742" lon="13.4059361"/><trkpt lat="54.0775795" lon="13.4059017"/><trkpt lat="54.077579" lon="13.4058663"/><trkpt lat="54.0775678" lon="13.4058299"/><trkpt lat="54.0775589" lon="13.4058163"/><trkpt lat="54.0775518" lon="13.4056865"/><trkpt lat="54.0774114" lon="13.4057097"/></trkseg></trk><trk><name>Sparkassen-Service-Filiale Göhren</name><desc>addr:city=Göhren
+addr:country=DE
+addr:housenumber=16a
+addr:postcode=18586
+addr:street=Strandstraße
+amenity=bank
+building=yes
+fax=+49 38308 2125
+last_check=2018-12-01
+name=Sparkassen-Service-Filiale Göhren
+opening_hours=Tu,Fr 08:30-12:30; Th 14:00-18:00
+operator=Sparkasse
+phone=+49 38308 2110
+wheelchair=yes
+id=way/190649707</desc><trkseg><trkpt lat="54.3419658" lon="13.7407648"/><trkpt lat="54.3419835" lon="13.740889"/><trkpt lat="54.3419981" lon="13.7409047"/><trkpt lat="54.3421044" lon="13.740863"/><trkpt lat="54.3421071" lon="13.740883"/><trkpt lat="54.3421458" lon="13.7408676"/><trkpt lat="54.3421235" lon="13.7407022"/><trkpt lat="54.3419658" lon="13.7407648"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Schwerin</name><desc>amenity=bank
+atm=yes
+building=apartments
+building:levels=2
+name=Sparkasse Mecklenburg-Schwerin
+opening_hours=Mo-Fr 09:00-13:00, Mo,Fr 14:00-16:00, Tu,Th 14:00-18:00
+operator=Sparkasse Mecklenburg-Schwerin
+wheelchair=yes
+id=way/198757576</desc><trkseg><trkpt lat="53.2779978" lon="11.5634585"/><trkpt lat="53.2779204" lon="11.5632024"/><trkpt lat="53.2778238" lon="11.5632659"/><trkpt lat="53.2778414" lon="11.5633544"/><trkpt lat="53.2778041" lon="11.5633806"/><trkpt lat="53.2778071" lon="11.5633947"/><trkpt lat="53.2777757" lon="11.5634144"/><trkpt lat="53.2777998" lon="11.56352"/><trkpt lat="53.2778141" lon="11.5635824"/><trkpt lat="53.2779978" lon="11.5634585"/></trkseg></trk><trk><name>VR-Bank e.G.</name><desc>addr:city=Neustadt-Glewe
+addr:country=DE
+addr:housenumber=39
+addr:postcode=19306
+addr:street=Breitscheidstraße
+amenity=bank
+atm=yes
+building=yes
+name=VR-Bank e.G.
+id=way/202703479</desc><trkseg><trkpt lat="53.3837543" lon="11.5834167"/><trkpt lat="53.3835796" lon="11.5833032"/><trkpt lat="53.3835446" lon="11.5834546"/><trkpt lat="53.3836261" lon="11.5835075"/><trkpt lat="53.3837193" lon="11.5835681"/><trkpt lat="53.3837543" lon="11.5834167"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Trinwillershagen
+addr:country=DE
+addr:housenumber=11
+addr:postcode=18320
+addr:street=Ahrenshäger Straße
+amenity=bank
+building=yes
+name=Sparkasse
+id=way/203360147</desc><trkseg><trkpt lat="54.2483799" lon="12.6219472"/><trkpt lat="54.2484623" lon="12.6220942"/><trkpt lat="54.2485307" lon="12.6219821"/><trkpt lat="54.2484484" lon="12.621835"/><trkpt lat="54.2483799" lon="12.6219472"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Plau am See
+addr:country=DE
+addr:housenumber=27
+addr:postcode=19395
+addr:street=Lange Straße
+amenity=bank
+building=yes
+fax=+49 3871 4214 9529
+name=Sparkasse
+opening_hours=Mo,Th 08:30-12:30,14:00-18:00; Tu 08:30-12:30,14:00-16:00; We,Fr 08:30-12:30
+phone=+49 3871 4214 0
+website=https://www.sparkasse-parchim.de/de/home/service/filiale-finden.html?n=true&amp;stref=service_links#details/4688
+wheelchair=yes
+id=way/215632048</desc><trkseg><trkpt lat="53.4613549" lon="12.2632199"/><trkpt lat="53.4613615" lon="12.2632195"/><trkpt lat="53.4614389" lon="12.2630635"/><trkpt lat="53.4614376" lon="12.2630431"/><trkpt lat="53.4612939" lon="12.2628419"/><trkpt lat="53.461282" lon="12.262842"/><trkpt lat="53.4612275" lon="12.2629507"/><trkpt lat="53.4612339" lon="12.2630592"/><trkpt lat="53.4613486" lon="12.2632202"/><trkpt lat="53.4613549" lon="12.2632199"/></trkseg></trk><trk><name>Raiffeisenbank Mecklenburger Seenplatte eG</name><desc>amenity=bank
+atm=yes
+building=yes
+name=Raiffeisenbank Mecklenburger Seenplatte eG
+opening_hours=Mo-Th 09:00-12:30, Tu,Th 16:00-18:00
+wheelchair=yes
+id=way/216953383</desc><trkseg><trkpt lat="53.3754578" lon="12.6102177"/><trkpt lat="53.3753968" lon="12.6101505"/><trkpt lat="53.3754114" lon="12.6101116"/><trkpt lat="53.3753919" lon="12.6100983"/><trkpt lat="53.3753712" lon="12.6101526"/><trkpt lat="53.3753694" lon="12.6101505"/><trkpt lat="53.3753581" lon="12.6101415"/><trkpt lat="53.3753458" lon="12.6101357"/><trkpt lat="53.3753326" lon="12.6101336"/><trkpt lat="53.3753191" lon="12.6101354"/><trkpt lat="53.3753058" lon="12.6101408"/><trkpt lat="53.3752933" lon="12.6101497"/><trkpt lat="53.3752821" lon="12.6101618"/><trkpt lat="53.3752727" lon="12.6101765"/><trkpt lat="53.375253" lon="12.6101546"/><trkpt lat="53.3752401" lon="12.6101562"/><trkpt lat="53.3752314" lon="12.6101643"/><trkpt lat="53.3752523" lon="12.6101861"/><trkpt lat="53.3752043" lon="12.6103143"/><trkpt lat="53.37536" lon="12.610478"/><trkpt lat="53.3754578" lon="12.6102177"/></trkseg></trk><trk><name>Müritz-Sparkasse</name><desc>addr:city=Röbel/Müritz
+addr:country=DE
+addr:housenumber=1
+addr:postcode=17207
+addr:street=Fritz-Reuter-Straße
+amenity=bank
+atm=yes
+building=yes
+contact:website=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Filialdirektion_roebel.html
+name=Müritz-Sparkasse
+wheelchair=yes
+id=way/217111947</desc><trkseg><trkpt lat="53.3761095" lon="12.6051589"/><trkpt lat="53.3761072" lon="12.6051566"/><trkpt lat="53.3760588" lon="12.6051056"/><trkpt lat="53.3760307" lon="12.6050765"/><trkpt lat="53.3760068" lon="12.60514"/><trkpt lat="53.3760071" lon="12.6051411"/><trkpt lat="53.3759849" lon="12.6052007"/><trkpt lat="53.3759736" lon="12.6051894"/><trkpt lat="53.3759731" lon="12.6051672"/><trkpt lat="53.3759614" lon="12.605149"/><trkpt lat="53.3759465" lon="12.6051498"/><trkpt lat="53.3759294" lon="12.6051804"/><trkpt lat="53.3759153" lon="12.6051584"/><trkpt lat="53.3758958" lon="12.6051282"/><trkpt lat="53.3758881" lon="12.6051415"/><trkpt lat="53.3758264" lon="12.605251"/><trkpt lat="53.3759615" lon="12.6054621"/><trkpt lat="53.3760007" lon="12.6054532"/><trkpt lat="53.3761095" lon="12.6051589"/></trkseg></trk><trk><name>Müritz-Sparkasse</name><desc>addr:city=Penzlin
+addr:country=DE
+addr:housenumber=9
+addr:postcode=17217
+addr:street=Am Wall
+amenity=bank
+atm=yes
+building=bank
+contact:website=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Filialdirektion_roebel3.html
+name=Müritz-Sparkasse
+id=way/221085892</desc><trkseg><trkpt lat="53.5036482" lon="13.0860597"/><trkpt lat="53.5036563" lon="13.0860314"/><trkpt lat="53.5036645" lon="13.086003"/><trkpt lat="53.5035605" lon="13.0859186"/><trkpt lat="53.5035529" lon="13.085945"/><trkpt lat="53.5035362" lon="13.0859314"/><trkpt lat="53.5034875" lon="13.0861007"/><trkpt lat="53.5035321" lon="13.086137"/><trkpt lat="53.5035218" lon="13.0861728"/><trkpt lat="53.5035724" lon="13.0862138"/><trkpt lat="53.5035832" lon="13.0861762"/><trkpt lat="53.5036223" lon="13.0862079"/><trkpt lat="53.5036618" lon="13.0860708"/><trkpt lat="53.5036482" lon="13.0860597"/></trkseg></trk><trk><name>Volks- und Raiffeisenbank Laage</name><desc>addr:city=Laage
+addr:country=DE
+addr:housenumber=22
+addr:postcode=18299
+addr:street=Breesener Straße
+amenity=bank
+atm=yes
+building=yes
+name=Volks- und Raiffeisenbank Laage
+operator=Volks- und Raiffeisenbank eG
+phone=+49 38459 370 0
+id=way/231749945</desc><trkseg><trkpt lat="53.9263432" lon="12.3468694"/><trkpt lat="53.9263741" lon="12.3469669"/><trkpt lat="53.9264755" lon="12.3468742"/><trkpt lat="53.9263749" lon="12.3465566"/><trkpt lat="53.9262735" lon="12.3466493"/><trkpt lat="53.9263432" lon="12.3468694"/></trkseg></trk><trk><name>Sparkasse Uecker-Randow</name><desc>addr:city=Löcknitz
+addr:country=DE
+addr:housenumber=79
+addr:postcode=17321
+addr:street=Chausseestraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Uecker-Randow
+opening_hours=Mo 08:30-12:00,14:00-16:00; Tu,Th 08:30-12:00,14:00-18:00; We,Fr 08:30-12:00
+id=way/258624199</desc><trkseg><trkpt lat="53.4527554" lon="14.2154907"/><trkpt lat="53.4527542" lon="14.2154033"/><trkpt lat="53.4526768" lon="14.2154077"/><trkpt lat="53.4526786" lon="14.2154937"/><trkpt lat="53.4526555" lon="14.2154951"/><trkpt lat="53.4526569" lon="14.2155691"/><trkpt lat="53.4526926" lon="14.2156251"/><trkpt lat="53.4526688" lon="14.2156674"/><trkpt lat="53.4527255" lon="14.2157378"/><trkpt lat="53.4527516" lon="14.2157189"/><trkpt lat="53.4527865" lon="14.2157739"/><trkpt lat="53.4528313" lon="14.2157717"/><trkpt lat="53.4528306" lon="14.2157342"/><trkpt lat="53.4528822" lon="14.2157313"/><trkpt lat="53.4528798" lon="14.2156019"/><trkpt lat="53.4528272" lon="14.2156044"/><trkpt lat="53.4527554" lon="14.2154907"/></trkseg></trk><trk><name>Sparkasse Mecklenburg -Nordwest</name><desc>addr:city=Dorf Mecklenburg
+addr:country=DE
+addr:housenumber=13
+addr:postcode=23972
+addr:street=Am Wehberg
+amenity=bank
+building=yes
+name=Sparkasse Mecklenburg -Nordwest
+id=way/263545852</desc><trkseg><trkpt lat="53.8430954" lon="11.4695012"/><trkpt lat="53.8429871" lon="11.4695342"/><trkpt lat="53.8430249" lon="11.4698909"/><trkpt lat="53.8431332" lon="11.4698579"/><trkpt lat="53.8430954" lon="11.4695012"/></trkseg></trk><trk><name>way/266793225</name><desc>addr:city=Satow
+addr:country=DE
+addr:housenumber=7
+addr:postcode=18239
+addr:street=Fritz-Reuter-Straße
+amenity=bank
+atm=yes
+building=yes
+operator=OSPA
+id=way/266793225</desc><trkseg><trkpt lat="53.9892251" lon="11.8929111"/><trkpt lat="53.9890545" lon="11.8927994"/><trkpt lat="53.988996" lon="11.8930578"/><trkpt lat="53.9891505" lon="11.8931589"/><trkpt lat="53.9891747" lon="11.8930518"/><trkpt lat="53.9891191" lon="11.8930154"/><trkpt lat="53.9891278" lon="11.8929767"/><trkpt lat="53.9891996" lon="11.8930237"/><trkpt lat="53.9892251" lon="11.8929111"/></trkseg></trk><trk><name>Volks- und Raiffeisenbank</name><desc>amenity=bank
+building=yes
+name=Volks- und Raiffeisenbank
+toilets:wheelchair=no
+wheelchair=limited
+id=way/266863071</desc><trkseg><trkpt lat="53.7017899" lon="11.1117342"/><trkpt lat="53.7017472" lon="11.1117655"/><trkpt lat="53.701768" lon="11.1118467"/><trkpt lat="53.7018107" lon="11.1118154"/><trkpt lat="53.7017899" lon="11.1117342"/></trkseg></trk><trk><name>Deutsche Bank</name><desc>addr:city=Wolgast
+addr:country=DE
+addr:housenumber=2
+addr:postcode=17438
+addr:street=Rathausplatz
+amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+building=commercial
+name=Deutsche Bank
+opening_hours=Mo,Th 09:00-13:00,14:00-18:00; Tu,Fr 09:00-13:00; We 09:00-13:00
+wheelchair=limited
+wikidata=Q2307731
+id=way/282696300</desc><trkseg><trkpt lat="54.0542497" lon="13.7766906"/><trkpt lat="54.05434" lon="13.7767624"/><trkpt lat="54.0544095" lon="13.7765756"/><trkpt lat="54.0543432" lon="13.7765011"/><trkpt lat="54.0543412" lon="13.7764989"/><trkpt lat="54.0543292" lon="13.7765313"/><trkpt lat="54.054331" lon="13.7765333"/><trkpt lat="54.0543147" lon="13.7765777"/><trkpt lat="54.0542849" lon="13.7765504"/><trkpt lat="54.0542497" lon="13.7766906"/></trkseg></trk><trk><name>Raiffeisenbank</name><desc>amenity=bank
+atm=yes
+building=yes
+name=Raiffeisenbank
+operator=Raiffeisenbank
+id=way/286927186</desc><trkseg><trkpt lat="53.5775227" lon="11.6489774"/><trkpt lat="53.5774412" lon="11.649141"/><trkpt lat="53.5774973" lon="11.6492277"/><trkpt lat="53.5774999" lon="11.6492234"/><trkpt lat="53.5775214" lon="11.6492574"/><trkpt lat="53.5775754" lon="11.6491493"/><trkpt lat="53.5775789" lon="11.6491422"/><trkpt lat="53.5775569" lon="11.6491119"/><trkpt lat="53.5775874" lon="11.6490557"/><trkpt lat="53.577528" lon="11.6489689"/><trkpt lat="53.5775227" lon="11.6489774"/></trkseg></trk><trk><name>Sparkasse Vorpommern</name><desc>addr:city=Karlsburg
+addr:country=DE
+addr:housenumber=28a
+addr:postcode=17495
+addr:street=Alte Dorfstraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Vorpommern
+operator=Sparkasse Vorpommern
+id=way/290576839</desc><trkseg><trkpt lat="53.9727168" lon="13.6103039"/><trkpt lat="53.9726971" lon="13.6103832"/><trkpt lat="53.9727037" lon="13.6104687"/><trkpt lat="53.9727262" lon="13.6105034"/><trkpt lat="53.972759" lon="13.6105034"/><trkpt lat="53.9727918" lon="13.6104675"/><trkpt lat="53.97281" lon="13.6103907"/><trkpt lat="53.9728122" lon="13.6103337"/><trkpt lat="53.9728049" lon="13.610294"/><trkpt lat="53.9727845" lon="13.6102606"/><trkpt lat="53.9727532" lon="13.6102569"/><trkpt lat="53.9727168" lon="13.6103039"/></trkseg></trk><trk><name>VR MSE</name><desc>addr:city=Fünfseen
+addr:country=DE
+addr:housenumber=25c
+addr:postcode=17213
+addr:street=Chausseestraße
+addr:suburb=Rogeez
+amenity=bank
+building=yes
+name=VR MSE
+operator=Raiffeisenbank Mecklenburger Seenplatte eG
+id=way/314693646</desc><trkseg><trkpt lat="53.3870172" lon="12.3936878"/><trkpt lat="53.3869778" lon="12.3936374"/><trkpt lat="53.3869574" lon="12.3936824"/><trkpt lat="53.3868827" lon="12.393587"/><trkpt lat="53.3868539" lon="12.3936504"/><trkpt lat="53.386968" lon="12.3937961"/><trkpt lat="53.3870172" lon="12.3936878"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Lassan
+addr:country=DE
+addr:housenumber=23
+addr:postcode=17440
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+building=yes
+name=Volksbank
+roof:shape=gabled
+website=https://www.vbvorpommern.de/startseite.html
+id=way/318587463</desc><trkseg><trkpt lat="53.9486671" lon="13.8509395"/><trkpt lat="53.9485791" lon="13.85108"/><trkpt lat="53.9486847" lon="13.8512709"/><trkpt lat="53.948722" lon="13.8512113"/><trkpt lat="53.9487727" lon="13.8511303"/><trkpt lat="53.9486671" lon="13.8509395"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Lassan
+addr:country=DE
+addr:housenumber=32
+addr:postcode=17440
+addr:street=Lange Straße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+opening_hours=24/7
+roof:shape=gabled
+source=survey, photo
+website=https://banking.spk-vorpommern.de/
+id=way/318676506</desc><trkseg><trkpt lat="53.9479487" lon="13.8498296"/><trkpt lat="53.9478606" lon="13.8497019"/><trkpt lat="53.9477989" lon="13.8498248"/><trkpt lat="53.9478869" lon="13.8499525"/><trkpt lat="53.9479487" lon="13.8498296"/></trkseg></trk><trk><name>Volks- und Raiffeisenbank eG</name><desc>addr:city=Sternberg
+addr:housenumber=8
+addr:postcode=19406
+addr:street=Am Markt
+amenity=bank
+building=yes
+heritage=yes
+name=Volks- und Raiffeisenbank eG
+id=way/320451692</desc><trkseg><trkpt lat="53.7120401" lon="11.8279334"/><trkpt lat="53.7118589" lon="11.8278732"/><trkpt lat="53.7118168" lon="11.828235"/><trkpt lat="53.7119985" lon="11.8282946"/><trkpt lat="53.7120138" lon="11.8281573"/><trkpt lat="53.7120401" lon="11.8279334"/></trkseg></trk><trk><name>Sparkasse Vorpommern</name><desc>addr:city=Sundhagen
+addr:country=DE
+addr:housenumber=23
+addr:postcode=18519
+addr:street=Lindenallee
+addr:suburb=Reinberg
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Vorpommern
+id=way/329938642</desc><trkseg><trkpt lat="54.2122564" lon="13.2518494"/><trkpt lat="54.2121642" lon="13.2517895"/><trkpt lat="54.2121313" lon="13.2519375"/><trkpt lat="54.2122236" lon="13.2519975"/><trkpt lat="54.2122564" lon="13.2518494"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Zirchow
+addr:housenumber=37
+addr:postcode=17419
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+building=yes
+drive_through=no
+name=Volksbank
+opening_hours=24/7
+source=survey, photo
+id=way/330097508</desc><trkseg><trkpt lat="53.8897792" lon="14.138961"/><trkpt lat="53.8897299" lon="14.1390922"/><trkpt lat="53.8897689" lon="14.1391357"/><trkpt lat="53.8897562" lon="14.1391696"/><trkpt lat="53.8897748" lon="14.1391897"/><trkpt lat="53.8897426" lon="14.1392778"/><trkpt lat="53.8898146" lon="14.1393557"/><trkpt lat="53.8898802" lon="14.1391821"/><trkpt lat="53.8899102" lon="14.1391025"/><trkpt lat="53.8897792" lon="14.138961"/></trkseg></trk><trk><name>VR PLUS Bank</name><desc>addr:city=Eldena
+addr:country=DE
+addr:housenumber=4a
+addr:postcode=19294
+addr:street=Karl-Marx-Platz
+amenity=bank
+atm=yes
+building=yes
+email=posteingang@vr-plus.de
+name=VR PLUS Bank
+opening_hours=Mo,We,Th 09:00-12:00; Tu 14:00-17:00
+operator=VR PLUS Altmark-Wendland eG
+phone=038755 427-0
+website=https://www.vr-plus.de/startseite.html
+wheelchair=yes
+id=way/398753992</desc><trkseg><trkpt lat="53.2306707" lon="11.4220217"/><trkpt lat="53.2306423" lon="11.422038"/><trkpt lat="53.2306139" lon="11.4220892"/><trkpt lat="53.2306302" lon="11.4221525"/><trkpt lat="53.2305493" lon="11.4221939"/><trkpt lat="53.2305928" lon="11.4223503"/><trkpt lat="53.2307335" lon="11.4222286"/><trkpt lat="53.2307083" lon="11.4221118"/><trkpt lat="53.2306853" lon="11.4221234"/><trkpt lat="53.2306707" lon="11.4220217"/></trkseg></trk><trk><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+building=service
+building:colour=white
+building:levels=1
+check_date=2024-03-18
+name=Sparkasse
+opening_hours=24/7
+operator=Sparkasse
+roof:colour=red
+roof:shape=flat
+wheelchair=yes
+id=way/425557382</desc><trkseg><trkpt lat="54.0935504" lon="13.3705061"/><trkpt lat="54.0935173" lon="13.3705622"/><trkpt lat="54.0935655" lon="13.3706451"/><trkpt lat="54.0935986" lon="13.3705891"/><trkpt lat="54.0935504" lon="13.3705061"/></trkseg></trk><trk><name>Pommersche Volksbank eG SB-Filiale Sagard</name><desc>addr:city=Sagard
+addr:housenumber=29
+addr:postcode=18551
+addr:street=Glower Straße
+amenity=bank
+atm=yes
+brand=Pommersche Volksbank
+building=yes
+check_date=2024-06-12
+name=Pommersche Volksbank eG SB-Filiale Sagard
+opening_hours=24/7
+operator=Pommersche Volksbank
+wheelchair=yes
+id=way/591504398</desc><trkseg><trkpt lat="54.5291566" lon="13.5457261"/><trkpt lat="54.529134" lon="13.5457524"/><trkpt lat="54.5291612" lon="13.545821"/><trkpt lat="54.5291838" lon="13.5457936"/><trkpt lat="54.5291566" lon="13.5457261"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:housenumber=1
+addr:street=Marktflecken
+amenity=bank
+atm=yes
+indoor=room
+level=0
+name=Sparkasse
+room=shop
+id=way/624442917</desc><trkseg><trkpt lat="54.1198873" lon="13.3606586"/><trkpt lat="54.1198579" lon="13.360645"/><trkpt lat="54.1197629" lon="13.3605948"/><trkpt lat="54.1197477" lon="13.360685"/><trkpt lat="54.1197312" lon="13.360781"/><trkpt lat="54.1198554" lon="13.3608445"/><trkpt lat="54.1198873" lon="13.3606586"/></trkseg></trk><trk><name>Sparkasse</name><desc>amenity=bank
+brand=Sparkasse
+brand:wikidata=Q13601825
+building=yes
+name=Sparkasse
+opening_hours=Mo-Su,PH 05:00-23:00
+id=way/657402179</desc><trkseg><trkpt lat="53.3825587" lon="11.5866866"/><trkpt lat="53.3826835" lon="11.5863574"/><trkpt lat="53.3825427" lon="11.5862113"/><trkpt lat="53.3825326" lon="11.5862362"/><trkpt lat="53.3825143" lon="11.5862818"/><trkpt lat="53.3824885" lon="11.586357"/><trkpt lat="53.3824628" lon="11.5863294"/><trkpt lat="53.3824116" lon="11.58646"/><trkpt lat="53.3824424" lon="11.5864942"/><trkpt lat="53.3824283" lon="11.5865265"/><trkpt lat="53.382452" lon="11.5865621"/><trkpt lat="53.3825587" lon="11.5866866"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Schwerin</name><desc>addr:city=Crivitz
+addr:country=DE
+addr:housenumber=3
+addr:postcode=19089
+addr:street=Am Markt
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Mecklenburg-Schwerin
+operator=Sparkasse Mecklenburg-Schwerin
+id=way/669431175</desc><trkseg><trkpt lat="53.5769923" lon="11.6499192"/><trkpt lat="53.5769347" lon="11.6500216"/><trkpt lat="53.5769225" lon="11.6500433"/><trkpt lat="53.5769447" lon="11.6500776"/><trkpt lat="53.5769082" lon="11.65014"/><trkpt lat="53.5769187" lon="11.6501608"/><trkpt lat="53.5768884" lon="11.6502174"/><trkpt lat="53.5769533" lon="11.6503133"/><trkpt lat="53.5770867" lon="11.6500619"/><trkpt lat="53.5769923" lon="11.6499192"/></trkseg></trk><trk><name>Raiffeisen Büchen Hagenow Plate</name><desc>addr:city=Pampow
+addr:country=DE
+addr:housenumber=2
+addr:postcode=19075
+addr:street=Buchenstraße
+amenity=bank
+atm=yes
+building=yes
+name=Raiffeisen Büchen Hagenow Plate
+operator=Raiffeienbank
+self_service=yes
+id=way/698815522</desc><trkseg><trkpt lat="53.565675" lon="11.3623872"/><trkpt lat="53.5655667" lon="11.3624821"/><trkpt lat="53.5655874" lon="11.3625415"/><trkpt lat="53.5655801" lon="11.3625635"/><trkpt lat="53.5655715" lon="11.3625893"/><trkpt lat="53.565624" lon="11.3626229"/><trkpt lat="53.5656814" lon="11.3626595"/><trkpt lat="53.565691" lon="11.3626099"/><trkpt lat="53.5657284" lon="11.3625763"/><trkpt lat="53.565675" lon="11.3623872"/></trkseg></trk><trk><name>Ostseesparkasse</name><desc>addr:city=Dummerstorf
+addr:country=DE
+addr:housenumber=4
+addr:postcode=18196
+addr:street=Schmiedeweg
+amenity=bank
+atm=yes
+building=yes
+name=Ostseesparkasse
+id=way/789673900</desc><trkseg><trkpt lat="54.0162565" lon="12.226924"/><trkpt lat="54.0162667" lon="12.2268945"/><trkpt lat="54.0163048" lon="12.2269328"/><trkpt lat="54.0163246" lon="12.2268757"/><trkpt lat="54.0163617" lon="12.2267688"/><trkpt lat="54.0163516" lon="12.2267586"/><trkpt lat="54.0162288" lon="12.2266352"/><trkpt lat="54.0161712" lon="12.2268014"/><trkpt lat="54.0162166" lon="12.226847"/><trkpt lat="54.0162071" lon="12.2268744"/><trkpt lat="54.0162565" lon="12.226924"/></trkseg></trk><trk><name>OSPA</name><desc>amenity=bank
+atm=yes
+building=yes
+name=OSPA
+id=way/850233928</desc><trkseg><trkpt lat="54.0496585" lon="12.0462996"/><trkpt lat="54.0495228" lon="12.0461144"/><trkpt lat="54.0493585" lon="12.0464635"/><trkpt lat="54.0494943" lon="12.0466488"/><trkpt lat="54.0496585" lon="12.0462996"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Gadebusch
+addr:country=DE
+addr:housenumber=1a
+addr:postcode=19205
+addr:street=Johann-Stelling-Straße
+amenity=bank
+atm=yes
+atm:network=Sparkassen-Finanzgruppe
+building=yes
+building:levels=2
+check_date:opening_hours=2022-07-08
+contact:phone=+49 38412400
+contact:website=https://www.sparkasse.de/standorte/filialen/sparkasse-mecklenburg-nordwest-geschaeftsstelle-gadebusch-4662
+drive_through=no
+name=Sparkasse
+opening_hours=Mo 09:00-13:00,14:00-16:00; Tu,Th 09:00-13:00,14:00-18:00; We,Fr 09:00-13:00; Sa-Su off
+opening_hours:atm=24/7
+operator=Sparkasse Mecklenburg-Nordwest
+start_date=2021-06-28
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/967110719</desc><trkseg><trkpt lat="53.7012515" lon="11.1137272"/><trkpt lat="53.7011165" lon="11.1137976"/><trkpt lat="53.7011209" lon="11.1138216"/><trkpt lat="53.701069" lon="11.1138486"/><trkpt lat="53.7011149" lon="11.1141004"/><trkpt lat="53.7011652" lon="11.1140742"/><trkpt lat="53.7011744" lon="11.1141246"/><trkpt lat="53.7013111" lon="11.1140534"/><trkpt lat="53.7012515" lon="11.1137272"/></trkseg></trk><trk><name>Ostseesparkasse</name><desc>addr:city=Rostock
+addr:country=DE
+addr:housenumber=6
+addr:postcode=18147
+addr:street=Klaus-Groth-Straße
+addr:suburb=Gehlsdorf
+amenity=bank
+atm=yes
+building=yes
+name=Ostseesparkasse
+roof:shape=flat
+id=way/1152359177</desc><trkseg><trkpt lat="54.1042131" lon="12.1137947"/><trkpt lat="54.1041077" lon="12.1137915"/><trkpt lat="54.1041057" lon="12.1139859"/><trkpt lat="54.1042111" lon="12.1139891"/><trkpt lat="54.1042131" lon="12.1137947"/></trkseg></trk><trk><name>Sparkasse Mecklenburg-Nordwest</name><desc>amenity=bank
+building:levels=5
+building:part=yes
+name=Sparkasse Mecklenburg-Nordwest
+id=way/1159144017</desc><trkseg><trkpt lat="53.8994369" lon="11.4218406"/><trkpt lat="53.8993308" lon="11.4218022"/><trkpt lat="53.8993033" lon="11.4217923"/><trkpt lat="53.8992806" lon="11.4219729"/><trkpt lat="53.8994143" lon="11.4220212"/><trkpt lat="53.8994369" lon="11.4218406"/></trkseg></trk><trk><name>Sparkasse Kagenmarkt</name><desc>addr:city=Wismar
+addr:country=DE
+addr:housenumber=70
+addr:postcode=23970
+addr:street=Prof.-Frege-Straße
+addr:suburb=Kagenmarkt
+amenity=bank
+brand=Sparkasse
+building=apartments
+building:colour=white
+building:levels=2
+name=Sparkasse Kagenmarkt
+opening_hours=Mo, We, Fr 09:00-13:00; Tu, Th  09:00-13:00, 14:00-18:00
+operator=Sparkasse Mecklenburg-Nordwest
+roof:colour=grey
+roof:shape=flat
+id=way/1219078921</desc><trkseg><trkpt lat="53.901289" lon="11.4766489"/><trkpt lat="53.9013663" lon="11.4766538"/><trkpt lat="53.901436" lon="11.4766582"/><trkpt lat="53.9014404" lon="11.4764573"/><trkpt lat="53.9014545" lon="11.4764362"/><trkpt lat="53.9014338" lon="11.4763963"/><trkpt lat="53.9014187" lon="11.4764189"/><trkpt lat="53.9012955" lon="11.4764111"/><trkpt lat="53.9012898" lon="11.4766002"/><trkpt lat="53.901289" lon="11.4766489"/></trkseg></trk><trk><name>Müritz-Sparkasse</name><desc>addr:city=Waren (Müritz)
+addr:country=DE
+addr:housenumber=11
+addr:postcode=17192
+addr:street=Dietrich-Bonhoeffer-Straße
+amenity=bank
+atm=yes
+building=bank
+building:levels=1
+contact:website=https://www.mueritz-sparkasse.de/de/home/ihre-sparkasse/Unsere_Geschaeftsstellen/Filialdirektion_roebel1.html
+name=Müritz-Sparkasse
+id=way/1239759166</desc><trkseg><trkpt lat="53.522777" lon="12.6600064"/><trkpt lat="53.5227813" lon="12.6600606"/><trkpt lat="53.5226787" lon="12.6600837"/><trkpt lat="53.5226891" lon="12.6602279"/><trkpt lat="53.5228195" lon="12.6602038"/><trkpt lat="53.522844" lon="12.6601459"/><trkpt lat="53.5228508" lon="12.6601172"/><trkpt lat="53.5228518" lon="12.6600988"/><trkpt lat="53.5228499" lon="12.660082"/><trkpt lat="53.5228432" lon="12.660061"/><trkpt lat="53.5228276" lon="12.6600318"/><trkpt lat="53.5228039" lon="12.6600062"/><trkpt lat="53.5227936" lon="12.6600028"/><trkpt lat="53.522777" lon="12.6600064"/></trkseg></trk><trk><name>Sparkasse Mecklenburg Nordwest</name><desc>addr:city=Bad Kleinen
+addr:country=DE
+addr:housenumber=16
+addr:postcode=23996
+addr:street=Schulstraße
+amenity=bank
+atm=yes
+building=retail
+building:levels=1
+drive_through=no
+height=4
+name=Sparkasse Mecklenburg Nordwest
+opening_hours=Mo, Mi, Fr 09:00-13:00; Di 09:00-13:00, 14:00-18:00
+website=https://www.spk-mecklenburg-nordwest.de/de/home/service/filiale-finden.html#/details/4658
+id=way/1253191103</desc><trkseg><trkpt lat="53.7722114" lon="11.4720437"/><trkpt lat="53.7720112" lon="11.4721073"/><trkpt lat="53.7720333" lon="11.4722953"/><trkpt lat="53.7722327" lon="11.4722303"/><trkpt lat="53.7722114" lon="11.4720437"/></trkseg></trk></gpx>
