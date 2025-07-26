@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-turbo"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2025-07-26T14:11:56Z</time></metadata><trk><name>Start- und Landebahn 08L/26R</name><desc>aeroway=runway
+centerline=yes
+length=3600
+name=Start- und Landebahn 08L/26R
+orientation=08/26
+ref=08L/26R
+surface=concrete
+width=45</desc><link href="http://osm.org/browse/way/4403063"/><trkseg><trkpt lat="51.431242" lon="12.2158239"/><trkpt lat="51.431318" lon="12.2174004"/><trkpt lat="51.4315157" lon="12.2217559"/><trkpt lat="51.4319958" lon="12.2319597"/><trkpt lat="51.432408" lon="12.2407801"/><trkpt lat="51.4324469" lon="12.241635"/><trkpt lat="51.4324862" lon="12.2424574"/><trkpt lat="51.4328888" lon="12.2510999"/><trkpt lat="51.4333749" lon="12.2615146"/><trkpt lat="51.4335443" lon="12.2651936"/><trkpt lat="51.4336496" lon="12.2674483"/></trkseg></trk><trk><name>03/21</name><desc>aeroway=runway
+centerline=yes
+length=1100
+ref=03/21
+surface=concrete
+width=28</desc><link href="http://osm.org/browse/way/13235505"/><trkseg><trkpt lat="51.3008847" lon="14.1319406"/><trkpt lat="51.2969185" lon="14.1279032"/><trkpt lat="51.2926429" lon="14.1235583"/></trkseg></trk><trk><name>10R/28L</name><desc>aeroway=runway
+length=1200
+maxweight=5700
+ref=10R/28L
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/15221484"/><trkseg><trkpt lat="51.5759624" lon="12.5043465"/><trkpt lat="51.576067" lon="12.5032336"/><trkpt lat="51.5767177" lon="12.4963119"/><trkpt lat="51.5770544" lon="12.4927314"/><trkpt lat="51.5775459" lon="12.4875024"/><trkpt lat="51.5775782" lon="12.487159"/></trkseg></trk><trk><name>07/25</name><desc>aeroway=runway
+centerline=yes
+length=2200
+ref=07/25
+surface=concrete
+width=50 m</desc><link href="http://osm.org/browse/way/23876379"/><trkseg><trkpt lat="51.1963885" lon="14.5349476"/><trkpt lat="51.1963278" lon="14.5346242"/><trkpt lat="51.1961504" lon="14.5336761"/><trkpt lat="51.1946878" lon="14.5259239"/><trkpt lat="51.1923641" lon="14.5135862"/><trkpt lat="51.1907142" lon="14.504996"/><trkpt lat="51.1906419" lon="14.5046196"/></trkseg></trk><trk><name>Nord</name><desc>aeroway=runway
+int_name=North
+length=2400
+name=Nord
+ref=11/29
+surface=concrete
+width=48</desc><link href="http://osm.org/browse/way/25383216"/><trkseg><trkpt lat="51.3093158" lon="13.5508627"/><trkpt lat="51.3075432" lon="13.5568649"/><trkpt lat="51.3070111" lon="13.5587066"/><trkpt lat="51.3065115" lon="13.5604047"/><trkpt lat="51.3055499" lon="13.5636762"/><trkpt lat="51.3037785" lon="13.5697155"/><trkpt lat="51.3037151" lon="13.5699295"/><trkpt lat="51.3033943" lon="13.5710276"/></trkseg></trk><trk><name>Verkehrslandeplatz Riesa-Göhlis</name><desc>aeroway=runway
+length=400
+name=Verkehrslandeplatz Riesa-Göhlis
+ref=12/30
+surface=grass
+width=30</desc><link href="http://osm.org/browse/way/25384229"/><trkseg><trkpt lat="51.2984002" lon="13.3429831"/><trkpt lat="51.2965594" lon="13.3479447"/><trkpt lat="51.2954035" lon="13.351005"/></trkseg></trk><trk><name>05/23</name><desc>aeroway=runway
+ele=131
+length=872
+ref=05/23
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/26452832"/><trkseg><trkpt lat="51.2175718" lon="12.3725171"/><trkpt lat="51.214303" lon="12.3639341"/></trkseg></trk><trk><name>10/28</name><desc>aeroway=runway
+ele=131
+length=677 m
+ref=10/28
+surface=grass
+width=40 m</desc><link href="http://osm.org/browse/way/26452851"/><trkseg><trkpt lat="51.2136471" lon="12.3635049"/><trkpt lat="51.211206" lon="12.3720451"/></trkseg></trk><trk><name>Piste 01/19 (EDOA)</name><desc>aeroway=runway
+int_name=EDOA
+length=800
+name=Piste 01/19 (EDOA)
+ref=01/19
+width=23</desc><link href="http://osm.org/browse/way/32358664"/><trkseg><trkpt lat="50.5009336" lon="12.3785696"/><trkpt lat="50.4937634" lon="12.3773292"/></trkseg></trk><trk><name>Verkehrslandeplatz Zwickau</name><desc>aeroway=runway
+length=1100
+name=Verkehrslandeplatz Zwickau
+ref=05/23
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/32923986"/><trkseg><trkpt lat="50.7033341" lon="12.4575349"/><trkpt lat="50.6992407" lon="12.4480077"/></trkseg></trk><trk><name>17/35</name><desc>aeroway=runway
+ele=158
+length=2500
+ref=17/35
+surface=asphalt
+width=45</desc><link href="http://osm.org/browse/way/45107500"/><trkseg><trkpt lat="51.3563521" lon="14.9513722"/><trkpt lat="51.3572287" lon="14.9513271"/><trkpt lat="51.3639084" lon="14.9510114"/><trkpt lat="51.364647" lon="14.9509766"/><trkpt lat="51.3707028" lon="14.9506878"/><trkpt lat="51.375114" lon="14.9504829"/><trkpt lat="51.3751882" lon="14.9504779"/></trkseg></trk><trk><name>07/25</name><desc>aeroway=runway
+ref=07/25
+surface=grass</desc><link href="http://osm.org/browse/way/51750480"/><trkseg><trkpt lat="50.7453546" lon="12.8317999"/><trkpt lat="50.7487666" lon="12.8431988"/></trkseg></trk><trk><name>07/25</name><desc>aeroway=runway
+length=900
+ref=07/25
+surface=asphalt
+width=20</desc><link href="http://osm.org/browse/way/51750489"/><trkseg><trkpt lat="50.7456958" lon="12.8315132"/><trkpt lat="50.7457097" lon="12.8315599"/><trkpt lat="50.7467735" lon="12.8351583"/><trkpt lat="50.749096" lon="12.8430153"/><trkpt lat="50.7491128" lon="12.8430706"/></trkseg></trk><trk><name>08/26</name><desc>aeroway=runway
+ele=117
+heading=079;259
+length=950
+ref=08/26
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/55002684"/><trkseg><trkpt lat="51.4504781" lon="14.1939657"/><trkpt lat="51.4521094" lon="14.2074166"/></trkseg></trk><trk><name>05/23</name><desc>aeroway=runway
+length=900
+ref=05/23
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/78055571"/><trkseg><trkpt lat="50.9512099" lon="13.2675267"/><trkpt lat="50.9457713" lon="13.2566017"/></trkseg></trk><trk><name>09/27</name><desc>aeroway=runway
+ref=09/27
+surface=grass</desc><link href="http://osm.org/browse/way/96996210"/><trkseg><trkpt lat="51.30294" lon="13.2356805"/><trkpt lat="51.302431" lon="13.2217643"/></trkseg></trk><trk><name>08/26</name><desc>aeroway=runway
+ele=153
+length=850
+ref=08/26
+surface=grass
+width=41</desc><link href="http://osm.org/browse/way/96997449"/><trkseg><trkpt lat="51.2977817" lon="13.0855421"/><trkpt lat="51.2962109" lon="13.0751901"/></trkseg></trk><trk><name>07/25</name><desc>aeroway=runway
+length=1000 m
+ref=07/25
+surface=grass
+width=40 m</desc><link href="http://osm.org/browse/way/118182085"/><trkseg><trkpt lat="51.1942483" lon="14.5195806"/><trkpt lat="51.1921869" lon="14.5083205"/><trkpt lat="51.1919837" lon="14.5072107"/></trkseg></trk><trk><name>way/130799364</name><desc>aeroway=runway
+surface=grass
+width=30.0</desc><link href="http://osm.org/browse/way/130799364"/><trkseg><trkpt lat="51.0080492" lon="12.8123961"/><trkpt lat="51.0079075" lon="12.8127004"/><trkpt lat="51.0059339" lon="12.8169381"/></trkseg></trk><trk><name>Segelflug</name><desc>aeroway=runway
+name=Segelflug
+surface=grass</desc><link href="http://osm.org/browse/way/130803753"/><trkseg><trkpt lat="51.3944255" lon="12.5318225"/><trkpt lat="51.3993768" lon="12.5421415"/></trkseg></trk><trk><name>Segelflug</name><desc>aeroway=runway
+name=Segelflug
+surface=grass</desc><link href="http://osm.org/browse/way/130803754"/><trkseg><trkpt lat="51.3979831" lon="12.5455214"/><trkpt lat="51.3986609" lon="12.5310591"/></trkseg></trk><trk><name>07/25 - Motorflug</name><desc>aeroway=runway
+ele=150
+length=600
+name=07/25 - Motorflug
+orientation=07/25
+ref=07/25
+source=http://fclt.de/flugplatz
+surface=grass
+width=30</desc><link href="http://osm.org/browse/way/130803755"/><trkseg><trkpt lat="51.394707" lon="12.5342351"/><trkpt lat="51.3963203" lon="12.5421147"/></trkseg></trk><trk><name>way/135082734</name><desc>aeroway=runway
+width=10</desc><link href="http://osm.org/browse/way/135082734"/><trkseg><trkpt lat="50.6756877" lon="12.6815924"/><trkpt lat="50.6757724" lon="12.6799003"/><trkpt lat="50.6759554" lon="12.676244"/></trkseg></trk><trk><name>17R/35L</name><desc>aeroway=runway
+ele=158
+length=1220
+ref=17R/35L
+source=BING
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/153019431"/><trkseg><trkpt lat="51.3637526" lon="14.9498556"/><trkpt lat="51.3529158" lon="14.9504041"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+ele=237
+length=750
+ref=06/24
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/153022605"/><trkseg><trkpt lat="51.1573878" lon="14.9464001"/><trkpt lat="51.1590806" lon="14.950616"/><trkpt lat="51.1610055" lon="14.955461"/></trkseg></trk><trk><name>Süd</name><desc>aeroway=runway
+int_name=South
+length=1000
+name=Süd
+ref=11/29
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/222183932"/><trkseg><trkpt lat="51.3050928" lon="13.5629387"/><trkpt lat="51.306997" lon="13.5564255"/><trkpt lat="51.3085283" lon="13.5512193"/></trkseg></trk><trk><name>way/239284476</name><desc>aeroway=runway</desc><link href="http://osm.org/browse/way/239284476"/><trkseg><trkpt lat="51.5699083" lon="13.0440073"/><trkpt lat="51.5717641" lon="13.0578854"/></trkseg></trk><trk><name>Verkehrslandeplatz Riesa-Göhlis</name><desc>aeroway=runway
+length=1000
+name=Verkehrslandeplatz Riesa-Göhlis
+ref=12/30
+surface=asphalt
+width=20</desc><link href="http://osm.org/browse/way/253993918"/><trkseg><trkpt lat="51.2954035" lon="13.351005"/><trkpt lat="51.2953067" lon="13.3512694"/><trkpt lat="51.2951873" lon="13.3515767"/><trkpt lat="51.2931453" lon="13.3572532"/><trkpt lat="51.2909625" lon="13.3631623"/><trkpt lat="51.2908556" lon="13.3634567"/></trkseg></trk><trk><name>Start- und Landebahn 08R/26L</name><desc>aeroway=runway
+centerline=yes
+length=3600
+name=Start- und Landebahn 08R/26L
+orientation=08/26
+ref=08R/26L
+surface=concrete
+width=60</desc><link href="http://osm.org/browse/way/262478265"/><trkseg><trkpt lat="51.4116091" lon="12.204645"/><trkpt lat="51.4116388" lon="12.20528"/><trkpt lat="51.4116791" lon="12.206142"/><trkpt lat="51.4116943" lon="12.2064667"/><trkpt lat="51.4117252" lon="12.2071263"/><trkpt lat="51.4117801" lon="12.208301"/><trkpt lat="51.411837" lon="12.2095173"/><trkpt lat="51.4118474" lon="12.2097411"/><trkpt lat="51.412374" lon="12.2210009"/><trkpt lat="51.4124899" lon="12.2234788"/><trkpt lat="51.4127791" lon="12.2296617"/><trkpt lat="51.4128264" lon="12.2306735"/><trkpt lat="51.4128737" lon="12.2316852"/><trkpt lat="51.4129166" lon="12.232602"/><trkpt lat="51.4129602" lon="12.2335334"/><trkpt lat="51.4129769" lon="12.2338904"/><trkpt lat="51.4131307" lon="12.2371799"/><trkpt lat="51.4131965" lon="12.2385887"/><trkpt lat="51.4134282" lon="12.2435427"/><trkpt lat="51.4134567" lon="12.244151"/><trkpt lat="51.4134861" lon="12.2447813"/><trkpt lat="51.4135225" lon="12.2455584"/><trkpt lat="51.4135381" lon="12.2458925"/><trkpt lat="51.4135703" lon="12.2465817"/><trkpt lat="51.413622" lon="12.2476869"/><trkpt lat="51.4136858" lon="12.2490499"/><trkpt lat="51.4137318" lon="12.2500343"/><trkpt lat="51.4138062" lon="12.2516254"/><trkpt lat="51.4139247" lon="12.2541597"/><trkpt lat="51.4140126" lon="12.2560385"/><trkpt lat="51.4140226" lon="12.2562517"/></trkseg></trk><trk><name>way/376415025</name><desc>aeroway=runway</desc><link href="http://osm.org/browse/way/376415025"/><trkseg><trkpt lat="51.3865323" lon="12.8183802"/><trkpt lat="51.386369" lon="12.8235534"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+ele=491
+length=600
+ref=06/24
+source=https://www.dulv.de/Flugplatz/details.php?id=1087
+surface=grass
+width=30</desc><link href="http://osm.org/browse/way/377895312"/><trkseg><trkpt lat="50.8828014" lon="13.5273392"/><trkpt lat="50.8847774" lon="13.5329092"/></trkseg></trk><trk><name>04/22</name><desc>aeroway=runway
+centerline=yes
+length=2850
+ref=04/22
+surface=concrete
+width=60</desc><link href="http://osm.org/browse/way/509959273"/><trkseg><trkpt lat="51.1419935" lon="13.7785273"/><trkpt lat="51.1395142" lon="13.7751126"/><trkpt lat="51.1389361" lon="13.7743164"/><trkpt lat="51.1340742" lon="13.7676206"/><trkpt lat="51.1334978" lon="13.7668268"/><trkpt lat="51.1274262" lon="13.7584663"/><trkpt lat="51.126848" lon="13.7576702"/><trkpt lat="51.1251127" lon="13.7552809"/><trkpt lat="51.124681" lon="13.7546865"/></trkseg></trk><trk><name>way/826431574</name><desc>aeroway=runway</desc><link href="http://osm.org/browse/way/826431574"/><trkseg><trkpt lat="51.3587357" lon="12.6057338"/><trkpt lat="51.3585817" lon="12.6161895"/></trkseg></trk><trk><name>way/826431575</name><desc>aeroway=runway</desc><link href="http://osm.org/browse/way/826431575"/><trkseg><trkpt lat="51.5367284" lon="12.641333"/><trkpt lat="51.5340338" lon="12.6442446"/></trkseg></trk><trk><name>01/19</name><desc>aeroway=runway
+ref=01/19
+surface=grass</desc><link href="http://osm.org/browse/way/826431576"/><trkseg><trkpt lat="51.4968597" lon="12.3294123"/><trkpt lat="51.499494" lon="12.3300703"/></trkseg></trk><trk><name>way/865141121</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=concrete
+width=60</desc><link href="http://osm.org/browse/way/865141121"/><trkseg><trkpt lat="51.1440317" lon="13.7813249"/><trkpt lat="51.1436504" lon="13.7808052"/><trkpt lat="51.1419935" lon="13.7785273"/></trkseg></trk><trk><name>09/27</name><desc>aeroway=runway
+ref=09/27
+surface=grass</desc><link href="http://osm.org/browse/way/890099272"/><trkseg><trkpt lat="51.4632861" lon="12.2337922"/><trkpt lat="51.4631524" lon="12.2448419"/></trkseg></trk><trk><name>10/28</name><desc>aeroway=runway
+note=Motorflug / Segelflug
+ref=10/28
+surface=grass</desc><link href="http://osm.org/browse/way/891286680"/><trkseg><trkpt lat="51.2728569" lon="14.4994533"/><trkpt lat="51.2708835" lon="14.5119846"/></trkseg></trk><trk><name>Brauna</name><desc>aeroway=runway
+name=Brauna
+surface=grass
+wikidata=Q1424623
+wikipedia=de:Ultraleichtfluggelände Brauna</desc><link href="http://osm.org/browse/way/891287830"/><trkseg><trkpt lat="51.2817831" lon="14.0474367"/><trkpt lat="51.2841469" lon="14.0629117"/></trkseg></trk><trk><name>way/891289870</name><desc>aeroway=runway
+surface=grass</desc><link href="http://osm.org/browse/way/891289870"/><trkseg><trkpt lat="50.9817993" lon="13.9019734"/><trkpt lat="50.9776275" lon="13.9144527"/></trkseg></trk><trk><name>04/22</name><desc>aeroway=runway
+length=320m
+ref=04/22
+surface=compacted
+width=20m</desc><link href="http://osm.org/browse/way/891290789"/><trkseg><trkpt lat="50.99923" lon="13.448014"/><trkpt lat="50.9968516" lon="13.4445995"/></trkseg></trk><trk><name>way/891291263</name><desc>aeroway=runway
+surface=grass</desc><link href="http://osm.org/browse/way/891291263"/><trkseg><trkpt lat="51.2025208" lon="13.1912917"/><trkpt lat="51.2034485" lon="13.1985283"/></trkseg></trk><trk><name>way/891292047</name><desc>aeroway=runway
+surface=grass</desc><link href="http://osm.org/browse/way/891292047"/><trkseg><trkpt lat="50.6496748" lon="13.2677507"/><trkpt lat="50.6510727" lon="13.2743704"/></trkseg></trk><trk><name>11/29</name><desc>aeroway=runway
+ref=11/29
+surface=grass</desc><link href="http://osm.org/browse/way/891292379"/><trkseg><trkpt lat="50.6431029" lon="13.134402"/><trkpt lat="50.6449432" lon="13.1230402"/></trkseg></trk><trk><name>way/934709196</name><desc>aeroway=runway
+description=Startbahn Flugzeugschlepp
+length=1000
+surface=grass
+width=30</desc><link href="http://osm.org/browse/way/934709196"/><trkseg><trkpt lat="51.5779598" lon="12.4902326"/><trkpt lat="51.5766182" lon="12.5044628"/></trkseg></trk><trk><name>way/934709197</name><desc>aeroway=runway
+description=Landebahn Segelflug
+length=1000
+surface=grass
+width=65</desc><link href="http://osm.org/browse/way/934709197"/><trkseg><trkpt lat="51.5782417" lon="12.4903008"/><trkpt lat="51.5769001" lon="12.504531"/></trkseg></trk><trk><name>way/934709198</name><desc>aeroway=runway
+description=Startbahn Segelflug Windenschlepp
+length=1000
+surface=grass
+width=50</desc><link href="http://osm.org/browse/way/934709198"/><trkseg><trkpt lat="51.5789934" lon="12.4904825"/><trkpt lat="51.5776518" lon="12.5047127"/></trkseg></trk><trk><name>10L/28R</name><desc>aeroway=runway
+description=Für schwerere Flugzeuge ab Foxtrott-Klasse.
+length=1200
+maxweight=5700
+ref=10L/28R
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/1253545260"/><trkseg><trkpt lat="51.5763788" lon="12.50444"/><trkpt lat="51.5771341" lon="12.4964058"/><trkpt lat="51.5774709" lon="12.4928233"/><trkpt lat="51.5779946" lon="12.4872525"/></trkseg></trk><trk><name>03/21</name><desc>aeroway=runway
+length=1100
+ref=03/21
+surface=grass
+width=40</desc><link href="http://osm.org/browse/way/1299082248"/><trkseg><trkpt lat="51.2930055" lon="14.1225225"/><trkpt lat="51.3013459" lon="14.1310412"/></trkseg></trk></gpx>

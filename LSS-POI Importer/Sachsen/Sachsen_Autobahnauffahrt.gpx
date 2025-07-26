@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-turbo"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2025-07-26T13:51:29Z</time></metadata><wpt lat="51.4218486" lon="12.1949706"><name>Schkeuditzer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12796
+TMC:cid_58:tabcd_1:NextLocationCode=12797
+TMC:cid_58:tabcd_1:PrevLocationCode=12795
+hazmat=designated
+highway=motorway_junction
+name=Schkeuditzer Kreuz
+ref=15</desc><link href="http://osm.org/browse/node/509105"/></wpt><wpt lat="51.4630999" lon="12.2167843"><name>Wiedemar</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12797
+TMC:cid_58:tabcd_1:NextLocationCode=12799
+TMC:cid_58:tabcd_1:PrevLocationCode=12796
+hazmat=designated
+highway=motorway_junction
+name=Wiedemar
+ref=14</desc><link href="http://osm.org/browse/node/509119"/></wpt><wpt lat="50.5067233" lon="12.2139986"><name>Rastplatz Neuensalz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20117
+TMC:cid_58:tabcd_1:NextLocationCode=12441
+TMC:cid_58:tabcd_1:PrevLocationCode=12440
+check_date=2024-04-07
+highway=motorway_junction
+name=Rastplatz Neuensalz
+noref=yes</desc><link href="http://osm.org/browse/node/541153"/></wpt><wpt lat="50.8031128" lon="12.8578059"><name>Chemnitz-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12448
+TMC:cid_58:tabcd_1:NextLocationCode=52462
+TMC:cid_58:tabcd_1:PrevLocationCode=51582
+highway=motorway_junction
+name=Chemnitz-Süd
+ref=15</desc><link href="http://osm.org/browse/node/541219"/></wpt><wpt lat="50.926407" lon="13.0498965"><name>Frankenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11185
+TMC:cid_58:tabcd_1:NextLocationCode=52369
+TMC:cid_58:tabcd_1:PrevLocationCode=57123
+highway=motorway_junction
+name=Frankenberg
+ref=72</desc><link href="http://osm.org/browse/node/541247"/></wpt><wpt lat="51.0014235" lon="13.7464711"><name>node/6697985</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=51300
+TMC:cid_58:tabcd_1:NextLocationCode=10408
+TMC:cid_58:tabcd_1:PrevLocationCode=10407
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/6697985"/></wpt><wpt lat="51.0084896" lon="13.7270674"><name>Dresden-Südvorstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10407
+TMC:cid_58:tabcd_1:NextLocationCode=51300
+TMC:cid_58:tabcd_1:PrevLocationCode=57004
+highway=motorway_junction
+name=Dresden-Südvorstadt
+ref=3</desc><link href="http://osm.org/browse/node/10869421"/></wpt><wpt lat="51.3784058" lon="12.390095"><name>Essener Straße</name><desc>destination=Wahren; Mockau
+highway=motorway_junction
+name=Essener Straße</desc><link href="http://osm.org/browse/node/10916175"/></wpt><wpt lat="51.392186" lon="12.3930084"><name>Messe-Allee</name><desc>destination=Wiederitzsch
+highway=motorway_junction
+name=Messe-Allee
+name:etymology:wikidata=Q57305</desc><link href="http://osm.org/browse/node/10916413"/></wpt><wpt lat="51.3978146" lon="12.3899054"><name>Seehausener Allee</name><desc>destination=Seehausen
+highway=motorway_junction
+name=Seehausener Allee
+name:etymology:wikidata=Q2264934</desc><link href="http://osm.org/browse/node/10916710"/></wpt><wpt lat="51.4045029" lon="12.3957525"><name>Leipzig-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10354
+TMC:cid_58:tabcd_1:NextLocationCode=20087
+TMC:cid_58:tabcd_1:PrevLocationCode=10352
+highway=motorway_junction
+name=Leipzig-Mitte
+ref=23</desc><link href="http://osm.org/browse/node/10917158"/></wpt><wpt lat="51.3193388" lon="12.5206304"><name>Kleinpösna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10357
+TMC:cid_58:tabcd_1:NextLocationCode=42723
+TMC:cid_58:tabcd_1:PrevLocationCode=10356
+highway=motorway_junction
+name=Kleinpösna
+ref=27</desc><link href="http://osm.org/browse/node/10929160"/></wpt><wpt lat="51.3110833" lon="12.5498219"><name>Dreieck Parthenaue</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42723
+TMC:cid_58:tabcd_1:NextLocationCode=10358
+TMC:cid_58:tabcd_1:PrevLocationCode=10357
+highway=motorway_junction
+name=Dreieck Parthenaue
+ref=28</desc><link href="http://osm.org/browse/node/10929392"/></wpt><wpt lat="51.2576794" lon="12.7391327"><name>Grimma</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10360
+TMC:cid_58:tabcd_1:NextLocationCode=10361
+TMC:cid_58:tabcd_1:PrevLocationCode=58399
+highway=motorway_junction
+name=Grimma
+ref=31</desc><link href="http://osm.org/browse/node/10934202"/></wpt><wpt lat="51.2417311" lon="12.8615029"><name>Mutzschen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10361
+TMC:cid_58:tabcd_1:NextLocationCode=42631
+TMC:cid_58:tabcd_1:PrevLocationCode=10360
+highway=motorway_junction
+name=Mutzschen
+ref=32</desc><link href="http://osm.org/browse/node/10934972"/></wpt><wpt lat="51.2004593" lon="12.9673267"><name>Leisnig</name><desc>highway=motorway_junction
+name=Leisnig
+ref=33</desc><link href="http://osm.org/browse/node/10935447"/></wpt><wpt lat="51.0604232" lon="13.522092"><name>Wilsdruff</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11190
+TMC:cid_58:tabcd_1:NextLocationCode=11191
+TMC:cid_58:tabcd_1:PrevLocationCode=11189
+highway=motorway_junction
+name=Wilsdruff
+ref=77a</desc><link href="http://osm.org/browse/node/10939941"/></wpt><wpt lat="51.0381947" lon="13.6124664"><name>Dresden-Gorbitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10406
+TMC:cid_58:tabcd_1:NextLocationCode=57002
+TMC:cid_58:tabcd_1:PrevLocationCode=10405
+highway=motorway_junction
+name=Dresden-Gorbitz
+ref=2</desc><link href="http://osm.org/browse/node/10941033"/></wpt><wpt lat="50.8560565" lon="12.8619956"><name>Chemnitz-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11182
+TMC:cid_58:tabcd_1:NextLocationCode=42522
+TMC:cid_58:tabcd_1:PrevLocationCode=11180
+highway=motorway_junction
+name=Chemnitz-Mitte
+ref=69</desc><link href="http://osm.org/browse/node/11251855"/></wpt><wpt lat="50.8530214" lon="12.8533107"><name>Kreuz Chemnitz</name><desc>highway=motorway_junction
+name=Kreuz Chemnitz
+ref=68</desc><link href="http://osm.org/browse/node/11253114"/></wpt><wpt lat="50.8425809" lon="12.8455643"><name>Kreuz Chemnitz</name><desc>highway=motorway_junction
+name=Kreuz Chemnitz
+ref=17</desc><link href="http://osm.org/browse/node/11253166"/></wpt><wpt lat="50.9925159" lon="13.7680553"><name>Dresden-Prohlis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10408
+TMC:cid_58:tabcd_1:NextLocationCode=10409
+TMC:cid_58:tabcd_1:PrevLocationCode=51300
+highway=motorway_junction
+name=Dresden-Prohlis
+ref=4</desc><link href="http://osm.org/browse/node/11297208"/></wpt><wpt lat="51.0900411" lon="13.2393197"><name>Raststätte Hansens Holz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42626
+TMC:cid_58:tabcd_1:NextLocationCode=10366
+TMC:cid_58:tabcd_1:PrevLocationCode=10365
+highway=motorway_junction
+name=Raststätte Hansens Holz</desc><link href="http://osm.org/browse/node/12369215"/></wpt><wpt lat="51.3955651" lon="12.4284844"><name>Leipzig-Messegelände</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=20087
+TMC:cid_58:tabcd_1:NextLocationCode=10355
+TMC:cid_58:tabcd_1:PrevLocationCode=10354
+highway=motorway_junction
+name=Leipzig-Messegelände
+ref=24</desc><link href="http://osm.org/browse/node/12370006"/></wpt><wpt lat="50.976122" lon="13.8077676"><name>Heidenau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10409
+TMC:cid_58:tabcd_1:NextLocationCode=10410
+TMC:cid_58:tabcd_1:PrevLocationCode=10408
+highway=motorway_junction
+name=Heidenau
+ref=5</desc><link href="http://osm.org/browse/node/15015574"/></wpt><wpt lat="50.9750443" lon="13.8114992"><name>Heidenau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10409
+TMC:cid_58:tabcd_1:NextLocationCode=10410
+TMC:cid_58:tabcd_1:PrevLocationCode=10408
+highway=motorway_junction
+name=Heidenau
+ref=5</desc><link href="http://osm.org/browse/node/15015901"/></wpt><wpt lat="50.9467336" lon="13.8728089"><name>Pirna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10410
+TMC:cid_58:tabcd_1:NextLocationCode=10411
+TMC:cid_58:tabcd_1:PrevLocationCode=10409
+highway=motorway_junction
+name=Pirna
+ref=6</desc><link href="http://osm.org/browse/node/15016243"/></wpt><wpt lat="50.985759" lon="13.9241034"><name>Pirna-Graupa</name><desc>highway=motorway_junction
+name=Pirna-Graupa</desc><link href="http://osm.org/browse/node/15016897"/></wpt><wpt lat="50.9867725" lon="13.9261478"><name>Pirna-Graupa</name><desc>highway=motorway_junction
+name=Pirna-Graupa</desc><link href="http://osm.org/browse/node/15016935"/></wpt><wpt lat="51.038038" lon="13.6125229"><name>Dresden-Gorbitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10406
+TMC:cid_58:tabcd_1:NextLocationCode=57002
+TMC:cid_58:tabcd_1:PrevLocationCode=10405
+highway=motorway_junction
+name=Dresden-Gorbitz
+ref=2</desc><link href="http://osm.org/browse/node/15614141"/></wpt><wpt lat="50.9869174" lon="13.1005828"><name>Hainichen</name><desc>highway=motorway_junction
+name=Hainichen
+ref=73</desc><link href="http://osm.org/browse/node/15856398"/></wpt><wpt lat="50.863913" lon="12.8732339"><name>Chemnitz-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11182
+TMC:cid_58:tabcd_1:NextLocationCode=42522
+TMC:cid_58:tabcd_1:PrevLocationCode=11180
+highway=motorway_junction
+name=Chemnitz-Mitte
+ref=69</desc><link href="http://osm.org/browse/node/15856571"/></wpt><wpt lat="50.8137177" lon="12.8585499"><name>Chemnitz-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12448
+TMC:cid_58:tabcd_1:NextLocationCode=52462
+TMC:cid_58:tabcd_1:PrevLocationCode=51582
+highway=motorway_junction
+name=Chemnitz-Süd
+ref=15</desc><link href="http://osm.org/browse/node/15856632"/></wpt><wpt lat="50.9835797" lon="13.0970375"><name>Hainichen</name><desc>highway=motorway_junction
+name=Hainichen
+ref=73</desc><link href="http://osm.org/browse/node/15865320"/></wpt><wpt lat="51.0399223" lon="13.3291151"><name>Am Steinberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42611
+TMC:cid_58:tabcd_1:NextLocationCode=11189
+TMC:cid_58:tabcd_1:PrevLocationCode=11188
+highway=motorway_junction
+name=Am Steinberg
+noref=yes</desc><link href="http://osm.org/browse/node/15865489"/></wpt><wpt lat="51.0715396" lon="13.6523562"><name>Dresden-Altstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11192
+TMC:cid_58:tabcd_1:NextLocationCode=11193
+TMC:cid_58:tabcd_1:PrevLocationCode=42523
+highway=motorway_junction
+name=Dresden-Altstadt
+ref=78</desc><link href="http://osm.org/browse/node/15866433"/></wpt><wpt lat="51.374358" lon="12.3920027"><name>Essener Straße</name><desc>destination=Wahren; Mockau
+highway=motorway_junction
+name=Essener Straße</desc><link href="http://osm.org/browse/node/16572837"/></wpt><wpt lat="51.4073168" lon="12.3810772"><name>Leipzig-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10354
+TMC:cid_58:tabcd_1:NextLocationCode=20087
+TMC:cid_58:tabcd_1:PrevLocationCode=10352
+highway=motorway_junction
+name=Leipzig-Mitte
+ref=23</desc><link href="http://osm.org/browse/node/17084358"/></wpt><wpt lat="51.4142394" lon="12.3366305"><name>Parkplatz Birkenwald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10352
+TMC:cid_58:tabcd_1:NextLocationCode=10354
+TMC:cid_58:tabcd_1:PrevLocationCode=10353
+highway=motorway_junction
+name=Parkplatz Birkenwald
+noref=yes</desc><link href="http://osm.org/browse/node/18345051"/></wpt><wpt lat="51.3063462" lon="12.5496665"><name>Dreieck Parthenaue</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10379
+TMC:cid_58:tabcd_1:PrevLocationCode=58404
+highway=motorway_junction
+name=Dreieck Parthenaue
+ref=33</desc><link href="http://osm.org/browse/node/19814370"/></wpt><wpt lat="51.2744416" lon="12.4905174"><name>node/19815696</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=58404
+TMC:cid_58:tabcd_1:NextLocationCode=10379
+TMC:cid_58:tabcd_1:PrevLocationCode=10378
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/19815696"/></wpt><wpt lat="51.2522585" lon="12.387392"><name>Kreuz Leipzig-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=51584
+TMC:cid_58:tabcd_1:NextLocationCode=42969
+TMC:cid_58:tabcd_1:PrevLocationCode=21507
+alt_name=Kreuz Leipzig
+highway=motorway_junction
+name=Kreuz Leipzig-Süd</desc><link href="http://osm.org/browse/node/20100830"/></wpt><wpt lat="51.2750174" lon="12.3829298"><name>Markkleeberg</name><desc>highway=motorway_junction
+name=Markkleeberg</desc><link href="http://osm.org/browse/node/20100834"/></wpt><wpt lat="50.8519248" lon="12.8450392"><name>Kreuz Chemnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11180
+TMC:cid_58:tabcd_1:NextLocationCode=11182
+TMC:cid_58:tabcd_1:PrevLocationCode=11179
+highway=motorway_junction
+name=Kreuz Chemnitz
+ref=68</desc><link href="http://osm.org/browse/node/20911423"/></wpt><wpt lat="50.8405955" lon="12.5100296"><name>Rastplatz Am Angerberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42608
+TMC:cid_58:tabcd_1:NextLocationCode=11175
+TMC:cid_58:tabcd_1:PrevLocationCode=11174
+highway=motorway_junction
+name=Rastplatz Am Angerberg
+noref=yes</desc><link href="http://osm.org/browse/node/20911474"/></wpt><wpt lat="50.6946582" lon="12.7281129"><name>node/20975255</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=52370
+TMC:cid_58:tabcd_1:NextLocationCode=12447
+TMC:cid_58:tabcd_1:PrevLocationCode=12446
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/20975255"/></wpt><wpt lat="50.6385569" lon="12.4397897"><name>Zwickau-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12443
+TMC:cid_58:tabcd_1:NextLocationCode=20119
+TMC:cid_58:tabcd_1:PrevLocationCode=20118
+check_date=2024-04-15
+highway=motorway_junction
+name=Zwickau-West
+ref=10</desc><link href="http://osm.org/browse/node/20975311"/></wpt><wpt lat="51.1020358" lon="13.7173379"><name>Dresden-Wilder Mann</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11194
+TMC:cid_58:tabcd_1:NextLocationCode=11195
+TMC:cid_58:tabcd_1:PrevLocationCode=11193
+highway=motorway_junction
+name=Dresden-Wilder Mann
+ref=80</desc><link href="http://osm.org/browse/node/21271513"/></wpt><wpt lat="50.6823986" lon="12.5854445"><name>Zwickau-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12444
+TMC:cid_58:tabcd_1:NextLocationCode=12446
+TMC:cid_58:tabcd_1:PrevLocationCode=20119
+check_date=2024-04-06
+highway=motorway_junction
+name=Zwickau-Ost
+ref=11</desc><link href="http://osm.org/browse/node/21454541"/></wpt><wpt lat="50.4354763" lon="12.0922001"><name>Pirk</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12438
+TMC:cid_58:tabcd_1:NextLocationCode=42632
+TMC:cid_58:tabcd_1:PrevLocationCode=20116
+highway=motorway_junction
+name=Pirk
+ref=5</desc><link href="http://osm.org/browse/node/21524708"/></wpt><wpt lat="51.4108951" lon="12.3619309"><name>Parkplatz Birkenwald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10352
+TMC:cid_58:tabcd_1:NextLocationCode=10354
+TMC:cid_58:tabcd_1:PrevLocationCode=10353
+highway=motorway_junction
+name=Parkplatz Birkenwald
+noref=yes</desc><link href="http://osm.org/browse/node/21539344"/></wpt><wpt lat="50.6915556" lon="12.7022477"><name>Hartenstein</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12446
+TMC:cid_58:tabcd_1:NextLocationCode=52370
+TMC:cid_58:tabcd_1:PrevLocationCode=12444
+highway=motorway_junction
+name=Hartenstein
+ref=12</desc><link href="http://osm.org/browse/node/23716121"/></wpt><wpt lat="50.8583943" lon="12.8701749"><name>node/24904944</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/24904944"/></wpt><wpt lat="50.8600777" lon="12.8664862"><name>node/24905020</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=54610
+TMC:cid_58:tabcd_1:PrevLocationCode=51480
+highway=motorway_junction</desc><link href="http://osm.org/browse/node/24905020"/></wpt><wpt lat="51.0794738" lon="13.6866964"><name>Dresden-Neustadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11193
+TMC:cid_58:tabcd_1:NextLocationCode=11194
+TMC:cid_58:tabcd_1:PrevLocationCode=11192
+highway=motorway_junction
+name=Dresden-Neustadt
+ref=79</desc><link href="http://osm.org/browse/node/25096273"/></wpt><wpt lat="51.1011796" lon="13.71431"><name>Dresden-Wilder Mann</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11194
+TMC:cid_58:tabcd_1:NextLocationCode=11195
+TMC:cid_58:tabcd_1:PrevLocationCode=11193
+highway=motorway_junction
+name=Dresden-Wilder Mann
+ref=80</desc><link href="http://osm.org/browse/node/25272054"/></wpt><wpt lat="51.0883595" lon="13.6920539"><name>Dresden-Neustadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11193
+TMC:cid_58:tabcd_1:NextLocationCode=11194
+TMC:cid_58:tabcd_1:PrevLocationCode=11192
+highway=motorway_junction
+name=Dresden-Neustadt
+ref=79</desc><link href="http://osm.org/browse/node/25272065"/></wpt><wpt lat="50.9935991" lon="13.7666088"><name>Dresden-Prohlis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10408
+TMC:cid_58:tabcd_1:NextLocationCode=10409
+TMC:cid_58:tabcd_1:PrevLocationCode=51300
+highway=motorway_junction
+name=Dresden-Prohlis
+ref=4</desc><link href="http://osm.org/browse/node/25375012"/></wpt><wpt lat="50.9679567" lon="13.9156604"><name>Pirna-Copitz</name><desc>highway=motorway_junction
+name=Pirna-Copitz</desc><link href="http://osm.org/browse/node/25509413"/></wpt><wpt lat="51.3681206" lon="12.4715657"><name>Leipzig-Nordost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10355
+TMC:cid_58:tabcd_1:NextLocationCode=10356
+TMC:cid_58:tabcd_1:PrevLocationCode=20087
+hazmat=designated
+highway=motorway_junction
+name=Leipzig-Nordost
+ref=25</desc><link href="http://osm.org/browse/node/25532393"/></wpt><wpt lat="51.3990093" lon="12.4152988"><name>Leipzig-Messegelände</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=20087
+TMC:cid_58:tabcd_1:NextLocationCode=10355
+TMC:cid_58:tabcd_1:PrevLocationCode=10354
+highway=motorway_junction
+name=Leipzig-Messegelände
+ref=24</desc><link href="http://osm.org/browse/node/25533564"/></wpt><wpt lat="51.4031273" lon="12.3878425"><name>Leipzig-Mitte</name><desc>highway=motorway_junction
+name=Leipzig-Mitte</desc><link href="http://osm.org/browse/node/25534399"/></wpt><wpt lat="51.2698811" lon="12.3816349"><name>Markkleeberg</name><desc>highway=motorway_junction
+name=Markkleeberg</desc><link href="http://osm.org/browse/node/25534577"/></wpt><wpt lat="51.2623487" lon="12.4626219"><name>Leipzig-Südost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10378
+TMC:cid_58:tabcd_1:NextLocationCode=58404
+TMC:cid_58:tabcd_1:PrevLocationCode=10377
+highway=motorway_junction
+name=Leipzig-Südost
+ref=32</desc><link href="http://osm.org/browse/node/25534607"/></wpt><wpt lat="51.2904284" lon="12.3780436"><name>Goethesteig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=51585
+TMC:cid_58:tabcd_1:NextLocationCode=51586
+TMC:cid_58:tabcd_1:PrevLocationCode=42969
+destination=Markkleeberg-West;Dölitz-Dösen
+highway=motorway_junction
+name=Goethesteig</desc><link href="http://osm.org/browse/node/25534691"/></wpt><wpt lat="51.3035917" lon="12.3701638"><name>Koburger Straße</name><desc>destination=Markkleeberg-West;Connewitz
+highway=motorway_junction
+name=Koburger Straße</desc><link href="http://osm.org/browse/node/25534766"/></wpt><wpt lat="51.3159161" lon="12.3600826"><name>Richard-Lehmann-Straße</name><desc>highway=motorway_junction
+name=Richard-Lehmann-Straße</desc><link href="http://osm.org/browse/node/25534774"/></wpt><wpt lat="51.3190149" lon="12.3602104"><name>Schleußiger Weg</name><desc>highway=motorway_junction
+name=Schleußiger Weg</desc><link href="http://osm.org/browse/node/25546344"/></wpt><wpt lat="51.312506" lon="12.3634561"><name>Richard-Lehmann-Straße</name><desc>highway=motorway_junction
+name=Richard-Lehmann-Straße</desc><link href="http://osm.org/browse/node/25546360"/></wpt><wpt lat="51.140039" lon="13.7572305"><name>Dreieck Dresden-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11196
+TMC:cid_58:tabcd_1:NextLocationCode=11197
+TMC:cid_58:tabcd_1:PrevLocationCode=42600
+highway=motorway_junction
+name=Dreieck Dresden-Nord
+ref=82</desc><link href="http://osm.org/browse/node/25621126"/></wpt><wpt lat="51.2224848" lon="14.9138868"><name>Kodersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42604
+TMC:cid_58:tabcd_1:NextLocationCode=42605
+TMC:cid_58:tabcd_1:PrevLocationCode=42612
+highway=motorway_junction
+name=Kodersdorf
+ref=93</desc><link href="http://osm.org/browse/node/25621184"/></wpt><wpt lat="51.2033638" lon="14.7596793"><name>Nieder Seifersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42602
+TMC:cid_58:tabcd_1:NextLocationCode=42603
+TMC:cid_58:tabcd_1:PrevLocationCode=42613
+highway=motorway_junction
+name=Nieder Seifersdorf
+ref=92</desc><link href="http://osm.org/browse/node/25622176"/></wpt><wpt lat="51.2032358" lon="14.7599"><name>Nieder Seifersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42602
+TMC:cid_58:tabcd_1:NextLocationCode=42603
+TMC:cid_58:tabcd_1:PrevLocationCode=42613
+highway=motorway_junction
+name=Nieder Seifersdorf
+ref=92</desc><link href="http://osm.org/browse/node/25622179"/></wpt><wpt lat="51.2077554" lon="14.6867663"><name>Am Wacheberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42613
+TMC:cid_58:tabcd_1:NextLocationCode=42602
+TMC:cid_58:tabcd_1:PrevLocationCode=11205
+highway=motorway_junction
+name=Am Wacheberg</desc><link href="http://osm.org/browse/node/25622221"/></wpt><wpt lat="51.2062729" lon="14.6607695"><name>Weißenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11205
+TMC:cid_58:tabcd_1:NextLocationCode=42613
+TMC:cid_58:tabcd_1:PrevLocationCode=11204
+highway=motorway_junction
+name=Weißenberg
+name:de=Weißenberg
+name:hsb=Wóspork
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=91</desc><link href="http://osm.org/browse/node/25622238"/></wpt><wpt lat="51.2106822" lon="14.5532798"><name>Löbauer Wasser</name><desc>highway=motorway_junction
+name=Löbauer Wasser
+name:de=Löbauer Wasser
+name:hsb=Lubata
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht</desc><link href="http://osm.org/browse/node/25622266"/></wpt><wpt lat="51.1907411" lon="14.3658156"><name>Salzenforst</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42601
+TMC:cid_58:tabcd_1:NextLocationCode=11203
+TMC:cid_58:tabcd_1:PrevLocationCode=42615
+highway=motorway_junction
+name=Salzenforst
+name:de=Salzenforst
+name:hsb=Słona Boršć
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=88b</desc><link href="http://osm.org/browse/node/25623763"/></wpt><wpt lat="51.2000463" lon="14.3250689"><name>Oberlausitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42615
+TMC:cid_58:tabcd_1:NextLocationCode=42601
+TMC:cid_58:tabcd_1:PrevLocationCode=11202
+highway=motorway_junction
+name=Oberlausitz
+name:de=Oberlausitz
+name:hsb=Hornja Łužica
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht</desc><link href="http://osm.org/browse/node/25624434"/></wpt><wpt lat="51.1638941" lon="14.0490402"><name>Ohorn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11200
+TMC:cid_58:tabcd_1:NextLocationCode=42616
+TMC:cid_58:tabcd_1:PrevLocationCode=11199
+highway=motorway_junction
+name=Ohorn
+ref=86</desc><link href="http://osm.org/browse/node/25624615"/></wpt><wpt lat="51.1716478" lon="13.8444096"><name>Am Eichelberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42617
+TMC:cid_58:tabcd_1:NextLocationCode=11198
+TMC:cid_58:tabcd_1:PrevLocationCode=11197
+highway=motorway_junction
+name=Am Eichelberg</desc><link href="http://osm.org/browse/node/25625782"/></wpt><wpt lat="51.1718367" lon="13.8526952"><name>Ottendorf-Okrilla</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11198
+TMC:cid_58:tabcd_1:NextLocationCode=11199
+TMC:cid_58:tabcd_1:PrevLocationCode=42617
+highway=motorway_junction
+name=Ottendorf-Okrilla
+ref=84</desc><link href="http://osm.org/browse/node/25625784"/></wpt><wpt lat="51.1987217" lon="14.960901"><name>Görlitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42605
+TMC:cid_58:tabcd_1:NextLocationCode=58395
+TMC:cid_58:tabcd_1:PrevLocationCode=42604
+highway=motorway_junction
+name=Görlitz
+ref=94
+wikidata=Q9013</desc><link href="http://osm.org/browse/node/25626736"/></wpt><wpt lat="51.2888087" lon="12.3782885"><name>Goethesteig</name><desc>destination=Markkleeberg-West;Dölitz-Dösen
+highway=motorway_junction
+name=Goethesteig</desc><link href="http://osm.org/browse/node/26035139"/></wpt><wpt lat="51.4151274" lon="12.3070475"><name>Leipzig-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10353
+TMC:cid_58:tabcd_1:NextLocationCode=10352
+TMC:cid_58:tabcd_1:PrevLocationCode=10351
+highway=motorway_junction
+name=Leipzig-Nord
+ref=22</desc><link href="http://osm.org/browse/node/26684370"/></wpt><wpt lat="51.3560228" lon="12.4933484"><name>Leipzig-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10356
+TMC:cid_58:tabcd_1:NextLocationCode=10357
+TMC:cid_58:tabcd_1:PrevLocationCode=10355
+highway=motorway_junction
+name=Leipzig-Ost
+ref=26</desc><link href="http://osm.org/browse/node/26747347"/></wpt><wpt lat="51.0556204" lon="13.3708007"><name>Dreieck Nossen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11189
+TMC:cid_58:tabcd_1:NextLocationCode=11190
+TMC:cid_58:tabcd_1:PrevLocationCode=42611
+highway=motorway_junction
+name=Dreieck Nossen
+ref=76</desc><link href="http://osm.org/browse/node/27148430"/></wpt><wpt lat="50.759109" lon="13.0156304"><name>Amtsberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25687
+TMC:cid_58:tabcd_1:NextLocationCode=54579
+TMC:cid_58:tabcd_1:PrevLocationCode=56914
+highway=motorway_junction
+name=Amtsberg
+source:name=traffic_sign</desc><link href="http://osm.org/browse/node/27293536"/></wpt><wpt lat="50.7519135" lon="13.0372303"><name>Zschopau-Nord</name><desc>highway=motorway_junction
+name=Zschopau-Nord
+source:name=traffic_sign</desc><link href="http://osm.org/browse/node/27299930"/></wpt><wpt lat="51.242718" lon="12.8584384"><name>Mutzschen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10361
+TMC:cid_58:tabcd_1:NextLocationCode=42631
+TMC:cid_58:tabcd_1:PrevLocationCode=10360
+highway=motorway_junction
+name=Mutzschen
+ref=32</desc><link href="http://osm.org/browse/node/27343222"/></wpt><wpt lat="50.7493935" lon="13.0415662"><name>Zschopau-Nord</name><desc>highway=motorway_junction
+name=Zschopau-Nord
+source:name=traffic_sign</desc><link href="http://osm.org/browse/node/27558026"/></wpt><wpt lat="51.3087846" lon="13.2926876"><name>node/27560987</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=21018
+TMC:cid_58:tabcd_1:NextLocationCode=21019
+TMC:cid_58:tabcd_1:PrevLocationCode=42584
+highway=motorway_junction</desc><link href="http://osm.org/browse/node/27560987"/></wpt><wpt lat="50.8484609" lon="12.8444415"><name>Kreuz Chemnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12449
+TMC:cid_58:tabcd_1:NextLocationCode=12707
+TMC:cid_58:tabcd_1:PrevLocationCode=52462
+highway=motorway_junction
+name=Kreuz Chemnitz
+ref=17</desc><link href="http://osm.org/browse/node/28377040"/></wpt><wpt lat="50.8826336" lon="12.7807131"><name>Hartmannsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12708
+TMC:cid_58:tabcd_1:NextLocationCode=12709
+TMC:cid_58:tabcd_1:PrevLocationCode=12707
+highway=motorway_junction
+name=Hartmannsdorf
+ref=19</desc><link href="http://osm.org/browse/node/28377085"/></wpt><wpt lat="50.9021233" lon="12.7387491"><name>Niederfrohna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12709
+TMC:cid_58:tabcd_1:NextLocationCode=12710
+TMC:cid_58:tabcd_1:PrevLocationCode=12708
+highway=motorway_junction
+name=Niederfrohna
+ref=20</desc><link href="http://osm.org/browse/node/28377697"/></wpt><wpt lat="50.8673483" lon="12.8067566"><name>Chemnitz-Röhrsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12707
+TMC:cid_58:tabcd_1:NextLocationCode=12708
+TMC:cid_58:tabcd_1:PrevLocationCode=12449
+highway=motorway_junction
+name=Chemnitz-Röhrsdorf
+ref=18</desc><link href="http://osm.org/browse/node/28384547"/></wpt><wpt lat="50.7869907" lon="12.4801317"><name>node/29169855</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=25489
+TMC:cid_58:tabcd_1:NextLocationCode=42541
+TMC:cid_58:tabcd_1:PrevLocationCode=58426
+highway=motorway_junction
+toll:name=Mosel Nord</desc><link href="http://osm.org/browse/node/29169855"/></wpt><wpt lat="51.1716711" lon="13.8252906"><name>Hermsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11197
+TMC:cid_58:tabcd_1:NextLocationCode=42617
+TMC:cid_58:tabcd_1:PrevLocationCode=11196
+highway=motorway_junction
+name=Hermsdorf
+ref=83</desc><link href="http://osm.org/browse/node/29401233"/></wpt><wpt lat="50.8197695" lon="12.7510383"><name>Wüstenbrand</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11177
+TMC:cid_58:tabcd_1:NextLocationCode=11178
+TMC:cid_58:tabcd_1:PrevLocationCode=57120
+highway=motorway_junction
+name=Wüstenbrand
+ref=66</desc><link href="http://osm.org/browse/node/29512052"/></wpt><wpt lat="51.171847" lon="13.8230132"><name>Hermsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11197
+TMC:cid_58:tabcd_1:NextLocationCode=42617
+TMC:cid_58:tabcd_1:PrevLocationCode=11196
+highway=motorway_junction
+name=Hermsdorf
+ref=83</desc><link href="http://osm.org/browse/node/29535024"/></wpt><wpt lat="51.0902966" lon="14.6421755"><name>Löbau-Zentrum</name><desc>highway=motorway_junction
+name=Löbau-Zentrum</desc><link href="http://osm.org/browse/node/29542050"/></wpt><wpt lat="50.8464543" lon="12.8083266"><name>Limbach-Oberfrohna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11179
+TMC:cid_58:tabcd_1:NextLocationCode=11180
+TMC:cid_58:tabcd_1:PrevLocationCode=11178
+highway=motorway_junction
+name=Limbach-Oberfrohna
+ref=67</desc><link href="http://osm.org/browse/node/29767758"/></wpt><wpt lat="50.8506243" lon="12.8343128"><name>Kreuz Chemnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11180
+TMC:cid_58:tabcd_1:NextLocationCode=11182
+TMC:cid_58:tabcd_1:PrevLocationCode=11179
+highway=motorway_junction
+name=Kreuz Chemnitz
+ref=68</desc><link href="http://osm.org/browse/node/30135273"/></wpt><wpt lat="51.1394929" lon="13.7497516"><name>Dreieck Dresden-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10316
+TMC:cid_58:tabcd_1:NextLocationCode=10317
+highway=motorway_junction
+name=Dreieck Dresden-Nord
+ref=23</desc><link href="http://osm.org/browse/node/30811433"/></wpt><wpt lat="51.060631" lon="13.5244848"><name>Wilsdruff</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11190
+TMC:cid_58:tabcd_1:NextLocationCode=11191
+TMC:cid_58:tabcd_1:PrevLocationCode=11189
+highway=motorway_junction
+name=Wilsdruff
+ref=77a</desc><link href="http://osm.org/browse/node/30855888"/></wpt><wpt lat="51.4016176" lon="12.3880813"><name>Seehausener Allee</name><desc>highway=motorway_junction
+name=Seehausener Allee
+name:etymology:wikidata=Q2264934</desc><link href="http://osm.org/browse/node/31036060"/></wpt><wpt lat="51.0012138" lon="13.2043731"><name>Berbersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11187
+TMC:cid_58:tabcd_1:NextLocationCode=11188
+TMC:cid_58:tabcd_1:PrevLocationCode=11186
+highway=motorway_junction
+name=Berbersdorf
+ref=74</desc><link href="http://osm.org/browse/node/31266580"/></wpt><wpt lat="51.2572629" lon="12.7250273"><name>Grimma</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10360
+TMC:cid_58:tabcd_1:NextLocationCode=10361
+TMC:cid_58:tabcd_1:PrevLocationCode=58399
+highway=motorway_junction
+name=Grimma
+ref=31</desc><link href="http://osm.org/browse/node/31356330"/></wpt><wpt lat="50.9090767" lon="12.9766312"><name>Chemnitz-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11184
+TMC:cid_58:tabcd_1:NextLocationCode=57123
+TMC:cid_58:tabcd_1:PrevLocationCode=11181
+highway=motorway_junction
+name=Chemnitz-Ost
+ref=71</desc><link href="http://osm.org/browse/node/31622701"/></wpt><wpt lat="51.2785772" lon="12.4930751"><name>node/31953787</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=58404
+TMC:cid_58:tabcd_1:NextLocationCode=10379
+TMC:cid_58:tabcd_1:PrevLocationCode=10378
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/31953787"/></wpt><wpt lat="51.0616594" lon="13.5635634"><name>Rasthof Dresdner Tor</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11191
+TMC:cid_58:tabcd_1:NextLocationCode=42523
+TMC:cid_58:tabcd_1:PrevLocationCode=11190
+highway=motorway_junction
+name=Rasthof Dresdner Tor
+noref=yes</desc><link href="http://osm.org/browse/node/32034561"/></wpt><wpt lat="51.084188" lon="13.2747283"><name>Nossen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10366
+TMC:cid_58:tabcd_1:NextLocationCode=10367
+TMC:cid_58:tabcd_1:PrevLocationCode=42626
+highway=motorway_junction
+name=Nossen-Nord
+ref=36</desc><link href="http://osm.org/browse/node/32035200"/></wpt><wpt lat="50.729383" lon="12.779368"><name>Stollberg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42635
+TMC:cid_58:tabcd_1:NextLocationCode=51582
+TMC:cid_58:tabcd_1:PrevLocationCode=12447
+check_date=2024-04-15
+highway=motorway_junction
+name=Stollberg-Nord
+ref=14</desc><link href="http://osm.org/browse/node/32047912"/></wpt><wpt lat="50.89781" lon="13.8913483"><name>Bahretal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10411
+TMC:cid_58:tabcd_1:NextLocationCode=42524
+TMC:cid_58:tabcd_1:PrevLocationCode=10410
+highway=motorway_junction
+name=Bahretal
+ref=7</desc><link href="http://osm.org/browse/node/32244424"/></wpt><wpt lat="50.8333707" lon="13.8846933"><name>Bad Gottleuba</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42524
+TMC:cid_58:tabcd_1:NextLocationCode=58403
+TMC:cid_58:tabcd_1:PrevLocationCode=10411
+highway=motorway_junction
+name=Bad Gottleuba
+ref=8</desc><link href="http://osm.org/browse/node/32248681"/></wpt><wpt lat="50.7406017" lon="13.0642569"><name>Zschopau-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=56914
+TMC:cid_58:tabcd_1:NextLocationCode=25687
+TMC:cid_58:tabcd_1:PrevLocationCode=56912
+highway=motorway_junction
+name=Zschopau-Süd
+source:name=traffic_sign</desc><link href="http://osm.org/browse/node/33225195"/></wpt><wpt lat="51.2019081" lon="12.9647462"><name>Leisnig</name><desc>highway=motorway_junction
+name=Leisnig
+ref=33</desc><link href="http://osm.org/browse/node/33602859"/></wpt><wpt lat="50.7407727" lon="13.0642515"><name>Zschopau-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=56914
+TMC:cid_58:tabcd_1:NextLocationCode=25687
+TMC:cid_58:tabcd_1:PrevLocationCode=56912
+highway=motorway_junction
+name=Zschopau-Süd
+source:name=traffic_sign</desc><link href="http://osm.org/browse/node/33610058"/></wpt><wpt lat="50.7907521" lon="12.4775812"><name>node/34747219</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/34747219"/></wpt><wpt lat="50.6436447" lon="12.3357967"><name>node/34747334</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=14775
+TMC:cid_58:tabcd_1:NextLocationCode=29741
+TMC:cid_58:tabcd_1:PrevLocationCode=21093
+highway=motorway_junction</desc><link href="http://osm.org/browse/node/34747334"/></wpt><wpt lat="50.68038" lon="12.5802441"><name>Zwickau-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12444
+TMC:cid_58:tabcd_1:NextLocationCode=12446
+TMC:cid_58:tabcd_1:PrevLocationCode=20119
+check_date=2024-04-06
+highway=motorway_junction
+name=Zwickau-Ost
+ref=11</desc><link href="http://osm.org/browse/node/34780676"/></wpt><wpt lat="50.82852" lon="12.4476633"><name>node/34794599</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/34794599"/></wpt><wpt lat="51.0645652" lon="13.6128024"><name>Dreieck Dresden-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42523
+TMC:cid_58:tabcd_1:NextLocationCode=11192
+TMC:cid_58:tabcd_1:PrevLocationCode=11191
+highway=motorway_junction
+name=Dreieck Dresden-West
+ref=77b</desc><link href="http://osm.org/browse/node/60395691"/></wpt><wpt lat="50.6392152" lon="12.4416808"><name>Zwickau-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12443
+TMC:cid_58:tabcd_1:NextLocationCode=20119
+TMC:cid_58:tabcd_1:PrevLocationCode=20118
+highway=motorway_junction
+name=Zwickau-West
+ref=10</desc><link href="http://osm.org/browse/node/67386181"/></wpt><wpt lat="50.5957639" lon="12.339032"><name>Reichenbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12442
+TMC:cid_58:tabcd_1:NextLocationCode=20118
+TMC:cid_58:tabcd_1:PrevLocationCode=12441
+check_date=2024-04-15
+highway=motorway_junction
+name=Reichenbach
+ref=9</desc><link href="http://osm.org/browse/node/67437148"/></wpt><wpt lat="50.5038131" lon="12.2066943"><name>Plauen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12440
+TMC:cid_58:tabcd_1:NextLocationCode=20117
+TMC:cid_58:tabcd_1:PrevLocationCode=42633
+check_date=2024-04-07
+highway=motorway_junction
+name=Plauen-Ost
+ref=7</desc><link href="http://osm.org/browse/node/70904509"/></wpt><wpt lat="50.4690625" lon="12.1858858"><name>Rasthof Vogtland</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42633
+TMC:cid_58:tabcd_1:NextLocationCode=12440
+TMC:cid_58:tabcd_1:PrevLocationCode=12439
+highway=motorway_junction
+name=Rasthof Vogtland
+noref=yes</desc><link href="http://osm.org/browse/node/70904515"/></wpt><wpt lat="50.607051" lon="12.3161852"><name>node/71683289</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/71683289"/></wpt><wpt lat="50.6087661" lon="12.3159241"><name>node/71715069</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/71715069"/></wpt><wpt lat="50.8610391" lon="12.8627271"><name>node/74239632</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/74239632"/></wpt><wpt lat="50.8605255" lon="12.8649359"><name>node/74239738</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/74239738"/></wpt><wpt lat="50.5513138" lon="12.2745765"><name>Treuen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12441
+TMC:cid_58:tabcd_1:NextLocationCode=12442
+TMC:cid_58:tabcd_1:PrevLocationCode=20117
+highway=motorway_junction
+name=Treuen
+ref=8</desc><link href="http://osm.org/browse/node/86128524"/></wpt><wpt lat="50.4995142" lon="12.2003826"><name>Plauen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12440
+TMC:cid_58:tabcd_1:NextLocationCode=20117
+TMC:cid_58:tabcd_1:PrevLocationCode=42633
+check_date=2024-04-15
+highway=motorway_junction
+name=Plauen-Ost
+ref=7</desc><link href="http://osm.org/browse/node/86132165"/></wpt><wpt lat="51.4152314" lon="12.3084015"><name>Leipzig-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10353
+TMC:cid_58:tabcd_1:NextLocationCode=10352
+TMC:cid_58:tabcd_1:PrevLocationCode=10351
+hazmat=designated
+highway=motorway_junction
+name=Leipzig-Nord
+ref=22</desc><link href="http://osm.org/browse/node/89124705"/></wpt><wpt lat="50.7031027" lon="12.7512638"><name>Stollberg-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12447
+TMC:cid_58:tabcd_1:NextLocationCode=42635
+TMC:cid_58:tabcd_1:PrevLocationCode=52370
+check_date=2024-04-15
+highway=motorway_junction
+name=Stollberg-West
+ref=13</desc><link href="http://osm.org/browse/node/97681249"/></wpt><wpt lat="51.1985732" lon="14.2252593"><name>Uhyst am Taucher</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11202
+TMC:cid_58:tabcd_1:NextLocationCode=42615
+TMC:cid_58:tabcd_1:PrevLocationCode=11201
+highway=motorway_junction
+name=Uhyst am Taucher
+name:de=Uhyst am Taucher
+name:hsb=Horni Wujězd
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=88a</desc><link href="http://osm.org/browse/node/98313774"/></wpt><wpt lat="51.1767993" lon="14.1427289"><name>Burkau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11201
+TMC:cid_58:tabcd_1:NextLocationCode=11202
+TMC:cid_58:tabcd_1:PrevLocationCode=42616
+highway=motorway_junction
+name=Burkau
+name:de=Burkau
+name:hsb=Porchow
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=87</desc><link href="http://osm.org/browse/node/98314346"/></wpt><wpt lat="50.762423" lon="12.5024823"><name>node/101539377</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=58426
+TMC:cid_58:tabcd_1:NextLocationCode=25489
+TMC:cid_58:tabcd_1:PrevLocationCode=42597
+highway=motorway_junction
+toll:name=Crossen</desc><link href="http://osm.org/browse/node/101539377"/></wpt><wpt lat="50.7670765" lon="12.5008839"><name>node/101539591</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=58426
+TMC:cid_58:tabcd_1:NextLocationCode=25489
+TMC:cid_58:tabcd_1:PrevLocationCode=42597
+highway=motorway_junction
+toll:name=Crossen</desc><link href="http://osm.org/browse/node/101539591"/></wpt><wpt lat="50.8390071" lon="12.4431725"><name>node/101545795</name><desc>highway=motorway_junction
+toll:name=Meerane</desc><link href="http://osm.org/browse/node/101545795"/></wpt><wpt lat="50.8200827" lon="12.4496466"><name>Meerane</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=25490
+TMC:cid_58:tabcd_1:NextLocationCode=45888
+TMC:cid_58:tabcd_1:PrevLocationCode=42541
+highway=motorway_junction
+name=Meerane
+ref=62</desc><link href="http://osm.org/browse/node/101551613"/></wpt><wpt lat="50.7879879" lon="12.4770606"><name>node/101571556</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=25489
+TMC:cid_58:tabcd_1:NextLocationCode=42541
+TMC:cid_58:tabcd_1:PrevLocationCode=58426
+highway=motorway_junction
+toll:name=Mosel Nord</desc><link href="http://osm.org/browse/node/101571556"/></wpt><wpt lat="50.8455055" lon="12.8060572"><name>Limbach-Oberfrohna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11179
+TMC:cid_58:tabcd_1:NextLocationCode=11180
+TMC:cid_58:tabcd_1:PrevLocationCode=11178
+highway=motorway_junction
+name=Limbach-Oberfrohna
+ref=67</desc><link href="http://osm.org/browse/node/105771100"/></wpt><wpt lat="50.843352" lon="12.5420593"><name>Glauchau-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11175
+TMC:cid_58:tabcd_1:NextLocationCode=57122
+TMC:cid_58:tabcd_1:PrevLocationCode=42608
+highway=motorway_junction
+name=Glauchau-Ost
+ref=64</desc><link href="http://osm.org/browse/node/111036589"/></wpt><wpt lat="50.8187164" lon="12.4495028"><name>node/111813099</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42541
+TMC:cid_58:tabcd_1:NextLocationCode=25490
+TMC:cid_58:tabcd_1:PrevLocationCode=25489
+highway=motorway_junction
+toll:name=Crimmitschau</desc><link href="http://osm.org/browse/node/111813099"/></wpt><wpt lat="50.8143454" lon="12.450284"><name>node/111813514</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42541
+TMC:cid_58:tabcd_1:NextLocationCode=25490
+TMC:cid_58:tabcd_1:PrevLocationCode=25489
+highway=motorway_junction
+toll:name=Crimmitschau</desc><link href="http://osm.org/browse/node/111813514"/></wpt><wpt lat="50.8805759" lon="12.7834178"><name>Hartmannsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12708
+TMC:cid_58:tabcd_1:NextLocationCode=12709
+TMC:cid_58:tabcd_1:PrevLocationCode=12707
+highway=motorway_junction
+name=Hartmannsdorf
+ref=19</desc><link href="http://osm.org/browse/node/114945729"/></wpt><wpt lat="51.3693269" lon="12.4690384"><name>Leipzig-Nordost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10355
+TMC:cid_58:tabcd_1:NextLocationCode=10356
+TMC:cid_58:tabcd_1:PrevLocationCode=20087
+hazmat=designated
+highway=motorway_junction
+name=Leipzig-Nordost
+ref=25</desc><link href="http://osm.org/browse/node/130101259"/></wpt><wpt lat="50.8343382" lon="12.4893893"><name>Glauchau-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11174
+TMC:cid_58:tabcd_1:NextLocationCode=42608
+TMC:cid_58:tabcd_1:PrevLocationCode=11173
+highway=motorway_junction
+name=Glauchau-West
+ref=63</desc><link href="http://osm.org/browse/node/133147108"/></wpt><wpt lat="50.7842358" lon="12.4902029"><name>node/144933041</name><desc>highway=motorway_junction
+toll:name=Mosel Moseler Allee</desc><link href="http://osm.org/browse/node/144933041"/></wpt><wpt lat="50.785674" lon="12.48746"><name>node/144934809</name><desc>highway=motorway_junction
+toll:name=Mosel Moseler Allee</desc><link href="http://osm.org/browse/node/144934809"/></wpt><wpt lat="50.8340482" lon="12.4892791"><name>Glauchau-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11174
+TMC:cid_58:tabcd_1:NextLocationCode=42608
+TMC:cid_58:tabcd_1:PrevLocationCode=11173
+highway=motorway_junction
+name=Glauchau-West
+ref=63</desc><link href="http://osm.org/browse/node/150257017"/></wpt><wpt lat="51.0620817" lon="13.5806935"><name>Rasthof Dresdner Tor</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11191
+TMC:cid_58:tabcd_1:NextLocationCode=42523
+TMC:cid_58:tabcd_1:PrevLocationCode=11190
+highway=motorway_junction
+name=Rasthof Dresdner Tor
+noref=yes</desc><link href="http://osm.org/browse/node/150577963"/></wpt><wpt lat="50.8433003" lon="12.5428884"><name>Glauchau-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11175
+TMC:cid_58:tabcd_1:NextLocationCode=57122
+TMC:cid_58:tabcd_1:PrevLocationCode=42608
+highway=motorway_junction
+name=Glauchau-Ost
+ref=64</desc><link href="http://osm.org/browse/node/161798056"/></wpt><wpt lat="51.4082906" lon="12.3929428"><name>Leipzig-Mitte</name><desc>highway=motorway_junction
+name=Leipzig-Mitte</desc><link href="http://osm.org/browse/node/165196783"/></wpt><wpt lat="51.4201566" lon="12.2525982"><name>Schkeuditz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10351
+TMC:cid_58:tabcd_1:NextLocationCode=10353
+TMC:cid_58:tabcd_1:PrevLocationCode=10350
+hazmat=designated
+highway=motorway_junction
+name=Schkeuditz
+ref=21</desc><link href="http://osm.org/browse/node/165323796"/></wpt><wpt lat="50.8186477" lon="12.6466351"><name>Hohenstein-Ernstthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=57120
+TMC:cid_58:tabcd_1:NextLocationCode=11177
+TMC:cid_58:tabcd_1:PrevLocationCode=57122
+highway=motorway_junction
+name=Hohenstein-Ernstthal
+ref=65</desc><link href="http://osm.org/browse/node/171853313"/></wpt><wpt lat="50.8181769" lon="12.6489519"><name>Hohenstein-Ernstthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=57120
+TMC:cid_58:tabcd_1:NextLocationCode=11177
+TMC:cid_58:tabcd_1:PrevLocationCode=57122
+highway=motorway_junction
+name=Hohenstein-Ernstthal
+ref=65</desc><link href="http://osm.org/browse/node/171864725"/></wpt><wpt lat="51.2628914" lon="12.2657586"><name>Leipzig-Südwest</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10375
+TMC:cid_58:tabcd_1:NextLocationCode=10376
+TMC:cid_58:tabcd_1:PrevLocationCode=10374
+highway=motorway_junction
+name=Leipzig-Südwest
+ref=29</desc><link href="http://osm.org/browse/node/192854712"/></wpt><wpt lat="51.2631583" lon="12.272374"><name>Leipzig-Südwest</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10375
+TMC:cid_58:tabcd_1:NextLocationCode=10376
+TMC:cid_58:tabcd_1:PrevLocationCode=10374
+highway=motorway_junction
+name=Leipzig-Südwest
+ref=29</desc><link href="http://osm.org/browse/node/192854761"/></wpt><wpt lat="51.2516995" lon="12.3070139"><name>Leipzig-Neue Harth</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10376
+TMC:cid_58:tabcd_1:NextLocationCode=10377
+TMC:cid_58:tabcd_1:PrevLocationCode=10375
+highway=motorway_junction
+name=Leipzig-Neue Harth
+ref=30</desc><link href="http://osm.org/browse/node/192868261"/></wpt><wpt lat="51.252327" lon="12.3050096"><name>Leipzig-Neue Harth</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10376
+TMC:cid_58:tabcd_1:NextLocationCode=10377
+TMC:cid_58:tabcd_1:PrevLocationCode=10375
+highway=motorway_junction
+name=Leipzig-Neue Harth
+ref=30</desc><link href="http://osm.org/browse/node/192868316"/></wpt><wpt lat="51.2481356" lon="12.3847531"><name>Kreuz Leipzig-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10377
+TMC:cid_58:tabcd_1:NextLocationCode=10378
+TMC:cid_58:tabcd_1:PrevLocationCode=10376
+alt_name=Kreuz Leipzig
+highway=motorway_junction
+name=Kreuz Leipzig-Süd
+ref=31</desc><link href="http://osm.org/browse/node/192880468"/></wpt><wpt lat="51.0833078" lon="13.2789459"><name>Nossen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10366
+TMC:cid_58:tabcd_1:NextLocationCode=10367
+TMC:cid_58:tabcd_1:PrevLocationCode=42626
+highway=motorway_junction
+name=Nossen-Nord
+ref=36</desc><link href="http://osm.org/browse/node/193965772"/></wpt><wpt lat="51.3180159" lon="12.523029"><name>Kleinpösna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10357
+TMC:cid_58:tabcd_1:NextLocationCode=42723
+TMC:cid_58:tabcd_1:PrevLocationCode=10356
+highway=motorway_junction
+name=Kleinpösna
+ref=27</desc><link href="http://osm.org/browse/node/194021696"/></wpt><wpt lat="51.4190123" lon="12.2622128"><name>Schkeuditz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10351
+TMC:cid_58:tabcd_1:NextLocationCode=10353
+TMC:cid_58:tabcd_1:PrevLocationCode=10350
+hazmat=designated
+highway=motorway_junction
+name=Schkeuditz
+ref=21</desc><link href="http://osm.org/browse/node/194513812"/></wpt><wpt lat="51.4335042" lon="12.2013977"><name>Schkeuditzer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12796
+TMC:cid_58:tabcd_1:NextLocationCode=12797
+TMC:cid_58:tabcd_1:PrevLocationCode=12795
+hazmat=designated
+highway=motorway_junction
+name=Schkeuditzer Kreuz
+ref=15</desc><link href="http://osm.org/browse/node/194584922"/></wpt><wpt lat="51.1141637" lon="12.5181954"><name>Borna-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12714
+TMC:cid_58:tabcd_1:NextLocationCode=52371
+TMC:cid_58:tabcd_1:PrevLocationCode=12713
+highway=motorway_junction
+name=Borna-Süd
+ref=25</desc><link href="http://osm.org/browse/node/198032345"/></wpt><wpt lat="51.1081125" lon="13.1837589"><name>Döbeln-Ost</name><desc>highway=motorway_junction
+name=Döbeln-Ost
+ref=35</desc><link href="http://osm.org/browse/node/202003059"/></wpt><wpt lat="51.114001" lon="13.1751082"><name>Döbeln-Ost</name><desc>highway=motorway_junction
+name=Döbeln-Ost
+ref=35</desc><link href="http://osm.org/browse/node/202020508"/></wpt><wpt lat="51.286102" lon="12.6402971"><name>Klinga</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10359
+TMC:cid_58:tabcd_1:NextLocationCode=58399
+TMC:cid_58:tabcd_1:PrevLocationCode=10358
+highway=motorway_junction
+name=Klinga
+ref=30</desc><link href="http://osm.org/browse/node/202062355"/></wpt><wpt lat="51.2866356" lon="12.6384477"><name>Klinga</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10359
+TMC:cid_58:tabcd_1:NextLocationCode=58399
+TMC:cid_58:tabcd_1:PrevLocationCode=10358
+highway=motorway_junction
+name=Klinga
+ref=30</desc><link href="http://osm.org/browse/node/202062420"/></wpt><wpt lat="50.8673852" lon="12.8052845"><name>Chemnitz-Röhrsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12707
+TMC:cid_58:tabcd_1:NextLocationCode=12708
+TMC:cid_58:tabcd_1:PrevLocationCode=12449
+highway=motorway_junction
+name=Chemnitz-Röhrsdorf
+ref=18</desc><link href="http://osm.org/browse/node/204134989"/></wpt><wpt lat="50.9048599" lon="12.7337851"><name>Niederfrohna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12709
+TMC:cid_58:tabcd_1:NextLocationCode=12710
+TMC:cid_58:tabcd_1:PrevLocationCode=12708
+highway=motorway_junction
+name=Niederfrohna
+ref=20</desc><link href="http://osm.org/browse/node/204147097"/></wpt><wpt lat="51.3321124" lon="13.7183657"><name>Schönborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10320
+TMC:cid_58:tabcd_1:NextLocationCode=51521
+TMC:cid_58:tabcd_1:PrevLocationCode=42622
+highway=motorway_junction
+name=Schönborn
+ref=19</desc><link href="http://osm.org/browse/node/205460314"/></wpt><wpt lat="51.3334687" lon="13.7181727"><name>Schönborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10320
+TMC:cid_58:tabcd_1:NextLocationCode=51521
+TMC:cid_58:tabcd_1:PrevLocationCode=42622
+highway=motorway_junction
+name=Schönborn
+ref=19</desc><link href="http://osm.org/browse/node/205460349"/></wpt><wpt lat="51.2949785" lon="13.2800849"><name>node/206104109</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/206104109"/></wpt><wpt lat="50.9079504" lon="14.8345501"><name>node/206933129</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/206933129"/></wpt><wpt lat="50.8988977" lon="13.8921629"><name>Bahretal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10411
+TMC:cid_58:tabcd_1:NextLocationCode=42524
+TMC:cid_58:tabcd_1:PrevLocationCode=10410
+highway=motorway_junction
+name=Bahretal
+ref=7</desc><link href="http://osm.org/browse/node/212763377"/></wpt><wpt lat="51.0385062" lon="13.6372264"><name>node/221995898</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/221995898"/></wpt><wpt lat="50.9562274" lon="13.918036"><name>Pirna-Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=52406
+TMC:cid_58:tabcd_1:PrevLocationCode=52405
+highway=motorway_junction
+name=Pirna-Zentrum
+toll:name=Pirna</desc><link href="http://osm.org/browse/node/226618641"/></wpt><wpt lat="50.7299421" lon="12.7793089"><name>Stollberg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42635
+TMC:cid_58:tabcd_1:NextLocationCode=51582
+TMC:cid_58:tabcd_1:PrevLocationCode=12447
+highway=motorway_junction
+name=Stollberg-Nord
+ref=14</desc><link href="http://osm.org/browse/node/237760796"/></wpt><wpt lat="50.6915235" lon="12.6998118"><name>Hartenstein</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12446
+TMC:cid_58:tabcd_1:NextLocationCode=52370
+TMC:cid_58:tabcd_1:PrevLocationCode=12444
+highway=motorway_junction
+name=Hartenstein
+ref=12</desc><link href="http://osm.org/browse/node/247089326"/></wpt><wpt lat="51.0433034" lon="13.6489748"><name>node/248219490</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/248219490"/></wpt><wpt lat="51.0377404" lon="13.6296867"><name>node/248219548</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/248219548"/></wpt><wpt lat="51.1624078" lon="14.0456102"><name>Ohorn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11200
+TMC:cid_58:tabcd_1:NextLocationCode=42616
+TMC:cid_58:tabcd_1:PrevLocationCode=11199
+highway=motorway_junction
+name=Ohorn
+ref=86</desc><link href="http://osm.org/browse/node/251771784"/></wpt><wpt lat="51.1719072" lon="13.8560918"><name>Ottendorf-Okrilla</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11198
+TMC:cid_58:tabcd_1:NextLocationCode=11199
+TMC:cid_58:tabcd_1:PrevLocationCode=42617
+highway=motorway_junction
+name=Ottendorf-Okrilla
+ref=84</desc><link href="http://osm.org/browse/node/252533492"/></wpt><wpt lat="51.3095379" lon="13.2939721"><name>node/253259741</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=21018
+TMC:cid_58:tabcd_1:NextLocationCode=21019
+TMC:cid_58:tabcd_1:PrevLocationCode=42584
+highway=motorway_junction</desc><link href="http://osm.org/browse/node/253259741"/></wpt><wpt lat="51.2960438" lon="13.280615"><name>node/253263583</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/253263583"/></wpt><wpt lat="51.3020935" lon="13.2839231"><name>node/253269227</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/253269227"/></wpt><wpt lat="51.2416971" lon="12.2157094"><name>node/258142779</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10374
+TMC:cid_58:tabcd_1:NextLocationCode=10375
+TMC:cid_58:tabcd_1:PrevLocationCode=10373
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/258142779"/></wpt><wpt lat="50.4079928" lon="12.0295398"><name>Rastplatz Großzöbern</name><desc>highway=motorway_junction
+name=Rastplatz Großzöbern
+noref=yes</desc><link href="http://osm.org/browse/node/259064105"/></wpt><wpt lat="51.305167" lon="13.2866389"><name>node/259131912</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/259131912"/></wpt><wpt lat="50.8933057" lon="12.9431164"><name>Auerswalder Blick</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11181
+TMC:cid_58:tabcd_1:NextLocationCode=11184
+TMC:cid_58:tabcd_1:PrevLocationCode=42522
+highway=motorway_junction
+name=Auerswalder Blick
+noref=yes</desc><link href="http://osm.org/browse/node/261679810"/></wpt><wpt lat="51.0896068" lon="14.6428313"><name>Löbau-Zentrum</name><desc>highway=motorway_junction
+name=Löbau-Zentrum</desc><link href="http://osm.org/browse/node/262367213"/></wpt><wpt lat="51.2443894" lon="12.220686"><name>node/265660964</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10374
+TMC:cid_58:tabcd_1:NextLocationCode=10375
+TMC:cid_58:tabcd_1:PrevLocationCode=10373
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/265660964"/></wpt><wpt lat="50.6099652" lon="12.3167603"><name>node/266286929</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/266286929"/></wpt><wpt lat="50.8213556" lon="12.7613638"><name>Rabensteiner Wald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11178
+TMC:cid_58:tabcd_1:NextLocationCode=11179
+TMC:cid_58:tabcd_1:PrevLocationCode=11177
+highway=motorway_junction
+name=Rabensteiner Wald
+noref=yes</desc><link href="http://osm.org/browse/node/266700220"/></wpt><wpt lat="50.9068136" lon="14.8356353"><name>node/266858367</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/266858367"/></wpt><wpt lat="51.0911555" lon="13.2307244"><name>Raststätte Hansens Holz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42626
+TMC:cid_58:tabcd_1:NextLocationCode=10366
+TMC:cid_58:tabcd_1:PrevLocationCode=10365
+highway=motorway_junction
+name=Raststätte Hansens Holz</desc><link href="http://osm.org/browse/node/267094799"/></wpt><wpt lat="51.198129" lon="14.9625178"><name>Görlitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42605
+TMC:cid_58:tabcd_1:NextLocationCode=58395
+TMC:cid_58:tabcd_1:PrevLocationCode=42604
+highway=motorway_junction
+name=Görlitz
+ref=94
+wikidata=Q9013</desc><link href="http://osm.org/browse/node/270832891"/></wpt><wpt lat="50.8941447" lon="12.9447989"><name>Auerswalder Blick</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11181
+TMC:cid_58:tabcd_1:NextLocationCode=11184
+TMC:cid_58:tabcd_1:PrevLocationCode=42522
+highway=motorway_junction
+name=Auerswalder Blick
+noref=yes</desc><link href="http://osm.org/browse/node/273441161"/></wpt><wpt lat="50.7824652" lon="12.8262157"><name>Rastplatz Am Neukirchener Wald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=51582
+TMC:cid_58:tabcd_1:NextLocationCode=12448
+TMC:cid_58:tabcd_1:PrevLocationCode=42635
+highway=motorway_junction
+name=Rastplatz Am Neukirchener Wald
+noref=yes</desc><link href="http://osm.org/browse/node/276805672"/></wpt><wpt lat="50.6840855" lon="12.4447326"><name>node/277825330</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/277825330"/></wpt><wpt lat="50.6822579" lon="12.4467202"><name>node/277825359</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/277825359"/></wpt><wpt lat="51.2231633" lon="14.906656"><name>Kodersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42604
+TMC:cid_58:tabcd_1:NextLocationCode=42605
+TMC:cid_58:tabcd_1:PrevLocationCode=42612
+highway=motorway_junction
+name=Kodersdorf
+ref=93</desc><link href="http://osm.org/browse/node/279094247"/></wpt><wpt lat="50.8202326" lon="12.753465"><name>Wüstenbrand</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11177
+TMC:cid_58:tabcd_1:NextLocationCode=11178
+TMC:cid_58:tabcd_1:PrevLocationCode=57120
+highway=motorway_junction
+name=Wüstenbrand
+ref=66</desc><link href="http://osm.org/browse/node/279104918"/></wpt><wpt lat="51.2061208" lon="14.6676817"><name>Weißenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11205
+TMC:cid_58:tabcd_1:NextLocationCode=42613
+TMC:cid_58:tabcd_1:PrevLocationCode=11204
+highway=motorway_junction
+name=Weißenberg
+name:de=Weißenberg
+name:hsb=Wóspork
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=91</desc><link href="http://osm.org/browse/node/291263253"/></wpt><wpt lat="51.2195463" lon="14.8744239"><name>Wiesaer Forst</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42612
+TMC:cid_58:tabcd_1:NextLocationCode=42604
+TMC:cid_58:tabcd_1:PrevLocationCode=42603
+highway=motorway_junction
+name=Wiesaer Forst</desc><link href="http://osm.org/browse/node/291270241"/></wpt><wpt lat="51.2194484" lon="14.8686433"><name>Wiesaer Forst</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42612
+TMC:cid_58:tabcd_1:NextLocationCode=42604
+TMC:cid_58:tabcd_1:PrevLocationCode=42603
+highway=motorway_junction
+name=Wiesaer Forst</desc><link href="http://osm.org/browse/node/291270589"/></wpt><wpt lat="50.8312564" lon="13.8860346"><name>Bad Gottleuba</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42524
+TMC:cid_58:tabcd_1:NextLocationCode=58403
+TMC:cid_58:tabcd_1:PrevLocationCode=10411
+highway=motorway_junction
+name=Bad Gottleuba
+ref=8</desc><link href="http://osm.org/browse/node/293243958"/></wpt><wpt lat="50.9487122" lon="13.8723763"><name>Pirna</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10410
+TMC:cid_58:tabcd_1:NextLocationCode=10411
+TMC:cid_58:tabcd_1:PrevLocationCode=10409
+highway=motorway_junction
+name=Pirna
+ref=6</desc><link href="http://osm.org/browse/node/297545801"/></wpt><wpt lat="51.3050791" lon="12.598591"><name>Naunhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10358
+TMC:cid_58:tabcd_1:NextLocationCode=10359
+TMC:cid_58:tabcd_1:PrevLocationCode=42723
+highway=motorway_junction
+name=Naunhof
+ref=29</desc><link href="http://osm.org/browse/node/297684545"/></wpt><wpt lat="51.4647003" lon="12.2166129"><name>Wiedemar</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12797
+TMC:cid_58:tabcd_1:NextLocationCode=12799
+TMC:cid_58:tabcd_1:PrevLocationCode=12796
+hazmat=designated
+highway=motorway_junction
+name=Wiedemar
+ref=14</desc><link href="http://osm.org/browse/node/298988544"/></wpt><wpt lat="51.3055773" lon="12.5960028"><name>Naunhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10358
+TMC:cid_58:tabcd_1:NextLocationCode=10359
+TMC:cid_58:tabcd_1:PrevLocationCode=42723
+highway=motorway_junction
+name=Naunhof
+ref=29</desc><link href="http://osm.org/browse/node/305884766"/></wpt><wpt lat="51.4006208" lon="12.1827171"><name>Großkugel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12795
+TMC:cid_58:tabcd_1:NextLocationCode=12796
+TMC:cid_58:tabcd_1:PrevLocationCode=12794
+hazmat=designated
+highway=motorway_junction
+name=Großkugel
+ref=16</desc><link href="http://osm.org/browse/node/309241483"/></wpt><wpt lat="51.2594924" lon="12.7121161"><name>Raststätte Muldental</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=58399
+TMC:cid_58:tabcd_1:NextLocationCode=10360
+TMC:cid_58:tabcd_1:PrevLocationCode=10359
+highway=motorway_junction
+name=Raststätte Muldental</desc><link href="http://osm.org/browse/node/311398640"/></wpt><wpt lat="51.1569821" lon="13.7509228"><name>Marsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10317
+TMC:cid_58:tabcd_1:NextLocationCode=10318
+TMC:cid_58:tabcd_1:PrevLocationCode=10316
+highway=motorway_junction
+name=Marsdorf
+ref=22</desc><link href="http://osm.org/browse/node/314766386"/></wpt><wpt lat="51.1957615" lon="14.4655658"><name>Bautzen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11204
+TMC:cid_58:tabcd_1:NextLocationCode=11205
+TMC:cid_58:tabcd_1:PrevLocationCode=11203
+highway=motorway_junction
+name=Bautzen-Ost
+name:de=Bautzen-Ost
+name:hsb=Budyšin-wuchod
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=90</desc><link href="http://osm.org/browse/node/315065227"/></wpt><wpt lat="50.9551399" lon="13.9189982"><name>Pirna-Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=52406
+TMC:cid_58:tabcd_1:PrevLocationCode=52405
+highway=motorway_junction
+name=Pirna-Zentrum
+toll:name=Pirna</desc><link href="http://osm.org/browse/node/315788212"/></wpt><wpt lat="50.8875025" lon="12.7523353"><name>Rastplatz Am Mühlbachtal</name><desc>highway=motorway_junction
+name=Rastplatz Am Mühlbachtal
+noref=yes</desc><link href="http://osm.org/browse/node/317301549"/></wpt><wpt lat="51.2626139" lon="12.701621"><name>Raststätte Muldental</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=58399
+TMC:cid_58:tabcd_1:NextLocationCode=10360
+TMC:cid_58:tabcd_1:PrevLocationCode=10359
+highway=motorway_junction
+name=Raststätte Muldental</desc><link href="http://osm.org/browse/node/317305787"/></wpt><wpt lat="50.6931457" lon="12.7227277"><name>node/321580992</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=52370
+TMC:cid_58:tabcd_1:NextLocationCode=12447
+TMC:cid_58:tabcd_1:PrevLocationCode=12446
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/321580992"/></wpt><wpt lat="50.7796718" lon="12.8237779"><name>Rastplatz Am Neukirchener Wald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=51582
+TMC:cid_58:tabcd_1:NextLocationCode=12448
+TMC:cid_58:tabcd_1:PrevLocationCode=42635
+highway=motorway_junction
+name=Rastplatz Am Neukirchener Wald
+noref=yes</desc><link href="http://osm.org/browse/node/321581171"/></wpt><wpt lat="50.9470512" lon="13.9154173"><name>Dreieck Pirna-Süd</name><desc>highway=motorway_junction
+name=Dreieck Pirna-Süd</desc><link href="http://osm.org/browse/node/331947988"/></wpt><wpt lat="50.8610779" lon="12.8618085"><name>node/356297765</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/356297765"/></wpt><wpt lat="51.2065381" lon="14.6816643"><name>Am Wacheberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42613
+TMC:cid_58:tabcd_1:NextLocationCode=42602
+TMC:cid_58:tabcd_1:PrevLocationCode=11205
+highway=motorway_junction
+name=Am Wacheberg</desc><link href="http://osm.org/browse/node/375988110"/></wpt><wpt lat="50.8897134" lon="12.7480479"><name>Rastplatz Am Mühlbachtal</name><desc>highway=motorway_junction
+name=Rastplatz Am Mühlbachtal
+noref=yes</desc><link href="http://osm.org/browse/node/385844970"/></wpt><wpt lat="50.4343133" lon="12.1262168"><name>Rasthof Vogtland</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42632
+TMC:cid_58:tabcd_1:NextLocationCode=12439
+TMC:cid_58:tabcd_1:PrevLocationCode=12438
+highway=motorway_junction
+name=Rasthof Vogtland
+noref=yes</desc><link href="http://osm.org/browse/node/420393669"/></wpt><wpt lat="50.7623096" lon="13.0153609"><name>Amtsberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25687
+TMC:cid_58:tabcd_1:NextLocationCode=54579
+TMC:cid_58:tabcd_1:PrevLocationCode=56914
+highway=motorway_junction
+name=Amtsberg
+source:name=traffic_sign</desc><link href="http://osm.org/browse/node/428873668"/></wpt><wpt lat="51.1175451" lon="13.7450159"><name>Dreieck Dresden-Nord</name><desc>highway=motorway_junction
+name=Dreieck Dresden-Nord
+ref=82</desc><link href="http://osm.org/browse/node/440337822"/></wpt><wpt lat="50.8283319" lon="12.849322"><name>Chemnitz-Rottluff</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=52462
+TMC:cid_58:tabcd_1:NextLocationCode=12449
+TMC:cid_58:tabcd_1:PrevLocationCode=12448
+highway=motorway_junction
+name=Chemnitz-Rottluff
+ref=16</desc><link href="http://osm.org/browse/node/442181568"/></wpt><wpt lat="50.8284065" lon="12.8494589"><name>Chemnitz-Rottluff</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=52462
+TMC:cid_58:tabcd_1:NextLocationCode=12449
+TMC:cid_58:tabcd_1:PrevLocationCode=12448
+highway=motorway_junction
+name=Chemnitz-Rottluff
+ref=16</desc><link href="http://osm.org/browse/node/442197041"/></wpt><wpt lat="50.4095988" lon="12.0353818"><name>Rastplatz Großzöbern</name><desc>highway=motorway_junction
+name=Rastplatz Großzöbern
+noref=yes</desc><link href="http://osm.org/browse/node/449314440"/></wpt><wpt lat="51.1981502" lon="14.3354673"><name>Oberlausitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42615
+TMC:cid_58:tabcd_1:NextLocationCode=42601
+TMC:cid_58:tabcd_1:PrevLocationCode=11202
+highway=motorway_junction
+name=Oberlausitz
+name:de=Oberlausitz
+name:hsb=Hornja Łužica
+noref=yes
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht</desc><link href="http://osm.org/browse/node/466143867"/></wpt><wpt lat="51.1981339" lon="14.2221412"><name>Uhyst am Taucher</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11202
+TMC:cid_58:tabcd_1:NextLocationCode=42615
+TMC:cid_58:tabcd_1:PrevLocationCode=11201
+highway=motorway_junction
+name=Uhyst am Taucher
+name:de=Uhyst am Taucher
+name:hsb=Horni Wujězd
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=88a</desc><link href="http://osm.org/browse/node/471404468"/></wpt><wpt lat="50.8046732" lon="12.4838806"><name>node/510911558</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/510911558"/></wpt><wpt lat="51.1843004" lon="14.9984144"><name>An der Neiße</name><desc>highway=motorway_junction
+name=An der Neiße</desc><link href="http://osm.org/browse/node/604996505"/></wpt><wpt lat="51.0082857" lon="13.7283169"><name>Dresden-Südvorstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10407
+TMC:cid_58:tabcd_1:NextLocationCode=51300
+TMC:cid_58:tabcd_1:PrevLocationCode=57004
+highway=motorway_junction
+name=Dresden-Südvorstadt
+ref=3</desc><link href="http://osm.org/browse/node/619879417"/></wpt><wpt lat="51.1932975" lon="14.3566383"><name>Salzenforst</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42601
+TMC:cid_58:tabcd_1:NextLocationCode=11203
+TMC:cid_58:tabcd_1:PrevLocationCode=42615
+highway=motorway_junction
+name=Salzenforst
+name:de=Salzenforst
+name:hsb=Słona Boršć
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=88b</desc><link href="http://osm.org/browse/node/636906008"/></wpt><wpt lat="51.1135727" lon="13.9343926"><name>node/648542628</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/648542628"/></wpt><wpt lat="51.2623466" lon="12.4638007"><name>Leipzig-Südost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10378
+TMC:cid_58:tabcd_1:NextLocationCode=58404
+TMC:cid_58:tabcd_1:PrevLocationCode=10377
+highway=motorway_junction
+name=Leipzig-Südost
+ref=32</desc><link href="http://osm.org/browse/node/663178716"/></wpt><wpt lat="51.1541784" lon="13.1303887"><name>Döbeln-Nord</name><desc>highway=motorway_junction
+name=Döbeln-Nord
+ref=34</desc><link href="http://osm.org/browse/node/663412728"/></wpt><wpt lat="50.8746294" lon="12.9100419"><name>Chemnitz-Glösa</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42522
+TMC:cid_58:tabcd_1:NextLocationCode=11181
+TMC:cid_58:tabcd_1:PrevLocationCode=11182
+highway=motorway_junction
+name=Chemnitz-Glösa
+ref=70</desc><link href="http://osm.org/browse/node/670514026"/></wpt><wpt lat="50.8772067" lon="12.9158489"><name>Chemnitz-Glösa</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42522
+TMC:cid_58:tabcd_1:NextLocationCode=11181
+TMC:cid_58:tabcd_1:PrevLocationCode=11182
+highway=motorway_junction
+name=Chemnitz-Glösa
+ref=70</desc><link href="http://osm.org/browse/node/670514168"/></wpt><wpt lat="51.1955931" lon="14.4652697"><name>Bautzen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11204
+TMC:cid_58:tabcd_1:NextLocationCode=11205
+TMC:cid_58:tabcd_1:PrevLocationCode=11203
+highway=motorway_junction
+name=Bautzen-Ost
+name:de=Bautzen-Ost
+name:hsb=Budyšin-wuchod
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=90</desc><link href="http://osm.org/browse/node/769187705"/></wpt><wpt lat="51.1878327" lon="14.4084351"><name>Bautzen-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11203
+TMC:cid_58:tabcd_1:NextLocationCode=11204
+TMC:cid_58:tabcd_1:PrevLocationCode=42601
+highway=motorway_junction
+name=Bautzen-West
+name:de=Bautzen-West
+name:hsb=Budyšin-zapad
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=89</desc><link href="http://osm.org/browse/node/769847737"/></wpt><wpt lat="51.1897741" lon="14.4134097"><name>Bautzen-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11203
+TMC:cid_58:tabcd_1:NextLocationCode=11204
+TMC:cid_58:tabcd_1:PrevLocationCode=42601
+highway=motorway_junction
+name=Bautzen-West
+name:de=Bautzen-West
+name:hsb=Budyšin-zapad
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=89</desc><link href="http://osm.org/browse/node/769847897"/></wpt><wpt lat="51.1604965" lon="13.9609806"><name>Pulsnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11199
+TMC:cid_58:tabcd_1:NextLocationCode=11200
+TMC:cid_58:tabcd_1:PrevLocationCode=11198
+highway=motorway_junction
+name=Pulsnitz
+name:hsb=Połčnica
+ref=85</desc><link href="http://osm.org/browse/node/773603092"/></wpt><wpt lat="51.1962317" lon="13.7398897"><name>node/773632978</name><desc>highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/773632978"/></wpt><wpt lat="51.2106228" lon="13.7368571"><name>Radeburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10318
+TMC:cid_58:tabcd_1:NextLocationCode=10319
+TMC:cid_58:tabcd_1:PrevLocationCode=10317
+highway=motorway_junction
+name=Radeburg
+ref=21</desc><link href="http://osm.org/browse/node/773633045"/></wpt><wpt lat="51.211972" lon="13.7362346"><name>Radeburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10318
+TMC:cid_58:tabcd_1:NextLocationCode=10319
+TMC:cid_58:tabcd_1:PrevLocationCode=10317
+highway=motorway_junction
+name=Radeburg
+ref=21</desc><link href="http://osm.org/browse/node/773633123"/></wpt><wpt lat="51.0625673" lon="13.6012518"><name>Dreieck Dresden-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42523
+TMC:cid_58:tabcd_1:NextLocationCode=11192
+TMC:cid_58:tabcd_1:PrevLocationCode=11191
+highway=motorway_junction
+name=Dreieck Dresden-West
+ref=77b</desc><link href="http://osm.org/browse/node/773684897"/></wpt><wpt lat="51.060579" lon="13.606172"><name>Dreieck Dresden-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10405
+TMC:cid_58:tabcd_1:NextLocationCode=10406
+highway=motorway_junction
+name=Dreieck Dresden-West
+ref=1</desc><link href="http://osm.org/browse/node/773684928"/></wpt><wpt lat="51.0033428" lon="13.7429868"><name>node/773903987</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=51300
+TMC:cid_58:tabcd_1:NextLocationCode=10408
+TMC:cid_58:tabcd_1:PrevLocationCode=10407
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/773903987"/></wpt><wpt lat="51.3229256" lon="12.1694245"><name>Rastplatz Bachfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=5244
+TMC:cid_58:tabcd_1:NextLocationCode=12794
+TMC:cid_58:tabcd_1:PrevLocationCode=12793
+highway=motorway_junction
+name=Rastplatz Bachfurt
+noref=yes</desc><link href="http://osm.org/browse/node/792822644"/></wpt><wpt lat="51.0552807" lon="13.3704403"><name>Dreieck Nossen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11189
+TMC:cid_58:tabcd_1:NextLocationCode=11190
+TMC:cid_58:tabcd_1:PrevLocationCode=42611
+highway=motorway_junction
+name=Dreieck Nossen
+ref=76</desc><link href="http://osm.org/browse/node/800450918"/></wpt><wpt lat="51.0545365" lon="13.3626488"><name>Dreieck Nossen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10368
+TMC:cid_58:tabcd_1:PrevLocationCode=10367
+highway=motorway_junction
+name=Dreieck Nossen
+ref=38</desc><link href="http://osm.org/browse/node/800474424"/></wpt><wpt lat="51.0565368" lon="13.3453308"><name>Nossen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10367
+TMC:cid_58:tabcd_1:NextLocationCode=10368
+TMC:cid_58:tabcd_1:PrevLocationCode=10366
+highway=motorway_junction
+name=Nossen-Ost
+ref=37</desc><link href="http://osm.org/browse/node/800516118"/></wpt><wpt lat="51.0335524" lon="13.2864648"><name>Siebenlehn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11188
+TMC:cid_58:tabcd_1:NextLocationCode=42611
+TMC:cid_58:tabcd_1:PrevLocationCode=11187
+highway=motorway_junction
+name=Siebenlehn
+ref=75
+traffic_sign=DE:278</desc><link href="http://osm.org/browse/node/803663029"/></wpt><wpt lat="51.123487" lon="13.74706"><name>Dresden-Flughafen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42600
+TMC:cid_58:tabcd_1:NextLocationCode=11196
+TMC:cid_58:tabcd_1:PrevLocationCode=11195
+highway=motorway_junction
+name=Dresden-Flughafen
+ref=81b</desc><link href="http://osm.org/browse/node/824105653"/></wpt><wpt lat="51.1070877" lon="13.7334041"><name>Dresden-Hellerau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11195
+TMC:cid_58:tabcd_1:NextLocationCode=42600
+TMC:cid_58:tabcd_1:PrevLocationCode=11194
+highway=motorway_junction
+name=Dresden-Hellerau
+ref=81a
+wikidata=Q28121228</desc><link href="http://osm.org/browse/node/824109969"/></wpt><wpt lat="50.8202218" lon="13.8873739"><name>node/833878526</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=58403
+TMC:cid_58:tabcd_1:NextLocationCode=42525
+TMC:cid_58:tabcd_1:PrevLocationCode=42524
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/833878526"/></wpt><wpt lat="50.8232886" lon="13.8876946"><name>node/833887048</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=58403
+TMC:cid_58:tabcd_1:NextLocationCode=42525
+TMC:cid_58:tabcd_1:PrevLocationCode=42524
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/833887048"/></wpt><wpt lat="51.0356143" lon="13.2975903"><name>Siebenlehn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11188
+TMC:cid_58:tabcd_1:NextLocationCode=42611
+TMC:cid_58:tabcd_1:PrevLocationCode=11187
+highway=motorway_junction
+name=Siebenlehn
+ref=75</desc><link href="http://osm.org/browse/node/845112609"/></wpt><wpt lat="51.047747" lon="12.6428609"><name>Geithain</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12712
+TMC:cid_58:tabcd_1:NextLocationCode=12713
+TMC:cid_58:tabcd_1:PrevLocationCode=12711
+highway=motorway_junction
+name=Geithain
+ref=23</desc><link href="http://osm.org/browse/node/934589489"/></wpt><wpt lat="51.0506811" lon="12.631353"><name>Geithain</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12712
+TMC:cid_58:tabcd_1:NextLocationCode=12713
+TMC:cid_58:tabcd_1:PrevLocationCode=12711
+highway=motorway_junction
+name=Geithain
+ref=23</desc><link href="http://osm.org/browse/node/934589490"/></wpt><wpt lat="51.1128471" lon="12.5185154"><name>Borna-Süd</name><desc>highway=motorway_junction
+name=Borna-Süd
+ref=25</desc><link href="http://osm.org/browse/node/938338254"/></wpt><wpt lat="51.3000336" lon="12.3759875"><name>Koburger Straße</name><desc>destination=Markkleeberg-West;Connewitz
+highway=motorway_junction
+name=Koburger Straße</desc><link href="http://osm.org/browse/node/944366899"/></wpt><wpt lat="51.4269047" lon="12.2060835"><name>Schkeuditzer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10350
+TMC:cid_58:tabcd_1:NextLocationCode=10351
+TMC:cid_58:tabcd_1:PrevLocationCode=10349
+hazmat=designated
+highway=motorway_junction
+name=Schkeuditzer Kreuz
+ref=20</desc><link href="http://osm.org/browse/node/1007657751"/></wpt><wpt lat="51.3257922" lon="12.1717375"><name>Rastplatz Bachfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=5244
+TMC:cid_58:tabcd_1:NextLocationCode=12794
+TMC:cid_58:tabcd_1:PrevLocationCode=12793
+highway=motorway_junction
+name=Rastplatz Bachfurt
+noref=yes</desc><link href="http://osm.org/browse/node/1051348941"/></wpt><wpt lat="51.247974" lon="12.4013167"><name>Kreuz Leipzig-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10377
+TMC:cid_58:tabcd_1:NextLocationCode=10378
+TMC:cid_58:tabcd_1:PrevLocationCode=10376
+alt_name=Kreuz Leipzig
+highway=motorway_junction
+name=Kreuz Leipzig-Süd
+ref=31</desc><link href="http://osm.org/browse/node/1137611353"/></wpt><wpt lat="51.2428743" lon="12.3933244"><name>Kreuz Leipzig-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=51584
+TMC:cid_58:tabcd_1:NextLocationCode=42969
+TMC:cid_58:tabcd_1:PrevLocationCode=21507
+alt_name=Kreuz Leipzig
+highway=motorway_junction
+name=Kreuz Leipzig-Süd
+ref=30</desc><link href="http://osm.org/browse/node/1137611417"/></wpt><wpt lat="50.8019637" lon="12.9730034"><name>node/1156770104</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/1156770104"/></wpt><wpt lat="50.9694935" lon="13.9151983"><name>Pirna-Copitz</name><desc>highway=motorway_junction
+name=Pirna-Copitz</desc><link href="http://osm.org/browse/node/1186268788"/></wpt><wpt lat="50.9945475" lon="12.6916154"><name>Rochlitz</name><desc>highway=motorway_junction
+name=Rochlitz
+ref=22</desc><link href="http://osm.org/browse/node/1188074565"/></wpt><wpt lat="50.9927981" lon="12.6921345"><name>Rochlitz</name><desc>highway=motorway_junction
+name=Rochlitz
+ref=22</desc><link href="http://osm.org/browse/node/1188074617"/></wpt><wpt lat="50.9433198" lon="12.6888704"><name>Penig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12710
+TMC:cid_58:tabcd_1:NextLocationCode=12711
+TMC:cid_58:tabcd_1:PrevLocationCode=12709
+highway=motorway_junction
+name=Penig
+note:TMC=Anschlussstelle noch in Bau
+ref=21</desc><link href="http://osm.org/browse/node/1359277759"/></wpt><wpt lat="50.9474166" lon="12.6901204"><name>Penig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12710
+TMC:cid_58:tabcd_1:NextLocationCode=12711
+TMC:cid_58:tabcd_1:PrevLocationCode=12709
+highway=motorway_junction
+name=Penig
+note:TMC=Anschlussstelle noch in Bau
+ref=21</desc><link href="http://osm.org/browse/node/1359277777"/></wpt><wpt lat="51.4299034" lon="12.1866178"><name>Schkeuditzer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10350
+TMC:cid_58:tabcd_1:NextLocationCode=10351
+TMC:cid_58:tabcd_1:PrevLocationCode=10349
+hazmat=designated
+highway=motorway_junction
+name=Schkeuditzer Kreuz
+ref=20</desc><link href="http://osm.org/browse/node/1359819288"/></wpt><wpt lat="51.1746614" lon="12.4880331"><name>Espenhain</name><desc>highway=motorway_junction
+name=Espenhain
+ref=27</desc><link href="http://osm.org/browse/node/1364162185"/></wpt><wpt lat="51.1954736" lon="12.441886"><name>Rötha</name><desc>highway=motorway_junction
+name=Rötha
+ref=28</desc><link href="http://osm.org/browse/node/1364162214"/></wpt><wpt lat="51.1410194" lon="13.9526134"><name>node/1366440358</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/1366440358"/></wpt><wpt lat="51.1402342" lon="13.9526847"><name>node/1366448806</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/1366448806"/></wpt><wpt lat="50.4355879" lon="12.0907576"><name>Pirk</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12438
+TMC:cid_58:tabcd_1:NextLocationCode=42632
+TMC:cid_58:tabcd_1:PrevLocationCode=20116
+highway=motorway_junction
+name=Pirk
+ref=5</desc><link href="http://osm.org/browse/node/1374760126"/></wpt><wpt lat="51.1690745" lon="12.4934532"><name>Espenhain</name><desc>highway=motorway_junction
+name=Espenhain
+ref=27</desc><link href="http://osm.org/browse/node/1462148477"/></wpt><wpt lat="51.0011297" lon="13.2019544"><name>Berbersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11187
+TMC:cid_58:tabcd_1:NextLocationCode=11188
+TMC:cid_58:tabcd_1:PrevLocationCode=11186
+highway=motorway_junction
+name=Berbersdorf
+ref=74</desc><link href="http://osm.org/browse/node/1569343501"/></wpt><wpt lat="51.1929574" lon="13.74143"><name>node/1611889026</name><desc>highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/1611889026"/></wpt><wpt lat="51.159963" lon="13.7506361"><name>Marsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10317
+TMC:cid_58:tabcd_1:NextLocationCode=10318
+TMC:cid_58:tabcd_1:PrevLocationCode=10316
+highway=motorway_junction
+name=Marsdorf
+ref=22</desc><link href="http://osm.org/browse/node/1611897666"/></wpt><wpt lat="51.3034367" lon="13.7303413"><name>node/1615668352</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42622
+TMC:cid_58:tabcd_1:NextLocationCode=10320
+TMC:cid_58:tabcd_1:PrevLocationCode=10319
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/1615668352"/></wpt><wpt lat="51.3066999" lon="13.7287049"><name>node/1615668373</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42622
+TMC:cid_58:tabcd_1:NextLocationCode=10320
+TMC:cid_58:tabcd_1:PrevLocationCode=10319
+highway=motorway_junction
+noref=yes</desc><link href="http://osm.org/browse/node/1615668373"/></wpt><wpt lat="51.0717743" lon="13.6578736"><name>Dresden-Altstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11192
+TMC:cid_58:tabcd_1:NextLocationCode=11193
+TMC:cid_58:tabcd_1:PrevLocationCode=42523
+highway=motorway_junction
+name=Dresden-Altstadt
+ref=78</desc><link href="http://osm.org/browse/node/1629974641"/></wpt><wpt lat="51.2923776" lon="13.7340112"><name>Thiendorf</name><desc>highway=motorway_junction
+name=Thiendorf
+ref=20</desc><link href="http://osm.org/browse/node/1630989546"/></wpt><wpt lat="51.2942282" lon="13.7332394"><name>Thiendorf</name><desc>highway=motorway_junction
+name=Thiendorf
+ref=20</desc><link href="http://osm.org/browse/node/1630989567"/></wpt><wpt lat="50.8544573" lon="12.8344291"><name>Kreuz Chemnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12449
+TMC:cid_58:tabcd_1:NextLocationCode=12707
+TMC:cid_58:tabcd_1:PrevLocationCode=52462
+highway=motorway_junction
+name=Kreuz Chemnitz
+ref=17</desc><link href="http://osm.org/browse/node/1631073761"/></wpt><wpt lat="51.1108177" lon="14.6489123"><name>Löbau-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=25706
+TMC:cid_58:tabcd_1:NextLocationCode=58448
+TMC:cid_58:tabcd_1:PrevLocationCode=42547
+highway=motorway_junction
+name=Löbau-West</desc><link href="http://osm.org/browse/node/1631167137"/></wpt><wpt lat="51.1134329" lon="14.6495567"><name>Löbau-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=25706
+TMC:cid_58:tabcd_1:NextLocationCode=58448
+TMC:cid_58:tabcd_1:PrevLocationCode=42547
+highway=motorway_junction
+name=Löbau-West</desc><link href="http://osm.org/browse/node/1631167160"/></wpt><wpt lat="51.1504627" lon="14.6542672"><name>Kittlitz</name><desc>highway=motorway_junction
+name=Kittlitz</desc><link href="http://osm.org/browse/node/1631275333"/></wpt><wpt lat="51.1512385" lon="14.6540544"><name>Kittlitz</name><desc>highway=motorway_junction
+name=Kittlitz</desc><link href="http://osm.org/browse/node/1631275345"/></wpt><wpt lat="51.0802141" lon="14.6548221"><name>Löbau-Süd</name><desc>highway=motorway_junction
+name=Löbau-Süd</desc><link href="http://osm.org/browse/node/1631402791"/></wpt><wpt lat="51.0811625" lon="14.6526413"><name>Löbau-Süd</name><desc>highway=motorway_junction
+name=Löbau-Süd</desc><link href="http://osm.org/browse/node/1631403247"/></wpt><wpt lat="50.9285721" lon="13.0532748"><name>Frankenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11185
+TMC:cid_58:tabcd_1:NextLocationCode=52369
+TMC:cid_58:tabcd_1:PrevLocationCode=57123
+highway=motorway_junction
+name=Frankenberg
+ref=72</desc><link href="http://osm.org/browse/node/1632754215"/></wpt><wpt lat="51.3994928" lon="12.1818253"><name>Großkugel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12795
+TMC:cid_58:tabcd_1:NextLocationCode=12796
+TMC:cid_58:tabcd_1:PrevLocationCode=12794
+hazmat=designated
+highway=motorway_junction
+name=Großkugel
+ref=16</desc><link href="http://osm.org/browse/node/1653024694"/></wpt><wpt lat="50.8232733" lon="12.6306472"><name>Oberwald</name><desc>highway=motorway_junction
+name=Oberwald
+noref=yes</desc><link href="http://osm.org/browse/node/1685160593"/></wpt><wpt lat="50.8401606" lon="12.5062922"><name>Rastplatz Am Angerberg</name><desc>highway=motorway_junction
+name=Rastplatz Am Angerberg
+noref=yes</desc><link href="http://osm.org/browse/node/1686468411"/></wpt><wpt lat="51.0575267" lon="13.3425361"><name>Nossen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10367
+TMC:cid_58:tabcd_1:NextLocationCode=10368
+TMC:cid_58:tabcd_1:PrevLocationCode=10366
+highway=motorway_junction
+name=Nossen-Ost
+ref=37</desc><link href="http://osm.org/browse/node/1725514435"/></wpt><wpt lat="51.1712232" lon="13.8376681"><name>Am Eichelberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42617
+TMC:cid_58:tabcd_1:NextLocationCode=11198
+TMC:cid_58:tabcd_1:PrevLocationCode=11197
+highway=motorway_junction
+name=Am Eichelberg</desc><link href="http://osm.org/browse/node/1749626615"/></wpt><wpt lat="50.9993925" lon="13.9415722"><name>Pirna-Bonnewitz</name><desc>highway=motorway_junction
+name=Pirna-Bonnewitz</desc><link href="http://osm.org/browse/node/1825228733"/></wpt><wpt lat="51.3113802" lon="12.5462613"><name>Dreieck Parthenaue</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=42723
+TMC:cid_58:tabcd_1:NextLocationCode=10358
+TMC:cid_58:tabcd_1:PrevLocationCode=10357
+destination=Leipzig;Göttingen
+highway=motorway_junction
+name=Dreieck Parthenaue
+ref=28</desc><link href="http://osm.org/browse/node/1845404619"/></wpt><wpt lat="50.6486876" lon="12.4844229"><name>Rastplatz Niedercrinitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20119
+TMC:cid_58:tabcd_1:NextLocationCode=12444
+TMC:cid_58:tabcd_1:PrevLocationCode=12443
+highway=motorway_junction
+name=Rastplatz Niedercrinitz
+noref=yes</desc><link href="http://osm.org/browse/node/1914164820"/></wpt><wpt lat="50.8024326" lon="12.972602"><name>node/2025088744</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/2025088744"/></wpt><wpt lat="51.1038262" lon="13.9386346"><name>node/2046484807</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/2046484807"/></wpt><wpt lat="51.123198" lon="13.935171"><name>node/2046484836</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/2046484836"/></wpt><wpt lat="51.1050625" lon="13.9380974"><name>node/2046484915</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/2046484915"/></wpt><wpt lat="50.9093718" lon="12.9783449"><name>Chemnitz-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11184
+TMC:cid_58:tabcd_1:NextLocationCode=57123
+TMC:cid_58:tabcd_1:PrevLocationCode=11181
+highway=motorway_junction
+name=Chemnitz-Ost
+ref=71</desc><link href="http://osm.org/browse/node/2058854590"/></wpt><wpt lat="50.8268514" lon="12.4481569"><name>Meerane</name><desc>highway=motorway_junction
+name=Meerane
+ref=62</desc><link href="http://osm.org/browse/node/2064419249"/></wpt><wpt lat="50.8248233" lon="12.4420987"><name>Meerane</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11173
+TMC:cid_58:tabcd_1:NextLocationCode=11174
+TMC:cid_58:tabcd_1:PrevLocationCode=51520
+highway=motorway_junction
+name=Meerane
+ref=62</desc><link href="http://osm.org/browse/node/2064527547"/></wpt><wpt lat="50.6067207" lon="12.3890531"><name>Rastplatz Waldkirchen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20118
+TMC:cid_58:tabcd_1:NextLocationCode=12443
+TMC:cid_58:tabcd_1:PrevLocationCode=12442
+check_date=2024-04-15
+highway=motorway_junction
+name=Rastplatz Waldkirchen
+noref=yes</desc><link href="http://osm.org/browse/node/2065179571"/></wpt><wpt lat="50.6073751" lon="12.3838192"><name>Rastplatz Waldkirchen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20118
+TMC:cid_58:tabcd_1:NextLocationCode=12443
+TMC:cid_58:tabcd_1:PrevLocationCode=12442
+check_date=2024-04-15
+highway=motorway_junction
+name=Rastplatz Waldkirchen
+noref=yes</desc><link href="http://osm.org/browse/node/2079879021"/></wpt><wpt lat="50.6506781" lon="12.4927504"><name>Rastplatz Niedercrinitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20119
+TMC:cid_58:tabcd_1:NextLocationCode=12444
+TMC:cid_58:tabcd_1:PrevLocationCode=12443
+check_date=2024-04-15
+highway=motorway_junction
+name=Rastplatz Niedercrinitz
+noref=yes</desc><link href="http://osm.org/browse/node/2080105612"/></wpt><wpt lat="50.6693424" lon="12.4430531"><name>node/2145287545</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/2145287545"/></wpt><wpt lat="50.6685633" lon="12.4432688"><name>node/2145287570</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/2145287570"/></wpt><wpt lat="51.490262" lon="12.2064839"><name>Rastplatz Kapellenberg</name><desc>hazmat=designated
+highway=motorway_junction
+name=Rastplatz Kapellenberg
+noref=yes</desc><link href="http://osm.org/browse/node/2162333800"/></wpt><wpt lat="50.942269" lon="13.9315635"><name>Pirna-Zehista</name><desc>highway=motorway_junction
+name=Pirna-Zehista</desc><link href="http://osm.org/browse/node/2235573813"/></wpt><wpt lat="51.1879884" lon="13.0120155"><name>Rastplatz Mühlenberg</name><desc>highway=motorway_junction
+name=Rastplatz Mühlenberg</desc><link href="http://osm.org/browse/node/2350704565"/></wpt><wpt lat="51.1891582" lon="13.0068131"><name>Rastplatz Mühlenberg</name><desc>highway=motorway_junction
+name=Rastplatz Mühlenberg</desc><link href="http://osm.org/browse/node/2350704748"/></wpt><wpt lat="51.157148" lon="13.1162335"><name>Döbeln-Nord</name><desc>highway=motorway_junction
+name=Döbeln-Nord
+ref=34</desc><link href="http://osm.org/browse/node/2350934795"/></wpt><wpt lat="51.3551619" lon="12.4946637"><name>Leipzig-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10356
+TMC:cid_58:tabcd_1:NextLocationCode=10357
+TMC:cid_58:tabcd_1:PrevLocationCode=10355
+highway=motorway_junction
+name=Leipzig-Ost
+ref=26</desc><link href="http://osm.org/browse/node/2406696229"/></wpt><wpt lat="51.1047701" lon="13.728455"><name>Dresden-Hellerau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11195
+TMC:cid_58:tabcd_1:NextLocationCode=42600
+TMC:cid_58:tabcd_1:PrevLocationCode=11194
+highway=motorway_junction
+name=Dresden-Hellerau
+ref=81a</desc><link href="http://osm.org/browse/node/2414808767"/></wpt><wpt lat="51.037982" lon="13.32306"><name>Am Steinberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42611
+TMC:cid_58:tabcd_1:NextLocationCode=11189
+TMC:cid_58:tabcd_1:PrevLocationCode=11188
+highway=motorway_junction
+name=Am Steinberg
+noref=yes</desc><link href="http://osm.org/browse/node/2419153904"/></wpt><wpt lat="51.1216908" lon="13.7469026"><name>Dresden-Flughafen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=42600
+TMC:cid_58:tabcd_1:NextLocationCode=11196
+TMC:cid_58:tabcd_1:PrevLocationCode=11195
+highway=motorway_junction
+name=Dresden-Flughafen
+ref=81b</desc><link href="http://osm.org/browse/node/2453207682"/></wpt><wpt lat="51.1346668" lon="13.7524987"><name>Dreieck Dresden-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11196
+TMC:cid_58:tabcd_1:NextLocationCode=11197
+TMC:cid_58:tabcd_1:PrevLocationCode=42600
+highway=motorway_junction
+name=Dreieck Dresden-Nord
+ref=82</desc><link href="http://osm.org/browse/node/2454004902"/></wpt><wpt lat="51.0001578" lon="13.9437026"><name>Pirna-Bonnewitz</name><desc>highway=motorway_junction
+name=Pirna-Bonnewitz</desc><link href="http://osm.org/browse/node/2502747241"/></wpt><wpt lat="51.1899076" lon="14.9811827"><name>An der Neiße</name><desc>highway=motorway_junction
+name=An der Neiße</desc><link href="http://osm.org/browse/node/2506817193"/></wpt><wpt lat="50.9639853" lon="13.0767576"><name>Rossauer Wald</name><desc>destination=Rest Area 'Rossauer Wald'
+highway=motorway_junction
+name=Rossauer Wald</desc><link href="http://osm.org/browse/node/2506868666"/></wpt><wpt lat="50.7883914" lon="12.9957937"><name>Kleinolbersdorf-Altenhain</name><desc>highway=motorway_junction
+name=Kleinolbersdorf-Altenhain</desc><link href="http://osm.org/browse/node/2520137873"/></wpt><wpt lat="50.7847421" lon="12.9961816"><name>Kleinolbersdorf-Altenhain</name><desc>highway=motorway_junction
+name=Kleinolbersdorf-Altenhain</desc><link href="http://osm.org/browse/node/2520137883"/></wpt><wpt lat="50.9473173" lon="13.9184211"><name>Dreieck Pirna-Süd</name><desc>highway=motorway_junction
+name=Dreieck Pirna-Süd</desc><link href="http://osm.org/browse/node/2613273020"/></wpt><wpt lat="50.5528786" lon="12.276226"><name>Treuen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12441
+TMC:cid_58:tabcd_1:NextLocationCode=12442
+TMC:cid_58:tabcd_1:PrevLocationCode=20117
+highway=motorway_junction
+name=Treuen
+ref=8</desc><link href="http://osm.org/browse/node/2663541245"/></wpt><wpt lat="51.1782518" lon="14.1443328"><name>Burkau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11201
+TMC:cid_58:tabcd_1:NextLocationCode=11202
+TMC:cid_58:tabcd_1:PrevLocationCode=42616
+highway=motorway_junction
+name=Burkau
+name:de=Burkau
+name:hsb=Porchow
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=87</desc><link href="http://osm.org/browse/node/2705381653"/></wpt><wpt lat="51.2196738" lon="12.3878166"><name>Zwenkau</name><desc>highway=motorway_junction
+name=Zwenkau
+ref=29</desc><link href="http://osm.org/browse/node/2906969729"/></wpt><wpt lat="51.0123625" lon="13.9523257"><name>Wünschendorf</name><desc>highway=motorway_junction
+name=Wünschendorf</desc><link href="http://osm.org/browse/node/2938820223"/></wpt><wpt lat="50.5954363" lon="12.3384736"><name>Reichenbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12442
+TMC:cid_58:tabcd_1:NextLocationCode=20118
+TMC:cid_58:tabcd_1:PrevLocationCode=12441
+check_date=2024-04-15
+highway=motorway_junction
+name=Reichenbach
+ref=9</desc><link href="http://osm.org/browse/node/3082781602"/></wpt><wpt lat="50.7049722" lon="12.7538558"><name>Stollberg-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12447
+TMC:cid_58:tabcd_1:NextLocationCode=42635
+TMC:cid_58:tabcd_1:PrevLocationCode=52370
+highway=motorway_junction
+name=Stollberg-West
+ref=13</desc><link href="http://osm.org/browse/node/3132028785"/></wpt><wpt lat="50.6432913" lon="12.3378649"><name>node/3135969467</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/3135969467"/></wpt><wpt lat="50.4424877" lon="12.1584443"><name>Plauen-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12439
+TMC:cid_58:tabcd_1:NextLocationCode=42633
+TMC:cid_58:tabcd_1:PrevLocationCode=42632
+highway=motorway_junction
+name=Plauen-Süd
+ref=6</desc><link href="http://osm.org/browse/node/3163226003"/></wpt><wpt lat="50.4434972" lon="12.160071"><name>Plauen-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12439
+TMC:cid_58:tabcd_1:NextLocationCode=42633
+TMC:cid_58:tabcd_1:PrevLocationCode=42632
+highway=motorway_junction
+name=Plauen-Süd
+ref=6</desc><link href="http://osm.org/browse/node/3163226004"/></wpt><wpt lat="50.8244291" lon="12.4563355"><name>Meerane</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11173
+TMC:cid_58:tabcd_1:NextLocationCode=11174
+TMC:cid_58:tabcd_1:PrevLocationCode=51520
+highway=motorway_junction
+name=Meerane
+ref=62</desc><link href="http://osm.org/browse/node/3234497408"/></wpt><wpt lat="51.2111771" lon="14.5589601"><name>Löbauer Wasser</name><desc>highway=motorway_junction
+name=Löbauer Wasser
+name:de=Löbauer Wasser
+name:hsb=Lubata
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht</desc><link href="http://osm.org/browse/node/3247483745"/></wpt><wpt lat="50.8594209" lon="12.8675515"><name>node/3267505580</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/3267505580"/></wpt><wpt lat="51.1823079" lon="12.4657261"><name>Rastplatz Hainer See</name><desc>highway=motorway_junction
+name=Rastplatz Hainer See
+noref=yes</desc><link href="http://osm.org/browse/node/3325979966"/></wpt><wpt lat="51.2262921" lon="12.3879004"><name>Zwenkau</name><desc>highway=motorway_junction
+name=Zwenkau
+ref=29</desc><link href="http://osm.org/browse/node/3720232562"/></wpt><wpt lat="51.3963279" lon="12.3902742"><name>Messe-Allee</name><desc>destination=Wiederitzsch; Leipzig-Messegelände
+highway=motorway_junction
+name=Messe-Allee
+name:etymology:wikidata=Q57305</desc><link href="http://osm.org/browse/node/3802230440"/></wpt><wpt lat="51.0115473" lon="13.9540448"><name>Wünschendorf</name><desc>highway=motorway_junction
+name=Wünschendorf</desc><link href="http://osm.org/browse/node/3813029321"/></wpt><wpt lat="51.3232366" lon="12.3647865"><name>Schleußiger Weg</name><desc>highway=motorway_junction
+name=Schleußiger Weg</desc><link href="http://osm.org/browse/node/3898929064"/></wpt><wpt lat="51.0794991" lon="13.9370968"><name>node/4155592689</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/4155592689"/></wpt><wpt lat="51.0802668" lon="13.9373109"><name>node/4155592690</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/4155592690"/></wpt><wpt lat="51.1117329" lon="13.9351994"><name>node/4155592698</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/4155592698"/></wpt><wpt lat="50.9442943" lon="13.9256757"><name>Pirna-Zehista</name><desc>highway=motorway_junction
+name=Pirna-Zehista</desc><link href="http://osm.org/browse/node/5024637230"/></wpt><wpt lat="51.1928552" lon="12.4456578"><name>Rötha</name><desc>highway=motorway_junction
+name=Rötha
+ref=28</desc><link href="http://osm.org/browse/node/5070122896"/></wpt><wpt lat="51.1396636" lon="12.5077134"><name>Borna-Nord</name><desc>highway=motorway_junction
+name=Borna-Nord
+ref=26</desc><link href="http://osm.org/browse/node/5125955591"/></wpt><wpt lat="50.8003237" lon="12.4814921"><name>node/5852035366</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/5852035366"/></wpt><wpt lat="51.126497" lon="13.9368893"><name>node/6080866689</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/6080866689"/></wpt><wpt lat="51.1461896" lon="12.5036861"><name>Borna-Nord</name><desc>highway=motorway_junction
+name=Borna-Nord
+ref=26</desc><link href="http://osm.org/browse/node/6680074088"/></wpt><wpt lat="50.8324606" lon="12.4459469"><name>node/8844770191</name><desc>highway=motorway_junction</desc><link href="http://osm.org/browse/node/8844770191"/></wpt><wpt lat="50.946072" lon="13.9204096"><name>Dreieck Pirna-Süd</name><desc>highway=motorway_junction
+name=Dreieck Pirna-Süd</desc><link href="http://osm.org/browse/node/9168247071"/></wpt><wpt lat="51.1606082" lon="13.960996"><name>Pulsnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11199
+TMC:cid_58:tabcd_1:NextLocationCode=11200
+TMC:cid_58:tabcd_1:PrevLocationCode=11198
+highway=motorway_junction
+name=Pulsnitz
+name:hsb=Połčnica
+ref=85</desc><link href="http://osm.org/browse/node/10175941440"/></wpt></gpx>
