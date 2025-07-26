@@ -1,0 +1,99 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="50.5243832" lon="7.8757083"><name>node/2405290677</name><desc>generator:source=biomass
+power=generator
+id=node/2405290677</desc></wpt><wpt lat="49.9729389" lon="8.0438141"><name>Kraftwerk Boehringer Ingelheim</name><desc>generator:method=combustion
+generator:output:electricity=12.4 MW
+generator:output:heat=Leistung unbekannt
+generator:output:steam=yes
+generator:source=biomass
+name=Kraftwerk Boehringer Ingelheim
+note=Datenquelle=Veröffentlichung Bundesnetzagentur, Biomasse=Holzhackschnitzel
+operator=Boehringer Ingelheim Pharma GmbH &amp; Co. KG
+power=generator
+ref=BNA0500
+start_date=2004
+id=node/3220529748</desc></wpt><wpt lat="50.0197552" lon="6.4359473"><name>node/3743183449</name><desc>generator:source=biomass
+power=generator
+id=node/3743183449</desc></wpt><wpt lat="49.9871089" lon="6.5498686"><name>node/3957399216</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+power=generator
+id=node/3957399216</desc></wpt><wpt lat="50.0516742" lon="7.5146004"><name>node/4022705757</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=250 kW
+generator:source=biomass
+generator:type=bioreactor
+power=generator
+ref:EEG=E3123801V000000000000033905470167
+start_date=2013-12-17
+id=node/4022705757</desc></wpt><wpt lat="49.4407261" lon="7.5279411"><name>node/4605401126</name><desc>fixme=Standorte der Generator nicht korrekt, bzw. bei Erstellung nicht bekannt
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:output:biomethan=350 qm
+generator:source=biomass
+generator:type=bioreactor
+operator=ABO Kraft &amp; Wärme AG
+power=generator
+id=node/4605401126</desc></wpt><wpt lat="49.9135595" lon="7.1831515"><name>node/6616220975</name><desc>fixme=position estimated, details
+generator:output:electricity=yes
+generator:source=biomass
+power=generator
+id=node/6616220975</desc></wpt><wpt lat="49.5875072" lon="7.1867081"><name>node/8331909245</name><desc>generator:method=combustion
+generator:source=biomass
+power=generator
+id=node/8331909245</desc></wpt><trk><name>Biogasanlage Rittersdorf</name><desc>generator:method=anaerobic_digestion
+generator:output:electricity=yes
+generator:source=biomass
+generator:type=bioreactor
+name=Biogasanlage Rittersdorf
+operator=Biogaspartner Prüm GmbH
+power=generator
+start_date=2016
+type=multipolygon
+id=relation/7829276</desc><trkseg><trkpt lat="50.0132481" lon="6.501449"/><trkpt lat="50.0132066" lon="6.5016036"/><trkpt lat="50.0130135" lon="6.501459"/><trkpt lat="50.0128239" lon="6.5016104"/><trkpt lat="50.0127654" lon="6.5017015"/><trkpt lat="50.0126806" lon="6.502113"/><trkpt lat="50.012671" lon="6.5021595"/><trkpt lat="50.0127499" lon="6.5024713"/><trkpt lat="50.0138866" lon="6.503166"/><trkpt lat="50.0139935" lon="6.5023412"/><trkpt lat="50.0140124" lon="6.5023278"/><trkpt lat="50.0140379" lon="6.5022711"/><trkpt lat="50.0142341" lon="6.5018342"/><trkpt lat="50.0142727" lon="6.5017484"/><trkpt lat="50.0142788" lon="6.5016904"/><trkpt lat="50.0141478" lon="6.5016462"/><trkpt lat="50.0139909" lon="6.5015016"/><trkpt lat="50.0139469" lon="6.5013444"/><trkpt lat="50.0139374" lon="6.5011972"/><trkpt lat="50.0138573" lon="6.5011338"/><trkpt lat="50.0137375" lon="6.5010577"/><trkpt lat="50.01356" lon="6.5012451"/><trkpt lat="50.0133928" lon="6.5013631"/><trkpt lat="50.0132481" lon="6.501449"/></trkseg></trk><trk><name>way/193854467</name><desc>generator:method=combustion
+generator:output:electricity=240 kW
+generator:source=biomass
+power=generator
+source=knowledge
+id=way/193854467</desc><trkseg><trkpt lat="49.3473351" lon="8.1826173"/><trkpt lat="49.347307" lon="8.1826113"/><trkpt lat="49.347295" lon="8.1827433"/><trkpt lat="49.3473231" lon="8.1827493"/><trkpt lat="49.3473351" lon="8.1826173"/></trkseg></trk><trk><name>way/200972042</name><desc>building=industrial
+generator:output:electricity=570 kW
+generator:output:hot_water=2350 kW
+generator:source=biomass
+power=generator
+id=way/200972042</desc><trkseg><trkpt lat="49.9649848" lon="6.7275241"/><trkpt lat="49.9647003" lon="6.727519"/><trkpt lat="49.964698" lon="6.7278309"/><trkpt lat="49.9646336" lon="6.7278298"/><trkpt lat="49.9646303" lon="6.7282808"/><trkpt lat="49.9647017" lon="6.728282"/><trkpt lat="49.9647" lon="6.7285081"/><trkpt lat="49.9649776" lon="6.728513"/><trkpt lat="49.9649848" lon="6.7275241"/></trkseg></trk><trk><name>way/236191662</name><desc>building=yes
+generator:method=combustion
+generator:output:electricity=16 MW
+generator:source=biomass
+generator:type=steam_generator
+power=generator
+start_date=2006-06
+id=way/236191662</desc><trkseg><trkpt lat="50.7022561" lon="8.0728324"/><trkpt lat="50.7020196" lon="8.0728605"/><trkpt lat="50.7020314" lon="8.0731064"/><trkpt lat="50.7018451" lon="8.0731286"/><trkpt lat="50.7018732" lon="8.073716"/><trkpt lat="50.7019259" lon="8.0737097"/><trkpt lat="50.7019347" lon="8.0738953"/><trkpt lat="50.7020014" lon="8.0738874"/><trkpt lat="50.7019994" lon="8.0738454"/><trkpt lat="50.7021224" lon="8.0738307"/><trkpt lat="50.7021158" lon="8.0736923"/><trkpt lat="50.7022961" lon="8.0736709"/><trkpt lat="50.7022561" lon="8.0728324"/></trkseg></trk><trk><name>way/276999118</name><desc>generator:method=anaerobic_digestion
+generator:source=biomass
+landuse=industrial
+power=generator
+id=way/276999118</desc><trkseg><trkpt lat="50.0163585" lon="6.2532929"/><trkpt lat="50.0158221" lon="6.2527085"/><trkpt lat="50.0157918" lon="6.252752"/><trkpt lat="50.0165046" lon="6.2555491"/><trkpt lat="50.0167282" lon="6.2553975"/><trkpt lat="50.0168107" lon="6.2553126"/><trkpt lat="50.0171261" lon="6.2549494"/><trkpt lat="50.0171668" lon="6.2548757"/><trkpt lat="50.0171822" lon="6.2547825"/><trkpt lat="50.0167516" lon="6.2539332"/><trkpt lat="50.0166259" lon="6.2537009"/><trkpt lat="50.0164712" lon="6.2534356"/><trkpt lat="50.0163585" lon="6.2532929"/></trkseg></trk><trk><name>Biomasse-Heizkraftwerk</name><desc>addr:city=Dierdorf
+addr:housenumber=3
+addr:postcode=56269
+addr:street=Elgerter Straße
+building=industrial
+generator:output:hot_water=yes
+generator:source=biomass
+name=Biomasse-Heizkraftwerk
+id=way/383774578</desc><trkseg><trkpt lat="50.5511333" lon="7.6602825"/><trkpt lat="50.5510177" lon="7.6604171"/><trkpt lat="50.5509992" lon="7.6603807"/><trkpt lat="50.5508951" lon="7.6605025"/><trkpt lat="50.5510084" lon="7.6606973"/><trkpt lat="50.5510917" lon="7.660599"/><trkpt lat="50.5512073" lon="7.660479"/><trkpt lat="50.5511333" lon="7.6602825"/></trkseg></trk><trk><name>ZollstockHof - Konker Wart</name><desc>generator:source=biomass
+generator:type=bioreactor
+landuse=farmyard
+name=ZollstockHof - Konker Wart
+id=way/398564095</desc><trkseg><trkpt lat="49.4984857" lon="7.3569676"/><trkpt lat="49.4969336" lon="7.3578276"/><trkpt lat="49.4970003" lon="7.3581281"/><trkpt lat="49.4973835" lon="7.3589274"/><trkpt lat="49.4974348" lon="7.3589868"/><trkpt lat="49.4989824" lon="7.3581573"/><trkpt lat="49.4985571" lon="7.3571386"/><trkpt lat="49.4984857" lon="7.3569676"/></trkseg></trk><trk><name>way/661786628</name><desc>building=digester
+generator:output:biogas=yes
+generator:source=biomass
+generator:type=bioreactor
+operator=BGA Eiden GmbH
+power=generator
+start_date=2011
+id=way/661786628</desc><trkseg><trkpt lat="49.6525905" lon="6.9525068"/><trkpt lat="49.6525586" lon="6.9525464"/><trkpt lat="49.6525368" lon="6.9526"/><trkpt lat="49.6525274" lon="6.9526616"/><trkpt lat="49.6525316" lon="6.9527245"/><trkpt lat="49.6525487" lon="6.9527814"/><trkpt lat="49.6525768" lon="6.9528267"/><trkpt lat="49.6526128" lon="6.9528556"/><trkpt lat="49.652653" lon="6.9528649"/><trkpt lat="49.6526929" lon="6.9528537"/><trkpt lat="49.6527284" lon="6.9528231"/><trkpt lat="49.6527555" lon="6.9527765"/><trkpt lat="49.6527714" lon="6.9527188"/><trkpt lat="49.6527744" lon="6.9526562"/><trkpt lat="49.6527641" lon="6.9525955"/><trkpt lat="49.6527414" lon="6.9525429"/><trkpt lat="49.6527089" lon="6.9525045"/><trkpt lat="49.65267" lon="6.9524846"/><trkpt lat="49.652629" lon="6.9524854"/><trkpt lat="49.6525905" lon="6.9525068"/></trkseg></trk><trk><name>way/661786631</name><desc>building=digester
+generator:output:biogas=yes
+generator:source=biomass
+generator:type=bioreactor
+operator=BGA Eiden GmbH
+power=generator
+start_date=2011
+id=way/661786631</desc><trkseg><trkpt lat="49.6528637" lon="6.9527208"/><trkpt lat="49.652835" lon="6.9527249"/><trkpt lat="49.6528088" lon="6.9527433"/><trkpt lat="49.6527879" lon="6.9527741"/><trkpt lat="49.6527749" lon="6.9528138"/><trkpt lat="49.652771" lon="6.952858"/><trkpt lat="49.6527765" lon="6.9529"/><trkpt lat="49.6527903" lon="6.9529372"/><trkpt lat="49.6528111" lon="6.9529657"/><trkpt lat="49.6528366" lon="6.9529824"/><trkpt lat="49.6528643" lon="6.9529858"/><trkpt lat="49.6528912" lon="6.9529753"/><trkpt lat="49.6529146" lon="6.9529522"/><trkpt lat="49.6529319" lon="6.9529188"/><trkpt lat="49.6529415" lon="6.9528785"/><trkpt lat="49.6529422" lon="6.952834"/><trkpt lat="49.6529332" lon="6.9527916"/><trkpt lat="49.6529158" lon="6.9527562"/><trkpt lat="49.6528917" lon="6.9527317"/><trkpt lat="49.6528637" lon="6.9527208"/></trkseg></trk><trk><name>way/1182680914</name><desc>generator:source=biomass
+power=generator
+id=way/1182680914</desc><trkseg><trkpt lat="50.0867728" lon="7.2914457"/><trkpt lat="50.0868001" lon="7.2914678"/><trkpt lat="50.0868303" lon="7.2914769"/><trkpt lat="50.0868608" lon="7.2914725"/><trkpt lat="50.0868894" lon="7.2914548"/><trkpt lat="50.0869136" lon="7.2914253"/><trkpt lat="50.0869315" lon="7.2913864"/><trkpt lat="50.0869416" lon="7.2913412"/><trkpt lat="50.0869431" lon="7.2912933"/><trkpt lat="50.0869359" lon="7.2912468"/><trkpt lat="50.0869206" lon="7.2912053"/><trkpt lat="50.0868985" lon="7.2911721"/><trkpt lat="50.0868712" lon="7.2911501"/><trkpt lat="50.086841" lon="7.2911409"/><trkpt lat="50.0868105" lon="7.2911454"/><trkpt lat="50.0867819" lon="7.2911631"/><trkpt lat="50.0867577" lon="7.2911926"/><trkpt lat="50.0867398" lon="7.2912315"/><trkpt lat="50.0867297" lon="7.2912767"/><trkpt lat="50.0867282" lon="7.2913245"/><trkpt lat="50.0867354" lon="7.2913711"/><trkpt lat="50.0867506" lon="7.2914126"/><trkpt lat="50.0867728" lon="7.2914457"/></trkseg></trk></gpx>

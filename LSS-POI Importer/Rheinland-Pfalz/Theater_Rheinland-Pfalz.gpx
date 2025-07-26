@@ -1,0 +1,718 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.6318052" lon="8.3609693"><name>Lincoln-Theater</name><desc>addr:city=Worms
+addr:country=DE
+addr:housenumber=10
+addr:postcode=67547
+addr:street=Obermarkt
+amenity=theatre
+check_date=2023-11-22
+contact:email=info@traegerverein-lincoln-worms.de
+contact:website=https://www.worms.de/de/web/LincolnTheater
+name=Lincoln-Theater
+operator=Trägerverein Lincoln Worms e.V.
+wheelchair=limited
+id=node/30206383</desc></wpt><wpt lat="49.7438731" lon="8.1167222"><name>Juku</name><desc>amenity=theatre
+name=Juku
+wheelchair=no
+id=node/255620957</desc></wpt><wpt lat="49.9983816" lon="8.2658579"><name>Unterhaus</name><desc>amenity=theatre
+name=Unterhaus
+toilets:wheelchair=yes
+wheelchair=limited
+wikidata=Q2497697
+wikimedia_commons=Category:Unterhaus – Mainzer Forum-Theater
+id=node/263687025</desc></wpt><wpt lat="49.9996349" lon="8.2703276"><name>Staatstheater Mainz - Kleines Haus</name><desc>addr:city=Mainz
+addr:postcode=55116
+addr:street=Tritonplatz
+amenity=theatre
+check_date=2024-08-20
+name=Staatstheater Mainz - Kleines Haus
+note=Export von Daten aus mobilemenschen.de
+opening_hours=Mo-Fr 10:00-19:00 open "Abendkasse: jeweils 1 Stunde vor Vorstellungsbeginn"; Sa 10:00-15:00 open "Abendkasse: jeweils 1 Stunde vor Vorstellungsbeginn"
+website=http://www.staatstheater-mainz.de
+wheelchair=yes
+id=node/264084790</desc></wpt><wpt lat="49.999508" lon="8.271143"><name>Staatstheater Mainz - Großes Haus</name><desc>addr:city=Mainz
+addr:housenumber=7
+addr:postcode=55116
+addr:street=Gutenbergplatz
+amenity=theatre
+check_date:opening_hours=2022-01-03
+contact:website=http://www.staatstheater-mainz.de
+name=Staatstheater Mainz - Großes Haus
+note=Export von Daten aus mobilemenschen.de
+opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-15:00
+phone=+49 6131 28510
+toilets:wheelchair=yes
+wheelchair=yes
+wikidata=Q317908
+wikimedia_commons=Category:Staatstheater Mainz
+wikipedia=en:Staatstheater Mainz
+id=node/264085133</desc></wpt><wpt lat="49.9960829" lon="8.2807815"><name>Kammerspiele</name><desc>addr:city=Mainz
+addr:housenumber=4
+addr:postcode=55116
+addr:street=Rheinstraße
+amenity=theatre
+check_date=2025-06-03
+created_by=Potlatch 0.9a
+name=Kammerspiele
+toilets:wheelchair=yes
+wheelchair=yes
+id=node/264139808</desc></wpt><wpt lat="49.3469498" lon="8.2610971"><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+id=node/290838729</desc></wpt><wpt lat="50.0622768" lon="7.7685595"><name>Figurentheater Bacharach Stadt Fibs</name><desc>addr:city=Bacharach
+addr:housename=Rheinterrasse
+addr:housenumber=18-20
+addr:postcode=55422
+addr:street=Koblenzer Straße
+amenity=theatre
+name=Figurentheater Bacharach Stadt Fibs
+id=node/315136794</desc></wpt><wpt lat="49.7041303" lon="7.3311948"><name>Stadttheater</name><desc>amenity=theatre
+name=Stadttheater
+wheelchair=limited
+id=node/320244804</desc></wpt><wpt lat="49.3331811" lon="8.406261"><name>Waldtheater</name><desc>amenity=theatre
+name=Waldtheater
+id=node/352862726</desc></wpt><wpt lat="49.50994" lon="7.6830311"><name>Freilichtbühne Katzweiler</name><desc>amenity=theatre
+name=Freilichtbühne Katzweiler
+id=node/395339258</desc></wpt><wpt lat="49.423208" lon="8.3935908"><name>Kultursaal</name><desc>amenity=theatre
+check_date=2024-04-28
+name=Kultursaal
+wheelchair=yes
+id=node/411066293</desc></wpt><wpt lat="49.1462259" lon="8.214196"><name>Chawwerusch</name><desc>addr:housenumber=14
+addr:street=Obere Hauptstraße
+amenity=theatre
+name=Chawwerusch
+website=https://www.chawwerusch.de/
+wheelchair=no
+id=node/460036150</desc></wpt><wpt lat="50.3727113" lon="7.597399"><name>Kulturfabrik Koblenz</name><desc>amenity=theatre
+name=Kulturfabrik Koblenz
+wheelchair=no
+wikidata=Q1392882
+id=node/484263681</desc></wpt><wpt lat="50.3446433" lon="7.5497211"><name>Café Hahn</name><desc>addr:city=Koblenz
+addr:housenumber=15
+addr:postcode=56072
+addr:street=Neustraße
+addr:suburb=Güls
+amenity=theatre
+name=Café Hahn
+website=https://www.cafehahn.de/
+wheelchair=yes
+wikidata=Q1025612
+wikipedia=de:Café Hahn
+id=node/575987044</desc></wpt><wpt lat="49.745341" lon="8.114199"><name>Gerry Jansen Theater</name><desc>addr:city=Alzey
+addr:country=DE
+addr:housenumber=7
+addr:postcode=55232
+addr:street=Hellgasse
+amenity=theatre
+name=Gerry Jansen Theater
+phone=+49673155282
+website=http://www.gerryjansen.de
+wheelchair=no
+id=node/582141344</desc></wpt><wpt lat="49.2399805" lon="7.971309"><name>Freilichttheater Eußerthal</name><desc>amenity=theatre
+name=Freilichttheater Eußerthal
+id=node/624028016</desc></wpt><wpt lat="49.3848825" lon="8.3705518"><name>CEE Club Ebene Eins - Die Scheune</name><desc>amenity=theatre
+check_date=2024-07-18
+name=CEE Club Ebene Eins - Die Scheune
+website=http://www.clubebeneeins.de/
+wheelchair=limited
+id=node/760588922</desc></wpt><wpt lat="50.4137481" lon="7.8940919"><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+id=node/762582084</desc></wpt><wpt lat="49.198828" lon="8.1174355"><name>Gloria Kulturpalast</name><desc>addr:city=Landau in der Pfalz
+addr:housenumber=3
+addr:postcode=76829
+addr:street=Industriestraße
+amenity=theatre
+check_date=2024-03-21
+name=Gloria Kulturpalast
+website=https://www.gloria-kulturpalast.de
+wheelchair=limited
+id=node/861351074</desc></wpt><wpt lat="49.4893266" lon="8.4381478"><name>Prinzregenten Theater</name><desc>amenity=theatre
+contact:phone=+49 621 525240
+name=Prinzregenten Theater
+website=https://www.prinzregenten-theater.de/
+wheelchair=limited
+wikidata=Q2110807
+wikimedia_commons=Category:Prinzregenten-Theater
+wikipedia=de:Prinzregenten-Theater
+id=node/925348298</desc></wpt><wpt lat="49.4797177" lon="8.4429849"><name>Staatsphilharmonie Rheinland-Pfalz</name><desc>amenity=theatre
+name=Staatsphilharmonie Rheinland-Pfalz
+wheelchair=yes
+wikidata=Q321641
+wikimedia_commons=Category:Deutsche Staatsphilharmonie Rheinland-Pfalz
+wikipedia=de:Deutsche Staatsphilharmonie Rheinland-Pfalz
+id=node/927224433</desc></wpt><wpt lat="49.1939646" lon="8.2491073"><name>Gemeindehaus</name><desc>amenity=theatre
+name=Gemeindehaus
+id=node/1227943560</desc></wpt><wpt lat="49.8780961" lon="8.1503693"><name>Kleine Kunstbühne</name><desc>amenity=theatre
+name=Kleine Kunstbühne
+id=node/1318493434</desc></wpt><wpt lat="50.6520352" lon="7.9535129"><name>Konzertmuschel</name><desc>amenity=theatre
+name=Konzertmuschel
+tourism=attraction
+wheelchair=limited
+id=node/1465823101</desc></wpt><wpt lat="50.782835" lon="7.7411945"><name>kulturWERKwissen</name><desc>amenity=theatre
+name=kulturWERKwissen
+website=http://www.kulturwerk-wissen.de
+id=node/1597614067</desc></wpt><wpt lat="50.4189235" lon="7.9761146"><name>Freilichtbühne TFN</name><desc>amenity=theatre
+name=Freilichtbühne TFN
+operator=Theaterfreunde Niedererbach
+website=https://www.theaterfreunde-niedererbach.de/
+id=node/1610672169</desc></wpt><wpt lat="49.5465042" lon="8.3511593"><name>Theater Alte Werkstatt e. V.</name><desc>addr:housenumber=109
+addr:street=Wormser Straße
+amenity=theatre
+check_date=2024-07-16
+email=karten@tawfrankenthal.de
+name=Theater Alte Werkstatt e. V.
+opening_hours=Tu,Fr 10:00-13:00; We-Fr 17:00-19:00
+phone=+49 6233 354826
+website=http://www.tawfrankenthal.de/
+wheelchair=no
+id=node/1623855025</desc></wpt><wpt lat="49.5303304" lon="8.3535966"><name>Kindertheater</name><desc>amenity=theatre
+name=Kindertheater
+wheelchair=limited
+id=node/1623856467</desc></wpt><wpt lat="49.8233203" lon="8.0899174"><name>Scheier 1664</name><desc>addr:city=Wörrstadt
+addr:country=DE
+addr:housenumber=1
+addr:postcode=55286
+addr:street=Mittelgasse
+addr:suburb=Rommersheim
+amenity=theatre
+name=Scheier 1664
+website=https://kulturkreis-woerrstadt.de/locations/in-der-scheuer/
+id=node/1639127979</desc></wpt><wpt lat="49.4445307" lon="8.3595174"><name>Palatinum</name><desc>amenity=theatre
+name=Palatinum
+wheelchair=yes
+id=node/1676805944</desc></wpt><wpt lat="49.8423028" lon="7.8539237"><name>Loge</name><desc>amenity=theatre
+name=Loge
+wheelchair=yes
+id=node/1760976721</desc></wpt><wpt lat="50.6520417" lon="7.9536053"><name>Konzertmuschel im Kurpark</name><desc>amenity=theatre
+name=Konzertmuschel im Kurpark
+tourism=attraction
+wheelchair=limited
+wheelchair:description=Behindertentoilette in der Touristinfo ganz in der Nähe.
+id=node/1819496697</desc></wpt><wpt lat="49.5869809" lon="8.3561756"><name>Hoftheater Hasch-Masch</name><desc>addr:city=Bobenheim-Roxheim
+addr:country=DE
+addr:housenumber=7
+addr:postcode=67240
+addr:street=Frankenthaler Straße
+amenity=theatre
+check_date=2023-11-26
+email=info@theaterkreis1975.de
+name=Hoftheater Hasch-Masch
+operator=Theaterkreis Bobenheim-Roxheim 1975 e.V
+toilets:wheelchair=yes
+website=https://www.theaterkreis1975.de/unser-verein/hoftheater-hasch-masch
+wheelchair=yes
+id=node/1954598385</desc></wpt><wpt lat="49.7845179" lon="7.2976537"><name>Freilichtbühne Mörschied</name><desc>amenity=theatre
+name=Freilichtbühne Mörschied
+wheelchair=limited
+id=node/2133718815</desc></wpt><wpt lat="49.6317018" lon="8.3562229"><name>Das Wormser</name><desc>addr:city=Worms
+addr:country=DE
+addr:housenumber=11
+addr:postcode=67547
+addr:street=Rathenaustraße
+amenity=theatre
+check_date=2025-03-11
+name=Das Wormser
+operator=Kultur und Veranstaltungs GmbH
+toilets:wheelchair=yes
+wheelchair=yes
+wikidata=Q33104745
+wikipedia=de:Städtisches Spiel- und Festhaus (Worms)
+id=node/2222271130</desc></wpt><wpt lat="49.7053006" lon="6.5983428"><name>Waldbühne</name><desc>amenity=theatre
+name=Waldbühne
+id=node/2889404828</desc></wpt><wpt lat="49.3848326" lon="8.3763625"><name>Schreiwer-Hais'l</name><desc>amenity=theatre
+name=Schreiwer-Hais'l
+id=node/2934268501</desc></wpt><wpt lat="49.5058871" lon="8.2151292"><name>Theader</name><desc>amenity=theatre
+name=Theader
+website=https://www.theader.de/
+id=node/3259811233</desc></wpt><wpt lat="50.5814522" lon="7.244467"><name>Theater im Tunnel</name><desc>addr:city=Erpel
+addr:housenumber=25
+addr:postcode=53579
+addr:street=Bergstraße
+amenity=theatre
+email=info@ad-erpelle.de
+name=Theater im Tunnel
+operator=Ad Erpelle
+id=node/3453510937</desc></wpt><wpt lat="49.7371864" lon="8.1511294"><name>Freilichtbühne Dautenheim</name><desc>amenity=theatre
+name=Freilichtbühne Dautenheim
+id=node/3731949275</desc></wpt><wpt lat="49.3166227" lon="8.4381623"><name>Zimmertheater Speyer</name><desc>addr:city=Speyer
+addr:country=DE
+addr:housenumber=3
+addr:postcode=67346
+addr:street=Flachsgasse
+amenity=theatre
+check_date=2024-05-05
+name=Zimmertheater Speyer
+website=https://zimmertheater-speyer.de/
+id=node/4075450515</desc></wpt><wpt lat="49.3292434" lon="8.1311431"><name>Theater in der Kurve</name><desc>addr:city=Neustadt an der Weinstraße
+addr:country=DE
+addr:housenumber=279
+addr:postcode=67434
+addr:street=Weinstraße
+amenity=theatre
+contact:email=info@theaterinderkurve.de
+contact:phone=+49 6321 2147
+contact:website=http://www.theaterinderkurve.de/
+name=Theater in der Kurve
+id=node/4112200418</desc></wpt><wpt lat="50.353075" lon="7.6004037"><name>Großer Saal</name><desc>amenity=theatre
+name=Großer Saal
+theatre:genre=philharmonic
+id=node/4525075451</desc></wpt><wpt lat="50.0129385" lon="8.2397524"><name>Freilichttheater</name><desc>amenity=theatre
+changing_table=no
+check_date=2024-08-26
+name=Freilichttheater
+toilets=no
+id=node/4665370312</desc></wpt><wpt lat="49.4794075" lon="8.4465042"><name>Theatersaal</name><desc>alt_name=Theatersaal im Pfalzbau
+amenity=theatre
+name=Theatersaal
+operator=LUKOM Ludwigshafener Kongress- und Marketing-Gesellschaft mbH
+theatre:genre=drama
+id=node/5316471816</desc></wpt><wpt lat="49.4795391" lon="8.4458641"><name>Kammersaal</name><desc>alt_name=Kammersaal im Pfalzbau
+amenity=theatre
+name=Kammersaal
+operator=LUKOM Ludwigshafener Kongress- und Marketing-Gesellschaft mbH
+theatre:genre=chamber_music
+id=node/5316475475</desc></wpt><wpt lat="49.4795154" lon="8.445498"><name>Konzertsaal</name><desc>alt_name=Konzertsaal im Pfalzbau
+amenity=theatre
+name=Konzertsaal
+operator=LUKOM Ludwigshafener Kongress- und Marketing-Gesellschaft mbH
+theatre:genre=philharmonic
+id=node/5316475476</desc></wpt><wpt lat="49.3881024" lon="8.0483574"><name>Freilichtbühne Grundschule Neidenfels-Frankeneck</name><desc>amenity=theatre
+name=Freilichtbühne Grundschule Neidenfels-Frankeneck
+id=node/6095965874</desc></wpt><wpt lat="49.9748456" lon="8.253219"><name>Schauspielschule Mainz</name><desc>addr:city=Mainz
+addr:housenumber=1
+addr:postcode=55128
+addr:street=Alte Ziegelei
+amenity=theatre
+email=info@schauspielschule-mainz.de
+name=Schauspielschule Mainz
+phone=+49 6131 36 43 14
+website=https://www.schauspielschule-mainz.de
+id=node/6112688444</desc></wpt><wpt lat="49.6093123" lon="7.8740869"><name>node/6250359010</name><desc>amenity=theatre
+theatre:type=amphi
+id=node/6250359010</desc></wpt><wpt lat="50.6507567" lon="7.9528488"><name>Bühne</name><desc>amenity=theatre
+name=Bühne
+id=node/6495604036</desc></wpt><wpt lat="49.9299178" lon="7.8655856"><name>Trollbühne</name><desc>amenity=theatre
+name=Trollbühne
+id=node/6548121620</desc></wpt><wpt lat="49.8453719" lon="8.173739"><name>Theater Streu Licht</name><desc>amenity=theatre
+name=Theater Streu Licht
+id=node/6601921415</desc></wpt><wpt lat="49.1957846" lon="8.1205568"><name>Jugendstil Festhalle</name><desc>addr:city=Landau in der Pfalz
+addr:housenumber=3
+addr:postcode=76829
+addr:street=Mahlastraße
+alt_name=Festhalle
+amenity=theatre
+name=Jugendstil Festhalle
+operator=Stadt Landau i.d. Pfalz
+tourism=attraction
+website=https://www.stadtholding.de/jugendstil-festhalle/
+wikidata=Q1711411
+wikipedia=de:Jugendstil-Festhalle
+id=node/6681977598</desc></wpt><wpt lat="50.3601821" lon="7.6099961"><name>Theater am Ehrenbreitstein</name><desc>amenity=theatre
+email=karten@theater-am-ehrenbreitstein.de
+name=Theater am Ehrenbreitstein
+operator=Annika Woyda
+phone=+49 (0)171-3295736
+wheelchair=no
+id=node/6779369848</desc></wpt><wpt lat="49.4621483" lon="8.4290527"><name>Theaterladen Mundenheim</name><desc>amenity=theatre
+name=Theaterladen Mundenheim
+phone=+49 621 65056444
+website=https://www.theaterkumpanei.de
+id=node/6796484308</desc></wpt><wpt lat="50.5409025" lon="7.1351748"><name>Kleine Bühne im Kurpark</name><desc>amenity=theatre
+name=Kleine Bühne im Kurpark
+id=node/7636241205</desc></wpt><wpt lat="49.9779406" lon="7.5025015"><name>node/7784472123</name><desc>amenity=theatre
+id=node/7784472123</desc></wpt><wpt lat="50.3308062" lon="7.72564"><name>Kurtheater</name><desc>amenity=theatre
+check_date=2024-03-16
+name=Kurtheater
+website=https://www.badems-nassau.info/poi/kurtheater
+id=node/8043066418</desc></wpt><wpt lat="49.6386172" lon="8.3542109"><name>Theater der Volksbühne Worms</name><desc>addr:housenumber=11
+addr:street=Würdtweinstraße
+amenity=theatre
+check_date=2024-09-28
+name=Theater der Volksbühne Worms
+website=volksbühne-worms.de
+id=node/8497166796</desc></wpt><wpt lat="49.4895197" lon="8.4310627"><name>Hemshofschachtel</name><desc>amenity=theatre
+fax=+49 621 510149
+name=Hemshofschachtel
+website=http://www.theater-hemshofschachtel.de/
+wheelchair=no
+id=node/9022882060</desc></wpt><wpt lat="50.4727579" lon="7.4603653"><name>node/9231847848</name><desc>amenity=theatre
+theatre:type=open_air
+id=node/9231847848</desc></wpt><wpt lat="49.3005156" lon="8.1651417"><name>Freilichttheater</name><desc>amenity=theatre
+description=Spielort des Edelhoftheaters seit 2019. Spielzeit: Sommer (Juni / Juli) Anzahl Besucher je Vorstellung 140 - 168
+name=Freilichttheater
+operator=Edelhoftheater e.V.
+website=https://edelhoftheater.de/
+id=node/9644507525</desc></wpt><wpt lat="50.7811733" lon="7.958212"><name>Hüttenhaus</name><desc>addr:city=Herdorf
+addr:housenumber=26
+addr:postcode=57562
+addr:street=Schneiderstraße
+amenity=theatre
+name=Hüttenhaus
+wikidata=Q60744003
+id=node/10218525203</desc></wpt><wpt lat="49.999486" lon="8.2706003"><name>Staatstheater Mainz - U17</name><desc>addr:city=Mainz
+addr:postcode=55116
+addr:street=Tritonplatz
+amenity=theatre
+entrance=secondary
+level=-1
+name=Staatstheater Mainz - U17
+operator=Staatstheater Mainz GmbH
+website=http://www.staatstheater-mainz.de
+wikidata=Q317908
+wikimedia_commons=Category:Staatstheater Mainz
+wikipedia=en:Staatstheater Mainz
+id=node/11215146912</desc></wpt><wpt lat="49.3874971" lon="8.3772836"><name>Natur-Theater</name><desc>amenity=theatre
+name=Natur-Theater
+open_air=yes
+theatre:type=open_air
+id=node/12405039123</desc></wpt><wpt lat="49.5115845" lon="8.08244"><name>Burgspiele Altleiningen</name><desc>amenity=theatre
+name=Burgspiele Altleiningen
+operator=Burgspiele Altleiningen e.V.
+website=https://burgspiele-altleiningen.de/
+id=node/12476439265</desc></wpt><trk><name>Theater Koblenz</name><desc>addr:city=Koblenz
+addr:housenumber=5
+addr:postcode=56068
+addr:street=Clemensstraße
+amenity=theatre
+architect=Peter Joseph Krahe
+architect:wikidata=Q108310
+building=yes
+building:architecture=classicism
+heritage=yes
+heritage:operator=gdke
+name=Theater Koblenz
+phone=+49 261 1292870
+start_date=1787
+toilets:wheelchair=yes
+type=multipolygon
+website=https://theater-koblenz.de/
+wheelchair=yes
+wikidata=Q2415831
+wikipedia=de:Theater Koblenz
+id=relation/17162102</desc><trkseg><trkpt lat="50.3585272" lon="7.5988388"/><trkpt lat="50.3584099" lon="7.5987927"/><trkpt lat="50.3583696" lon="7.5987769"/><trkpt lat="50.3583073" lon="7.5991547"/><trkpt lat="50.3584663" lon="7.5992193"/><trkpt lat="50.3585272" lon="7.5988388"/></trkseg><trkseg><trkpt lat="50.3583696" lon="7.5987769"/><trkpt lat="50.3581874" lon="7.598703"/><trkpt lat="50.3581233" lon="7.5990835"/><trkpt lat="50.3583065" lon="7.5991595"/><trkpt lat="50.3583073" lon="7.5991547"/><trkpt lat="50.3583696" lon="7.5987769"/></trkseg><trkseg><trkpt lat="50.3583065" lon="7.5991595"/><trkpt lat="50.3581233" lon="7.5990835"/><trkpt lat="50.3580816" lon="7.5993157"/><trkpt lat="50.3580514" lon="7.5994987"/><trkpt lat="50.3582357" lon="7.5995794"/><trkpt lat="50.3582843" lon="7.5992869"/><trkpt lat="50.3583065" lon="7.5991595"/></trkseg></trk><trk><name>Pfalztheater</name><desc>addr:city=Kaiserslautern
+addr:housenumber=4-5
+addr:postcode=67657
+addr:street=Willy-Brandt-Platz
+amenity=theatre
+building=yes
+check_date=2024-03-25
+name=Pfalztheater
+toilets:wheelchair=yes
+wheelchair=yes
+wikidata=Q1344445
+id=way/30651075</desc><trkseg><trkpt lat="49.4472577" lon="7.7698291"/><trkpt lat="49.4471431" lon="7.7687722"/><trkpt lat="49.4469293" lon="7.7688641"/><trkpt lat="49.4469453" lon="7.768952"/><trkpt lat="49.4470137" lon="7.7693285"/><trkpt lat="49.4468452" lon="7.769401"/><trkpt lat="49.446849" lon="7.7694219"/><trkpt lat="49.4468536" lon="7.7694472"/><trkpt lat="49.4466744" lon="7.7695242"/><trkpt lat="49.4465415" lon="7.7695814"/><trkpt lat="49.4465831" lon="7.7698103"/><trkpt lat="49.446593" lon="7.769865"/><trkpt lat="49.4466048" lon="7.7699297"/><trkpt lat="49.4466478" lon="7.770166"/><trkpt lat="49.4469597" lon="7.7700319"/><trkpt lat="49.4469643" lon="7.7700573"/><trkpt lat="49.4469664" lon="7.7700689"/><trkpt lat="49.4471132" lon="7.7700058"/><trkpt lat="49.4471109" lon="7.7699929"/><trkpt lat="49.4471069" lon="7.769971"/><trkpt lat="49.4472287" lon="7.7699187"/><trkpt lat="49.4472157" lon="7.7698472"/><trkpt lat="49.4472577" lon="7.7698291"/></trkseg></trk><trk><name>Fruchthalle</name><desc>addr:city=Kaiserslautern
+addr:housenumber=10
+addr:postcode=67655
+addr:street=Fruchthallstraße
+amenity=theatre
+building=yes
+check_date=2024-03-14
+name=Fruchthalle
+operator=Referat Kultur der Stadt Kaiserslautern
+toilets=yes
+toilets:wheelchair=yes
+wheelchair=yes
+wikidata=Q1470771
+wikipedia=de:Fruchthalle (Kaiserslautern)
+id=way/30652082</desc><trkseg><trkpt lat="49.4458984" lon="7.7703293"/><trkpt lat="49.4457495" lon="7.7695196"/><trkpt lat="49.4455481" lon="7.7696125"/><trkpt lat="49.4456939" lon="7.7704192"/><trkpt lat="49.4458984" lon="7.7703293"/></trkseg></trk><trk><name>Theater</name><desc>amenity=theatre
+name=Theater
+id=way/31717622</desc><trkseg><trkpt lat="50.596188" lon="8.113855"/><trkpt lat="50.5962123" lon="8.1141967"/><trkpt lat="50.5962285" lon="8.1142171"/><trkpt lat="50.5962566" lon="8.114211"/><trkpt lat="50.5963613" lon="8.1141783"/><trkpt lat="50.5963874" lon="8.1141591"/><trkpt lat="50.5964089" lon="8.1140792"/><trkpt lat="50.5964136" lon="8.1139927"/><trkpt lat="50.5964011" lon="8.1139082"/><trkpt lat="50.5963726" lon="8.113834"/><trkpt lat="50.5963553" lon="8.1138209"/><trkpt lat="50.596328" lon="8.1138146"/><trkpt lat="50.596273" lon="8.1138216"/><trkpt lat="50.5962274" lon="8.1138291"/><trkpt lat="50.596188" lon="8.113855"/></trkseg></trk><trk><name>Pfalzbau</name><desc>addr:city=Ludwigshafen am Rhein
+addr:country=DE
+addr:housenumber=30
+addr:postcode=67059
+addr:street=Berliner Straße
+amenity=theatre
+building=yes
+fax=+496216909568
+name=Pfalzbau
+phone=+49 621 690950
+wheelchair=yes
+wikidata=Q2082239
+wikimedia_commons=Category:Pfalzbau
+wikipedia=de:Pfalzbau
+id=way/74691101</desc><trkseg><trkpt lat="49.4787991" lon="8.4461182"/><trkpt lat="49.4788573" lon="8.4462295"/><trkpt lat="49.4791114" lon="8.4467159"/><trkpt lat="49.4792216" lon="8.4466684"/><trkpt lat="49.479271" lon="8.4469096"/><trkpt lat="49.4796071" lon="8.4467514"/><trkpt lat="49.4796258" lon="8.4467748"/><trkpt lat="49.4797422" lon="8.4464667"/><trkpt lat="49.479617" lon="8.446353"/><trkpt lat="49.4798559" lon="8.4457409"/><trkpt lat="49.4795619" lon="8.4451625"/><trkpt lat="49.4795191" lon="8.4452154"/><trkpt lat="49.4794912" lon="8.4451644"/><trkpt lat="49.4793483" lon="8.4453347"/><trkpt lat="49.4793622" lon="8.4454246"/><trkpt lat="49.4791575" lon="8.4456687"/><trkpt lat="49.4791453" lon="8.4456459"/><trkpt lat="49.4788839" lon="8.4459624"/><trkpt lat="49.4789004" lon="8.4459932"/><trkpt lat="49.4787991" lon="8.4461182"/></trkseg></trk><trk><name>Amateurtheater "Die Oase"</name><desc>amenity=theatre
+building=yes
+name=Amateurtheater "Die Oase"
+id=way/87529114</desc><trkseg><trkpt lat="50.4475337" lon="7.8346514"/><trkpt lat="50.4473965" lon="7.834659"/><trkpt lat="50.4473995" lon="7.8347952"/><trkpt lat="50.447388" lon="7.8347958"/><trkpt lat="50.4473922" lon="7.8349798"/><trkpt lat="50.4475512" lon="7.8349709"/><trkpt lat="50.447547" lon="7.8347863"/><trkpt lat="50.4475368" lon="7.8347869"/><trkpt lat="50.4475337" lon="7.8346514"/></trkseg></trk><trk><name>Saalbau</name><desc>addr:city=Neustadt an der Weinstraße
+addr:country=DE
+addr:housenumber=1
+addr:postcode=67434
+addr:street=Bahnhofstraße
+amenity=theatre
+building=civic
+building:levels=2
+height=10
+name=Saalbau
+phone=+49 6321 926812
+roof:levels=1
+roof:shape=hipped
+website=https://www.neustadt.eu/Wein-Tourismus/Stadthalle-Saalbau
+wheelchair=yes
+wheelchair:description=Barrierefreier Zugang links vom Haupteingang. Alle Ebenen mit Aufzug erreichbar. Im Keller 2 Behindertentoiletten vorhanden. Plätze für Rollstuhlfahrer auf dem Bestuhlungsplan vermerkt. Bei Kartenbestellung berücksichtigen.
+wikidata=Q2208942
+wikipedia=de:Saalbau (Neustadt)
+id=way/103121831</desc><trkseg><trkpt lat="49.3506153" lon="8.1396624"/><trkpt lat="49.3506133" lon="8.1397637"/><trkpt lat="49.3507231" lon="8.1397689"/><trkpt lat="49.3507667" lon="8.139771"/><trkpt lat="49.350807" lon="8.1397729"/><trkpt lat="49.3509136" lon="8.139778"/><trkpt lat="49.350916" lon="8.1397428"/><trkpt lat="49.350917" lon="8.1396853"/><trkpt lat="49.3509615" lon="8.1396872"/><trkpt lat="49.3509652" lon="8.139481"/><trkpt lat="49.3509727" lon="8.1390669"/><trkpt lat="49.3508628" lon="8.1390616"/><trkpt lat="49.3508463" lon="8.1390157"/><trkpt lat="49.3508115" lon="8.1389839"/><trkpt lat="49.350775" lon="8.1389724"/><trkpt lat="49.3507377" lon="8.1389813"/><trkpt lat="49.350707" lon="8.1390068"/><trkpt lat="49.3506787" lon="8.1390528"/><trkpt lat="49.3505835" lon="8.1390483"/><trkpt lat="49.3505711" lon="8.1396603"/><trkpt lat="49.3506153" lon="8.1396624"/></trkseg></trk><trk><name>Stadthalle Betzdorf</name><desc>amenity=theatre
+building=yes
+check_date=2024-08-17
+name=Stadthalle Betzdorf
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/104567190</desc><trkseg><trkpt lat="50.7859847" lon="7.8767264"/><trkpt lat="50.786094" lon="7.8769952"/><trkpt lat="50.7862322" lon="7.8770694"/><trkpt lat="50.7862388" lon="7.8770228"/><trkpt lat="50.7862635" lon="7.8768818"/><trkpt lat="50.7862939" lon="7.8768915"/><trkpt lat="50.7863316" lon="7.8766389"/><trkpt lat="50.7862802" lon="7.8764991"/><trkpt lat="50.7861827" lon="7.8765775"/><trkpt lat="50.7859847" lon="7.8767264"/></trkseg></trk><trk><name>Zentrum am Park</name><desc>addr:city=Emmelshausen
+addr:housenumber=45
+addr:postcode=56281
+addr:street=Rhein-Mosel-Straße
+amenity=theatre
+building=yes
+building:colour=white
+check_date=2025-02-11
+name=Zentrum am Park
+wheelchair=yes
+id=way/106454504</desc><trkseg><trkpt lat="50.1554715" lon="7.5557342"/><trkpt lat="50.15527" lon="7.5557751"/><trkpt lat="50.1552124" lon="7.5557065"/><trkpt lat="50.1551313" lon="7.5559071"/><trkpt lat="50.1550928" lon="7.5559164"/><trkpt lat="50.1551362" lon="7.5560311"/><trkpt lat="50.1551781" lon="7.556077"/><trkpt lat="50.1552171" lon="7.5560348"/><trkpt lat="50.155275" lon="7.5560855"/><trkpt lat="50.1553502" lon="7.5561451"/><trkpt lat="50.1553334" lon="7.5561812"/><trkpt lat="50.1553093" lon="7.5561812"/><trkpt lat="50.1552933" lon="7.556205"/><trkpt lat="50.1553053" lon="7.5562263"/><trkpt lat="50.1552953" lon="7.5562483"/><trkpt lat="50.155393" lon="7.5563041"/><trkpt lat="50.1554383" lon="7.5564038"/><trkpt lat="50.1554872" lon="7.5564588"/><trkpt lat="50.1555061" lon="7.5563565"/><trkpt lat="50.1555732" lon="7.5564157"/><trkpt lat="50.1556167" lon="7.5561564"/><trkpt lat="50.155574" lon="7.5561319"/><trkpt lat="50.1555748" lon="7.5560632"/><trkpt lat="50.1555378" lon="7.556039"/><trkpt lat="50.1555672" lon="7.5558869"/><trkpt lat="50.1555142" lon="7.5559231"/><trkpt lat="50.155486" lon="7.5559309"/><trkpt lat="50.1554715" lon="7.5557342"/></trkseg></trk><trk><name>Festhalle</name><desc>addr:city=Zweibrücken
+addr:country=DE
+addr:housenumber=9
+addr:postcode=66482
+addr:street=Saarlandstraße
+amenity=theatre
+building=yes
+contact:website=https://www.festhalle-zweibruecken.com/
+name=Festhalle
+toilets:wheelchair=yes
+wheelchair=yes
+wikidata=Q56395348
+id=way/108722544</desc><trkseg><trkpt lat="49.2527231" lon="7.3680181"/><trkpt lat="49.2523945" lon="7.3681858"/><trkpt lat="49.2523815" lon="7.3681569"/><trkpt lat="49.252329" lon="7.3681469"/><trkpt lat="49.2522721" lon="7.368167"/><trkpt lat="49.2522218" lon="7.3682038"/><trkpt lat="49.2521876" lon="7.368238"/><trkpt lat="49.2521684" lon="7.3682709"/><trkpt lat="49.252169" lon="7.368298"/><trkpt lat="49.2520306" lon="7.3683686"/><trkpt lat="49.2521432" lon="7.3688861"/><trkpt lat="49.2521965" lon="7.3688589"/><trkpt lat="49.2522104" lon="7.3689232"/><trkpt lat="49.2523088" lon="7.368873"/><trkpt lat="49.2522941" lon="7.3688056"/><trkpt lat="49.2525167" lon="7.368692"/><trkpt lat="49.2524967" lon="7.3685999"/><trkpt lat="49.2525904" lon="7.368552"/><trkpt lat="49.2525399" lon="7.3683197"/><trkpt lat="49.2527638" lon="7.3682054"/><trkpt lat="49.2527231" lon="7.3680181"/></trkseg></trk><trk><name>Evangelisches Gemeindehaus/Theater</name><desc>addr:city=Eisenberg (Pfalz)
+addr:country=DE
+addr:housenumber=13
+addr:postcode=67304
+addr:street=Friedrich-Ebert-Straße
+amenity=theatre
+building=yes
+name=Evangelisches Gemeindehaus/Theater
+id=way/111016844</desc><trkseg><trkpt lat="49.5597821" lon="8.0685867"/><trkpt lat="49.5597102" lon="8.0680102"/><trkpt lat="49.5595325" lon="8.0680629"/><trkpt lat="49.5596044" lon="8.0686394"/><trkpt lat="49.5597821" lon="8.0685867"/></trkseg></trk><trk><name>Arena</name><desc>amenity=theatre
+leisure=common
+name=Arena
+wheelchair=limited
+id=way/117803389</desc><trkseg><trkpt lat="50.2622671" lon="7.5828145"/><trkpt lat="50.2622208" lon="7.582877"/><trkpt lat="50.2622048" lon="7.582841"/><trkpt lat="50.2621725" lon="7.5828201"/><trkpt lat="50.2621402" lon="7.582841"/><trkpt lat="50.2621268" lon="7.5828916"/><trkpt lat="50.2621402" lon="7.5829422"/><trkpt lat="50.2621657" lon="7.5829818"/><trkpt lat="50.2621307" lon="7.58305"/><trkpt lat="50.2621622" lon="7.5830916"/><trkpt lat="50.2621959" lon="7.5831059"/><trkpt lat="50.2622351" lon="7.5830903"/><trkpt lat="50.2622706" lon="7.5830475"/><trkpt lat="50.2622973" lon="7.5829912"/><trkpt lat="50.2623017" lon="7.5829328"/><trkpt lat="50.2622973" lon="7.5828733"/><trkpt lat="50.2622671" lon="7.5828145"/></trkseg></trk><trk><name>Freilichtbühne Domgarten</name><desc>amenity=theatre
+name=Freilichtbühne Domgarten
+surface=paving_stones
+theatre:type=open_air
+id=way/132065035</desc><trkseg><trkpt lat="49.3170404" lon="8.4447033"/><trkpt lat="49.3170729" lon="8.4446115"/><trkpt lat="49.3170178" lon="8.4445658"/><trkpt lat="49.3169517" lon="8.444511"/><trkpt lat="49.3169235" lon="8.4445918"/><trkpt lat="49.3169283" lon="8.444602"/><trkpt lat="49.3169325" lon="8.4446104"/><trkpt lat="49.3169483" lon="8.4446364"/><trkpt lat="49.3169674" lon="8.44466"/><trkpt lat="49.3169887" lon="8.4446791"/><trkpt lat="49.3170121" lon="8.4446936"/><trkpt lat="49.3170282" lon="8.4447001"/><trkpt lat="49.3170404" lon="8.4447033"/></trkseg></trk><trk><name>Carolinensaal</name><desc>addr:city=Pirmasens
+addr:country=DE
+addr:housenumber=15
+addr:postcode=66953
+addr:street=Buchsweilerstraße
+amenity=theatre
+building=yes
+name=Carolinensaal
+toilets:wheelchair=no
+wheelchair=limited
+id=way/172176271</desc><trkseg><trkpt lat="49.1954297" lon="7.6119953"/><trkpt lat="49.1953414" lon="7.6118802"/><trkpt lat="49.1952663" lon="7.612015"/><trkpt lat="49.1953446" lon="7.6121171"/><trkpt lat="49.1953928" lon="7.6120305"/><trkpt lat="49.1954028" lon="7.6120435"/><trkpt lat="49.1954297" lon="7.6119953"/></trkseg></trk><trk><name>Festhalle</name><desc>addr:city=Pirmasens
+addr:country=DE
+addr:housenumber=12
+addr:postcode=66953
+addr:street=Volksgartenstraße
+amenity=theatre
+building=yes
+name=Festhalle
+wheelchair=yes
+wheelchair:description=Am Haupteingang ist eine leichte Erhöhung, die man nicht als Stufe bezeichnen kann. Die Toilette ist sehr geräumig.
+wikidata=Q98540146
+id=way/174738805</desc><trkseg><trkpt lat="49.1940628" lon="7.6112316"/><trkpt lat="49.1939605" lon="7.6112435"/><trkpt lat="49.1936863" lon="7.6114037"/><trkpt lat="49.1937307" lon="7.6116064"/><trkpt lat="49.1937598" lon="7.6115869"/><trkpt lat="49.193842" lon="7.6118733"/><trkpt lat="49.1937755" lon="7.6119215"/><trkpt lat="49.1938357" lon="7.6121096"/><trkpt lat="49.1941049" lon="7.6118854"/><trkpt lat="49.1940698" lon="7.6117582"/><trkpt lat="49.1940473" lon="7.6117685"/><trkpt lat="49.1939875" lon="7.6115478"/><trkpt lat="49.1940817" lon="7.6115182"/><trkpt lat="49.1940766" lon="7.6114325"/><trkpt lat="49.1940628" lon="7.6112316"/></trkseg></trk><trk><name>Ringtheater</name><desc>addr:city=Kusel
+addr:country=DE
+addr:housenumber=9
+addr:postcode=66869
+addr:street=Am Hofacker
+amenity=theatre
+building=yes
+name=Ringtheater
+wheelchair=no
+id=way/186764417</desc><trkseg><trkpt lat="49.5390626" lon="7.402545"/><trkpt lat="49.5391473" lon="7.4025971"/><trkpt lat="49.539228" lon="7.4022873"/><trkpt lat="49.5392382" lon="7.4022504"/><trkpt lat="49.5391526" lon="7.4021977"/><trkpt lat="49.5390626" lon="7.402545"/></trkseg></trk><trk><name>Kinder- und Jugendtheater</name><desc>addr:city=Speyer
+addr:country=DE
+addr:housenumber=8
+addr:postcode=67346
+addr:street=Kleine Pfaffengasse
+amenity=theatre
+check_date=2024-05-05
+contact:phone=+49 6232 2890750
+contact:website=http://www.theater-speyer.de/
+name=Kinder- und Jugendtheater
+operator=Kinder- und Jugendtheater Speyer e.V.
+operator:type=community
+wheelchair=limited
+wheelchair:description=ebenerdig, schwellenlos erreichbar, mit Behindertentoilette, mit Behindertenparkplatz in Kleiner Pfaffengasse direkt neben Hofeinfahrt
+id=way/190027431</desc><trkseg><trkpt lat="49.3167809" lon="8.4384744"/><trkpt lat="49.3165885" lon="8.4384947"/><trkpt lat="49.3165701" lon="8.4385334"/><trkpt lat="49.3165715" lon="8.4385522"/><trkpt lat="49.316584" lon="8.4387222"/><trkpt lat="49.3166052" lon="8.4387464"/><trkpt lat="49.3166619" lon="8.4387397"/><trkpt lat="49.3167921" lon="8.4387221"/><trkpt lat="49.3168005" lon="8.4387018"/><trkpt lat="49.3168223" lon="8.4386967"/><trkpt lat="49.3168448" lon="8.4386882"/><trkpt lat="49.3168605" lon="8.4386608"/><trkpt lat="49.316868" lon="8.4386324"/><trkpt lat="49.3168636" lon="8.4385385"/><trkpt lat="49.3168492" lon="8.4385068"/><trkpt lat="49.3168254" lon="8.4384891"/><trkpt lat="49.3167947" lon="8.4384895"/><trkpt lat="49.3167809" lon="8.4384744"/></trkseg></trk><trk><name>Freilichtbühne im Busch</name><desc>addr:city=Worms
+addr:country=DE
+addr:housenumber=7
+addr:postcode=67547
+addr:street=Oberer Busch
+amenity=theatre
+email=info@theaterkreis1975.de
+name=Freilichtbühne im Busch
+toilets:wheelchair=yes
+website=https://www.theaterkreis1975.de/unser-verein/freilichtb%C3%BChne-im-busch
+wheelchair=yes
+id=way/194101380</desc><trkseg><trkpt lat="49.5936116" lon="8.4044831"/><trkpt lat="49.593486" lon="8.4042948"/><trkpt lat="49.5932425" lon="8.4042689"/><trkpt lat="49.5927924" lon="8.4044154"/><trkpt lat="49.5927849" lon="8.4047889"/><trkpt lat="49.5935991" lon="8.4047798"/><trkpt lat="49.5936116" lon="8.4044831"/></trkseg></trk><trk><name>Otfried-von-Weißenburg-Theater</name><desc>addr:city=Dahn
+addr:postcode=66994
+addr:street=Geschwister-Scholl-Straße
+amenity=theatre
+building=yes
+name=Otfried-von-Weißenburg-Theater
+operator=Landkreis Südwestpfalz
+wheelchair=limited
+id=way/214870021</desc><trkseg><trkpt lat="49.1523556" lon="7.7868134"/><trkpt lat="49.1521616" lon="7.7870217"/><trkpt lat="49.1521205" lon="7.7870659"/><trkpt lat="49.1523533" lon="7.7875728"/><trkpt lat="49.1525884" lon="7.7873203"/><trkpt lat="49.1523556" lon="7.7868134"/></trkseg></trk><trk><name>Freilichttheater Dörrenbach</name><desc>addr:city=Dörrenbach
+addr:country=DE
+addr:postcode=76889
+addr:street=Am Springberg
+amenity=theatre
+name=Freilichttheater Dörrenbach
+id=way/222601292</desc><trkseg><trkpt lat="49.0915372" lon="7.9729462"/><trkpt lat="49.0914656" lon="7.9730923"/><trkpt lat="49.091451" lon="7.9732439"/><trkpt lat="49.0916405" lon="7.9732894"/><trkpt lat="49.0917299" lon="7.9733419"/><trkpt lat="49.0917749" lon="7.9731774"/><trkpt lat="49.091671" lon="7.9731144"/><trkpt lat="49.0915372" lon="7.9729462"/></trkseg></trk><trk><name>Zeitensprung</name><desc>addr:city=Ingelheim am Rhein
+addr:country=DE
+addr:housenumber=2
+addr:postcode=55218
+addr:street=Stiegelgasse
+amenity=theatre
+building=apartments
+name=Zeitensprung
+toilets:wheelchair=no
+wheelchair=yes
+id=way/247413292</desc><trkseg><trkpt lat="49.9638367" lon="8.0600674"/><trkpt lat="49.9637761" lon="8.0600818"/><trkpt lat="49.9637811" lon="8.0601505"/><trkpt lat="49.963734" lon="8.0600866"/><trkpt lat="49.9636927" lon="8.0601886"/><trkpt lat="49.9637602" lon="8.0602566"/><trkpt lat="49.9638607" lon="8.0603358"/><trkpt lat="49.9638601" lon="8.0602285"/><trkpt lat="49.9638367" lon="8.0600674"/></trkseg></trk><trk><name>Städtische Bühne Lahnstein</name><desc>addr:city=Lahnstein
+addr:housenumber=20
+addr:postcode=56112
+addr:street=Johannesstraße
+amenity=theatre
+building=yes
+name=Städtische Bühne Lahnstein
+website=nassau-sporkenburger-hof.de
+wikidata=Q2359915
+id=way/285415739</desc><trkseg><trkpt lat="50.3094824" lon="7.6015553"/><trkpt lat="50.3093647" lon="7.6015593"/><trkpt lat="50.309369" lon="7.6016602"/><trkpt lat="50.3094719" lon="7.6017047"/><trkpt lat="50.3094909" lon="7.6016287"/><trkpt lat="50.3094863" lon="7.6015868"/><trkpt lat="50.3094834" lon="7.601562"/><trkpt lat="50.3094824" lon="7.6015553"/></trkseg></trk><trk><name>Arena Waldsee</name><desc>amenity=theatre
+building=yes
+name=Arena Waldsee
+id=way/287749572</desc><trkseg><trkpt lat="49.7932846" lon="6.8068396"/><trkpt lat="49.7933095" lon="6.8067153"/><trkpt lat="49.7933188" lon="6.8066304"/><trkpt lat="49.7933152" lon="6.8065178"/><trkpt lat="49.7932978" lon="6.8063925"/><trkpt lat="49.7932563" lon="6.806262"/><trkpt lat="49.7931713" lon="6.806366"/><trkpt lat="49.7931861" lon="6.8064244"/><trkpt lat="49.7931964" lon="6.8064725"/><trkpt lat="49.7932025" lon="6.8065258"/><trkpt lat="49.7932053" lon="6.806578"/><trkpt lat="49.7932034" lon="6.806648"/><trkpt lat="49.7931882" lon="6.8067663"/><trkpt lat="49.7932846" lon="6.8068396"/></trkseg></trk><trk><name>Wasgau-Theater</name><desc>addr:city=Fischbach bei Dahn
+addr:housenumber=2
+addr:postcode=66996
+addr:street=Gewerbepark
+amenity=theatre
+building=yes
+name=Wasgau-Theater
+phone=+49 6393 993736
+website=http://www.wasgautheater.de/
+wikidata=Q50877336
+id=way/294324250</desc><trkseg><trkpt lat="49.0696295" lon="7.6945923"/><trkpt lat="49.0695755" lon="7.6945823"/><trkpt lat="49.0695697" lon="7.6946538"/><trkpt lat="49.0694602" lon="7.6946348"/><trkpt lat="49.0694364" lon="7.6949537"/><trkpt lat="49.0696005" lon="7.6949823"/><trkpt lat="49.0696295" lon="7.6945923"/></trkseg></trk><trk><name>Blaues Haus</name><desc>addr:city=Bolanden
+addr:housenumber=7
+addr:postcode=67295
+addr:street=Parkallee
+amenity=theatre
+building=yes
+name=Blaues Haus
+id=way/295988503</desc><trkseg><trkpt lat="49.6360069" lon="8.0292814"/><trkpt lat="49.6364187" lon="8.0292701"/><trkpt lat="49.6364165" lon="8.0290784"/><trkpt lat="49.6360047" lon="8.0290897"/><trkpt lat="49.6360069" lon="8.0292814"/></trkseg></trk><trk><name>Theater Trier</name><desc>addr:city=Trier
+addr:country=DE
+addr:postcode=54290
+addr:street=Am Augustinerhof
+amenity=theatre
+building=public
+building:levels=5
+contact:email=info@theater-trier.de
+contact:phone=+49 651 7183464
+contact:website=http://www.theater-trier.de
+name=Theater Trier
+roof:shape=flat
+toilets:wheelchair=yes
+wheelchair=yes
+wikidata=Q2415967
+wikipedia=de:Theater Trier
+id=way/312394684</desc><trkseg><trkpt lat="49.7519896" lon="6.6346134"/><trkpt lat="49.7519644" lon="6.6346485"/><trkpt lat="49.7519367" lon="6.634684"/><trkpt lat="49.7518924" lon="6.634738"/><trkpt lat="49.7519598" lon="6.6348713"/><trkpt lat="49.7520748" lon="6.6350991"/><trkpt lat="49.7521419" lon="6.635056"/><trkpt lat="49.7521535" lon="6.6350899"/><trkpt lat="49.752288" lon="6.6352418"/><trkpt lat="49.7524321" lon="6.6351345"/><trkpt lat="49.7524261" lon="6.635105"/><trkpt lat="49.7524511" lon="6.635067"/><trkpt lat="49.752557" lon="6.6352525"/><trkpt lat="49.7527356" lon="6.6350398"/><trkpt lat="49.752751" lon="6.6350227"/><trkpt lat="49.7524656" lon="6.6344386"/><trkpt lat="49.7524386" lon="6.6343834"/><trkpt lat="49.7522197" lon="6.6345768"/><trkpt lat="49.7522439" lon="6.6346468"/><trkpt lat="49.7522116" lon="6.6346784"/><trkpt lat="49.7521962" lon="6.6346562"/><trkpt lat="49.7521156" lon="6.6347848"/><trkpt lat="49.7519896" lon="6.6346134"/></trkseg></trk><trk><name>way/319739562</name><desc>amenity=theatre
+theatre:type=open_air
+id=way/319739562</desc><trkseg><trkpt lat="50.3282097" lon="7.22135"/><trkpt lat="50.3282076" lon="7.2213701"/><trkpt lat="50.3282098" lon="7.2213903"/><trkpt lat="50.3282162" lon="7.2214081"/><trkpt lat="50.3282259" lon="7.2214217"/><trkpt lat="50.328238" lon="7.2214295"/><trkpt lat="50.328251" lon="7.2214306"/><trkpt lat="50.3282636" lon="7.221425"/><trkpt lat="50.3282742" lon="7.2214132"/><trkpt lat="50.3282818" lon="7.2213966"/><trkpt lat="50.3282855" lon="7.221377"/><trkpt lat="50.3282849" lon="7.2213572"/><trkpt lat="50.3282804" lon="7.2213386"/><trkpt lat="50.3282722" lon="7.2213234"/><trkpt lat="50.3282614" lon="7.221313"/><trkpt lat="50.328249" lon="7.2213086"/><trkpt lat="50.3282364" lon="7.2213106"/><trkpt lat="50.3282249" lon="7.2213189"/><trkpt lat="50.3282156" lon="7.2213325"/><trkpt lat="50.3282097" lon="7.22135"/></trkseg></trk><trk><name>Bachtheater</name><desc>amenity=theatre
+building=yes
+layer=1
+name=Bachtheater
+wheelchair=no
+id=way/322277504</desc><trkseg><trkpt lat="49.1848384" lon="8.1205731"/><trkpt lat="49.1845724" lon="8.1206211"/><trkpt lat="49.1845966" lon="8.1209348"/><trkpt lat="49.1848626" lon="8.1208868"/><trkpt lat="49.1848384" lon="8.1205731"/></trkseg></trk><trk><name>Freilichtbühne Loreley</name><desc>addr:city=Bornich
+addr:country=DE
+addr:postcode=56346
+addr:street=Auf der Loreley
+addr:suburb=Loreley
+amenity=theatre
+name=Freilichtbühne Loreley
+open_air=yes
+opening_hours=Mo-Fr 08:30-19:30; Sa 10:00-18:00; Su 10:00-15:00; Jul 17-19 off; Jul 25 off; Jul 31 off; Aug 01-02 off; Aug 07-08 off; Aug 22 off; Aug 29-30 off; Sep 04-05 off
+theatre:type=amphi
+toilets:wheelchair=no
+website=https://www.loreley-freilichtbuehne.de/
+wheelchair=limited
+wikidata=Q1454504
+wikipedia=de:Freilichtbühne Loreley
+id=way/323329463</desc><trkseg><trkpt lat="50.14258" lon="7.7309618"/><trkpt lat="50.1425335" lon="7.7309297"/><trkpt lat="50.1425174" lon="7.7309055"/><trkpt lat="50.1424686" lon="7.7308647"/><trkpt lat="50.1424007" lon="7.7308405"/><trkpt lat="50.1423453" lon="7.7308665"/><trkpt lat="50.1423078" lon="7.7309418"/><trkpt lat="50.1422923" lon="7.7310468"/><trkpt lat="50.1423019" lon="7.7311471"/><trkpt lat="50.1423138" lon="7.7311852"/><trkpt lat="50.142317" lon="7.7312805"/><trkpt lat="50.142313" lon="7.7313145"/><trkpt lat="50.1422924" lon="7.7314913"/><trkpt lat="50.1422617" lon="7.7317992"/><trkpt lat="50.1423019" lon="7.731856"/><trkpt lat="50.1422985" lon="7.7319178"/><trkpt lat="50.1423246" lon="7.7319279"/><trkpt lat="50.1423663" lon="7.7319441"/><trkpt lat="50.142421" lon="7.7319553"/><trkpt lat="50.1424237" lon="7.7318854"/><trkpt lat="50.1424279" lon="7.7318749"/><trkpt lat="50.1424351" lon="7.731867"/><trkpt lat="50.1424439" lon="7.731867"/><trkpt lat="50.1424528" lon="7.7318749"/><trkpt lat="50.1424587" lon="7.731888"/><trkpt lat="50.1424603" lon="7.731957"/><trkpt lat="50.1425158" lon="7.7319572"/><trkpt lat="50.1425958" lon="7.7319309"/><trkpt lat="50.1426682" lon="7.7318849"/><trkpt lat="50.1427631" lon="7.7317989"/><trkpt lat="50.142737" lon="7.7317438"/><trkpt lat="50.1427334" lon="7.7317188"/><trkpt lat="50.1427358" lon="7.7316946"/><trkpt lat="50.1427507" lon="7.7316779"/><trkpt lat="50.1427632" lon="7.7316769"/><trkpt lat="50.1427787" lon="7.7316872"/><trkpt lat="50.1428051" lon="7.7317467"/><trkpt lat="50.1428594" lon="7.731676"/><trkpt lat="50.1429082" lon="7.7315722"/><trkpt lat="50.1429402" lon="7.731475"/><trkpt lat="50.1429663" lon="7.7313777"/><trkpt lat="50.1429819" lon="7.7313153"/><trkpt lat="50.1429684" lon="7.7312995"/><trkpt lat="50.1429516" lon="7.731264"/><trkpt lat="50.1429415" lon="7.731222"/><trkpt lat="50.1429389" lon="7.7311681"/><trkpt lat="50.1429457" lon="7.7311208"/><trkpt lat="50.14296" lon="7.7310814"/><trkpt lat="50.1429252" lon="7.7310751"/><trkpt lat="50.1427333" lon="7.7310122"/><trkpt lat="50.1426632" lon="7.7309892"/><trkpt lat="50.14258" lon="7.7309618"/></trkseg></trk><trk><name>Spectakel Theaterscheune</name><desc>addr:housenumber=18
+addr:postcode=56869
+addr:street=Mühlenweg
+amenity=theatre
+building=yes
+name=Spectakel Theaterscheune
+id=way/331852924</desc><trkseg><trkpt lat="50.0675313" lon="7.3614719"/><trkpt lat="50.0673305" lon="7.361611"/><trkpt lat="50.0672932" lon="7.3614803"/><trkpt lat="50.0672429" lon="7.3615151"/><trkpt lat="50.067277" lon="7.3616347"/><trkpt lat="50.0672132" lon="7.3616789"/><trkpt lat="50.0672663" lon="7.3618652"/><trkpt lat="50.0675068" lon="7.3616987"/><trkpt lat="50.0674957" lon="7.3616599"/><trkpt lat="50.0675702" lon="7.3616083"/><trkpt lat="50.0675313" lon="7.3614719"/></trkseg></trk><trk><name>Schloßtheater Neuwied</name><desc>addr:city=Neuwied
+addr:country=DE
+addr:housenumber=3
+addr:postcode=56564
+addr:street=Theaterplatz
+amenity=theatre
+architect=Friedrich Wenz
+building=yes
+contact:email=info@schlosstheater-neuwied.de
+contact:phone=+49 2631 22288
+contact:website=https://schlosstheater.de/
+historic=building
+name=Schloßtheater Neuwied
+operator=Landesbühne Rheinland-Pfalz gGmbH
+im Schlosstheater Neuwied
+start_date=1799
+wheelchair=limited
+wikidata=Q46916761
+wikipedia=de:Schlosstheater Neuwied
+id=way/339712413</desc><trkseg><trkpt lat="50.4299163" lon="7.4558997"/><trkpt lat="50.4297526" lon="7.4553923"/><trkpt lat="50.4296416" lon="7.4554806"/><trkpt lat="50.4298053" lon="7.4559879"/><trkpt lat="50.4299163" lon="7.4558997"/></trkseg></trk><trk><name>Ramon-Chormann-Theater</name><desc>addr:city=Kirchheimbolanden
+addr:housenumber=8
+addr:postcode=67292
+addr:street=Mühlstraße
+amenity=theatre
+building=yes
+check_date=2025-04-15
+name=Ramon-Chormann-Theater
+website=http://www.chormann.de/
+id=way/356804019</desc><trkseg><trkpt lat="49.6595852" lon="8.0183293"/><trkpt lat="49.6597616" lon="8.0182554"/><trkpt lat="49.6597526" lon="8.0180183"/><trkpt lat="49.6595692" lon="8.0180922"/><trkpt lat="49.6595852" lon="8.0183293"/></trkseg></trk><trk><name>Freilichtbühne Schuld</name><desc>amenity=theatre
+name=Freilichtbühne Schuld
+operator=Freilichtbühne Schuld e.V.
+website=http://www.freilichtbuehne-schuld.de/
+id=way/358957621</desc><trkseg><trkpt lat="50.4437331" lon="6.8966036"/><trkpt lat="50.4436344" lon="6.8961505"/><trkpt lat="50.4432326" lon="6.8963876"/><trkpt lat="50.4433811" lon="6.8969831"/><trkpt lat="50.4437331" lon="6.8966036"/></trkseg></trk><trk><name>Römisches Theater</name><desc>alt_name=Römisches Bühnentheater
+amenity=theatre
+building=tomb
+historic=archaeological_site
+historic:civilization=ancient_roman
+name=Römisches Theater
+name:en=Roman Theatre
+name:ru=Римский театр в Майнце
+wheelchair=yes
+wikidata=Q454527
+wikimedia_commons=Category:Roman theater in Mainz
+wikipedia=de:Römisches Theater Mainz
+id=way/392796352</desc><trkseg><trkpt lat="49.993105" lon="8.2782793"/><trkpt lat="49.9931599" lon="8.2780487"/><trkpt lat="49.9932158" lon="8.2778041"/><trkpt lat="49.9931978" lon="8.2777924"/><trkpt lat="49.9931723" lon="8.2777866"/><trkpt lat="49.9931426" lon="8.2777866"/><trkpt lat="49.9930957" lon="8.2777994"/><trkpt lat="49.9930548" lon="8.2778339"/><trkpt lat="49.9930301" lon="8.2778701"/><trkpt lat="49.9930072" lon="8.2779209"/><trkpt lat="49.9929925" lon="8.2779804"/><trkpt lat="49.9929876" lon="8.2780429"/><trkpt lat="49.9929948" lon="8.2781164"/><trkpt lat="49.9930098" lon="8.2781707"/><trkpt lat="49.9930417" lon="8.2782291"/><trkpt lat="49.9930766" lon="8.2782658"/><trkpt lat="49.993105" lon="8.2782793"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+id=way/436084340</desc><trkseg><trkpt lat="49.8707609" lon="8.3367331"/><trkpt lat="49.8706572" lon="8.3368109"/><trkpt lat="49.8706693" lon="8.3368538"/><trkpt lat="49.8707764" lon="8.3367787"/><trkpt lat="49.8707609" lon="8.3367331"/></trkseg></trk><trk><name>Freilichtbühne Pützbacher Kopf</name><desc>amenity=theatre
+name=Freilichtbühne Pützbacher Kopf
+operator=Ortsgemeinde Gemünden
+id=way/495201563</desc><trkseg><trkpt lat="49.8943474" lon="7.4650029"/><trkpt lat="49.8940707" lon="7.4652714"/><trkpt lat="49.8940767" lon="7.4655376"/><trkpt lat="49.8943433" lon="7.4657077"/><trkpt lat="49.8943595" lon="7.465701"/><trkpt lat="49.8943971" lon="7.4655586"/><trkpt lat="49.8944106" lon="7.4654115"/><trkpt lat="49.8944001" lon="7.4652387"/><trkpt lat="49.8943805" lon="7.4651126"/><trkpt lat="49.8943474" lon="7.4650029"/></trkseg></trk><trk><name>Freilichtbühne Karl-May-Freunde</name><desc>amenity=theatre
+name=Freilichtbühne Karl-May-Freunde
+open_air=yes
+tourism=attraction
+website=https://www.karl-may-freunde.de/
+id=way/504541982</desc><trkseg><trkpt lat="49.6924785" lon="6.7199213"/><trkpt lat="49.6925796" lon="6.7204544"/><trkpt lat="49.6924026" lon="6.7207414"/><trkpt lat="49.6924165" lon="6.7210954"/><trkpt lat="49.692505" lon="6.7215729"/><trkpt lat="49.6924191" lon="6.7220879"/><trkpt lat="49.6928464" lon="6.7228724"/><trkpt lat="49.6934402" lon="6.7217305"/><trkpt lat="49.6924785" lon="6.7199213"/></trkseg></trk><trk><name>Das kleine Volkstheater Trier</name><desc>amenity=theatre
+building=yes
+name=Das kleine Volkstheater Trier
+id=way/658518044</desc><trkseg><trkpt lat="49.7139647" lon="6.628538"/><trkpt lat="49.7139425" lon="6.6287922"/><trkpt lat="49.7142967" lon="6.6288663"/><trkpt lat="49.7143082" lon="6.6287342"/><trkpt lat="49.7143455" lon="6.6287419"/><trkpt lat="49.7143561" lon="6.6286199"/><trkpt lat="49.7139647" lon="6.628538"/></trkseg></trk><trk><name>Edesheimer Seebühne</name><desc>amenity=theatre
+name=Edesheimer Seebühne
+theatre:type=open_air
+id=way/820406595</desc><trkseg><trkpt lat="49.2623812" lon="8.1319642"/><trkpt lat="49.2624119" lon="8.1327528"/><trkpt lat="49.2626234" lon="8.1327114"/><trkpt lat="49.2625738" lon="8.1323417"/><trkpt lat="49.262818" lon="8.1322653"/><trkpt lat="49.2628022" lon="8.1321111"/><trkpt lat="49.2627265" lon="8.1321251"/><trkpt lat="49.2625287" lon="8.1318013"/><trkpt lat="49.2625045" lon="8.1318039"/><trkpt lat="49.2623812" lon="8.1319642"/></trkseg></trk><trk><name>way/846864595</name><desc>amenity=theatre
+theatre:type=open_air
+id=way/846864595</desc><trkseg><trkpt lat="50.392121" lon="7.6268335"/><trkpt lat="50.3920353" lon="7.6268215"/><trkpt lat="50.3920307" lon="7.6269024"/><trkpt lat="50.3921164" lon="7.6269144"/><trkpt lat="50.392121" lon="7.6268335"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+theatre:type=open_air
+id=way/860217787</desc><trkseg><trkpt lat="50.685324" lon="7.5100554"/><trkpt lat="50.6853156" lon="7.5100415"/><trkpt lat="50.6852983" lon="7.5100162"/><trkpt lat="50.685276" lon="7.5100007"/><trkpt lat="50.6852555" lon="7.5099884"/><trkpt lat="50.6852318" lon="7.509987"/><trkpt lat="50.6851773" lon="7.5099898"/><trkpt lat="50.6851839" lon="7.5101249"/><trkpt lat="50.6851547" lon="7.5101817"/><trkpt lat="50.6851622" lon="7.5102387"/><trkpt lat="50.6851813" lon="7.5102652"/><trkpt lat="50.6852096" lon="7.5102766"/><trkpt lat="50.6852304" lon="7.5102734"/><trkpt lat="50.6852428" lon="7.5102615"/><trkpt lat="50.6852532" lon="7.5102373"/><trkpt lat="50.6853335" lon="7.5102998"/><trkpt lat="50.6853474" lon="7.5102492"/><trkpt lat="50.6853512" lon="7.5102241"/><trkpt lat="50.6853538" lon="7.5101767"/><trkpt lat="50.68535" lon="7.5101284"/><trkpt lat="50.6853358" lon="7.5100787"/><trkpt lat="50.685324" lon="7.5100554"/></trkseg></trk><trk><name>way/1178787067</name><desc>amenity=theatre
+theatre:type=open_air
+id=way/1178787067</desc><trkseg><trkpt lat="50.4027689" lon="7.6323432"/><trkpt lat="50.4026052" lon="7.6323744"/><trkpt lat="50.4024251" lon="7.6322269"/><trkpt lat="50.4024444" lon="7.6321398"/><trkpt lat="50.4023764" lon="7.632067"/><trkpt lat="50.4021687" lon="7.6318993"/><trkpt lat="50.4018495" lon="7.6326904"/><trkpt lat="50.4017407" lon="7.6333001"/><trkpt lat="50.4018194" lon="7.6335614"/><trkpt lat="50.4019998" lon="7.6334343"/><trkpt lat="50.4020738" lon="7.6336557"/><trkpt lat="50.4023991" lon="7.6333662"/><trkpt lat="50.4027112" lon="7.6331422"/><trkpt lat="50.4028687" lon="7.6330793"/><trkpt lat="50.4027689" lon="7.6323432"/></trkseg></trk><trk><name>Tunneltheater</name><desc>amenity=theatre
+name=Tunneltheater
+theatre:type=open_air
+id=way/1319189441</desc><trkseg><trkpt lat="49.9701564" lon="7.8826408"/><trkpt lat="49.9700494" lon="7.8825898"/><trkpt lat="49.9700331" lon="7.8828688"/><trkpt lat="49.9701159" lon="7.8828688"/><trkpt lat="49.9701564" lon="7.8826408"/></trkseg></trk></gpx>

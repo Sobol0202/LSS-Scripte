@@ -1,0 +1,2651 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="50.3555867" lon="7.4793613"><name>Kreuz Koblenz</name><desc>highway=motorway_junction
+name=Kreuz Koblenz
+ref=9
+id=node/159983</desc></wpt><wpt lat="50.4102028" lon="7.2365832"><name>Wehr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11995
+TMC:cid_58:tabcd_1:NextLocationCode=11996
+TMC:cid_58:tabcd_1:PrevLocationCode=55278
+highway=motorway_junction
+name=Wehr
+ref=33
+id=node/160021</desc></wpt><wpt lat="50.3851999" lon="7.2741602"><name>Mendig</name><desc>highway=motorway_junction
+name=Mendig
+ref=34
+id=node/160029</desc></wpt><wpt lat="50.0025536" lon="8.1123061"><name>Raststätte Heidenfahrt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11938
+TMC:cid_58:tabcd_1:NextLocationCode=11939
+TMC:cid_58:tabcd_1:PrevLocationCode=55286
+highway=motorway_junction
+name=Raststätte Heidenfahrt
+noref=yes
+id=node/162848</desc></wpt><wpt lat="49.935264" lon="7.9411775"><name>Dreieck Nahetal</name><desc>highway=motorway_junction
+name=Dreieck Nahetal
+ref=12
+id=node/162886</desc></wpt><wpt lat="49.9311582" lon="7.9288451"><name>Dreieck Nahetal</name><desc>highway=motorway_junction
+name=Dreieck Nahetal
+ref=50
+id=node/162902</desc></wpt><wpt lat="49.9322158" lon="7.9111007"><name>Bingen Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LocationCode=11976
+highway=motorway_junction
+name=Bingen Mitte
+ref=49
+id=node/162911</desc></wpt><wpt lat="49.929851" lon="7.8742145"><name>Dorsheim</name><desc>highway=motorway_junction
+name=Dorsheim
+ref=48
+id=node/162921</desc></wpt><wpt lat="49.9959254" lon="7.6895015"><name>Rheinböllen</name><desc>highway=motorway_junction
+name=Rheinböllen
+ref=45
+id=node/163015</desc></wpt><wpt lat="49.9944726" lon="7.6561309"><name>node/163024</name><desc>highway=motorway_junction
+id=node/163024</desc></wpt><wpt lat="49.9739971" lon="7.5844648"><name>node/163041</name><desc>highway=motorway_junction
+id=node/163041</desc></wpt><wpt lat="49.9809892" lon="7.5387259"><name>node/163062</name><desc>highway=motorway_junction
+id=node/163062</desc></wpt><wpt lat="49.9743534" lon="7.5210139"><name>node/163069</name><desc>highway=motorway_junction
+id=node/163069</desc></wpt><wpt lat="49.8932523" lon="7.9445021"><name>Bad Kreuznach</name><desc>highway=motorway_junction
+name=Bad Kreuznach
+ref=51
+id=node/163174</desc></wpt><wpt lat="49.5495926" lon="8.3150626"><name>Kreuz Frankenthal</name><desc>highway=motorway_junction
+name=Kreuz Frankenthal
+ref=59
+id=node/163293</desc></wpt><wpt lat="50.035063" lon="7.6478029"><name>node/163644</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11
+TMC:cid_58:tabcd_1:LocationCode=55192
+TMC:cid_58:tabcd_1:NextLocationCode=55191
+TMC:cid_58:tabcd_1:PrevLocationCode=11981
+highway=motorway_junction
+noref=yes
+type=TMC
+id=node/163644</desc></wpt><wpt lat="50.0747116" lon="7.6244951"><name>Laudert</name><desc>highway=motorway_junction
+name=Laudert
+ref=44
+id=node/163654</desc></wpt><wpt lat="50.3552877" lon="7.4895745"><name>Kreuz Koblenz</name><desc>highway=motorway_junction
+name=Kreuz Koblenz
+ref=37
+id=node/163688</desc></wpt><wpt lat="50.2406477" lon="7.5141558"><name>Koblenz / Waldesch</name><desc>highway=motorway_junction
+name=Koblenz / Waldesch
+ref=40
+id=node/163711</desc></wpt><wpt lat="49.4714721" lon="8.3128171"><name>Kreuz Ludwigshafen</name><desc>highway=motorway_junction
+name=Kreuz Ludwigshafen
+ref=60
+id=node/163781</desc></wpt><wpt lat="50.3168759" lon="7.3104894"><name>Polch</name><desc>highway=motorway_junction
+name=Polch
+ref=7
+id=node/163976</desc></wpt><wpt lat="50.2410704" lon="7.0452468"><name>Rastplatz Höchstberg</name><desc>highway=motorway_junction
+name=Rastplatz Höchstberg
+noref=yes
+id=node/164050</desc></wpt><wpt lat="50.1882896" lon="6.90802"><name>Dreieck Vulkaneifel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11508
+TMC:cid_58:tabcd_1:NextLocationCode=11509
+highway=motorway_junction
+name=Dreieck Vulkaneifel
+ref=1
+id=node/167489</desc></wpt><wpt lat="50.2376296" lon="7.0816262"><name>Laubach</name><desc>highway=motorway_junction
+name=Laubach
+ref=3
+id=node/167502</desc></wpt><wpt lat="50.526306" lon="7.1887163"><name>Dreieck Sinzig</name><desc>highway=motorway_junction
+name=Dreieck Sinzig
+ref=31
+id=node/167580</desc></wpt><wpt lat="50.5896176" lon="7.0395749"><name>Kreuz Meckenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12000
+TMC:cid_58:tabcd_1:NextLocationCode=12001
+TMC:cid_58:tabcd_1:PrevLocationCode=55283
+check_date=2024-04-02
+highway=motorway_junction
+name=Kreuz Meckenheim
+ref=29
+id=node/167595</desc></wpt><wpt lat="49.4329161" lon="7.5150289"><name>Hütschenhausen</name><desc>highway=motorway_junction
+name=Hütschenhausen
+ref=9
+id=node/342842</desc></wpt><wpt lat="49.4128081" lon="7.531566"><name>Landstuhl-West</name><desc>highway=motorway_junction
+name=Landstuhl-West
+id=node/342851</desc></wpt><wpt lat="49.4461841" lon="7.6966714"><name>Kaiserslautern-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11864
+TMC:cid_58:tabcd_1:NextLocationCode=11865
+TMC:cid_58:tabcd_1:PrevLocationCode=11863
+highway=motorway_junction
+name=Kaiserslautern-West
+ref=15
+id=node/350548</desc></wpt><wpt lat="49.2053304" lon="8.0839791"><name>Landau-Godramstein / Landau-Arzheim</name><desc>highway=motorway_junction
+name=Landau-Godramstein / Landau-Arzheim
+id=node/361513</desc></wpt><wpt lat="49.2156205" lon="8.1285259"><name>Landau-Nußdorf / Edesheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=55132
+TMC:cid_58:tabcd_1:NextLocationCode=20284
+TMC:cid_58:tabcd_1:PrevLocationCode=55131
+highway=motorway_junction
+name=Landau-Nußdorf / Edesheim
+id=node/361537</desc></wpt><wpt lat="49.2139077" lon="8.1427088"><name>Dreieck Landau-Nord</name><desc>highway=motorway_junction
+name=Dreieck Landau-Nord
+ref=15
+id=node/361553</desc></wpt><wpt lat="49.1928616" lon="8.1492245"><name>Landau-Zentrum</name><desc>highway=motorway_junction
+name=Landau-Zentrum
+ref=16
+id=node/361567</desc></wpt><wpt lat="50.4536765" lon="7.7774654"><name>Dreieck Dernbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10890
+TMC:cid_58:tabcd_1:NextLocationCode=10891
+TMC:cid_58:tabcd_1:PrevLocationCode=10889
+highway=motorway_junction
+name=Dreieck Dernbach
+ref=39
+id=node/378104</desc></wpt><wpt lat="50.4461013" lon="7.8283143"><name>Montabaur</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10889
+TMC:cid_58:tabcd_1:NextLocationCode=10890
+TMC:cid_58:tabcd_1:PrevLocationCode=10888
+highway=motorway_junction
+name=Montabaur
+ref=40
+id=node/378120</desc></wpt><wpt lat="50.4488615" lon="7.8539962"><name>Montabaur</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10889
+TMC:cid_58:tabcd_1:NextLocationCode=10890
+TMC:cid_58:tabcd_1:PrevLocationCode=10888
+highway=motorway_junction
+name=Montabaur
+ref=40
+id=node/378146</desc></wpt><wpt lat="50.4125455" lon="7.9407959"><name>Diez</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10885
+TMC:cid_58:tabcd_1:NextLocationCode=10886
+TMC:cid_58:tabcd_1:PrevLocationCode=10884
+highway=motorway_junction
+name=Diez
+ref=41
+id=node/378256</desc></wpt><wpt lat="50.413605" lon="7.9481214"><name>Diez</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10885
+TMC:cid_58:tabcd_1:NextLocationCode=10886
+TMC:cid_58:tabcd_1:PrevLocationCode=10884
+highway=motorway_junction
+name=Diez
+ref=41
+id=node/378259</desc></wpt><wpt lat="50.4838633" lon="7.7532927"><name>Ransbach-Baumbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10891
+TMC:cid_58:tabcd_1:NextLocationCode=55253
+TMC:cid_58:tabcd_1:PrevLocationCode=10890
+highway=motorway_junction
+name=Ransbach-Baumbach
+ref=38
+id=node/398290</desc></wpt><wpt lat="50.4851548" lon="7.750632"><name>Ransbach-Baumbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10891
+TMC:cid_58:tabcd_1:NextLocationCode=55253
+TMC:cid_58:tabcd_1:PrevLocationCode=10890
+highway=motorway_junction
+name=Ransbach-Baumbach
+ref=38
+id=node/398293</desc></wpt><wpt lat="50.5454273" lon="7.5870271"><name>Rastplatz Urbacher Wald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10895
+TMC:cid_58:tabcd_1:NextLocationCode=55254
+TMC:cid_58:tabcd_1:PrevLocationCode=10894
+highway=motorway_junction
+name=Rastplatz Urbacher Wald
+id=node/398646</desc></wpt><wpt lat="49.1568107" lon="8.1551366"><name>Insheim</name><desc>highway=motorway_junction
+name=Insheim
+ref=18
+id=node/411573</desc></wpt><wpt lat="49.139654" lon="8.1656754"><name>Rohrbach</name><desc>highway=motorway_junction
+name=Rohrbach
+ref=19
+id=node/411591</desc></wpt><wpt lat="49.0395644" lon="8.2834084"><name>Wörther Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20285
+TMC:cid_58:tabcd_1:NextLocationCode=55117
+TMC:cid_58:tabcd_1:PrevLocationCode=20284
+highway=motorway_junction
+name=Wörther Kreuz
+ref=24
+id=node/412277</desc></wpt><wpt lat="49.039291" lon="8.2928765"><name>Maximiliansau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=55117
+TMC:cid_58:tabcd_1:NextLocationCode=55118
+TMC:cid_58:tabcd_1:PrevLocationCode=20285
+highway=motorway_junction
+name=Maximiliansau
+ref=25
+id=node/412288</desc></wpt><wpt lat="49.2450136" lon="7.3583231"><name>Zweibrücken-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12508
+TMC:cid_58:tabcd_1:NextLocationCode=12509
+TMC:cid_58:tabcd_1:PrevLocationCode=12507
+highway=motorway_junction
+name=Zweibrücken-Mitte
+ref=32
+id=node/488867</desc></wpt><wpt lat="49.2366795" lon="7.3953178"><name>Contwig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12510
+TMC:cid_58:tabcd_1:NextLocationCode=12511
+TMC:cid_58:tabcd_1:PrevLocationCode=12509
+highway=motorway_junction
+name=Contwig
+ref=34
+id=node/488937</desc></wpt><wpt lat="49.2266551" lon="7.3656099"><name>Zweibrücken-Ixheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12509
+TMC:cid_58:tabcd_1:NextLocationCode=12510
+TMC:cid_58:tabcd_1:PrevLocationCode=12508
+highway=motorway_junction
+name=Zweibrücken-Ixheim
+ref=33
+id=node/489001</desc></wpt><wpt lat="49.2487213" lon="7.3482435"><name>Zweibrücken-Ernstweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12507
+TMC:cid_58:tabcd_1:NextLocationCode=12508
+TMC:cid_58:tabcd_1:PrevLocationCode=12506
+ele=226.05
+highway=motorway_junction
+name=Zweibrücken-Ernstweiler
+ref=31
+id=node/489046</desc></wpt><wpt lat="49.5459326" lon="8.4007565"><name>Ludwigshafen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11873
+TMC:cid_58:tabcd_1:NextLocationCode=11874
+TMC:cid_58:tabcd_1:PrevLocationCode=11872
+highway=motorway_junction
+name=Ludwigshafen-Nord
+ref=23
+id=node/500087</desc></wpt><wpt lat="49.5544535" lon="8.3527622"><name>Frankenthal</name><desc>highway=motorway_junction
+name=Frankenthal
+ref=22
+id=node/500106</desc></wpt><wpt lat="49.526952" lon="8.0766902"><name>Wattenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11867
+TMC:cid_58:tabcd_1:NextLocationCode=11868
+TMC:cid_58:tabcd_1:PrevLocationCode=55299
+highway=motorway_junction
+name=Wattenheim
+ref=18
+id=node/500265</desc></wpt><wpt lat="49.4564363" lon="7.8106736"><name>Dreieck Kaiserslautern</name><desc>highway=motorway_junction
+name=Dreieck Kaiserslautern
+ref=16a
+id=node/500470</desc></wpt><wpt lat="49.442253" lon="7.6572778"><name>Kaiserslautern-Einsiedlerhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11863
+TMC:cid_58:tabcd_1:NextLocationCode=11864
+TMC:cid_58:tabcd_1:PrevLocationCode=40509
+highway=motorway_junction
+name=Kaiserslautern-Einsiedlerhof
+ref=14
+id=node/500559</desc></wpt><wpt lat="49.4188304" lon="7.535347"><name>Kreuz Landstuhl-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11861
+TMC:cid_58:tabcd_1:NextLocationCode=11862
+TMC:cid_58:tabcd_1:PrevLocationCode=55293
+ele=242.39
+highway=motorway_junction
+name=Kreuz Landstuhl-West
+ref=12
+id=node/500599</desc></wpt><wpt lat="49.3894216" lon="7.4398699"><name>Bruchmühlbach-Miesau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11860
+TMC:cid_58:tabcd_1:NextLocationCode=55292
+TMC:cid_58:tabcd_1:PrevLocationCode=55291
+highway=motorway_junction
+name=Bruchmühlbach-Miesau
+ref=11
+id=node/500620</desc></wpt><wpt lat="49.3716152" lon="7.3686364"><name>Waldmohr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11858
+TMC:cid_58:tabcd_1:NextLocationCode=11859
+TMC:cid_58:tabcd_1:PrevLocationCode=11857
+highway=motorway_junction
+name=Waldmohr
+ref=10
+id=node/500986</desc></wpt><wpt lat="49.3896942" lon="7.4408126"><name>Bruchmühlbach-Miesau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11860
+TMC:cid_58:tabcd_1:NextLocationCode=55292
+TMC:cid_58:tabcd_1:PrevLocationCode=55291
+highway=motorway_junction
+name=Bruchmühlbach-Miesau
+ref=11
+id=node/501018</desc></wpt><wpt lat="49.4149763" lon="7.5213105"><name>Kreuz Landstuhl-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11861
+TMC:cid_58:tabcd_1:NextLocationCode=11862
+TMC:cid_58:tabcd_1:PrevLocationCode=55293
+ele=240.47
+highway=motorway_junction
+name=Kreuz Landstuhl-West
+ref=12
+id=node/501051</desc></wpt><wpt lat="49.5270162" lon="8.0678287"><name>Wattenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11867
+TMC:cid_58:tabcd_1:NextLocationCode=11868
+TMC:cid_58:tabcd_1:PrevLocationCode=55299
+highway=motorway_junction
+name=Wattenheim
+ref=18
+id=node/501459</desc></wpt><wpt lat="49.5521363" lon="8.1845655"><name>Grünstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11869
+TMC:cid_58:tabcd_1:NextLocationCode=55301
+TMC:cid_58:tabcd_1:PrevLocationCode=55300
+ele=177.02
+highway=motorway_junction
+name=Grünstadt
+ref=19
+id=node/501627</desc></wpt><wpt lat="49.5503076" lon="8.388497"><name>Ludwigshafen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11873
+TMC:cid_58:tabcd_1:NextLocationCode=11874
+TMC:cid_58:tabcd_1:PrevLocationCode=11872
+highway=motorway_junction
+name=Ludwigshafen-Nord
+ref=23
+id=node/501714</desc></wpt><wpt lat="49.4617313" lon="7.79511"><name>Dreieck Kaiserslautern</name><desc>ele=301.51
+highway=motorway_junction
+name=Dreieck Kaiserslautern
+ref=16a
+id=node/502371</desc></wpt><wpt lat="49.9674209" lon="8.254405"><name>Mainz-Hechtsheim West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=40512
+TMC:cid_58:tabcd_1:NextLocationCode=11944
+TMC:cid_58:tabcd_1:PrevLocationCode=11943
+highway=motorway_junction
+name=Mainz-Hechtsheim West
+ref=22a
+id=node/506675</desc></wpt><wpt lat="49.9715694" lon="8.3153523"><name>Mainz-Innenstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11946
+TMC:cid_58:tabcd_1:NextLocationCode=11947
+TMC:cid_58:tabcd_1:PrevLocationCode=11945
+highway=motorway_junction
+layer=1
+name=Mainz-Innenstadt
+ref=24
+id=node/506852</desc></wpt><wpt lat="49.9702672" lon="8.3091045"><name>Mainz-Laubenheim</name><desc>ele=107.32
+highway=motorway_junction
+name=Mainz-Laubenheim
+ref=24
+id=node/506855</desc></wpt><wpt lat="49.9737873" lon="8.2925495"><name>Mainz-Weisenau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11945
+TMC:cid_58:tabcd_1:NextLocationCode=11946
+TMC:cid_58:tabcd_1:PrevLocationCode=55021
+highway=motorway_junction
+name=Mainz-Weisenau
+ref=23
+id=node/506878</desc></wpt><wpt lat="49.965087" lon="8.2454319"><name>Kreuz Mainz-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11943
+TMC:cid_58:tabcd_1:NextLocationCode=40512
+TMC:cid_58:tabcd_1:PrevLocationCode=11942
+ele=203
+highway=motorway_junction
+name=Kreuz Mainz-Süd
+ref=21
+id=node/662471</desc></wpt><wpt lat="49.9661602" lon="8.226871"><name>Mainz-Lerchenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11942
+TMC:cid_58:tabcd_1:NextLocationCode=11943
+TMC:cid_58:tabcd_1:PrevLocationCode=11941
+ele=206
+highway=motorway_junction
+name=Mainz-Lerchenberg
+ref=20
+id=node/662528</desc></wpt><wpt lat="50.0139138" lon="8.2037252"><name>Mainz-Gonsenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12097
+TMC:cid_58:tabcd_1:NextLocationCode=12098
+TMC:cid_58:tabcd_1:PrevLocationCode=12096
+highway=motorway_junction
+name=Mainz-Gonsenheim
+ref=5
+id=node/2412833</desc></wpt><wpt lat="50.003058" lon="8.1860927"><name>Dreieck Mainz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12096
+TMC:cid_58:tabcd_1:NextLocationCode=12097
+ele=158.75
+exit_to=A 60 Kaiserslautern Darmstadt Mainz-Finthen
+highway=motorway_junction
+name=Dreieck Mainz
+ref=6
+id=node/2412915</desc></wpt><wpt lat="49.9899645" lon="8.190906"><name>Mainz-Finthen</name><desc>ele=166.93
+highway=motorway_junction
+name=Mainz-Finthen
+ref=19
+id=node/2413408</desc></wpt><wpt lat="49.3071643" lon="8.4198652"><name>Speyer-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=29857
+TMC:cid_58:tabcd_1:NextLocationCode=29858
+TMC:cid_58:tabcd_1:PrevLocationCode=23148
+ele=100.6
+highway=motorway_junction
+name=Speyer-Süd
+note=ohne Verzögerungsstreifen
+id=node/3390412</desc></wpt><wpt lat="49.046517" lon="8.2770329"><name>Wörth (Rhein)</name><desc>highway=motorway_junction
+name=Wörth (Rhein)
+id=node/3390561</desc></wpt><wpt lat="49.9638864" lon="8.238389"><name>Kreuz Mainz-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=12094
+TMC:cid_58:tabcd_1:PrevLocationCode=12093
+highway=motorway_junction
+layer=1
+name=Kreuz Mainz-Süd
+ref=2
+id=node/8023957</desc></wpt><wpt lat="49.9127202" lon="8.1928636"><name>Nieder-Olm</name><desc>ele=88.58
+highway=motorway_junction
+name=Nieder-Olm
+ref=4
+id=node/8024030</desc></wpt><wpt lat="49.7953939" lon="8.1411679"><name>Biebelnheim</name><desc>highway=motorway_junction
+name=Biebelnheim
+ref=7
+id=node/8024129</desc></wpt><wpt lat="49.7798211" lon="8.1199571"><name>Kreuz Alzey</name><desc>highway=motorway_junction
+name=Kreuz Alzey
+ref=8
+id=node/8024148</desc></wpt><wpt lat="49.4623317" lon="7.8102509"><name>Dreieck Kaiserslautern</name><desc>highway=motorway_junction
+name=Dreieck Kaiserslautern
+ref=15
+id=node/8024540</desc></wpt><wpt lat="49.7156018" lon="8.0734925"><name>Freimersheim</name><desc>highway=motorway_junction
+name=Freimersheim
+ref=10
+id=node/8033444</desc></wpt><wpt lat="49.771831" lon="8.1038118"><name>Kreuz Alzey</name><desc>highway=motorway_junction
+name=Kreuz Alzey
+ref=8
+id=node/8033505</desc></wpt><wpt lat="49.962073" lon="8.2364058"><name>Kreuz Mainz-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=12094
+TMC:cid_58:tabcd_1:PrevLocationCode=12093
+highway=motorway_junction
+name=Kreuz Mainz-Süd
+ref=2
+id=node/8033684</desc></wpt><wpt lat="49.5155049" lon="7.3827251"><name>Kusel</name><desc>highway=motorway_junction
+name=Kusel
+ref=7
+id=node/17183481</desc></wpt><wpt lat="49.0396994" lon="8.290716"><name>Maximiliansau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=55117
+TMC:cid_58:tabcd_1:NextLocationCode=55118
+TMC:cid_58:tabcd_1:PrevLocationCode=20285
+highway=motorway_junction
+name=Maximiliansau
+ref=25
+id=node/18236795</desc></wpt><wpt lat="49.0395669" lon="8.2745096"><name>Wörther Kreuz</name><desc>highway=motorway_junction
+name=Wörther Kreuz
+ref=24
+id=node/18236807</desc></wpt><wpt lat="49.1557922" lon="8.1548088"><name>Insheim</name><desc>highway=motorway_junction
+name=Insheim
+ref=18
+id=node/18236897</desc></wpt><wpt lat="49.0448059" lon="8.2776375"><name>Wörth (Rhein)</name><desc>highway=motorway_junction
+name=Wörth (Rhein)
+id=node/18306752</desc></wpt><wpt lat="49.097841" lon="8.3029706"><name>Kieswerk</name><desc>highway=motorway_junction
+name=Kieswerk
+id=node/18306774</desc></wpt><wpt lat="49.4525565" lon="7.8232944"><name>Kaiserslautern-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=40336
+TMC:cid_58:tabcd_1:NextLocationCode=55294
+TMC:cid_58:tabcd_1:PrevLocationCode=48382
+ele=276.52
+highway=motorway_junction
+name=Kaiserslautern-Ost
+ref=16b
+id=node/20630330</desc></wpt><wpt lat="49.8115757" lon="6.7556689"><name>Dreieck Moseltal</name><desc>highway=motorway_junction
+name=Dreieck Moseltal
+ref=4
+id=node/20834238</desc></wpt><wpt lat="50.4555976" lon="7.7495272"><name>Dreieck Dernbach</name><desc>highway=motorway_junction
+name=Dreieck Dernbach
+ref=13
+id=node/20910850</desc></wpt><wpt lat="49.9691924" lon="8.2199354"><name>Mainz-Lerchenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11942
+TMC:cid_58:tabcd_1:NextLocationCode=11943
+TMC:cid_58:tabcd_1:PrevLocationCode=11941
+highway=motorway_junction
+name=Mainz-Lerchenberg
+ref=20
+id=node/21186010</desc></wpt><wpt lat="49.2113181" lon="7.6083688"><name>Rodalben/Husterhöhe</name><desc>highway=motorway_junction
+name=Rodalben/Husterhöhe
+id=node/21520104</desc></wpt><wpt lat="49.5393222" lon="8.394592"><name>node/21649041</name><desc>destination=Frankenthal;Ludwigshafen-Süd
+highway=motorway_junction
+id=node/21649041</desc></wpt><wpt lat="49.493902" lon="8.434305"><name>Stadtteil Nord</name><desc>highway=motorway_junction
+name=Stadtteil Nord
+id=node/21649541</desc></wpt><wpt lat="49.4181379" lon="7.5274757"><name>Kreuz Landstuhl-West</name><desc>highway=motorway_junction
+name=Kreuz Landstuhl-West
+ref=10
+id=node/22320025</desc></wpt><wpt lat="49.4160879" lon="7.5288657"><name>Kreuz Landstuhl-West</name><desc>highway=motorway_junction
+name=Kreuz Landstuhl-West
+ref=10
+id=node/22322125</desc></wpt><wpt lat="49.6072171" lon="8.3820544"><name>node/24983347</name><desc>highway=motorway_junction
+noref=yes
+id=node/24983347</desc></wpt><wpt lat="49.4546183" lon="8.3580632"><name>Dreieck Ludwigshafen-Süd</name><desc>highway=motorway_junction
+name=Dreieck Ludwigshafen-Süd
+ref=5
+id=node/25397548</desc></wpt><wpt lat="49.4598857" lon="8.360832"><name>Dreieck Ludwigshafen-Süd</name><desc>highway=motorway_junction
+name=Dreieck Ludwigshafen-Süd
+id=node/25398410</desc></wpt><wpt lat="49.3777256" lon="8.2205537"><name>Deidesheim</name><desc>highway=motorway_junction
+name=Deidesheim
+ref=11
+id=node/25454515</desc></wpt><wpt lat="50.5845038" lon="7.026217"><name>Gelsdorf</name><desc>highway=motorway_junction
+name=Gelsdorf
+ref=13
+id=node/27000873</desc></wpt><wpt lat="50.5765978" lon="7.1131354"><name>node/27024072</name><desc>highway=motorway_junction
+id=node/27024072</desc></wpt><wpt lat="50.5732089" lon="7.1184549"><name>Dreieck Bad Neuenahr-Ahrweiler</name><desc>highway=motorway_junction
+name=Dreieck Bad Neuenahr-Ahrweiler
+ref=1
+id=node/27024077</desc></wpt><wpt lat="50.5528316" lon="7.1194589"><name>Bad Neuenahr-West</name><desc>highway=motorway_junction
+name=Bad Neuenahr-West
+ref=2
+id=node/27024088</desc></wpt><wpt lat="50.5541331" lon="7.1178054"><name>Bad Neuenahr-West</name><desc>highway=motorway_junction
+name=Bad Neuenahr-West
+ref=2
+id=node/27024095</desc></wpt><wpt lat="50.5754611" lon="7.1130254"><name>Dreieck Bad Neuenahr-Ahrweiler</name><desc>highway=motorway_junction
+name=Dreieck Bad Neuenahr-Ahrweiler
+ref=30
+id=node/27024112</desc></wpt><wpt lat="49.9320039" lon="7.918493"><name>Bingen Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LocationCode=11976
+highway=motorway_junction
+name=Bingen Mitte
+ref=49
+id=node/27077473</desc></wpt><wpt lat="49.9988723" lon="8.1359764"><name>Heidesheim</name><desc>highway=motorway_junction
+name=Heidesheim
+ref=17
+id=node/27342096</desc></wpt><wpt lat="49.9990819" lon="8.1319868"><name>Heidesheim</name><desc>highway=motorway_junction
+name=Heidesheim
+ref=17
+id=node/27342131</desc></wpt><wpt lat="49.9960371" lon="8.0939819"><name>Ingelheim Ost</name><desc>highway=motorway_junction
+name=Ingelheim Ost
+ref=16
+id=node/27342313</desc></wpt><wpt lat="49.9939031" lon="8.0851339"><name>Ingelheim Ost</name><desc>highway=motorway_junction
+name=Ingelheim Ost
+ref=16
+id=node/27342554</desc></wpt><wpt lat="50.0001066" lon="8.1704651"><name>Dreieck Mainz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11940
+TMC:cid_58:tabcd_1:NextLocationCode=11941
+TMC:cid_58:tabcd_1:PrevLocationCode=11939
+highway=motorway_junction
+name=Dreieck Mainz
+ref=18
+id=node/27342574</desc></wpt><wpt lat="50.302745" lon="7.4863851"><name>Koblenz / Dieblich</name><desc>highway=motorway_junction
+name=Koblenz / Dieblich
+ref=39
+id=node/27352696</desc></wpt><wpt lat="49.8865172" lon="7.9370322"><name>node/27361718</name><desc>highway=motorway_junction
+noref=yes
+id=node/27361718</desc></wpt><wpt lat="49.8939513" lon="7.9443055"><name>Bad Kreuznach</name><desc>highway=motorway_junction
+name=Bad Kreuznach
+ref=51
+id=node/27361740</desc></wpt><wpt lat="49.9698442" lon="6.5137062"><name>Bitburg-Zentrum</name><desc>highway=motorway_junction
+name=Bitburg-Zentrum
+noref=yes
+id=node/27377717</desc></wpt><wpt lat="49.9617858" lon="6.5147999"><name>Bitburg-Süd</name><desc>highway=motorway_junction
+name=Bitburg-Süd
+noref=yes
+id=node/27377986</desc></wpt><wpt lat="49.9176595" lon="6.5381231"><name>Eßlingen/Scharfbillig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=40796
+TMC:cid_58:tabcd_1:NextLocationCode=55097
+TMC:cid_58:tabcd_1:PrevLocationCode=55095
+highway=motorway_junction
+name=Eßlingen/Scharfbillig
+id=node/27378000</desc></wpt><wpt lat="50.6057129" lon="7.2206864"><name>Unkel</name><desc>highway=motorway_junction
+name=Unkel
+id=node/27409283</desc></wpt><wpt lat="49.9246156" lon="7.828009"><name>Waldlaubersheim</name><desc>highway=motorway_junction
+name=Waldlaubersheim
+ref=47
+id=node/28024088</desc></wpt><wpt lat="49.6210181" lon="8.3342937"><name>Horchheim</name><desc>highway=motorway_junction
+ref=Horchheim
+id=node/29060364</desc></wpt><wpt lat="49.2195535" lon="8.1423005"><name>Dreieck Landau-Nord</name><desc>highway=motorway_junction
+name=Dreieck Landau-Nord
+ref=15
+id=node/29335273</desc></wpt><wpt lat="49.9706714" lon="8.312699"><name>Mainz-Innenstadt</name><desc>ele=126.07
+highway=motorway_junction
+layer=1
+name=Mainz-Innenstadt
+ref=24
+id=node/29590893</desc></wpt><wpt lat="49.9799788" lon="6.9129323"><name>Wittlich-Mitte</name><desc>highway=motorway_junction
+name=Wittlich-Mitte
+ref=125
+id=node/30143874</desc></wpt><wpt lat="50.1655346" lon="6.8863506"><name>Mehren</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10031
+TMC:cid_58:tabcd_1:NextLocationCode=10032
+TMC:cid_58:tabcd_1:PrevLocationCode=10030
+highway=motorway_junction
+name=Mehren
+ref=121
+id=node/30144028</desc></wpt><wpt lat="49.7814542" lon="6.8351358"><name>Mehring</name><desc>highway=motorway_junction
+name=Mehring
+ref=131
+id=node/30208419</desc></wpt><wpt lat="49.6880944" lon="6.9011998"><name>Raststätte Hochwald Ost</name><desc>TMC:cid_58:tabcd_1:LocationCode=55143
+highway=motorway_junction
+name=Raststätte Hochwald Ost
+noref=yes
+id=node/30208454</desc></wpt><wpt lat="50.2420493" lon="7.2160875"><name>Kaifenheim</name><desc>highway=motorway_junction
+name=Kaifenheim
+ref=5
+id=node/30438893</desc></wpt><wpt lat="50.2168199" lon="7.1181204"><name>Rastplatz Martental</name><desc>highway=motorway_junction
+name=Rastplatz Martental
+noref=yes
+id=node/30438924</desc></wpt><wpt lat="50.2087172" lon="6.9740778"><name>Ulmen</name><desc>highway=motorway_junction
+name=Ulmen
+ref=2
+id=node/30438989</desc></wpt><wpt lat="50.4194227" lon="7.4195833"><name>Andernach Ost</name><desc>highway=motorway_junction
+name=Andernach Ost
+id=node/30439117</desc></wpt><wpt lat="50.4287451" lon="7.4882213"><name>Neuwied-Engers</name><desc>TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LocationCode=56408
+alt_name=Neuwied-Block
+highway=motorway_junction
+name=Neuwied-Engers
+id=node/30439255</desc></wpt><wpt lat="50.4201028" lon="7.4799027"><name>Neuwied-Sandkauler Weg</name><desc>highway=motorway_junction
+ref=Neuwied-Sandkauler Weg
+id=node/30439262</desc></wpt><wpt lat="49.3164162" lon="8.411535"><name>Speyer/Dudenhofen</name><desc>highway=motorway_junction
+name=Speyer/Dudenhofen
+id=node/30616517</desc></wpt><wpt lat="49.3338146" lon="8.4093653"><name>Speyer-West</name><desc>highway=motorway_junction
+name=Speyer-West
+id=node/30616526</desc></wpt><wpt lat="49.3459828" lon="8.4159612"><name>Speyer-Nord</name><desc>highway=motorway_junction
+name=Speyer-Nord
+id=node/30616533</desc></wpt><wpt lat="49.3513525" lon="8.4205604"><name>Kreuz Speyer</name><desc>highway=motorway_junction
+name=Kreuz Speyer
+id=node/30616535</desc></wpt><wpt lat="49.6730736" lon="6.919469"><name>Reinsfeld</name><desc>highway=motorway_junction
+name=Reinsfeld
+ref=132
+id=node/31108153</desc></wpt><wpt lat="49.5155938" lon="7.3675619"><name>Kusel</name><desc>highway=motorway_junction
+name=Kusel
+ref=7
+id=node/31108670</desc></wpt><wpt lat="50.5325023" lon="7.1928643"><name>Löhndorf</name><desc>highway=motorway_junction
+name=Löhndorf
+id=node/31303345</desc></wpt><wpt lat="50.5297436" lon="7.188451"><name>Dreieck Sinzig</name><desc>highway=motorway_junction
+name=Dreieck Sinzig
+noref=yes
+id=node/31303387</desc></wpt><wpt lat="50.3623985" lon="7.4892112"><name>Kreuz Koblenz</name><desc>highway=motorway_junction
+name=Kreuz Koblenz
+ref=9
+id=node/31305284</desc></wpt><wpt lat="50.3620455" lon="7.4780742"><name>Kreuz Koblenz</name><desc>highway=motorway_junction
+name=Kreuz Koblenz
+ref=37
+id=node/31305300</desc></wpt><wpt lat="50.4728521" lon="7.2276656"><name>Niederzissen</name><desc>highway=motorway_junction
+name=Niederzissen
+ref=32
+id=node/31305314</desc></wpt><wpt lat="50.3786617" lon="7.3875196"><name>Plaidt</name><desc>highway=motorway_junction
+name=Plaidt
+ref=36
+id=node/31305377</desc></wpt><wpt lat="49.9666347" lon="8.2417358"><name>Kreuz Mainz-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=23287
+TMC:cid_58:tabcd_1:NextLocationCode=40256
+highway=motorway_junction
+name=Kreuz Mainz-Süd
+ref=2
+id=node/31358526</desc></wpt><wpt lat="50.5669705" lon="7.5206307"><name>Neuwied</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10896
+TMC:cid_58:tabcd_1:NextLocationCode=10897
+TMC:cid_58:tabcd_1:PrevLocationCode=55254
+highway=motorway_junction
+name=Neuwied
+name:etymology:wikidata=Q3967
+ref=36
+id=node/32345398</desc></wpt><wpt lat="49.9459333" lon="7.7932502"><name>Stromberg</name><desc>highway=motorway_junction
+name=Stromberg
+ref=46
+id=node/32866019</desc></wpt><wpt lat="49.9998542" lon="7.6829431"><name>Rheinböllen</name><desc>highway=motorway_junction
+name=Rheinböllen
+ref=45
+id=node/32867514</desc></wpt><wpt lat="49.9990173" lon="7.677004"><name>Rheinböllen</name><desc>highway=motorway_junction
+name=Rheinböllen
+id=node/32867529</desc></wpt><wpt lat="49.9485342" lon="7.7913162"><name>Stromberg</name><desc>highway=motorway_junction
+name=Stromberg
+ref=46
+id=node/32868597</desc></wpt><wpt lat="50.5593069" lon="7.2463337"><name>node/33077901</name><desc>highway=motorway_junction
+id=node/33077901</desc></wpt><wpt lat="49.3532436" lon="8.4171921"><name>Kreuz Speyer</name><desc>highway=motorway_junction
+name=Kreuz Speyer
+ref=63
+id=node/33174221</desc></wpt><wpt lat="49.3479137" lon="8.41741"><name>Speyer-Nord</name><desc>highway=motorway_junction
+name=Speyer-Nord
+id=node/33174286</desc></wpt><wpt lat="49.3378831" lon="8.4104271"><name>Speyer-West</name><desc>highway=motorway_junction
+name=Speyer-West
+id=node/33174291</desc></wpt><wpt lat="49.3186741" lon="8.4111757"><name>Speyer/Dudenhofen</name><desc>highway=motorway_junction
+name=Speyer/Dudenhofen
+id=node/33174302</desc></wpt><wpt lat="49.3135739" lon="8.4111793"><name>Speyer-Süd</name><desc>highway=motorway_junction
+name=Speyer-Süd
+id=node/33174305</desc></wpt><wpt lat="49.3069226" lon="8.4204549"><name>Speyer-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=29857
+TMC:cid_58:tabcd_1:NextLocationCode=29858
+TMC:cid_58:tabcd_1:PrevLocationCode=23148
+highway=motorway_junction
+name=Speyer-Süd
+id=node/33175163</desc></wpt><wpt lat="49.3113159" lon="8.4408347"><name>Speyer-Zentrum</name><desc>highway=motorway_junction
+name=Speyer-Zentrum
+id=node/33177605</desc></wpt><wpt lat="49.2987899" lon="8.3975929"><name>Dudenhofen/ Römerberg</name><desc>highway=motorway_junction
+name=Dudenhofen/ Römerberg
+id=node/33183824</desc></wpt><wpt lat="49.147615" lon="8.3042393"><name>Rülzheim-Süd</name><desc>highway=motorway_junction
+name=Rülzheim-Süd
+id=node/33189694</desc></wpt><wpt lat="49.1837644" lon="8.3072102"><name>Bellheim-Süd</name><desc>highway=motorway_junction
+name=Bellheim-Süd
+id=node/33205848</desc></wpt><wpt lat="49.2196886" lon="8.3555077"><name>Germersheim-Mitte</name><desc>highway=motorway_junction
+name=Germersheim-Mitte
+id=node/33205882</desc></wpt><wpt lat="49.2323466" lon="8.3575554"><name>Germersheim-Nord</name><desc>highway=motorway_junction
+name=Germersheim-Nord
+id=node/33206011</desc></wpt><wpt lat="49.3137015" lon="8.4462529"><name>Speyer-Zentrum</name><desc>highway=motorway_junction
+name=Speyer-Zentrum
+id=node/33614987</desc></wpt><wpt lat="49.0426943" lon="8.276599"><name>Wörther Kreuz</name><desc>highway=motorway_junction
+name=Wörther Kreuz
+id=node/33761244</desc></wpt><wpt lat="49.039696" lon="8.2738664"><name>Wörther Kreuz</name><desc>highway=motorway_junction
+name=Wörther Kreuz
+ref=24
+id=node/33762216</desc></wpt><wpt lat="49.8157464" lon="6.5736455"><name>Newel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=40794
+TMC:cid_58:tabcd_1:NextLocationCode=48841
+TMC:cid_58:tabcd_1:PrevLocationCode=40795
+highway=motorway_junction
+name=Newel
+id=node/33974574</desc></wpt><wpt lat="50.1951965" lon="6.8951026"><name>Dreieck Vulkaneifel</name><desc>highway=motorway_junction
+name=Dreieck Vulkaneifel
+ref=120
+id=node/33997717</desc></wpt><wpt lat="49.6612252" lon="6.9222796"><name>Hermeskeil</name><desc>highway=motorway_junction
+name=Hermeskeil
+ref=133
+id=node/34001119</desc></wpt><wpt lat="49.6595178" lon="6.9226042"><name>Hermeskeil</name><desc>highway=motorway_junction
+name=Hermeskeil
+ref=133
+id=node/34001229</desc></wpt><wpt lat="49.9592593" lon="6.8492999"><name>Wittlich-West</name><desc>highway=motorway_junction
+name=Wittlich-West
+ref=10
+id=node/34423278</desc></wpt><wpt lat="50.2263772" lon="6.1938832"><name>Winterspelt</name><desc>highway=motorway_junction
+name=Winterspelt
+ref=2
+id=node/34428745</desc></wpt><wpt lat="49.4457431" lon="8.3217348"><name>Kreuz Mutterstadt</name><desc>highway=motorway_junction
+name=Kreuz Mutterstadt
+ref=61
+id=node/35301074</desc></wpt><wpt lat="49.3823672" lon="8.2509652"><name>Haßloch</name><desc>highway=motorway_junction
+name=Haßloch
+ref=10
+id=node/35301158</desc></wpt><wpt lat="49.1933247" lon="8.1490255"><name>Landau-Zentrum</name><desc>highway=motorway_junction
+name=Landau-Zentrum
+ref=16
+id=node/35330315</desc></wpt><wpt lat="49.4402646" lon="7.6491943"><name>Kaiserslautern-Einsiedlerhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11863
+TMC:cid_58:tabcd_1:NextLocationCode=11864
+TMC:cid_58:tabcd_1:PrevLocationCode=40509
+highway=motorway_junction
+name=Kaiserslautern-Einsiedlerhof
+ref=14
+id=node/35351750</desc></wpt><wpt lat="49.5544759" lon="8.3546739"><name>Frankenthal</name><desc>highway=motorway_junction
+name=Frankenthal
+ref=22
+id=node/35679526</desc></wpt><wpt lat="49.6269481" lon="8.374039"><name>node/35679590</name><desc>highway=motorway_junction
+id=node/35679590</desc></wpt><wpt lat="50.076847" lon="7.620873"><name>Laudert</name><desc>highway=motorway_junction
+name=Laudert
+ref=44
+id=node/36255397</desc></wpt><wpt lat="50.6035077" lon="7.4302242"><name>Neustadt/Wied</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10899
+TMC:cid_58:tabcd_1:NextLocationCode=55255
+TMC:cid_58:tabcd_1:PrevLocationCode=10898
+highway=motorway_junction
+name=Neustadt/Wied
+ref=35
+id=node/36321144</desc></wpt><wpt lat="49.4144534" lon="7.5303147"><name>Kreuz Landstuhl-West</name><desc>highway=motorway_junction
+name=Kreuz Landstuhl-West
+ref=10
+id=node/36804990</desc></wpt><wpt lat="49.4298955" lon="7.5182692"><name>Ramstein-Miesenbach</name><desc>highway=motorway_junction
+name=Ramstein-Miesenbach
+ref=9a
+id=node/36805017</desc></wpt><wpt lat="49.4324256" lon="7.5154023"><name>Hütschenhausen</name><desc>highway=motorway_junction
+name=Hütschenhausen
+ref=9
+id=node/36806058</desc></wpt><wpt lat="49.4615171" lon="7.4543848"><name>Glan-Münchweiler</name><desc>highway=motorway_junction
+name=Glan-Münchweiler
+ref=8
+id=node/36811924</desc></wpt><wpt lat="50.0100553" lon="8.1993461"><name>Mainz-Gonsenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12097
+TMC:cid_58:tabcd_1:NextLocationCode=12098
+TMC:cid_58:tabcd_1:PrevLocationCode=12096
+highway=motorway_junction
+name=Mainz-Gonsenheim
+ref=5
+id=node/39710834</desc></wpt><wpt lat="49.9746981" lon="8.2853403"><name>Mainz-Weisenau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11945
+TMC:cid_58:tabcd_1:NextLocationCode=11946
+TMC:cid_58:tabcd_1:PrevLocationCode=55021
+check_date=2024-03-10
+highway=motorway_junction
+name=Mainz-Weisenau
+ref=23
+id=node/43200862</desc></wpt><wpt lat="49.4059863" lon="8.4105672"><name>Schifferstadt-Nord</name><desc>highway=motorway_junction
+name=Schifferstadt-Nord
+id=node/50016369</desc></wpt><wpt lat="49.3556771" lon="8.4233781"><name>Kreuz Speyer</name><desc>highway=motorway_junction
+name=Kreuz Speyer
+id=node/50016422</desc></wpt><wpt lat="49.3617789" lon="8.4232481"><name>Otterstadt</name><desc>highway=motorway_junction
+name=Otterstadt
+id=node/50016436</desc></wpt><wpt lat="49.3869295" lon="8.4168642"><name>Schifferstadt-Ost</name><desc>highway=motorway_junction
+name=Schifferstadt-Ost
+id=node/50016453</desc></wpt><wpt lat="49.4236053" lon="8.4094234"><name>Limburgerhof-Neuhofen</name><desc>highway=motorway_junction
+name=Limburgerhof-Neuhofen
+id=node/50016469</desc></wpt><wpt lat="49.4000108" lon="8.4124582"><name>Schifferstadt-Nord</name><desc>highway=motorway_junction
+name=Schifferstadt-Nord
+id=node/52233144</desc></wpt><wpt lat="49.8437144" lon="8.1452047"><name>Wörrstadt</name><desc>highway=motorway_junction
+name=Wörrstadt
+ref=6
+id=node/52862894</desc></wpt><wpt lat="49.8386992" lon="8.1440743"><name>Wörrstadt</name><desc>highway=motorway_junction
+name=Wörrstadt
+ref=6
+id=node/52862921</desc></wpt><wpt lat="49.9682017" lon="8.3145832"><name>Mainz-Laubenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=25430
+TMC:cid_58:tabcd_1:NextLocationCode=40265
+TMC:cid_58:tabcd_1:PrevLocationCode=6155
+highway=motorway_junction
+name=Mainz-Laubenheim
+id=node/55063334</desc></wpt><wpt lat="49.9701467" lon="8.3092224"><name>Mainz-Laubenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11946
+TMC:cid_58:tabcd_1:NextLocationCode=11947
+TMC:cid_58:tabcd_1:PrevLocationCode=11945
+ele=119.34
+highway=motorway_junction
+name=Mainz-Laubenheim
+ref=24
+id=node/59611346</desc></wpt><wpt lat="49.448501" lon="8.3686918"><name>Ludwigshafen-Maudach</name><desc>highway=motorway_junction
+name=Ludwigshafen-Maudach
+id=node/59770663</desc></wpt><wpt lat="49.4254441" lon="8.4090427"><name>Limburgerhof-Neuhofen</name><desc>highway=motorway_junction
+name=Limburgerhof-Neuhofen
+id=node/59770679</desc></wpt><wpt lat="49.4344173" lon="8.4050033"><name>Rheingönheimer Kreuz</name><desc>highway=motorway_junction
+name=Rheingönheimer Kreuz
+id=node/59770686</desc></wpt><wpt lat="49.4385331" lon="8.3824998"><name>Mutterstadt-Süd</name><desc>highway=motorway_junction
+name=Mutterstadt-Süd
+id=node/59770706</desc></wpt><wpt lat="50.4384877" lon="7.4862318"><name>node/59784013</name><desc>highway=motorway_junction
+id=node/59784013</desc></wpt><wpt lat="50.475984" lon="7.4877219"><name>Neuwied-Oberbieber</name><desc>highway=motorway_junction
+name=Neuwied-Oberbieber
+name:etymology:wikidata=Q2009197
+id=node/59785655</desc></wpt><wpt lat="50.5148085" lon="7.4831378"><name>Rengsdorf Nord</name><desc>highway=motorway_junction
+name=Rengsdorf Nord
+name:etymology:wikidata=Q566074
+id=node/59787781</desc></wpt><wpt lat="49.7990274" lon="6.7043909"><name>Trier-Ehrang</name><desc>highway=motorway_junction
+name=Trier-Ehrang
+ref=2
+id=node/59923756</desc></wpt><wpt lat="49.3742631" lon="8.2104881"><name>Deidesheim</name><desc>highway=motorway_junction
+name=Deidesheim
+ref=11
+id=node/60256532</desc></wpt><wpt lat="49.471222" lon="8.2360263"><name>Friedelsheim</name><desc>highway=motorway_junction
+name=Friedelsheim
+ref=3
+id=node/60276600</desc></wpt><wpt lat="49.8021299" lon="6.7068294"><name>Trier-Ehrang</name><desc>highway=motorway_junction
+name=Trier-Ehrang
+ref=2
+id=node/60375695</desc></wpt><wpt lat="49.9298449" lon="7.876581"><name>Dorsheim</name><desc>highway=motorway_junction
+name=Dorsheim
+ref=48
+id=node/60475582</desc></wpt><wpt lat="49.4785439" lon="8.375154"><name>Ludwigshafen-Oggersheim-Süd</name><desc>highway=motorway_junction
+name=Ludwigshafen-Oggersheim-Süd
+ref=8
+id=node/60581427</desc></wpt><wpt lat="49.7801305" lon="8.1076363"><name>Kreuz Alzey</name><desc>highway=motorway_junction
+name=Kreuz Alzey
+ref=54
+id=node/62163486</desc></wpt><wpt lat="49.6286735" lon="8.2946846"><name>Worms</name><desc>highway=motorway_junction
+name=Worms
+ref=58
+id=node/62163660</desc></wpt><wpt lat="49.2309989" lon="7.358863"><name>Zweibrücken-Ixheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12509
+TMC:cid_58:tabcd_1:NextLocationCode=12510
+TMC:cid_58:tabcd_1:PrevLocationCode=12508
+highway=motorway_junction
+name=Zweibrücken-Ixheim
+ref=33
+id=node/62731972</desc></wpt><wpt lat="49.4442814" lon="8.3276529"><name>Kreuz Mutterstadt</name><desc>highway=motorway_junction
+name=Kreuz Mutterstadt
+ref=7
+id=node/66600436</desc></wpt><wpt lat="49.4413454" lon="8.3204925"><name>Kreuz Mutterstadt</name><desc>highway=motorway_junction
+name=Kreuz Mutterstadt
+ref=7
+id=node/66615645</desc></wpt><wpt lat="49.5534353" lon="8.3202187"><name>Kreuz Frankenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11871
+TMC:cid_58:tabcd_1:NextLocationCode=11872
+TMC:cid_58:tabcd_1:PrevLocationCode=55301
+highway=motorway_junction
+name=Kreuz Frankenthal
+ref=21
+id=node/66706392</desc></wpt><wpt lat="49.324908" lon="8.1766203"><name>Neustadt a. d. Weinstraße - Süd</name><desc>highway=motorway_junction
+name=Neustadt a. d. Weinstraße - Süd
+ref=13
+id=node/68523280</desc></wpt><wpt lat="49.9687145" lon="8.2583551"><name>Mainz-Hechtsheim West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=40512
+TMC:cid_58:tabcd_1:NextLocationCode=11944
+TMC:cid_58:tabcd_1:PrevLocationCode=11943
+highway=motorway_junction
+name=Mainz-Hechtsheim West
+ref=22a
+id=node/73797347</desc></wpt><wpt lat="50.3409417" lon="7.4474102"><name>Rastplatz Goloring</name><desc>highway=motorway_junction
+name=Rastplatz Goloring
+noref=yes
+id=node/75362042</desc></wpt><wpt lat="50.3341238" lon="7.4141652"><name>Ochtendung</name><desc>highway=motorway_junction
+name=Ochtendung
+ref=8
+id=node/75362076</desc></wpt><wpt lat="50.3379764" lon="6.5148752"><name>Stadtkyll-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=48609
+TMC:cid_58:tabcd_1:NextLocationCode=24185
+TMC:cid_58:tabcd_1:PrevLocationCode=48282
+highway=motorway_junction
+name=Stadtkyll-Süd
+noref=yes
+id=node/80332437</desc></wpt><wpt lat="49.6269536" lon="8.3738876"><name>node/83598737</name><desc>highway=motorway_junction
+id=node/83598737</desc></wpt><wpt lat="49.5493538" lon="8.3955622"><name>node/83599239</name><desc>highway=motorway_junction
+id=node/83599239</desc></wpt><wpt lat="49.0676347" lon="8.2061835"><name>Kandel-Süd</name><desc>highway=motorway_junction
+name=Kandel-Süd
+ref=22
+id=node/84736863</desc></wpt><wpt lat="49.0674035" lon="8.2065903"><name>Kandel-Süd</name><desc>highway=motorway_junction
+name=Kandel-Süd
+ref=22
+id=node/84736910</desc></wpt><wpt lat="49.268623" lon="8.3379574"><name>Schwegenheim</name><desc>highway=motorway_junction
+name=Schwegenheim
+id=node/84802991</desc></wpt><wpt lat="49.8056179" lon="6.7604449"><name>Longuich</name><desc>highway=motorway_junction
+name=Longuich
+ref=4
+id=node/90345060</desc></wpt><wpt lat="49.8040263" lon="6.7603611"><name>Dreieck Moseltal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10021
+TMC:cid_58:tabcd_1:NextLocationCode=10022
+TMC:cid_58:tabcd_1:PrevLocationCode=55248
+TMC:cid_58:tabcd_1:TypeName=motorway triangle
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahndreieck
+highway=motorway_junction
+name=Dreieck Moseltal
+ref=130
+id=node/90345068</desc></wpt><wpt lat="49.9904948" lon="7.6451508"><name>node/91380598</name><desc>highway=motorway_junction
+id=node/91380598</desc></wpt><wpt lat="49.9812184" lon="7.5399412"><name>node/91387941</name><desc>highway=motorway_junction
+id=node/91387941</desc></wpt><wpt lat="49.9298038" lon="7.2804031"><name>node/92315795</name><desc>highway=motorway_junction
+id=node/92315795</desc></wpt><wpt lat="49.5129999" lon="8.3564593"><name>Frankenthal-Studernheim</name><desc>highway=motorway_junction
+name=Frankenthal-Studernheim
+id=node/94122560</desc></wpt><wpt lat="49.5342395" lon="8.3662834"><name>node/94122595</name><desc>highway=motorway_junction
+id=node/94122595</desc></wpt><wpt lat="49.5349048" lon="8.3697153"><name>Frankenthal-Mitte</name><desc>highway=motorway_junction
+name=Frankenthal-Mitte
+id=node/94122656</desc></wpt><wpt lat="49.5343819" lon="8.3649664"><name>node/94122660</name><desc>highway=motorway_junction
+id=node/94122660</desc></wpt><wpt lat="49.773526" lon="6.6049344"><name>Trier</name><desc>highway=motorway_junction
+name=Trier
+ref=3
+wikidata=Q15869057
+id=node/101454147</desc></wpt><wpt lat="49.7732934" lon="6.6045732"><name>Trier</name><desc>highway=motorway_junction
+name=Trier
+ref=3
+id=node/101454194</desc></wpt><wpt lat="49.4912656" lon="8.3572002"><name>Ludwigshafen-Oggersheim</name><desc>highway=motorway_junction
+name=Ludwigshafen-Oggersheim
+id=node/102822423</desc></wpt><wpt lat="49.5137767" lon="8.3573423"><name>Frankenthal-Studernheim</name><desc>highway=motorway_junction
+name=Frankenthal-Studernheim
+id=node/102822456</desc></wpt><wpt lat="49.5461188" lon="8.3926404"><name>node/102822648</name><desc>highway=motorway_junction
+id=node/102822648</desc></wpt><wpt lat="49.2157389" lon="8.1299358"><name>Landau-Nußdorf / Edesheim</name><desc>highway=motorway_junction
+name=Landau-Nußdorf / Edesheim
+id=node/105697968</desc></wpt><wpt lat="49.0495309" lon="8.2395903"><name>Wörth-Dorschberg</name><desc>highway=motorway_junction
+name=Wörth-Dorschberg
+ref=23
+id=node/105761643</desc></wpt><wpt lat="49.0485177" lon="8.2420549"><name>Wörth-Dorschberg</name><desc>highway=motorway_junction
+name=Wörth-Dorschberg
+ref=23
+id=node/105761745</desc></wpt><wpt lat="49.8915986" lon="8.1841194"><name>Saulheim</name><desc>highway=motorway_junction
+name=Saulheim
+ref=5
+id=node/108102493</desc></wpt><wpt lat="49.9645367" lon="8.2346195"><name>Kreuz Mainz-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11943
+TMC:cid_58:tabcd_1:NextLocationCode=40512
+TMC:cid_58:tabcd_1:PrevLocationCode=11942
+highway=motorway_junction
+name=Kreuz Mainz-Süd
+ref=21
+id=node/108134073</desc></wpt><wpt lat="49.9757922" lon="8.2527665"><name>Mainz-Bretzenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=55106
+TMC:cid_58:tabcd_1:NextLocationCode=40257
+TMC:cid_58:tabcd_1:PrevLocationCode=40256
+highway=motorway_junction
+name=Mainz-Bretzenheim
+noref=yes
+id=node/108323038</desc></wpt><wpt lat="49.2237727" lon="8.1462568"><name>Landau-Dammheim</name><desc>highway=motorway_junction
+name=Landau-Dammheim
+ref=15
+id=node/115977926</desc></wpt><wpt lat="49.601618" lon="7.1690901"><name>Birkenfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12035
+TMC:cid_58:tabcd_1:NextLocationCode=41592
+TMC:cid_58:tabcd_1:PrevLocationCode=12034
+highway=motorway_junction
+name=Birkenfeld
+ref=4
+id=node/116778279</desc></wpt><wpt lat="49.1767483" lon="8.1506998"><name>Landau-Süd</name><desc>highway=motorway_junction
+name=Landau-Süd
+ref=17
+id=node/117383621</desc></wpt><wpt lat="49.8060164" lon="6.721456"><name>Kenn</name><desc>highway=motorway_junction
+name=Kenn
+ref=3
+id=node/132298200</desc></wpt><wpt lat="49.8074631" lon="6.7278065"><name>Kenn</name><desc>highway=motorway_junction
+name=Kenn
+ref=3
+id=node/132298202</desc></wpt><wpt lat="49.8101932" lon="6.7408028"><name>3</name><desc>highway=motorway_junction
+note=Zur B53 Diese Ausfahrt hat keinen eigenen Namen, sondern ist Teil der Abfahrt Kenn. Wird auch bei der Ausfahrt Kenn ausgeschildert. Darum wird hier keine zusätzliche Ausfahrtreferenz benötigt. Wenn doch, müsste der Name "Kenn" sein. KK-O
+ref=3
+id=node/132300700</desc></wpt><wpt lat="49.4847711" lon="8.4409597"><name>Oppau/Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=48251
+TMC:cid_58:tabcd_1:NextLocationCode=40995
+TMC:cid_58:tabcd_1:PrevLocationCode=23566
+highway=motorway_junction
+name=Oppau/Zentrum
+id=node/132326981</desc></wpt><wpt lat="49.4784332" lon="8.3774173"><name>Ludwigshafen-Oggersheim-Süd</name><desc>highway=motorway_junction
+name=Ludwigshafen-Oggersheim-Süd
+ref=8
+id=node/137975151</desc></wpt><wpt lat="49.0841072" lon="8.2138817"><name>Kandel-Mitte</name><desc>highway=motorway_junction
+name=Kandel-Mitte
+ref=21
+id=node/149722936</desc></wpt><wpt lat="49.2056011" lon="8.077685"><name>Landau-Godramstein / Landau-Arzheim</name><desc>highway=motorway_junction
+name=Landau-Godramstein / Landau-Arzheim
+id=node/154280164</desc></wpt><wpt lat="49.289529" lon="8.1524796"><name>Edenkoben</name><desc>highway=motorway_junction
+name=Edenkoben
+ref=14
+id=node/154464399</desc></wpt><wpt lat="49.3286367" lon="8.180415"><name>Neustadt a. d. Weinstraße - Süd</name><desc>highway=motorway_junction
+name=Neustadt a. d. Weinstraße - Süd
+ref=13
+id=node/161408833</desc></wpt><wpt lat="49.4498801" lon="8.3422882"><name>Mutterstadt Nord</name><desc>highway=motorway_junction
+name=Mutterstadt Nord
+ref=6
+id=node/161425186</desc></wpt><wpt lat="50.6067455" lon="7.2199967"><name>Unkel</name><desc>highway=motorway_junction
+name=Unkel
+id=node/171525928</desc></wpt><wpt lat="49.1967016" lon="8.3289702"><name>Bellheim-Nord</name><desc>highway=motorway_junction
+name=Bellheim-Nord
+id=node/174695826</desc></wpt><wpt lat="49.2853334" lon="8.1529899"><name>Edenkoben</name><desc>highway=motorway_junction
+name=Edenkoben
+ref=14
+id=node/176492089</desc></wpt><wpt lat="49.1757776" lon="8.1509404"><name>Landau-Süd</name><desc>highway=motorway_junction
+name=Landau-Süd
+ref=17
+id=node/176698689</desc></wpt><wpt lat="49.0499062" lon="8.2746262"><name>Wörth Mercedes-Benz Tor 1</name><desc>highway=motorway_junction
+name=Wörth Mercedes-Benz Tor 1
+id=node/179976124</desc></wpt><wpt lat="49.5188496" lon="8.4114887"><name>Oppau</name><desc>highway=motorway_junction
+name=Oppau
+id=node/183737584</desc></wpt><wpt lat="49.5341994" lon="8.4006599"><name>Frankenthal / Ludwigshafen-Süd</name><desc>highway=motorway_junction
+name=Frankenthal / Ludwigshafen-Süd
+id=node/183737629</desc></wpt><wpt lat="49.4896603" lon="8.4452716"><name>Oppau/Zentrum</name><desc>highway=motorway_junction
+name=Oppau/Zentrum
+id=node/186083696</desc></wpt><wpt lat="49.5369878" lon="8.3929194"><name>node/186971912</name><desc>destination=Oppau;BASF
+highway=motorway_junction
+id=node/186971912</desc></wpt><wpt lat="49.490794" lon="8.4393228"><name>Stadtteil Nord</name><desc>highway=motorway_junction
+name=Stadtteil Nord
+id=node/194449022</desc></wpt><wpt lat="49.1396801" lon="8.1655118"><name>Rohrbach</name><desc>highway=motorway_junction
+name=Rohrbach
+ref=19
+id=node/197520444</desc></wpt><wpt lat="49.1025375" lon="8.1860633"><name>Kandel-Nord</name><desc>highway=motorway_junction
+name=Kandel-Nord
+ref=20
+id=node/201476136</desc></wpt><wpt lat="49.1034449" lon="8.1838946"><name>Kandel-Nord</name><desc>highway=motorway_junction
+name=Kandel-Nord
+ref=20
+id=node/203343500</desc></wpt><wpt lat="49.1944626" lon="8.3238637"><name>Bellheim-Nord</name><desc>highway=motorway_junction
+name=Bellheim-Nord
+id=node/206102992</desc></wpt><wpt lat="49.809099" lon="6.7592642"><name>Longuich</name><desc>highway=motorway_junction
+name=Longuich
+ref=4
+id=node/206353364</desc></wpt><wpt lat="50.1731308" lon="6.3902751"><name>Prüm</name><desc>highway=motorway_junction
+name=Prüm
+ref=4
+id=node/208596666</desc></wpt><wpt lat="49.7543461" lon="8.1254981"><name>Alzey</name><desc>highway=motorway_junction
+name=Alzey
+ref=55
+id=node/211222890</desc></wpt><wpt lat="49.4342244" lon="8.3066414"><name>Dannstadt-Schauernheim</name><desc>highway=motorway_junction
+name=Dannstadt-Schauernheim
+ref=8
+id=node/217447095</desc></wpt><wpt lat="49.2069124" lon="8.3481151"><name>Germersheim-Süd</name><desc>highway=motorway_junction
+name=Germersheim-Süd
+id=node/237538702</desc></wpt><wpt lat="49.7787547" lon="6.8450644"><name>Mehring</name><desc>highway=motorway_junction
+name=Mehring
+ref=131
+source=survey
+id=node/241791293</desc></wpt><wpt lat="49.4505178" lon="8.3436027"><name>Mutterstadt Nord</name><desc>highway=motorway_junction
+name=Mutterstadt Nord
+ref=6
+id=node/242151707</desc></wpt><wpt lat="50.5756596" lon="7.1177569"><name>Dreieck Bad Neuenahr-Ahrweiler</name><desc>highway=motorway_junction
+name=Dreieck Bad Neuenahr-Ahrweiler
+ref=30
+id=node/243173216</desc></wpt><wpt lat="49.2362174" lon="8.3444593"><name>Germersheim-Nord</name><desc>highway=motorway_junction
+name=Germersheim-Nord
+id=node/243701909</desc></wpt><wpt lat="49.2300018" lon="8.3688368"><name>Germersheim-Nord</name><desc>highway=motorway_junction
+name=Germersheim-Nord
+id=node/243701929</desc></wpt><wpt lat="50.0006039" lon="8.1068914"><name>node/244006345</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=55286
+TMC:cid_58:tabcd_1:NextLocationCode=11938
+TMC:cid_58:tabcd_1:PrevLocationCode=11937
+highway=motorway_junction
+noref=yes
+id=node/244006345</desc></wpt><wpt lat="49.4259882" lon="8.2969616"><name>Hochdorf-Assenheim</name><desc>TMC:cid_58:tabcd_1:LocationCode=49211
+highway=motorway_junction
+name=Hochdorf-Assenheim
+note=Ausfahrtnummer ist nicht notiert, jedoch müsste das wohl die 9 sein
+ref=9
+id=node/245021921</desc></wpt><wpt lat="49.4328105" lon="8.30485"><name>Dannstadt-Schauernheim</name><desc>highway=motorway_junction
+name=Dannstadt-Schauernheim
+ref=8
+id=node/245872737</desc></wpt><wpt lat="49.7927776" lon="7.6496874"><name>node/246620991</name><desc>highway=motorway_junction
+id=node/246620991</desc></wpt><wpt lat="49.4494967" lon="8.3675356"><name>Ludwigshafen-Maudach</name><desc>highway=motorway_junction
+name=Ludwigshafen-Maudach
+id=node/247708062</desc></wpt><wpt lat="49.9152431" lon="8.1936009"><name>Nieder-Olm</name><desc>highway=motorway_junction
+name=Nieder-Olm
+ref=4
+id=node/248493784</desc></wpt><wpt lat="49.7713714" lon="6.5991848"><name>Trier</name><desc>highway=motorway_junction
+name=Trier
+ref=3
+id=node/249282362</desc></wpt><wpt lat="49.9793579" lon="8.0247256"><name>Ingelheim West</name><desc>highway=motorway_junction
+name=Ingelheim West
+ref=15
+id=node/251669260</desc></wpt><wpt lat="49.2285925" lon="8.3762126"><name>Germersheim-Nord</name><desc>highway=motorway_junction
+name=Germersheim-Nord
+id=node/251876492</desc></wpt><wpt lat="49.9740632" lon="8.2763757"><name>Mainz-Hechtsheim-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11944
+TMC:cid_58:tabcd_1:NextLocationCode=55021
+TMC:cid_58:tabcd_1:PrevLocationCode=40512
+highway=motorway_junction
+name=Mainz-Hechtsheim-Ost
+ref=22b
+id=node/252038978</desc></wpt><wpt lat="49.8559039" lon="6.5419726"><name>Helenenberg</name><desc>highway=motorway_junction
+name=Helenenberg
+id=node/252590560</desc></wpt><wpt lat="49.6644797" lon="8.2705259"><name>node/252687835</name><desc>highway=motorway_junction
+id=node/252687835</desc></wpt><wpt lat="49.7001447" lon="8.210931"><name>Gundersheim</name><desc>highway=motorway_junction
+name=Gundersheim
+ref=56
+id=node/253117341</desc></wpt><wpt lat="50.4538442" lon="7.3681775"><name>Andernach-Namedy</name><desc>highway=motorway_junction
+name=Andernach-Namedy
+id=node/253178017</desc></wpt><wpt lat="49.0685432" lon="8.2811569"><name>Jockgrim</name><desc>highway=motorway_junction
+name=Jockgrim
+id=node/253202461</desc></wpt><wpt lat="49.9478677" lon="6.890454"><name>Kreuz Wittlich</name><desc>highway=motorway_junction
+name=Kreuz Wittlich
+ref=11
+id=node/253240825</desc></wpt><wpt lat="49.9484236" lon="6.8760544"><name>Kreuz Wittlich</name><desc>highway=motorway_junction
+name=Kreuz Wittlich
+ref=11
+id=node/253240837</desc></wpt><wpt lat="49.9429858" lon="6.8822885"><name>Kreuz Wittlich</name><desc>highway=motorway_junction
+name=Kreuz Wittlich
+ref=126
+id=node/253240860</desc></wpt><wpt lat="49.9527134" lon="6.8827858"><name>Kreuz Wittlich</name><desc>highway=motorway_junction
+name=Kreuz Wittlich
+ref=126
+id=node/253240898</desc></wpt><wpt lat="50.4215585" lon="7.4061322"><name>Andernach Süd</name><desc>highway=motorway_junction
+name=Andernach Süd
+id=node/253346666</desc></wpt><wpt lat="50.4134141" lon="7.4373048"><name>Neuwied</name><desc>TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LocationCode=25439
+highway=motorway_junction
+name=Neuwied
+id=node/253692838</desc></wpt><wpt lat="50.318028" lon="7.4999833"><name>node/254114877</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.0
+TMC:cid_58:tabcd_1:LocationCode=11989
+highway=motorway_junction
+noref=yes
+id=node/254114877</desc></wpt><wpt lat="50.3779525" lon="7.3907743"><name>Plaidt</name><desc>highway=motorway_junction
+name=Plaidt
+ref=36
+id=node/254115364</desc></wpt><wpt lat="50.4224838" lon="7.4606627"><name>Neuwied-Zentrum</name><desc>highway=motorway_junction
+ref=Neuwied-Zentrum
+id=node/254132579</desc></wpt><wpt lat="50.4891013" lon="7.4960705"><name>Rengsdorf Süd</name><desc>highway=motorway_junction
+name=Rengsdorf Süd
+name:etymology:wikidata=Q566074
+id=node/254134743</desc></wpt><wpt lat="50.4924597" lon="7.4944336"><name>Rengsdorf Süd</name><desc>highway=motorway_junction
+name=Rengsdorf Süd
+name:etymology:wikidata=Q566074
+id=node/254135006</desc></wpt><wpt lat="50.4674824" lon="7.4868684"><name>Neuwied-Niederbieber</name><desc>highway=motorway_junction
+name=Neuwied-Niederbieber
+name:etymology:wikidata=Q1301536
+id=node/254260020</desc></wpt><wpt lat="49.4217854" lon="7.5578974"><name>Ramstein-Miesenbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11862
+TMC:cid_58:tabcd_1:NextLocationCode=40509
+TMC:cid_58:tabcd_1:PrevLocationCode=11861
+highway=motorway_junction
+name=Ramstein-Miesenbach
+ref=13
+id=node/254515659</desc></wpt><wpt lat="49.2193964" lon="7.5382645"><name>Pirmasens-Winzeln</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=48689
+TMC:cid_58:tabcd_1:NextLocationCode=12512
+TMC:cid_58:tabcd_1:PrevLocationCode=55302
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Pirmasens-Winzeln
+ref=36
+id=node/254773700</desc></wpt><wpt lat="49.2352573" lon="7.4006838"><name>Contwig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12510
+TMC:cid_58:tabcd_1:NextLocationCode=12511
+TMC:cid_58:tabcd_1:PrevLocationCode=12509
+highway=motorway_junction
+name=Contwig
+ref=34
+id=node/254775017</desc></wpt><wpt lat="49.2296944" lon="7.5563131"><name>Pirmasens</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12512
+TMC:cid_58:tabcd_1:PrevLocationCode=48689
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Pirmasens
+ref=15
+id=node/254776915</desc></wpt><wpt lat="49.2348529" lon="7.559444"><name>Pirmasens</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12512
+TMC:cid_58:tabcd_1:PrevLocationCode=48689
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Pirmasens
+ref=15
+id=node/254777087</desc></wpt><wpt lat="49.9950714" lon="7.6576656"><name>node/254780630</name><desc>highway=motorway_junction
+id=node/254780630</desc></wpt><wpt lat="49.948939" lon="8.221165"><name>Klein-Winternheim</name><desc>highway=motorway_junction
+name=Klein-Winternheim
+ref=3
+id=node/255403395</desc></wpt><wpt lat="49.2653222" lon="8.3357134"><name>Schwegenheim</name><desc>highway=motorway_junction
+name=Schwegenheim
+id=node/255405667</desc></wpt><wpt lat="49.0397363" lon="8.2699475"><name>Wörther Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20285
+TMC:cid_58:tabcd_1:NextLocationCode=55117
+TMC:cid_58:tabcd_1:PrevLocationCode=20284
+highway=motorway_junction
+name=Wörther Kreuz
+ref=24
+id=node/255897429</desc></wpt><wpt lat="49.055386" lon="8.2733909"><name>Wörth Mercedes-Benz Tor 1</name><desc>highway=motorway_junction
+name=Wörth Mercedes-Benz Tor 1
+id=node/255897832</desc></wpt><wpt lat="49.6737874" lon="8.3014814"><name>Worms-Abenheim</name><desc>highway=motorway_junction
+name=Worms-Abenheim
+id=node/256113062</desc></wpt><wpt lat="49.6676964" lon="8.2768095"><name>node/256113074</name><desc>highway=motorway_junction
+id=node/256113074</desc></wpt><wpt lat="49.6725402" lon="8.2963777"><name>Worms-Abenheim</name><desc>highway=motorway_junction
+name=Worms-Abenheim
+id=node/256115904</desc></wpt><wpt lat="50.4169758" lon="7.4484737"><name>Weißenthurm</name><desc>highway=motorway_junction
+ref=Weißenthurm
+id=node/257748713</desc></wpt><wpt lat="50.4655358" lon="7.7641518"><name>Dreieck Dernbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10890
+TMC:cid_58:tabcd_1:NextLocationCode=10891
+TMC:cid_58:tabcd_1:PrevLocationCode=10889
+highway=motorway_junction
+name=Dreieck Dernbach
+ref=39
+id=node/259042765</desc></wpt><wpt lat="49.550158" lon="8.3962988"><name>node/259718932</name><desc>highway=motorway_junction
+id=node/259718932</desc></wpt><wpt lat="50.1780925" lon="6.3893083"><name>Prüm</name><desc>highway=motorway_junction
+name=Prüm
+ref=4
+id=node/260238329</desc></wpt><wpt lat="50.2511435" lon="7.5175605"><name>Koblenz / Waldesch</name><desc>highway=motorway_junction
+name=Koblenz / Waldesch
+ref=40
+id=node/260487477</desc></wpt><wpt lat="49.2336736" lon="8.3602955"><name>Kreuz Germersheim</name><desc>highway=motorway_junction
+name=Kreuz Germersheim
+id=node/260636954</desc></wpt><wpt lat="49.48111" lon="8.3122059"><name>Kreuz Ludwigshafen</name><desc>highway=motorway_junction
+name=Kreuz Ludwigshafen
+ref=60
+id=node/260655594</desc></wpt><wpt lat="49.6019117" lon="7.1718117"><name>Birkenfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12035
+TMC:cid_58:tabcd_1:NextLocationCode=41592
+TMC:cid_58:tabcd_1:PrevLocationCode=12034
+highway=motorway_junction
+name=Birkenfeld
+ref=4
+id=node/260681308</desc></wpt><wpt lat="49.9571321" lon="6.5176583"><name>Bitburg-Süd</name><desc>highway=motorway_junction
+name=Bitburg-Süd
+noref=yes
+id=node/260714212</desc></wpt><wpt lat="49.998103" lon="7.6824326"><name>Rheinböllen</name><desc>TMC:cid_58:tabcd_1:LocationCode=24119
+highway=motorway_junction
+name=Rheinböllen
+id=node/261078703</desc></wpt><wpt lat="49.9684191" lon="7.5652416"><name>node/261080648</name><desc>highway=motorway_junction
+id=node/261080648</desc></wpt><wpt lat="49.9682668" lon="7.5665065"><name>node/261080658</name><desc>highway=motorway_junction
+id=node/261080658</desc></wpt><wpt lat="49.9648157" lon="8.2397071"><name>Kreuz Mainz-Süd</name><desc>highway=motorway_junction
+layer=1
+name=Kreuz Mainz-Süd
+ref=2
+id=node/262253221</desc></wpt><wpt lat="49.9855912" lon="8.1999249"><name>Mainz-Finthen</name><desc>highway=motorway_junction
+name=Mainz-Finthen
+ref=19
+id=node/262735645</desc></wpt><wpt lat="49.9891759" lon="8.2037006"><name>Mz.-Drais / Mz.-Gonsenheim</name><desc>highway=motorway_junction
+name=Mz.-Drais / Mz.-Gonsenheim
+noref=yes
+id=node/262847951</desc></wpt><wpt lat="49.3300252" lon="7.6065281"><name>Weselberg</name><desc>highway=motorway_junction
+name=Weselberg
+ref=13
+id=node/263018495</desc></wpt><wpt lat="49.3324921" lon="7.6030264"><name>Weselberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12044
+TMC:cid_58:tabcd_1:NextLocationCode=12045
+TMC:cid_58:tabcd_1:PrevLocationCode=12043
+highway=motorway_junction
+name=Weselberg
+ref=13
+id=node/263018519</desc></wpt><wpt lat="49.9897102" lon="8.2076939"><name>node/263022879</name><desc>highway=motorway_junction
+noref=yes
+id=node/263022879</desc></wpt><wpt lat="49.9732624" lon="8.3123568"><name>Mainz-Laubenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=25430
+TMC:cid_58:tabcd_1:NextLocationCode=40265
+TMC:cid_58:tabcd_1:PrevLocationCode=6155
+highway=motorway_junction
+name=Mainz-Laubenheim
+id=node/263037555</desc></wpt><wpt lat="50.2337999" lon="7.0205668"><name>Rastplatz Uersfeld</name><desc>highway=motorway_junction
+name=Rastplatz Uersfeld
+noref=yes
+id=node/263916046</desc></wpt><wpt lat="50.2632939" lon="7.2233093"><name>Elztal Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LocationCode=55145
+highway=motorway_junction
+name=Elztal Süd
+noref=yes
+id=node/263923146</desc></wpt><wpt lat="49.8265455" lon="7.7461884"><name>node/264794766</name><desc>highway=motorway_junction
+noref=yes
+id=node/264794766</desc></wpt><wpt lat="49.8517878" lon="7.8137254"><name>node/264795222</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:LCLversion=11.0
+TMC:cid_58:tabcd_1:LocationCode=23391
+highway=motorway_junction
+noref=yes
+id=node/264795222</desc></wpt><wpt lat="49.662536" lon="8.2774585"><name>Worms / Mörstadt</name><desc>highway=motorway_junction
+name=Worms / Mörstadt
+ref=57
+id=node/265649525</desc></wpt><wpt lat="49.6687258" lon="8.2685209"><name>Worms / Mörstadt</name><desc>highway=motorway_junction
+name=Worms / Mörstadt
+ref=57
+id=node/265649529</desc></wpt><wpt lat="50.4979358" lon="7.7330701"><name>Rastplatz Welschehahn</name><desc>highway=motorway_junction
+name=Rastplatz Welschehahn
+noref=yes
+id=node/266181300</desc></wpt><wpt lat="50.5563258" lon="7.5706282"><name>Rastplatz Märkerwald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=55254
+TMC:cid_58:tabcd_1:NextLocationCode=10896
+TMC:cid_58:tabcd_1:PrevLocationCode=10895
+highway=motorway_junction
+name=Rastplatz Märkerwald
+id=node/266181342</desc></wpt><wpt lat="50.562787" lon="7.5300162"><name>Neuwied</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10896
+TMC:cid_58:tabcd_1:NextLocationCode=10897
+TMC:cid_58:tabcd_1:PrevLocationCode=55254
+highway=motorway_junction
+name=Neuwied
+name:etymology:wikidata=Q3967
+ref=36
+id=node/266320207</desc></wpt><wpt lat="50.53355" lon="7.6000565"><name>Dierdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10894
+TMC:cid_58:tabcd_1:NextLocationCode=10895
+TMC:cid_58:tabcd_1:PrevLocationCode=10893
+highway=motorway_junction
+name=Dierdorf
+ref=37
+id=node/266326295</desc></wpt><wpt lat="49.9791544" lon="8.0189777"><name>Ingelheim West</name><desc>highway=motorway_junction
+name=Ingelheim West
+ref=15
+id=node/266441689</desc></wpt><wpt lat="49.9242007" lon="7.8297003"><name>Waldlaubersheim</name><desc>highway=motorway_junction
+name=Waldlaubersheim
+ref=47
+id=node/266445192</desc></wpt><wpt lat="50.3466278" lon="7.5012729"><name>Koblenz-Metternich</name><desc>highway=motorway_junction
+name=Koblenz-Metternich
+ref=38
+id=node/266696623</desc></wpt><wpt lat="50.349017" lon="7.4978005"><name>Koblenz-Metternich</name><desc>highway=motorway_junction
+name=Koblenz-Metternich
+ref=38
+id=node/266696663</desc></wpt><wpt lat="49.421701" lon="7.5615575"><name>Ramstein-Miesenbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11862
+TMC:cid_58:tabcd_1:NextLocationCode=40509
+TMC:cid_58:tabcd_1:PrevLocationCode=11861
+ele=251.04
+highway=motorway_junction
+name=Ramstein-Miesenbach
+note=Name is "Landstuhl-Ost" or "Ramstein-Miesenbach"
+ref=13
+id=node/267638591</desc></wpt><wpt lat="49.4584436" lon="7.8056414"><name>Dreieck Kaiserslautern</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=48382
+TMC:cid_58:tabcd_1:NextLocationCode=40336
+TMC:cid_58:tabcd_1:PrevLocationCode=11865
+highway=motorway_junction
+name=Dreieck Kaiserslautern
+ref=16a
+id=node/267643068</desc></wpt><wpt lat="49.4531789" lon="7.8190282"><name>Kaiserslautern-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=40336
+TMC:cid_58:tabcd_1:NextLocationCode=55294
+TMC:cid_58:tabcd_1:PrevLocationCode=48382
+highway=motorway_junction
+name=Kaiserslautern-Ost
+ref=16b
+id=node/267644027</desc></wpt><wpt lat="49.4713948" lon="7.9009368"><name>Enkenbach-Alsenborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11866
+TMC:cid_58:tabcd_1:NextLocationCode=55296
+TMC:cid_58:tabcd_1:PrevLocationCode=55295
+highway=motorway_junction
+name=Enkenbach-Alsenborn
+ref=17
+id=node/267644212</desc></wpt><wpt lat="49.9020609" lon="6.8533439"><name>Salmtal</name><desc>highway=motorway_junction
+name=Salmtal
+ref=127
+id=node/267933476</desc></wpt><wpt lat="49.1712565" lon="8.3026204"><name>Rülzheim-Nord</name><desc>highway=motorway_junction
+name=Rülzheim-Nord
+id=node/268021993</desc></wpt><wpt lat="49.5366944" lon="8.3898142"><name>node/268204174</name><desc>destination=LU-Pfingstweide;LU-Edigheim
+highway=motorway_junction
+id=node/268204174</desc></wpt><wpt lat="49.1719584" lon="8.3026791"><name>Rülzheim-Nord</name><desc>highway=motorway_junction
+name=Rülzheim-Nord
+id=node/268283630</desc></wpt><wpt lat="49.1258684" lon="8.3066261"><name>Rheinzabern</name><desc>highway=motorway_junction
+name=Rheinzabern
+id=node/268446538</desc></wpt><wpt lat="49.5342901" lon="8.3664139"><name>node/268565202</name><desc>highway=motorway_junction
+id=node/268565202</desc></wpt><wpt lat="50.3852496" lon="7.2720977"><name>Mendig</name><desc>highway=motorway_junction
+name=Mendig
+ref=34
+id=node/268780749</desc></wpt><wpt lat="49.9321662" lon="7.9148944"><name>Bingen Mitte</name><desc>highway=motorway_junction
+name=Bingen Mitte
+ref=49
+id=node/268878519</desc></wpt><wpt lat="49.7909297" lon="8.1379013"><name>Biebelnheim</name><desc>highway=motorway_junction
+name=Biebelnheim
+ref=7
+id=node/269018245</desc></wpt><wpt lat="50.1671191" lon="6.8886369"><name>Mehren</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10031
+TMC:cid_58:tabcd_1:NextLocationCode=10032
+TMC:cid_58:tabcd_1:PrevLocationCode=10030
+highway=motorway_junction
+name=Mehren
+ref=121
+id=node/269369103</desc></wpt><wpt lat="49.979363" lon="6.5139452"><name>Bitburg-West/Rittersdorf</name><desc>highway=motorway_junction
+name=Bitburg-West/Rittersdorf
+noref=yes
+id=node/270110152</desc></wpt><wpt lat="49.9546616" lon="7.9466097"><name>Bingen Ost</name><desc>highway=motorway_junction
+name=Bingen Ost
+ref=13
+id=node/270130978</desc></wpt><wpt lat="49.2057951" lon="8.3473995"><name>Germersheim-Süd</name><desc>highway=motorway_junction
+name=Germersheim-Süd
+id=node/270154696</desc></wpt><wpt lat="50.0442316" lon="6.9156428"><name>Hasborn</name><desc>highway=motorway_junction
+name=Hasborn
+ref=123
+id=node/270259789</desc></wpt><wpt lat="49.9818114" lon="6.5146112"><name>Bitburg-West/Rittersdorf</name><desc>highway=motorway_junction
+name=Bitburg-West/Rittersdorf
+noref=yes
+id=node/271401330</desc></wpt><wpt lat="49.9509472" lon="6.5260136"><name>Bitburg-Masholder</name><desc>highway=motorway_junction
+name=Bitburg-Masholder
+noref=yes
+id=node/272352372</desc></wpt><wpt lat="50.4450609" lon="7.6684256"><name>Höhr-Grenzhausen</name><desc>highway=motorway_junction
+name=Höhr-Grenzhausen
+ref=12
+id=node/274088514</desc></wpt><wpt lat="49.2118564" lon="7.6061045"><name>Rodalben/Husterhöhe</name><desc>highway=motorway_junction
+name=Rodalben/Husterhöhe
+id=node/276081393</desc></wpt><wpt lat="49.1501945" lon="8.3036928"><name>Rülzheim-Süd</name><desc>highway=motorway_junction
+name=Rülzheim-Süd
+id=node/276367851</desc></wpt><wpt lat="49.7913188" lon="8.0878075"><name>Bornheim</name><desc>highway=motorway_junction
+name=Bornheim
+ref=53
+id=node/276675060</desc></wpt><wpt lat="49.2196057" lon="7.469303"><name>Walshausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12511
+TMC:cid_58:tabcd_1:NextLocationCode=55302
+TMC:cid_58:tabcd_1:PrevLocationCode=12510
+highway=motorway_junction
+name=Walshausen
+ref=35
+id=node/276877112</desc></wpt><wpt lat="50.2920419" lon="7.2533191"><name>Mayen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11514
+TMC:cid_58:tabcd_1:NextLocationCode=11515
+TMC:cid_58:tabcd_1:PrevLocationCode=40500
+highway=motorway_junction
+name=Mayen
+ref=6
+id=node/277152357</desc></wpt><wpt lat="49.2021461" lon="7.6954622"><name>Ruppertsweiler</name><desc>highway=motorway_junction
+name=Ruppertsweiler
+id=node/277438014</desc></wpt><wpt lat="49.9983815" lon="6.5350629"><name>Bitburg-Nord/Matzen</name><desc>highway=motorway_junction
+name=Bitburg-Nord/Matzen
+noref=yes
+id=node/277701502</desc></wpt><wpt lat="49.2195908" lon="7.4702316"><name>Walshausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12511
+TMC:cid_58:tabcd_1:NextLocationCode=55302
+TMC:cid_58:tabcd_1:PrevLocationCode=12510
+highway=motorway_junction
+name=Walshausen
+ref=35
+id=node/277819019</desc></wpt><wpt lat="49.6075583" lon="8.0034311"><name>Göllheim</name><desc>highway=motorway_junction
+name=Göllheim
+ref=12
+id=node/277824779</desc></wpt><wpt lat="49.2115629" lon="7.6438806"><name>Pirmasens-Waldfriedhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=55213
+TMC:cid_58:tabcd_1:NextLocationCode=60097
+TMC:cid_58:tabcd_1:PrevLocationCode=20279
+highway=motorway_junction
+name=Pirmasens-Waldfriedhof
+id=node/277832530</desc></wpt><wpt lat="49.9380325" lon="7.311633"><name>node/278418831</name><desc>highway=motorway_junction
+id=node/278418831</desc></wpt><wpt lat="49.2104011" lon="7.6940754"><name>Münchweiler an der Rodalb</name><desc>highway=motorway_junction
+name=Münchweiler an der Rodalb
+id=node/278908956</desc></wpt><wpt lat="49.2325967" lon="7.5651112"><name>Petersberg</name><desc>highway=motorway_junction
+name=Petersberg
+id=node/279026681</desc></wpt><wpt lat="49.4365191" lon="8.4071707"><name>Rheingönheimer Kreuz</name><desc>highway=motorway_junction
+name=Rheingönheimer Kreuz
+id=node/279081216</desc></wpt><wpt lat="49.2300705" lon="7.5858898"><name>Pirmasens-Fehrbach</name><desc>highway=motorway_junction
+name=Pirmasens-Fehrbach
+id=node/279171932</desc></wpt><wpt lat="49.2146477" lon="7.6487895"><name>Pirmasens-Waldfriedhof</name><desc>highway=motorway_junction
+name=Pirmasens-Waldfriedhof
+id=node/279240450</desc></wpt><wpt lat="49.6064181" lon="8.0006988"><name>Göllheim</name><desc>highway=motorway_junction
+name=Göllheim
+ref=12
+id=node/279242547</desc></wpt><wpt lat="49.6664457" lon="8.0245727"><name>Kirchheimbolanden</name><desc>highway=motorway_junction
+name=Kirchheimbolanden
+ref=11
+id=node/279243706</desc></wpt><wpt lat="49.6717212" lon="8.0251915"><name>Kirchheimbolanden</name><desc>highway=motorway_junction
+name=Kirchheimbolanden
+ref=11
+id=node/279243791</desc></wpt><wpt lat="49.5370022" lon="8.3972272"><name>BASF Tor 15 / Nachtweide</name><desc>highway=motorway_junction
+name=BASF Tor 15 / Nachtweide
+id=node/280400898</desc></wpt><wpt lat="49.5377043" lon="8.3998505"><name>node/280400945</name><desc>highway=motorway_junction
+id=node/280400945</desc></wpt><wpt lat="49.244787" lon="7.3587468"><name>Zweibrücken-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12508
+TMC:cid_58:tabcd_1:NextLocationCode=12509
+TMC:cid_58:tabcd_1:PrevLocationCode=12507
+highway=motorway_junction
+name=Zweibrücken-Mitte
+ref=32
+id=node/280708037</desc></wpt><wpt lat="49.2070946" lon="7.6260343"><name>Pirmasens-Haseneckstraße</name><desc>highway=motorway_junction
+name=Pirmasens-Haseneckstraße
+id=node/280945749</desc></wpt><wpt lat="49.2070178" lon="7.6258233"><name>Pirmasens-Haseneckstraße</name><desc>highway=motorway_junction
+name=Pirmasens-Haseneckstraße
+id=node/281066154</desc></wpt><wpt lat="49.2104698" lon="7.6665158"><name>Beckenhof/Industriegebiet Hombrunnerhof</name><desc>highway=motorway_junction
+name=Beckenhof/Industriegebiet Hombrunnerhof
+id=node/281069619</desc></wpt><wpt lat="49.2105409" lon="7.6932295"><name>Münchweiler an der Rodalb</name><desc>highway=motorway_junction
+name=Münchweiler an der Rodalb
+id=node/281070952</desc></wpt><wpt lat="49.2031444" lon="7.6949253"><name>Ruppertsweiler</name><desc>highway=motorway_junction
+name=Ruppertsweiler
+id=node/281071064</desc></wpt><wpt lat="49.3894171" lon="7.600992"><name>Bann</name><desc>highway=motorway_junction
+name=Bann
+ref=12
+id=node/281361507</desc></wpt><wpt lat="49.1204731" lon="8.3069067"><name>Rheinzabern</name><desc>highway=motorway_junction
+name=Rheinzabern
+id=node/281396008</desc></wpt><wpt lat="50.1009566" lon="6.8638962"><name>Manderscheid</name><desc>highway=motorway_junction
+name=Manderscheid
+ref=122
+id=node/281919371</desc></wpt><wpt lat="50.2380893" lon="7.0788957"><name>Laubach</name><desc>highway=motorway_junction
+name=Laubach
+ref=3
+id=node/281924694</desc></wpt><wpt lat="50.2239919" lon="7.1439426"><name>Kaisersesch</name><desc>highway=motorway_junction
+name=Kaisersesch
+ref=4
+id=node/281925332</desc></wpt><wpt lat="50.4090147" lon="7.5906629"><name>Bendorf-Süd / Weitersburg</name><desc>highway=motorway_junction
+name=Bendorf-Süd / Weitersburg
+id=node/281948090</desc></wpt><wpt lat="50.4117779" lon="7.5826368"><name>Bendorf / Neuwied</name><desc>highway=motorway_junction
+name=Bendorf / Neuwied
+id=node/281948092</desc></wpt><wpt lat="50.4105722" lon="7.5858063"><name>Bendorf / Neuwied</name><desc>highway=motorway_junction
+name=Bendorf / Neuwied
+id=node/281948483</desc></wpt><wpt lat="50.4137776" lon="7.5795051"><name>Bendorf / Neuwied</name><desc>highway=motorway_junction
+name=Bendorf / Neuwied
+id=node/281948977</desc></wpt><wpt lat="50.4329511" lon="7.5443502"><name>Neuwied-Engers</name><desc>highway=motorway_junction
+name=Neuwied-Engers
+id=node/281952214</desc></wpt><wpt lat="50.4329876" lon="7.5418018"><name>Neuwied-Engers</name><desc>highway=motorway_junction
+name=Neuwied-Engers
+id=node/281952296</desc></wpt><wpt lat="50.4419948" lon="7.4989945"><name>Friedrichshof</name><desc>highway=motorway_junction
+name=Friedrichshof
+id=node/281953124</desc></wpt><wpt lat="50.4214151" lon="7.4064715"><name>Andernach Süd</name><desc>highway=motorway_junction
+name=Andernach Süd
+id=node/281954745</desc></wpt><wpt lat="50.3556918" lon="7.5880301"><name>node/282034906</name><desc>highway=motorway_junction
+id=node/282034906</desc></wpt><wpt lat="50.4684877" lon="7.2317495"><name>Niederzissen</name><desc>highway=motorway_junction
+name=Niederzissen
+ref=32
+id=node/282265536</desc></wpt><wpt lat="49.8371016" lon="7.998809"><name>Gau-Bickelheim</name><desc>highway=motorway_junction
+name=Gau-Bickelheim
+ref=52
+wikidata=Q15943136
+id=node/282279450</desc></wpt><wpt lat="49.8417488" lon="7.9906615"><name>Gau-Bickelheim</name><desc>highway=motorway_junction
+name=Gau-Bickelheim
+ref=52
+id=node/282289654</desc></wpt><wpt lat="49.7875797" lon="8.0973036"><name>Bornheim</name><desc>highway=motorway_junction
+name=Bornheim
+ref=53
+id=node/282291753</desc></wpt><wpt lat="49.4840403" lon="8.4397301"><name>Heinigstraße</name><desc>access=yes
+highway=motorway_junction
+name=Heinigstraße
+note=Permanently closed due to construction problems. Plans about solving the issues will be made within the next years.
+id=node/282447139</desc></wpt><wpt lat="49.7487143" lon="8.0860918"><name>Erbes - Büdesheim</name><desc>highway=motorway_junction
+name=Erbes - Büdesheim
+ref=9
+id=node/282941357</desc></wpt><wpt lat="49.9718664" lon="7.4976328"><name>node/283062128</name><desc>highway=motorway_junction
+id=node/283062128</desc></wpt><wpt lat="49.4361087" lon="8.4074065"><name>node/283068848</name><desc>highway=motorway_junction
+id=node/283068848</desc></wpt><wpt lat="49.8571808" lon="6.8019858"><name>Föhren</name><desc>highway=motorway_junction
+name=Föhren
+ref=128
+id=node/283077412</desc></wpt><wpt lat="50.5539242" lon="7.2516392"><name>node/286044185</name><desc>highway=motorway_junction
+id=node/286044185</desc></wpt><wpt lat="50.4419555" lon="7.4846483"><name>node/286844987</name><desc>highway=motorway_junction
+id=node/286844987</desc></wpt><wpt lat="49.9684869" lon="6.5139049"><name>Bitburg-Zentrum</name><desc>highway=motorway_junction
+name=Bitburg-Zentrum
+noref=yes
+id=node/287017700</desc></wpt><wpt lat="49.9938976" lon="6.5282757"><name>Bitburg-Nord/Matzen</name><desc>highway=motorway_junction
+name=Bitburg-Nord/Matzen
+noref=yes
+id=node/287020918</desc></wpt><wpt lat="49.9191336" lon="6.537773"><name>Eßlingen/Scharfbillig</name><desc>highway=motorway_junction
+name=Eßlingen/Scharfbillig
+id=node/287231465</desc></wpt><wpt lat="50.3191771" lon="7.5016516"><name>node/287733862</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11.0
+TMC:cid_58:tabcd_1:LocationCode=55150
+highway=motorway_junction
+noref=yes
+id=node/287733862</desc></wpt><wpt lat="50.0177536" lon="6.6109304"><name>Badem</name><desc>highway=motorway_junction
+name=Badem
+ref=7
+id=node/289504973</desc></wpt><wpt lat="49.9987148" lon="7.6752972"><name>Rheinböllen</name><desc>highway=motorway_junction
+name=Rheinböllen
+id=node/290035621</desc></wpt><wpt lat="50.4255021" lon="7.3894689"><name>Andernach West</name><desc>highway=motorway_junction
+name=Andernach West
+id=node/290379817</desc></wpt><wpt lat="50.4648407" lon="7.4868101"><name>Neuwied-Niederbieber</name><desc>highway=motorway_junction
+name=Neuwied-Niederbieber
+name:etymology:wikidata=Q1301536
+id=node/290632911</desc></wpt><wpt lat="49.536951" lon="8.391494"><name>node/290971649</name><desc>destination=LU-Pfingstweide;LU-Edigheim
+highway=motorway_junction
+id=node/290971649</desc></wpt><wpt lat="49.9744674" lon="7.5157351"><name>node/291005182</name><desc>highway=motorway_junction
+id=node/291005182</desc></wpt><wpt lat="49.5341137" lon="8.3629258"><name>node/291977664</name><desc>highway=motorway_junction
+id=node/291977664</desc></wpt><wpt lat="49.5356848" lon="8.3766408"><name>Ludwigshafen-Edigheim</name><desc>highway=motorway_junction
+name=Ludwigshafen-Edigheim
+id=node/292060483</desc></wpt><wpt lat="49.5330965" lon="8.3665583"><name>Frankenthal-Mitte</name><desc>highway=motorway_junction
+name=Frankenthal-Mitte
+id=node/292144020</desc></wpt><wpt lat="49.5373628" lon="8.3958345"><name>node/292156692</name><desc>destination=Ludwigshafen-Zentrum
+highway=motorway_junction
+id=node/292156692</desc></wpt><wpt lat="49.2973577" lon="8.3956758"><name>Dudenhofen/ Römerberg</name><desc>highway=motorway_junction
+name=Dudenhofen/ Römerberg
+id=node/293719596</desc></wpt><wpt lat="49.903905" lon="6.8534262"><name>Salmtal</name><desc>highway=motorway_junction
+name=Salmtal
+ref=127
+id=node/295114503</desc></wpt><wpt lat="49.5374651" lon="7.2980644"><name>Reichweiler</name><desc>highway=motorway_junction
+name=Reichweiler
+ref=6
+id=node/295391064</desc></wpt><wpt lat="49.816516" lon="6.5732651"><name>Newel</name><desc>highway=motorway_junction
+name=Newel
+id=node/296186666</desc></wpt><wpt lat="49.6242752" lon="8.3013053"><name>node/299149095</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=23769
+TMC:cid_58:tabcd_1:NextLocationCode=23770
+TMC:cid_58:tabcd_1:PrevLocationCode=48223
+highway=motorway_junction
+id=node/299149095</desc></wpt><wpt lat="50.4394457" lon="7.5099234"><name>Heimbach-Weis</name><desc>highway=motorway_junction
+name=Heimbach-Weis
+id=node/299531694</desc></wpt><wpt lat="50.4406052" lon="7.5070191"><name>Heimbach-Weis</name><desc>highway=motorway_junction
+name=Heimbach-Weis
+id=node/299531756</desc></wpt><wpt lat="49.0880927" lon="8.2131893"><name>Kandel-Mitte</name><desc>highway=motorway_junction
+name=Kandel-Mitte
+ref=21
+id=node/300428211</desc></wpt><wpt lat="50.0996618" lon="6.8653687"><name>Manderscheid</name><desc>highway=motorway_junction
+name=Manderscheid
+ref=122
+id=node/300984435</desc></wpt><wpt lat="49.9981511" lon="8.1854803"><name>Dreieck Mainz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11940
+TMC:cid_58:tabcd_1:NextLocationCode=11941
+TMC:cid_58:tabcd_1:PrevLocationCode=11939
+highway=motorway_junction
+name=Dreieck Mainz
+ref=18
+id=node/301337150</desc></wpt><wpt lat="50.4421986" lon="7.4836633"><name>node/302309510</name><desc>highway=motorway_junction
+id=node/302309510</desc></wpt><wpt lat="50.4415289" lon="7.4860729"><name>node/302309720</name><desc>highway=motorway_junction
+id=node/302309720</desc></wpt><wpt lat="50.4424998" lon="7.4814856"><name>node/302309845</name><desc>highway=motorway_junction
+id=node/302309845</desc></wpt><wpt lat="49.5050399" lon="8.3552791"><name>Ludwigshafen-Oggersheim-Nord</name><desc>highway=motorway_junction
+name=Ludwigshafen-Oggersheim-Nord
+id=node/302962634</desc></wpt><wpt lat="49.3002775" lon="8.3998923"><name>Speyer-Süd</name><desc>highway=motorway_junction
+name=Speyer-Süd
+id=node/303606930</desc></wpt><wpt lat="49.3645577" lon="8.42191"><name>Otterstadt</name><desc>highway=motorway_junction
+name=Otterstadt
+id=node/305255960</desc></wpt><wpt lat="50.4092547" lon="7.5895785"><name>Bendorf-Süd / Weitersburg</name><desc>highway=motorway_junction
+name=Bendorf-Süd / Weitersburg
+id=node/309381267</desc></wpt><wpt lat="49.210692" lon="7.6728672"><name>Beckenhof/Industriegebiet Hombrunnerhof</name><desc>highway=motorway_junction
+name=Beckenhof/Industriegebiet Hombrunnerhof
+id=node/309863996</desc></wpt><wpt lat="49.7156184" lon="8.0733323"><name>Freimersheim</name><desc>highway=motorway_junction
+name=Freimersheim
+ref=10
+id=node/310187262</desc></wpt><wpt lat="49.7489355" lon="8.0859908"><name>Erbes - Büdesheim</name><desc>highway=motorway_junction
+name=Erbes - Büdesheim
+ref=9
+id=node/311543388</desc></wpt><wpt lat="50.2076084" lon="6.8807463"><name>Daun</name><desc>highway=motorway_junction
+name=Daun
+ref=119
+id=node/311596838</desc></wpt><wpt lat="49.752057" lon="8.1290584"><name>Alzey</name><desc>highway=motorway_junction
+name=Alzey
+ref=55
+id=node/312336360</desc></wpt><wpt lat="50.5755469" lon="7.1173959"><name>node/312355131</name><desc>highway=motorway_junction
+id=node/312355131</desc></wpt><wpt lat="50.1183497" lon="7.6018548"><name>Pfalzfeld</name><desc>highway=motorway_junction
+name=Pfalzfeld
+ref=43
+id=node/312360536</desc></wpt><wpt lat="50.2141406" lon="7.5533229"><name>Boppard</name><desc>highway=motorway_junction
+name=Boppard
+ref=41
+id=node/312656275</desc></wpt><wpt lat="49.5547852" lon="7.8729355"><name>Winnweiler</name><desc>highway=motorway_junction
+name=Winnweiler
+ref=13
+id=node/312660826</desc></wpt><wpt lat="49.5544266" lon="7.8718315"><name>Winnweiler</name><desc>highway=motorway_junction
+name=Winnweiler
+ref=13
+id=node/312660837</desc></wpt><wpt lat="49.4906241" lon="8.3571679"><name>Ludwigshafen-Oggersheim</name><desc>highway=motorway_junction
+name=Ludwigshafen-Oggersheim
+id=node/313130127</desc></wpt><wpt lat="50.3024748" lon="7.4868573"><name>Koblenz / Dieblich</name><desc>highway=motorway_junction
+name=Koblenz / Dieblich
+ref=39
+id=node/313463912</desc></wpt><wpt lat="49.8107343" lon="6.757091"><name>Dreieck Moseltal</name><desc>highway=motorway_junction
+name=Dreieck Moseltal
+ref=4
+id=node/313472917</desc></wpt><wpt lat="50.3719403" lon="7.5096174"><name>Rastplatz Erdkaul</name><desc>highway=motorway_junction
+name=Rastplatz Erdkaul
+noref=yes
+id=node/316038909</desc></wpt><wpt lat="49.9437242" lon="6.5302968"><name>Bitburg-Flugplatz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=55097
+TMC:cid_58:tabcd_1:NextLocationCode=24180
+TMC:cid_58:tabcd_1:PrevLocationCode=40796
+highway=motorway_junction
+name=Bitburg-Flugplatz
+id=node/318550824</desc></wpt><wpt lat="50.1589282" lon="7.5941584"><name>Emmelshausen</name><desc>highway=motorway_junction
+name=Emmelshausen
+ref=42
+id=node/319354667</desc></wpt><wpt lat="49.3905979" lon="8.4154547"><name>Schifferstadt-Ost</name><desc>highway=motorway_junction
+name=Schifferstadt-Ost
+id=node/321428931</desc></wpt><wpt lat="49.8521799" lon="7.8157229"><name>node/321547695</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:LCLversion=11.0
+TMC:cid_58:tabcd_1:LocationCode=23391
+highway=motorway_junction
+noref=yes
+id=node/321547695</desc></wpt><wpt lat="49.8606727" lon="7.8625136"><name>node/321548410</name><desc>highway=motorway_junction
+noref=yes
+id=node/321548410</desc></wpt><wpt lat="50.1611706" lon="7.5944168"><name>Emmelshausen</name><desc>highway=motorway_junction
+name=Emmelshausen
+ref=42
+id=node/322115230</desc></wpt><wpt lat="50.2040186" lon="7.5758522"><name>node/322218719</name><desc>TMC:cid_58:tabcd_1:Class=point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11
+TMC:cid_58:tabcd_1:LocationCode=55196
+TMC:cid_58:tabcd_1:NextLocationCode=11985
+TMC:cid_58:tabcd_1:PrevLocationCode=55195
+highway=motorway_junction
+noref=yes
+type=TMC
+id=node/322218719</desc></wpt><wpt lat="50.206575" lon="7.5717783"><name>node/322218724</name><desc>TMC:cid_58:tabcd_1:Class=point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=11
+TMC:cid_58:tabcd_1:LocationCode=55195
+TMC:cid_58:tabcd_1:NextLocationCode=55196
+TMC:cid_58:tabcd_1:PrevLocationCode=11984
+highway=motorway_junction
+noref=yes
+type=TMC
+id=node/322218724</desc></wpt><wpt lat="50.4212573" lon="7.5660756"><name>Bendorf-Nord</name><desc>highway=motorway_junction
+name=Bendorf-Nord
+id=node/322805686</desc></wpt><wpt lat="49.8851782" lon="7.9361633"><name>node/323164927</name><desc>highway=motorway_junction
+noref=yes
+id=node/323164927</desc></wpt><wpt lat="49.3081782" lon="8.4337247"><name>Speyer-Vogelgesang</name><desc>highway=motorway_junction
+name=Speyer-Vogelgesang
+id=node/326140555</desc></wpt><wpt lat="50.4376966" lon="7.6438489"><name>Rastplatz Grenzau</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11
+TMC:cid_58:tabcd_1:LocationCode=11520
+highway=motorway_junction
+name=Rastplatz Grenzau
+noref=yes
+type=TMC
+id=node/330813902</desc></wpt><wpt lat="49.9320255" lon="7.9157301"><name>Bingen Mitte</name><desc>highway=motorway_junction
+name=Bingen Mitte
+ref=49
+id=node/330998183</desc></wpt><wpt lat="50.4106106" lon="7.4438874"><name>Neuwied</name><desc>TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LocationCode=25439
+highway=motorway_junction
+name=Neuwied
+id=node/331432470</desc></wpt><wpt lat="50.0207552" lon="6.6362937"><name>node/332281308</name><desc>highway=motorway_junction
+id=node/332281308</desc></wpt><wpt lat="50.5755999" lon="7.1140192"><name>Dreieck Bad Neuenahr-Ahrweiler</name><desc>highway=motorway_junction
+name=Dreieck Bad Neuenahr-Ahrweiler
+ref=30
+id=node/333660875</desc></wpt><wpt lat="49.854952" lon="6.5435659"><name>Helenenberg</name><desc>highway=motorway_junction
+name=Helenenberg
+id=node/335461968</desc></wpt><wpt lat="50.3163114" lon="7.3060369"><name>Polch</name><desc>highway=motorway_junction
+name=Polch
+ref=7
+id=node/335674044</desc></wpt><wpt lat="50.4353909" lon="7.4875552"><name>Neuwied-Blücherstraße</name><desc>alt_name=Distelfeld
+highway=motorway_junction
+name=Neuwied-Blücherstraße
+id=node/337513753</desc></wpt><wpt lat="49.8754362" lon="6.8336495"><name>Rastplatz Hetzerath</name><desc>TMC:cid_58:tabcd_1:LocationCode=55250
+highway=motorway_junction
+name=Rastplatz Hetzerath
+noref=yes
+id=node/341343935</desc></wpt><wpt lat="49.8607585" lon="6.806155"><name>Föhren</name><desc>highway=motorway_junction
+name=Föhren
+ref=128
+id=node/341347226</desc></wpt><wpt lat="49.4199612" lon="7.5258821"><name>Kreuz Landstuhl-West</name><desc>highway=motorway_junction
+name=Kreuz Landstuhl-West
+ref=10
+id=node/342261223</desc></wpt><wpt lat="50.5455982" lon="7.1972386"><name>Ehlingen</name><desc>highway=motorway_junction
+name=Ehlingen
+noref=yes
+id=node/346798505</desc></wpt><wpt lat="49.0728656" lon="8.2850614"><name>Jockgrim</name><desc>highway=motorway_junction
+name=Jockgrim
+id=node/347456294</desc></wpt><wpt lat="49.1009168" lon="8.3038337"><name>Kieswerk</name><desc>highway=motorway_junction
+name=Kieswerk
+id=node/347483514</desc></wpt><wpt lat="50.2464799" lon="7.2165901"><name>Kaifenheim</name><desc>highway=motorway_junction
+name=Kaifenheim
+ref=5
+id=node/355001950</desc></wpt><wpt lat="49.6212018" lon="8.3341173"><name>Horchheim</name><desc>highway=motorway_junction
+ref=Horchheim
+id=node/357154323</desc></wpt><wpt lat="50.4748106" lon="7.486741"><name>Neuwied-Oberbieber</name><desc>highway=motorway_junction
+name=Neuwied-Oberbieber
+name:etymology:wikidata=Q2009197
+id=node/359476408</desc></wpt><wpt lat="49.3959624" lon="7.5572593"><name>Landstuhl-Atzel</name><desc>highway=motorway_junction
+name=Landstuhl-Atzel
+ref=11
+id=node/360927571</desc></wpt><wpt lat="49.3973118" lon="7.5554923"><name>Landstuhl-Atzel</name><desc>highway=motorway_junction
+name=Landstuhl-Atzel
+ref=11
+id=node/360927644</desc></wpt><wpt lat="50.4549558" lon="7.4819344"><name>Neuwied, L 258</name><desc>highway=motorway_junction
+name=Neuwied, L 258
+id=node/364997379</desc></wpt><wpt lat="49.2168522" lon="7.5979469"><name>Pirmasens-Biebermühler Straße</name><desc>highway=motorway_junction
+name=Pirmasens-Biebermühler Straße
+wikidata=Q14848852
+wikipedia:nl=Aansluiting Pirmasens-Biebermühler Straße
+id=node/365179809</desc></wpt><wpt lat="49.2247858" lon="8.3555832"><name>Germersheim-Mitte</name><desc>highway=motorway_junction
+name=Germersheim-Mitte
+id=node/367658278</desc></wpt><wpt lat="49.9533076" lon="6.5246128"><name>Bitburg-Masholder</name><desc>highway=motorway_junction
+name=Bitburg-Masholder
+noref=yes
+id=node/372245884</desc></wpt><wpt lat="49.9396669" lon="6.5319873"><name>Bitburg-Flugplatz</name><desc>highway=motorway_junction
+name=Bitburg-Flugplatz
+id=node/372246029</desc></wpt><wpt lat="50.287091" lon="7.5113166"><name>node/372829302</name><desc>TMC:cid_58:tabcd_1:Class=point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11
+TMC:cid_58:tabcd_1:LocationCode=55197
+TMC:cid_58:tabcd_1:NextLocationCode=55198
+TMC:cid_58:tabcd_1:PrevLocationCode=6173
+highway=motorway_junction
+noref=yes
+type=TMC
+id=node/372829302</desc></wpt><wpt lat="50.2690806" lon="7.5090519"><name>node/372831329</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LocationCode=6173
+highway=motorway_junction
+noref=yes
+id=node/372831329</desc></wpt><wpt lat="49.891456" lon="8.1841972"><name>Saulheim</name><desc>highway=motorway_junction
+name=Saulheim
+ref=5
+id=node/387620277</desc></wpt><wpt lat="50.3334424" lon="7.6171819"><name>Koblenz-Horchheimer Höhe</name><desc>highway=motorway_junction
+name=Koblenz-Horchheimer Höhe
+noref=yes
+id=node/390274071</desc></wpt><wpt lat="50.2683899" lon="7.2292718"><name>Elztal Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LocationCode=40500
+highway=motorway_junction
+name=Elztal Nord
+noref=yes
+id=node/392013294</desc></wpt><wpt lat="49.8604705" lon="7.8606459"><name>node/406408176</name><desc>highway=motorway_junction
+noref=yes
+id=node/406408176</desc></wpt><wpt lat="49.6094744" lon="8.3768258"><name>node/406952230</name><desc>highway=motorway_junction
+noref=yes
+id=node/406952230</desc></wpt><wpt lat="49.2360517" lon="8.349839"><name>Lingenfeld-Süd</name><desc>highway=motorway_junction
+name=Lingenfeld-Süd
+id=node/412502025</desc></wpt><wpt lat="49.235993" lon="8.3515216"><name>Lingenfeld-Süd</name><desc>highway=motorway_junction
+name=Lingenfeld-Süd
+id=node/412502027</desc></wpt><wpt lat="50.2145604" lon="7.5513306"><name>Boppard</name><desc>highway=motorway_junction
+name=Boppard
+ref=41
+id=node/416425528</desc></wpt><wpt lat="50.203364" lon="6.2506092"><name>Bleialf</name><desc>highway=motorway_junction
+name=Bleialf
+ref=3
+id=node/416793229</desc></wpt><wpt lat="49.4701286" lon="8.2331115"><name>Friedelsheim</name><desc>highway=motorway_junction
+name=Friedelsheim
+ref=3
+id=node/440834140</desc></wpt><wpt lat="50.3960916" lon="7.5524858"><name>Koblenz-Nord</name><desc>highway=motorway_junction
+name=Koblenz-Nord
+ref=10
+id=node/442034796</desc></wpt><wpt lat="49.8401141" lon="7.7902284"><name>node/444793526</name><desc>highway=motorway_junction
+id=node/444793526</desc></wpt><wpt lat="50.5663318" lon="7.2430154"><name>node/458719378</name><desc>highway=motorway_junction
+id=node/458719378</desc></wpt><wpt lat="50.2646951" lon="7.5133038"><name>node/460791661</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LocationCode=11987
+highway=motorway_junction
+noref=yes
+id=node/460791661</desc></wpt><wpt lat="50.3327253" lon="7.6150645"><name>Koblenz-Horchheimer Höhe</name><desc>highway=motorway_junction
+name=Koblenz-Horchheimer Höhe
+noref=yes
+id=node/471558788</desc></wpt><wpt lat="49.9358736" lon="7.3440601"><name>Niedersohren</name><desc>highway=motorway_junction
+name=Niedersohren
+id=node/475372929</desc></wpt><wpt lat="50.5141292" lon="7.4830408"><name>Rengsdorf Nord</name><desc>highway=motorway_junction
+name=Rengsdorf Nord
+name:etymology:wikidata=Q566074
+id=node/476773680</desc></wpt><wpt lat="49.9904678" lon="6.7826163"><name>Landscheid</name><desc>highway=motorway_junction
+name=Landscheid
+ref=9
+id=node/492898634</desc></wpt><wpt lat="49.4722605" lon="7.9038697"><name>Enkenbach-Alsenborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11866
+TMC:cid_58:tabcd_1:NextLocationCode=55296
+TMC:cid_58:tabcd_1:PrevLocationCode=55295
+highway=motorway_junction
+name=Enkenbach-Alsenborn
+ref=17
+id=node/506235994</desc></wpt><wpt lat="49.9008754" lon="6.543422"><name>Meckel/Idenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=40793
+highway=motorway_junction
+name=Meckel/Idenheim
+noref=yes
+id=node/560375232</desc></wpt><wpt lat="49.9748243" lon="7.5857229"><name>node/598624401</name><desc>highway=motorway_junction
+id=node/598624401</desc></wpt><wpt lat="49.9780616" lon="7.6054461"><name>node/598629701</name><desc>highway=motorway_junction
+id=node/598629701</desc></wpt><wpt lat="49.9911486" lon="7.6467891"><name>node/598632016</name><desc>highway=motorway_junction
+id=node/598632016</desc></wpt><wpt lat="49.3169044" lon="8.4115119"><name>Speyer/Dudenhofen</name><desc>highway=motorway_junction
+name=Speyer/Dudenhofen
+id=node/600197417</desc></wpt><wpt lat="49.7961936" lon="7.660109"><name>node/600392779</name><desc>highway=motorway_junction
+id=node/600392779</desc></wpt><wpt lat="49.4371476" lon="8.3861279"><name>Mutterstadt-Süd</name><desc>highway=motorway_junction
+name=Mutterstadt-Süd
+id=node/606810094</desc></wpt><wpt lat="49.1880973" lon="8.3101836"><name>Bellheim-Süd</name><desc>ele=108.29
+highway=motorway_junction
+name=Bellheim-Süd
+id=node/618787928</desc></wpt><wpt lat="49.2403684" lon="7.3605034"><name>Zweibrücken-Mitte</name><desc>highway=motorway_junction
+name=Zweibrücken-Mitte
+ref=32
+id=node/647971161</desc></wpt><wpt lat="50.3119427" lon="7.2944251"><name>Rastplatz Rotendall</name><desc>highway=motorway_junction
+name=Rastplatz Rotendall
+noref=yes
+id=node/653287902</desc></wpt><wpt lat="49.4583939" lon="8.3608807"><name>Dreieck Ludwigshafen-Süd</name><desc>highway=motorway_junction
+name=Dreieck Ludwigshafen-Süd
+id=node/663467733</desc></wpt><wpt lat="49.3176842" lon="8.4112914"><name>Speyer/Dudenhofen</name><desc>highway=motorway_junction
+name=Speyer/Dudenhofen
+id=node/663713972</desc></wpt><wpt lat="49.2271441" lon="7.5921689"><name>Pirmasens-Fehrbach</name><desc>highway=motorway_junction
+name=Pirmasens-Fehrbach
+id=node/674019855</desc></wpt><wpt lat="49.8595155" lon="7.8910427"><name>node/674096247</name><desc>highway=motorway_junction
+noref=yes
+id=node/674096247</desc></wpt><wpt lat="49.8597306" lon="7.8909337"><name>node/674096248</name><desc>highway=motorway_junction
+noref=yes
+id=node/674096248</desc></wpt><wpt lat="49.8600287" lon="7.8967122"><name>node/674096330</name><desc>highway=motorway_junction
+noref=yes
+id=node/674096330</desc></wpt><wpt lat="49.8625369" lon="7.88854"><name>node/674096355</name><desc>highway=motorway_junction
+noref=yes
+id=node/674096355</desc></wpt><wpt lat="50.5656372" lon="7.2437025"><name>node/689089309</name><desc>highway=motorway_junction
+id=node/689089309</desc></wpt><wpt lat="50.0948057" lon="6.4475855"><name>Waxweiler</name><desc>highway=motorway_junction
+name=Waxweiler
+ref=5
+id=node/703464271</desc></wpt><wpt lat="50.2680755" lon="6.8257972"><name>Kelberg</name><desc>destination=Kelberg
+highway=motorway_junction
+name=Kelberg
+ref=117
+id=node/731653715</desc></wpt><wpt lat="50.5268112" lon="7.1877506"><name>Dreieck Sinzig</name><desc>highway=motorway_junction
+name=Dreieck Sinzig
+ref=31
+id=node/753599283</desc></wpt><wpt lat="49.3536052" lon="8.4294249"><name>Kreuz Speyer</name><desc>highway=motorway_junction
+name=Kreuz Speyer
+ref=63
+id=node/763330555</desc></wpt><wpt lat="49.5578734" lon="8.3108314"><name>Kreuz Frankenthal</name><desc>highway=motorway_junction
+name=Kreuz Frankenthal
+ref=59
+id=node/764540116</desc></wpt><wpt lat="49.5520409" lon="8.1873022"><name>Grünstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11869
+TMC:cid_58:tabcd_1:NextLocationCode=55301
+TMC:cid_58:tabcd_1:PrevLocationCode=55300
+ele=166.45
+highway=motorway_junction
+name=Grünstadt
+ref=19
+id=node/764614690</desc></wpt><wpt lat="49.4489518" lon="7.712725"><name>Kaiserslautern-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11864
+TMC:cid_58:tabcd_1:NextLocationCode=11865
+TMC:cid_58:tabcd_1:PrevLocationCode=11863
+alt_name=Anschlussstelle Kaiserslautern West
+highway=motorway_junction
+name=Kaiserslautern-West
+ref=15
+id=node/766849325</desc></wpt><wpt lat="49.4637916" lon="7.4497003"><name>Glan-Münchweiler</name><desc>highway=motorway_junction
+name=Glan-Münchweiler
+ref=8
+id=node/766927079</desc></wpt><wpt lat="49.2607062" lon="7.5951553"><name>Thaleischweiler-Fröschen</name><desc>highway=motorway_junction
+name=Thaleischweiler-Fröschen
+ref=14
+id=node/768192158</desc></wpt><wpt lat="49.2557827" lon="7.5928697"><name>Thaleischweiler-Fröschen</name><desc>highway=motorway_junction
+name=Thaleischweiler-Fröschen
+ref=14
+id=node/768221120</desc></wpt><wpt lat="50.017718" lon="6.609582"><name>Badem</name><desc>highway=motorway_junction
+name=Badem
+ref=7
+id=node/801126398</desc></wpt><wpt lat="49.7111096" lon="8.1447313"><name>Rastplatz Langewiese</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11
+TMC:cid_58:tabcd_1:LocationCode=55187
+TMC:cid_58:tabcd_1:NextLocationCode=55186
+TMC:cid_58:tabcd_1:PrevLocationCode=11969
+highway=motorway_junction
+name=Rastplatz Langewiese
+noref=yes
+type=TMC
+id=node/814095069</desc></wpt><wpt lat="50.2502185" lon="6.8282151"><name>Gerolstein</name><desc>highway=motorway_junction
+name=Gerolstein
+ref=118
+id=node/849851998</desc></wpt><wpt lat="50.2181863" lon="7.1131419"><name>Rastplatz Schöne Aussicht</name><desc>highway=motorway_junction
+name=Rastplatz Schöne Aussicht
+noref=yes
+id=node/868420788</desc></wpt><wpt lat="50.0073315" lon="6.6918882"><name>Spangdahlem</name><desc>highway=motorway_junction
+motorway_junction=8
+name=Spangdahlem
+ref=8
+id=node/897847693</desc></wpt><wpt lat="50.0078379" lon="6.6895363"><name>Spangdahlem</name><desc>highway=motorway_junction
+name=Spangdahlem
+ref=8
+id=node/897847823</desc></wpt><wpt lat="49.9709573" lon="7.4963838"><name>node/942629978</name><desc>highway=motorway_junction
+id=node/942629978</desc></wpt><wpt lat="50.1167253" lon="7.6023544"><name>Pfalzfeld</name><desc>highway=motorway_junction
+name=Pfalzfeld
+ref=43
+id=node/945012187</desc></wpt><wpt lat="49.9588773" lon="6.9388973"><name>Platten</name><desc>highway=motorway_junction
+name=Platten
+noref=yes
+id=node/975729304</desc></wpt><wpt lat="50.4281174" lon="7.6272652"><name>Rastplatz Albrechtshof</name><desc>highway=motorway_junction
+name=Rastplatz Albrechtshof
+noref=yes
+id=node/1028093067</desc></wpt><wpt lat="50.3804724" lon="7.5351489"><name>Rastplatz Schießer Weg</name><desc>highway=motorway_junction
+name=Rastplatz Schießer Weg
+noref=yes
+id=node/1076114588</desc></wpt><wpt lat="50.3295146" lon="7.2619443"><name>Hausen</name><desc>TMC:cid_58:tabcd_1:LocationCode=40817
+highway=motorway_junction
+name=Hausen
+id=node/1086427749</desc></wpt><wpt lat="50.4254818" lon="7.3896331"><name>Andernach West</name><desc>highway=motorway_junction
+name=Andernach West
+id=node/1102123824</desc></wpt><wpt lat="50.549062" lon="7.1455794"><name>Bad Neuenahr-Mitte</name><desc>highway=motorway_junction
+name=Bad Neuenahr-Mitte
+noref=yes
+id=node/1170629439</desc></wpt><wpt lat="50.3279733" lon="7.3807986"><name>Schnackenborn</name><desc>highway=motorway_junction
+name=Schnackenborn
+noref=yes
+id=node/1184076942</desc></wpt><wpt lat="50.3635853" lon="7.4311666"><name>node/1185926125</name><desc>highway=motorway_junction
+noref=yes
+id=node/1185926125</desc></wpt><wpt lat="50.3649372" lon="7.4258052"><name>node/1185926153</name><desc>highway=motorway_junction
+noref=yes
+id=node/1185926153</desc></wpt><wpt lat="50.046041" lon="6.913708"><name>Hasborn</name><desc>highway=motorway_junction
+name=Hasborn
+ref=123
+id=node/1189563739</desc></wpt><wpt lat="50.3278371" lon="7.3964959"><name>Rastplatz Münsterer Höhe</name><desc>highway=motorway_junction
+name=Rastplatz Münsterer Höhe
+noref=yes
+id=node/1198339895</desc></wpt><wpt lat="50.5478798" lon="7.1505742"><name>Bad Neuenahr-Mitte</name><desc>highway=motorway_junction
+name=Bad Neuenahr-Mitte
+noref=yes
+id=node/1203215591</desc></wpt><wpt lat="49.61968" lon="8.3620896"><name>node/1225496911</name><desc>highway=motorway_junction
+id=node/1225496911</desc></wpt><wpt lat="50.192737" lon="6.9268236"><name>Rastplatz Bierscheid</name><desc>highway=motorway_junction
+name=Rastplatz Bierscheid
+noref=yes
+id=node/1302786300</desc></wpt><wpt lat="49.4760471" lon="8.4209488"><name>Ludwigshafen-Bruchwiesenstraße</name><desc>highway=motorway_junction
+name=Ludwigshafen-Bruchwiesenstraße
+ref=9
+id=node/1306947831</desc></wpt><wpt lat="50.4143192" lon="7.5841106"><name>Bendorf / Neuwied</name><desc>highway=motorway_junction
+name=Bendorf / Neuwied
+ref=11
+id=node/1309209211</desc></wpt><wpt lat="50.4204793" lon="7.5676105"><name>Bendorf-Nord</name><desc>highway=motorway_junction
+name=Bendorf-Nord
+id=node/1309209240</desc></wpt><wpt lat="49.3931631" lon="8.340644"><name>Schifferstadt</name><desc>highway=motorway_junction
+name=Schifferstadt
+ref=62
+id=node/1327469063</desc></wpt><wpt lat="49.3914336" lon="8.3408058"><name>Schifferstadt</name><desc>highway=motorway_junction
+name=Schifferstadt
+ref=62
+id=node/1327469388</desc></wpt><wpt lat="49.8140354" lon="6.7576975"><name>Dreieck Moseltal</name><desc>highway=motorway_junction
+name=Dreieck Moseltal
+ref=130
+id=node/1344108158</desc></wpt><wpt lat="49.8379595" lon="6.7704949"><name>Schweich</name><desc>highway=motorway_junction
+name=Schweich
+ref=129
+id=node/1344108159</desc></wpt><wpt lat="49.8350847" lon="6.7660185"><name>Schweich</name><desc>highway=motorway_junction
+name=Schweich
+ref=129
+id=node/1344108161</desc></wpt><wpt lat="49.9627116" lon="7.0235871"><name>Traben-Trarbach</name><desc>highway=motorway_junction
+name=Traben-Trarbach
+noref=yes
+id=node/1345968382</desc></wpt><wpt lat="49.9509092" lon="6.9236158"><name>Altrich</name><desc>highway=motorway_junction
+name=Altrich
+noref=yes
+id=node/1345974628</desc></wpt><wpt lat="49.9619566" lon="6.9471956"><name>Platten</name><desc>highway=motorway_junction
+name=Platten
+noref=yes
+id=node/1345983221</desc></wpt><wpt lat="49.9641556" lon="7.018863"><name>Traben-Trarbach</name><desc>highway=motorway_junction
+name=Traben-Trarbach
+noref=yes
+id=node/1345994918</desc></wpt><wpt lat="49.8748534" lon="7.1202108"><name>node/1346009810</name><desc>highway=motorway_junction
+name:note=In dieser Richtung ist keine Ankündigungstafel aufgestellt, damit hat der Anschluss keinen Namen.
+noname=yes
+noref=yes
+id=node/1346009810</desc></wpt><wpt lat="50.4189581" lon="7.4210589"><name>Andernach Ost</name><desc>highway=motorway_junction
+name=Andernach Ost
+id=node/1347501760</desc></wpt><wpt lat="49.8894926" lon="7.1104836"><name>Bernkastel-Kues</name><desc>highway=motorway_junction
+name=Bernkastel-Kues
+id=node/1350247621</desc></wpt><wpt lat="49.9517519" lon="6.9254658"><name>Altrich</name><desc>highway=motorway_junction
+name=Altrich
+noref=yes
+id=node/1350902142</desc></wpt><wpt lat="50.2259014" lon="6.1960253"><name>Winterspelt</name><desc>highway=motorway_junction
+name=Winterspelt
+ref=2
+id=node/1375317796</desc></wpt><wpt lat="49.9287927" lon="7.93715"><name>node/1400006228</name><desc>highway=motorway_junction
+id=node/1400006228</desc></wpt><wpt lat="50.2525667" lon="6.8268848"><name>Gerolstein</name><desc>highway=motorway_junction
+name=Gerolstein
+ref=118
+id=node/1403172092</desc></wpt><wpt lat="49.6167885" lon="8.3588826"><name>node/1411951511</name><desc>highway=motorway_junction
+id=node/1411951511</desc></wpt><wpt lat="49.6176577" lon="8.3601175"><name>node/1411951520</name><desc>highway=motorway_junction
+id=node/1411951520</desc></wpt><wpt lat="50.4438796" lon="7.6646732"><name>Höhr-Grenzhausen</name><desc>highway=motorway_junction
+name=Höhr-Grenzhausen
+ref=12
+id=node/1416531468</desc></wpt><wpt lat="50.4834422" lon="7.3317911"><name>node/1421798007</name><desc>highway=motorway_junction
+id=node/1421798007</desc></wpt><wpt lat="50.4586468" lon="7.3619599"><name>Andernach-Namedy</name><desc>highway=motorway_junction
+name=Andernach-Namedy
+id=node/1421813048</desc></wpt><wpt lat="50.4828019" lon="7.3325249"><name>node/1421813164</name><desc>highway=motorway_junction
+id=node/1421813164</desc></wpt><wpt lat="49.9913574" lon="6.7808463"><name>Landscheid</name><desc>highway=motorway_junction
+name=Landscheid
+ref=9
+id=node/1430643535</desc></wpt><wpt lat="49.9725536" lon="8.2714704"><name>Mainz-Hechtsheim-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11944
+TMC:cid_58:tabcd_1:NextLocationCode=55021
+TMC:cid_58:tabcd_1:PrevLocationCode=40512
+highway=motorway_junction
+name=Mainz-Hechtsheim-Ost
+ref=22b
+id=node/1431073678</desc></wpt><wpt lat="50.0201779" lon="6.6322355"><name>node/1436609515</name><desc>highway=motorway_junction
+id=node/1436609515</desc></wpt><wpt lat="50.5461157" lon="7.154277"><name>Bad Neuenahr-Ost</name><desc>highway=motorway_junction
+name=Bad Neuenahr-Ost
+id=node/1438207027</desc></wpt><wpt lat="50.5353056" lon="7.5970228"><name>Dierdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10894
+TMC:cid_58:tabcd_1:NextLocationCode=10895
+TMC:cid_58:tabcd_1:PrevLocationCode=10893
+highway=motorway_junction
+name=Dierdorf
+ref=37
+id=node/1440554552</desc></wpt><wpt lat="49.5548317" lon="8.3593337"><name>Frankenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11872
+TMC:cid_58:tabcd_1:NextLocationCode=11873
+TMC:cid_58:tabcd_1:PrevLocationCode=11871
+highway=motorway_junction
+name=Frankenthal
+ref=22
+id=node/1459086419</desc></wpt><wpt lat="49.925109" lon="7.9433192"><name>Dreieck Nahetal</name><desc>highway=motorway_junction
+name=Dreieck Nahetal
+ref=50
+id=node/1459266668</desc></wpt><wpt lat="50.4133684" lon="7.2352957"><name>Wehr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11995
+TMC:cid_58:tabcd_1:NextLocationCode=11996
+TMC:cid_58:tabcd_1:PrevLocationCode=55278
+highway=motorway_junction
+name=Wehr
+ref=33
+id=node/1475072704</desc></wpt><wpt lat="50.4376246" lon="7.2242822"><name>Brohltal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=11.00
+TMC:cid_58:tabcd_1:LocationCode=11996
+highway=motorway_junction
+name=Brohltal
+noref=yes
+id=node/1475073123</desc></wpt><wpt lat="49.2009501" lon="7.746201"><name>Salzwoog/Hinterweidenthal</name><desc>highway=motorway_junction
+name=Salzwoog/Hinterweidenthal
+id=node/1489637592</desc></wpt><wpt lat="49.2534403" lon="7.3332264"><name>Zweibrücken-Ernstweiler</name><desc>highway=motorway_junction
+name=Zweibrücken-Ernstweiler
+ref=31
+id=node/1499108598</desc></wpt><wpt lat="49.2329649" lon="7.5591718"><name>Pirmasens</name><desc>highway=motorway_junction
+name=Pirmasens
+ref=15
+id=node/1540690806</desc></wpt><wpt lat="49.2329115" lon="7.5686169"><name>Petersberg</name><desc>highway=motorway_junction
+name=Petersberg
+id=node/1540691151</desc></wpt><wpt lat="50.6014576" lon="7.4317384"><name>Neustadt/Wied</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10899
+TMC:cid_58:tabcd_1:NextLocationCode=55255
+TMC:cid_58:tabcd_1:PrevLocationCode=10898
+highway=motorway_junction
+name=Neustadt/Wied
+ref=35
+id=node/1545947778</desc></wpt><wpt lat="49.2910173" lon="7.6169074"><name>Höheinöd</name><desc>highway=motorway_junction
+name=Höheinöd
+old_name=Parkplatz Sickingerhöhe
+id=node/1552611961</desc></wpt><wpt lat="49.3895684" lon="7.6010227"><name>Bann</name><desc>highway=motorway_junction
+name=Bann
+ref=12
+id=node/1552718749</desc></wpt><wpt lat="49.6753574" lon="6.9161935"><name>Reinsfeld</name><desc>highway=motorway_junction
+name=Reinsfeld
+ref=132
+id=node/1559586845</desc></wpt><wpt lat="50.4196053" lon="7.4759687"><name>Neuwied-Sandkauler Weg</name><desc>highway=motorway_junction
+ref=Neuwied-Sandkauler Weg
+id=node/1577303253</desc></wpt><wpt lat="50.4411236" lon="7.4885257"><name>node/1577304181</name><desc>highway=motorway_junction
+id=node/1577304181</desc></wpt><wpt lat="50.4418543" lon="7.4972614"><name>Friedrichshof</name><desc>highway=motorway_junction
+name=Friedrichshof
+id=node/1577304392</desc></wpt><wpt lat="50.4422899" lon="7.484685"><name>node/1577304580</name><desc>highway=motorway_junction
+id=node/1577304580</desc></wpt><wpt lat="50.4445918" lon="7.4845181"><name>node/1577304915</name><desc>highway=motorway_junction
+id=node/1577304915</desc></wpt><wpt lat="50.4522995" lon="7.4851866"><name>Neuwied, L 258</name><desc>highway=motorway_junction
+name=Neuwied, L 258
+id=node/1577305525</desc></wpt><wpt lat="50.427523" lon="7.4879135"><name>Neuwied-Engers</name><desc>TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LocationCode=56408
+alt_name=Neuwied-Block
+highway=motorway_junction
+name=Neuwied-Engers
+id=node/1578640048</desc></wpt><wpt lat="49.48066" lon="8.4315003"><name>Heinigstraße</name><desc>highway=motorway_junction
+name=Heinigstraße
+id=node/1579801004</desc></wpt><wpt lat="49.4805478" lon="8.3261686"><name>Ruchheim</name><desc>highway=motorway_junction
+name=Ruchheim
+ref=6
+id=node/1579941203</desc></wpt><wpt lat="49.4814692" lon="8.3555096"><name>Oggersheimer Kreuz</name><desc>highway=motorway_junction
+name=Oggersheimer Kreuz
+ref=7
+id=node/1579941302</desc></wpt><wpt lat="49.4805879" lon="8.3258924"><name>Ruchheim</name><desc>highway=motorway_junction
+name=Ruchheim
+ref=6
+id=node/1579961001</desc></wpt><wpt lat="49.4786862" lon="8.3176558"><name>Kreuz Ludwigshafen</name><desc>highway=motorway_junction
+name=Kreuz Ludwigshafen
+ref=5
+id=node/1579984940</desc></wpt><wpt lat="49.4755585" lon="8.3069482"><name>Kreuz Ludwigshafen</name><desc>highway=motorway_junction
+name=Kreuz Ludwigshafen
+ref=5
+id=node/1580033892</desc></wpt><wpt lat="49.4719351" lon="8.280002"><name>Maxdorf</name><desc>highway=motorway_junction
+name=Maxdorf
+ref=4
+id=node/1580089027</desc></wpt><wpt lat="49.4720237" lon="8.2836201"><name>Maxdorf</name><desc>highway=motorway_junction
+name=Maxdorf
+ref=4
+id=node/1580089028</desc></wpt><wpt lat="49.9473526" lon="8.2173219"><name>Klein-Winternheim</name><desc>highway=motorway_junction
+name=Klein-Winternheim
+ref=3
+id=node/1586094577</desc></wpt><wpt lat="49.7588177" lon="6.5753291"><name>Markusberg</name><desc>highway=motorway_junction
+name=Markusberg
+noref=yes
+id=node/1591019739</desc></wpt><wpt lat="50.3367011" lon="6.5148272"><name>Stadtkyll-Süd</name><desc>highway=motorway_junction
+name=Stadtkyll-Süd
+noref=yes
+id=node/1591116226</desc></wpt><wpt lat="49.9273204" lon="7.9394582"><name>Dreieck Nahetal</name><desc>highway=motorway_junction
+name=Dreieck Nahetal
+ref=12
+id=node/1624380265</desc></wpt><wpt lat="49.7684694" lon="8.1122284"><name>Kreuz Alzey</name><desc>highway=motorway_junction
+name=Kreuz Alzey
+ref=54
+id=node/1638149188</desc></wpt><wpt lat="50.3916706" lon="7.3559779"><name>Kruft</name><desc>highway=motorway_junction
+name=Kruft
+ref=35
+id=node/1638149217</desc></wpt><wpt lat="49.3819595" lon="8.2491767"><name>Haßloch</name><desc>highway=motorway_junction
+name=Haßloch
+ref=10
+id=node/1645832697</desc></wpt><wpt lat="50.1933283" lon="6.929978"><name>Rastplatz Steininger Höhe</name><desc>highway=motorway_junction
+name=Rastplatz Steininger Höhe
+noref=yes
+id=node/1646749257</desc></wpt><wpt lat="50.2305951" lon="7.1882867"><name>Rastplatz Herberkaul</name><desc>highway=motorway_junction
+name=Rastplatz Herberkaul
+noref=yes
+id=node/1646749280</desc></wpt><wpt lat="50.3154162" lon="7.3383656"><name>Rastplatz Mammutgrube</name><desc>highway=motorway_junction
+name=Rastplatz Mammutgrube
+noref=yes
+id=node/1646749386</desc></wpt><wpt lat="49.3596547" lon="8.1966085"><name>Neustadt an der Weinstraße-Nord</name><desc>highway=motorway_junction
+name=Neustadt an der Weinstraße-Nord
+ref=12
+id=node/1646818764</desc></wpt><wpt lat="49.3603298" lon="8.1967178"><name>Neustadt an der Weinstraße-Nord</name><desc>highway=motorway_junction
+name=Neustadt an der Weinstraße-Nord
+ref=12
+id=node/1646818765</desc></wpt><wpt lat="49.9823734" lon="6.9155857"><name>Wittlich-Mitte</name><desc>highway=motorway_junction
+name=Wittlich-Mitte
+ref=125
+id=node/1650884336</desc></wpt><wpt lat="49.7844561" lon="6.8213679"><name>Rastplatz Mehringer Höhe</name><desc>highway=motorway_junction
+name=Rastplatz Mehringer Höhe
+id=node/1650884373</desc></wpt><wpt lat="50.2878856" lon="7.2490639"><name>Mayen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11514
+TMC:cid_58:tabcd_1:NextLocationCode=11515
+TMC:cid_58:tabcd_1:PrevLocationCode=40500
+highway=motorway_junction
+name=Mayen
+ref=6
+id=node/1673969582</desc></wpt><wpt lat="50.414008" lon="7.5788912"><name>Bendorf / Neuwied</name><desc>highway=motorway_junction
+name=Bendorf / Neuwied
+id=node/1674633664</desc></wpt><wpt lat="50.2252844" lon="7.1479658"><name>Kaisersesch</name><desc>highway=motorway_junction
+name=Kaisersesch
+ref=4
+id=node/1677677306</desc></wpt><wpt lat="49.6201343" lon="8.2934426"><name>Worms</name><desc>highway=motorway_junction
+name=Worms
+ref=58
+id=node/1677677321</desc></wpt><wpt lat="49.7627546" lon="6.5811256"><name>Sauertal</name><desc>highway=motorway_junction
+name=Sauertal
+noref=yes
+id=node/1681997733</desc></wpt><wpt lat="49.9767137" lon="8.2541523"><name>Mainz-Bretzenheim</name><desc>highway=motorway_junction
+name=Mainz-Bretzenheim
+noref=yes
+id=node/1686454946</desc></wpt><wpt lat="49.6199434" lon="8.367425"><name>node/1697880494</name><desc>highway=motorway_junction
+id=node/1697880494</desc></wpt><wpt lat="49.6246209" lon="8.2877031"><name>node/1704485547</name><desc>highway=motorway_junction
+id=node/1704485547</desc></wpt><wpt lat="50.5188928" lon="7.6949422"><name>Raststätte Landsberg an der Warthe</name><desc>highway=motorway_junction
+name=Raststätte Landsberg an der Warthe
+id=node/1797629404</desc></wpt><wpt lat="50.523468" lon="7.6713632"><name>Raststätte Sessenhausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10893
+TMC:cid_58:tabcd_1:NextLocationCode=10894
+TMC:cid_58:tabcd_1:PrevLocationCode=10892
+highway=motorway_junction
+name=Raststätte Sessenhausen
+id=node/1797629446</desc></wpt><wpt lat="50.027722" lon="6.5261049"><name>Nattenheim/Fließem</name><desc>highway=motorway_junction
+name=Nattenheim/Fließem
+noref=yes
+id=node/1837720148</desc></wpt><wpt lat="49.8723364" lon="6.8272934"><name>Rastplatz Rivenich</name><desc>highway=motorway_junction
+name=Rastplatz Rivenich
+noref=yes
+id=node/1856060774</desc></wpt><wpt lat="50.2311813" lon="7.191201"><name>Rastplatz Belzweide</name><desc>highway=motorway_junction
+name=Rastplatz Belzweide
+noref=yes
+id=node/1939211802</desc></wpt><wpt lat="49.5359401" lon="8.400512"><name>node/1945160269</name><desc>destination=BASF Tor 15;Nachtweide
+highway=motorway_junction
+id=node/1945160269</desc></wpt><wpt lat="49.4801552" lon="8.3653351"><name>Oggersheimer Kreuz</name><desc>highway=motorway_junction
+name=Oggersheimer Kreuz
+ref=7
+id=node/1945160277</desc></wpt><wpt lat="49.5198076" lon="8.411706"><name>Oppau</name><desc>highway=motorway_junction
+name=Oppau
+id=node/1945161411</desc></wpt><wpt lat="50.6262986" lon="7.2192915"><name>Rheinbreitbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=48828
+TMC:cid_58:tabcd_1:NextLocationCode=55779
+TMC:cid_58:tabcd_1:PrevLocationCode=48789
+highway=motorway_junction
+name=Rheinbreitbach
+id=node/1950768353</desc></wpt><wpt lat="50.3887697" lon="7.5402983"><name>Koblenz-Nord</name><desc>highway=motorway_junction
+name=Koblenz-Nord
+ref=10
+wikidata=Q4303099
+id=node/1989662110</desc></wpt><wpt lat="49.7843273" lon="6.8152011"><name>Rastplatz Rioler Wald</name><desc>highway=motorway_junction
+name=Rastplatz Rioler Wald
+id=node/2074756689</desc></wpt><wpt lat="49.9599893" lon="6.8480707"><name>Wittlich-West</name><desc>highway=motorway_junction
+name=Wittlich-West
+ref=10
+id=node/2098206110</desc></wpt><wpt lat="49.214835" lon="8.125861"><name>Landau-Nußdorf / Edesheim</name><desc>highway=motorway_junction
+name=Landau-Nußdorf / Edesheim
+id=node/2127080681</desc></wpt><wpt lat="50.2071441" lon="6.8815244"><name>Daun</name><desc>highway=motorway_junction
+name=Daun
+ref=119
+id=node/2137925524</desc></wpt><wpt lat="49.5528351" lon="8.1768268"><name>Grünstadt</name><desc>highway=motorway_junction
+name=Grünstadt
+ref=19
+id=node/2142978930</desc></wpt><wpt lat="49.5180067" lon="8.3110854"><name>Rastplatz Auf dem Hahnen</name><desc>highway=motorway_junction
+name=Rastplatz Auf dem Hahnen
+id=node/2172273221</desc></wpt><wpt lat="49.6227661" lon="8.3662326"><name>node/2173249960</name><desc>highway=motorway_junction
+id=node/2173249960</desc></wpt><wpt lat="49.8745103" lon="7.9565417"><name>Rastplatz Steingewann</name><desc>highway=motorway_junction
+name=Rastplatz Steingewann
+noref=yes
+id=node/2175098991</desc></wpt><wpt lat="50.3958796" lon="7.3222603"><name>node/2184346139</name><desc>highway=motorway_junction
+noref=yes
+id=node/2184346139</desc></wpt><wpt lat="50.4978219" lon="7.4813648"><name>Rengsdorf West</name><desc>highway=motorway_junction
+name=Rengsdorf West
+name:etymology:wikidata=Q566074
+id=node/2187684699</desc></wpt><wpt lat="50.4983076" lon="7.4801494"><name>Rengsdorf West</name><desc>highway=motorway_junction
+name=Rengsdorf West
+name:etymology:wikidata=Q566074
+id=node/2187684703</desc></wpt><wpt lat="49.3059758" lon="8.4237651"><name>Speyer-Vogelgesang</name><desc>highway=motorway_junction
+name=Speyer-Vogelgesang
+id=node/2268135589</desc></wpt><wpt lat="49.7990228" lon="6.6556176"><name>Parkplatz Dicke Buche</name><desc>highway=motorway_junction
+name=Parkplatz Dicke Buche
+id=node/2293687135</desc></wpt><wpt lat="49.5376096" lon="7.2937231"><name>Reichweiler</name><desc>highway=motorway_junction
+name=Reichweiler
+ref=6
+id=node/2460910613</desc></wpt><wpt lat="49.6927525" lon="6.8947692"><name>Raststätte Hochwald West</name><desc>TMC:cid_58:tabcd_1:LocationCode=55143
+highway=motorway_junction
+name=Raststätte Hochwald West
+noref=yes
+id=node/2474318089</desc></wpt><wpt lat="50.311928" lon="7.6078147"><name>node/2481931619</name><desc>highway=motorway_junction
+id=node/2481931619</desc></wpt><wpt lat="49.5075702" lon="7.8445957"><name>Sembach</name><desc>destination=Sembach
+ele=307.28
+highway=motorway_junction
+name=Sembach
+ref=14
+id=node/2492961690</desc></wpt><wpt lat="49.5087823" lon="7.8447096"><name>Sembach</name><desc>destination=Sembach
+highway=motorway_junction
+name=Sembach
+ref=14
+id=node/2493073116</desc></wpt><wpt lat="49.1991987" lon="7.7409504"><name>Salzwoog/Hinterweidenthal</name><desc>highway=motorway_junction
+name=Salzwoog/Hinterweidenthal
+id=node/2519165036</desc></wpt><wpt lat="49.7008896" lon="8.2057157"><name>Gundersheim</name><desc>highway=motorway_junction
+name=Gundersheim
+ref=56
+id=node/2701448714</desc></wpt><wpt lat="49.9644795" lon="8.2384791"><name>Kreuz Mainz-Süd</name><desc>highway=motorway_junction
+layer=1
+name=Kreuz Mainz-Süd
+ref=21
+id=node/2840410420</desc></wpt><wpt lat="49.6221421" lon="8.3649555"><name>node/2930661078</name><desc>highway=motorway_junction
+id=node/2930661078</desc></wpt><wpt lat="49.436456" lon="8.3289052"><name>Mutterstadt-West</name><desc>highway=motorway_junction
+name=Mutterstadt-West
+id=node/2989945740</desc></wpt><wpt lat="49.437505" lon="8.3275847"><name>Mutterstadt-West</name><desc>highway=motorway_junction
+name=Mutterstadt-West
+id=node/2989945748</desc></wpt><wpt lat="49.4343555" lon="8.3302328"><name>Kreuz Mutterstadt</name><desc>highway=motorway_junction
+name=Kreuz Mutterstadt
+ref=61
+id=node/2989945749</desc></wpt><wpt lat="49.5537182" lon="8.3061069"><name>Kreuz Frankenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11871
+TMC:cid_58:tabcd_1:NextLocationCode=11872
+TMC:cid_58:tabcd_1:PrevLocationCode=55301
+ele=102.04
+highway=motorway_junction
+name=Kreuz Frankenthal
+ref=21
+id=node/3125039256</desc></wpt><wpt lat="50.3953184" lon="7.3370558"><name>Kruft</name><desc>highway=motorway_junction
+name=Kruft
+ref=35
+id=node/3134805829</desc></wpt><wpt lat="50.4373745" lon="7.4865578"><name>Neuwied-Blücherstraße</name><desc>alt_name=Distelfeld
+highway=motorway_junction
+name=Neuwied-Blücherstraße
+id=node/3197380239</desc></wpt><wpt lat="50.1760585" lon="6.8960819"><name>Dreieck Vulkaneifel</name><desc>highway=motorway_junction
+name=Dreieck Vulkaneifel
+ref=120
+id=node/3199049525</desc></wpt><wpt lat="49.9377943" lon="7.3064388"><name>node/3349678796</name><desc>highway=motorway_junction
+id=node/3349678796</desc></wpt><wpt lat="50.2111271" lon="6.9765811"><name>Ulmen</name><desc>highway=motorway_junction
+name=Ulmen
+ref=2
+id=node/3407755037</desc></wpt><wpt lat="49.2201517" lon="7.5423331"><name>Pirmasens-Winzeln</name><desc>highway=motorway_junction
+name=Pirmasens-Winzeln
+ref=36
+id=node/3433616809</desc></wpt><wpt lat="50.0279605" lon="8.2114704"><name>Mainz-Mombach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12098
+TMC:cid_58:tabcd_1:NextLocationCode=12099
+TMC:cid_58:tabcd_1:PrevLocationCode=12097
+highway=motorway_junction
+layer=2
+name=Mainz-Mombach
+ref=4
+id=node/3450702901</desc></wpt><wpt lat="50.0376569" lon="6.5333813"><name>Bitburg</name><desc>highway=motorway_junction
+name=Bitburg
+ref=6
+id=node/3648040901</desc></wpt><wpt lat="50.038973" lon="6.5204503"><name>Bitburg</name><desc>highway=motorway_junction
+name=Bitburg
+ref=6
+id=node/3648040918</desc></wpt><wpt lat="50.0940088" lon="6.4480979"><name>Waxweiler</name><desc>highway=motorway_junction
+name=Waxweiler
+ref=5
+id=node/3648062500</desc></wpt><wpt lat="50.2029052" lon="6.251349"><name>Bleialf</name><desc>highway=motorway_junction
+name=Bleialf
+ref=3
+id=node/3671897731</desc></wpt><wpt lat="50.328394" lon="7.4064863"><name>Ochtendung</name><desc>highway=motorway_junction
+name=Ochtendung
+ref=8
+id=node/3757622188</desc></wpt><wpt lat="49.773426" lon="6.6701373"><name>Trier-Verteilerkreis</name><desc>highway=motorway_junction
+name=Trier-Verteilerkreis
+ref=1
+id=node/3771453045</desc></wpt><wpt lat="49.9019029" lon="6.5430054"><name>Meckel/Idenheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=40793
+TMC:cid_58:tabcd_1:NextLocationCode=55096
+TMC:cid_58:tabcd_1:PrevLocationCode=40792
+highway=motorway_junction
+name=Meckel/Idenheim
+noref=yes
+id=node/3815151472</desc></wpt><wpt lat="49.2087875" lon="8.0950378"><name>Landau-Universität / -Klinikum / -Zoo</name><desc>highway=motorway_junction
+name=Landau-Universität / -Klinikum / -Zoo
+traffic_sign:forward=DE:276
+id=node/3910722978</desc></wpt><wpt lat="50.4139064" lon="7.5810087"><name>Bendorf / Neuwied</name><desc>highway=motorway_junction
+name=Bendorf / Neuwied
+ref=11
+id=node/4159253170</desc></wpt><wpt lat="49.9610338" lon="7.4629819"><name>Kirchberg/Reckershausen</name><desc>highway=motorway_junction
+name=Kirchberg/Reckershausen
+id=node/4456227103</desc></wpt><wpt lat="49.9597021" lon="7.4580843"><name>Kirchberg/Reckershausen</name><desc>highway=motorway_junction
+name=Kirchberg/Reckershausen
+id=node/4456227126</desc></wpt><wpt lat="49.9557125" lon="7.9479037"><name>Bingen Ost</name><desc>highway=motorway_junction
+name=Bingen Ost
+ref=13
+id=node/4835597539</desc></wpt><wpt lat="49.9290068" lon="7.2784846"><name>node/5091721493</name><desc>highway=motorway_junction
+id=node/5091721493</desc></wpt><wpt lat="49.2294537" lon="8.1485567"><name>Landau-Dammheim</name><desc>highway=motorway_junction
+name=Landau-Dammheim
+ref=15
+id=node/5236048036</desc></wpt><wpt lat="49.5229767" lon="8.3114034"><name>Rastplatz Auf dem Hirschen</name><desc>highway=motorway_junction
+name=Rastplatz Auf dem Hirschen
+id=node/5277584987</desc></wpt><wpt lat="49.8265416" lon="7.744914"><name>node/5879505569</name><desc>highway=motorway_junction
+noref=yes
+id=node/5879505569</desc></wpt><wpt lat="50.5456471" lon="7.156591"><name>Bad Neuenahr-Ost</name><desc>highway=motorway_junction
+name=Bad Neuenahr-Ost
+id=node/6164332535</desc></wpt><wpt lat="50.3275338" lon="7.2563799"><name>Hausen</name><desc>TMC:cid_58:tabcd_1:LocationCode=40817
+highway=motorway_junction
+name=Hausen
+id=node/6250170244</desc></wpt><wpt lat="49.8756613" lon="7.1184433"><name>Longkamp</name><desc>highway=motorway_junction
+name=Longkamp
+noref=yes
+id=node/6434607804</desc></wpt><wpt lat="49.6167755" lon="8.3433405"><name>Weinsheim</name><desc>highway=motorway_junction
+ref=Weinsheim
+id=node/6697242761</desc></wpt><wpt lat="49.6157898" lon="8.3483299"><name>Weinsheim</name><desc>highway=motorway_junction
+ref=Weinsheim
+id=node/6697261699</desc></wpt><wpt lat="49.7821355" lon="6.5770005"><name>Aach/Trierweiler</name><desc>highway=motorway_junction
+name=Aach/Trierweiler
+id=node/6913902954</desc></wpt><wpt lat="49.7812745" lon="6.577614"><name>Aach/Trierweiler</name><desc>highway=motorway_junction
+name=Aach/Trierweiler
+id=node/6913906216</desc></wpt><wpt lat="49.8365668" lon="6.5558423"><name>Ralingen</name><desc>highway=motorway_junction
+name=Ralingen
+id=node/6915249802</desc></wpt><wpt lat="49.8369505" lon="6.5555939"><name>Ralingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=49172
+TMC:cid_58:tabcd_1:NextLocationCode=24179
+TMC:cid_58:tabcd_1:PrevLocationCode=48841
+highway=motorway_junction
+name=Ralingen
+id=node/6915249833</desc></wpt><wpt lat="49.6162883" lon="8.3453057"><name>Weinsheim</name><desc>highway=motorway_junction
+ref=Weinsheim
+id=node/7112550407</desc></wpt><wpt lat="49.2089806" lon="8.0951384"><name>Landau-Universität / -Klinikum / -Zoo</name><desc>highway=motorway_junction
+name=Landau-Universität / -Klinikum / -Zoo
+id=node/8125292557</desc></wpt><wpt lat="49.2912871" lon="7.6172751"><name>Höheinöd</name><desc>highway=motorway_junction
+name=Höheinöd
+id=node/8484765246</desc></wpt><wpt lat="50.4159739" lon="7.4474083"><name>Weißenthurm</name><desc>highway=motorway_junction
+ref=Weißenthurm
+id=node/8850902942</desc></wpt><wpt lat="49.5542062" lon="8.3498445"><name>Frankenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11872
+TMC:cid_58:tabcd_1:NextLocationCode=11873
+TMC:cid_58:tabcd_1:PrevLocationCode=11871
+highway=motorway_junction
+name=Frankenthal
+ref=22
+id=node/9247497030</desc></wpt></gpx>

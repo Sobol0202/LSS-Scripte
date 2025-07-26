@@ -1,0 +1,2377 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.9582946" lon="8.2697885"><name>Dornsheimer Weg</name><desc>local_ref=A
+name=Dornsheimer Weg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=129257
+id=node/162791982</desc></wpt><wpt lat="49.9597658" lon="8.2682114"><name>Mühldreieck</name><desc>local_ref=A
+name=Mühldreieck
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=405246
+id=node/162792014</desc></wpt><wpt lat="49.9570408" lon="8.274906"><name>Bürgerhaus</name><desc>name=Bürgerhaus
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=125962
+id=node/173417821</desc></wpt><wpt lat="49.9568549" lon="8.2750425"><name>Bürgerhaus</name><desc>name=Bürgerhaus
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=125962
+id=node/173417902</desc></wpt><wpt lat="49.9582496" lon="8.2697787"><name>Dornsheimer Weg</name><desc>local_ref=B
+name=Dornsheimer Weg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=129257
+id=node/173417936</desc></wpt><wpt lat="49.9635878" lon="8.2695376"><name>Carl-Zeiss-Straße</name><desc>local_ref=A
+name=Carl-Zeiss-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=405245
+wheelchair=yes
+id=node/173439085</desc></wpt><wpt lat="49.9718288" lon="8.2710555"><name>Jägerhaus</name><desc>bus=yes
+highway=bus_stop
+name=Jägerhaus
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=118044
+id=node/173439096</desc></wpt><wpt lat="49.9595664" lon="8.2682824"><name>Mühldreieck</name><desc>local_ref=B
+name=Mühldreieck
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=405246
+wheelchair=yes
+id=node/198193235</desc></wpt><wpt lat="49.9632953" lon="8.2693254"><name>Carl-Zeiss-Straße</name><desc>local_ref=B
+name=Carl-Zeiss-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=405245
+wheelchair=yes
+id=node/198193263</desc></wpt><wpt lat="49.9767536" lon="8.2700056"><name>Kurmainz-Kaserne/Akademie der Wissenschaften</name><desc>local_ref=B
+name=Kurmainz-Kaserne/Akademie der Wissenschaften
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+tram=yes
+id=node/223958637</desc></wpt><wpt lat="49.9767582" lon="8.2700473"><name>Kurmainz Kaserne/Akademie der Wissenschaften</name><desc>local_ref=A
+name=Kurmainz Kaserne/Akademie der Wissenschaften
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+tram=yes
+id=node/223958653</desc></wpt><wpt lat="49.9675129" lon="8.2752291"><name>Büdinger Straße</name><desc>name=Büdinger Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/243047932</desc></wpt><wpt lat="49.980948" lon="8.2690504"><name>Berliner Straße</name><desc>name=Berliner Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/245974635</desc></wpt><wpt lat="49.9811852" lon="8.2690272"><name>Berliner Straße</name><desc>name=Berliner Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/245974665</desc></wpt><wpt lat="49.9860091" lon="8.2662947"><name>Pariser Tor</name><desc>local_ref=B
+name=Pariser Tor
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/245975486</desc></wpt><wpt lat="49.9860955" lon="8.2662741"><name>Pariser Tor</name><desc>local_ref=A
+name=Pariser Tor
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/245975491</desc></wpt><wpt lat="49.0522585" lon="8.2497906"><name>Wörth Rathaus</name><desc>name=Wörth Rathaus
+operator=Albtal-Verkehrs-Gesellschaft mbH
+public_transport=station
+railway=tram_stop
+railway:ref=RWRTR
+train=yes
+uic_ref=8079211
+wheelchair=limited
+wikidata=Q124610296
+id=node/246210429</desc></wpt><wpt lat="49.9898072" lon="8.2662715"><name>An der Philippsschanze</name><desc>local_ref=B
+name=An der Philippsschanze
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/247390026</desc></wpt><wpt lat="49.9895696" lon="8.2662334"><name>An der Philippsschanze</name><desc>local_ref=A
+name=An der Philippsschanze
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/247390210</desc></wpt><wpt lat="49.0585814" lon="8.2439865"><name>Wörth (Rhein) Badepark</name><desc>name=Wörth (Rhein) Badepark
+public_transport=station
+railway=tram_stop
+railway:ref=RWRTK
+uic_ref=8079213
+wheelchair=yes
+wikidata=Q124610298
+id=node/247418497</desc></wpt><wpt lat="49.9995901" lon="8.2589461"><name>Hauptbahnhof West / Mainzer Taubertsbergbad</name><desc>bench=yes
+bin=yes
+local_ref=A
+name=Hauptbahnhof West / Mainzer Taubertsbergbad
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/249332117</desc></wpt><wpt lat="49.9973674" lon="8.2556428"><name>Agentur für Arbeit / Katholische Hochschule</name><desc>local_ref=A
+name=Agentur für Arbeit / Katholische Hochschule
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/249332121</desc></wpt><wpt lat="49.9952716" lon="8.2524203"><name>Hauptfriedhof/Blindenzentrum</name><desc>name=Hauptfriedhof/Blindenzentrum
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/249332123</desc></wpt><wpt lat="49.9871549" lon="8.2524654"><name>Zahlbach</name><desc>name=Zahlbach
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/249332136</desc></wpt><wpt lat="49.9955076" lon="8.1749695"><name>Römerquelle</name><desc>name=Römerquelle
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=1977-07-01
+tram=yes
+id=node/251672787</desc></wpt><wpt lat="49.9959795" lon="8.180257"><name>Jupiterweg</name><desc>name=Jupiterweg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=1977-07-01
+tram=yes
+id=node/251673348</desc></wpt><wpt lat="50.0118983" lon="8.248874"><name>Bismarckplatz</name><desc>name=Bismarckplatz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+source:name=http://www.rmv.de/
+start_date:name=2010-12-12
+tram=yes
+wheelchair=yes
+id=node/257809739</desc></wpt><wpt lat="49.9963365" lon="8.1881269"><name>Gemarkungsgrenze</name><desc>name=Gemarkungsgrenze
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/258046999</desc></wpt><wpt lat="49.9894992" lon="8.1788429"><name>Poststraße</name><desc>name=Poststraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+tram=yes
+wheelchair=yes
+id=node/258922066</desc></wpt><wpt lat="49.9983505" lon="8.1937505"><name>Viermorgenweg</name><desc>name=Viermorgenweg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/259046061</desc></wpt><wpt lat="50.012371" lon="8.2488643"><name>Bismarckplatz</name><desc>name=Bismarckplatz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+source:name=http://www.rmv.de/
+start_date:name=2010-12-12
+tram=yes
+wheelchair=yes
+id=node/259281180</desc></wpt><wpt lat="50.0151983" lon="8.2435491"><name>Schott AG</name><desc>name=Schott AG
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/259281207</desc></wpt><wpt lat="50.0162722" lon="8.2391945"><name>Zwerchallee</name><desc>bus=yes
+highway=bus_stop
+name=Zwerchallee
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/261208508</desc></wpt><wpt lat="50.0062566" lon="8.2551951"><name>Lessingstraße</name><desc>bus=yes
+highway=bus_stop
+name=Lessingstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/262215928</desc></wpt><wpt lat="50.0096817" lon="8.2511768"><name>Goethestraße</name><desc>bus=yes
+highway=bus_stop
+name=Goethestraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/262217173</desc></wpt><wpt lat="49.9820366" lon="8.2459455"><name>Bahnstraße</name><desc>name=Bahnstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/264942299</desc></wpt><wpt lat="49.9844299" lon="8.2526027"><name>Naturschaugarten Lindenmühle</name><desc>name=Naturschaugarten Lindenmühle
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+short_name=Lindenmühle
+tram=yes
+id=node/264942314</desc></wpt><wpt lat="49.4789727" lon="8.4349604"><name>LU Hauptbahnhof</name><desc>layer=-1
+name=LU Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+railway:ref:DBAG=RLHR
+ref:IFOPT=de:07314:2080:1
+ref:RNV:RBL=LIBF
+toilets:wheelchair=no
+tram=yes
+tunnel=yes
+uic_ref=518294
+wheelchair=no
+id=node/268283219</desc></wpt><wpt lat="49.4853759" lon="8.430605"><name>Marienkirche</name><desc>name=Marienkirche
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/268283220</desc></wpt><wpt lat="49.479938" lon="8.4507645"><name>Berliner Platz</name><desc>name=Berliner Platz
+old_name=Ludwigshafen Brücke
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+railway:ref:DBAG=RL P
+railway:ref:MVV_VBL=BEP
+ref:RNV:RBL=LIBP
+tram=yes
+uic_ref=518278
+id=node/268941388</desc></wpt><wpt lat="49.4814364" lon="8.4482276"><name>Kaiser-Wilhelm-Straße</name><desc>local_ref=B
+name=Kaiser-Wilhelm-Straße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+railway:ref:MVV_VBL=KWS
+ref:RNV:RBL=LIKW
+tram=yes
+id=node/268941407</desc></wpt><wpt lat="49.4777339" lon="8.4413868"><name>Bürgermeister-Kutterer-Straße</name><desc>name=Bürgermeister-Kutterer-Straße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=LIBK
+tram=yes
+wheelchair=yes
+id=node/268941418</desc></wpt><wpt lat="49.4905064" lon="8.3703623"><name>Wilhelm-Tell-Straße</name><desc>name=Wilhelm-Tell-Straße
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=OGWT
+tram=yes
+wheelchair=limited
+id=node/278711176</desc></wpt><wpt lat="49.4882679" lon="8.3873532"><name>Zum Guten Hirten/BG Unfallklinik</name><desc>name=Zum Guten Hirten/BG Unfallklinik
+operator=Rhein-Neckar-Verkehr GmbH
+railway=tram_stop
+ref:RNV:RBL=OGZG
+wheelchair=yes
+id=node/278711199</desc></wpt><wpt lat="49.4856192" lon="8.3973581"><name>Wollstraße</name><desc>name=Wollstraße
+railway=tram_stop
+ref:RNV:RBL=OGWO
+wheelchair=yes
+id=node/278711209</desc></wpt><wpt lat="49.4836168" lon="8.4133492"><name>Heinrich-Pesch-Haus</name><desc>name=Heinrich-Pesch-Haus
+railway=tram_stop
+ref:RNV:RBL=LIHP
+toilets:wheelchair=no
+wheelchair=yes
+id=node/278711222</desc></wpt><wpt lat="49.4948736" lon="8.4330835"><name>BASF (Tor1+2)</name><desc>name=BASF (Tor1+2)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/282453029</desc></wpt><wpt lat="49.4994285" lon="8.4249103"><name>Rheinfeldstraße (BASF Tor 3)</name><desc>name=Rheinfeldstraße (BASF Tor 3)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=FHRH
+tram=yes
+wheelchair=yes
+id=node/282455964</desc></wpt><wpt lat="49.5028602" lon="8.4156875"><name>Rottstückerweg</name><desc>name=Rottstückerweg
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/282455982</desc></wpt><wpt lat="49.5052664" lon="8.4103185"><name>Ammoniakstraße</name><desc>name=Ammoniakstraße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/282455996</desc></wpt><wpt lat="49.4631507" lon="8.4293112"><name>Am Schwanen</name><desc>bus=yes
+name=Am Schwanen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/289161072</desc></wpt><wpt lat="49.476018" lon="8.4444367"><name>Wittelsbachplatz</name><desc>name=Wittelsbachplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/289161084</desc></wpt><wpt lat="49.477271" lon="8.4486773"><name>Schützenstraße</name><desc>name=Schützenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/289322385</desc></wpt><wpt lat="49.9987965" lon="8.2668542"><name>Schillerplatz</name><desc>bench=yes
+bin=yes
+name=Schillerplatz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/292363598</desc></wpt><wpt lat="49.5123917" lon="8.4078793"><name>Oppau Süd (BASF Q 920)</name><desc>name=Oppau Süd (BASF Q 920)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/297637484</desc></wpt><wpt lat="49.5175909" lon="8.4100819"><name>Oppau Fritz-Haber-Straße (BASF Tor 12+13)</name><desc>name=Oppau Fritz-Haber-Straße (BASF Tor 12+13)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+railway:ref:MVV_VBL=OPA
+tram=yes
+wheelchair=yes
+id=node/297637490</desc></wpt><wpt lat="49.4531245" lon="8.4252154"><name>Giulinistraße</name><desc>name=Giulinistraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/300022228</desc></wpt><wpt lat="49.4717199" lon="8.4513815"><name>Amtsgericht</name><desc>name=Amtsgericht
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/300713976</desc></wpt><wpt lat="49.4915595" lon="8.4211233"><name>Ebertpark/Fichtestraße</name><desc>name=Ebertpark/Fichtestraße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/301116106</desc></wpt><wpt lat="49.4851069" lon="8.4434369"><name>Rathaus</name><desc>name=Rathaus
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+railway:ref:DBAG=RLRA
+railway:ref:MVV_VBL=RLU
+ref=3
+tram=yes
+tunnel=yes
+wheelchair=yes
+id=node/301317542</desc></wpt><wpt lat="49.4888151" lon="8.4409435"><name>Gartenstraße</name><desc>name=Gartenstraße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/301317573</desc></wpt><wpt lat="49.4920702" lon="8.4370129"><name>Hemshofstraße (BASF Tor 1+7)</name><desc>layer=-1
+name=Hemshofstraße (BASF Tor 1+7)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+tunnel=yes
+wheelchair=no
+id=node/301317574</desc></wpt><wpt lat="49.4724889" lon="8.4399841"><name>Südwest-Stadion</name><desc>name=Südwest-Stadion
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/303010426</desc></wpt><wpt lat="49.4436059" lon="8.4192042"><name>Rheingönheim Neubruch</name><desc>name=Rheingönheim Neubruch
+public_transport=stop_position
+railway=tram_stop
+railway:ref:MVV_VBL=RGH
+tram=yes
+id=node/305068975</desc></wpt><wpt lat="49.4462843" lon="8.4258396"><name>Brückweg</name><desc>name=Brückweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/318316183</desc></wpt><wpt lat="49.4686116" lon="8.4353153"><name>Stifterstraße</name><desc>name=Stifterstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/318324205</desc></wpt><wpt lat="49.4656337" lon="8.4318385"><name>Mundenheim Nord</name><desc>name=Mundenheim Nord
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/318324207</desc></wpt><wpt lat="49.4599173" lon="8.4276612"><name>Schillerschule</name><desc>name=Schillerschule
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/318324208</desc></wpt><wpt lat="49.456804" lon="8.4266785"><name>Hoheneckenstraße</name><desc>name=Hoheneckenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/318324209</desc></wpt><wpt lat="49.4968886" lon="8.4268972"><name>Schopenhauerstraße (AWETA)</name><desc>name=Schopenhauerstraße (AWETA)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/318328660</desc></wpt><wpt lat="49.992184" lon="8.2516596"><name>Römersteine</name><desc>name=Römersteine
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/318679375</desc></wpt><wpt lat="49.9931282" lon="8.2664506"><name>Am Gautor</name><desc>local_ref=B
+name=Am Gautor
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/321898733</desc></wpt><wpt lat="49.9933962" lon="8.2666836"><name>Am Gautor</name><desc>local_ref=A
+name=Am Gautor
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/321898737</desc></wpt><wpt lat="50.0059263" lon="8.2553579"><name>Lessingstraße</name><desc>bus=yes
+highway=bus_stop
+name=Lessingstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/351778242</desc></wpt><wpt lat="50.0092542" lon="8.2515375"><name>Goethestraße</name><desc>bus=yes
+highway=bus_stop
+name=Goethestraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/351778306</desc></wpt><wpt lat="49.9636303" lon="8.2797874"><name>Am Schinnergraben</name><desc>name=Am Schinnergraben
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/358464814</desc></wpt><wpt lat="50.0055059" lon="8.2212614"><name>Elbestraße</name><desc>local_ref=A
+name=Elbestraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/416909044</desc></wpt><wpt lat="50.0057838" lon="8.226145"><name>Hugo-Eckener-Straße</name><desc>line=50
+name=Hugo-Eckener-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/416909050</desc></wpt><wpt lat="50.0054258" lon="8.2311293"><name>An der Bruchspitze</name><desc>name=An der Bruchspitze
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/416909056</desc></wpt><wpt lat="50.0142363" lon="8.234142"><name>Turmstraße</name><desc>name=Turmstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/416909084</desc></wpt><wpt lat="49.9926346" lon="8.17926"><name>Königsborn</name><desc>name=Königsborn
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+id=node/505746913</desc></wpt><wpt lat="50.0155415" lon="8.2434971"><name>Schott AG</name><desc>bus=yes
+highway=bus_stop
+name=Schott AG
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1273000403</desc></wpt><wpt lat="49.4840111" lon="8.4235913"><name>Hauptfriedhof Ludwigshafen</name><desc>name=Hauptfriedhof Ludwigshafen
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=LIFR
+tram=yes
+wheelchair=limited
+id=node/1300762856</desc></wpt><wpt lat="49.4831575" lon="8.4293681"><name>Rohrlachstraße</name><desc>name=Rohrlachstraße
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=LIRL
+tram=yes
+id=node/1300763043</desc></wpt><wpt lat="49.049799" lon="8.2608187"><name>Wörth (Rhein) Bienwaldhalle</name><desc>check_date=2024-04-08
+name=Wörth (Rhein) Bienwaldhalle
+operator=Albtal-Verkehrs-Gesellschaft mbH
+public_transport=station
+railway=tram_stop
+railway:ref=RWRTB
+train=yes
+uic_ref=8079142
+wheelchair=limited
+wikidata=Q124610291
+id=node/1330171644</desc></wpt><wpt lat="50.0005373" lon="8.260325"><name>Hauptbahnhof</name><desc>local_ref=L
+name=Hauptbahnhof
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=Hauptbahnhof
+tram=yes
+id=node/1347171730</desc></wpt><wpt lat="50.0018459" lon="8.2597037"><name>Hauptbahnhof</name><desc>local_ref=B
+name=Hauptbahnhof
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1347171825</desc></wpt><wpt lat="49.999411" lon="8.2580607"><name>Hauptbahnhof West / Mainzer Taubertsbergbad</name><desc>bench=yes
+bin=yes
+local_ref=B
+name=Hauptbahnhof West / Mainzer Taubertsbergbad
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/1413872871</desc></wpt><wpt lat="50.0003422" lon="8.2634774"><name>Münsterplatz</name><desc>local_ref=B
+name=Münsterplatz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=yes
+tram=yes
+wheelchair=yes
+id=node/1416659548</desc></wpt><wpt lat="50.0005876" lon="8.2629915"><name>Münsterplatz</name><desc>local_ref=A
+name=Münsterplatz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1416659552</desc></wpt><wpt lat="50.0016092" lon="8.2598645"><name>Hauptbahnhof</name><desc>local_ref=A
+name=Hauptbahnhof
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1416745283</desc></wpt><wpt lat="50.0008601" lon="8.2601082"><name>Hauptbahnhof</name><desc>local_ref=K
+name=Hauptbahnhof
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=Hauptbahnhof
+tram=yes
+id=node/1416745285</desc></wpt><wpt lat="49.998684" lon="8.2668915"><name>Schillerplatz</name><desc>bench=yes
+bin=yes
+name=Schillerplatz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1425402367</desc></wpt><wpt lat="49.9971849" lon="8.2552775"><name>Agentur für Arbeit / Katholische Hochschule</name><desc>local_ref=B
+name=Agentur für Arbeit / Katholische Hochschule
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1425681294</desc></wpt><wpt lat="49.9821505" lon="8.2462182"><name>Bahnstraße</name><desc>name=Bahnstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1425681297</desc></wpt><wpt lat="49.9950573" lon="8.2523256"><name>Hauptfriedhof/Blindenzentrum</name><desc>name=Hauptfriedhof/Blindenzentrum
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1425681301</desc></wpt><wpt lat="49.9843147" lon="8.2523056"><name>Naturschaugarten Lindenmühle</name><desc>name=Naturschaugarten Lindenmühle
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+short_name=Lindenmühle
+tram=yes
+id=node/1425681311</desc></wpt><wpt lat="49.9919691" lon="8.2516826"><name>Römersteine</name><desc>name=Römersteine
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1425682018</desc></wpt><wpt lat="49.986918" lon="8.2523799"><name>Zahlbach</name><desc>name=Zahlbach
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1425682022</desc></wpt><wpt lat="49.995949" lon="8.180256"><name>Jupiterweg</name><desc>name=Jupiterweg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=1977-07-01
+tram=yes
+id=node/1505653796</desc></wpt><wpt lat="49.9893877" lon="8.1784921"><name>Poststraße</name><desc>name=Poststraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+tram=yes
+wheelchair=yes
+id=node/1505653804</desc></wpt><wpt lat="49.9954809" lon="8.1749602"><name>Römerquelle</name><desc>name=Römerquelle
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=1977-07-01
+tram=yes
+wheelchair=yes
+id=node/1505654120</desc></wpt><wpt lat="49.9963544" lon="8.1880983"><name>Gemarkungsgrenze</name><desc>name=Gemarkungsgrenze
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1506714267</desc></wpt><wpt lat="50.0013313" lon="8.2039797"><name>Kapellenstraße/Gesundheitszentrum</name><desc>name=Kapellenstraße/Gesundheitszentrum
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1506714310</desc></wpt><wpt lat="49.9982919" lon="8.1935437"><name>Viermorgenweg</name><desc>name=Viermorgenweg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1506715343</desc></wpt><wpt lat="50.0052975" lon="8.2307708"><name>An der Bruchspitze</name><desc>name=An der Bruchspitze
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1506774487</desc></wpt><wpt lat="50.0055388" lon="8.2213033"><name>Elbestraße</name><desc>bench=no
+bin=yes
+local_ref=B
+name=Elbestraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+survey:date=2025-02-13
+tram=yes
+wheelchair=limited
+id=node/1506774489</desc></wpt><wpt lat="50.0091955" lon="8.2348835"><name>Gonsbachgärten</name><desc>name=Gonsbachgärten
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1506774491</desc></wpt><wpt lat="50.0058114" lon="8.226163"><name>Hugo-Eckener-Straße</name><desc>line=50
+name=Hugo-Eckener-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506774501</desc></wpt><wpt lat="50.0096237" lon="8.2345715"><name>Gonsbachgärten</name><desc>name=Gonsbachgärten
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1506774621</desc></wpt><wpt lat="50.0142436" lon="8.234103"><name>Turmstraße</name><desc>name=Turmstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506774702</desc></wpt><wpt lat="49.9926349" lon="8.1792183"><name>Königsborn</name><desc>name=Königsborn
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1517978554</desc></wpt><wpt lat="50.0015587" lon="8.2048792"><name>Kapellenstraße/Gesundheitszentrum</name><desc>name=Kapellenstraße/Gesundheitszentrum
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1542594964</desc></wpt><wpt lat="50.002678" lon="8.2098859"><name>Nerotalstraße</name><desc>name=Nerotalstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1542594971</desc></wpt><wpt lat="50.0026587" lon="8.2096986"><name>Nerotalstraße</name><desc>name=Nerotalstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1542594982</desc></wpt><wpt lat="50.0035322" lon="8.2128993"><name>Josef-Ludwig-Platz</name><desc>name=Josef-Ludwig-Platz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1542595040</desc></wpt><wpt lat="50.0036306" lon="8.213358"><name>Josef-Ludwig-Platz</name><desc>name=Josef-Ludwig-Platz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1542595042</desc></wpt><wpt lat="50.0160186" lon="8.2523535"><name>Straßenbahnamt</name><desc>local_ref=A
+name=Straßenbahnamt
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2017-10-16
+tram=yes
+id=node/1668803555</desc></wpt><wpt lat="49.9713164" lon="8.2722304"><name>Jägerhaus</name><desc>name=Jägerhaus
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+id=node/1675869786</desc></wpt><wpt lat="49.4832169" lon="8.448169"><name>Ludwigstraße</name><desc>name=Ludwigstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1772669587</desc></wpt><wpt lat="49.4816831" lon="8.4487867"><name>Kaiser-Wilhelm-Straße</name><desc>local_ref=A
+name=Kaiser-Wilhelm-Straße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+railway:ref:MVV_VBL=KWS
+ref:RNV:RBL=LIKW
+tram=yes
+id=node/1772706819</desc></wpt><wpt lat="49.480171" lon="8.4458604"><name>Pfalzbau / Wilhelm-Hack-Museum</name><desc>name=Pfalzbau / Wilhelm-Hack-Museum
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=LIPF
+tram=yes
+wheelchair=yes
+id=node/1772706820</desc></wpt><wpt lat="49.4801016" lon="8.4455241"><name>Pfalzbau / Wilhelm-Hack-Museum</name><desc>bench=yes
+bin=yes
+bus=yes
+highway=bus_stop
+lit=yes
+name=Pfalzbau / Wilhelm-Hack-Museum
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=platform
+railway=tram_stop
+ref:RNV:RBL=LIPF
+shelter=yes
+tactile_paving=yes
+wheelchair=yes
+id=node/1772706821</desc></wpt><wpt lat="49.4760615" lon="8.4445509"><name>Wittelsbachplatz</name><desc>name=Wittelsbachplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772721004</desc></wpt><wpt lat="49.4738542" lon="8.448236"><name>Rottstraße</name><desc>name=Rottstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1772730082</desc></wpt><wpt lat="49.4715395" lon="8.4527686"><name>Luitpoldhafen</name><desc>name=Luitpoldhafen
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+railway:ref:MVV_VBL=LUH
+tram=yes
+wheelchair=no
+id=node/1772730112</desc></wpt><wpt lat="49.4977994" lon="8.4195629"><name>Friesenheim Mitte</name><desc>name=Friesenheim Mitte
+network=VRN
+network:wikidata=Q1553051
+old_name=Ruthenstraße
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1772751219</desc></wpt><wpt lat="49.4978024" lon="8.4128094"><name>Kreuzstraße</name><desc>name=Kreuzstraße
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772751220</desc></wpt><wpt lat="49.4992117" lon="8.4157048"><name>Hagellochstraße</name><desc>name=Hagellochstraße
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772751221</desc></wpt><wpt lat="49.4877174" lon="8.4265654"><name>Heinrich-Ries-Halle</name><desc>name=Heinrich-Ries-Halle
+old_name=Ludwigshafen Klinikum
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1772751222</desc></wpt><wpt lat="49.4881691" lon="8.4260491"><name>Heinrich-Ries-Halle</name><desc>bench=yes
+bin=yes
+bus=yes
+departures_board=yes
+highway=bus_stop
+lit=yes
+name=Heinrich-Ries-Halle
+network=Verkehrsverbund Rhein-Neckar
+network:guid=DE-BW-VRN
+network:short=VRN
+network:wikidata=Q1553051
+old_name=Ludwigshafen Klinikum
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=platform
+railway=tram_stop
+shelter=yes
+source:geometry=Bing 2012
+tactile_paving=no
+tram=yes
+id=node/1772751223</desc></wpt><wpt lat="49.4901543" lon="8.4231703"><name>Klinikum</name><desc>name=Klinikum
+old_name=Bremserstraße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=FHKL
+tram=yes
+uic_ref=508018
+id=node/1772751224</desc></wpt><wpt lat="49.4904531" lon="8.4226892"><name>Klinikum</name><desc>name=Klinikum
+old_name=Bremserstraße
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=FHKL
+tram=yes
+uic_ref=508018
+id=node/1772751225</desc></wpt><wpt lat="49.4964693" lon="8.4267875"><name>Schopenhauerstraße (AWETA)</name><desc>name=Schopenhauerstraße (AWETA)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1772751226</desc></wpt><wpt lat="49.4934171" lon="8.4184989"><name>Schwalbenweg</name><desc>name=Schwalbenweg
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1772751227</desc></wpt><wpt lat="49.4955569" lon="8.4154667"><name>Sternstraße</name><desc>name=Sternstraße
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=FHST
+tram=yes
+wheelchair=no
+id=node/1772751228</desc></wpt><wpt lat="49.4991877" lon="8.4158553"><name>Hagellochstraße</name><desc>name=Hagellochstraße
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772751470</desc></wpt><wpt lat="49.4832208" lon="8.4289841"><name>Rohrlachstraße</name><desc>name=Rohrlachstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1772763828</desc></wpt><wpt lat="49.488156" lon="8.4260001"><name>Heinrich-Ries-Halle</name><desc>name=Heinrich-Ries-Halle
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=no
+tram=yes
+id=node/1772763940</desc></wpt><wpt lat="49.490039" lon="8.4174381"><name>Ebertpark</name><desc>name=Ebertpark
+railway=tram_stop
+id=node/1772763971</desc></wpt><wpt lat="49.4974021" lon="8.413296"><name>Kreuzstraße</name><desc>name=Kreuzstraße
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772764144</desc></wpt><wpt lat="49.4854751" lon="8.3976217"><name>Wollstraße</name><desc>name=Wollstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1772774126</desc></wpt><wpt lat="49.4462922" lon="8.4258846"><name>Brückweg</name><desc>name=Brückweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772852378</desc></wpt><wpt lat="49.4495823" lon="8.4237643"><name>Friedensstraße</name><desc>name=Friedensstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772852407</desc></wpt><wpt lat="49.449647" lon="8.4237958"><name>Friedensstraße</name><desc>name=Friedensstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772852408</desc></wpt><wpt lat="49.4601171" lon="8.4277733"><name>Schillerschule</name><desc>name=Schillerschule
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1772852471</desc></wpt><wpt lat="49.491082" lon="8.3789377"><name>Mannheimer Tor</name><desc>highway=bus_stop
+name=Mannheimer Tor
+public_transport=platform
+railway=tram_stop
+ref:RNV:RBL=OGMT
+shelter=no
+source:position=HiRes aerial imagery
+wheelchair=no
+id=node/1772878755</desc></wpt><wpt lat="49.4881326" lon="8.3640532"><name>Oggersheim Comeniusstraße</name><desc>exit=only
+name=Oggersheim Comeniusstraße
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+ref=D
+tram=yes
+id=node/1772878945</desc></wpt><wpt lat="49.4924965" lon="8.3765466"><name>Oggersheim Hans-Warsch-Platz</name><desc>name=Oggersheim Hans-Warsch-Platz
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=OGHW
+tram=yes
+id=node/1772879062</desc></wpt><wpt lat="49.4883403" lon="8.3869668"><name>Zum Guten Hirten/BG Unfallklinik</name><desc>name=Zum Guten Hirten/BG Unfallklinik
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1772887623</desc></wpt><wpt lat="49.4905123" lon="8.3703079"><name>Wilhelm-Tell-Straße</name><desc>name=Wilhelm-Tell-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1772887727</desc></wpt><wpt lat="49.0559953" lon="8.2498171"><name>Wörth (Rhein) Badallee</name><desc>name=Wörth (Rhein) Badallee
+operator=Albtal-Verkehrs-Gesellschaft mbH
+public_transport=station
+railway=tram_stop
+railway:ref=RWRTA
+train=yes
+uic_ref=8079212
+wheelchair=yes
+wikidata=Q124610297
+id=node/1854004994</desc></wpt><wpt lat="49.5015034" lon="8.4214393"><name>Friesenheim Ost</name><desc>name=Friesenheim Ost
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1981584991</desc></wpt><wpt lat="49.4852563" lon="8.4433551"><name>Rathaus</name><desc>name=Rathaus
+public_transport=stop_position
+railway=tram_stop
+ref=2
+tram=yes
+tunnel=yes
+wheelchair=yes
+id=node/2390911956</desc></wpt><wpt lat="49.4839249" lon="8.4240363"><name>Hauptfriedhof Ludwigshafen</name><desc>name=Hauptfriedhof Ludwigshafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2592337841</desc></wpt><wpt lat="49.4856363" lon="8.3972881"><name>Wollstraße</name><desc>name=Wollstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2592337922</desc></wpt><wpt lat="49.4884081" lon="8.3646774"><name>Oggersheim Comeniusstraße</name><desc>name=Oggersheim Comeniusstraße
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+old_name=Oggersheim West;Oggersheim Endstelle;Oggersheim
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+ref=A
+tram=yes
+id=node/2593458928</desc></wpt><wpt lat="49.4905082" lon="8.3704155"><name>Wilhelm-Tell-Straße</name><desc>name=Wilhelm-Tell-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2593459057</desc></wpt><wpt lat="49.9715232" lon="8.270881"><name>Jägerhaus</name><desc>bus=yes
+highway=bus_stop
+name=Jägerhaus
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+uic_ref=118044
+wheelchair=yes
+id=node/2707625943</desc></wpt><wpt lat="50.0162692" lon="8.238574"><name>Zwerchallee</name><desc>bus=yes
+name=Zwerchallee
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2853073632</desc></wpt><wpt lat="49.4916874" lon="8.4209956"><name>Ebertpark/Fichtestraße</name><desc>name=Ebertpark/Fichtestraße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/2968842961</desc></wpt><wpt lat="49.4938703" lon="8.417904"><name>Schwalbenweg</name><desc>name=Schwalbenweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/2968842963</desc></wpt><wpt lat="49.9840819" lon="8.2342578"><name>Hildegard-von-Bingen-Straße</name><desc>local_ref=B
+name=Hildegard-von-Bingen-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+tram=yes
+id=node/3432218419</desc></wpt><wpt lat="49.9921294" lon="8.2257314"><name>Kisselberg</name><desc>local_ref=A
+name=Kisselberg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/3464095625</desc></wpt><wpt lat="49.4629745" lon="8.4291377"><name>Am Schwanen</name><desc>bus=yes
+highway=bus_stop
+name=Am Schwanen
+network=Verkehrsverbund Rhein-Neckar
+network:guid=DE-BW-VRN
+network:short=VRN
+network:wikidata=Q1553051
+network:wikipedia=de:Verkehrsverbund Rhein-Neckar
+operator=PalatinaBus
+public_transport=stop_position
+railway=tram_stop
+source=HiRes aerial imagery
+tram=yes
+wheelchair=limited
+id=node/3635341373</desc></wpt><wpt lat="49.9920854" lon="8.225293"><name>Kisselberg</name><desc>local_ref=B
+name=Kisselberg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/4147191166</desc></wpt><wpt lat="49.9895247" lon="8.2239676"><name>Jakob-Heinz-Straße/Arena</name><desc>local_ref=B
+name=Jakob-Heinz-Straße/Arena
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+old_name=Plaza
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+tram=yes
+id=node/4147217757</desc></wpt><wpt lat="49.9896165" lon="8.2239724"><name>Jakob-Heinz-Straße/Arena</name><desc>local_ref=A
+name=Jakob-Heinz-Straße/Arena
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+old_name=Plaza
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+tram=yes
+id=node/4147217763</desc></wpt><wpt lat="49.9874306" lon="8.2284879"><name>Hochschule Mainz</name><desc>local_ref=A
+name=Hochschule Mainz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4147246922</desc></wpt><wpt lat="49.9874805" lon="8.2288808"><name>Hochschule Mainz</name><desc>local_ref=B
+name=Hochschule Mainz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4147246937</desc></wpt><wpt lat="49.9583582" lon="8.1971552"><name>Hindemithstraße</name><desc>name=Hindemithstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4151794346</desc></wpt><wpt lat="49.9583346" lon="8.1971745"><name>Hindemithstraße</name><desc>name=Hindemithstraße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4151794347</desc></wpt><wpt lat="49.9600499" lon="8.2025466"><name>ZDF</name><desc>local_ref=A
+name=ZDF
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+tram=yes
+id=node/4151794348</desc></wpt><wpt lat="49.9600739" lon="8.2025251"><name>ZDF</name><desc>local_ref=B
+name=ZDF
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+tram=yes
+id=node/4151794349</desc></wpt><wpt lat="49.9598069" lon="8.2107005"><name>VRM</name><desc>name=VRM
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4151794352</desc></wpt><wpt lat="49.9597844" lon="8.2107269"><name>VRM</name><desc>name=VRM
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4151794353</desc></wpt><wpt lat="49.9761275" lon="8.2393064"><name>Hans-Böckler-Straße/Die Johanniter</name><desc>local_ref=B
+name=Hans-Böckler-Straße/Die Johanniter
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4370808977</desc></wpt><wpt lat="49.9943374" lon="8.2364522"><name>Friedrich-von-Pfeiffer-Weg</name><desc>bus=yes
+highway=bus_stop
+local_ref=A
+name=Friedrich-von-Pfeiffer-Weg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4382261518</desc></wpt><wpt lat="49.9943094" lon="8.2361535"><name>Friedrich-von-Pfeiffer-Weg</name><desc>local_ref=B
+name=Friedrich-von-Pfeiffer-Weg
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4382261519</desc></wpt><wpt lat="49.9728489" lon="8.2383115"><name>Südring</name><desc>local_ref=B
+name=Südring
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4485473347</desc></wpt><wpt lat="49.9728773" lon="8.2383845"><name>Südring</name><desc>local_ref=A
+name=Südring
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4485473348</desc></wpt><wpt lat="49.9615666" lon="8.2227651"><name>Marienborn Bahnhof</name><desc>name=Marienborn Bahnhof
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4487341303</desc></wpt><wpt lat="49.9615843" lon="8.2227057"><name>Marienborn Bahnhof</name><desc>name=Marienborn Bahnhof
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4487341304</desc></wpt><wpt lat="49.9643177" lon="8.230072"><name>Im Borner Grund</name><desc>name=Im Borner Grund
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4494688664</desc></wpt><wpt lat="49.9643582" lon="8.2301838"><name>Im Borner Grund</name><desc>name=Im Borner Grund
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4494688665</desc></wpt><wpt lat="49.962808" lon="8.2270109"><name>Wiesenstraße</name><desc>name=Wiesenstraße
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4494688673</desc></wpt><wpt lat="49.962814" lon="8.2271603"><name>Wiesenstraße</name><desc>name=Wiesenstraße
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4494688674</desc></wpt><wpt lat="49.9962394" lon="8.2454629"><name>Universität</name><desc>local_ref=B
+name=Universität
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4494735784</desc></wpt><wpt lat="49.9962984" lon="8.2462819"><name>Universität</name><desc>local_ref=A
+name=Universität
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4494735785</desc></wpt><wpt lat="49.9843588" lon="8.2339387"><name>Hildegard-von-Bingen-Straße</name><desc>local_ref=A
+name=Hildegard-von-Bingen-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+tram=yes
+id=node/4494735786</desc></wpt><wpt lat="49.9800746" lon="8.2374541"><name>Ludwig-Nauth-Straße B</name><desc>local_ref=B
+name=Ludwig-Nauth-Straße B
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+tram=yes
+id=node/4494740391</desc></wpt><wpt lat="49.9804203" lon="8.2373144"><name>Ludwig-Nauth-Straße</name><desc>local_ref=A
+name=Ludwig-Nauth-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2016-12-11
+tram=yes
+id=node/4494740392</desc></wpt><wpt lat="49.9761744" lon="8.23935"><name>Hans-Böckler-Straße/Die Johanniter</name><desc>local_ref=A
+name=Hans-Böckler-Straße/Die Johanniter
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4494740397</desc></wpt><wpt lat="49.9699313" lon="8.2360814"><name>Wilhelm-Quetsch-Straße</name><desc>name=Wilhelm-Quetsch-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=B
+start_date=2016-12-11
+tram=yes
+id=node/4494740402</desc></wpt><wpt lat="49.9699979" lon="8.2361787"><name>Wilhelm-Quetsch-Straße</name><desc>name=Wilhelm-Quetsch-Straße
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+ref=A
+start_date=2016-12-11
+tram=yes
+id=node/4494740403</desc></wpt><wpt lat="50.0187759" lon="8.2539734"><name>Zollhafen/Inge-Reitz-Straße</name><desc>name=Zollhafen/Inge-Reitz-Straße
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2017-10-16
+tram=yes
+wheelchair=yes
+id=node/4853578573</desc></wpt><wpt lat="50.0161381" lon="8.2526146"><name>Straßenbahnamt</name><desc>local_ref=B
+name=Straßenbahnamt
+operator=Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+start_date=2017-10-16
+tram=yes
+id=node/5174939781</desc></wpt><wpt lat="49.4715631" lon="8.4516053"><name>Amtsgericht</name><desc>name=Amtsgericht
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/7025453804</desc></wpt><wpt lat="49.4830972" lon="8.4297006"><name>Rohrlachstraße</name><desc>name=Rohrlachstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7025458325</desc></wpt><wpt lat="49.4840666" lon="8.4233416"><name>Hauptfriedhof Ludwigshafen</name><desc>name=Hauptfriedhof Ludwigshafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7025458326</desc></wpt><wpt lat="49.4836085" lon="8.4130488"><name>Heinrich-Pesch-Haus</name><desc>name=Heinrich-Pesch-Haus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7025458327</desc></wpt><wpt lat="49.4836185" lon="8.4135643"><name>Heinrich-Pesch-Haus</name><desc>name=Heinrich-Pesch-Haus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7025458328</desc></wpt><wpt lat="49.4881783" lon="8.3878486"><name>Zum Guten Hirten/BG Unfallklinik</name><desc>name=Zum Guten Hirten/BG Unfallklinik
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7025458331</desc></wpt><wpt lat="49.4927743" lon="8.3761325"><name>Oggersheim Hans-Warsch-Platz</name><desc>name=Oggersheim Hans-Warsch-Platz
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=OGHW
+tram=yes
+id=node/7025458334</desc></wpt><wpt lat="49.9636309" lon="8.2798949"><name>Am Schinnergraben</name><desc>name=Am Schinnergraben
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/7107664637</desc></wpt><wpt lat="49.0508729" lon="8.2538849"><name>Wörth(Rhein) Bürgerpark</name><desc>name=Wörth(Rhein) Bürgerpark
+network=Karlsruher Verkehrsverbund
+network:short=KVV
+network:wikidata=Q1733986
+operator=Albtal-Verkehrs-Gesellschaft mbH
+public_transport=station
+railway=tram_stop
+railway:ref=RWRTP
+train=yes
+tram=yes
+uic_ref=8079141
+wheelchair=limited
+wikidata=Q124610293
+id=node/8632089436</desc></wpt><wpt lat="49.4772359" lon="8.4486754"><name>Schützenstraße</name><desc>name=Schützenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8767614810</desc></wpt><wpt lat="49.4800568" lon="8.4507744"><name>Berliner Platz</name><desc>name=Berliner Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8767614811</desc></wpt><wpt lat="49.4832424" lon="8.4481944"><name>Ludwigstraße</name><desc>name=Ludwigstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8767614812</desc></wpt><wpt lat="49.4570281" lon="8.426802"><name>Hoheneckenstraße</name><desc>name=Hoheneckenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8767681365</desc></wpt><wpt lat="49.4657025" lon="8.4319761"><name>Mundenheim Nord</name><desc>name=Mundenheim Nord
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8767681366</desc></wpt><wpt lat="49.4686781" lon="8.435452"><name>Stifterstraße</name><desc>name=Stifterstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8767681367</desc></wpt><wpt lat="49.4720968" lon="8.4395735"><name>Südwest-Stadion</name><desc>name=Südwest-Stadion
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8767681368</desc></wpt><wpt lat="49.4533471" lon="8.4253749"><name>Giulinistraße</name><desc>name=Giulinistraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8767787658</desc></wpt><wpt lat="49.4992696" lon="8.4249836"><name>Rheinfeldstraße (BASF Tor 3)</name><desc>name=Rheinfeldstraße (BASF Tor 3)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8768728867</desc></wpt><wpt lat="49.5014073" lon="8.4217187"><name>Friesenheim Ost</name><desc>name=Friesenheim Ost
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8768728868</desc></wpt><wpt lat="49.5027932" lon="8.4158357"><name>Rottstückerweg</name><desc>name=Rottstückerweg
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8768728869</desc></wpt><wpt lat="49.5051541" lon="8.4103927"><name>Ammoniakstraße</name><desc>name=Ammoniakstraße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8768728870</desc></wpt><wpt lat="49.5125925" lon="8.407929"><name>Oppau Süd (BASF Q 920)</name><desc>name=Oppau Süd (BASF Q 920)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8768728871</desc></wpt><wpt lat="49.5175807" lon="8.4101668"><name>Oppau Fritz-Haber-Straße (BASF Tor 12+13)</name><desc>name=Oppau Fritz-Haber-Straße (BASF Tor 12+13)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8768728872</desc></wpt><wpt lat="49.48872" lon="8.4409514"><name>Gartenstraße</name><desc>name=Gartenstraße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8768920770</desc></wpt><wpt lat="49.492032" lon="8.4370109"><name>Hemshofstraße (BASF Tor 1+7)</name><desc>name=Hemshofstraße (BASF Tor 1+7)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+tunnel=yes
+wheelchair=no
+id=node/8768920771</desc></wpt><wpt lat="49.4945529" lon="8.4335392"><name>BASF (Tor1+2)</name><desc>name=BASF (Tor1+2)
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/8768920772</desc></wpt><wpt lat="49.4968137" lon="8.42691"><name>Schopenhauerstraße (AWETA)</name><desc>name=Schopenhauerstraße (AWETA)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8768920773</desc></wpt><wpt lat="49.4790103" lon="8.4350249"><name>LU Hauptbahnhof</name><desc>layer=-1
+name=LU Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+tunnel=yes
+id=node/8771572878</desc></wpt><wpt lat="49.4776398" lon="8.4412018"><name>Bürgermeister-Kutterer-Straße</name><desc>name=Bürgermeister-Kutterer-Straße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8771572879</desc></wpt><wpt lat="49.4802259" lon="8.4458789"><name>Pfalzbau/Wilhelm-Hack-Museum</name><desc>name=Pfalzbau/Wilhelm-Hack-Museum
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8771572880</desc></wpt><wpt lat="49.4737779" lon="8.4482066"><name>Rottstraße</name><desc>name=Rottstraße
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8771572881</desc></wpt><wpt lat="49.4955824" lon="8.415486"><name>Sternstraße</name><desc>name=Sternstraße
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/8771797103</desc></wpt><wpt lat="49.4852822" lon="8.4307366"><name>Marienkirche</name><desc>name=Marienkirche
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8771797104</desc></wpt><wpt lat="49.4910338" lon="8.3788458"><name>Mannheimer Tor</name><desc>name=Mannheimer Tor
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8772876579</desc></wpt><wpt lat="49.4926376" lon="8.3763472"><name>Oggersheim Hans-Warsch-Platz</name><desc>name=Oggersheim Hans-Warsch-Platz
+public_transport=stop_position
+railway=tram_stop
+ref:RNV:RBL=OGHW
+tram=yes
+wheelchair=yes
+id=node/9857281073</desc></wpt><wpt lat="50.0123708" lon="8.2488685"><name>Bismarckplatz</name><desc>name=Bismarckplatz
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=stop_position
+railway=tram_stop
+source:name=http://www.rmv.de/
+start_date:name=2010-12-12
+tram=yes
+wheelchair=yes
+id=node/10223478395</desc></wpt><wpt lat="49.4876743" lon="8.4265009"><name>Heinrich-Ries-Halle</name><desc>bench=yes
+bin=yes
+bus=yes
+departures_board=yes
+highway=bus_stop
+lit=yes
+name=Heinrich-Ries-Halle
+network=Verkehrsverbund Rhein-Neckar
+network:guid=DE-BW-VRN
+network:short=VRN
+network:wikidata=Q1553051
+old_name=Ludwigshafen Klinikum
+operator=Rhein-Neckar-Verkehr GmbH
+public_transport=platform
+railway=tram_stop
+shelter=yes
+tactile_paving=no
+tram=yes
+id=node/11234617453</desc></wpt><wpt lat="49.9636933" lon="8.2798429"><name>Am Schinnergraben</name><desc>name=Am Schinnergraben
+network=Rhein-Main-Verkehrsverbund
+network:short=RMV
+network:wikidata=Q314042
+network:wikipedia=de:Rhein-Main-Verkehrsverbund
+operator=Mainzer Verkehrsgesellschaft
+operator:short=MVG
+operator:wikidata=Q1885780
+operator:wikipedia=de:Mainzer Verkehrsgesellschaft
+public_transport=station
+railway=tram_stop
+station=tram
+tram=yes
+id=node/12219432339</desc></wpt><wpt lat="49.4985459" lon="8.419777"><name>Friesenheim Mitte</name><desc>exit=only
+local_ref=B
+name=Friesenheim Mitte
+network=Verkehrsverbund Rhein-Neckar
+network:short=VRN
+network:wikidata=Q1553051
+old_name=Ruthenstraße
+operator=Rhein-Neckar-Verkehr
+operator:short=RNV
+operator:wikidata=Q1650863
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/12843132747</desc></wpt></gpx>
