@@ -1,0 +1,158 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.0539423" lon="8.8871732"><name>Bremen-Hemelingen</name><desc>name=Bremen-Hemelingen
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBHM
+railway:station_category=6
+train=yes
+uic_ref=8001157
+wheelchair=no
+wikidata=Q15945139
+id=node/24965627</desc></wpt><wpt lat="53.0761509" lon="8.7860771"><name>Bremen Neustadt</name><desc>check_date:wheelchair=2024-04-29
+name=Bremen Neustadt
+official_name=Bremen-Neustadt
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBN
+railway:station_category=5
+train=yes
+uic_ref=8001155
+wheelchair=no
+wikidata=Q9179190
+id=node/26496854</desc></wpt><wpt lat="53.5350147" lon="8.5993743"><name>Bremerhaven Hauptbahnhof</name><desc>name=Bremerhaven Hauptbahnhof
+official_name=Bremerhaven Hbf
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HBH
+railway:station_category=3
+ref:station=868
+train=yes
+uic_ref=8000051
+wheelchair=no
+wikidata=Q535612
+wikipedia=de:Bremerhaven Hauptbahnhof
+id=node/26562398</desc></wpt><wpt lat="53.061219" lon="8.8878228"><name>Bremen-Sebaldsbrück</name><desc>name=Bremen-Sebaldsbrück
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBSB
+railway:station_category=5
+uic_ref=8001164
+wheelchair=no
+wikidata=Q11688797
+id=node/30007104</desc></wpt><wpt lat="53.1851073" lon="8.6176078"><name>Bremen-Aumund</name><desc>name=Bremen-Aumund
+operator=Farge-Vegesacker Eisenbahn GmbH
+railway=station
+railway:ref=HBRN
+uic_ref=8007892
+wheelchair=yes
+wikidata=Q21296532
+id=node/257290391</desc></wpt><wpt lat="53.2051515" lon="8.5165056"><name>Bremen-Farge</name><desc>alt_name=Bf Farge
+name=Bremen-Farge
+network=VBN
+operator=Farge-Vegesacker Eisenbahn GmbH
+public_transport=station
+railway=station
+railway:ref=HBRF
+uic_ref=8007898
+wheelchair=yes
+wikidata=Q9179186
+id=node/345000935</desc></wpt><wpt lat="53.1600336" lon="8.7047902"><name>Bremen-Burg</name><desc>name=Bremen-Burg
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBB
+railway:station_category=4
+uic_ref=8001156
+wheelchair=yes
+wikidata=Q4960518
+id=node/610585788</desc></wpt><wpt lat="53.0868773" lon="8.9390736"><name>Bremen-Oberneuland</name><desc>name=Bremen-Oberneuland
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBON
+railway:station_category=6
+uic_ref=8001161
+wheelchair=yes
+wikidata=Q21683056
+id=node/778923261</desc></wpt><wpt lat="53.1932089" lon="8.5454456"><name>Bremen Turnerstraße</name><desc>alt_name=Bremen-Turnerstraße
+name=Bremen Turnerstraße
+network=VBN
+operator=Farge-Vegesacker Eisenbahn GmbH
+public_transport=station
+railway=station
+railway:ref=HBTU
+uic_ref=8007897
+wheelchair=yes
+wikidata=Q21296626
+id=node/1415886487</desc></wpt><wpt lat="53.0397868" lon="8.9444864"><name>Bremen-Mahndorf</name><desc>name=Bremen-Mahndorf
+operator=DB InfraGO AG
+platforms=2
+public_transport=station
+railway=station
+railway:ref=HBM
+railway:station_category=4
+ref:station=860
+train=yes
+uic_ref=8001160
+wheelchair=yes
+wikidata=Q9179189
+id=node/1703353815</desc></wpt><wpt lat="53.5087941" lon="8.6117387"><name>Bremerhaven-Wulsdorf</name><desc>name=Bremerhaven-Wulsdorf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBWU
+railway:ref:parent=HBH
+railway:station_category=6
+toilets:wheelchair=no
+uic_ref=8001170
+wheelchair=yes
+wikidata=Q4960565
+id=node/1853304914</desc></wpt><wpt lat="53.0506165" lon="8.7345784"><name>Kirchhuchting</name><desc>name=Kirchhuchting
+railway=station
+usage=tourism
+id=node/1980204148</desc></wpt><wpt lat="53.5667574" lon="8.6006"><name>Bremerhaven-Lehe</name><desc>name=Bremerhaven-Lehe
+official_name=Bremerhaven-Lehe Pbf
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBHL
+railway:ref:parent=HBH
+railway:station_category=5
+uic_ref=8001168
+wheelchair=yes
+wikidata=Q907971
+id=node/2574919478</desc></wpt><wpt lat="53.1698168" lon="8.629978"><name>Bremen-Vegesack</name><desc>name=Bremen-Vegesack
+operator=DB Netz AG
+public_transport=station
+railway=station
+railway:ref=HBV
+railway:station_category=5
+shelter=yes
+tactile_paving=yes
+uic_ref=8001166
+wheelchair=yes
+wikidata=Q110915426
+wikipedia=en:Bremen-Vegesack station
+id=node/5808908194</desc></wpt><wpt lat="53.0832972" lon="8.8137576"><name>Bremen Hauptbahnhof</name><desc>addr:city=Bremen
+addr:housenumber=15
+addr:postcode=28195
+addr:street=Bahnhofsplatz
+name=Bremen Hauptbahnhof
+official_name=Bremen Hbf
+operator=DB InfraGO AG
+public_transport=station
+railway=station
+railway:ref=HB
+railway:station_category=2
+ref:IFOPT=de:04011:13925
+ref:station=855
+train=yes
+uic_name=Bremen Hbf
+uic_ref=8000050
+wheelchair=yes
+wikidata=Q631094
+wikipedia=de:Bremen Hauptbahnhof
+id=node/8041901931</desc></wpt></gpx>

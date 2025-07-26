@@ -1,0 +1,73 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.5592512" lon="8.5682742"><name>Havencamp Bremerhaven</name><desc>addr:housenumber=209
+addr:street=Bürgermeister-Smidt-Straße
+caravans=yes
+contact:email=info@havenhostel.de
+contact:phone=+49 471 309669-0
+fee=yes
+motorhome=yes
+name=Havencamp Bremerhaven
+power_supply=yes
+shower=yes
+tents=yes
+toilets=yes
+toilets:wheelchair=yes
+tourism=camp_site
+website=https://www.havencamp.de/stellplaetze/
+wheelchair=limited
+id=node/5599851033</desc></wpt><wpt lat="43.979011" lon="-69.4169414"><name>Hog Island Audubon Camp</name><desc>name=Hog Island Audubon Camp
+tourism=camp_site
+id=node/12528302379</desc></wpt><trk><name>Hanse Camping</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=1
+addr:postcode=28359
+addr:street=Hochschulring
+caravans=yes
+contact:email=info@hansecamping.de
+contact:fax=+49 421 30746826
+contact:phone=+49 421 30746825
+contact:website=http://hansecamping.de
+drinking_water=yes
+name=Hanse Camping
+operator=Stephan Emde
+power_supply=yes
+sanitary_dump_station=yes
+shower=yes
+tents=yes
+toilets=yes
+tourism=camp_site
+wheelchair=limited
+wheelchair:description=Rolli-WC vorhanden.
+id=way/23321539</desc><trkseg><trkpt lat="53.1146906" lon="8.8318253"/><trkpt lat="53.1146277" lon="8.8322286"/><trkpt lat="53.1146358" lon="8.8323466"/><trkpt lat="53.1144658" lon="8.8326449"/><trkpt lat="53.1143794" lon="8.8327297"/><trkpt lat="53.1141771" lon="8.8329283"/><trkpt lat="53.1139602" lon="8.8330994"/><trkpt lat="53.1138071" lon="8.8333808"/><trkpt lat="53.113653" lon="8.8337571"/><trkpt lat="53.1134457" lon="8.8340549"/><trkpt lat="53.1132784" lon="8.8342394"/><trkpt lat="53.113142" lon="8.8345802"/><trkpt lat="53.1127951" lon="8.8363558"/><trkpt lat="53.1131013" lon="8.8366103"/><trkpt lat="53.11318" lon="8.8365001"/><trkpt lat="53.1135049" lon="8.8368286"/><trkpt lat="53.1137993" lon="8.8361101"/><trkpt lat="53.1140382" lon="8.8361138"/><trkpt lat="53.1144765" lon="8.8365334"/><trkpt lat="53.1145728" lon="8.8366097"/><trkpt lat="53.1146883" lon="8.8367012"/><trkpt lat="53.1147747" lon="8.8345045"/><trkpt lat="53.1148491" lon="8.8345036"/><trkpt lat="53.1148747" lon="8.8334562"/><trkpt lat="53.1148516" lon="8.8334321"/><trkpt lat="53.1147901" lon="8.8333743"/><trkpt lat="53.1148029" lon="8.8332526"/><trkpt lat="53.1148488" lon="8.8332242"/><trkpt lat="53.1149724" lon="8.8332787"/><trkpt lat="53.1149948" lon="8.8333074"/><trkpt lat="53.1149921" lon="8.8329688"/><trkpt lat="53.1149689" lon="8.8330129"/><trkpt lat="53.1148851" lon="8.8330059"/><trkpt lat="53.1147753" lon="8.8329348"/><trkpt lat="53.1147706" lon="8.8328633"/><trkpt lat="53.1148103" lon="8.8328411"/><trkpt lat="53.1148813" lon="8.8328181"/><trkpt lat="53.1148648" lon="8.8319444"/><trkpt lat="53.1147609" lon="8.8318559"/><trkpt lat="53.1146906" lon="8.8318253"/></trkseg></trk><trk><name>Camping am Hexenberg</name><desc>addr:city=Bremen
+addr:postcode=28357
+addr:street=Am Hexenberg
+name=Camping am Hexenberg
+tourism=camp_site
+id=way/33651686</desc><trkseg><trkpt lat="53.1256867" lon="8.98262"/><trkpt lat="53.1258972" lon="8.9823827"/><trkpt lat="53.1260243" lon="8.9821393"/><trkpt lat="53.1262235" lon="8.9814835"/><trkpt lat="53.1264285" lon="8.9809352"/><trkpt lat="53.127039" lon="8.9800028"/><trkpt lat="53.1258146" lon="8.9793569"/><trkpt lat="53.1256007" lon="8.979308"/><trkpt lat="53.1252634" lon="8.9791246"/><trkpt lat="53.1250409" lon="8.9810713"/><trkpt lat="53.1254845" lon="8.9819152"/><trkpt lat="53.1256867" lon="8.98262"/></trkseg></trk><trk><name>Naturcampingplatz</name><desc>name=Naturcampingplatz
+tourism=camp_site
+id=way/44585226</desc><trkseg><trkpt lat="53.1136097" lon="8.843681"/><trkpt lat="53.1127493" lon="8.8420674"/><trkpt lat="53.1126051" lon="8.8418185"/><trkpt lat="53.1122393" lon="8.8414837"/><trkpt lat="53.1119972" lon="8.8413893"/><trkpt lat="53.1117396" lon="8.8421017"/><trkpt lat="53.1114459" lon="8.8427626"/><trkpt lat="53.1112759" lon="8.8435093"/><trkpt lat="53.1113171" lon="8.8437668"/><trkpt lat="53.1114923" lon="8.8439728"/><trkpt lat="53.1115541" lon="8.8442217"/><trkpt lat="53.1116004" lon="8.8444706"/><trkpt lat="53.1117035" lon="8.8447367"/><trkpt lat="53.1119044" lon="8.8449599"/><trkpt lat="53.1122682" lon="8.8449692"/><trkpt lat="53.1123308" lon="8.8450903"/><trkpt lat="53.1123955" lon="8.8451515"/><trkpt lat="53.1124328" lon="8.8450908"/><trkpt lat="53.1129057" lon="8.8445396"/><trkpt lat="53.1131791" lon="8.8439684"/><trkpt lat="53.1133752" lon="8.8438413"/><trkpt lat="53.113588" lon="8.8438699"/><trkpt lat="53.1136097" lon="8.843681"/></trkseg></trk><trk><name>Camping "Juliusplate"</name><desc>addr:city=Berne
+addr:country=DE
+addr:housenumber=4
+addr:postcode=27804
+addr:street=Juliusplate
+caravans=yes
+name=Camping "Juliusplate"
+operator=Olaf Brammer
+phone=+49 4406 1666
+power_supply=yes
+shower=yes
+tents=yes
+tourism=camp_site
+website=https://juliusplate.de/
+id=way/108253673</desc><trkseg><trkpt lat="53.196504" lon="8.5125529"/><trkpt lat="53.1968805" lon="8.5123658"/><trkpt lat="53.1970099" lon="8.5127095"/><trkpt lat="53.1971353" lon="8.5126416"/><trkpt lat="53.1976878" lon="8.5118764"/><trkpt lat="53.1985333" lon="8.5103046"/><trkpt lat="53.1982342" lon="8.5097693"/><trkpt lat="53.1974771" lon="8.5111729"/><trkpt lat="53.1973477" lon="8.5107128"/><trkpt lat="53.1971303" lon="8.5099395"/><trkpt lat="53.1976532" lon="8.5086634"/><trkpt lat="53.1982506" lon="8.5072056"/><trkpt lat="53.1979175" lon="8.5068281"/><trkpt lat="53.1977656" lon="8.5070742"/><trkpt lat="53.197616" lon="8.5074651"/><trkpt lat="53.1974026" lon="8.5081106"/><trkpt lat="53.197262" lon="8.5084399"/><trkpt lat="53.1971208" lon="8.5086769"/><trkpt lat="53.1966996" lon="8.5093287"/><trkpt lat="53.1962057" lon="8.5103628"/><trkpt lat="53.196309" lon="8.5108986"/><trkpt lat="53.1963404" lon="8.5108812"/><trkpt lat="53.1964287" lon="8.5113707"/><trkpt lat="53.1962978" lon="8.5114405"/><trkpt lat="53.196504" lon="8.5125529"/></trkseg></trk><trk><name>Campingplatz Krentzel</name><desc>addr:city=Bremen
+addr:housenumber=2
+addr:postcode=28357
+addr:street=Am Hexenberg
+name=Campingplatz Krentzel
+operator=Familie Krentzel
+phone=+49 421 273731
+tents=yes
+tourism=camp_site
+id=way/170785321</desc><trkseg><trkpt lat="53.1242655" lon="8.976669"/><trkpt lat="53.1241279" lon="8.9767373"/><trkpt lat="53.1241216" lon="8.9764996"/><trkpt lat="53.1240692" lon="8.9762498"/><trkpt lat="53.1239476" lon="8.9760891"/><trkpt lat="53.1237066" lon="8.9749522"/><trkpt lat="53.1235453" lon="8.9751351"/><trkpt lat="53.1233643" lon="8.9753348"/><trkpt lat="53.1234059" lon="8.9756556"/><trkpt lat="53.1234676" lon="8.976565"/><trkpt lat="53.1235224" lon="8.9773634"/><trkpt lat="53.12359" lon="8.9780372"/><trkpt lat="53.123735" lon="8.9785285"/><trkpt lat="53.1238295" lon="8.9787489"/><trkpt lat="53.1241274" lon="8.9785541"/><trkpt lat="53.1245328" lon="8.9785782"/><trkpt lat="53.1246251" lon="8.9785752"/><trkpt lat="53.1242655" lon="8.976669"/></trkseg></trk><trk><name>way/225394737</name><desc>operator=WVH
+tourism=camp_site
+id=way/225394737</desc><trkseg><trkpt lat="53.0476833" lon="8.8729418"/><trkpt lat="53.0469705" lon="8.872139"/><trkpt lat="53.0464171" lon="8.8716476"/><trkpt lat="53.0462635" lon="8.8715408"/><trkpt lat="53.0461119" lon="8.8714353"/><trkpt lat="53.045259" lon="8.8708911"/><trkpt lat="53.0450579" lon="8.8716405"/><trkpt lat="53.0456528" lon="8.8719919"/><trkpt lat="53.0462021" lon="8.8723215"/><trkpt lat="53.0463884" lon="8.872403"/><trkpt lat="53.0473004" lon="8.8733166"/><trkpt lat="53.0476833" lon="8.8729418"/></trkseg></trk><trk><name>way/248125059</name><desc>tourism=camp_site
+id=way/248125059</desc><trkseg><trkpt lat="53.025457" lon="8.8828524"/><trkpt lat="53.0253062" lon="8.882611"/><trkpt lat="53.025204" lon="8.882769"/><trkpt lat="53.025162" lon="8.882837"/><trkpt lat="53.025112" lon="8.882918"/><trkpt lat="53.025097" lon="8.882944"/><trkpt lat="53.025078" lon="8.882949"/><trkpt lat="53.02507" lon="8.882939"/><trkpt lat="53.025047" lon="8.882906"/><trkpt lat="53.025028" lon="8.882878"/><trkpt lat="53.024998" lon="8.882834"/><trkpt lat="53.024986" lon="8.882817"/><trkpt lat="53.024971" lon="8.882807"/><trkpt lat="53.024967" lon="8.882806"/><trkpt lat="53.02496" lon="8.882808"/><trkpt lat="53.024956" lon="8.882811"/><trkpt lat="53.024952" lon="8.882815"/><trkpt lat="53.024948" lon="8.882826"/><trkpt lat="53.024948" lon="8.882842"/><trkpt lat="53.024944" lon="8.882853"/><trkpt lat="53.024948" lon="8.882864"/><trkpt lat="53.024952" lon="8.882878"/><trkpt lat="53.02496" lon="8.8829"/><trkpt lat="53.024975" lon="8.882934"/><trkpt lat="53.024986" lon="8.882957"/><trkpt lat="53.024994" lon="8.882979"/><trkpt lat="53.024998" lon="8.882998"/><trkpt lat="53.025005" lon="8.883016"/><trkpt lat="53.025009" lon="8.883034"/><trkpt lat="53.025013" lon="8.883056"/><trkpt lat="53.025013" lon="8.883067"/><trkpt lat="53.025013" lon="8.883089"/><trkpt lat="53.0250089" lon="8.8830965"/><trkpt lat="53.025002" lon="8.883109"/><trkpt lat="53.025005" lon="8.883125"/><trkpt lat="53.024929" lon="8.883016"/><trkpt lat="53.024921" lon="8.883032"/><trkpt lat="53.024998" lon="8.883142"/><trkpt lat="53.024998" lon="8.883154"/><trkpt lat="53.024994" lon="8.883159"/><trkpt lat="53.024986" lon="8.883187"/><trkpt lat="53.024971" lon="8.883224"/><trkpt lat="53.02494" lon="8.88327"/><trkpt lat="53.024918" lon="8.883315"/><trkpt lat="53.024834" lon="8.883199"/><trkpt lat="53.024826" lon="8.883213"/><trkpt lat="53.02491" lon="8.883328"/><trkpt lat="53.0249998" lon="8.8834493"/><trkpt lat="53.0250649" lon="8.8835454"/><trkpt lat="53.0251478" lon="8.8834176"/><trkpt lat="53.0252854" lon="8.8836429"/><trkpt lat="53.0258879" lon="8.8846232"/><trkpt lat="53.0260512" lon="8.8843181"/><trkpt lat="53.0261417" lon="8.8841489"/><trkpt lat="53.0261826" lon="8.8840725"/><trkpt lat="53.0256582" lon="8.8831746"/><trkpt lat="53.0256091" lon="8.8830961"/><trkpt lat="53.0256426" lon="8.8830224"/><trkpt lat="53.0255489" lon="8.882875"/><trkpt lat="53.0254975" lon="8.8829201"/><trkpt lat="53.025457" lon="8.8828524"/></trkseg></trk></gpx>

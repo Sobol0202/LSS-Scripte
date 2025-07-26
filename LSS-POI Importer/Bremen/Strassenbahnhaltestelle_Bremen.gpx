@@ -1,0 +1,1601 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.0650073" lon="8.9504202"><name>Schweizer Eck</name><desc>name=Schweizer Eck
+public_transport=stop_position
+railway=tram_stop
+ref_name=Schweizer Eck, Bremen
+tram=yes
+id=node/21096105</desc></wpt><wpt lat="53.0276735" lon="8.8375432"><name>Arsten</name><desc>name=Arsten
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/21316732</desc></wpt><wpt lat="53.0787466" lon="8.8016066"><name>Am Brill (Hutfilter-/Obernstraße)</name><desc>name=Am Brill (Hutfilter-/Obernstraße)
+railway=tram_stop
+ref_name=Am Brill (Hutfilter-/Obernstraße), Bremen
+wheelchair=limited
+id=node/21316758</desc></wpt><wpt lat="53.0613014" lon="8.7856367"><name>BSAG-Zentrum</name><desc>name=BSAG-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/21316788</desc></wpt><wpt lat="53.050562" lon="8.7897806"><name>Flughafen-Süd</name><desc>alt_name=Flughafen
+name=Flughafen-Süd
+old_name=Neuenlander Feld
+railway=tram_stop
+wheelchair=yes
+id=node/21316797</desc></wpt><wpt lat="53.076708" lon="8.8061832"><name>Obernstraße</name><desc>name=Obernstraße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Obernstraße, Bremen
+tram=yes
+wheelchair=limited
+id=node/21316798</desc></wpt><wpt lat="53.0636438" lon="8.7892538"><name>Schleiermacherstraße</name><desc>name=Schleiermacherstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/21316807</desc></wpt><wpt lat="53.0743095" lon="8.8078363"><name>Domsheide</name><desc>bus=no
+name=Domsheide
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/21316819</desc></wpt><wpt lat="53.1051899" lon="8.8511029"><name>Universität-Süd</name><desc>bus=no
+name=Universität-Süd
+old_name=Universität/NW1
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/21530451</desc></wpt><wpt lat="53.1082723" lon="8.7739599"><name>Waller Friedhof</name><desc>alt_name=Eissporthalle
+name=Waller Friedhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/25905745</desc></wpt><wpt lat="53.0810113" lon="8.79678"><name>Radio Bremen</name><desc>alt_name=Volkshochschule
+bus=yes
+name=Radio Bremen
+public_transport=stop_area
+railway=tram_stop
+ref_name=Radio Bremen, Bremen
+tram=yes
+wheelchair=yes
+id=node/26048306</desc></wpt><wpt lat="53.0748098" lon="8.868855"><name>Julius-Brecht-Allee</name><desc>name=Julius-Brecht-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/26280993</desc></wpt><wpt lat="53.0748738" lon="8.869632"><name>Julius-Brecht-Allee</name><desc>name=Julius-Brecht-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/26280998</desc></wpt><wpt lat="53.0787093" lon="8.9026335"><name>Dietrich-Bonhoeffer-Straße</name><desc>alt_name=D.-Bonhoeffer-Straße
+name=Dietrich-Bonhoeffer-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/26666601</desc></wpt><wpt lat="53.0785991" lon="8.9030809"><name>Dietrich-Bonhoeffer-Straße</name><desc>alt_name=D.-Bonhoeffer-Straße
+name=Dietrich-Bonhoeffer-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/26666603</desc></wpt><wpt lat="53.0784241" lon="8.9109165"><name>Kurt-Huber-Straße</name><desc>name=Kurt-Huber-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/26666608</desc></wpt><wpt lat="53.0733553" lon="8.9301487"><name>Düsseldorfer Straße</name><desc>name=Düsseldorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/26666610</desc></wpt><wpt lat="53.0790652" lon="8.885799"><name>Wilhelm-Leuschner-Straße</name><desc>alt_name=Wilh.-Leuschner-Straße
+name=Wilhelm-Leuschner-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/26666645</desc></wpt><wpt lat="53.0728261" lon="8.7997317"><name>Am Neuen Markt</name><desc>name=Am Neuen Markt
+railway=tram_stop
+wheelchair=yes
+id=node/29194376</desc></wpt><wpt lat="53.078298" lon="8.799985"><name>Am Brill (Bgm.-Smidt-Straße)</name><desc>name=Am Brill (Bgm.-Smidt-Straße)
+railway=tram_stop
+ref_name=Am Brill (Bgm.-Smidt-Straße), Bremen
+wheelchair=yes
+id=node/29194428</desc></wpt><wpt lat="53.0487447" lon="8.7427408"><name>Roland-Center</name><desc>alt_name=Roland Center
+bus=yes
+name=Roland-Center
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/29857182</desc></wpt><wpt lat="53.0664383" lon="8.7815159"><name>Neuenlander Straße</name><desc>name=Neuenlander Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/29857227</desc></wpt><wpt lat="53.0696544" lon="8.7870887"><name>Pappelstraße</name><desc>bench=yes
+bus=yes
+highway=bus_stop
+name=Pappelstraße
+network=VBN
+operator=BSAG
+public_transport=stop_position
+railway=tram_stop
+ref_name=Pappelstraße, Bremen
+shelter=yes
+wheelchair=yes
+id=node/29857233</desc></wpt><wpt lat="53.0848445" lon="8.8025185"><name>Daniel-von-Büren-Straße</name><desc>name=Daniel-von-Büren-Straße
+railway=tram_stop
+wheelchair=yes
+id=node/30343524</desc></wpt><wpt lat="53.0881007" lon="8.7941747"><name>Haferkamp</name><desc>name=Haferkamp
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/30343545</desc></wpt><wpt lat="53.0920973" lon="8.7905747"><name>Hansestraße</name><desc>bus=no
+name=Hansestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/30343604</desc></wpt><wpt lat="53.0910503" lon="8.7915004"><name>Hansestraße</name><desc>bus=no
+name=Hansestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/30343607</desc></wpt><wpt lat="53.0893446" lon="8.7927146"><name>Haferkamp</name><desc>name=Haferkamp
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/30343610</desc></wpt><wpt lat="53.1184581" lon="8.8970559"><name>Am Lehester Deich</name><desc>name=Am Lehester Deich
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/30355995</desc></wpt><wpt lat="53.1188157" lon="8.8974232"><name>Am Lehester Deich</name><desc>name=Am Lehester Deich
+public_transport=stop_position
+railway=tram_stop
+start_date=2002
+tram=yes
+wheelchair=yes
+id=node/30355996</desc></wpt><wpt lat="53.1238896" lon="8.9000963"><name>Daniel-Jacobs-Allee</name><desc>name=Daniel-Jacobs-Allee
+public_transport=stop_position
+railway=tram_stop
+start_date=2002
+tram=yes
+wheelchair=yes
+id=node/30356046</desc></wpt><wpt lat="53.1267985" lon="8.8988683"><name>Borgfeld</name><desc>name=Borgfeld
+public_transport=stop_position
+railway=tram_stop
+start_date=2002
+tram=yes
+wheelchair=yes
+id=node/30356052</desc></wpt><wpt lat="53.1272354" lon="8.8988617"><name>Borgfeld</name><desc>name=Borgfeld
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30356053</desc></wpt><wpt lat="53.0651943" lon="8.9500992"><name>Schweizer Eck</name><desc>name=Schweizer Eck
+public_transport=stop_position
+railway=tram_stop
+ref_name=Schweizer Eck, Bremen
+tram=yes
+id=node/30910468</desc></wpt><wpt lat="53.0796694" lon="8.8100597"><name>Herdentor</name><desc>alt_name=Musicaltheater
+alt_name:en=Musical Theater
+name=Herdentor
+railway=tram_stop
+wheelchair=yes
+id=node/30992730</desc></wpt><wpt lat="53.0838144" lon="8.7964355"><name>Doventor</name><desc>name=Doventor
+railway=tram_stop
+wheelchair=yes
+id=node/31297430</desc></wpt><wpt lat="53.0881995" lon="8.7923391"><name>Haferkamp</name><desc>name=Haferkamp
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/31297481</desc></wpt><wpt lat="53.1016131" lon="8.7738696"><name>Emder Straße</name><desc>name=Emder Straße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Emder Str., Bremen
+tram=yes
+id=node/31297518</desc></wpt><wpt lat="53.1041814" lon="8.7691294"><name>Jadestraße</name><desc>name=Jadestraße
+railway=tram_stop
+ref_name=Jadestraße, Bremen
+wheelchair=yes
+id=node/31297522</desc></wpt><wpt lat="53.1126655" lon="8.7524396"><name>Waterfront</name><desc>name=Waterfront
+network=Verkehrsverbund Bremen/Niedersachsen
+operator=Bremer Straßenbahn AG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/31297745</desc></wpt><wpt lat="53.0633186" lon="8.8680108"><name>Weserwehr</name><desc>bus=no
+name=Weserwehr
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/49510051</desc></wpt><wpt lat="53.0591547" lon="8.8972911"><name>Schloßparkstraße</name><desc>name=Schloßparkstraße
+old_name=Segelsbrück
+public_transport=stop_position
+railway=tram_stop
+ref_name=Segelsbrück, Bremen
+tram=yes
+id=node/108332631</desc></wpt><wpt lat="53.082758" lon="8.8069118"><name>Falkenstraße</name><desc>name=Falkenstraße
+railway=tram_stop
+ref_name=Falkenstraße, Bremen
+wheelchair=no
+id=node/244114968</desc></wpt><wpt lat="53.084599" lon="8.7995324"><name>Doventorsteinweg</name><desc>alt_name=Agentur für Arbeit
+name=Doventorsteinweg
+public_transport=station
+railway=tram_stop
+ref_name=Doventorsteinweg, Bremen
+tram=yes
+wheelchair=yes
+id=node/244114971</desc></wpt><wpt lat="53.0984639" lon="8.8400045"><name>Kulenkampffallee</name><desc>name=Kulenkampffallee
+public_transport=stop_position
+railway=tram_stop
+ref=Steig A
+tram=yes
+id=node/254360322</desc></wpt><wpt lat="53.0668658" lon="8.7822881"><name>Neuenlander Straße</name><desc>name=Neuenlander Straße
+railway=tram_stop
+wheelchair=yes
+id=node/270908961</desc></wpt><wpt lat="53.0699361" lon="8.7996577"><name>Theater am Leibnizplatz</name><desc>name=Theater am Leibnizplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/271525896</desc></wpt><wpt lat="53.0696491" lon="8.7993911"><name>Theater am Leibnizplatz</name><desc>name=Theater am Leibnizplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/271525897</desc></wpt><wpt lat="53.0614606" lon="8.7868817"><name>BSAG-Zentrum</name><desc>name=BSAG-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/273238791</desc></wpt><wpt lat="53.0797602" lon="8.8273984"><name>Parkstraße</name><desc>name=Parkstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/281925150</desc></wpt><wpt lat="53.0416178" lon="8.8239848"><name>Robert-Koch-Straße</name><desc>layer=1
+name=Robert-Koch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/287688041</desc></wpt><wpt lat="53.032168" lon="8.838517"><name>Heukämpendamm</name><desc>name=Heukämpendamm
+network=BSAG
+operator=BSAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/287688216</desc></wpt><wpt lat="53.0730348" lon="8.8246599"><name>Sielwall</name><desc>name=Sielwall
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/293216697</desc></wpt><wpt lat="53.0722534" lon="8.8286695"><name>Brunnenstraße</name><desc>name=Brunnenstraße
+railway=tram_stop
+wheelchair=yes
+id=node/293217679</desc></wpt><wpt lat="53.1060992" lon="8.7788148"><name>Waller Straße</name><desc>name=Waller Straße
+railway=tram_stop
+id=node/294235714</desc></wpt><wpt lat="53.0978834" lon="8.7889067"><name>Gustavstraße</name><desc>name=Gustavstraße
+railway=tram_stop
+wheelchair=yes
+id=node/320042277</desc></wpt><wpt lat="53.0955438" lon="8.7909737"><name>Utbremer Straße</name><desc>name=Utbremer Straße
+railway=tram_stop
+wheelchair=yes
+id=node/320042279</desc></wpt><wpt lat="53.1129934" lon="8.8916272"><name>Peter-Henlein-Straße</name><desc>name=Peter-Henlein-Straße
+public_transport=stop_position
+railway=tram_stop
+start_date=2002
+tram=yes
+wheelchair=yes
+id=node/346670236</desc></wpt><wpt lat="53.072654" lon="8.8200953"><name>Ulrichsplatz</name><desc>alt_name=Ulrichsplatz
+name=Ulrichsplatz
+public_transport=stop_position
+railway=tram_stop
+source=survey
+tram=yes
+wheelchair=limited
+id=node/366364646</desc></wpt><wpt lat="53.079396" lon="8.8928696"><name>Berliner Freiheit</name><desc>name=Berliner Freiheit
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/393383172</desc></wpt><wpt lat="53.0793097" lon="8.8965258"><name>Carl-Goerdeler-Straße</name><desc>name=Carl-Goerdeler-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/393385145</desc></wpt><wpt lat="53.0789523" lon="8.8781931"><name>Polizeipräsidium</name><desc>name=Polizeipräsidium
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/393394117</desc></wpt><wpt lat="53.0789785" lon="8.8608491"><name>Barbarossastraße</name><desc>name=Barbarossastraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/410366591</desc></wpt><wpt lat="53.0740632" lon="8.9360635"><name>Osterholzer Landstraße</name><desc>name=Osterholzer Landstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/415556980</desc></wpt><wpt lat="53.0610676" lon="8.7852592"><name>BSAG-Zentrum</name><desc>name=BSAG-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/417636725</desc></wpt><wpt lat="53.0638933" lon="8.7897167"><name>Schleiermacherstraße</name><desc>name=Schleiermacherstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/417636735</desc></wpt><wpt lat="53.0662897" lon="8.7935685"><name>Gastfeldstraße</name><desc>bus=no
+local_ref=A
+name=Gastfeldstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/417636736</desc></wpt><wpt lat="53.0665153" lon="8.7938586"><name>Gastfeldstraße</name><desc>bus=no
+local_ref=B
+name=Gastfeldstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/417636737</desc></wpt><wpt lat="53.0623313" lon="8.8102395"><name>Kirchweg</name><desc>alt_name=Werdersee
+name=Kirchweg
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=station
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/521080072</desc></wpt><wpt lat="53.0751693" lon="8.8225561"><name>Humboldtstraße</name><desc>name=Humboldtstraße
+public_transport=station
+railway=tram_stop
+ref_name=Humboldtstraße, Bremen
+wheelchair=yes
+id=node/621892969</desc></wpt><wpt lat="53.0712054" lon="8.8503057"><name>Bei den Drei Pfählen</name><desc>name=Bei den Drei Pfählen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/667377603</desc></wpt><wpt lat="53.0705417" lon="8.8557232"><name>Bennigsenstraße</name><desc>name=Bennigsenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/669530241</desc></wpt><wpt lat="53.06803" lon="8.8615791"><name>Ludwig-Quidde-Straße</name><desc>name=Ludwig-Quidde-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/669530263</desc></wpt><wpt lat="53.0671202" lon="8.8714671"><name>Malerstraße</name><desc>name=Malerstraße
+railway=tram_stop
+wheelchair=yes
+id=node/669530285</desc></wpt><wpt lat="53.0724291" lon="8.8423023"><name>Am Hulsberg</name><desc>name=Am Hulsberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/669554876</desc></wpt><wpt lat="53.0722963" lon="8.8430528"><name>Am Hulsberg</name><desc>name=Am Hulsberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/669554882</desc></wpt><wpt lat="53.0723933" lon="8.8167859"><name>Theater am Goetheplatz</name><desc>name=Theater am Goetheplatz
+railway=tram_stop
+wheelchair=yes
+id=node/669559038</desc></wpt><wpt lat="53.0860234" lon="8.7908044"><name>Lloydstraße</name><desc>name=Lloydstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/669674392</desc></wpt><wpt lat="53.1060027" lon="8.7791237"><name>Waller Straße</name><desc>name=Waller Straße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Waller Straße, Bremen
+tram=yes
+id=node/670290870</desc></wpt><wpt lat="53.1127822" lon="8.765306"><name>Moorstraße</name><desc>name=Moorstraße
+railway=tram_stop
+ref_name=Moorstr., Bremen
+wheelchair=yes
+id=node/670300910</desc></wpt><wpt lat="53.115633" lon="8.7596621"><name>Lindenhofstraße</name><desc>name=Lindenhofstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/670301009</desc></wpt><wpt lat="53.0699236" lon="8.8375731"><name>Weserstadion</name><desc>bus=no
+name=Weserstadion
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/694684599</desc></wpt><wpt lat="53.0668102" lon="8.8558829"><name>Georg-Bitter-Straße</name><desc>bus=no
+name=Georg-Bitter-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/694825921</desc></wpt><wpt lat="53.1026063" lon="8.8593047"><name>Berufsbildungswerk</name><desc>alt_name=Technologiepark
+name=Berufsbildungswerk
+public_transport=stop_position
+railway=tram_stop
+ref_name=Berufsbildungswerk, Bremen
+tram=yes
+wheelchair=yes
+id=node/766862382</desc></wpt><wpt lat="53.1037571" lon="8.8555663"><name>Lise-Meitner-Straße</name><desc>name=Lise-Meitner-Straße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Lise-Meitner-Straße, Bremen
+tram=yes
+id=node/766862390</desc></wpt><wpt lat="53.1022989" lon="8.8592553"><name>Berufsbildungswerk</name><desc>alt_name=Technologiepark
+name=Berufsbildungswerk
+public_transport=stop_position
+railway=tram_stop
+ref_name=Berufsbildungswerk, Bremen
+tram=yes
+wheelchair=yes
+id=node/766862392</desc></wpt><wpt lat="53.1050599" lon="8.8514369"><name>Universität-Süd</name><desc>bus=no
+name=Universität-Süd
+old_name=Universität/NW1
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/766862396</desc></wpt><wpt lat="53.103905" lon="8.8551925"><name>Lise-Meitner-Straße</name><desc>name=Lise-Meitner-Straße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Lise-Meitner-Straße, Bremen
+tram=yes
+id=node/766862401</desc></wpt><wpt lat="53.0375198" lon="8.8223828"><name>Klinikum Links der Weser</name><desc>name=Klinikum Links der Weser
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/767994946</desc></wpt><wpt lat="53.0487967" lon="8.8204649"><name>Sielhof</name><desc>name=Sielhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/767994948</desc></wpt><wpt lat="53.0291488" lon="8.8380345"><name>Twiedelftsweg</name><desc>name=Twiedelftsweg
+network=BSAG
+operator=BSAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/767994976</desc></wpt><wpt lat="53.0485969" lon="8.8209333"><name>Sielhof</name><desc>name=Sielhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/767994981</desc></wpt><wpt lat="53.0359134" lon="8.826975"><name>Kattenturm-Mitte</name><desc>name=Kattenturm-Mitte
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/767994995</desc></wpt><wpt lat="53.0273316" lon="8.8375386"><name>Arsten</name><desc>name=Arsten
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/767994996</desc></wpt><wpt lat="53.0801085" lon="8.8284224"><name>Parkstraße</name><desc>name=Parkstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090748</desc></wpt><wpt lat="53.0948908" lon="8.8502907"><name>Wätjenstraße</name><desc>name=Wätjenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090752</desc></wpt><wpt lat="53.0825662" lon="8.8375202"><name>St. Joseph-Stift</name><desc>name=St. Joseph-Stift
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090761</desc></wpt><wpt lat="53.0903374" lon="8.8633202"><name>Focke-Museum</name><desc>name=Focke-Museum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090767</desc></wpt><wpt lat="53.0913421" lon="8.8702089"><name>Bürgermeister-Spitta-Allee</name><desc>alt_name=Botanika
+name=Bürgermeister-Spitta-Allee
+public_transport=stop_position
+railway=tram_stop
+ref_name=Bürgermeister-Spitta-Allee, Bremen
+tram=yes
+id=node/768090772</desc></wpt><wpt lat="53.0833562" lon="8.8423516"><name>Metzer Straße</name><desc>name=Metzer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090776</desc></wpt><wpt lat="53.0851601" lon="8.8484186"><name>Kirchbachstraße</name><desc>name=Kirchbachstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090780</desc></wpt><wpt lat="53.0889165" lon="8.8426238"><name>H.-H.-Meier-Allee</name><desc>name=H.-H.-Meier-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090788</desc></wpt><wpt lat="53.0807048" lon="8.8181506"><name>Rembertistraße</name><desc>name=Rembertistraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090818</desc></wpt><wpt lat="53.0912658" lon="8.8455982"><name>Emmastraße</name><desc>check_date=2024-03-21
+name=Emmastraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090820</desc></wpt><wpt lat="53.0872892" lon="8.8369138"><name>Joseph-Haydn-Straße</name><desc>name=Joseph-Haydn-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090824</desc></wpt><wpt lat="53.0886897" lon="8.8555394"><name>Friedhofstraße</name><desc>name=Friedhofstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090826</desc></wpt><wpt lat="53.0890803" lon="8.8429347"><name>H.-H.-Meier-Allee</name><desc>name=H.-H.-Meier-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090843</desc></wpt><wpt lat="53.0915066" lon="8.8458394"><name>Emmastraße</name><desc>check_date=2024-03-21
+name=Emmastraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090851</desc></wpt><wpt lat="53.0889105" lon="8.8570866"><name>Friedhofstraße</name><desc>name=Friedhofstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090858</desc></wpt><wpt lat="53.0872165" lon="8.8365014"><name>Joseph-Haydn-Straße</name><desc>name=Joseph-Haydn-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090876</desc></wpt><wpt lat="53.0851655" lon="8.8494037"><name>Kirchbachstraße</name><desc>name=Kirchbachstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090890</desc></wpt><wpt lat="53.0857497" lon="8.8307023"><name>Brahmsstraße</name><desc>check_date=2024-03-23
+name=Brahmsstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090891</desc></wpt><wpt lat="53.0964801" lon="8.8531584"><name>Riensberg</name><desc>name=Riensberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090897</desc></wpt><wpt lat="53.0950807" lon="8.8506562"><name>Wätjenstraße</name><desc>name=Wätjenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090904</desc></wpt><wpt lat="53.0969033" lon="8.854246"><name>Riensberg</name><desc>name=Riensberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090920</desc></wpt><wpt lat="53.0901591" lon="8.8624847"><name>Focke-Museum</name><desc>name=Focke-Museum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090928</desc></wpt><wpt lat="53.091367" lon="8.8697513"><name>Bürgermeister-Spitta-Allee</name><desc>alt_name=Botanika
+name=Bürgermeister-Spitta-Allee
+public_transport=stop_position
+railway=tram_stop
+ref_name=Bürgermeister-Spitta-Allee, Bremen
+tram=yes
+id=node/768090935</desc></wpt><wpt lat="53.083245" lon="8.8419265"><name>Metzer Straße</name><desc>name=Metzer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768090939</desc></wpt><wpt lat="53.1088844" lon="8.8876522"><name>Kopernikusstraße</name><desc>name=Kopernikusstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768827666</desc></wpt><wpt lat="53.115353" lon="8.8939199"><name>Högerweg</name><desc>name=Högerweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768827699</desc></wpt><wpt lat="53.1057123" lon="8.8845298"><name>Werner-von-Siemens-Straße</name><desc>name=Werner-von-Siemens-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768827707</desc></wpt><wpt lat="53.0739898" lon="8.9352875"><name>Osterholzer Landstraße</name><desc>name=Osterholzer Landstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768878172</desc></wpt><wpt lat="53.0749772" lon="8.9258141"><name>Mülheimer Straße</name><desc>name=Mülheimer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768878174</desc></wpt><wpt lat="53.0735374" lon="8.94602"><name>Ellenerbrokstraße</name><desc>name=Ellenerbrokstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768878190</desc></wpt><wpt lat="53.074839" lon="8.9260472"><name>Mülheimer Straße</name><desc>name=Mülheimer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768878193</desc></wpt><wpt lat="53.0734134" lon="8.9309327"><name>Düsseldorfer Straße</name><desc>name=Düsseldorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768878196</desc></wpt><wpt lat="53.0711504" lon="8.9489056"><name>Graubündener Straße</name><desc>name=Graubündener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/768878199</desc></wpt><wpt lat="53.0790627" lon="8.8606144"><name>Barbarossastraße</name><desc>name=Barbarossastraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/769037342</desc></wpt><wpt lat="53.0793302" lon="8.8967942"><name>Carl-Goerdeler-Straße</name><desc>name=Carl-Goerdeler-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/769037351</desc></wpt><wpt lat="53.0779393" lon="8.9210302"><name>Erkelenzer Straße</name><desc>name=Erkelenzer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/769037354</desc></wpt><wpt lat="53.0793696" lon="8.8933509"><name>Berliner Freiheit</name><desc>name=Berliner Freiheit
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/769037367</desc></wpt><wpt lat="53.0789525" lon="8.877678"><name>Polizeipräsidium</name><desc>name=Polizeipräsidium
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/769037375</desc></wpt><wpt lat="53.0784583" lon="8.9104635"><name>Kurt-Huber-Straße</name><desc>name=Kurt-Huber-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/769037377</desc></wpt><wpt lat="53.079071" lon="8.8852916"><name>Wilhelm-Leuschner-Straße</name><desc>alt_name=Wilh.-Leuschner-Straße
+name=Wilhelm-Leuschner-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/769037394</desc></wpt><wpt lat="53.0779252" lon="8.9208862"><name>Erkelenzer Straße</name><desc>name=Erkelenzer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/769037406</desc></wpt><wpt lat="53.0616873" lon="8.7733576"><name>Solinger Straße</name><desc>name=Solinger Straße
+railway=tram_stop
+id=node/773207148</desc></wpt><wpt lat="53.0805463" lon="8.8041316"><name>Am Wall</name><desc>name=Am Wall
+railway=tram_stop
+ref_name=Am Wall, Bremen
+wheelchair=yes
+id=node/773207152</desc></wpt><wpt lat="53.0785955" lon="8.8231686"><name>Am Dobben</name><desc>name=Am Dobben
+public_transport=stop_position
+railway=tram_stop
+speisebezirk=speisung
+tram=yes
+id=node/773207169</desc></wpt><wpt lat="53.0606355" lon="8.7672979"><name>Bardenflethstraße</name><desc>layer=1
+name=Bardenflethstraße
+railway=tram_stop
+wheelchair=yes
+id=node/773207183</desc></wpt><wpt lat="53.0723233" lon="8.7910351"><name>Hochschule Bremen</name><desc>name=Hochschule Bremen
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/773207190</desc></wpt><wpt lat="53.0585419" lon="8.7593502"><name>Norderländer Straße</name><desc>layer=1
+name=Norderländer Straße
+railway=tram_stop
+wheelchair=yes
+id=node/773207193</desc></wpt><wpt lat="53.0784434" lon="8.8235607"><name>Am Dobben</name><desc>name=Am Dobben
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773207194</desc></wpt><wpt lat="53.0949749" lon="8.8376654"><name>Busestraße</name><desc>name=Busestraße
+railway=tram_stop
+wheelchair=yes
+id=node/773239106</desc></wpt><wpt lat="53.0697033" lon="8.7991824"><name>Theater am Leibnizplatz</name><desc>name=Theater am Leibnizplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773271548</desc></wpt><wpt lat="53.0611881" lon="8.7854619"><name>BSAG-Zentrum</name><desc>name=BSAG-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773271734</desc></wpt><wpt lat="53.1107612" lon="8.8550423"><name>Universität-Nord</name><desc>name=Universität-Nord
+old_name=Klagenfurter Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773271739</desc></wpt><wpt lat="53.050399" lon="8.7899433"><name>Flughafen-Süd</name><desc>name=Flughafen-Süd
+old_name=Neuenlander Feld
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773271742</desc></wpt><wpt lat="53.052717" lon="8.7865755"><name>Flughafen</name><desc>name=Flughafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/773271743</desc></wpt><wpt lat="53.0699727" lon="8.7995192"><name>Theater am Leibnizplatz</name><desc>name=Theater am Leibnizplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773271746</desc></wpt><wpt lat="53.1109897" lon="8.8552875"><name>Universität-Nord</name><desc>name=Universität-Nord
+old_name=Klagenfurter Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773271748</desc></wpt><wpt lat="53.0507001" lon="8.7896481"><name>Flughafen-Süd</name><desc>name=Flughafen-Süd
+old_name=Neuenlander Feld
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773271753</desc></wpt><wpt lat="53.0529497" lon="8.7861692"><name>Flughafen</name><desc>name=Flughafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773271757</desc></wpt><wpt lat="53.1013321" lon="8.8802502"><name>Horner Mühle</name><desc>name=Horner Mühle
+railway=tram_stop
+ref_name=Horner Mühle, Bremen
+wheelchair=yes
+id=node/773832705</desc></wpt><wpt lat="53.0516765" lon="8.8197883"><name>Huckelriede</name><desc>name=Huckelriede
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/773832721</desc></wpt><wpt lat="53.0951609" lon="8.7781367"><name>Elisabethstraße</name><desc>name=Elisabethstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573096</desc></wpt><wpt lat="53.091345" lon="8.7816954"><name>Grenzstraße</name><desc>name=Grenzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573104</desc></wpt><wpt lat="53.1124523" lon="8.7525025"><name>Waterfront</name><desc>name=Waterfront
+network=Verkehrsverbund Bremen/Niedersachsen
+operator=Bremer Straßenbahn AG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573113</desc></wpt><wpt lat="53.1155983" lon="8.7525104"><name>Kap-Horn-Straße</name><desc>name=Kap-Horn-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573115</desc></wpt><wpt lat="53.1106428" lon="8.7559225"><name>Goosestraße</name><desc>name=Goosestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573119</desc></wpt><wpt lat="53.0868778" lon="8.7825217"><name>Konsul-Smidt-Straße</name><desc>name=Konsul-Smidt-Straße
+name:etymology=Johann Smidt
+name:etymology:wikidata=Q89519
+name:etymology:wikipedia=de:Johann Smidt (Kaufmann)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573120</desc></wpt><wpt lat="53.0708404" lon="8.8327849"><name>St.-Jürgen-Straße</name><desc>name=St.-Jürgen-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573131</desc></wpt><wpt lat="53.1087894" lon="8.763586"><name>Grasberger Straße</name><desc>name=Grasberger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573132</desc></wpt><wpt lat="53.073057" lon="8.8243432"><name>Sielwall</name><desc>name=Sielwall
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573144</desc></wpt><wpt lat="53.0911116" lon="8.7818638"><name>Grenzstraße</name><desc>name=Grenzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573153</desc></wpt><wpt lat="53.0984006" lon="8.7761704"><name>Waller Ring</name><desc>alt_name=Hochschule für Künste
+name=Waller Ring
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573155</desc></wpt><wpt lat="53.1018208" lon="8.7736325"><name>Emder Straße</name><desc>name=Emder Straße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Emder Str., Bremen
+tram=yes
+id=node/775573164</desc></wpt><wpt lat="53.1159138" lon="8.7526722"><name>Kap-Horn-Straße</name><desc>name=Kap-Horn-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573166</desc></wpt><wpt lat="53.1104275" lon="8.7575695"><name>Goosestraße</name><desc>name=Goosestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573168</desc></wpt><wpt lat="53.0709044" lon="8.8328053"><name>St.-Jürgen-Straße</name><desc>name=St.-Jürgen-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573178</desc></wpt><wpt lat="53.0941601" lon="8.7790162"><name>Elisabethstraße</name><desc>name=Elisabethstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573179</desc></wpt><wpt lat="53.1041366" lon="8.7692435"><name>Jadestraße</name><desc>name=Jadestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573194</desc></wpt><wpt lat="53.0981057" lon="8.7762409"><name>Waller Ring</name><desc>alt_name=Hochschule für Künste
+name=Waller Ring
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573206</desc></wpt><wpt lat="53.0730101" lon="8.8250183"><name>Sielwall</name><desc>name=Sielwall
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573223</desc></wpt><wpt lat="53.0836773" lon="8.7967125"><name>Doventor</name><desc>name=Doventor
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573224</desc></wpt><wpt lat="53.0866183" lon="8.7821095"><name>Konsul-Smidt-Straße</name><desc>name=Konsul-Smidt-Straße
+name:etymology=Johann Smidt
+name:etymology:wikidata=Q89519
+name:etymology:wikipedia=de:Johann Smidt (Kaufmann)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573227</desc></wpt><wpt lat="53.0706825" lon="8.8332242"><name>St.-Jürgen-Straße</name><desc>name=St.-Jürgen-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573236</desc></wpt><wpt lat="53.1085648" lon="8.763786"><name>Grasberger Straße</name><desc>name=Grasberger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573237</desc></wpt><wpt lat="53.0847551" lon="8.7993922"><name>Doventorsteinweg</name><desc>name=Doventorsteinweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573238</desc></wpt><wpt lat="53.1042417" lon="8.7690105"><name>Jadestraße</name><desc>name=Jadestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775573240</desc></wpt><wpt lat="53.085791" lon="8.7913403"><name>Lloydstraße</name><desc>name=Lloydstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775590182</desc></wpt><wpt lat="53.0892184" lon="8.7844685"><name>Hansator</name><desc>name=Hansator
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775590210</desc></wpt><wpt lat="53.0889907" lon="8.7847606"><name>Hansator</name><desc>name=Hansator
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/775590217</desc></wpt><wpt lat="53.0603756" lon="8.8929857"><name>Trinidadstraße</name><desc>name=Trinidadstraße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Trinidadstraße, Bremen
+tram=yes
+id=node/776070389</desc></wpt><wpt lat="53.0600784" lon="8.8937542"><name>Trinidadstraße</name><desc>name=Trinidadstraße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Trinidadstraße, Bremen
+tram=yes
+id=node/776070416</desc></wpt><wpt lat="53.0831746" lon="8.7862073"><name>Eduard-Schopf-Allee</name><desc>name=Eduard-Schopf-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/782224504</desc></wpt><wpt lat="53.0829288" lon="8.7879807"><name>Eduard-Schopf-Allee</name><desc>name=Eduard-Schopf-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/782237254</desc></wpt><wpt lat="53.0625339" lon="8.8866854"><name>Bahnhof Sebaldsbrück</name><desc>name=Bahnhof Sebaldsbrück
+public_transport=stop_position
+railway=tram_stop
+ref_name=Bf Sebaldsbrück, Bremen
+tram=yes
+id=node/818850218</desc></wpt><wpt lat="53.0624323" lon="8.8870847"><name>Bahnhof Sebaldsbrück</name><desc>name=Bahnhof Sebaldsbrück
+public_transport=stop_position
+railway=tram_stop
+ref_name=Bf Sebaldsbrück, Bremen
+tram=yes
+id=node/818850219</desc></wpt><wpt lat="53.0592564" lon="8.896523"><name>Schloßparkstraße</name><desc>name=Schloßparkstraße
+old_name=Segelsbrück
+public_transport=stop_position
+railway=tram_stop
+ref_name=Segelsbrück, Bremen
+tram=yes
+id=node/818850411</desc></wpt><wpt lat="53.0598562" lon="8.8995325"><name>Sebaldsbrück</name><desc>name=Sebaldsbrück
+public_transport=stop_position
+railway=tram_stop
+ref=Steig F
+tram=yes
+id=node/818850535</desc></wpt><wpt lat="53.0671056" lon="8.8712143"><name>Malerstraße</name><desc>name=Malerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/818850636</desc></wpt><wpt lat="53.0672159" lon="8.863547"><name>Ludwig-Quidde-Straße</name><desc>name=Ludwig-Quidde-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/818850677</desc></wpt><wpt lat="53.0704426" lon="8.8565384"><name>Bennigsenstraße</name><desc>name=Bennigsenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/818850711</desc></wpt><wpt lat="53.0711385" lon="8.8508182"><name>Bei den Drei Pfählen</name><desc>name=Bei den Drei Pfählen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/818850772</desc></wpt><wpt lat="53.0726372" lon="8.8198127"><name>Ulrichsplatz</name><desc>name=Ulrichsplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/818906418</desc></wpt><wpt lat="53.0726718" lon="8.8203676"><name>Ulrichsplatz</name><desc>name=Ulrichsplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/818906419</desc></wpt><wpt lat="53.0785147" lon="8.8231438"><name>Am Dobben</name><desc>name=Am Dobben
+public_transport=stop_position
+railway=tram_stop
+speisebezirk=speisung
+tram=yes
+id=node/818906424</desc></wpt><wpt lat="53.0783889" lon="8.8233661"><name>Am Dobben</name><desc>name=Am Dobben
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/818906425</desc></wpt><wpt lat="53.0627292" lon="8.8099589"><name>Kirchweg</name><desc>name=Kirchweg
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/845861664</desc></wpt><wpt lat="53.0699671" lon="8.8371216"><name>Weserstadion</name><desc>bus=no
+name=Weserstadion
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1036529008</desc></wpt><wpt lat="53.0677658" lon="8.8019947"><name>Rotes-Kreuz-Krankenhaus</name><desc>name=Rotes-Kreuz-Krankenhaus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1305261463</desc></wpt><wpt lat="53.0675156" lon="8.8023354"><name>Rotes-Kreuz-Krankenhaus</name><desc>name=Rotes-Kreuz-Krankenhaus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1305261474</desc></wpt><wpt lat="53.0652503" lon="8.8061779"><name>Schwankhalle (Schnürschuh Theater)</name><desc>name=Schwankhalle (Schnürschuh Theater)
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1328817505</desc></wpt><wpt lat="53.0585983" lon="8.8129524"><name>Rosenpfad</name><desc>name=Rosenpfad
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1328863589</desc></wpt><wpt lat="53.0557948" lon="8.8153173"><name>Am Dammacker</name><desc>name=Am Dammacker
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1328863676</desc></wpt><wpt lat="53.0858173" lon="8.8311158"><name>Brahmsstraße</name><desc>name=Brahmsstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1360132259</desc></wpt><wpt lat="53.1103326" lon="8.7700423"><name>Altenescher Straße</name><desc>name=Altenescher Straße
+railway=tram_stop
+wheelchair=yes
+id=node/1569967044</desc></wpt><wpt lat="53.0527814" lon="8.9618886"><name>Werner-Steenken-Straße</name><desc>name=Werner-Steenken-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1676641427</desc></wpt><wpt lat="53.0664557" lon="8.9555525"><name>Engadiner Straße</name><desc>name=Engadiner Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1676656350</desc></wpt><wpt lat="53.057776" lon="8.9632444"><name>Teneverstraße</name><desc>name=Teneverstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1835333967</desc></wpt><wpt lat="53.0867924" lon="8.8188523"><name>Bürgerpark</name><desc>bench=no
+departures_board=no
+name=Bürgerpark
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tactile_paving=no
+tram=yes
+wheelchair=yes
+id=node/1920927895</desc></wpt><wpt lat="53.0649837" lon="8.7791997"><name>Duckwitzstraße</name><desc>name=Duckwitzstraße
+railway=tram_stop
+id=node/1944568811</desc></wpt><wpt lat="53.056121" lon="8.8150758"><name>Am Dammacker</name><desc>name=Am Dammacker
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1970662066</desc></wpt><wpt lat="53.0325069" lon="8.8381091"><name>Heukämpendamm</name><desc>name=Heukämpendamm
+network=BSAG
+operator=BSAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1970662072</desc></wpt><wpt lat="53.0519255" lon="8.8190555"><name>Huckelriede</name><desc>name=Huckelriede
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1970662079</desc></wpt><wpt lat="53.0358664" lon="8.8273203"><name>Kattenturm-Mitte</name><desc>name=Kattenturm-Mitte
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1970662093</desc></wpt><wpt lat="53.037457" lon="8.8224998"><name>Klinikum Links der Weser</name><desc>name=Klinikum Links der Weser
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1970662098</desc></wpt><wpt lat="53.0423834" lon="8.8246019"><name>Robert-Koch-Straße</name><desc>name=Robert-Koch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1970663126</desc></wpt><wpt lat="53.0290411" lon="8.8380148"><name>Twiedelftsweg</name><desc>name=Twiedelftsweg
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1970663128</desc></wpt><wpt lat="53.1025092" lon="8.784971"><name>Bahnhof Walle (Steig B)</name><desc>bus=no
+name=Bahnhof Walle (Steig B)
+network=VBN
+operator=BSAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1993183907</desc></wpt><wpt lat="53.1020888" lon="8.7852648"><name>Bahnhof Walle (Steig A)</name><desc>name=Bahnhof Walle (Steig A)
+network=VBN
+operator=BSAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1993183914</desc></wpt><wpt lat="53.0849598" lon="8.7798507"><name>Europahafen</name><desc>name=Europahafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2004616389</desc></wpt><wpt lat="53.0852433" lon="8.7802946"><name>Europahafen</name><desc>name=Europahafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2004616391</desc></wpt><wpt lat="53.0650069" lon="8.8065398"><name>Schwankhalle (Schnürschuh Theater)</name><desc>name=Schwankhalle (Schnürschuh Theater)
+public_transport=station
+railway=tram_stop
+wheelchair=limited
+id=node/2029833541</desc></wpt><wpt lat="53.0884588" lon="8.7856353"><name>Hansator</name><desc>name=Hansator
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2149778025</desc></wpt><wpt lat="53.1161026" lon="8.758871"><name>Lindenhofstraße</name><desc>bench=yes
+bin=yes
+highway=bus_stop
+lit=yes
+name=Lindenhofstraße
+public_transport=station
+railway=tram_stop
+ref_name=Lindenhofstr., Bremen
+shelter=yes
+tram=yes
+id=node/2157910170</desc></wpt><wpt lat="53.1082845" lon="8.7738666"><name>Waller Friedhof</name><desc>alt_name=Eissporthalle
+name=Waller Friedhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2188478395</desc></wpt><wpt lat="53.0403074" lon="8.9444644"><name>Bf Mahndorf</name><desc>name=Bf Mahndorf
+public_transport=stop_position
+railway=tram_stop
+ref_name=Bf Mahndorf, Bremen
+tram=yes
+id=node/2235507930</desc></wpt><wpt lat="53.0812818" lon="8.831838"><name>Hollerallee</name><desc>bus=no
+name=Hollerallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2268946268</desc></wpt><wpt lat="53.081393" lon="8.8323321"><name>Hollerallee</name><desc>bus=no
+name=Hollerallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2268946269</desc></wpt><wpt lat="53.0825299" lon="8.8370423"><name>St. Joseph-Stift</name><desc>highway=bus_stop
+name=St. Joseph-Stift
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2268946939</desc></wpt><wpt lat="53.040303" lon="8.9445605"><name>Bf Mahndorf</name><desc>name=Bf Mahndorf
+public_transport=stop_position
+railway=tram_stop
+ref_name=Bf Mahndorf, Bremen
+tram=yes
+id=node/2277885419</desc></wpt><wpt lat="53.0587058" lon="8.8128945"><name>Rosenpfad</name><desc>name=Rosenpfad
+public_transport=station
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2295366575</desc></wpt><wpt lat="53.0587931" lon="8.8128563"><name>Rosenpfad</name><desc>name=Rosenpfad
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2295366576</desc></wpt><wpt lat="53.0847105" lon="8.850915"><name>Kirchbachstraße</name><desc>name=Kirchbachstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2424458528</desc></wpt><wpt lat="53.0850183" lon="8.8510952"><name>Kirchbachstraße</name><desc>name=Kirchbachstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2424458531</desc></wpt><wpt lat="53.0648471" lon="8.7789489"><name>Duckwitzstraße</name><desc>name=Duckwitzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435197747</desc></wpt><wpt lat="53.0650738" lon="8.7793791"><name>Duckwitzstraße</name><desc>name=Duckwitzstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435197748</desc></wpt><wpt lat="53.0664174" lon="8.9558757"><name>Engadiner Straße</name><desc>name=Engadiner Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435197749</desc></wpt><wpt lat="53.0438155" lon="8.9506472"><name>Nußhorn</name><desc>name=Nußhorn
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435197750</desc></wpt><wpt lat="53.0439071" lon="8.9510768"><name>Nußhorn</name><desc>name=Nußhorn
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435197751</desc></wpt><wpt lat="53.0666219" lon="8.9621881"><name>Neuwieder Straße</name><desc>name=Neuwieder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435198365</desc></wpt><wpt lat="53.066779" lon="8.9618127"><name>Neuwieder Straße</name><desc>name=Neuwieder Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435198375</desc></wpt><wpt lat="53.0610363" lon="8.9638054"><name>Tenever-Zentrum</name><desc>name=Tenever-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435198439</desc></wpt><wpt lat="53.0612163" lon="8.9638787"><name>Tenever-Zentrum</name><desc>name=Tenever-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435198440</desc></wpt><wpt lat="53.058018" lon="8.9630569"><name>Teneverstraße</name><desc>name=Teneverstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435198441</desc></wpt><wpt lat="53.0537763" lon="8.9623353"><name>Werner-Steenken-Straße</name><desc>name=Werner-Steenken-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435198444</desc></wpt><wpt lat="53.0488983" lon="8.9605391"><name>Weserpark</name><desc>name=Weserpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435198445</desc></wpt><wpt lat="53.0491464" lon="8.9606905"><name>Weserpark</name><desc>name=Weserpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435198447</desc></wpt><wpt lat="53.051812" lon="8.8193672"><name>Huckelriede</name><desc>name=Huckelriede
+railway=tram_stop
+wheelchair=yes
+id=node/2435442734</desc></wpt><wpt lat="53.0374934" lon="8.8224465"><name>Klinikum links der Weser</name><desc>name=Klinikum links der Weser
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2435442738</desc></wpt><wpt lat="53.0624938" lon="8.8868536"><name>Bf Sebaldsbrück</name><desc>alt_name=Bahnhof Sebaldsbrück
+covered=no
+name=Bf Sebaldsbrück
+public_transport=station
+railway=tram_stop
+ref_name=Bf Sebaldsbrück, Bremen
+wikidata=Q112624981
+id=node/2436786076</desc></wpt><wpt lat="53.0688248" lon="8.8438512"><name>Nienburger Straße</name><desc>name=Nienburger Straße
+railway=tram_stop
+ref_name=Nienburger Straße, Bremen
+wheelchair=yes
+id=node/2438131690</desc></wpt><wpt lat="53.0679753" lon="8.8488633"><name>Stader Straße/Hamburger Straße</name><desc>name=Stader Straße/Hamburger Straße
+public_transport=station
+railway=tram_stop
+wheelchair=yes
+id=node/2438131692</desc></wpt><wpt lat="53.0670051" lon="8.8545865"><name>Georg-Bitter-Straße</name><desc>name=Georg-Bitter-Straße
+railway=tram_stop
+ref_name=Georg-Bitter-Straße, Bremen
+wheelchair=yes
+id=node/2438773856</desc></wpt><wpt lat="53.0661749" lon="8.8606637"><name>Hohwisch</name><desc>bus=no
+name=Hohwisch
+public_transport=station
+railway=tram_stop
+ref_name=Hohwisch, Bremen
+tram=yes
+wheelchair=yes
+id=node/2438773867</desc></wpt><wpt lat="53.0647461" lon="8.806938"><name>Schwankhalle (Schnürschuh Theater)</name><desc>name=Schwankhalle (Schnürschuh Theater)
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2444846536</desc></wpt><wpt lat="53.0358945" lon="8.8271171"><name>Kattenturm-Mitte</name><desc>name=Kattenturm-Mitte
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2555416236</desc></wpt><wpt lat="53.056445" lon="8.7840224"><name>Neuenlander Kämpe</name><desc>alt_name=Polizeiinspektion Neustadt
+name=Neuenlander Kämpe
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2562313300</desc></wpt><wpt lat="53.0420202" lon="8.8242987"><name>Robert-Koch-Straße</name><desc>name=Robert-Koch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2562313411</desc></wpt><wpt lat="53.0487015" lon="8.8206741"><name>Sielhof</name><desc>name=Sielhof
+railway=tram_stop
+wheelchair=yes
+id=node/2562313412</desc></wpt><wpt lat="53.0290776" lon="8.8380126"><name>Twiedelftsweg</name><desc>name=Twiedelftsweg
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2562313413</desc></wpt><wpt lat="53.0934234" lon="8.789058"><name>Wartburgstraße</name><desc>name=Wartburgstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2562313417</desc></wpt><wpt lat="53.0937555" lon="8.788767"><name>Wartburgstraße</name><desc>name=Wartburgstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2562313418</desc></wpt><wpt lat="53.0770453" lon="8.8098895"><name>Schüsselkorb</name><desc>name=Schüsselkorb
+railway=tram_stop
+wheelchair=yes
+id=node/2565698779</desc></wpt><wpt lat="53.1236235" lon="8.900061"><name>Daniel-Jacobs-Allee</name><desc>name=Daniel-Jacobs-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2568872799</desc></wpt><wpt lat="53.1154986" lon="8.8940111"><name>Högerweg</name><desc>name=Högerweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2568894539</desc></wpt><wpt lat="53.1086646" lon="8.887356"><name>Kopernikusstraße</name><desc>name=Kopernikusstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2568894540</desc></wpt><wpt lat="53.1049424" lon="8.88375"><name>Werner-von-Siemens-Straße</name><desc>check_date=2024-04-13
+name=Werner-von-Siemens-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2568903537</desc></wpt><wpt lat="53.0819031" lon="8.8127161"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+ref=B
+tram=yes
+id=node/2570903292</desc></wpt><wpt lat="53.0803272" lon="8.8036795"><name>Am Wall</name><desc>name=Am Wall
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2573585068</desc></wpt><wpt lat="53.0751099" lon="8.8085194"><name>Domsheide</name><desc>name=Domsheide
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2573585071</desc></wpt><wpt lat="53.076827" lon="8.806013"><name>Obernstraße</name><desc>name=Obernstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2573585075</desc></wpt><wpt lat="53.0826763" lon="8.8114292"><name>Hauptbahnhof P</name><desc>description=Bremen Hauptbahnhof, Sonderverkehr
+name=Hauptbahnhof P
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2573586711</desc></wpt><wpt lat="53.0805094" lon="8.8190671"><name>Rembertistraße</name><desc>name=Rembertistraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2573586828</desc></wpt><wpt lat="53.0693758" lon="8.798628"><name>Theater am Leibnizplatz</name><desc>name=Theater am Leibnizplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2574881705</desc></wpt><wpt lat="53.0693998" lon="8.7986049"><name>Theater am Leibnizplatz</name><desc>name=Theater am Leibnizplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2574881706</desc></wpt><wpt lat="53.0737616" lon="8.7930355"><name>Westerstraße</name><desc>name=Westerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2574881707</desc></wpt><wpt lat="53.0844796" lon="8.8254065"><name>Am Stern</name><desc>check_date=2024-03-11
+name=Am Stern
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185055</desc></wpt><wpt lat="53.0845505" lon="8.8258372"><name>Am Stern</name><desc>check_date=2024-03-12
+name=Am Stern
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185056</desc></wpt><wpt lat="53.0835794" lon="8.8175809"><name>Hauptbahnhof-Nord/Messe</name><desc>name=Hauptbahnhof-Nord/Messe
+old_name=Blumenthalstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185057</desc></wpt><wpt lat="53.0836538" lon="8.8179874"><name>Hauptbahnhof-Nord/Messe</name><desc>check_date=2024-03-11
+name=Hauptbahnhof-Nord/Messe
+old_name=Blumenthalstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185058</desc></wpt><wpt lat="53.0949088" lon="8.8376504"><name>Busestraße</name><desc>name=Busestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185061</desc></wpt><wpt lat="53.0950699" lon="8.8376902"><name>Busestraße</name><desc>name=Busestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185062</desc></wpt><wpt lat="53.0916493" lon="8.8352699"><name>Crüsemannallee</name><desc>check_date=2024-03-21
+name=Crüsemannallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185065</desc></wpt><wpt lat="53.0918012" lon="8.8354484"><name>Crüsemannallee</name><desc>check_date=2024-03-21
+name=Crüsemannallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185066</desc></wpt><wpt lat="53.084418" lon="8.8166659"><name>Hauptbahnhof-Nord/Messe</name><desc>check_date=2024-03-20
+name=Hauptbahnhof-Nord/Messe
+old_name=Messe-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185068</desc></wpt><wpt lat="53.0845593" lon="8.8167823"><name>Hauptbahnhof-Nord/Messe</name><desc>check_date=2024-03-20
+name=Hauptbahnhof-Nord/Messe
+old_name=Messe-Zentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185069</desc></wpt><wpt lat="53.0866887" lon="8.8183064"><name>Bürgerpark</name><desc>bench=no
+departures_board=no
+name=Bürgerpark
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tram=yes
+wheelchair=yes
+id=node/2576185331</desc></wpt><wpt lat="53.0979062" lon="8.8399814"><name>Kulenkampffallee</name><desc>name=Kulenkampffallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185604</desc></wpt><wpt lat="53.1075636" lon="8.8522262"><name>Universität/Zentralbereich</name><desc>name=Universität/Zentralbereich
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185927</desc></wpt><wpt lat="53.1078868" lon="8.8525488"><name>Universität/Zentralbereich</name><desc>name=Universität/Zentralbereich
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2576185928</desc></wpt><wpt lat="53.0715063" lon="8.9486589"><name>Graubündener Straße</name><desc>name=Graubündener Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2578723693</desc></wpt><wpt lat="53.0734701" lon="8.9462284"><name>Ellenerbrokstraße</name><desc>name=Ellenerbrokstraße
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2578728579</desc></wpt><wpt lat="53.0652666" lon="8.8785589"><name>Föhrenstraße</name><desc>name=Föhrenstraße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Föhrenstr., Bremen
+tram=yes
+id=node/2581346022</desc></wpt><wpt lat="53.0655163" lon="8.8779417"><name>Föhrenstraße</name><desc>name=Föhrenstraße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Föhrenstr., Bremen
+tram=yes
+id=node/2581346026</desc></wpt><wpt lat="53.0966018" lon="8.8702737"><name>Horn</name><desc>name=Horn
+old_name=Horner Kirche
+public_transport=stop_position
+railway=tram_stop
+ref_name=Horner Kirche, Bremen
+tram=yes
+id=node/2583933066</desc></wpt><wpt lat="53.0969235" lon="8.8701119"><name>Horn</name><desc>name=Horn
+old_name=Horner Kirche
+public_transport=stop_position
+railway=tram_stop
+ref_name=Horner Kirche, Bremen
+tram=yes
+id=node/2583933067</desc></wpt><wpt lat="53.1015087" lon="8.8797004"><name>Horner Mühle</name><desc>name=Horner Mühle
+public_transport=stop_position
+railway=tram_stop
+ref_name=Horner Mühle, Bremen
+tram=yes
+id=node/2583933068</desc></wpt><wpt lat="53.1016131" lon="8.8801899"><name>Horner Mühle</name><desc>name=Horner Mühle
+public_transport=stop_position
+railway=tram_stop
+ref_name=Horner Mühle, Bremen
+tram=yes
+id=node/2583933069</desc></wpt><wpt lat="53.1013552" lon="8.8748742"><name>Vorstraße</name><desc>name=Vorstraße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Vorstr., Bremen
+tram=yes
+id=node/2583933442</desc></wpt><wpt lat="53.1013795" lon="8.8742304"><name>Vorstraße</name><desc>name=Vorstraße
+public_transport=stop_position
+railway=tram_stop
+ref_name=Vorstr., Bremen
+tram=yes
+id=node/2583933443</desc></wpt><wpt lat="53.0818259" lon="8.855095"><name>Kurfürstenallee</name><desc>name=Kurfürstenallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2585410459</desc></wpt><wpt lat="53.0821536" lon="8.8545527"><name>Kurfürstenallee</name><desc>name=Kurfürstenallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2585410460</desc></wpt><wpt lat="53.0462012" lon="8.9573074"><name>Weserpark-Süd</name><desc>name=Weserpark-Süd
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2585412289</desc></wpt><wpt lat="53.046391" lon="8.9578621"><name>Weserpark-Süd</name><desc>name=Weserpark-Süd
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2585412295</desc></wpt><wpt lat="53.0709635" lon="8.8334203"><name>St.-Jürgen-Straße</name><desc>name=St.-Jürgen-Straße
+public_transport=stop_position
+railway=tram_stop
+support=pole
+tram=yes
+visibility=area
+id=node/2878153730</desc></wpt><wpt lat="53.0485664" lon="8.7415186"><name>Roland-Center</name><desc>alt_name=Roland Center
+name=Roland-Center
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3940260921</desc></wpt><wpt lat="53.0884316" lon="8.8329117"><name>Bulthauptstraße</name><desc>name=Bulthauptstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4204688089</desc></wpt><wpt lat="53.0882901" lon="8.8327447"><name>Bulthauptstraße</name><desc>name=Bulthauptstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4204688091</desc></wpt><wpt lat="53.0723525" lon="8.7910438"><name>Hochschule Bremen</name><desc>name=Hochschule Bremen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4423791640</desc></wpt><wpt lat="53.1013826" lon="8.8802574"><name>Horner Mühle</name><desc>name=Horner Mühle
+public_transport=stop_position
+railway=tram_stop
+ref_name=Horner Mühle, Bremen
+wheelchair=yes
+id=node/6165414016</desc></wpt><wpt lat="53.0825825" lon="8.8115447"><name>Hauptbahnhof O</name><desc>description=Bremen Hauptbahnhof, Sonderverkehr
+name=Hauptbahnhof O
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7223541266</desc></wpt><wpt lat="53.0742025" lon="8.8102841"><name>Domsheide</name><desc>bus=no
+name=Domsheide
+public_transport=stop_position
+railway=tram_stop
+ref=L
+tram=yes
+id=node/7490528008</desc></wpt><wpt lat="53.1206914" lon="8.7529566"><name>Gröpelingen</name><desc>name=Gröpelingen
+network=Verkehrsverbund Bremen/Niedersachsen
+operator=Bremer Straßenbahn AG
+public_transport=stop_position
+railway=tram_stop
+ref=E
+tram=yes
+id=node/9578378403</desc></wpt><wpt lat="53.1211997" lon="8.7524369"><name>Gröpelingen</name><desc>name=Gröpelingen
+public_transport=stop_position
+railway=tram_stop
+ref=D
+tram=yes
+id=node/9578378459</desc></wpt><wpt lat="53.0488254" lon="8.7426117"><name>Roland-Center</name><desc>alt_name=Roland Center
+name=Roland-Center
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11368658812</desc></wpt><wpt lat="53.0488455" lon="8.7424515"><name>Roland-Center</name><desc>alt_name=Roland Center
+name=Roland-Center
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11368658822</desc></wpt><wpt lat="53.0677201" lon="8.8549644"><name>Georg-Bitter-Straße</name><desc>name=Georg-Bitter-Straße
+network=VBN
+network:wikidata=Q1306245
+operator=Bremer Straßenbahn AG
+operator:short=BSAG
+operator:wikidata=Q6716847
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11372287758</desc></wpt><wpt lat="53.120661" lon="8.7528815"><name>Gröpelingen</name><desc>name=Gröpelingen
+public_transport=stop_position
+railway=tram_stop
+ref=F
+tram=yes
+id=node/12086699890</desc></wpt><trk><name>Hauptbahnhof</name><desc>amenity=bus_station
+bus=yes
+covered=yes
+name=Hauptbahnhof
+name:de=Hauptbahnhof
+name:en=Main Station
+network=VBN
+operator=BSAG
+public_transport=station
+railway=tram_stop
+ref_name=Bremen Hbf
+tram=yes
+wheelchair=yes
+id=way/198199423</desc><trkseg><trkpt lat="53.0821652" lon="8.8127482"/><trkpt lat="53.0821228" lon="8.8126924"/><trkpt lat="53.0820826" lon="8.8126393"/><trkpt lat="53.0820408" lon="8.8125841"/><trkpt lat="53.0819928" lon="8.812521"/><trkpt lat="53.0819372" lon="8.8124475"/><trkpt lat="53.0819243" lon="8.8124745"/><trkpt lat="53.0819042" lon="8.8125169"/><trkpt lat="53.0818908" lon="8.8125449"/><trkpt lat="53.0818676" lon="8.8125936"/><trkpt lat="53.0813208" lon="8.8137427"/><trkpt lat="53.0813085" lon="8.8137686"/><trkpt lat="53.0813317" lon="8.8137992"/><trkpt lat="53.0813448" lon="8.8138165"/><trkpt lat="53.0813565" lon="8.813832"/><trkpt lat="53.0813675" lon="8.8138464"/><trkpt lat="53.0813747" lon="8.8138559"/><trkpt lat="53.0814121" lon="8.8139053"/><trkpt lat="53.0814327" lon="8.8139324"/><trkpt lat="53.0814657" lon="8.8139759"/><trkpt lat="53.0814942" lon="8.8140135"/><trkpt lat="53.0815151" lon="8.8140411"/><trkpt lat="53.081526" lon="8.8140555"/><trkpt lat="53.0815476" lon="8.814084"/><trkpt lat="53.0815759" lon="8.8141213"/><trkpt lat="53.0817339" lon="8.8143297"/><trkpt lat="53.0817917" lon="8.8143262"/><trkpt lat="53.0823971" lon="8.813054"/><trkpt lat="53.0822045" lon="8.8128001"/><trkpt lat="53.0821767" lon="8.8127635"/><trkpt lat="53.0821652" lon="8.8127482"/></trkseg></trk><trk><name>Sebaldsbrück</name><desc>amenity=bus_station
+bus=yes
+covered=yes
+name=Sebaldsbrück
+public_transport=station
+railway=tram_stop
+ref_name=Sebaldsbrück, Bremen
+wheelchair=yes
+id=way/200194952</desc><trkseg><trkpt lat="53.059451" lon="8.8994121"/><trkpt lat="53.0593767" lon="8.899509"/><trkpt lat="53.0593802" lon="8.899682"/><trkpt lat="53.0593919" lon="8.9002368"/><trkpt lat="53.0593957" lon="8.9004356"/><trkpt lat="53.0594642" lon="8.9004918"/><trkpt lat="53.0594753" lon="8.9005008"/><trkpt lat="53.0599147" lon="8.900489"/><trkpt lat="53.0601405" lon="8.900163"/><trkpt lat="53.0601419" lon="8.8997359"/><trkpt lat="53.0599132" lon="8.8994893"/><trkpt lat="53.059451" lon="8.8994121"/></trkseg></trk><trk><name>Schloßparkstraße</name><desc>area=yes
+covered=no
+name=Schloßparkstraße
+old_name=Segelsbrück
+public_transport=station
+railway=tram_stop
+ref_name=Segelsbrück, Bremen
+wheelchair=yes
+id=way/200194957</desc><trkseg><trkpt lat="53.0591885" lon="8.8964371"/><trkpt lat="53.0591641" lon="8.8965912"/><trkpt lat="53.0591332" lon="8.8968489"/><trkpt lat="53.0591212" lon="8.897046"/><trkpt lat="53.0591111" lon="8.8972999"/><trkpt lat="53.0591243" lon="8.8973023"/><trkpt lat="53.0591359" lon="8.8973037"/><trkpt lat="53.0591708" lon="8.897358"/><trkpt lat="53.0592019" lon="8.8974065"/><trkpt lat="53.0592087" lon="8.8974088"/><trkpt lat="53.059242" lon="8.8974165"/><trkpt lat="53.0592466" lon="8.897079"/><trkpt lat="53.0592576" lon="8.8968091"/><trkpt lat="53.0592931" lon="8.8965329"/><trkpt lat="53.0592659" lon="8.8965168"/><trkpt lat="53.0592445" lon="8.8964859"/><trkpt lat="53.0592138" lon="8.8964417"/><trkpt lat="53.0591885" lon="8.8964371"/></trkseg></trk><trk><name>Trinidadstraße</name><desc>area=yes
+covered=no
+name=Trinidadstraße
+public_transport=station
+railway=tram_stop
+ref_name=Trinidadstraße, Bremen
+wheelchair=yes
+id=way/200195010</desc><trkseg><trkpt lat="53.0602926" lon="8.8929794"/><trkpt lat="53.0600399" lon="8.8937309"/><trkpt lat="53.0600621" lon="8.8937537"/><trkpt lat="53.0601256" lon="8.8937569"/><trkpt lat="53.0601497" lon="8.8937748"/><trkpt lat="53.0604073" lon="8.8930054"/><trkpt lat="53.060381" lon="8.8929808"/><trkpt lat="53.0603133" lon="8.8929962"/><trkpt lat="53.0602926" lon="8.8929794"/></trkseg></trk><trk><name>St.-Jürgen-Straße</name><desc>area=yes
+name=St.-Jürgen-Straße
+public_transport=station
+railway=tram_stop
+ref_name=St.-Jürgen-Straße, Bremen
+tram=yes
+wheelchair=yes
+id=way/235612588</desc><trkseg><trkpt lat="53.0708021" lon="8.8326559"/><trkpt lat="53.0706453" lon="8.8331981"/><trkpt lat="53.0706328" lon="8.8332513"/><trkpt lat="53.0706437" lon="8.8332608"/><trkpt lat="53.0706548" lon="8.8332706"/><trkpt lat="53.0706668" lon="8.8332803"/><trkpt lat="53.0706946" lon="8.8333024"/><trkpt lat="53.0707352" lon="8.8333347"/><trkpt lat="53.0710384" lon="8.8335581"/><trkpt lat="53.0710419" lon="8.8334968"/><trkpt lat="53.0710409" lon="8.8334646"/><trkpt lat="53.070952" lon="8.8330085"/><trkpt lat="53.0709329" lon="8.8328297"/><trkpt lat="53.070932" lon="8.8328024"/><trkpt lat="53.0709293" lon="8.8327165"/><trkpt lat="53.0708713" lon="8.8327258"/><trkpt lat="53.0708208" lon="8.8326708"/><trkpt lat="53.0708021" lon="8.8326559"/></trkseg></trk><trk><name>Weserwehr</name><desc>amenity=bus_station
+area=yes
+bus=yes
+name=Weserwehr
+public_transport=station
+railway=tram_stop
+ref_name=Weserwehr, Bremen
+tram=yes
+wheelchair=yes
+id=way/235797256</desc><trkseg><trkpt lat="53.063625" lon="8.8673006"/><trkpt lat="53.0636066" lon="8.8672421"/><trkpt lat="53.0635213" lon="8.867138"/><trkpt lat="53.0634322" lon="8.867349"/><trkpt lat="53.0633614" lon="8.8673489"/><trkpt lat="53.0631077" lon="8.8680061"/><trkpt lat="53.0635145" lon="8.8684035"/><trkpt lat="53.0635388" lon="8.8683402"/><trkpt lat="53.06363" lon="8.8683207"/><trkpt lat="53.0637072" lon="8.8682596"/><trkpt lat="53.0637628" lon="8.8681808"/><trkpt lat="53.0638083" lon="8.8680557"/><trkpt lat="53.0638249" lon="8.8679061"/><trkpt lat="53.0638104" lon="8.8677226"/><trkpt lat="53.063625" lon="8.8673006"/></trkseg></trk><trk><name>Domsheide</name><desc>area=yes
+name=Domsheide
+name:de=Domsheide
+name:en=City Center
+public_transport=station
+railway=tram_stop
+ref_name=Domsheide, Bremen
+wheelchair=yes
+wikidata=Q1238711
+id=way/235801071</desc><trkseg><trkpt lat="53.0745797" lon="8.8081531"/><trkpt lat="53.0745318" lon="8.8080585"/><trkpt lat="53.0745183" lon="8.8080771"/><trkpt lat="53.0744749" lon="8.8079741"/><trkpt lat="53.074431" lon="8.8079622"/><trkpt lat="53.0742844" lon="8.8076615"/><trkpt lat="53.0741852" lon="8.8077901"/><trkpt lat="53.0743328" lon="8.8080864"/><trkpt lat="53.0743954" lon="8.8081992"/><trkpt lat="53.0743758" lon="8.8083897"/><trkpt lat="53.0743661" lon="8.808442"/><trkpt lat="53.0745207" lon="8.8086375"/><trkpt lat="53.0745603" lon="8.8086997"/><trkpt lat="53.0746503" lon="8.8088824"/><trkpt lat="53.0745639" lon="8.8092922"/><trkpt lat="53.0743927" lon="8.8096654"/><trkpt lat="53.0743773" lon="8.8096537"/><trkpt lat="53.0742975" lon="8.8099193"/><trkpt lat="53.0743075" lon="8.8099284"/><trkpt lat="53.0743322" lon="8.8099814"/><trkpt lat="53.0743508" lon="8.8100184"/><trkpt lat="53.0744027" lon="8.8099911"/><trkpt lat="53.0744344" lon="8.8100318"/><trkpt lat="53.074648" lon="8.8095682"/><trkpt lat="53.07468" lon="8.8095601"/><trkpt lat="53.0748176" lon="8.8092713"/><trkpt lat="53.0748619" lon="8.8091703"/><trkpt lat="53.0749086" lon="8.809029"/><trkpt lat="53.074924" lon="8.8088334"/><trkpt lat="53.0748914" lon="8.8088209"/><trkpt lat="53.0748972" lon="8.8088067"/><trkpt lat="53.0749427" lon="8.808696"/><trkpt lat="53.0750993" lon="8.8085583"/><trkpt lat="53.0752179" lon="8.8084626"/><trkpt lat="53.0752569" lon="8.808427"/><trkpt lat="53.0752428" lon="8.8083812"/><trkpt lat="53.0752216" lon="8.808312"/><trkpt lat="53.0752092" lon="8.8082709"/><trkpt lat="53.0750924" lon="8.8083718"/><trkpt lat="53.0750536" lon="8.8083709"/><trkpt lat="53.0748751" lon="8.8085242"/><trkpt lat="53.0748654" lon="8.8085439"/><trkpt lat="53.0748599" lon="8.808555"/><trkpt lat="53.0748138" lon="8.8084908"/><trkpt lat="53.074805" lon="8.8084785"/><trkpt lat="53.074683" lon="8.808311"/><trkpt lat="53.0745797" lon="8.8081531"/></trkseg></trk><trk><name>Rotes-Kreuz-Krankenhaus</name><desc>area=yes
+name=Rotes-Kreuz-Krankenhaus
+public_transport=station
+railway=tram_stop
+wheelchair=yes
+id=way/236455465</desc><trkseg><trkpt lat="53.0674673" lon="8.8023104"/><trkpt lat="53.067542" lon="8.8024399"/><trkpt lat="53.0678049" lon="8.8020202"/><trkpt lat="53.0677302" lon="8.8018908"/><trkpt lat="53.0674673" lon="8.8023104"/></trkseg></trk><trk><name>Theater am Leibnizplatz</name><desc>area=yes
+name=Theater am Leibnizplatz
+public_transport=station
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=way/236455468</desc><trkseg><trkpt lat="53.0696022" lon="8.7994828"/><trkpt lat="53.0699564" lon="8.7997449"/><trkpt lat="53.0699879" lon="8.7997593"/><trkpt lat="53.0700634" lon="8.7995136"/><trkpt lat="53.0700329" lon="8.7994725"/><trkpt lat="53.0697753" lon="8.7991778"/><trkpt lat="53.0697037" lon="8.7990911"/><trkpt lat="53.0696022" lon="8.7994828"/></trkseg></trk><trk><name>Wilhelm-Kaisen-Brücke</name><desc>area=yes
+bus=yes
+name=Wilhelm-Kaisen-Brücke
+public_transport=station
+railway=tram_stop
+ref_name=Wilhelm-Kaisen-Brücke, Bremen
+tram=yes
+wheelchair=yes
+id=way/236455469</desc><trkseg><trkpt lat="53.0718949" lon="8.8030747"/><trkpt lat="53.0719868" lon="8.8033105"/><trkpt lat="53.0720907" lon="8.8035377"/><trkpt lat="53.0722967" lon="8.8039064"/><trkpt lat="53.0723778" lon="8.8037535"/><trkpt lat="53.0723263" lon="8.8036384"/><trkpt lat="53.0721319" lon="8.8032619"/><trkpt lat="53.0719666" lon="8.8029583"/><trkpt lat="53.0718949" lon="8.8030747"/></trkseg></trk></gpx>

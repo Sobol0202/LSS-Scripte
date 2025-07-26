@@ -1,0 +1,99 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><trk><name>Pumpwerk</name><desc>man_made=wastewater_plant
+name=Pumpwerk
+type=multipolygon
+id=relation/7634670</desc><trkseg><trkpt lat="53.5806327" lon="8.5891437"/><trkpt lat="53.5805345" lon="8.588748"/><trkpt lat="53.5804832" lon="8.5888214"/><trkpt lat="53.5804303" lon="8.5888661"/><trkpt lat="53.5803811" lon="8.5888635"/><trkpt lat="53.5803323" lon="8.5887851"/><trkpt lat="53.5802859" lon="8.5887356"/><trkpt lat="53.5802853" lon="8.5893511"/><trkpt lat="53.5806327" lon="8.5891437"/></trkseg></trk><trk><name>Kläranlage Bremen-Seehausen</name><desc>man_made=wastewater_plant
+name=Kläranlage Bremen-Seehausen
+operator=hanseWasser
+phone=+49 421 9881502
+id=way/24837003</desc><trkseg><trkpt lat="53.116611" lon="8.7058461"/><trkpt lat="53.1155097" lon="8.7054012"/><trkpt lat="53.1152237" lon="8.7057271"/><trkpt lat="53.114609" lon="8.7059475"/><trkpt lat="53.1142528" lon="8.7060845"/><trkpt lat="53.1134983" lon="8.7062202"/><trkpt lat="53.1131383" lon="8.7073926"/><trkpt lat="53.1126802" lon="8.7090894"/><trkpt lat="53.1126484" lon="8.7092071"/><trkpt lat="53.1122505" lon="8.7119544"/><trkpt lat="53.1117624" lon="8.7154485"/><trkpt lat="53.1119166" lon="8.7162325"/><trkpt lat="53.1124623" lon="8.7187339"/><trkpt lat="53.1142066" lon="8.7197727"/><trkpt lat="53.1143336" lon="8.7193567"/><trkpt lat="53.1145235" lon="8.7187344"/><trkpt lat="53.1148322" lon="8.7176135"/><trkpt lat="53.1153759" lon="8.7152932"/><trkpt lat="53.1153173" lon="8.7148083"/><trkpt lat="53.1153083" lon="8.7147336"/><trkpt lat="53.1153314" lon="8.7147052"/><trkpt lat="53.1155559" lon="8.7144287"/><trkpt lat="53.11612" lon="8.7116906"/><trkpt lat="53.1160802" lon="8.7116783"/><trkpt lat="53.1165852" lon="8.7081034"/><trkpt lat="53.1167449" lon="8.7059148"/><trkpt lat="53.1166445" lon="8.7058633"/><trkpt lat="53.116611" lon="8.7058461"/></trkseg></trk><trk><name>Klärwerk Farge</name><desc>man_made=wastewater_plant
+name=Klärwerk Farge
+id=way/34424832</desc><trkseg><trkpt lat="53.1983673" lon="8.5207005"/><trkpt lat="53.1981621" lon="8.5208353"/><trkpt lat="53.1980213" lon="8.5209278"/><trkpt lat="53.197686" lon="8.5211609"/><trkpt lat="53.1973932" lon="8.5213955"/><trkpt lat="53.1970907" lon="8.5216727"/><trkpt lat="53.1967934" lon="8.5220032"/><trkpt lat="53.1965554" lon="8.5222846"/><trkpt lat="53.1963589" lon="8.5225671"/><trkpt lat="53.1962434" lon="8.5227685"/><trkpt lat="53.1958235" lon="8.5237479"/><trkpt lat="53.1954908" lon="8.5246"/><trkpt lat="53.1958812" lon="8.5253792"/><trkpt lat="53.1962302" lon="8.525206"/><trkpt lat="53.1964522" lon="8.5250176"/><trkpt lat="53.1970333" lon="8.5241335"/><trkpt lat="53.197496" lon="8.52367"/><trkpt lat="53.1978251" lon="8.5234554"/><trkpt lat="53.1986323" lon="8.5231379"/><trkpt lat="53.1986221" lon="8.521962"/><trkpt lat="53.1983673" lon="8.5207005"/></trkseg></trk><trk><name>Gebäude 56 Sinterwasserkläranlage</name><desc>man_made=wastewater_plant
+name=Gebäude 56 Sinterwasserkläranlage
+id=way/72664705</desc><trkseg><trkpt lat="53.1361738" lon="8.6780637"/><trkpt lat="53.1364075" lon="8.6770146"/><trkpt lat="53.1359136" lon="8.6767089"/><trkpt lat="53.135949" lon="8.6765503"/><trkpt lat="53.1358649" lon="8.6764982"/><trkpt lat="53.1358295" lon="8.6766569"/><trkpt lat="53.135424" lon="8.6784775"/><trkpt lat="53.1353755" lon="8.6786954"/><trkpt lat="53.1356004" lon="8.6788346"/><trkpt lat="53.1356489" lon="8.6786167"/><trkpt lat="53.1357207" lon="8.6786611"/><trkpt lat="53.1356847" lon="8.6788223"/><trkpt lat="53.135966" lon="8.6789964"/><trkpt lat="53.1360019" lon="8.6788352"/><trkpt lat="53.1360776" lon="8.6784953"/><trkpt lat="53.1361781" lon="8.6785575"/><trkpt lat="53.1362742" lon="8.6781259"/><trkpt lat="53.1361738" lon="8.6780637"/></trkseg></trk><trk><name>way/72836176</name><desc>man_made=wastewater_plant
+id=way/72836176</desc><trkseg><trkpt lat="53.1330398" lon="8.6956927"/><trkpt lat="53.1328007" lon="8.6967274"/><trkpt lat="53.1331881" lon="8.6969762"/><trkpt lat="53.1334272" lon="8.6959414"/><trkpt lat="53.1330398" lon="8.6956927"/></trkseg></trk><trk><name>way/108034145</name><desc>man_made=wastewater_plant
+id=way/108034145</desc><trkseg><trkpt lat="53.1147642" lon="8.7149539"/><trkpt lat="53.1141892" lon="8.7145755"/><trkpt lat="53.1138123" lon="8.7161775"/><trkpt lat="53.1143994" lon="8.7165639"/><trkpt lat="53.1147642" lon="8.7149539"/></trkseg></trk><trk><name>way/108034147</name><desc>man_made=wastewater_plant
+id=way/108034147</desc><trkseg><trkpt lat="53.1140569" lon="8.7145068"/><trkpt lat="53.1136113" lon="8.7142232"/><trkpt lat="53.113244" lon="8.7158256"/><trkpt lat="53.1136895" lon="8.7161092"/><trkpt lat="53.1140569" lon="8.7145068"/></trkseg></trk><trk><name>way/108034148</name><desc>man_made=wastewater_plant
+id=way/108034148</desc><trkseg><trkpt lat="53.1134164" lon="8.7140942"/><trkpt lat="53.1129958" lon="8.7138294"/><trkpt lat="53.112628" lon="8.7154513"/><trkpt lat="53.1130486" lon="8.715716"/><trkpt lat="53.1134164" lon="8.7140942"/></trkseg></trk><trk><name>way/179950777</name><desc>landuse=industrial
+man_made=wastewater_plant
+id=way/179950777</desc><trkseg><trkpt lat="53.0993662" lon="8.8588027"/><trkpt lat="53.098479" lon="8.8585876"/><trkpt lat="53.0983168" lon="8.8598214"/><trkpt lat="53.0982023" lon="8.8598905"/><trkpt lat="53.098228" lon="8.8607971"/><trkpt lat="53.098438" lon="8.8608026"/><trkpt lat="53.0984685" lon="8.8611386"/><trkpt lat="53.0985295" lon="8.8612872"/><trkpt lat="53.0987953" lon="8.8614856"/><trkpt lat="53.0990501" lon="8.861586"/><trkpt lat="53.0991069" lon="8.8614468"/><trkpt lat="53.0993662" lon="8.8588027"/></trkseg></trk><trk><name>Pumpwerk Steinkämpe</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Pumpwerk Steinkämpe
+operator=BEG logistics
+id=way/181129673</desc><trkseg><trkpt lat="53.5734764" lon="8.5875036"/><trkpt lat="53.5730838" lon="8.5875259"/><trkpt lat="53.5730953" lon="8.5880991"/><trkpt lat="53.5734878" lon="8.5880768"/><trkpt lat="53.5734764" lon="8.5875036"/></trkseg></trk><trk><name>Pumpstation</name><desc>barrier=fence
+landuse=industrial
+man_made=wastewater_plant
+name=Pumpstation
+id=way/181148402</desc><trkseg><trkpt lat="53.5552098" lon="8.5876071"/><trkpt lat="53.5551633" lon="8.587693"/><trkpt lat="53.5550377" lon="8.5880684"/><trkpt lat="53.5549995" lon="8.5883259"/><trkpt lat="53.5550076" lon="8.5885204"/><trkpt lat="53.5550751" lon="8.588659"/><trkpt lat="53.5551588" lon="8.5887121"/><trkpt lat="53.5553802" lon="8.5887631"/><trkpt lat="53.5554936" lon="8.5887088"/><trkpt lat="53.5556052" lon="8.5887527"/><trkpt lat="53.5557068" lon="8.5877967"/><trkpt lat="53.5556087" lon="8.5877547"/><trkpt lat="53.5555943" lon="8.5878606"/><trkpt lat="53.5555202" lon="8.5878351"/><trkpt lat="53.5554939" lon="8.5877909"/><trkpt lat="53.5553258" lon="8.5877144"/><trkpt lat="53.5552916" lon="8.5876353"/><trkpt lat="53.5552098" lon="8.5876071"/></trkseg></trk><trk><name>way/181149506</name><desc>addr:city=Bremerhaven
+addr:housenumber=6
+addr:postcode=27576
+addr:street=Werftstraße
+man_made=wastewater_plant
+natural=water
+reservoir_type=sewage
+water=reservoir
+id=way/181149506</desc><trkseg><trkpt lat="53.5553655" lon="8.5878121"/><trkpt lat="53.5553332" lon="8.5880195"/><trkpt lat="53.5554048" lon="8.588051"/><trkpt lat="53.555437" lon="8.5878436"/><trkpt lat="53.5553655" lon="8.5878121"/></trkseg></trk><trk><name>way/181149508</name><desc>man_made=wastewater_plant
+natural=water
+reservoir_type=sewage
+water=reservoir
+id=way/181149508</desc><trkseg><trkpt lat="53.555498" lon="8.5883182"/><trkpt lat="53.5554628" lon="8.5885479"/><trkpt lat="53.5555366" lon="8.5885798"/><trkpt lat="53.5555717" lon="8.5883501"/><trkpt lat="53.555498" lon="8.5883182"/></trkseg></trk><trk><name>Pumpwerk Am Gitter</name><desc>building=yes
+man_made=wastewater_plant
+name=Pumpwerk Am Gitter
+operator=BEG logistics
+id=way/184618350</desc><trkseg><trkpt lat="53.5538489" lon="8.5673513"/><trkpt lat="53.5539071" lon="8.5675221"/><trkpt lat="53.5539884" lon="8.5674437"/><trkpt lat="53.5539302" lon="8.5672729"/><trkpt lat="53.5538489" lon="8.5673513"/></trkseg></trk><trk><name>Pumpwerk Roter Sand</name><desc>building=yes
+man_made=wastewater_plant
+name=Pumpwerk Roter Sand
+operator=BEG logistics
+id=way/189725756</desc><trkseg><trkpt lat="53.560223" lon="8.562835"/><trkpt lat="53.5601771" lon="8.5628396"/><trkpt lat="53.5601832" lon="8.5630142"/><trkpt lat="53.5602291" lon="8.5630096"/><trkpt lat="53.560223" lon="8.562835"/></trkseg></trk><trk><name>Kläranlage Nord</name><desc>landuse=industrial
+man_made=wastewater_plant
+name=Kläranlage Nord
+id=way/190973574</desc><trkseg><trkpt lat="53.6055291" lon="8.5420136"/><trkpt lat="53.6045176" lon="8.5414624"/><trkpt lat="53.6041181" lon="8.5412427"/><trkpt lat="53.6035586" lon="8.5440062"/><trkpt lat="53.6037457" lon="8.5453114"/><trkpt lat="53.6047213" lon="8.5461026"/><trkpt lat="53.6055291" lon="8.5420136"/></trkseg></trk><trk><name>way/197171055</name><desc>man_made=wastewater_plant
+id=way/197171055</desc><trkseg><trkpt lat="53.1151211" lon="8.7087357"/><trkpt lat="53.1150068" lon="8.7097209"/><trkpt lat="53.1160528" lon="8.7100578"/><trkpt lat="53.1161671" lon="8.7090725"/><trkpt lat="53.1151211" lon="8.7087357"/></trkseg></trk><trk><name>way/197171061</name><desc>man_made=wastewater_plant
+id=way/197171061</desc><trkseg><trkpt lat="53.1139747" lon="8.7127451"/><trkpt lat="53.1137743" lon="8.7136271"/><trkpt lat="53.1140235" lon="8.7137843"/><trkpt lat="53.1142138" lon="8.712947"/><trkpt lat="53.1144544" lon="8.7130987"/><trkpt lat="53.1144645" lon="8.7130539"/><trkpt lat="53.1139747" lon="8.7127451"/></trkseg></trk><trk><name>way/197171063</name><desc>man_made=wastewater_plant
+id=way/197171063</desc><trkseg><trkpt lat="53.1135041" lon="8.7124281"/><trkpt lat="53.113302" lon="8.7133148"/><trkpt lat="53.1135626" lon="8.7134796"/><trkpt lat="53.113744" lon="8.7126835"/><trkpt lat="53.1137816" lon="8.7127073"/><trkpt lat="53.1138022" lon="8.7126167"/><trkpt lat="53.1135041" lon="8.7124281"/></trkseg></trk><trk><name>way/197171065</name><desc>man_made=wastewater_plant
+id=way/197171065</desc><trkseg><trkpt lat="53.1147844" lon="8.7133004"/><trkpt lat="53.1146009" lon="8.7141179"/><trkpt lat="53.1148957" lon="8.7143021"/><trkpt lat="53.1149109" lon="8.7143707"/><trkpt lat="53.1149523" lon="8.7143953"/><trkpt lat="53.114966" lon="8.7144049"/><trkpt lat="53.1149761" lon="8.7143567"/><trkpt lat="53.1151633" lon="8.7135441"/><trkpt lat="53.1147844" lon="8.7133004"/></trkseg></trk><trk><name>Bremen Wastewater Treatment Plant</name><desc>addr:city=Bremen
+addr:country=US
+addr:housenumber=561
+addr:postcode=46506
+addr:street=Keyser Street
+man_made=wastewater_plant
+name=Bremen Wastewater Treatment Plant
+id=way/197315883</desc><trkseg><trkpt lat="41.4529693" lon="-86.1733254"/><trkpt lat="41.452777" lon="-86.1733355"/><trkpt lat="41.4514546" lon="-86.1734048"/><trkpt lat="41.4514628" lon="-86.1711563"/><trkpt lat="41.4516991" lon="-86.1711422"/><trkpt lat="41.4528314" lon="-86.1711495"/><trkpt lat="41.4529693" lon="-86.1733254"/></trkseg></trk><trk><name>way/198806546</name><desc>man_made=wastewater_plant
+natural=water
+reservoir_type=sewage
+water=reservoir
+id=way/198806546</desc><trkseg><trkpt lat="53.5058329" lon="8.5688976"/><trkpt lat="53.5055075" lon="8.5679975"/><trkpt lat="53.5053735" lon="8.5678258"/><trkpt lat="53.5047609" lon="8.5686519"/><trkpt lat="53.5047035" lon="8.5688772"/><trkpt lat="53.5050098" lon="8.5697248"/><trkpt lat="53.5051246" lon="8.5697677"/><trkpt lat="53.505801" lon="8.5691455"/><trkpt lat="53.5058329" lon="8.5688976"/></trkseg></trk><trk><name>way/198806867</name><desc>man_made=wastewater_plant
+natural=water
+reservoir_type=sewage
+water=reservoir
+id=way/198806867</desc><trkseg><trkpt lat="53.5069166" lon="8.5678844"/><trkpt lat="53.5068515" lon="8.5678174"/><trkpt lat="53.506777" lon="8.5677904"/><trkpt lat="53.5067013" lon="8.5678066"/><trkpt lat="53.5066331" lon="8.5678641"/><trkpt lat="53.5065801" lon="8.5679563"/><trkpt lat="53.5065483" lon="8.5680729"/><trkpt lat="53.5065413" lon="8.5682006"/><trkpt lat="53.50656" lon="8.568325"/><trkpt lat="53.5065999" lon="8.568428"/><trkpt lat="53.5066572" lon="8.5685042"/><trkpt lat="53.506726" lon="8.5685458"/><trkpt lat="53.5067991" lon="8.5685485"/><trkpt lat="53.5068688" lon="8.5685118"/><trkpt lat="53.506928" lon="8.5684398"/><trkpt lat="53.5069705" lon="8.5683397"/><trkpt lat="53.5069919" lon="8.5682222"/><trkpt lat="53.5069899" lon="8.5680993"/><trkpt lat="53.5069647" lon="8.567984"/><trkpt lat="53.5069166" lon="8.5678844"/></trkseg></trk><trk><name>way/198806868</name><desc>man_made=wastewater_plant
+natural=water
+reservoir_type=sewage
+water=reservoir
+id=way/198806868</desc><trkseg><trkpt lat="53.5060173" lon="8.5686457"/><trkpt lat="53.5060293" lon="8.5687763"/><trkpt lat="53.5060627" lon="8.5688831"/><trkpt lat="53.5061143" lon="8.5689671"/><trkpt lat="53.5061788" lon="8.56902"/><trkpt lat="53.50625" lon="8.5690364"/><trkpt lat="53.5063206" lon="8.5690149"/><trkpt lat="53.5063838" lon="8.5689574"/><trkpt lat="53.5064331" lon="8.5688697"/><trkpt lat="53.5064638" lon="8.5687606"/><trkpt lat="53.5064728" lon="8.5686408"/><trkpt lat="53.5064592" lon="8.5685223"/><trkpt lat="53.5064199" lon="8.5684078"/><trkpt lat="53.5063599" lon="8.5683226"/><trkpt lat="53.5062863" lon="8.5682767"/><trkpt lat="53.5062077" lon="8.5682755"/><trkpt lat="53.5061336" lon="8.5683193"/><trkpt lat="53.5060728" lon="8.5684028"/><trkpt lat="53.5060324" lon="8.5685161"/><trkpt lat="53.5060173" lon="8.5686457"/></trkseg></trk><trk><name>way/198806869</name><desc>man_made=wastewater_plant
+natural=water
+reservoir_type=sewage
+water=reservoir
+id=way/198806869</desc><trkseg><trkpt lat="53.5067174" lon="8.5672922"/><trkpt lat="53.5066872" lon="8.567181"/><trkpt lat="53.506633" lon="8.567085"/><trkpt lat="53.5065626" lon="8.5670254"/><trkpt lat="53.5064845" lon="8.5670093"/><trkpt lat="53.5064076" lon="8.5670386"/><trkpt lat="53.5063412" lon="8.5671098"/><trkpt lat="53.506293" lon="8.5672146"/><trkpt lat="53.5062687" lon="8.5673406"/><trkpt lat="53.5062712" lon="8.5674729"/><trkpt lat="53.5063001" lon="8.5675961"/><trkpt lat="53.5063473" lon="8.5676891"/><trkpt lat="53.5064095" lon="8.5677526"/><trkpt lat="53.5064804" lon="8.5677802"/><trkpt lat="53.5065528" lon="8.5677691"/><trkpt lat="53.5066196" lon="8.5677205"/><trkpt lat="53.5066739" lon="8.5676392"/><trkpt lat="53.5067104" lon="8.5675335"/><trkpt lat="53.5067255" lon="8.5674138"/><trkpt lat="53.5067174" lon="8.5672922"/></trkseg></trk><trk><name>way/198806870</name><desc>man_made=wastewater_plant
+natural=water
+reservoir_type=sewage
+water=reservoir
+id=way/198806870</desc><trkseg><trkpt lat="53.5060308" lon="8.5674785"/><trkpt lat="53.5059571" lon="8.5674789"/><trkpt lat="53.5058874" lon="8.5675186"/><trkpt lat="53.5058287" lon="8.5675933"/><trkpt lat="53.505787" lon="8.5676955"/><trkpt lat="53.5057668" lon="8.5678146"/><trkpt lat="53.5057701" lon="8.5679383"/><trkpt lat="53.5057964" lon="8.5680539"/><trkpt lat="53.5058432" lon="8.5681495"/><trkpt lat="53.5059099" lon="8.5682182"/><trkpt lat="53.5059864" lon="8.5682454"/><trkpt lat="53.5060639" lon="8.5682277"/><trkpt lat="53.5061334" lon="8.5681674"/><trkpt lat="53.5061868" lon="8.5680713"/><trkpt lat="53.5062179" lon="8.5679507"/><trkpt lat="53.5062231" lon="8.5678195"/><trkpt lat="53.5062018" lon="8.5676929"/><trkpt lat="53.5061597" lon="8.5675913"/><trkpt lat="53.5061007" lon="8.5675173"/><trkpt lat="53.5060308" lon="8.5674785"/></trkseg></trk><trk><name>way/198809676</name><desc>landuse=reservoir
+man_made=wastewater_plant
+reservoir_type=sewage
+id=way/198809676</desc><trkseg><trkpt lat="53.5080466" lon="8.5684557"/><trkpt lat="53.5077583" lon="8.5687336"/><trkpt lat="53.5078115" lon="8.5688897"/><trkpt lat="53.5080998" lon="8.5686118"/><trkpt lat="53.5080466" lon="8.5684557"/></trkseg></trk><trk><name>way/198809679</name><desc>landuse=reservoir
+man_made=wastewater_plant
+reservoir_type=sewage
+id=way/198809679</desc><trkseg><trkpt lat="53.5073959" lon="8.5685033"/><trkpt lat="53.506996" lon="8.5688735"/><trkpt lat="53.5070725" lon="8.5691072"/><trkpt lat="53.5074724" lon="8.5687371"/><trkpt lat="53.5073959" lon="8.5685033"/></trkseg></trk><trk><name>way/198810563</name><desc>landuse=reservoir
+man_made=wastewater_plant
+reservoir_type=sewage
+id=way/198810563</desc><trkseg><trkpt lat="53.5074991" lon="8.5688531"/><trkpt lat="53.5071124" lon="8.5692235"/><trkpt lat="53.5071855" lon="8.5694394"/><trkpt lat="53.5075723" lon="8.5690689"/><trkpt lat="53.5074991" lon="8.5688531"/></trkseg></trk><trk><name>way/325116941</name><desc>landuse=industrial
+man_made=wastewater_plant
+id=way/325116941</desc><trkseg><trkpt lat="53.1725021" lon="8.6377276"/><trkpt lat="53.1724238" lon="8.6378412"/><trkpt lat="53.1723206" lon="8.6380745"/><trkpt lat="53.1721265" lon="8.638618"/><trkpt lat="53.1725518" lon="8.6386267"/><trkpt lat="53.172521" lon="8.6378558"/><trkpt lat="53.1725021" lon="8.6377276"/></trkseg></trk><trk><name>way/333368832</name><desc>man_made=wastewater_plant
+id=way/333368832</desc><trkseg><trkpt lat="53.0705616" lon="8.9042856"/><trkpt lat="53.07045" lon="8.9042868"/><trkpt lat="53.0700634" lon="8.9042907"/><trkpt lat="53.0700153" lon="8.9042912"/><trkpt lat="53.0699982" lon="8.9065076"/><trkpt lat="53.0700979" lon="8.9065083"/><trkpt lat="53.0705564" lon="8.9065113"/><trkpt lat="53.0705573" lon="8.9061217"/><trkpt lat="53.0705616" lon="8.9042856"/></trkseg></trk><trk><name>way/491808298</name><desc>man_made=wastewater_plant
+id=way/491808298</desc><trkseg><trkpt lat="51.5049017" lon="7.9462636"/><trkpt lat="51.5048675" lon="7.9461741"/><trkpt lat="51.5040375" lon="7.9470034"/><trkpt lat="51.5042119" lon="7.9476703"/><trkpt lat="51.5044717" lon="7.9476633"/><trkpt lat="51.5048285" lon="7.9475052"/><trkpt lat="51.5051806" lon="7.9473093"/><trkpt lat="51.505306" lon="7.9471999"/><trkpt lat="51.5054392" lon="7.9469505"/><trkpt lat="51.5053628" lon="7.9466177"/><trkpt lat="51.5052319" lon="7.9465561"/><trkpt lat="51.5049017" lon="7.9462636"/></trkseg></trk><trk><name>Zentralkläranlage</name><desc>man_made=wastewater_plant
+name=Zentralkläranlage
+operator=Bremerhavener Entsorgungsgesellschaft mbH
+id=way/803116332</desc><trkseg><trkpt lat="53.50768" lon="8.5655862"/><trkpt lat="53.5065131" lon="8.5663493"/><trkpt lat="53.5052688" lon="8.5675831"/><trkpt lat="53.5045309" lon="8.5685982"/><trkpt lat="53.5057119" lon="8.5722438"/><trkpt lat="53.5081116" lon="8.5698415"/><trkpt lat="53.5081876" lon="8.5697654"/><trkpt lat="53.5082514" lon="8.5693792"/><trkpt lat="53.508698" lon="8.56895"/><trkpt lat="53.50768" lon="8.5655862"/></trkseg></trk><trk><name>way/1132429059</name><desc>landuse=industrial
+man_made=wastewater_plant
+id=way/1132429059</desc><trkseg><trkpt lat="53.1785563" lon="8.581606"/><trkpt lat="53.1780257" lon="8.5813921"/><trkpt lat="53.1771922" lon="8.5810711"/><trkpt lat="53.1769987" lon="8.5822737"/><trkpt lat="53.178067" lon="8.5827725"/><trkpt lat="53.1781736" lon="8.5826434"/><trkpt lat="53.1782909" lon="8.5824748"/><trkpt lat="53.1784063" lon="8.5823494"/><trkpt lat="53.1785563" lon="8.581606"/></trkseg></trk><trk><name>way/1366071632</name><desc>man_made=wastewater_plant
+id=way/1366071632</desc><trkseg><trkpt lat="33.7362448" lon="-85.1615591"/><trkpt lat="33.7364434" lon="-85.1616825"/><trkpt lat="33.7364958" lon="-85.161759"/><trkpt lat="33.7360028" lon="-85.1623584"/><trkpt lat="33.7357084" lon="-85.1618904"/><trkpt lat="33.7358222" lon="-85.1618059"/><trkpt lat="33.7361701" lon="-85.161645"/><trkpt lat="33.7362448" lon="-85.1615591"/></trkseg></trk></gpx>

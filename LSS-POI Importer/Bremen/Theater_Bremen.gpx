@@ -1,0 +1,360 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.5406454" lon="8.5811479"><name>Stadttheater Bremerhaven</name><desc>addr:city=Bremerhaven
+addr:country=DE
+addr:housenumber=1-5
+addr:postcode=27568
+addr:street=Linzer Straße
+amenity=theatre
+emergency=defibrillator
+name=Stadttheater Bremerhaven
+toilets:wheelchair=yes
+website=https://www.stadttheaterbremerhaven.de/
+wheelchair=limited
+wikidata=Q1355204
+id=node/192524320</desc></wpt><wpt lat="53.0724986" lon="8.8093111"><name>Packhaustheater</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=11
+addr:postcode=28195
+addr:street=Wüstestätte
+amenity=theatre
+check_date=2024-08-09
+contact:website=http://www.packhaustheater.de/
+name=Packhaustheater
+wheelchair=no
+wikidata=Q17126832
+id=node/290998905</desc></wpt><wpt lat="53.0799349" lon="8.8847325"><name>GEWOBA KulturSalon</name><desc>amenity=theatre
+name=GEWOBA KulturSalon
+wheelchair=no
+id=node/305750639</desc></wpt><wpt lat="53.521797" lon="8.5874198"><name>TiF Theater im Fischereihafen</name><desc>amenity=theatre
+check_date=2025-05-26
+name=TiF Theater im Fischereihafen
+toilets:wheelchair=yes
+wheelchair=yes
+id=node/564940711</desc></wpt><wpt lat="53.1689138" lon="8.6237395"><name>KITO</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=30
+addr:postcode=28757
+addr:street=Alte Hafenstraße
+amenity=theatre
+name=KITO
+operator=Kultur Büro Bremen Nord gGmbH
+website=www.kitoinbremen.de
+wheelchair=yes
+id=node/1571220796</desc></wpt><wpt lat="53.1693621" lon="8.629635"><name>Kulturbahnhof Bremen Nord</name><desc>amenity=theatre
+contact:website=http://www.kulturbuero-bremen-nord.de/14-0-Kulturbahnhof-Vegesack.html
+live_music=yes
+name=Kulturbahnhof Bremen Nord
+wheelchair=yes
+id=node/1571222556</desc></wpt><wpt lat="53.1080149" lon="8.851787"><name>Theatersaal</name><desc>alt_name=Theatersaal der Universität Bremen
+amenity=theatre
+check_date=2024-07-12
+name=Theatersaal
+wheelchair=yes
+wheelchair:description=Publikumsraum ohne Stufen snteigend. Rollstuhlplätze neben jeder Reihe möglich und in der ersten Reihe vor den Klappsitzen. Zum Roll-WC evtl. etwas längerer WEg nötig? Für Schauspieler_innen: Die Bühne ist durch den Garderoben-Eingang stufenlos zugänglich
+id=node/1807905660</desc></wpt><wpt lat="53.0860614" lon="8.791622"><name>Theatrium Figurentheater</name><desc>alt_name=Theatrium Bremen e.V. Figurentheater
+amenity=theatre
+description=Puppentheater
+email=info@theatrium-puppentheater.de
+fax=+49 421 3365465
+name=Theatrium Figurentheater
+phone=+49 421 326813
+theatre:genre=puppet
+website=http://www.theatrium-puppentheater.de/
+id=node/1935733438</desc></wpt><wpt lat="53.0752564" lon="8.8349427"><name>Chinelo Theater</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=103
+addr:postcode=28203
+addr:street=Feldstraße
+amenity=theatre
+contact:website=http://chinelo-theaterhaus.de/
+name=Chinelo Theater
+operator=Chinelo-Theaterhaus e.V.
+id=node/2296901931</desc></wpt><wpt lat="53.0723055" lon="8.822212"><name>Literaturkeller</name><desc>amenity=theatre
+check_date=2024-11-03
+name=Literaturkeller
+phone=+49 421 7926586
+website=https://www.literaturkeller-bremen.de/
+id=node/3308675444</desc></wpt><wpt lat="53.0709627" lon="8.8161828"><name>Brauhauskeller</name><desc>amenity=theatre
+check_date=2024-05-19
+name=Brauhauskeller
+id=node/4244370181</desc></wpt><wpt lat="53.0807115" lon="8.811846"><name>Fritz</name><desc>amenity=theatre
+contact:website=https://www.fritz-bremen.de/
+name=Fritz
+theatre:genre=comedy
+wheelchair=no
+wikidata=Q1382658
+id=node/4251490258</desc></wpt><wpt lat="53.0722845" lon="8.8222471"><name>Mensch, Puppe! Das Bremer Figurentheater</name><desc>amenity=theatre
+check_date=2024-11-03
+email=karten@menschpuppe.de
+name=Mensch, Puppe! Das Bremer Figurentheater
+opening_hours=Mo-Fr 10:00-12:00
+phone=+49 421 79478292
+website=https://www.menschpuppe.de/
+id=node/4460779682</desc></wpt><wpt lat="53.100757" lon="8.7929613"><name>bremer kriminal theater</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=13a
+addr:postcode=28219
+addr:street=Theodorstraße
+amenity=theatre
+check_date=2025-05-21
+contact:fax=+49 421 16691759
+contact:phone=+49 421 16691758
+contact:website=http://www.b-k-t.eu/
+level=4
+name=bremer kriminal theater
+short_name=b. k. t.
+wheelchair=yes
+id=node/4712042626</desc></wpt><wpt lat="53.0677743" lon="8.7955322"><name>AMS!-Theater</name><desc>amenity=theatre
+name=AMS!-Theater
+operator=Alsomirschmeckts-Theater e.V.
+website=https://ams-theater.de/
+id=node/7873223330</desc></wpt><wpt lat="53.0764263" lon="8.7698154"><name>Boulevard Theater</name><desc>addr:city=Bremen
+addr:housenumber=8
+addr:postcode=28197
+addr:street=Am Tabakquartier
+amenity=theatre
+name=Boulevard Theater
+operator=Weyher-Theater GmbH &amp; Co. Veranstaltungs KG
+website=https://boulevardtheater-bremen.de/
+wheelchair=yes
+id=node/9004252817</desc></wpt><wpt lat="53.1114573" lon="8.7446558"><name>Seebühne</name><desc>amenity=theatre
+name=Seebühne
+operator=MTB Betriebs GmbH
+theatre:type=open_air
+website=https://seebuehne-bremen.de/
+wheelchair=no
+id=node/11892014485</desc></wpt><wpt lat="53.5530814" lon="8.5707699"><name>Piccolo Teatro</name><desc>amenity=theatre
+name=Piccolo Teatro
+id=node/12593752597</desc></wpt><wpt lat="53.5488111" lon="8.5781554"><name>die 10ne</name><desc>amenity=theatre
+name=die 10ne
+id=node/12600884100</desc></wpt><wpt lat="53.0757795" lon="8.7714495"><name>Halle 1 / Tabakquartier</name><desc>addr:city=Bremen
+addr:housenumber=10
+addr:postcode=28197
+addr:street=Am Tabakquartier
+amenity=theatre
+name=Halle 1 / Tabakquartier
+operator=Bremer Philharmoniker GmbH
+theatre:genre=philharmonic
+theatre:type=concert_hall
+website=https://www.bremer-philharmoniker.de/spielstaetten/halle-1/
+id=node/12713883741</desc></wpt><trk><name>Kleines Haus</name><desc>amenity=theatre
+check_date=2024-07-06
+name=Kleines Haus
+old_name=Schauspielhaus
+website=https://www.theaterbremen.de/
+id=way/26947937</desc><trkseg><trkpt lat="53.0713258" lon="8.8163565"/><trkpt lat="53.0713873" lon="8.8163703"/><trkpt lat="53.0714323" lon="8.8163804"/><trkpt lat="53.0714426" lon="8.816259"/><trkpt lat="53.0715374" lon="8.8162825"/><trkpt lat="53.0716692" lon="8.8163153"/><trkpt lat="53.0717699" lon="8.8163403"/><trkpt lat="53.0718018" lon="8.8159844"/><trkpt lat="53.0718039" lon="8.815961"/><trkpt lat="53.0717329" lon="8.8159434"/><trkpt lat="53.0717015" lon="8.8159356"/><trkpt lat="53.0716761" lon="8.8159293"/><trkpt lat="53.0716584" lon="8.8156794"/><trkpt lat="53.07146" lon="8.8156385"/><trkpt lat="53.071293" lon="8.8160557"/><trkpt lat="53.071351" lon="8.8160711"/><trkpt lat="53.0713358" lon="8.8162547"/><trkpt lat="53.0713258" lon="8.8163565"/></trkseg></trk><trk><name>Theater am Leibnizplatz</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=26
+addr:postcode=28199
+addr:street=Schulstraße
+amenity=theatre
+building=yes
+check_date=2024-05-06
+contact:website=http://www.shakespeare-company.com/
+name=Theater am Leibnizplatz
+operator=Shakespeare Company
+wheelchair=yes
+wikipedia=de:Bremer shakespeare company
+id=way/27261762</desc><trkseg><trkpt lat="53.0703472" lon="8.7976539"/><trkpt lat="53.0701937" lon="8.7975208"/><trkpt lat="53.0699516" lon="8.7973109"/><trkpt lat="53.0699199" lon="8.7974026"/><trkpt lat="53.0698783" lon="8.7975432"/><trkpt lat="53.069843" lon="8.7976564"/><trkpt lat="53.0699709" lon="8.7977646"/><trkpt lat="53.0700044" lon="8.7976615"/><trkpt lat="53.0702697" lon="8.7979002"/><trkpt lat="53.0703105" lon="8.7977759"/><trkpt lat="53.0703472" lon="8.7976539"/></trkseg></trk><trk><name>Junges Theater Bremen</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=1-3
+addr:postcode=28203
+addr:street=Goetheplatz
+amenity=theatre
+contact:website=https://theaterbremen.de/
+name=Junges Theater Bremen
+wheelchair=no
+id=way/69031956</desc><trkseg><trkpt lat="53.0708719" lon="8.8163564"/><trkpt lat="53.0709961" lon="8.8163905"/><trkpt lat="53.0710041" lon="8.8163412"/><trkpt lat="53.0710131" lon="8.8162859"/><trkpt lat="53.0711504" lon="8.8163169"/><trkpt lat="53.0711713" lon="8.8163216"/><trkpt lat="53.0713258" lon="8.8163565"/><trkpt lat="53.0713358" lon="8.8162547"/><trkpt lat="53.071351" lon="8.8160711"/><trkpt lat="53.071293" lon="8.8160557"/><trkpt lat="53.0711782" lon="8.8160253"/><trkpt lat="53.0711654" lon="8.8161475"/><trkpt lat="53.0711067" lon="8.8161356"/><trkpt lat="53.0710417" lon="8.8161053"/><trkpt lat="53.0710128" lon="8.8160918"/><trkpt lat="53.0709183" lon="8.8160596"/><trkpt lat="53.0708817" lon="8.8162939"/><trkpt lat="53.0708719" lon="8.8163564"/></trkseg></trk><trk><name>theaterkontor</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housename=Kontorhaus
+addr:housenumber=21
+addr:postcode=28203
+addr:street=Schildstraße
+amenity=theatre
+building=yes
+check_date=2024-11-03
+name=theaterkontor
+website=http://www.theaterkontor-bremen.de/
+wheelchair=limited
+id=way/71745017</desc><trkseg><trkpt lat="53.0722534" lon="8.8221522"/><trkpt lat="53.0722771" lon="8.8223199"/><trkpt lat="53.0724055" lon="8.8222695"/><trkpt lat="53.0723819" lon="8.8221021"/><trkpt lat="53.0722534" lon="8.8221522"/></trkseg></trk><trk><name>Schwankhalle</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=112
+addr:postcode=28201
+addr:street=Buntentorsteinweg
+amenity=theatre
+building=yes
+name=Schwankhalle
+source=bing
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/118218376</desc><trkseg><trkpt lat="53.0656981" lon="8.8063247"/><trkpt lat="53.0656861" lon="8.8063441"/><trkpt lat="53.0655978" lon="8.8061923"/><trkpt lat="53.0654678" lon="8.8064016"/><trkpt lat="53.0656259" lon="8.8066737"/><trkpt lat="53.0657289" lon="8.806508"/><trkpt lat="53.0657024" lon="8.8064625"/><trkpt lat="53.0657416" lon="8.8063995"/><trkpt lat="53.0656981" lon="8.8063247"/></trkseg></trk><trk><name>Theaterschiff</name><desc>addr:city=Bremen
+addr:country=DE
+alt_name=Theaterschiff Bremen
+amenity=theatre
+building=ship
+floating=yes
+historic=ship
+name=Theaterschiff
+seamark:hulk:category=museum
+seamark:type=hulk
+tourism=attraction
+website=https://www.theaterschiff-bremen.de/
+wheelchair=no
+id=way/174807899</desc><trkseg><trkpt lat="53.0729839" lon="8.8061882"/><trkpt lat="53.0729525" lon="8.8061464"/><trkpt lat="53.0729363" lon="8.8061493"/><trkpt lat="53.0729146" lon="8.8061774"/><trkpt lat="53.0725689" lon="8.8069714"/><trkpt lat="53.0725568" lon="8.8070143"/><trkpt lat="53.0725552" lon="8.8070532"/><trkpt lat="53.072556" lon="8.8070827"/><trkpt lat="53.0725737" lon="8.807076"/><trkpt lat="53.0725971" lon="8.8070612"/><trkpt lat="53.0726238" lon="8.8070296"/><trkpt lat="53.0729694" lon="8.8062525"/><trkpt lat="53.0729822" lon="8.8062137"/><trkpt lat="53.0729839" lon="8.8061882"/></trkseg></trk><trk><name>TheaterSpace</name><desc>amenity=theatre
+name=TheaterSpace
+id=way/180112535</desc><trkseg><trkpt lat="53.1687764" lon="8.6525334"/><trkpt lat="53.1688632" lon="8.6517012"/><trkpt lat="53.1687624" lon="8.6516728"/><trkpt lat="53.1686747" lon="8.6525035"/><trkpt lat="53.1687764" lon="8.6525334"/></trkseg></trk><trk><name>HafenRevueTheater</name><desc>addr:city=Bremen
+addr:housenumber=7
+addr:postcode=28217
+addr:street=Cuxhavener Straße
+amenity=theatre
+building=yes
+email=info@hafenrevuetheater.de
+name=HafenRevueTheater
+outdoor_seating=yes
+phone=+49 421 8355559
+smoking=outside
+website=https://www.hafenrevuetheater.de/
+wheelchair=no
+id=way/188546630</desc><trkseg><trkpt lat="53.0963286" lon="8.7735575"/><trkpt lat="53.096454" lon="8.7737013"/><trkpt lat="53.0965787" lon="8.7735373"/><trkpt lat="53.0964995" lon="8.7731741"/><trkpt lat="53.0964698" lon="8.7732375"/><trkpt lat="53.0964767" lon="8.773247"/><trkpt lat="53.0963772" lon="8.7734527"/><trkpt lat="53.0963286" lon="8.7735575"/></trkseg></trk><trk><name>Theater am Deich</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=92a
+addr:postcode=28357
+addr:street=Am Lehester Deich
+amenity=theatre
+building=yes
+check_date=2024-06-03
+contact:website=https://www.theateramdeich.de/
+name=Theater am Deich
+operator=Hanseaten-Klub Bremen e.V.
+wheelchair=no
+id=way/189737412</desc><trkseg><trkpt lat="53.119463" lon="8.8917255"/><trkpt lat="53.119592" lon="8.8918499"/><trkpt lat="53.1196359" lon="8.8917235"/><trkpt lat="53.1195069" lon="8.8915991"/><trkpt lat="53.119463" lon="8.8917255"/></trkseg></trk><trk><name>Schaulust</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=9
+addr:postcode=28195
+addr:street=Beim Handelsmuseum
+alt_name=Schaulust e.V.
+amenity=theatre
+name=Schaulust
+source=Bing
+website=https://www.bremen-schaulust.de/
+wheelchair=yes
+wheelchair:description=Rampe zum Eingang befindet sich vor der "Spedition", diese ist außerdem relativ steil.
+id=way/200485843</desc><trkseg><trkpt lat="53.0855374" lon="8.806369"/><trkpt lat="53.085305" lon="8.8068569"/><trkpt lat="53.0854447" lon="8.8070413"/><trkpt lat="53.0854867" lon="8.806953"/><trkpt lat="53.085677" lon="8.8065534"/><trkpt lat="53.0855374" lon="8.806369"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+check_date=2024-03-17
+name=Freilichtbühne
+wheelchair=no
+id=way/207621626</desc><trkseg><trkpt lat="53.0884168" lon="8.8103478"/><trkpt lat="53.0883978" lon="8.8103656"/><trkpt lat="53.0883884" lon="8.8103846"/><trkpt lat="53.0883783" lon="8.8104321"/><trkpt lat="53.088378" lon="8.8104853"/><trkpt lat="53.0883874" lon="8.8105322"/><trkpt lat="53.0884073" lon="8.8105713"/><trkpt lat="53.0884297" lon="8.8105952"/><trkpt lat="53.0884608" lon="8.810608"/><trkpt lat="53.0884912" lon="8.8106041"/><trkpt lat="53.0885199" lon="8.8105792"/><trkpt lat="53.0885404" lon="8.8105382"/><trkpt lat="53.0885676" lon="8.8105036"/><trkpt lat="53.0885354" lon="8.8104604"/><trkpt lat="53.088527" lon="8.8104492"/><trkpt lat="53.0884638" lon="8.8103645"/><trkpt lat="53.0884499" lon="8.8103459"/><trkpt lat="53.0884363" lon="8.810374"/><trkpt lat="53.0884168" lon="8.8103478"/></trkseg></trk><trk><name>Metropol Theater Bremen</name><desc>addr:city=Bremen
+addr:housenumber=7
+addr:postcode=28195
+addr:street=Richtweg
+amenity=theatre
+building=yes
+height=20
+name=Metropol Theater Bremen
+old_name=Musical Theater;Musicaltheater
+old_operator=Musical Theater Bremen Betriebs GmbH
+operator=MTB Betriebs GmbH
+theatre:genre=musical
+toilets:wheelchair=no
+website=https://metropol-theater-bremen.de/
+wheelchair=yes
+wikidata=Q1954955
+wikipedia=de:Metropol Theater Bremen
+id=way/229201068</desc><trkseg><trkpt lat="53.0782822" lon="8.8135661"/><trkpt lat="53.0780906" lon="8.8138796"/><trkpt lat="53.0781023" lon="8.8138975"/><trkpt lat="53.0779728" lon="8.8141076"/><trkpt lat="53.0779658" lon="8.8141191"/><trkpt lat="53.0779722" lon="8.8141301"/><trkpt lat="53.0780158" lon="8.8142045"/><trkpt lat="53.0780293" lon="8.8142275"/><trkpt lat="53.0780349" lon="8.8142184"/><trkpt lat="53.0781927" lon="8.8144901"/><trkpt lat="53.0782162" lon="8.8145186"/><trkpt lat="53.0782325" lon="8.8145245"/><trkpt lat="53.0782459" lon="8.814524"/><trkpt lat="53.0782536" lon="8.8145165"/><trkpt lat="53.0782594" lon="8.8145085"/><trkpt lat="53.0782693" lon="8.814525"/><trkpt lat="53.0783039" lon="8.8145679"/><trkpt lat="53.0783265" lon="8.8145958"/><trkpt lat="53.0783985" lon="8.8146908"/><trkpt lat="53.078596" lon="8.8148942"/><trkpt lat="53.0786262" lon="8.8149253"/><trkpt lat="53.078618" lon="8.8149464"/><trkpt lat="53.0786608" lon="8.8149868"/><trkpt lat="53.0787222" lon="8.8148287"/><trkpt lat="53.0786787" lon="8.8147845"/><trkpt lat="53.078696" lon="8.8147429"/><trkpt lat="53.0787088" lon="8.8147557"/><trkpt lat="53.0788637" lon="8.8143517"/><trkpt lat="53.0788585" lon="8.8143446"/><trkpt lat="53.0788188" lon="8.8143015"/><trkpt lat="53.0788238" lon="8.8142846"/><trkpt lat="53.0785188" lon="8.8139703"/><trkpt lat="53.0785334" lon="8.8139474"/><trkpt lat="53.0784788" lon="8.8138531"/><trkpt lat="53.0783264" lon="8.8135951"/><trkpt lat="53.0783134" lon="8.8136162"/><trkpt lat="53.0782822" lon="8.8135661"/></trkseg></trk><trk><name>Pferdestall</name><desc>addr:city=Bremerhaven
+addr:country=DE
+addr:housenumber=7
+addr:postcode=27568
+addr:street=Gartenstraße
+amenity=theatre
+building=yes
+check_date=2024-10-11
+email=info@pferdestall-bremerhaven.com
+fax=+49 471 4833971
+name=Pferdestall
+operator=Stadttheater Bremerhaven
+phone=+49 471 43333
+website=https://www.pferdestall-bremerhaven.com/
+id=way/229521384</desc><trkseg><trkpt lat="53.5530049" lon="8.5720508"/><trkpt lat="53.5531479" lon="8.5719163"/><trkpt lat="53.5530968" lon="8.5717624"/><trkpt lat="53.5530304" lon="8.5718249"/><trkpt lat="53.5530149" lon="8.571778"/><trkpt lat="53.5529383" lon="8.5718501"/><trkpt lat="53.5529539" lon="8.5718971"/><trkpt lat="53.5530049" lon="8.5720508"/></trkseg></trk><trk><name>GOP Varieté-Theater</name><desc>addr:city=Bremen
+addr:housenumber=4
+addr:postcode=28217
+addr:street=Am Weser-Terminal
+amenity=theatre
+building=yes
+building:colour=brown
+building:parts=vertical
+check_date=2025-07-07
+height=12.0
+name=GOP Varieté-Theater
+phone=+49 421 89898989
+roof:shape=flat
+toilets:wheelchair=yes
+website=https://www.variete.de/de/spielorte/bremen/bremen.html
+wheelchair=yes
+id=way/246319298</desc><trkseg><trkpt lat="53.081839" lon="8.7891471"/><trkpt lat="53.0818586" lon="8.7890495"/><trkpt lat="53.0818787" lon="8.7889497"/><trkpt lat="53.0816326" lon="8.7888125"/><trkpt lat="53.0816131" lon="8.7889096"/><trkpt lat="53.0815929" lon="8.7890098"/><trkpt lat="53.0815352" lon="8.7889776"/><trkpt lat="53.0814444" lon="8.7894285"/><trkpt lat="53.0817119" lon="8.7895777"/><trkpt lat="53.0818955" lon="8.7896801"/><trkpt lat="53.0819863" lon="8.7892293"/><trkpt lat="53.081839" lon="8.7891471"/></trkseg></trk><trk><name>Schnürschuh Theater</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=145
+addr:postcode=28201
+addr:street=Buntentorsteinweg
+alt_name=Schnürschuh-Theater;Schnürschuhtheater;Theaterhaus Schnürschuh
+amenity=theatre
+building=yes
+level=1
+name=Schnürschuh Theater
+operator=Kulturschmiede Bremen e.v.
+phone=+49 421 555410
+website=https://www.schnuerschuh-theater.de/
+wheelchair=no
+wikidata=Q2416221
+wikipedia=de:Schnürschuh Theater
+id=way/259424342</desc><trkseg><trkpt lat="53.0638625" lon="8.8080094"/><trkpt lat="53.0638066" lon="8.8078991"/><trkpt lat="53.0637998" lon="8.8079088"/><trkpt lat="53.0637742" lon="8.8078593"/><trkpt lat="53.0636986" lon="8.8079676"/><trkpt lat="53.063739" lon="8.8080461"/><trkpt lat="53.063781" lon="8.8081278"/><trkpt lat="53.0638577" lon="8.808277"/><trkpt lat="53.0638697" lon="8.8082565"/><trkpt lat="53.063933" lon="8.8081485"/><trkpt lat="53.0638625" lon="8.8080094"/></trkseg></trk><trk><name>Theater 62</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=12
+addr:postcode=28203
+addr:street=Lessingstraße
+alt_name=Theater an der Lessingstraße
+amenity=theatre
+building=bunker
+bunker_type=bomb_shelter
+location=overground
+military=bunker
+name=Theater 62
+ref:2WK=B20
+id=way/272785081</desc><trkseg><trkpt lat="53.0734606" lon="8.8333329"/><trkpt lat="53.0735108" lon="8.8334531"/><trkpt lat="53.0736376" lon="8.8333063"/><trkpt lat="53.0735873" lon="8.833186"/><trkpt lat="53.0734934" lon="8.8332949"/><trkpt lat="53.0734606" lon="8.8333329"/></trkseg></trk><trk><name>Die Glocke</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=6-8
+addr:postcode=28195
+addr:street=Domsheide
+amenity=theatre
+building=yes
+building:colour=brown
+building:material=stone
+name=Die Glocke
+roof:colour=brown
+roof:lines=no
+theatre:genre=philharmonic
+theatre:type=concert_hall
+website=https://www.glocke.de/
+wheelchair=yes
+wikidata=Q1213067
+wikipedia=de:Die Glocke (Bremen)
+id=way/374115119</desc><trkseg><trkpt lat="53.0749691" lon="8.8096194"/><trkpt lat="53.0749691" lon="8.8096188"/><trkpt lat="53.0749779" lon="8.8096213"/><trkpt lat="53.0750104" lon="8.8096304"/><trkpt lat="53.075048" lon="8.809641"/><trkpt lat="53.0750715" lon="8.8096476"/><trkpt lat="53.0750965" lon="8.8096546"/><trkpt lat="53.0750985" lon="8.809655"/><trkpt lat="53.0750997" lon="8.8096553"/><trkpt lat="53.075106" lon="8.8096566"/><trkpt lat="53.0751259" lon="8.8096611"/><trkpt lat="53.0751243" lon="8.809663"/><trkpt lat="53.075125" lon="8.8096645"/><trkpt lat="53.0751077" lon="8.809686"/><trkpt lat="53.0751071" lon="8.8096846"/><trkpt lat="53.0751028" lon="8.8096899"/><trkpt lat="53.0751021" lon="8.8096973"/><trkpt lat="53.0750977" lon="8.8097428"/><trkpt lat="53.0751013" lon="8.8097498"/><trkpt lat="53.0751021" lon="8.8097487"/><trkpt lat="53.075117" lon="8.8097776"/><trkpt lat="53.0751161" lon="8.8097788"/><trkpt lat="53.0751197" lon="8.8097858"/><trkpt lat="53.0751335" lon="8.8097891"/><trkpt lat="53.0751516" lon="8.8097933"/><trkpt lat="53.0751559" lon="8.8097878"/><trkpt lat="53.0751553" lon="8.8097864"/><trkpt lat="53.0751723" lon="8.8097643"/><trkpt lat="53.0751729" lon="8.8097657"/><trkpt lat="53.0751766" lon="8.809761"/><trkpt lat="53.0751775" lon="8.8097517"/><trkpt lat="53.0751764" lon="8.8097515"/><trkpt lat="53.0751797" lon="8.8097168"/><trkpt lat="53.0751808" lon="8.8097171"/><trkpt lat="53.0751817" lon="8.8097078"/><trkpt lat="53.0751784" lon="8.8097004"/><trkpt lat="53.0751775" lon="8.8097015"/><trkpt lat="53.0751699" lon="8.8096843"/><trkpt lat="53.0752204" lon="8.8096972"/><trkpt lat="53.0752254" lon="8.8096438"/><trkpt lat="53.0752405" lon="8.8096471"/><trkpt lat="53.0752481" lon="8.8096487"/><trkpt lat="53.0752541" lon="8.8096501"/><trkpt lat="53.0752581" lon="8.809651"/><trkpt lat="53.0752708" lon="8.8096538"/><trkpt lat="53.0752721" lon="8.809654"/><trkpt lat="53.0752719" lon="8.809657"/><trkpt lat="53.0752832" lon="8.8096585"/><trkpt lat="53.075284" lon="8.8096455"/><trkpt lat="53.075287" lon="8.8095984"/><trkpt lat="53.0752744" lon="8.8095994"/><trkpt lat="53.0752751" lon="8.8095886"/><trkpt lat="53.0752759" lon="8.8095757"/><trkpt lat="53.0752763" lon="8.8095703"/><trkpt lat="53.0752767" lon="8.8095648"/><trkpt lat="53.0752783" lon="8.80954"/><trkpt lat="53.0752813" lon="8.809493"/><trkpt lat="53.0752828" lon="8.8094705"/><trkpt lat="53.0752837" lon="8.8094569"/><trkpt lat="53.0752868" lon="8.8094137"/><trkpt lat="53.0752887" lon="8.8093853"/><trkpt lat="53.0752895" lon="8.8093736"/><trkpt lat="53.0752903" lon="8.8093627"/><trkpt lat="53.0752909" lon="8.8093547"/><trkpt lat="53.0752945" lon="8.8093556"/><trkpt lat="53.0752954" lon="8.8093437"/><trkpt lat="53.0752968" lon="8.8093265"/><trkpt lat="53.0752972" lon="8.8093213"/><trkpt lat="53.0752963" lon="8.8093211"/><trkpt lat="53.075297" lon="8.8093098"/><trkpt lat="53.0752964" lon="8.8093097"/><trkpt lat="53.075294" lon="8.8093091"/><trkpt lat="53.0752861" lon="8.8093073"/><trkpt lat="53.0752724" lon="8.8093042"/><trkpt lat="53.0752607" lon="8.8093015"/><trkpt lat="53.0752202" lon="8.8092924"/><trkpt lat="53.0751988" lon="8.8092876"/><trkpt lat="53.075162" lon="8.8092792"/><trkpt lat="53.075163" lon="8.8092667"/><trkpt lat="53.0751647" lon="8.8092451"/><trkpt lat="53.0751771" lon="8.8090933"/><trkpt lat="53.075181" lon="8.8090448"/><trkpt lat="53.0751837" lon="8.8090106"/><trkpt lat="53.0751842" lon="8.8090052"/><trkpt lat="53.0751848" lon="8.8089979"/><trkpt lat="53.0751876" lon="8.8089636"/><trkpt lat="53.0752038" lon="8.8087632"/><trkpt lat="53.0752066" lon="8.8087291"/><trkpt lat="53.0752276" lon="8.8087337"/><trkpt lat="53.0752352" lon="8.8087353"/><trkpt lat="53.0752561" lon="8.8087399"/><trkpt lat="53.0752568" lon="8.8087314"/><trkpt lat="53.075257" lon="8.8087293"/><trkpt lat="53.075259" lon="8.8087042"/><trkpt lat="53.0752609" lon="8.8086803"/><trkpt lat="53.07526" lon="8.8086801"/><trkpt lat="53.07524" lon="8.8086757"/><trkpt lat="53.0752323" lon="8.808674"/><trkpt lat="53.0752114" lon="8.8086694"/><trkpt lat="53.0752037" lon="8.8086677"/><trkpt lat="53.0751807" lon="8.8086626"/><trkpt lat="53.0751709" lon="8.8086604"/><trkpt lat="53.0751432" lon="8.8086543"/><trkpt lat="53.0751444" lon="8.8086396"/><trkpt lat="53.0751431" lon="8.8086393"/><trkpt lat="53.0751433" lon="8.808637"/><trkpt lat="53.0751058" lon="8.8086287"/><trkpt lat="53.0751056" lon="8.808631"/><trkpt lat="53.0751043" lon="8.8086307"/><trkpt lat="53.0751031" lon="8.8086455"/><trkpt lat="53.075066" lon="8.808637"/><trkpt lat="53.0750635" lon="8.8086364"/><trkpt lat="53.0750632" lon="8.8086398"/><trkpt lat="53.0750448" lon="8.8088676"/><trkpt lat="53.0750175" lon="8.8088622"/><trkpt lat="53.0750158" lon="8.8088618"/><trkpt lat="53.0750141" lon="8.8088615"/><trkpt lat="53.075014" lon="8.8088629"/><trkpt lat="53.0749931" lon="8.8088587"/><trkpt lat="53.0749932" lon="8.8088574"/><trkpt lat="53.0749856" lon="8.8088559"/><trkpt lat="53.0749855" lon="8.8088572"/><trkpt lat="53.0749644" lon="8.8088531"/><trkpt lat="53.0749645" lon="8.8088518"/><trkpt lat="53.0749568" lon="8.8088503"/><trkpt lat="53.0749567" lon="8.8088516"/><trkpt lat="53.0749358" lon="8.8088474"/><trkpt lat="53.0749359" lon="8.8088461"/><trkpt lat="53.0749321" lon="8.8088454"/><trkpt lat="53.0749283" lon="8.8088446"/><trkpt lat="53.0749282" lon="8.8088459"/><trkpt lat="53.0749273" lon="8.8088572"/><trkpt lat="53.0749269" lon="8.8088617"/><trkpt lat="53.0749244" lon="8.8088933"/><trkpt lat="53.0749205" lon="8.8089418"/><trkpt lat="53.0749196" lon="8.8089523"/><trkpt lat="53.0749164" lon="8.8089919"/><trkpt lat="53.0749006" lon="8.8091864"/><trkpt lat="53.0748979" lon="8.8092199"/><trkpt lat="53.0748933" lon="8.809219"/><trkpt lat="53.0748889" lon="8.809218"/><trkpt lat="53.0748844" lon="8.8092171"/><trkpt lat="53.0748577" lon="8.8092114"/><trkpt lat="53.0748556" lon="8.8092109"/><trkpt lat="53.0748536" lon="8.8092354"/><trkpt lat="53.0748524" lon="8.8092495"/><trkpt lat="53.0748494" lon="8.8092489"/><trkpt lat="53.074848" lon="8.8092668"/><trkpt lat="53.0748466" lon="8.8092841"/><trkpt lat="53.0748446" lon="8.8093083"/><trkpt lat="53.0748426" lon="8.8093327"/><trkpt lat="53.0748404" lon="8.8093596"/><trkpt lat="53.0748386" lon="8.809382"/><trkpt lat="53.0748347" lon="8.8094309"/><trkpt lat="53.0748327" lon="8.8094556"/><trkpt lat="53.0748307" lon="8.8094802"/><trkpt lat="53.0748291" lon="8.8095007"/><trkpt lat="53.0748279" lon="8.8095151"/><trkpt lat="53.0748309" lon="8.8095157"/><trkpt lat="53.0748305" lon="8.8095201"/><trkpt lat="53.0748297" lon="8.80953"/><trkpt lat="53.0748277" lon="8.8095545"/><trkpt lat="53.0748298" lon="8.809555"/><trkpt lat="53.0748288" lon="8.8095688"/><trkpt lat="53.0748279" lon="8.809581"/><trkpt lat="53.0748609" lon="8.8095977"/><trkpt lat="53.0748544" lon="8.8096282"/><trkpt lat="53.0748988" lon="8.8096434"/><trkpt lat="53.0749017" lon="8.8096444"/><trkpt lat="53.0749015" lon="8.8096463"/><trkpt lat="53.0749026" lon="8.8096466"/><trkpt lat="53.074919" lon="8.8096515"/><trkpt lat="53.0749221" lon="8.8096262"/><trkpt lat="53.0749678" lon="8.8096425"/><trkpt lat="53.0749691" lon="8.8096194"/></trkseg></trk><trk><name>Theater am Goetheplatz</name><desc>addr:city=Bremen
+addr:country=DE
+addr:housenumber=1-3
+addr:postcode=28203
+addr:street=Goetheplatz
+alt_name=Schauspielhaus am Ostertor
+amenity=theatre
+check_date=2024-05-11
+name=Theater am Goetheplatz
+website=https://www.theaterbremen.de/
+wheelchair=yes
+id=way/425109266</desc><trkseg><trkpt lat="53.0722604" lon="8.8151171"/><trkpt lat="53.0722447" lon="8.8151186"/><trkpt lat="53.0722433" lon="8.8150849"/><trkpt lat="53.072018" lon="8.8151051"/><trkpt lat="53.0720166" lon="8.8150628"/><trkpt lat="53.0719387" lon="8.8150694"/><trkpt lat="53.0719379" lon="8.8150427"/><trkpt lat="53.0718483" lon="8.8150507"/><trkpt lat="53.0718491" lon="8.8150778"/><trkpt lat="53.0718283" lon="8.8150795"/><trkpt lat="53.0718262" lon="8.8150176"/><trkpt lat="53.071822" lon="8.8149037"/><trkpt lat="53.0716518" lon="8.8149199"/><trkpt lat="53.071655" lon="8.815031"/><trkpt lat="53.0716633" lon="8.8152603"/><trkpt lat="53.0716636" lon="8.8152603"/><trkpt lat="53.0716638" lon="8.8152643"/><trkpt lat="53.0716625" lon="8.8152644"/><trkpt lat="53.0716722" lon="8.8155887"/><trkpt lat="53.0717223" lon="8.8155838"/><trkpt lat="53.0717319" lon="8.8159129"/><trkpt lat="53.0717329" lon="8.8159434"/><trkpt lat="53.0718039" lon="8.815961"/><trkpt lat="53.0719718" lon="8.8160033"/><trkpt lat="53.071975" lon="8.8159636"/><trkpt lat="53.0719827" lon="8.81587"/><trkpt lat="53.0720095" lon="8.8158677"/><trkpt lat="53.0720097" lon="8.8158718"/><trkpt lat="53.0720266" lon="8.8158704"/><trkpt lat="53.0720265" lon="8.8158663"/><trkpt lat="53.0720295" lon="8.8158661"/><trkpt lat="53.0720296" lon="8.8158679"/><trkpt lat="53.072076" lon="8.815864"/><trkpt lat="53.072077" lon="8.8158916"/><trkpt lat="53.0721557" lon="8.8158849"/><trkpt lat="53.0721548" lon="8.8158559"/><trkpt lat="53.0721517" lon="8.8157857"/><trkpt lat="53.072176" lon="8.815784"/><trkpt lat="53.072181" lon="8.8159542"/><trkpt lat="53.072182" lon="8.8159897"/><trkpt lat="53.0722996" lon="8.8160158"/><trkpt lat="53.0723002" lon="8.8160101"/><trkpt lat="53.0723031" lon="8.8159811"/><trkpt lat="53.072306" lon="8.8159529"/><trkpt lat="53.0723066" lon="8.8159473"/><trkpt lat="53.0723107" lon="8.815947"/><trkpt lat="53.0723088" lon="8.8158809"/><trkpt lat="53.0723036" lon="8.8157058"/><trkpt lat="53.0723071" lon="8.8157054"/><trkpt lat="53.0723034" lon="8.8155736"/><trkpt lat="53.072274" lon="8.8155759"/><trkpt lat="53.072273" lon="8.8155399"/><trkpt lat="53.0722727" lon="8.8155297"/><trkpt lat="53.0722717" lon="8.8154947"/><trkpt lat="53.0722868" lon="8.8154934"/><trkpt lat="53.0722823" lon="8.8153479"/><trkpt lat="53.0722778" lon="8.8152053"/><trkpt lat="53.072263" lon="8.8152064"/><trkpt lat="53.072262" lon="8.8151721"/><trkpt lat="53.0722617" lon="8.8151619"/><trkpt lat="53.0722612" lon="8.8151245"/><trkpt lat="53.0722604" lon="8.8151171"/></trkseg></trk><trk><name>way/684657065</name><desc>amenity=theatre
+check_date=2024-05-13
+noname=yes
+theatre:type=open_air
+id=way/684657065</desc><trkseg><trkpt lat="53.106796" lon="8.8413638"/><trkpt lat="53.1067583" lon="8.8414441"/><trkpt lat="53.1067823" lon="8.8414708"/><trkpt lat="53.106817" lon="8.8413899"/><trkpt lat="53.106796" lon="8.8413638"/></trkseg></trk><trk><name>Junges Theater Bremerhaven</name><desc>addr:housenumber=2
+addr:street=Columbusstraße
+amenity=theatre
+building=yes
+check_date=2024-10-15
+name=Junges Theater Bremerhaven
+id=way/854310662</desc><trkseg><trkpt lat="53.5364852" lon="8.5876476"/><trkpt lat="53.5364436" lon="8.5879539"/><trkpt lat="53.5366441" lon="8.5880311"/><trkpt lat="53.5366637" lon="8.5878866"/><trkpt lat="53.5366921" lon="8.5878975"/><trkpt lat="53.5367141" lon="8.5877356"/><trkpt lat="53.5364852" lon="8.5876476"/></trkseg></trk></gpx>

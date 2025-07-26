@@ -1,0 +1,965 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><trk><name>relation/5513710</name><desc>man_made=bridge
+type=multipolygon
+id=relation/5513710</desc><trkseg><trkpt lat="53.0587324" lon="8.8525979"/><trkpt lat="53.0586927" lon="8.8525948"/><trkpt lat="53.0586813" lon="8.8525748"/><trkpt lat="53.0586248" lon="8.8525441"/><trkpt lat="53.0585845" lon="8.8525495"/><trkpt lat="53.0585477" lon="8.8525635"/><trkpt lat="53.0585155" lon="8.852597"/><trkpt lat="53.0584913" lon="8.8526472"/><trkpt lat="53.058481" lon="8.8527171"/><trkpt lat="53.0584814" lon="8.8527958"/><trkpt lat="53.0584931" lon="8.8528497"/><trkpt lat="53.0585166" lon="8.8529"/><trkpt lat="53.0585571" lon="8.8529545"/><trkpt lat="53.0585941" lon="8.8529663"/><trkpt lat="53.0586447" lon="8.8529533"/><trkpt lat="53.0586781" lon="8.8529202"/><trkpt lat="53.0587044" lon="8.8528763"/><trkpt lat="53.0587244" lon="8.8528077"/><trkpt lat="53.0587324" lon="8.8525979"/></trkseg><trkseg><trkpt lat="53.0586689" lon="8.8526901"/><trkpt lat="53.0586791" lon="8.8527409"/><trkpt lat="53.058676" lon="8.8527943"/><trkpt lat="53.0586601" lon="8.8528409"/><trkpt lat="53.0586341" lon="8.8528727"/><trkpt lat="53.0586027" lon="8.8528842"/><trkpt lat="53.0585711" lon="8.8528735"/><trkpt lat="53.0585449" lon="8.8528423"/><trkpt lat="53.0585286" lon="8.8527961"/><trkpt lat="53.058525" lon="8.8527428"/><trkpt lat="53.0585347" lon="8.8526917"/><trkpt lat="53.0585561" lon="8.8526516"/><trkpt lat="53.0585854" lon="8.8526295"/><trkpt lat="53.0586176" lon="8.8526291"/><trkpt lat="53.0586472" lon="8.8526505"/><trkpt lat="53.0586689" lon="8.8526901"/></trkseg></trk><trk><name>way/119661640</name><desc>bridge:structure=truss
+landuse=railway
+layer=1
+man_made=bridge
+id=way/119661640</desc><trkseg><trkpt lat="53.5853634" lon="8.5978351"/><trkpt lat="53.5853511" lon="8.5977877"/><trkpt lat="53.5853312" lon="8.5977113"/><trkpt lat="53.5853192" lon="8.5976653"/><trkpt lat="53.5849183" lon="8.5979825"/><trkpt lat="53.5849309" lon="8.5980335"/><trkpt lat="53.5849497" lon="8.5981093"/><trkpt lat="53.5849644" lon="8.5981689"/><trkpt lat="53.5853634" lon="8.5978351"/></trkseg></trk><trk><name>Brücke Alter Hafen</name><desc>bridge=movable
+bridge:structure=beam
+layer=1
+man_made=bridge
+name=Brücke Alter Hafen
+source=LfD Bremen
+id=way/184057245</desc><trkseg><trkpt lat="53.5443481" lon="8.5745554"/><trkpt lat="53.544188" lon="8.5744926"/><trkpt lat="53.5441789" lon="8.5745583"/><trkpt lat="53.5441714" lon="8.5746129"/><trkpt lat="53.5443315" lon="8.5746757"/><trkpt lat="53.5443399" lon="8.5746149"/><trkpt lat="53.5443481" lon="8.5745554"/></trkseg></trk><trk><name>way/184057246</name><desc>bridge=movable
+bridge:structure=beam
+layer=1
+man_made=bridge
+source=LfD Bremen
+id=way/184057246</desc><trkseg><trkpt lat="53.5444467" lon="8.57416"/><trkpt lat="53.5442648" lon="8.5741794"/><trkpt lat="53.5442656" lon="8.5742159"/><trkpt lat="53.5442665" lon="8.5742567"/><trkpt lat="53.5444458" lon="8.5742491"/><trkpt lat="53.5444462" lon="8.5742062"/><trkpt lat="53.5444467" lon="8.57416"/></trkseg></trk><trk><name>Alte Geestebrücke</name><desc>bridge=movable
+bridge:structure=truss
+heritage=4
+heritage:operator=lfd
+layer=1
+lfd:criteria=ED
+man_made=bridge
+name=Alte Geestebrücke
+ref:lfd=1635
+start_date=1904
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00001635
+wikidata=Q435593
+wikipedia=de:Alte Geestebrücke
+id=way/184106552</desc><trkseg><trkpt lat="53.5402005" lon="8.5864207"/><trkpt lat="53.5404464" lon="8.5854765"/><trkpt lat="53.5403984" lon="8.5854415"/><trkpt lat="53.5403452" lon="8.5854027"/><trkpt lat="53.5401105" lon="8.5863563"/><trkpt lat="53.5401572" lon="8.586387"/><trkpt lat="53.5402005" lon="8.5864207"/></trkseg></trk><trk><name>Drehbrücke über den Geestemünder Hauptkanal</name><desc>bridge=movable
+bridge:structure=beam
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+lfd:criteria=ED
+lit=yes
+man_made=bridge
+name=Drehbrücke über den Geestemünder Hauptkanal
+ref:lfd=3120
+source=LfD Bremen
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00003120
+wikidata=Q1256432
+wikipedia=de:Drehbrücke über den Geestemünder Hauptkanal
+id=way/184109819</desc><trkseg><trkpt lat="53.5339382" lon="8.5848908"/><trkpt lat="53.5339333" lon="8.5848934"/><trkpt lat="53.5339363" lon="8.5849302"/><trkpt lat="53.5339408" lon="8.5849674"/><trkpt lat="53.5339484" lon="8.5849974"/><trkpt lat="53.5339564" lon="8.5850254"/><trkpt lat="53.5339629" lon="8.5850448"/><trkpt lat="53.5343505" lon="8.5848439"/><trkpt lat="53.534336" lon="8.5847595"/><trkpt lat="53.5343232" lon="8.5846892"/><trkpt lat="53.5339382" lon="8.5848908"/></trkseg></trk><trk><name>way/184975604</name><desc>bridge:structure=beam
+landuse=railway
+man_made=bridge
+id=way/184975604</desc><trkseg><trkpt lat="53.0825724" lon="8.7913254"/><trkpt lat="53.0826452" lon="8.7914499"/><trkpt lat="53.0829664" lon="8.7920149"/><trkpt lat="53.0829717" lon="8.7919256"/><trkpt lat="53.0829789" lon="8.7918046"/><trkpt lat="53.0829825" lon="8.7917434"/><trkpt lat="53.0829432" lon="8.7916731"/><trkpt lat="53.0826569" lon="8.7911585"/><trkpt lat="53.0825849" lon="8.7910347"/><trkpt lat="53.0825816" lon="8.791111"/><trkpt lat="53.0825764" lon="8.7912323"/><trkpt lat="53.0825724" lon="8.7913254"/></trkseg></trk><trk><name>Glasbrücke</name><desc>bridge=movable
+bridge:structure=beam
+building=bridge
+building:material=glass
+layer=1
+man_made=bridge
+min_height=5
+name=Glasbrücke
+roof:material=glass
+roof:shape=round
+id=way/206771082</desc><trkseg><trkpt lat="53.5433072" lon="8.5765581"/><trkpt lat="53.5432453" lon="8.5763736"/><trkpt lat="53.5432321" lon="8.5763341"/><trkpt lat="53.5428634" lon="8.575236"/><trkpt lat="53.5428432" lon="8.5752553"/><trkpt lat="53.542824" lon="8.5752735"/><trkpt lat="53.5432678" lon="8.5765955"/><trkpt lat="53.5432876" lon="8.5765768"/><trkpt lat="53.5433072" lon="8.5765581"/></trkseg></trk><trk><name>way/249233897</name><desc>bridge:structure=beam
+layer=2
+man_made=bridge
+id=way/249233897</desc><trkseg><trkpt lat="53.5418097" lon="8.5777739"/><trkpt lat="53.5417904" lon="8.5777137"/><trkpt lat="53.5417655" lon="8.5776418"/><trkpt lat="53.5416817" lon="8.5777236"/><trkpt lat="53.5417796" lon="8.5780107"/><trkpt lat="53.5418196" lon="8.5779726"/><trkpt lat="53.5418614" lon="8.5779329"/><trkpt lat="53.5418097" lon="8.5777739"/></trkseg></trk><trk><name>Stephanibrücke</name><desc>bridge:structure=box_girder
+layer=2
+man_made=bridge
+name=Stephanibrücke
+start_date=1967
+wikidata=Q2344111
+wikipedia=de:Stephanibrücke
+id=way/261318655</desc><trkseg><trkpt lat="53.0790082" lon="8.7898819"/><trkpt lat="53.0809159" lon="8.7913071"/><trkpt lat="53.0809123" lon="8.7912455"/><trkpt lat="53.0809247" lon="8.7911876"/><trkpt lat="53.0809583" lon="8.7910561"/><trkpt lat="53.0809901" lon="8.7910173"/><trkpt lat="53.0810196" lon="8.7909606"/><trkpt lat="53.0791474" lon="8.7895359"/><trkpt lat="53.0791075" lon="8.7895056"/><trkpt lat="53.0790817" lon="8.789598"/><trkpt lat="53.0790708" lon="8.7896386"/><trkpt lat="53.0790356" lon="8.7897607"/><trkpt lat="53.0790082" lon="8.7898819"/></trkseg></trk><trk><name>Bürgermeister-Smidt-Brücke</name><desc>bridge:structure=box_girder
+layer=1
+man_made=bridge
+name=Bürgermeister-Smidt-Brücke
+name:etymology:wikidata=Q89519
+wikidata=Q1021216
+wikipedia=de:Bürgermeister-Smidt-Brücke
+id=way/261318657</desc><trkseg><trkpt lat="53.0768627" lon="8.798097"/><trkpt lat="53.0770129" lon="8.7982969"/><trkpt lat="53.077022" lon="8.7983089"/><trkpt lat="53.0778853" lon="8.7996054"/><trkpt lat="53.0779298" lon="8.7995254"/><trkpt lat="53.0779571" lon="8.7994757"/><trkpt lat="53.0779651" lon="8.7994581"/><trkpt lat="53.0779743" lon="8.7994405"/><trkpt lat="53.0780015" lon="8.7993879"/><trkpt lat="53.0780481" lon="8.799295"/><trkpt lat="53.0771986" lon="8.7979974"/><trkpt lat="53.0770011" lon="8.7976992"/><trkpt lat="53.0765879" lon="8.7970795"/><trkpt lat="53.076533" lon="8.797165"/><trkpt lat="53.0765053" lon="8.7972138"/><trkpt lat="53.0764951" lon="8.797232"/><trkpt lat="53.0764858" lon="8.7972485"/><trkpt lat="53.0764586" lon="8.7972964"/><trkpt lat="53.0764078" lon="8.797395"/><trkpt lat="53.0768314" lon="8.7980214"/><trkpt lat="53.0768363" lon="8.798034"/><trkpt lat="53.0768287" lon="8.7980523"/><trkpt lat="53.0768627" lon="8.798097"/></trkseg></trk><trk><name>St.-Pauli-Brücke</name><desc>alt_name=Ostbrücke;Kleine Weserbrücke
+bridge:structure=box_girder
+layer=1
+man_made=bridge
+name=St.-Pauli-Brücke
+source:alt_name=https://de.wikipedia.org/wiki/Gro%C3%9Fe_Weserbr%C3%BCcke#Die_Wilhelm-Kaisen-Br.C3.BCcke_seit_1960
+source:name=http://www.buv.bremen.de/buv/sixcms/list.php?page=97_baumassnahmen_p
+wikipedia=de:Große Weserbrücke
+id=way/261318658</desc><trkseg><trkpt lat="53.0720682" lon="8.8028983"/><trkpt lat="53.071954" lon="8.8027011"/><trkpt lat="53.0718838" lon="8.8025309"/><trkpt lat="53.0718158" lon="8.8023212"/><trkpt lat="53.0717829" lon="8.8021495"/><trkpt lat="53.0717761" lon="8.8020717"/><trkpt lat="53.071772" lon="8.8020241"/><trkpt lat="53.0717425" lon="8.8020391"/><trkpt lat="53.0716892" lon="8.8020732"/><trkpt lat="53.0716483" lon="8.8020971"/><trkpt lat="53.0716171" lon="8.8021154"/><trkpt lat="53.071605" lon="8.8021224"/><trkpt lat="53.0715913" lon="8.8021304"/><trkpt lat="53.0715368" lon="8.8021623"/><trkpt lat="53.0714837" lon="8.8021908"/><trkpt lat="53.0714543" lon="8.8022058"/><trkpt lat="53.0714758" lon="8.8022652"/><trkpt lat="53.0717668" lon="8.8030701"/><trkpt lat="53.0717941" lon="8.8030536"/><trkpt lat="53.0718505" lon="8.8030207"/><trkpt lat="53.0718956" lon="8.8029918"/><trkpt lat="53.0719124" lon="8.802981"/><trkpt lat="53.0719288" lon="8.8029727"/><trkpt lat="53.0719852" lon="8.8029343"/><trkpt lat="53.0720399" lon="8.8029073"/><trkpt lat="53.0720682" lon="8.8028983"/></trkseg></trk><trk><name>Wilhelm-Kaisen-Brücke</name><desc>bridge:structure=box_girder
+layer=1
+man_made=bridge
+name=Wilhelm-Kaisen-Brücke
+name:etymology:wikidata=Q73921
+old_name=Große Weserbrücke
+start_date=1960
+wikipedia=de:Große Weserbrücke
+id=way/261318659</desc><trkseg><trkpt lat="53.0733072" lon="8.8060367"/><trkpt lat="53.0733724" lon="8.805919"/><trkpt lat="53.0733806" lon="8.8059041"/><trkpt lat="53.0733902" lon="8.8058867"/><trkpt lat="53.0734172" lon="8.8058374"/><trkpt lat="53.0734591" lon="8.8057518"/><trkpt lat="53.0735051" lon="8.8056581"/><trkpt lat="53.0735008" lon="8.8056465"/><trkpt lat="53.0734762" lon="8.8056389"/><trkpt lat="53.0734266" lon="8.805615"/><trkpt lat="53.0733886" lon="8.8055781"/><trkpt lat="53.0726479" lon="8.8041087"/><trkpt lat="53.0726108" lon="8.8039263"/><trkpt lat="53.0725797" lon="8.8040174"/><trkpt lat="53.0725385" lon="8.8040912"/><trkpt lat="53.0725117" lon="8.8041391"/><trkpt lat="53.0725023" lon="8.8041559"/><trkpt lat="53.0724917" lon="8.8041749"/><trkpt lat="53.0724608" lon="8.8042302"/><trkpt lat="53.0724218" lon="8.8043018"/><trkpt lat="53.072412" lon="8.8043554"/><trkpt lat="53.073153" lon="8.8058"/><trkpt lat="53.0731967" lon="8.805911"/><trkpt lat="53.0732099" lon="8.8060276"/><trkpt lat="53.07321" lon="8.8061363"/><trkpt lat="53.0731962" lon="8.8062052"/><trkpt lat="53.0733072" lon="8.8060367"/></trkseg></trk><trk><name>way/369445430</name><desc>bridge=yes
+bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/369445430</desc><trkseg><trkpt lat="53.0770316" lon="8.7881474"/><trkpt lat="53.0766889" lon="8.7879244"/><trkpt lat="53.0765831" lon="8.7878556"/><trkpt lat="53.0760805" lon="8.7875255"/><trkpt lat="53.0754232" lon="8.7870779"/><trkpt lat="53.0747439" lon="8.7865692"/><trkpt lat="53.0740264" lon="8.7860089"/><trkpt lat="53.0740078" lon="8.7860763"/><trkpt lat="53.0739747" lon="8.7861969"/><trkpt lat="53.0739571" lon="8.7862607"/><trkpt lat="53.0746696" lon="8.7868223"/><trkpt lat="53.0753623" lon="8.7873492"/><trkpt lat="53.0760181" lon="8.7877996"/><trkpt lat="53.0769691" lon="8.7884174"/><trkpt lat="53.076986" lon="8.7883446"/><trkpt lat="53.0770151" lon="8.7882187"/><trkpt lat="53.0770316" lon="8.7881474"/></trkseg></trk><trk><name>Brückenstrang Breitenweg</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+name=Brückenstrang Breitenweg
+source:name=http://www.asv.bremen.de/sixcms/detail.php?gsid=bremen122.c.1780.de
+wikidata=Q23786414
+wikipedia=de:Hochstraße Breitenweg
+id=way/369445431</desc><trkseg><trkpt lat="53.0841564" lon="8.8062767"/><trkpt lat="53.0835615" lon="8.8074386"/><trkpt lat="53.0831518" lon="8.8082297"/><trkpt lat="53.0826058" lon="8.8092817"/><trkpt lat="53.0814813" lon="8.8114496"/><trkpt lat="53.0801072" lon="8.8140976"/><trkpt lat="53.0801403" lon="8.8141451"/><trkpt lat="53.0802031" lon="8.8142351"/><trkpt lat="53.0802348" lon="8.8142806"/><trkpt lat="53.0806463" lon="8.813477"/><trkpt lat="53.0816076" lon="8.8116231"/><trkpt lat="53.0832238" lon="8.8084987"/><trkpt lat="53.0842782" lon="8.8064524"/><trkpt lat="53.0842517" lon="8.8064142"/><trkpt lat="53.084189" lon="8.8063237"/><trkpt lat="53.0841564" lon="8.8062767"/></trkseg></trk><trk><name>way/369445432</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/369445432</desc><trkseg><trkpt lat="53.0691299" lon="8.7740755"/><trkpt lat="53.0691586" lon="8.7742344"/><trkpt lat="53.0691751" lon="8.7743945"/><trkpt lat="53.0691851" lon="8.7746312"/><trkpt lat="53.0692319" lon="8.7746065"/><trkpt lat="53.0692607" lon="8.7745899"/><trkpt lat="53.0692683" lon="8.7745536"/><trkpt lat="53.0693086" lon="8.7745067"/><trkpt lat="53.0693586" lon="8.7744485"/><trkpt lat="53.0693515" lon="8.7743071"/><trkpt lat="53.0693297" lon="8.774149"/><trkpt lat="53.0692931" lon="8.7739633"/><trkpt lat="53.0692713" lon="8.7738671"/><trkpt lat="53.0692295" lon="8.7739304"/><trkpt lat="53.0691662" lon="8.7740265"/><trkpt lat="53.0691299" lon="8.7740755"/></trkseg></trk><trk><name>way/369445433</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/369445433</desc><trkseg><trkpt lat="53.0872244" lon="8.7980141"/><trkpt lat="53.0871996" lon="8.7980803"/><trkpt lat="53.0871769" lon="8.7981409"/><trkpt lat="53.0872987" lon="8.7982757"/><trkpt lat="53.0873883" lon="8.7983464"/><trkpt lat="53.0874503" lon="8.7983954"/><trkpt lat="53.0875904" lon="8.7984745"/><trkpt lat="53.0877481" lon="8.798513"/><trkpt lat="53.0878894" lon="8.798514"/><trkpt lat="53.0879534" lon="8.7985059"/><trkpt lat="53.087949" lon="8.7984401"/><trkpt lat="53.0879436" lon="8.7983579"/><trkpt lat="53.0878109" lon="8.79837"/><trkpt lat="53.0877049" lon="8.7983558"/><trkpt lat="53.0875831" lon="8.7983173"/><trkpt lat="53.0875295" lon="8.7982818"/><trkpt lat="53.0874573" lon="8.798234"/><trkpt lat="53.0874467" lon="8.798227"/><trkpt lat="53.087391" lon="8.7981826"/><trkpt lat="53.0873035" lon="8.7981043"/><trkpt lat="53.0872244" lon="8.7980141"/></trkseg></trk><trk><name>way/369445434</name><desc>bridge:structure=beam
+layer=3
+man_made=bridge
+id=way/369445434</desc><trkseg><trkpt lat="53.0864934" lon="8.7963429"/><trkpt lat="53.0866573" lon="8.7965168"/><trkpt lat="53.0866968" lon="8.7965586"/><trkpt lat="53.087016" lon="8.796896"/><trkpt lat="53.087147" lon="8.797052"/><trkpt lat="53.0872685" lon="8.7972385"/><trkpt lat="53.0873658" lon="8.797455"/><trkpt lat="53.0874416" lon="8.7976945"/><trkpt lat="53.0874933" lon="8.797924"/><trkpt lat="53.087526" lon="8.7981907"/><trkpt lat="53.0875363" lon="8.7984302"/><trkpt lat="53.0875234" lon="8.7986912"/><trkpt lat="53.0874864" lon="8.7989665"/><trkpt lat="53.0874442" lon="8.7991716"/><trkpt lat="53.0873701" lon="8.7994398"/><trkpt lat="53.0872762" lon="8.7997094"/><trkpt lat="53.0871617" lon="8.8000034"/><trkpt lat="53.086968" lon="8.800491"/><trkpt lat="53.0869265" lon="8.8005956"/><trkpt lat="53.0866305" lon="8.8013368"/><trkpt lat="53.0867033" lon="8.8014364"/><trkpt lat="53.0867106" lon="8.8014172"/><trkpt lat="53.0867461" lon="8.8013238"/><trkpt lat="53.0869325" lon="8.8008472"/><trkpt lat="53.0871006" lon="8.8004234"/><trkpt lat="53.0873284" lon="8.7998484"/><trkpt lat="53.0874203" lon="8.7995959"/><trkpt lat="53.0875239" lon="8.7992319"/><trkpt lat="53.0875878" lon="8.7989398"/><trkpt lat="53.0876201" lon="8.798665"/><trkpt lat="53.0876213" lon="8.798376"/><trkpt lat="53.0876085" lon="8.798155"/><trkpt lat="53.087587" lon="8.7979946"/><trkpt lat="53.0875696" lon="8.797865"/><trkpt lat="53.0875289" lon="8.7976848"/><trkpt lat="53.0875121" lon="8.7976102"/><trkpt lat="53.0874439" lon="8.7973942"/><trkpt lat="53.0873325" lon="8.7971468"/><trkpt lat="53.0872905" lon="8.7970779"/><trkpt lat="53.0871894" lon="8.7969227"/><trkpt lat="53.0871163" lon="8.7968371"/><trkpt lat="53.0870673" lon="8.7967797"/><trkpt lat="53.0869848" lon="8.7966918"/><trkpt lat="53.0866836" lon="8.796371"/><trkpt lat="53.0865412" lon="8.7962234"/><trkpt lat="53.0865161" lon="8.7962861"/><trkpt lat="53.0864934" lon="8.7963429"/></trkseg></trk><trk><name>way/369445435</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/369445435</desc><trkseg><trkpt lat="53.0700952" lon="8.775679"/><trkpt lat="53.0700659" lon="8.7757246"/><trkpt lat="53.0700265" lon="8.7757857"/><trkpt lat="53.0700051" lon="8.7758188"/><trkpt lat="53.0701645" lon="8.7763522"/><trkpt lat="53.0701782" lon="8.776328"/><trkpt lat="53.0702133" lon="8.7762664"/><trkpt lat="53.0702453" lon="8.7762101"/><trkpt lat="53.0700952" lon="8.775679"/></trkseg></trk><trk><name>way/369445436</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+id=way/369445436</desc><trkseg><trkpt lat="53.0696633" lon="8.7741117"/><trkpt lat="53.0696354" lon="8.7740113"/><trkpt lat="53.0694923" lon="8.7734952"/><trkpt lat="53.0694793" lon="8.7734482"/><trkpt lat="53.0694492" lon="8.77348"/><trkpt lat="53.0694047" lon="8.7735272"/><trkpt lat="53.0693793" lon="8.7735541"/><trkpt lat="53.0694016" lon="8.7736374"/><trkpt lat="53.0695435" lon="8.7741673"/><trkpt lat="53.0695633" lon="8.774241"/><trkpt lat="53.0695915" lon="8.7742045"/><trkpt lat="53.0696307" lon="8.7741538"/><trkpt lat="53.0696633" lon="8.7741117"/></trkseg></trk><trk><name>way/369445437</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/369445437</desc><trkseg><trkpt lat="53.0689173" lon="8.7758281"/><trkpt lat="53.0688498" lon="8.7766313"/><trkpt lat="53.0689012" lon="8.7766428"/><trkpt lat="53.0689429" lon="8.776653"/><trkpt lat="53.0690104" lon="8.7758498"/><trkpt lat="53.0689739" lon="8.7758413"/><trkpt lat="53.0689173" lon="8.7758281"/></trkseg></trk><trk><name>way/369445438</name><desc>bridge:structure=cable-stayed
+layer=2
+man_made=bridge
+id=way/369445438</desc><trkseg><trkpt lat="53.0604987" lon="8.7852393"/><trkpt lat="53.0604811" lon="8.7851992"/><trkpt lat="53.0604532" lon="8.785233"/><trkpt lat="53.0604703" lon="8.7852719"/><trkpt lat="53.0602542" lon="8.7855195"/><trkpt lat="53.0602261" lon="8.7855504"/><trkpt lat="53.060213" lon="8.7855175"/><trkpt lat="53.0601111" lon="8.78563"/><trkpt lat="53.0601242" lon="8.7856629"/><trkpt lat="53.0597493" lon="8.7860764"/><trkpt lat="53.0595256" lon="8.7863291"/><trkpt lat="53.0593791" lon="8.7864629"/><trkpt lat="53.059132" lon="8.7866358"/><trkpt lat="53.0589571" lon="8.7867773"/><trkpt lat="53.0587748" lon="8.7869488"/><trkpt lat="53.0587891" lon="8.7869938"/><trkpt lat="53.0588161" lon="8.7870787"/><trkpt lat="53.0589592" lon="8.7869502"/><trkpt lat="53.0591003" lon="8.7868278"/><trkpt lat="53.0591179" lon="8.786857"/><trkpt lat="53.0588891" lon="8.7871278"/><trkpt lat="53.0586845" lon="8.7873862"/><trkpt lat="53.0583245" lon="8.7878684"/><trkpt lat="53.0579479" lon="8.7884213"/><trkpt lat="53.0576935" lon="8.788823"/><trkpt lat="53.0573635" lon="8.7893927"/><trkpt lat="53.0573246" lon="8.7894604"/><trkpt lat="53.0573412" lon="8.7895683"/><trkpt lat="53.057369" lon="8.7897486"/><trkpt lat="53.057396" lon="8.789924"/><trkpt lat="53.0575371" lon="8.7896569"/><trkpt lat="53.0577844" lon="8.7892316"/><trkpt lat="53.058127" lon="8.7886828"/><trkpt lat="53.0584016" lon="8.7882717"/><trkpt lat="53.0585962" lon="8.7879503"/><trkpt lat="53.0586847" lon="8.7878169"/><trkpt lat="53.0589043" lon="8.7875341"/><trkpt lat="53.0592436" lon="8.7871227"/><trkpt lat="53.0595368" lon="8.7867871"/><trkpt lat="53.0598406" lon="8.7864528"/><trkpt lat="53.0602584" lon="8.7859997"/><trkpt lat="53.0602747" lon="8.7860405"/><trkpt lat="53.0603766" lon="8.7859281"/><trkpt lat="53.0603602" lon="8.7858869"/><trkpt lat="53.0606112" lon="8.7855942"/><trkpt lat="53.0606301" lon="8.7856373"/><trkpt lat="53.060658" lon="8.7856035"/><trkpt lat="53.0606395" lon="8.7855612"/><trkpt lat="53.0607082" lon="8.7854811"/><trkpt lat="53.0609712" lon="8.7851672"/><trkpt lat="53.0611807" lon="8.7849074"/><trkpt lat="53.0614023" lon="8.7845902"/><trkpt lat="53.0616543" lon="8.7842263"/><trkpt lat="53.0620049" lon="8.7836763"/><trkpt lat="53.0623062" lon="8.7831707"/><trkpt lat="53.0628346" lon="8.7822554"/><trkpt lat="53.0634606" lon="8.7811623"/><trkpt lat="53.0638145" lon="8.7805748"/><trkpt lat="53.0640557" lon="8.7801997"/><trkpt lat="53.064342" lon="8.7797747"/><trkpt lat="53.0645506" lon="8.7794761"/><trkpt lat="53.0647852" lon="8.7791733"/><trkpt lat="53.0650289" lon="8.7788691"/><trkpt lat="53.0650659" lon="8.7788277"/><trkpt lat="53.0650278" lon="8.7787665"/><trkpt lat="53.0649491" lon="8.77864"/><trkpt lat="53.0649159" lon="8.7785866"/><trkpt lat="53.0646139" lon="8.7789671"/><trkpt lat="53.0642609" lon="8.7794452"/><trkpt lat="53.0639502" lon="8.7799031"/><trkpt lat="53.0635184" lon="8.7805958"/><trkpt lat="53.0631394" lon="8.7812279"/><trkpt lat="53.0626929" lon="8.782007"/><trkpt lat="53.0619348" lon="8.7833131"/><trkpt lat="53.0617462" lon="8.783591"/><trkpt lat="53.061183" lon="8.7843836"/><trkpt lat="53.0607716" lon="8.7849266"/><trkpt lat="53.0604987" lon="8.7852393"/></trkseg></trk><trk><name>way/369445439</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/369445439</desc><trkseg><trkpt lat="53.0852933" lon="8.8036666"/><trkpt lat="53.0851283" lon="8.8040276"/><trkpt lat="53.0851197" lon="8.8040463"/><trkpt lat="53.0851956" lon="8.8041432"/><trkpt lat="53.0852832" lon="8.8042549"/><trkpt lat="53.0853206" lon="8.8043026"/><trkpt lat="53.0853379" lon="8.8043248"/><trkpt lat="53.0853805" lon="8.8043791"/><trkpt lat="53.0854053" lon="8.8044108"/><trkpt lat="53.0854163" lon="8.8043863"/><trkpt lat="53.085422" lon="8.8043931"/><trkpt lat="53.0855713" lon="8.8040601"/><trkpt lat="53.0855567" lon="8.8040394"/><trkpt lat="53.0855066" lon="8.8039685"/><trkpt lat="53.085447" lon="8.8038841"/><trkpt lat="53.0854187" lon="8.8038441"/><trkpt lat="53.0853632" lon="8.8037655"/><trkpt lat="53.0852933" lon="8.8036666"/></trkseg></trk><trk><name>way/369445440</name><desc>bridge:structure=beam
+layer=2
+man_made=bridge
+id=way/369445440</desc><trkseg><trkpt lat="53.0866904" lon="8.7970724"/><trkpt lat="53.0866809" lon="8.7970633"/><trkpt lat="53.0865324" lon="8.7969215"/><trkpt lat="53.0864921" lon="8.7968735"/><trkpt lat="53.0864436" lon="8.7968151"/><trkpt lat="53.0864053" lon="8.7967702"/><trkpt lat="53.0862698" lon="8.7965619"/><trkpt lat="53.0862392" lon="8.7965092"/><trkpt lat="53.0862443" lon="8.7964971"/><trkpt lat="53.0864624" lon="8.7967495"/><trkpt lat="53.0864745" lon="8.7967623"/><trkpt lat="53.0865281" lon="8.7968185"/><trkpt lat="53.0867133" lon="8.797013"/><trkpt lat="53.086878" lon="8.7971725"/><trkpt lat="53.0869377" lon="8.7972304"/><trkpt lat="53.0870806" lon="8.7973406"/><trkpt lat="53.0872254" lon="8.7974314"/><trkpt lat="53.0873547" lon="8.7974832"/><trkpt lat="53.0873719" lon="8.7974874"/><trkpt lat="53.0874818" lon="8.7975144"/><trkpt lat="53.0876334" lon="8.7975273"/><trkpt lat="53.0876492" lon="8.7975296"/><trkpt lat="53.087649" lon="8.7974539"/><trkpt lat="53.0876487" lon="8.7973493"/><trkpt lat="53.0876482" lon="8.7971528"/><trkpt lat="53.0876481" lon="8.7970953"/><trkpt lat="53.0875453" lon="8.79711"/><trkpt lat="53.0874314" lon="8.797112"/><trkpt lat="53.0873236" lon="8.7970887"/><trkpt lat="53.0872905" lon="8.7970779"/><trkpt lat="53.0871738" lon="8.7970421"/><trkpt lat="53.0870032" lon="8.7969407"/><trkpt lat="53.0867755" lon="8.7967419"/><trkpt lat="53.0866634" lon="8.7966176"/><trkpt lat="53.0865891" lon="8.7965351"/><trkpt lat="53.0864478" lon="8.7963779"/><trkpt lat="53.0863893" lon="8.7963107"/><trkpt lat="53.0863258" lon="8.7962307"/><trkpt lat="53.0861518" lon="8.7960088"/><trkpt lat="53.0861579" lon="8.7959925"/><trkpt lat="53.0863424" lon="8.7961839"/><trkpt lat="53.0863954" lon="8.796239"/><trkpt lat="53.0864934" lon="8.7963429"/><trkpt lat="53.0865161" lon="8.7962861"/><trkpt lat="53.0865412" lon="8.7962234"/><trkpt lat="53.0864449" lon="8.7961236"/><trkpt lat="53.0861215" lon="8.7957829"/><trkpt lat="53.0858718" lon="8.7955101"/><trkpt lat="53.0855229" lon="8.7950539"/><trkpt lat="53.0852592" lon="8.7946584"/><trkpt lat="53.0849644" lon="8.7942294"/><trkpt lat="53.0848882" lon="8.794128"/><trkpt lat="53.0848191" lon="8.7940361"/><trkpt lat="53.0847801" lon="8.7939843"/><trkpt lat="53.0847555" lon="8.7939516"/><trkpt lat="53.084669" lon="8.7938486"/><trkpt lat="53.084563" lon="8.7937224"/><trkpt lat="53.0844696" lon="8.7936236"/><trkpt lat="53.0843742" lon="8.7935227"/><trkpt lat="53.0842122" lon="8.7933645"/><trkpt lat="53.0839765" lon="8.7931728"/><trkpt lat="53.0838029" lon="8.79304"/><trkpt lat="53.0829062" lon="8.7923894"/><trkpt lat="53.082449" lon="8.7920639"/><trkpt lat="53.0824286" lon="8.7921462"/><trkpt lat="53.0823959" lon="8.7922784"/><trkpt lat="53.082382" lon="8.7923344"/><trkpt lat="53.0832915" lon="8.79298"/><trkpt lat="53.0835324" lon="8.793163"/><trkpt lat="53.0837879" lon="8.7933646"/><trkpt lat="53.0840852" lon="8.7936299"/><trkpt lat="53.0843157" lon="8.793867"/><trkpt lat="53.0845426" lon="8.7941408"/><trkpt lat="53.0847841" lon="8.7944463"/><trkpt lat="53.0848409" lon="8.7945335"/><trkpt lat="53.0849072" lon="8.7946352"/><trkpt lat="53.0849618" lon="8.7947189"/><trkpt lat="53.0850177" lon="8.7948124"/><trkpt lat="53.0851116" lon="8.7949914"/><trkpt lat="53.0851629" lon="8.7950721"/><trkpt lat="53.0852651" lon="8.7952293"/><trkpt lat="53.0857382" lon="8.7959433"/><trkpt lat="53.0858716" lon="8.7961531"/><trkpt lat="53.0861059" lon="8.7965448"/><trkpt lat="53.0862657" lon="8.7968086"/><trkpt lat="53.0863827" lon="8.7969916"/><trkpt lat="53.0865462" lon="8.797246"/><trkpt lat="53.0865577" lon="8.797264"/><trkpt lat="53.0865942" lon="8.7972113"/><trkpt lat="53.0866527" lon="8.7971268"/><trkpt lat="53.0866904" lon="8.7970724"/></trkseg></trk><trk><name>way/369445441</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/369445441</desc><trkseg><trkpt lat="53.0691208" lon="8.7740833"/><trkpt lat="53.0690881" lon="8.7741285"/><trkpt lat="53.0690352" lon="8.7741981"/><trkpt lat="53.0690376" lon="8.7743071"/><trkpt lat="53.069014" lon="8.7746479"/><trkpt lat="53.0689933" lon="8.7748797"/><trkpt lat="53.0690493" lon="8.7748407"/><trkpt lat="53.0690948" lon="8.7748119"/><trkpt lat="53.0691226" lon="8.7744269"/><trkpt lat="53.0691291" lon="8.7742717"/><trkpt lat="53.0691208" lon="8.7740833"/></trkseg></trk><trk><name>way/371282606</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282606</desc><trkseg><trkpt lat="53.0841394" lon="8.7931621"/><trkpt lat="53.0841145" lon="8.7931779"/><trkpt lat="53.0840882" lon="8.7931946"/><trkpt lat="53.084137" lon="8.7933638"/><trkpt lat="53.0842083" lon="8.7935936"/><trkpt lat="53.0842452" lon="8.7935913"/><trkpt lat="53.0842727" lon="8.7935897"/><trkpt lat="53.0843221" lon="8.793585"/><trkpt lat="53.0841968" lon="8.7931592"/><trkpt lat="53.0841885" lon="8.7931314"/><trkpt lat="53.0841394" lon="8.7931621"/></trkseg></trk><trk><name>Eisenbahnbrücke Bremen</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+name=Eisenbahnbrücke Bremen
+wikidata=Q16064103
+wikipedia=de:Eisenbahnbrücke Bremen
+id=way/371282607</desc><trkseg><trkpt lat="53.0813618" lon="8.7894936"/><trkpt lat="53.0813381" lon="8.7894772"/><trkpt lat="53.0795585" lon="8.7882449"/><trkpt lat="53.0795476" lon="8.7882884"/><trkpt lat="53.0795299" lon="8.7883592"/><trkpt lat="53.0795196" lon="8.7884003"/><trkpt lat="53.0813004" lon="8.7896334"/><trkpt lat="53.0813229" lon="8.789649"/><trkpt lat="53.0813332" lon="8.7896079"/><trkpt lat="53.0813509" lon="8.7895371"/><trkpt lat="53.0813573" lon="8.7895115"/><trkpt lat="53.0813618" lon="8.7894936"/></trkseg></trk><trk><name>way/371282608</name><desc>bridge:structure=beam
+landuse=railway
+man_made=bridge
+id=way/371282608</desc><trkseg><trkpt lat="53.0846863" lon="8.7949465"/><trkpt lat="53.0846957" lon="8.7949206"/><trkpt lat="53.0847212" lon="8.7948509"/><trkpt lat="53.0847475" lon="8.7947792"/><trkpt lat="53.084773" lon="8.7947094"/><trkpt lat="53.0847879" lon="8.7946688"/><trkpt lat="53.0845681" lon="8.7942151"/><trkpt lat="53.0845377" lon="8.7943051"/><trkpt lat="53.0845324" lon="8.7943205"/><trkpt lat="53.0845102" lon="8.7943862"/><trkpt lat="53.0844891" lon="8.7944487"/><trkpt lat="53.084448" lon="8.79457"/><trkpt lat="53.0846863" lon="8.7949465"/></trkseg></trk><trk><name>way/371282609</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282609</desc><trkseg><trkpt lat="53.0863502" lon="8.7970466"/><trkpt lat="53.0863302" lon="8.7970744"/><trkpt lat="53.0862984" lon="8.7971188"/><trkpt lat="53.0862638" lon="8.7971669"/><trkpt lat="53.0862361" lon="8.7972054"/><trkpt lat="53.0862163" lon="8.7972331"/><trkpt lat="53.0863731" lon="8.7974778"/><trkpt lat="53.0863948" lon="8.7974487"/><trkpt lat="53.0864264" lon="8.7974065"/><trkpt lat="53.0864601" lon="8.7973614"/><trkpt lat="53.0864936" lon="8.7973165"/><trkpt lat="53.0865155" lon="8.7972872"/><trkpt lat="53.0863502" lon="8.7970466"/></trkseg></trk><trk><name>way/371282611</name><desc>bridge:structure=beam
+landuse=railway
+man_made=bridge
+id=way/371282611</desc><trkseg><trkpt lat="53.0838952" lon="8.7935979"/><trkpt lat="53.0839314" lon="8.7935978"/><trkpt lat="53.0839378" lon="8.7935978"/><trkpt lat="53.0840046" lon="8.7935976"/><trkpt lat="53.0840674" lon="8.7935975"/><trkpt lat="53.0840904" lon="8.7935955"/><trkpt lat="53.0841304" lon="8.7935922"/><trkpt lat="53.0838884" lon="8.7931877"/><trkpt lat="53.0838466" lon="8.7931729"/><trkpt lat="53.0837391" lon="8.7931346"/><trkpt lat="53.083728" lon="8.7931306"/><trkpt lat="53.0836082" lon="8.7930376"/><trkpt lat="53.083546" lon="8.7929894"/><trkpt lat="53.0838952" lon="8.7935979"/></trkseg></trk><trk><name>way/371282612</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282612</desc><trkseg><trkpt lat="53.0805389" lon="8.802406"/><trkpt lat="53.08043" lon="8.8027556"/><trkpt lat="53.0803436" lon="8.8030667"/><trkpt lat="53.0802769" lon="8.8033228"/><trkpt lat="53.0802509" lon="8.8034321"/><trkpt lat="53.0802212" lon="8.8035554"/><trkpt lat="53.0801932" lon="8.8036764"/><trkpt lat="53.0801446" lon="8.8038922"/><trkpt lat="53.0800929" lon="8.8041318"/><trkpt lat="53.0800141" lon="8.8045088"/><trkpt lat="53.0800329" lon="8.8045182"/><trkpt lat="53.0800517" lon="8.8045276"/><trkpt lat="53.0800549" lon="8.8045292"/><trkpt lat="53.0800714" lon="8.8045372"/><trkpt lat="53.0800879" lon="8.8045453"/><trkpt lat="53.0801638" lon="8.804182"/><trkpt lat="53.0802189" lon="8.8039328"/><trkpt lat="53.0802644" lon="8.8037268"/><trkpt lat="53.0802928" lon="8.8036042"/><trkpt lat="53.08032" lon="8.8034869"/><trkpt lat="53.080347" lon="8.8033709"/><trkpt lat="53.0804087" lon="8.8031304"/><trkpt lat="53.0804971" lon="8.8028225"/><trkpt lat="53.0805455" lon="8.8026602"/><trkpt lat="53.0806068" lon="8.8024712"/><trkpt lat="53.0805908" lon="8.8024558"/><trkpt lat="53.0805748" lon="8.8024405"/><trkpt lat="53.0805712" lon="8.802437"/><trkpt lat="53.080555" lon="8.8024215"/><trkpt lat="53.0805389" lon="8.802406"/></trkseg></trk><trk><name>way/371282613</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282613</desc><trkseg><trkpt lat="53.0820828" lon="8.8729621"/><trkpt lat="53.0821298" lon="8.8740401"/><trkpt lat="53.0821798" lon="8.8752108"/><trkpt lat="53.0822129" lon="8.8759031"/><trkpt lat="53.0822299" lon="8.8762468"/><trkpt lat="53.0822778" lon="8.8771253"/><trkpt lat="53.0823509" lon="8.8781841"/><trkpt lat="53.0823807" lon="8.8781779"/><trkpt lat="53.0824607" lon="8.8781611"/><trkpt lat="53.0825072" lon="8.8781514"/><trkpt lat="53.082393" lon="8.8761388"/><trkpt lat="53.0823405" lon="8.8749587"/><trkpt lat="53.0822464" lon="8.8729452"/><trkpt lat="53.0822132" lon="8.8729486"/><trkpt lat="53.0821242" lon="8.8729578"/><trkpt lat="53.0820828" lon="8.8729621"/></trkseg></trk><trk><name>way/371282614</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282614</desc><trkseg><trkpt lat="53.0874785" lon="8.7987518"/><trkpt lat="53.0876292" lon="8.7988876"/><trkpt lat="53.0876483" lon="8.7988377"/><trkpt lat="53.0876501" lon="8.7988329"/><trkpt lat="53.0876691" lon="8.7987833"/><trkpt lat="53.0876895" lon="8.7987301"/><trkpt lat="53.087604" lon="8.7986551"/><trkpt lat="53.0873723" lon="8.7984517"/><trkpt lat="53.087361" lon="8.7985067"/><trkpt lat="53.087352" lon="8.7985511"/><trkpt lat="53.0873357" lon="8.7986304"/><trkpt lat="53.0874785" lon="8.7987518"/></trkseg></trk><trk><name>way/371282615</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282615</desc><trkseg><trkpt lat="53.0877225" lon="8.7975291"/><trkpt lat="53.0878215" lon="8.7975102"/><trkpt lat="53.0879377" lon="8.7974698"/><trkpt lat="53.0879862" lon="8.7974502"/><trkpt lat="53.0880722" lon="8.7974154"/><trkpt lat="53.0881001" lon="8.7974032"/><trkpt lat="53.0882071" lon="8.7973384"/><trkpt lat="53.0883227" lon="8.7972598"/><trkpt lat="53.0883711" lon="8.79722"/><trkpt lat="53.0884177" lon="8.7971838"/><trkpt lat="53.0883942" lon="8.7971064"/><trkpt lat="53.0883703" lon="8.7970273"/><trkpt lat="53.0883446" lon="8.7969425"/><trkpt lat="53.0882551" lon="8.7970111"/><trkpt lat="53.088211" lon="8.7970449"/><trkpt lat="53.0880539" lon="8.797141"/><trkpt lat="53.087986" lon="8.7971738"/><trkpt lat="53.0879264" lon="8.7972027"/><trkpt lat="53.0879092" lon="8.7972093"/><trkpt lat="53.0877817" lon="8.797245"/><trkpt lat="53.0877163" lon="8.7972613"/><trkpt lat="53.0877183" lon="8.7973477"/><trkpt lat="53.0877207" lon="8.7974517"/><trkpt lat="53.0877225" lon="8.7975291"/></trkseg></trk><trk><name>way/371282616</name><desc>bridge=viaduct
+bridge:structure=beam
+layer=3
+loc_name=Fly Over;Flyover;Fly-Over
+man_made=bridge
+id=way/371282616</desc><trkseg><trkpt lat="53.1012109" lon="8.798529"/><trkpt lat="53.1019923" lon="8.7994825"/><trkpt lat="53.1028842" lon="8.8004812"/><trkpt lat="53.1034059" lon="8.8010338"/><trkpt lat="53.1037689" lon="8.8013742"/><trkpt lat="53.1040568" lon="8.8016118"/><trkpt lat="53.1043454" lon="8.8018263"/><trkpt lat="53.1047674" lon="8.8020946"/><trkpt lat="53.1052121" lon="8.8023209"/><trkpt lat="53.1057405" lon="8.8025881"/><trkpt lat="53.1057561" lon="8.8025033"/><trkpt lat="53.1057718" lon="8.8024182"/><trkpt lat="53.1051384" lon="8.8021129"/><trkpt lat="53.1048806" lon="8.8019804"/><trkpt lat="53.1046228" lon="8.8018356"/><trkpt lat="53.1043399" lon="8.8016442"/><trkpt lat="53.1040792" lon="8.8014503"/><trkpt lat="53.1037801" lon="8.8011951"/><trkpt lat="53.103456" lon="8.8008835"/><trkpt lat="53.1030089" lon="8.8004222"/><trkpt lat="53.1025671" lon="8.7999339"/><trkpt lat="53.1020544" lon="8.7993517"/><trkpt lat="53.1017106" lon="8.7989353"/><trkpt lat="53.1012791" lon="8.7984077"/><trkpt lat="53.1012451" lon="8.7984683"/><trkpt lat="53.1012109" lon="8.798529"/></trkseg></trk><trk><name>way/371282617</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+id=way/371282617</desc><trkseg><trkpt lat="53.0796032" lon="8.8277863"/><trkpt lat="53.0796331" lon="8.8278042"/><trkpt lat="53.0796718" lon="8.8278273"/><trkpt lat="53.0796998" lon="8.827844"/><trkpt lat="53.0797061" lon="8.8278114"/><trkpt lat="53.0798367" lon="8.8271426"/><trkpt lat="53.0798511" lon="8.8270687"/><trkpt lat="53.0798664" lon="8.8269989"/><trkpt lat="53.0798359" lon="8.8269807"/><trkpt lat="53.0797989" lon="8.8269587"/><trkpt lat="53.0797739" lon="8.8269439"/><trkpt lat="53.0798093" lon="8.8267557"/><trkpt lat="53.0797771" lon="8.8267388"/><trkpt lat="53.0797351" lon="8.8267167"/><trkpt lat="53.079697" lon="8.8266968"/><trkpt lat="53.0797147" lon="8.8265508"/><trkpt lat="53.0796741" lon="8.8265328"/><trkpt lat="53.0796332" lon="8.8265147"/><trkpt lat="53.0795852" lon="8.8264935"/><trkpt lat="53.0795796" lon="8.826534"/><trkpt lat="53.0794827" lon="8.8271653"/><trkpt lat="53.0794538" lon="8.8273808"/><trkpt lat="53.0794993" lon="8.8274009"/><trkpt lat="53.0795351" lon="8.8274168"/><trkpt lat="53.0795601" lon="8.8274278"/><trkpt lat="53.0795401" lon="8.8275508"/><trkpt lat="53.0795695" lon="8.8275679"/><trkpt lat="53.0796089" lon="8.8275908"/><trkpt lat="53.0796351" lon="8.8276061"/><trkpt lat="53.0796032" lon="8.8277863"/></trkseg></trk><trk><name>way/371282618</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282618</desc><trkseg><trkpt lat="53.0818399" lon="8.851498"/><trkpt lat="53.0818034" lon="8.851523"/><trkpt lat="53.0817332" lon="8.8515712"/><trkpt lat="53.0816889" lon="8.8516016"/><trkpt lat="53.0821276" lon="8.8532012"/><trkpt lat="53.0822154" lon="8.8535261"/><trkpt lat="53.0822724" lon="8.8537927"/><trkpt lat="53.0823431" lon="8.8541818"/><trkpt lat="53.0823887" lon="8.8544931"/><trkpt lat="53.0824172" lon="8.8547479"/><trkpt lat="53.0824599" lon="8.8552422"/><trkpt lat="53.0824901" lon="8.8557217"/><trkpt lat="53.0825116" lon="8.8561425"/><trkpt lat="53.0825255" lon="8.8566898"/><trkpt lat="53.0825354" lon="8.857136"/><trkpt lat="53.0825724" lon="8.8571348"/><trkpt lat="53.0826541" lon="8.8571322"/><trkpt lat="53.0826956" lon="8.8571309"/><trkpt lat="53.0826934" lon="8.8568292"/><trkpt lat="53.0826848" lon="8.8563628"/><trkpt lat="53.0826606" lon="8.8558095"/><trkpt lat="53.0826287" lon="8.8553125"/><trkpt lat="53.082591" lon="8.8548573"/><trkpt lat="53.0825543" lon="8.8544971"/><trkpt lat="53.0825147" lon="8.8542188"/><trkpt lat="53.0824722" lon="8.853947"/><trkpt lat="53.0824326" lon="8.8537299"/><trkpt lat="53.0823679" lon="8.8534516"/><trkpt lat="53.0823031" lon="8.8531814"/><trkpt lat="53.0818399" lon="8.851498"/></trkseg></trk><trk><name>way/371282626</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282626</desc><trkseg><trkpt lat="53.065866" lon="8.7774138"/><trkpt lat="53.0659068" lon="8.7774527"/><trkpt lat="53.0662472" lon="8.777777"/><trkpt lat="53.066326" lon="8.7777019"/><trkpt lat="53.0664078" lon="8.777624"/><trkpt lat="53.0664941" lon="8.7775417"/><trkpt lat="53.0661111" lon="8.7771763"/><trkpt lat="53.0660291" lon="8.7772558"/><trkpt lat="53.0659441" lon="8.7773381"/><trkpt lat="53.065866" lon="8.7774138"/></trkseg></trk><trk><name>way/371282627</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282627</desc><trkseg><trkpt lat="53.0825467" lon="8.7927643"/><trkpt lat="53.0825867" lon="8.7927976"/><trkpt lat="53.0828877" lon="8.7930447"/><trkpt lat="53.0829248" lon="8.7930762"/><trkpt lat="53.0829298" lon="8.7929817"/><trkpt lat="53.0829342" lon="8.7928965"/><trkpt lat="53.0829067" lon="8.7928755"/><trkpt lat="53.0825591" lon="8.7925819"/><trkpt lat="53.0825531" lon="8.7926706"/><trkpt lat="53.0825467" lon="8.7927643"/></trkseg></trk><trk><name>way/371282628</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371282628</desc><trkseg><trkpt lat="53.0691678" lon="8.7803766"/><trkpt lat="53.0691917" lon="8.7803128"/><trkpt lat="53.0692363" lon="8.7801934"/><trkpt lat="53.0692595" lon="8.7801315"/><trkpt lat="53.0688196" lon="8.7796762"/><trkpt lat="53.0685935" lon="8.7794565"/><trkpt lat="53.0684306" lon="8.7793028"/><trkpt lat="53.0679908" lon="8.7789173"/><trkpt lat="53.0679709" lon="8.7789801"/><trkpt lat="53.0679333" lon="8.7790987"/><trkpt lat="53.0679103" lon="8.7791712"/><trkpt lat="53.0684503" lon="8.7796579"/><trkpt lat="53.0687174" lon="8.7799106"/><trkpt lat="53.0691678" lon="8.7803766"/></trkseg></trk><trk><name>way/371364831</name><desc>bridge:structure=truss
+description=Bremens älteste Brücke
+historic=bridge
+layer=1
+man_made=bridge
+source:description=http://www.asv.bremen.de/sixcms/detail.php?gsid=bremen122.c.1780.de
+start_date=1843
+id=way/371364831</desc><trkseg><trkpt lat="53.1118571" lon="8.7918755"/><trkpt lat="53.111897" lon="8.7916669"/><trkpt lat="53.1118868" lon="8.7916616"/><trkpt lat="53.1118767" lon="8.7916562"/><trkpt lat="53.1118369" lon="8.7918648"/><trkpt lat="53.111847" lon="8.7918702"/><trkpt lat="53.1118571" lon="8.7918755"/></trkseg></trk><trk><name>way/371364832</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371364832</desc><trkseg><trkpt lat="53.0538377" lon="8.8509596"/><trkpt lat="53.0538481" lon="8.8509418"/><trkpt lat="53.0538893" lon="8.8508712"/><trkpt lat="53.0539219" lon="8.8508153"/><trkpt lat="53.0537107" lon="8.8506591"/><trkpt lat="53.0536751" lon="8.8507152"/><trkpt lat="53.053634" lon="8.8507801"/><trkpt lat="53.0536195" lon="8.850803"/><trkpt lat="53.0538377" lon="8.8509596"/></trkseg></trk><trk><name>Brücke Bischofstor</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+name=Brücke Bischofstor
+source:name=http://www.asv.bremen.de/sixcms/detail.php?gsid=bremen122.c.1780.de
+start_date=1954
+wikipedia=de:Bischofstor (Bremen)
+id=way/371364833</desc><trkseg><trkpt lat="53.0770938" lon="8.8146595"/><trkpt lat="53.0771111" lon="8.8146454"/><trkpt lat="53.0770212" lon="8.8143414"/><trkpt lat="53.0770144" lon="8.8143469"/><trkpt lat="53.0770039" lon="8.8143555"/><trkpt lat="53.0769898" lon="8.8143671"/><trkpt lat="53.0769836" lon="8.8143721"/><trkpt lat="53.0770736" lon="8.8146761"/><trkpt lat="53.0770938" lon="8.8146595"/></trkseg></trk><trk><name>Brückenstrang Blumenthal</name><desc>layer=1
+man_made=bridge
+name=Brückenstrang Blumenthal
+source:name=http://www.asv.bremen.de/sixcms/detail.php?gsid=bremen122.c.1780.de
+id=way/371364834</desc><trkseg><trkpt lat="53.1848364" lon="8.5827958"/><trkpt lat="53.1850647" lon="8.5823586"/><trkpt lat="53.1854251" lon="8.581749"/><trkpt lat="53.1856234" lon="8.5814668"/><trkpt lat="53.1857179" lon="8.5813278"/><trkpt lat="53.1858505" lon="8.5811687"/><trkpt lat="53.1858975" lon="8.5811114"/><trkpt lat="53.1860637" lon="8.5809456"/><trkpt lat="53.1862841" lon="8.5807014"/><trkpt lat="53.1865786" lon="8.5803366"/><trkpt lat="53.186864" lon="8.5799838"/><trkpt lat="53.1870392" lon="8.5797788"/><trkpt lat="53.1873463" lon="8.57942"/><trkpt lat="53.1875714" lon="8.5791289"/><trkpt lat="53.187675" lon="8.5789765"/><trkpt lat="53.1877852" lon="8.5788003"/><trkpt lat="53.1879028" lon="8.578609"/><trkpt lat="53.1880232" lon="8.578395"/><trkpt lat="53.1881966" lon="8.5780484"/><trkpt lat="53.1881567" lon="8.5779988"/><trkpt lat="53.1881208" lon="8.5779542"/><trkpt lat="53.1879719" lon="8.5782579"/><trkpt lat="53.1877795" lon="8.5785976"/><trkpt lat="53.1876172" lon="8.5788528"/><trkpt lat="53.1875352" lon="8.5789814"/><trkpt lat="53.1872581" lon="8.5793355"/><trkpt lat="53.1872517" lon="8.5793233"/><trkpt lat="53.1874107" lon="8.5790751"/><trkpt lat="53.1875897" lon="8.5787716"/><trkpt lat="53.187756" lon="8.578463"/><trkpt lat="53.1879285" lon="8.5781047"/><trkpt lat="53.1881345" lon="8.5776283"/><trkpt lat="53.1882995" lon="8.5772078"/><trkpt lat="53.1884351" lon="8.576846"/><trkpt lat="53.1884773" lon="8.5767201"/><trkpt lat="53.1884309" lon="8.5766776"/><trkpt lat="53.1883591" lon="8.5766118"/><trkpt lat="53.1883035" lon="8.5765609"/><trkpt lat="53.188247" lon="8.5767375"/><trkpt lat="53.1880333" lon="8.5773312"/><trkpt lat="53.1877879" lon="8.577885"/><trkpt lat="53.1875986" lon="8.5782712"/><trkpt lat="53.1874514" lon="8.578552"/><trkpt lat="53.1873462" lon="8.5787665"/><trkpt lat="53.1871499" lon="8.5790981"/><trkpt lat="53.1869784" lon="8.579343"/><trkpt lat="53.1869242" lon="8.5794082"/><trkpt lat="53.1869751" lon="8.5792599"/><trkpt lat="53.187041" lon="8.5790059"/><trkpt lat="53.1870988" lon="8.5786496"/><trkpt lat="53.1871174" lon="8.5784478"/><trkpt lat="53.1870681" lon="8.5784362"/><trkpt lat="53.1870125" lon="8.5784232"/><trkpt lat="53.1869991" lon="8.5785898"/><trkpt lat="53.1869632" lon="8.5788794"/><trkpt lat="53.186893" lon="8.5791812"/><trkpt lat="53.1868118" lon="8.5793953"/><trkpt lat="53.1867242" lon="8.5795765"/><trkpt lat="53.1865794" lon="8.5797987"/><trkpt lat="53.186035" lon="8.5804536"/><trkpt lat="53.1856366" lon="8.5809725"/><trkpt lat="53.1854487" lon="8.5811927"/><trkpt lat="53.1852402" lon="8.581502"/><trkpt lat="53.1848566" lon="8.5821422"/><trkpt lat="53.1846572" lon="8.5825519"/><trkpt lat="53.1847321" lon="8.5826539"/><trkpt lat="53.1847982" lon="8.5827438"/><trkpt lat="53.1848364" lon="8.5827958"/></trkseg></trk><trk><name>Karl-Carstens-Brücke</name><desc>alt_name=Werderbrücke
+bridge:structure=beam
+layer=1
+loc_name=Erdbeerbrücke
+man_made=bridge
+name=Karl-Carstens-Brücke
+wikidata=Q1729713
+wikipedia=de:Karl-Carstens-Brücke
+id=way/371364850</desc><trkseg><trkpt lat="53.0602326" lon="8.8527261"/><trkpt lat="53.0602297" lon="8.8528141"/><trkpt lat="53.0603092" lon="8.8528214"/><trkpt lat="53.0603121" lon="8.8527335"/><trkpt lat="53.0605154" lon="8.8527522"/><trkpt lat="53.0605161" lon="8.852708"/><trkpt lat="53.0605173" lon="8.8526426"/><trkpt lat="53.0605178" lon="8.8526138"/><trkpt lat="53.0605193" lon="8.8525277"/><trkpt lat="53.0603811" lon="8.8525171"/><trkpt lat="53.0600561" lon="8.8524893"/><trkpt lat="53.0593229" lon="8.8524358"/><trkpt lat="53.0586827" lon="8.8523806"/><trkpt lat="53.058206" lon="8.8523428"/><trkpt lat="53.0573981" lon="8.852264"/><trkpt lat="53.0569863" lon="8.8521958"/><trkpt lat="53.0566663" lon="8.852126"/><trkpt lat="53.0564546" lon="8.8520692"/><trkpt lat="53.0562146" lon="8.8519977"/><trkpt lat="53.0558038" lon="8.8518549"/><trkpt lat="53.0555219" lon="8.8517396"/><trkpt lat="53.0552604" lon="8.8516195"/><trkpt lat="53.055063" lon="8.8515195"/><trkpt lat="53.0550389" lon="8.8515828"/><trkpt lat="53.0550299" lon="8.8516062"/><trkpt lat="53.0550077" lon="8.8516645"/><trkpt lat="53.0549955" lon="8.8516964"/><trkpt lat="53.0552296" lon="8.8518115"/><trkpt lat="53.0554911" lon="8.8519322"/><trkpt lat="53.0557767" lon="8.8520413"/><trkpt lat="53.0562222" lon="8.8522015"/><trkpt lat="53.0565272" lon="8.8522883"/><trkpt lat="53.0568215" lon="8.8523573"/><trkpt lat="53.0571019" lon="8.8524145"/><trkpt lat="53.0574563" lon="8.8524712"/><trkpt lat="53.0583818" lon="8.8525705"/><trkpt lat="53.0586927" lon="8.8525948"/><trkpt lat="53.0587324" lon="8.8525979"/><trkpt lat="53.0588485" lon="8.852607"/><trkpt lat="53.0600275" lon="8.8527072"/><trkpt lat="53.0602326" lon="8.8527261"/></trkseg></trk><trk><name>Teerhofbrücke</name><desc>bridge:structure=box_girder
+image=https://photos.app.goo.gl/d3yYoJuDKwDZFJeK7
+layer=1
+loc_name=Grüne Banane
+man_made=bridge
+name=Teerhofbrücke
+name:etymology:wikidata=Q971860
+start_date=1993
+wikidata=Q19309869
+wikipedia=de:Teerhofbrücke
+id=way/371364861</desc><trkseg><trkpt lat="53.0757666" lon="8.800657"/><trkpt lat="53.0757473" lon="8.800681"/><trkpt lat="53.0757279" lon="8.800705"/><trkpt lat="53.0762034" lon="8.8016102"/><trkpt lat="53.0762664" lon="8.801788"/><trkpt lat="53.0763456" lon="8.8019878"/><trkpt lat="53.0763884" lon="8.8019265"/><trkpt lat="53.0764229" lon="8.8018769"/><trkpt lat="53.0762373" lon="8.8015711"/><trkpt lat="53.0757666" lon="8.800657"/></trkseg></trk><trk><name>Wümmebrücke</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+name=Wümmebrücke
+id=way/371364864</desc><trkseg><trkpt lat="53.1641026" lon="8.7517429"/><trkpt lat="53.165124" lon="8.75233"/><trkpt lat="53.1651307" lon="8.7523014"/><trkpt lat="53.1651536" lon="8.7522037"/><trkpt lat="53.1651771" lon="8.7521082"/><trkpt lat="53.165188" lon="8.7520744"/><trkpt lat="53.1641826" lon="8.7514442"/><trkpt lat="53.1641744" lon="8.7514758"/><trkpt lat="53.1641372" lon="8.7516058"/><trkpt lat="53.16411" lon="8.7517137"/><trkpt lat="53.1641026" lon="8.7517429"/></trkseg></trk><trk><name>way/371370419</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371370419</desc><trkseg><trkpt lat="53.0317661" lon="8.8656054"/><trkpt lat="53.0346489" lon="8.8724213"/><trkpt lat="53.0347302" lon="8.8723275"/><trkpt lat="53.0348378" lon="8.8722034"/><trkpt lat="53.0349135" lon="8.872116"/><trkpt lat="53.0320384" lon="8.8652873"/><trkpt lat="53.0320116" lon="8.8653186"/><trkpt lat="53.0319561" lon="8.8653834"/><trkpt lat="53.0318501" lon="8.8655073"/><trkpt lat="53.0317661" lon="8.8656054"/></trkseg></trk><trk><name>way/371410145</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/371410145</desc><trkseg><trkpt lat="53.0503143" lon="8.8897361"/><trkpt lat="53.0503601" lon="8.8896449"/><trkpt lat="53.050419" lon="8.8895275"/><trkpt lat="53.0504763" lon="8.8894135"/><trkpt lat="53.0505176" lon="8.8893312"/><trkpt lat="53.0501641" lon="8.8895691"/><trkpt lat="53.0501516" lon="8.8895942"/><trkpt lat="53.0501279" lon="8.8896434"/><trkpt lat="53.0500754" lon="8.8897523"/><trkpt lat="53.0500201" lon="8.889867"/><trkpt lat="53.0499759" lon="8.8899588"/><trkpt lat="53.0503143" lon="8.8897361"/></trkseg></trk><trk><name>way/372143293</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143293</desc><trkseg><trkpt lat="53.1412406" lon="8.7182646"/><trkpt lat="53.1410095" lon="8.7178617"/><trkpt lat="53.1409965" lon="8.7178825"/><trkpt lat="53.1409676" lon="8.7179285"/><trkpt lat="53.1409386" lon="8.7179747"/><trkpt lat="53.1409225" lon="8.7180005"/><trkpt lat="53.1411536" lon="8.7184033"/><trkpt lat="53.141166" lon="8.7183836"/><trkpt lat="53.1411957" lon="8.7183363"/><trkpt lat="53.1412239" lon="8.7182912"/><trkpt lat="53.1412406" lon="8.7182646"/></trkseg></trk><trk><name>way/372143294</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143294</desc><trkseg><trkpt lat="53.0494562" lon="8.7156366"/><trkpt lat="53.049742" lon="8.7155905"/><trkpt lat="53.0497185" lon="8.7155256"/><trkpt lat="53.0496969" lon="8.7154634"/><trkpt lat="53.0496806" lon="8.7154175"/><trkpt lat="53.0496585" lon="8.7153675"/><trkpt lat="53.0496254" lon="8.7152619"/><trkpt lat="53.0493331" lon="8.7153009"/><trkpt lat="53.0493714" lon="8.7154127"/><trkpt lat="53.0493902" lon="8.7154567"/><trkpt lat="53.0494075" lon="8.715504"/><trkpt lat="53.0494259" lon="8.7155601"/><trkpt lat="53.0494562" lon="8.7156366"/></trkseg></trk><trk><name>way/372143295</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143295</desc><trkseg><trkpt lat="53.1372326" lon="8.7087293"/><trkpt lat="53.1372423" lon="8.7087357"/><trkpt lat="53.1372953" lon="8.7087704"/><trkpt lat="53.1373544" lon="8.7088093"/><trkpt lat="53.1373662" lon="8.7087594"/><trkpt lat="53.1374537" lon="8.7083893"/><trkpt lat="53.1373951" lon="8.7083508"/><trkpt lat="53.1373381" lon="8.7083134"/><trkpt lat="53.137332" lon="8.7083093"/><trkpt lat="53.1373278" lon="8.7083267"/><trkpt lat="53.1372478" lon="8.7086652"/><trkpt lat="53.1372326" lon="8.7087293"/></trkseg></trk><trk><name>way/372143296</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143296</desc><trkseg><trkpt lat="53.1295827" lon="8.7596108"/><trkpt lat="53.1296098" lon="8.7596208"/><trkpt lat="53.1296537" lon="8.759637"/><trkpt lat="53.1297015" lon="8.7596546"/><trkpt lat="53.1297377" lon="8.7596679"/><trkpt lat="53.1298217" lon="8.7594881"/><trkpt lat="53.129787" lon="8.7594741"/><trkpt lat="53.1297411" lon="8.7594558"/><trkpt lat="53.1296961" lon="8.7594378"/><trkpt lat="53.1296715" lon="8.7594279"/><trkpt lat="53.1296267" lon="8.7595201"/><trkpt lat="53.1296125" lon="8.7595494"/><trkpt lat="53.1295943" lon="8.7595868"/><trkpt lat="53.1295827" lon="8.7596108"/></trkseg></trk><trk><name>way/372143297</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143297</desc><trkseg><trkpt lat="53.1015467" lon="8.83807"/><trkpt lat="53.1015372" lon="8.8381582"/><trkpt lat="53.1014861" lon="8.8386697"/><trkpt lat="53.1015201" lon="8.8386924"/><trkpt lat="53.1015536" lon="8.8387147"/><trkpt lat="53.101581" lon="8.838733"/><trkpt lat="53.1015819" lon="8.8387238"/><trkpt lat="53.1016369" lon="8.83819"/><trkpt lat="53.1016427" lon="8.8381318"/><trkpt lat="53.1016146" lon="8.8381137"/><trkpt lat="53.1015797" lon="8.8380912"/><trkpt lat="53.1015467" lon="8.83807"/></trkseg></trk><trk><name>way/372143298</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143298</desc><trkseg><trkpt lat="53.1412613" lon="8.7181886"/><trkpt lat="53.1412685" lon="8.7182073"/><trkpt lat="53.1412858" lon="8.7181798"/><trkpt lat="53.1413044" lon="8.7181504"/><trkpt lat="53.1412962" lon="8.7181309"/><trkpt lat="53.1411659" lon="8.7177956"/><trkpt lat="53.1411309" lon="8.7177057"/><trkpt lat="53.141124" lon="8.7176892"/><trkpt lat="53.1411038" lon="8.7177224"/><trkpt lat="53.1410879" lon="8.7177485"/><trkpt lat="53.1410948" lon="8.7177663"/><trkpt lat="53.1412613" lon="8.7181886"/></trkseg></trk><trk><name>way/372143299</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143299</desc><trkseg><trkpt lat="53.0529454" lon="8.7404047"/><trkpt lat="53.0528982" lon="8.7404068"/><trkpt lat="53.0528272" lon="8.7404101"/><trkpt lat="53.0527772" lon="8.7404124"/><trkpt lat="53.0527785" lon="8.7404943"/><trkpt lat="53.052793" lon="8.7413677"/><trkpt lat="53.0527941" lon="8.7414292"/><trkpt lat="53.0528446" lon="8.7414269"/><trkpt lat="53.052914" lon="8.7414237"/><trkpt lat="53.0529623" lon="8.7414215"/><trkpt lat="53.052961" lon="8.7413446"/><trkpt lat="53.0529463" lon="8.7404621"/><trkpt lat="53.0529454" lon="8.7404047"/></trkseg></trk><trk><name>way/372143300</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143300</desc><trkseg><trkpt lat="53.0320146" lon="8.8388271"/><trkpt lat="53.0321703" lon="8.8386523"/><trkpt lat="53.0321729" lon="8.8386493"/><trkpt lat="53.0321601" lon="8.8386161"/><trkpt lat="53.0321362" lon="8.8385539"/><trkpt lat="53.0321218" lon="8.8385165"/><trkpt lat="53.0319667" lon="8.8386888"/><trkpt lat="53.0319813" lon="8.8387335"/><trkpt lat="53.0320003" lon="8.8387916"/><trkpt lat="53.0320127" lon="8.8388295"/><trkpt lat="53.0320146" lon="8.8388271"/></trkseg></trk><trk><name>way/372143301</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143301</desc><trkseg><trkpt lat="53.1730062" lon="8.6783533"/><trkpt lat="53.1729885" lon="8.678655"/><trkpt lat="53.1729819" lon="8.6787662"/><trkpt lat="53.1729735" lon="8.678913"/><trkpt lat="53.1730544" lon="8.6787258"/><trkpt lat="53.1731873" lon="8.6787445"/><trkpt lat="53.1732046" lon="8.6783205"/><trkpt lat="53.1732186" lon="8.6779501"/><trkpt lat="53.1732367" lon="8.6774706"/><trkpt lat="53.1732374" lon="8.6772967"/><trkpt lat="53.1732013" lon="8.6775618"/><trkpt lat="53.1731923" lon="8.677613"/><trkpt lat="53.1730452" lon="8.6775968"/><trkpt lat="53.1730231" lon="8.6781805"/><trkpt lat="53.1730062" lon="8.6783533"/></trkseg></trk><trk><name>way/372143302</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143302</desc><trkseg><trkpt lat="53.0387159" lon="8.8864656"/><trkpt lat="53.0386214" lon="8.8865065"/><trkpt lat="53.0384768" lon="8.8865692"/><trkpt lat="53.0383332" lon="8.8866313"/><trkpt lat="53.0381905" lon="8.8866933"/><trkpt lat="53.0381002" lon="8.8867324"/><trkpt lat="53.0381038" lon="8.8867614"/><trkpt lat="53.0381528" lon="8.8871553"/><trkpt lat="53.0381557" lon="8.8871785"/><trkpt lat="53.0382495" lon="8.8871374"/><trkpt lat="53.0383914" lon="8.8870752"/><trkpt lat="53.0385303" lon="8.8870143"/><trkpt lat="53.0386725" lon="8.886952"/><trkpt lat="53.0387688" lon="8.8869098"/><trkpt lat="53.0387661" lon="8.8868875"/><trkpt lat="53.0387169" lon="8.8864744"/><trkpt lat="53.0387159" lon="8.8864656"/></trkseg></trk><trk><name>way/372143303</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143303</desc><trkseg><trkpt lat="53.0568004" lon="8.8820878"/><trkpt lat="53.0568138" lon="8.8821687"/><trkpt lat="53.0568418" lon="8.8823373"/><trkpt lat="53.0568563" lon="8.8824244"/><trkpt lat="53.0568783" lon="8.8824143"/><trkpt lat="53.0572025" lon="8.8822653"/><trkpt lat="53.0575543" lon="8.8821037"/><trkpt lat="53.0575824" lon="8.8820908"/><trkpt lat="53.0588319" lon="8.8815167"/><trkpt lat="53.0588777" lon="8.8814956"/><trkpt lat="53.059238" lon="8.8813301"/><trkpt lat="53.059224" lon="8.881246"/><trkpt lat="53.0591969" lon="8.8810826"/><trkpt lat="53.0591821" lon="8.8809935"/><trkpt lat="53.0575356" lon="8.8817501"/><trkpt lat="53.0568612" lon="8.8820599"/><trkpt lat="53.0568004" lon="8.8820878"/></trkseg></trk><trk><name>way/372143304</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143304</desc><trkseg><trkpt lat="53.033779" lon="8.8345395"/><trkpt lat="53.0338083" lon="8.8344453"/><trkpt lat="53.0338505" lon="8.8343094"/><trkpt lat="53.0338931" lon="8.8341724"/><trkpt lat="53.0339317" lon="8.834048"/><trkpt lat="53.0339615" lon="8.8339523"/><trkpt lat="53.0339382" lon="8.8339323"/><trkpt lat="53.0339112" lon="8.8339091"/><trkpt lat="53.0338881" lon="8.8338893"/><trkpt lat="53.0338593" lon="8.8339819"/><trkpt lat="53.0338193" lon="8.8341105"/><trkpt lat="53.0337734" lon="8.8342582"/><trkpt lat="53.0337322" lon="8.8343906"/><trkpt lat="53.0337056" lon="8.8344764"/><trkpt lat="53.0337272" lon="8.8344949"/><trkpt lat="53.0337564" lon="8.8345201"/><trkpt lat="53.033779" lon="8.8345395"/></trkseg></trk><trk><name>way/372143305</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143305</desc><trkseg><trkpt lat="53.1738473" lon="8.6973587"/><trkpt lat="53.1738621" lon="8.6975543"/><trkpt lat="53.1738757" lon="8.6977338"/><trkpt lat="53.1738956" lon="8.6976634"/><trkpt lat="53.1739325" lon="8.697616"/><trkpt lat="53.1739839" lon="8.6975828"/><trkpt lat="53.1740231" lon="8.6975664"/><trkpt lat="53.1740416" lon="8.6975845"/><trkpt lat="53.1740323" lon="8.6974568"/><trkpt lat="53.1740215" lon="8.6973084"/><trkpt lat="53.174009" lon="8.6973518"/><trkpt lat="53.1739922" lon="8.6973781"/><trkpt lat="53.1739493" lon="8.6974107"/><trkpt lat="53.1739173" lon="8.6974233"/><trkpt lat="53.1738853" lon="8.6974197"/><trkpt lat="53.1738652" lon="8.6973962"/><trkpt lat="53.1738473" lon="8.6973587"/></trkseg></trk><trk><name>way/372143306</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143306</desc><trkseg><trkpt lat="53.0370049" lon="8.9118281"/><trkpt lat="53.0369921" lon="8.9117424"/><trkpt lat="53.0369679" lon="8.9116256"/><trkpt lat="53.0369293" lon="8.91149"/><trkpt lat="53.0368748" lon="8.9113469"/><trkpt lat="53.0368299" lon="8.9112515"/><trkpt lat="53.0367692" lon="8.911154"/><trkpt lat="53.0366873" lon="8.9110461"/><trkpt lat="53.0366008" lon="8.9109576"/><trkpt lat="53.0365855" lon="8.9110077"/><trkpt lat="53.0365696" lon="8.9110599"/><trkpt lat="53.0366257" lon="8.9111104"/><trkpt lat="53.036701" lon="8.9111954"/><trkpt lat="53.036765" lon="8.9112923"/><trkpt lat="53.0368274" lon="8.911416"/><trkpt lat="53.0368806" lon="8.9115585"/><trkpt lat="53.0369201" lon="8.9117155"/><trkpt lat="53.0369392" lon="8.9118502"/><trkpt lat="53.0369741" lon="8.9118384"/><trkpt lat="53.0370049" lon="8.9118281"/></trkseg></trk><trk><name>way/372143307</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143307</desc><trkseg><trkpt lat="53.1739425" lon="8.6489497"/><trkpt lat="53.1738795" lon="8.64921"/><trkpt lat="53.1738157" lon="8.6494742"/><trkpt lat="53.1737607" lon="8.6497018"/><trkpt lat="53.1737253" lon="8.6498482"/><trkpt lat="53.1736913" lon="8.6499888"/><trkpt lat="53.1737083" lon="8.6500078"/><trkpt lat="53.1737408" lon="8.6500441"/><trkpt lat="53.1737735" lon="8.6501166"/><trkpt lat="53.1737956" lon="8.6502294"/><trkpt lat="53.1738481" lon="8.6506257"/><trkpt lat="53.173856" lon="8.650701"/><trkpt lat="53.1739124" lon="8.6504312"/><trkpt lat="53.1739806" lon="8.650105"/><trkpt lat="53.1740428" lon="8.6498075"/><trkpt lat="53.1740708" lon="8.6496736"/><trkpt lat="53.1740993" lon="8.6495374"/><trkpt lat="53.1740579" lon="8.6494934"/><trkpt lat="53.1740333" lon="8.6494418"/><trkpt lat="53.1740057" lon="8.6493325"/><trkpt lat="53.1739724" lon="8.6491377"/><trkpt lat="53.1739477" lon="8.6489826"/><trkpt lat="53.1739425" lon="8.6489497"/></trkseg></trk><trk><name>way/372143309</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143309</desc><trkseg><trkpt lat="53.1380024" lon="8.7156474"/><trkpt lat="53.1380483" lon="8.7157124"/><trkpt lat="53.1380968" lon="8.7157211"/><trkpt lat="53.1381217" lon="8.7157256"/><trkpt lat="53.1381415" lon="8.7157291"/><trkpt lat="53.1383176" lon="8.7157776"/><trkpt lat="53.1384862" lon="8.7158467"/><trkpt lat="53.1386278" lon="8.7159075"/><trkpt lat="53.13885" lon="8.7160322"/><trkpt lat="53.1387828" lon="8.7159395"/><trkpt lat="53.1387028" lon="8.7158274"/><trkpt lat="53.1386007" lon="8.7156838"/><trkpt lat="53.1385242" lon="8.7155756"/><trkpt lat="53.1384516" lon="8.7154758"/><trkpt lat="53.1383735" lon="8.7153646"/><trkpt lat="53.1383243" lon="8.7152954"/><trkpt lat="53.1382341" lon="8.715268"/><trkpt lat="53.1381565" lon="8.7152472"/><trkpt lat="53.1379494" lon="8.7152069"/><trkpt lat="53.137785" lon="8.7151841"/><trkpt lat="53.1377483" lon="8.7151817"/><trkpt lat="53.1376732" lon="8.7151767"/><trkpt lat="53.1377142" lon="8.7152353"/><trkpt lat="53.1377711" lon="8.7153162"/><trkpt lat="53.1378281" lon="8.7153979"/><trkpt lat="53.1378854" lon="8.7154805"/><trkpt lat="53.1379457" lon="8.7155661"/><trkpt lat="53.1380024" lon="8.7156474"/></trkseg></trk><trk><name>way/372143310</name><desc>layer=1
+lit=yes
+man_made=bridge
+surface=asphalt
+id=way/372143310</desc><trkseg><trkpt lat="53.1784765" lon="8.7113405"/><trkpt lat="53.1785211" lon="8.7114517"/><trkpt lat="53.1785857" lon="8.7116129"/><trkpt lat="53.1786293" lon="8.7117218"/><trkpt lat="53.1797453" lon="8.7104352"/><trkpt lat="53.1808777" lon="8.709171"/><trkpt lat="53.1814681" lon="8.7085682"/><trkpt lat="53.1821801" lon="8.7078962"/><trkpt lat="53.1827444" lon="8.7074116"/><trkpt lat="53.1831762" lon="8.7070661"/><trkpt lat="53.1835197" lon="8.7068186"/><trkpt lat="53.1835493" lon="8.7067973"/><trkpt lat="53.1837703" lon="8.7066382"/><trkpt lat="53.1840052" lon="8.7064778"/><trkpt lat="53.1841086" lon="8.7064073"/><trkpt lat="53.1842222" lon="8.706332"/><trkpt lat="53.1842553" lon="8.70631"/><trkpt lat="53.1842251" lon="8.7061897"/><trkpt lat="53.1841791" lon="8.706006"/><trkpt lat="53.1841475" lon="8.70588"/><trkpt lat="53.1836799" lon="8.706202"/><trkpt lat="53.1832632" lon="8.7064996"/><trkpt lat="53.1829141" lon="8.7067633"/><trkpt lat="53.1825598" lon="8.7070461"/><trkpt lat="53.1820744" lon="8.7074692"/><trkpt lat="53.1816121" lon="8.7078964"/><trkpt lat="53.1814232" lon="8.708071"/><trkpt lat="53.1809403" lon="8.7085643"/><trkpt lat="53.1804675" lon="8.7090704"/><trkpt lat="53.1799361" lon="8.70967"/><trkpt lat="53.1793104" lon="8.7103866"/><trkpt lat="53.1788542" lon="8.7109033"/><trkpt lat="53.1784765" lon="8.7113405"/></trkseg></trk><trk><name>way/372143311</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143311</desc><trkseg><trkpt lat="53.1285963" lon="8.7590253"/><trkpt lat="53.12853" lon="8.7591161"/><trkpt lat="53.1285153" lon="8.7591363"/><trkpt lat="53.1285015" lon="8.7591551"/><trkpt lat="53.1284718" lon="8.7591958"/><trkpt lat="53.1284596" lon="8.7592125"/><trkpt lat="53.1285037" lon="8.7592275"/><trkpt lat="53.1285462" lon="8.7592432"/><trkpt lat="53.1285949" lon="8.7592595"/><trkpt lat="53.1286504" lon="8.7592777"/><trkpt lat="53.1286964" lon="8.7592948"/><trkpt lat="53.1287372" lon="8.7593094"/><trkpt lat="53.1287869" lon="8.7593268"/><trkpt lat="53.1288337" lon="8.7593432"/><trkpt lat="53.1288791" lon="8.7593591"/><trkpt lat="53.1289274" lon="8.7593761"/><trkpt lat="53.1289888" lon="8.7593976"/><trkpt lat="53.1290275" lon="8.7594112"/><trkpt lat="53.1290764" lon="8.7594284"/><trkpt lat="53.1291249" lon="8.7594454"/><trkpt lat="53.1291756" lon="8.7594631"/><trkpt lat="53.129215" lon="8.759477"/><trkpt lat="53.129232" lon="8.7594437"/><trkpt lat="53.1292502" lon="8.7594077"/><trkpt lat="53.1292615" lon="8.7593856"/><trkpt lat="53.1293106" lon="8.7592892"/><trkpt lat="53.1292752" lon="8.7592761"/><trkpt lat="53.1292253" lon="8.7592576"/><trkpt lat="53.1291775" lon="8.7592399"/><trkpt lat="53.1291306" lon="8.7592225"/><trkpt lat="53.1290875" lon="8.7592068"/><trkpt lat="53.1290271" lon="8.7591837"/><trkpt lat="53.1289807" lon="8.7591671"/><trkpt lat="53.1289355" lon="8.7591504"/><trkpt lat="53.1288915" lon="8.7591341"/><trkpt lat="53.1288382" lon="8.7591144"/><trkpt lat="53.1287958" lon="8.7590989"/><trkpt lat="53.1287518" lon="8.7590834"/><trkpt lat="53.1286965" lon="8.7590619"/><trkpt lat="53.1286524" lon="8.7590441"/><trkpt lat="53.1286414" lon="8.7590405"/><trkpt lat="53.1285963" lon="8.7590253"/></trkseg></trk><trk><name>way/372143312</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143312</desc><trkseg><trkpt lat="53.0577478" lon="8.7565099"/><trkpt lat="53.0577094" lon="8.7565592"/><trkpt lat="53.0576365" lon="8.7566526"/><trkpt lat="53.057595" lon="8.7567058"/><trkpt lat="53.0580121" lon="8.7575371"/><trkpt lat="53.0582017" lon="8.757923"/><trkpt lat="53.0583501" lon="8.758237"/><trkpt lat="53.0585441" lon="8.7586599"/><trkpt lat="53.0587007" lon="8.759007"/><trkpt lat="53.0589058" lon="8.7594824"/><trkpt lat="53.0591015" lon="8.7599714"/><trkpt lat="53.059329" lon="8.7605702"/><trkpt lat="53.0595862" lon="8.761309"/><trkpt lat="53.059865" lon="8.762189"/><trkpt lat="53.0600119" lon="8.7627148"/><trkpt lat="53.0601246" lon="8.76317"/><trkpt lat="53.0601962" lon="8.7634759"/><trkpt lat="53.0602807" lon="8.7638909"/><trkpt lat="53.060358" lon="8.7643101"/><trkpt lat="53.0604059" lon="8.7645748"/><trkpt lat="53.0604465" lon="8.7645563"/><trkpt lat="53.0605256" lon="8.7645203"/><trkpt lat="53.0605671" lon="8.7645014"/><trkpt lat="53.0604325" lon="8.7637136"/><trkpt lat="53.0603016" lon="8.7631206"/><trkpt lat="53.0601906" lon="8.762666"/><trkpt lat="53.0600516" lon="8.7621597"/><trkpt lat="53.0598979" lon="8.7616625"/><trkpt lat="53.0597497" lon="8.7612029"/><trkpt lat="53.0595808" lon="8.7607057"/><trkpt lat="53.0593723" lon="8.7601243"/><trkpt lat="53.0591552" lon="8.7595713"/><trkpt lat="53.0589247" lon="8.7590181"/><trkpt lat="53.0587676" lon="8.758658"/><trkpt lat="53.0585639" lon="8.7582113"/><trkpt lat="53.0584087" lon="8.7578777"/><trkpt lat="53.0582286" lon="8.7575019"/><trkpt lat="53.0580094" lon="8.7570551"/><trkpt lat="53.0577478" lon="8.7565099"/></trkseg></trk><trk><name>way/372143313</name><desc>bridge:structure=beam
+layer=2
+man_made=bridge
+id=way/372143313</desc><trkseg><trkpt lat="53.1404013" lon="8.7185204"/><trkpt lat="53.1403612" lon="8.7185931"/><trkpt lat="53.1402932" lon="8.7187165"/><trkpt lat="53.1402522" lon="8.7187908"/><trkpt lat="53.14045" lon="8.7190754"/><trkpt lat="53.140463" lon="8.7190941"/><trkpt lat="53.1405968" lon="8.7193008"/><trkpt lat="53.1406646" lon="8.719407"/><trkpt lat="53.140806" lon="8.7196268"/><trkpt lat="53.1409339" lon="8.7198399"/><trkpt lat="53.1411157" lon="8.7201595"/><trkpt lat="53.1413173" lon="8.7205203"/><trkpt lat="53.1415048" lon="8.7208701"/><trkpt lat="53.1417371" lon="8.7213128"/><trkpt lat="53.1419192" lon="8.7216854"/><trkpt lat="53.1420292" lon="8.721906"/><trkpt lat="53.1421521" lon="8.7221526"/><trkpt lat="53.1422915" lon="8.7224348"/><trkpt lat="53.1425267" lon="8.7229248"/><trkpt lat="53.1427034" lon="8.7233036"/><trkpt lat="53.1430023" lon="8.7239243"/><trkpt lat="53.1432514" lon="8.7244661"/><trkpt lat="53.1434062" lon="8.7247876"/><trkpt lat="53.1437974" lon="8.7256136"/><trkpt lat="53.1441801" lon="8.7264354"/><trkpt lat="53.1442237" lon="8.7263782"/><trkpt lat="53.1443051" lon="8.7262716"/><trkpt lat="53.1443528" lon="8.7262091"/><trkpt lat="53.1442855" lon="8.7260652"/><trkpt lat="53.1441234" lon="8.7257183"/><trkpt lat="53.1440458" lon="8.7255524"/><trkpt lat="53.1435322" lon="8.7244846"/><trkpt lat="53.1434469" lon="8.7243123"/><trkpt lat="53.143413" lon="8.7242432"/><trkpt lat="53.1431523" lon="8.7236855"/><trkpt lat="53.1427954" lon="8.7229245"/><trkpt lat="53.1423795" lon="8.7220586"/><trkpt lat="53.1421405" lon="8.7215702"/><trkpt lat="53.1420009" lon="8.7212912"/><trkpt lat="53.1418336" lon="8.7209595"/><trkpt lat="53.1418092" lon="8.7209112"/><trkpt lat="53.1416371" lon="8.7205792"/><trkpt lat="53.1413859" lon="8.7201198"/><trkpt lat="53.1409876" lon="8.7194314"/><trkpt lat="53.140808" lon="8.7191433"/><trkpt lat="53.1407567" lon="8.7190626"/><trkpt lat="53.1405993" lon="8.7188242"/><trkpt lat="53.1404013" lon="8.7185204"/></trkseg></trk><trk><name>way/372143314</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143314</desc><trkseg><trkpt lat="53.1411496" lon="8.7184132"/><trkpt lat="53.1409113" lon="8.7180284"/><trkpt lat="53.1408999" lon="8.7180498"/><trkpt lat="53.1408796" lon="8.7180882"/><trkpt lat="53.1411171" lon="8.718471"/><trkpt lat="53.1411368" lon="8.718436"/><trkpt lat="53.1411496" lon="8.7184132"/></trkseg></trk><trk><name>way/372143315</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+wikidata=Q42299241
+wikipedia=de:Lesumbrücke
+id=way/372143315</desc><trkseg><trkpt lat="53.1565287" lon="8.7044353"/><trkpt lat="53.1571898" lon="8.7043087"/><trkpt lat="53.1571804" lon="8.7041724"/><trkpt lat="53.1571725" lon="8.7040568"/><trkpt lat="53.1565114" lon="8.7041834"/><trkpt lat="53.1565203" lon="8.7043129"/><trkpt lat="53.1565287" lon="8.7044353"/></trkseg></trk><trk><name>way/372143316</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143316</desc><trkseg><trkpt lat="53.1405605" lon="8.7138453"/><trkpt lat="53.1405516" lon="8.7144006"/><trkpt lat="53.1405757" lon="8.7144061"/><trkpt lat="53.140595" lon="8.7144105"/><trkpt lat="53.1406022" lon="8.7138611"/><trkpt lat="53.140583" lon="8.7138538"/><trkpt lat="53.1405605" lon="8.7138453"/></trkseg></trk><trk><name>way/372143317</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143317</desc><trkseg><trkpt lat="53.0595779" lon="8.9031018"/><trkpt lat="53.0595648" lon="8.9031019"/><trkpt lat="53.0594859" lon="8.9031039"/><trkpt lat="53.0593983" lon="8.9031061"/><trkpt lat="53.0594841" lon="8.9076243"/><trkpt lat="53.0595727" lon="8.9076233"/><trkpt lat="53.0596676" lon="8.9076223"/><trkpt lat="53.0595779" lon="8.9031018"/></trkseg></trk><trk><name>way/372143318</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143318</desc><trkseg><trkpt lat="53.1440558" lon="8.7373867"/><trkpt lat="53.1433541" lon="8.7370201"/><trkpt lat="53.1433307" lon="8.7370469"/><trkpt lat="53.1432703" lon="8.7371163"/><trkpt lat="53.1431891" lon="8.737209"/><trkpt lat="53.1439046" lon="8.7375755"/><trkpt lat="53.1439792" lon="8.7374823"/><trkpt lat="53.1440387" lon="8.7374081"/><trkpt lat="53.1440558" lon="8.7373867"/></trkseg></trk><trk><name>way/372143319</name><desc>layer=1
+man_made=bridge
+id=way/372143319</desc><trkseg><trkpt lat="53.1759699" lon="8.704458"/><trkpt lat="53.1759438" lon="8.704548"/><trkpt lat="53.1759051" lon="8.7046817"/><trkpt lat="53.1758622" lon="8.7048296"/><trkpt lat="53.1758237" lon="8.7049625"/><trkpt lat="53.176089" lon="8.7053871"/><trkpt lat="53.1761311" lon="8.7052594"/><trkpt lat="53.176177" lon="8.7051199"/><trkpt lat="53.176224" lon="8.7049772"/><trkpt lat="53.1762542" lon="8.7048857"/><trkpt lat="53.1759699" lon="8.704458"/></trkseg></trk><trk><name>way/372143320</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143320</desc><trkseg><trkpt lat="53.0473522" lon="8.7093638"/><trkpt lat="53.0472142" lon="8.7088141"/><trkpt lat="53.0471688" lon="8.7088457"/><trkpt lat="53.047102" lon="8.7088921"/><trkpt lat="53.0470637" lon="8.7089187"/><trkpt lat="53.0471872" lon="8.7094106"/><trkpt lat="53.0472311" lon="8.7093981"/><trkpt lat="53.047302" lon="8.709378"/><trkpt lat="53.0473522" lon="8.7093638"/></trkseg></trk><trk><name>way/372143321</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143321</desc><trkseg><trkpt lat="53.1100869" lon="8.8666929"/><trkpt lat="53.1100249" lon="8.8668356"/><trkpt lat="53.1099692" lon="8.866964"/><trkpt lat="53.1099078" lon="8.8671055"/><trkpt lat="53.1103924" lon="8.8675686"/><trkpt lat="53.1104539" lon="8.8674278"/><trkpt lat="53.1105082" lon="8.8673035"/><trkpt lat="53.1105715" lon="8.8671587"/><trkpt lat="53.1100869" lon="8.8666929"/></trkseg></trk><trk><name>way/372143322</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143322</desc><trkseg><trkpt lat="53.1468515" lon="8.7326981"/><trkpt lat="53.1468114" lon="8.7327435"/><trkpt lat="53.1467427" lon="8.7328214"/><trkpt lat="53.1467059" lon="8.7328631"/><trkpt lat="53.1469801" lon="8.7338484"/><trkpt lat="53.1470176" lon="8.7338007"/><trkpt lat="53.1470809" lon="8.7337201"/><trkpt lat="53.1471228" lon="8.7336668"/><trkpt lat="53.1468515" lon="8.7326981"/></trkseg></trk><trk><name>way/372143323</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143323</desc><trkseg><trkpt lat="53.0292937" lon="8.8583548"/><trkpt lat="53.0292595" lon="8.8583806"/><trkpt lat="53.0287316" lon="8.8587789"/><trkpt lat="53.028685" lon="8.8588141"/><trkpt lat="53.0288506" lon="8.8592028"/><trkpt lat="53.0288968" lon="8.8591679"/><trkpt lat="53.0294149" lon="8.8587776"/><trkpt lat="53.0294582" lon="8.8587449"/><trkpt lat="53.0292937" lon="8.8583548"/></trkseg></trk><trk><name>way/372143324</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143324</desc><trkseg><trkpt lat="53.1809877" lon="8.5986598"/><trkpt lat="53.1809899" lon="8.5987852"/><trkpt lat="53.180992" lon="8.5989062"/><trkpt lat="53.1810244" lon="8.5988973"/><trkpt lat="53.1812137" lon="8.5988448"/><trkpt lat="53.1812107" lon="8.5987168"/><trkpt lat="53.1812078" lon="8.5985925"/><trkpt lat="53.1809956" lon="8.5986574"/><trkpt lat="53.1809877" lon="8.5986598"/></trkseg></trk><trk><name>way/372143325</name><desc>bridge=viaduct
+bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143325</desc><trkseg><trkpt lat="53.0480281" lon="8.8227002"/><trkpt lat="53.0479844" lon="8.8228382"/><trkpt lat="53.0477622" lon="8.8235508"/><trkpt lat="53.0475879" lon="8.8240158"/><trkpt lat="53.047429" lon="8.8244046"/><trkpt lat="53.0473264" lon="8.824617"/><trkpt lat="53.0472648" lon="8.8247479"/><trkpt lat="53.0471258" lon="8.824967"/><trkpt lat="53.047049" lon="8.8250762"/><trkpt lat="53.0469133" lon="8.8252576"/><trkpt lat="53.0467486" lon="8.8254583"/><trkpt lat="53.0466052" lon="8.8256001"/><trkpt lat="53.0465256" lon="8.8256749"/><trkpt lat="53.0463543" lon="8.8258145"/><trkpt lat="53.0461955" lon="8.8259149"/><trkpt lat="53.0460353" lon="8.8259991"/><trkpt lat="53.0458917" lon="8.8260579"/><trkpt lat="53.0457245" lon="8.8261145"/><trkpt lat="53.0455636" lon="8.8261468"/><trkpt lat="53.0453895" lon="8.8261652"/><trkpt lat="53.0451863" lon="8.8261629"/><trkpt lat="53.045058" lon="8.8261479"/><trkpt lat="53.0449144" lon="8.8261214"/><trkpt lat="53.0447688" lon="8.8260787"/><trkpt lat="53.0446197" lon="8.8260175"/><trkpt lat="53.0445089" lon="8.8259655"/><trkpt lat="53.0444428" lon="8.8259345"/><trkpt lat="53.0443082" lon="8.8258606"/><trkpt lat="53.0441925" lon="8.8257857"/><trkpt lat="53.0440138" lon="8.8256675"/><trkpt lat="53.0437269" lon="8.8254646"/><trkpt lat="53.0434782" lon="8.8252847"/><trkpt lat="53.0425671" lon="8.8246219"/><trkpt lat="53.0424265" lon="8.824524"/><trkpt lat="53.042439" lon="8.8244738"/><trkpt lat="53.041556" lon="8.8238532"/><trkpt lat="53.0415407" lon="8.8238861"/><trkpt lat="53.0411741" lon="8.8236105"/><trkpt lat="53.041163" lon="8.8236029"/><trkpt lat="53.0407237" lon="8.8232869"/><trkpt lat="53.0403517" lon="8.8230193"/><trkpt lat="53.0396828" lon="8.8225316"/><trkpt lat="53.0394471" lon="8.8223598"/><trkpt lat="53.0394369" lon="8.8223984"/><trkpt lat="53.0394253" lon="8.8224428"/><trkpt lat="53.0394139" lon="8.8224862"/><trkpt lat="53.0403204" lon="8.8231334"/><trkpt lat="53.0411392" lon="8.8237263"/><trkpt lat="53.0415923" lon="8.824055"/><trkpt lat="53.0415819" lon="8.8240964"/><trkpt lat="53.0423919" lon="8.8246827"/><trkpt lat="53.0424031" lon="8.8246431"/><trkpt lat="53.0425333" lon="8.8247408"/><trkpt lat="53.0434262" lon="8.8253906"/><trkpt lat="53.0438346" lon="8.8256812"/><trkpt lat="53.0439924" lon="8.8257935"/><trkpt lat="53.044225" lon="8.8259457"/><trkpt lat="53.0443956" lon="8.8260461"/><trkpt lat="53.0444927" lon="8.8260952"/><trkpt lat="53.044594" lon="8.8261464"/><trkpt lat="53.0447514" lon="8.8262099"/><trkpt lat="53.0448978" lon="8.8262514"/><trkpt lat="53.0450476" lon="8.8262768"/><trkpt lat="53.0451439" lon="8.8262871"/><trkpt lat="53.0452307" lon="8.8262964"/><trkpt lat="53.0454089" lon="8.8262953"/><trkpt lat="53.0455761" lon="8.8262814"/><trkpt lat="53.0457481" lon="8.826241"/><trkpt lat="53.0459111" lon="8.8261891"/><trkpt lat="53.0460553" lon="8.8261268"/><trkpt lat="53.046201" lon="8.8260484"/><trkpt lat="53.0463966" lon="8.8259238"/><trkpt lat="53.0465364" lon="8.825819"/><trkpt lat="53.0467026" lon="8.8256628"/><trkpt lat="53.0467936" lon="8.8255696"/><trkpt lat="53.0468859" lon="8.8254644"/><trkpt lat="53.0469864" lon="8.8253399"/><trkpt lat="53.0470759" lon="8.8252257"/><trkpt lat="53.0471437" lon="8.8251287"/><trkpt lat="53.0472162" lon="8.8250131"/><trkpt lat="53.0473814" lon="8.824724"/><trkpt lat="53.0474266" lon="8.8246298"/><trkpt lat="53.0474837" lon="8.8245105"/><trkpt lat="53.0475355" lon="8.8243928"/><trkpt lat="53.0476033" lon="8.8242331"/><trkpt lat="53.0476659" lon="8.8240755"/><trkpt lat="53.0476911" lon="8.8240062"/><trkpt lat="53.0477669" lon="8.8237973"/><trkpt lat="53.0479179" lon="8.8233403"/><trkpt lat="53.0480997" lon="8.8227584"/><trkpt lat="53.0480765" lon="8.8227395"/><trkpt lat="53.0480486" lon="8.8227168"/><trkpt lat="53.0480281" lon="8.8227002"/></trkseg></trk><trk><name>way/372143326</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143326</desc><trkseg><trkpt lat="53.131134" lon="8.7596545"/><trkpt lat="53.1310659" lon="8.7598045"/><trkpt lat="53.1310574" lon="8.7598232"/><trkpt lat="53.1311587" lon="8.7598656"/><trkpt lat="53.1313033" lon="8.7599262"/><trkpt lat="53.1314054" lon="8.7599689"/><trkpt lat="53.1314796" lon="8.7597983"/><trkpt lat="53.1313747" lon="8.7597547"/><trkpt lat="53.1312297" lon="8.7596944"/><trkpt lat="53.131134" lon="8.7596545"/></trkseg></trk><trk><name>way/372143327</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+wikidata=Q28344671
+wikipedia=de:Eisenbahnbrücke Bremen-Burg
+id=way/372143327</desc><trkseg><trkpt lat="53.1566966" lon="8.7062893"/><trkpt lat="53.1566945" lon="8.7062902"/><trkpt lat="53.1567017" lon="8.7063376"/><trkpt lat="53.1567154" lon="8.7064264"/><trkpt lat="53.1567215" lon="8.7064663"/><trkpt lat="53.1573239" lon="8.706209"/><trkpt lat="53.1573187" lon="8.7061752"/><trkpt lat="53.1573058" lon="8.7060917"/><trkpt lat="53.1572968" lon="8.7060329"/><trkpt lat="53.1566966" lon="8.7062893"/></trkseg></trk><trk><name>way/372143328</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143328</desc><trkseg><trkpt lat="53.1736847" lon="8.6900564"/><trkpt lat="53.1735841" lon="8.6900372"/><trkpt lat="53.173324" lon="8.6899877"/><trkpt lat="53.1733298" lon="8.6900981"/><trkpt lat="53.173336" lon="8.6902166"/><trkpt lat="53.1733433" lon="8.690218"/><trkpt lat="53.1736043" lon="8.69027"/><trkpt lat="53.1737016" lon="8.6902894"/><trkpt lat="53.173693" lon="8.6901706"/><trkpt lat="53.1736847" lon="8.6900564"/></trkseg></trk><trk><name>way/372143329</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/372143329</desc><trkseg><trkpt lat="53.0984174" lon="8.8706564"/><trkpt lat="53.0983669" lon="8.8706089"/><trkpt lat="53.0983327" lon="8.8705769"/><trkpt lat="53.0982997" lon="8.8705458"/><trkpt lat="53.0982856" lon="8.8705326"/><trkpt lat="53.0982451" lon="8.8709189"/><trkpt lat="53.0982935" lon="8.8709662"/><trkpt lat="53.0983279" lon="8.8709998"/><trkpt lat="53.0983771" lon="8.8710478"/><trkpt lat="53.0984174" lon="8.8706564"/></trkseg></trk><trk><name>way/375306395</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/375306395</desc><trkseg><trkpt lat="53.1077581" lon="8.8511164"/><trkpt lat="53.1077288" lon="8.8510921"/><trkpt lat="53.1077875" lon="8.8508958"/><trkpt lat="53.1078168" lon="8.8509201"/><trkpt lat="53.1078315" lon="8.850871"/><trkpt lat="53.107802" lon="8.8508465"/><trkpt lat="53.1078634" lon="8.8506415"/><trkpt lat="53.1078498" lon="8.8506299"/><trkpt lat="53.1078345" lon="8.8506168"/><trkpt lat="53.107832" lon="8.8506139"/><trkpt lat="53.1077702" lon="8.8508201"/><trkpt lat="53.1077174" lon="8.8507763"/><trkpt lat="53.1076167" lon="8.8511131"/><trkpt lat="53.1076839" lon="8.851169"/><trkpt lat="53.1075982" lon="8.8514556"/><trkpt lat="53.1076305" lon="8.8514866"/><trkpt lat="53.1077172" lon="8.8511966"/><trkpt lat="53.1077307" lon="8.8512078"/><trkpt lat="53.1077467" lon="8.8511545"/><trkpt lat="53.1077581" lon="8.8511164"/></trkseg></trk><trk><name>way/375986996</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/375986996</desc><trkseg><trkpt lat="53.0408437" lon="8.8412102"/><trkpt lat="53.0409462" lon="8.8409938"/><trkpt lat="53.0408948" lon="8.8409477"/><trkpt lat="53.0407295" lon="8.8408409"/><trkpt lat="53.0406686" lon="8.8408073"/><trkpt lat="53.040581" lon="8.8409925"/><trkpt lat="53.040632" lon="8.8410061"/><trkpt lat="53.0407102" lon="8.841047"/><trkpt lat="53.0407906" lon="8.8411225"/><trkpt lat="53.040839" lon="8.8411912"/><trkpt lat="53.0408437" lon="8.8412102"/></trkseg></trk><trk><name>way/375986997</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/375986997</desc><trkseg><trkpt lat="53.0406628" lon="8.8415852"/><trkpt lat="53.040604" lon="8.8415671"/><trkpt lat="53.0405088" lon="8.8415128"/><trkpt lat="53.0404314" lon="8.8414358"/><trkpt lat="53.0404051" lon="8.8413675"/><trkpt lat="53.0404027" lon="8.8413573"/><trkpt lat="53.0403026" lon="8.8415693"/><trkpt lat="53.0403514" lon="8.8416113"/><trkpt lat="53.0404899" lon="8.8417203"/><trkpt lat="53.0405736" lon="8.8417719"/><trkpt lat="53.0406628" lon="8.8415852"/></trkseg></trk><trk><name>way/375986998</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/375986998</desc><trkseg><trkpt lat="53.0631227" lon="8.8104919"/><trkpt lat="53.0630777" lon="8.8105327"/><trkpt lat="53.063477" lon="8.8117522"/><trkpt lat="53.0635007" lon="8.8117307"/><trkpt lat="53.0635219" lon="8.8117114"/><trkpt lat="53.0631227" lon="8.8104919"/></trkseg></trk><trk><name>way/376240385</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+wikidata=Q16064105
+wikipedia=de:Eisenbahnbrücke über die Weser (Dreye)
+id=way/376240385</desc><trkseg><trkpt lat="53.0255431" lon="8.8827503"/><trkpt lat="53.0255705" lon="8.8827056"/><trkpt lat="53.0255922" lon="8.8826702"/><trkpt lat="53.0256098" lon="8.8826414"/><trkpt lat="53.0244848" lon="8.8807375"/><trkpt lat="53.0244451" lon="8.8806703"/><trkpt lat="53.0243452" lon="8.8805013"/><trkpt lat="53.0236676" lon="8.8793546"/><trkpt lat="53.0227849" lon="8.8778608"/><trkpt lat="53.0219155" lon="8.8763895"/><trkpt lat="53.0217949" lon="8.8761855"/><trkpt lat="53.0217734" lon="8.8762207"/><trkpt lat="53.0217527" lon="8.8762545"/><trkpt lat="53.0217282" lon="8.8762945"/><trkpt lat="53.0218063" lon="8.8764267"/><trkpt lat="53.0227303" lon="8.8779903"/><trkpt lat="53.0255431" lon="8.8827503"/></trkseg></trk><trk><name>way/376256961</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376256961</desc><trkseg><trkpt lat="53.0265302" lon="8.8521904"/><trkpt lat="53.0265143" lon="8.8522268"/><trkpt lat="53.0264701" lon="8.8523055"/><trkpt lat="53.0263747" lon="8.8525205"/><trkpt lat="53.026309" lon="8.8526692"/><trkpt lat="53.0262814" lon="8.8527306"/><trkpt lat="53.026309" lon="8.8528072"/><trkpt lat="53.0263745" lon="8.8530107"/><trkpt lat="53.0263984" lon="8.8529447"/><trkpt lat="53.026464" lon="8.8527591"/><trkpt lat="53.0265615" lon="8.8525542"/><trkpt lat="53.0266028" lon="8.8524664"/><trkpt lat="53.0266208" lon="8.8524296"/><trkpt lat="53.0265302" lon="8.8521904"/></trkseg></trk><trk><name>way/376296520</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376296520</desc><trkseg><trkpt lat="53.0311928" lon="8.8088575"/><trkpt lat="53.0311036" lon="8.8087786"/><trkpt lat="53.0310189" lon="8.8086937"/><trkpt lat="53.0309797" lon="8.8087721"/><trkpt lat="53.0309352" lon="8.8088623"/><trkpt lat="53.0309177" lon="8.8088962"/><trkpt lat="53.0310714" lon="8.8090413"/><trkpt lat="53.0311036" lon="8.8090718"/><trkpt lat="53.0311162" lon="8.8090411"/><trkpt lat="53.0311579" lon="8.8089363"/><trkpt lat="53.0311928" lon="8.8088575"/></trkseg></trk><trk><name>way/376296521</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376296521</desc><trkseg><trkpt lat="53.0434392" lon="8.8502717"/><trkpt lat="53.0432796" lon="8.8502732"/><trkpt lat="53.0432797" lon="8.8503064"/><trkpt lat="53.0432803" lon="8.8504503"/><trkpt lat="53.0432807" lon="8.8505869"/><trkpt lat="53.0432809" lon="8.8506281"/><trkpt lat="53.0434405" lon="8.8506266"/><trkpt lat="53.0434403" lon="8.8505786"/><trkpt lat="53.0434399" lon="8.8504486"/><trkpt lat="53.0434394" lon="8.8503064"/><trkpt lat="53.0434392" lon="8.8502717"/></trkseg></trk><trk><name>way/376296522</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376296522</desc><trkseg><trkpt lat="53.0239427" lon="8.8175987"/><trkpt lat="53.0239482" lon="8.8171427"/><trkpt lat="53.0238446" lon="8.8171717"/><trkpt lat="53.023694" lon="8.8172196"/><trkpt lat="53.0236019" lon="8.8172456"/><trkpt lat="53.0236001" lon="8.8176955"/><trkpt lat="53.0236932" lon="8.8176706"/><trkpt lat="53.0238438" lon="8.8176254"/><trkpt lat="53.0239427" lon="8.8175987"/></trkseg></trk><trk><name>way/376296523</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376296523</desc><trkseg><trkpt lat="53.0312814" lon="8.8085545"/><trkpt lat="53.0311445" lon="8.8084554"/><trkpt lat="53.0310941" lon="8.8084203"/><trkpt lat="53.0310823" lon="8.808468"/><trkpt lat="53.0310636" lon="8.8085472"/><trkpt lat="53.0310384" lon="8.8086502"/><trkpt lat="53.0312127" lon="8.8087793"/><trkpt lat="53.0312421" lon="8.8086803"/><trkpt lat="53.0312669" lon="8.8085991"/><trkpt lat="53.0312814" lon="8.8085545"/></trkseg></trk><trk><name>way/376367350</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367350</desc><trkseg><trkpt lat="53.0465062" lon="8.8403101"/><trkpt lat="53.0465276" lon="8.8403207"/><trkpt lat="53.046576" lon="8.8403569"/><trkpt lat="53.0466602" lon="8.8403895"/><trkpt lat="53.0466864" lon="8.8403972"/><trkpt lat="53.0467709" lon="8.8401351"/><trkpt lat="53.0467535" lon="8.8401313"/><trkpt lat="53.046671" lon="8.8400903"/><trkpt lat="53.0466224" lon="8.8400602"/><trkpt lat="53.0465909" lon="8.8400401"/><trkpt lat="53.0465062" lon="8.8403101"/></trkseg></trk><trk><name>way/376367351</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367351</desc><trkseg><trkpt lat="53.0374305" lon="8.8383881"/><trkpt lat="53.0374113" lon="8.8383585"/><trkpt lat="53.037362" lon="8.8382825"/><trkpt lat="53.0373047" lon="8.8381941"/><trkpt lat="53.0372787" lon="8.838154"/><trkpt lat="53.0371524" lon="8.8383806"/><trkpt lat="53.0371775" lon="8.8384193"/><trkpt lat="53.0372303" lon="8.8385008"/><trkpt lat="53.0372808" lon="8.8385787"/><trkpt lat="53.0373042" lon="8.8386147"/><trkpt lat="53.0374305" lon="8.8383881"/></trkseg></trk><trk><name>way/376367352</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367352</desc><trkseg><trkpt lat="53.0522373" lon="8.8640818"/><trkpt lat="53.0522155" lon="8.8640533"/><trkpt lat="53.0521392" lon="8.8639533"/><trkpt lat="53.052124" lon="8.8639335"/><trkpt lat="53.0521051" lon="8.8639735"/><trkpt lat="53.0520747" lon="8.8640379"/><trkpt lat="53.0520934" lon="8.8640624"/><trkpt lat="53.0521676" lon="8.8641596"/><trkpt lat="53.0521879" lon="8.8641861"/><trkpt lat="53.052219" lon="8.8641205"/><trkpt lat="53.0522373" lon="8.8640818"/></trkseg></trk><trk><name>way/376367354</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367354</desc><trkseg><trkpt lat="53.0581885" lon="8.8640303"/><trkpt lat="53.058178" lon="8.8640082"/><trkpt lat="53.058173" lon="8.8639813"/><trkpt lat="53.0581743" lon="8.8639532"/><trkpt lat="53.0581815" lon="8.8639278"/><trkpt lat="53.0581937" lon="8.8639084"/><trkpt lat="53.0581817" lon="8.8639161"/><trkpt lat="53.0581644" lon="8.8639392"/><trkpt lat="53.0581589" lon="8.8639574"/><trkpt lat="53.058039" lon="8.8647313"/><trkpt lat="53.0580545" lon="8.8647389"/><trkpt lat="53.0580722" lon="8.8647474"/><trkpt lat="53.0581885" lon="8.8640303"/></trkseg></trk><trk><name>way/376367355</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367355</desc><trkseg><trkpt lat="53.0822538" lon="8.9067474"/><trkpt lat="53.0819599" lon="8.9072934"/><trkpt lat="53.0819712" lon="8.9074212"/><trkpt lat="53.0819946" lon="8.9076803"/><trkpt lat="53.0820236" lon="8.9079226"/><trkpt lat="53.08205" lon="8.9081711"/><trkpt lat="53.0820677" lon="8.9083208"/><trkpt lat="53.0823525" lon="8.9077499"/><trkpt lat="53.0823339" lon="8.9076078"/><trkpt lat="53.0823105" lon="8.9073784"/><trkpt lat="53.0822864" lon="8.9071235"/><trkpt lat="53.0822609" lon="8.9068689"/><trkpt lat="53.0822538" lon="8.9067474"/></trkseg></trk><trk><name>way/376367356</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367356</desc><trkseg><trkpt lat="53.0582422" lon="8.8639067"/><trkpt lat="53.0582549" lon="8.8639252"/><trkpt lat="53.0582628" lon="8.8639501"/><trkpt lat="53.058264" lon="8.8639684"/><trkpt lat="53.058648" lon="8.8641437"/><trkpt lat="53.0586546" lon="8.864162"/><trkpt lat="53.0587312" lon="8.8641935"/><trkpt lat="53.0587441" lon="8.8641956"/><trkpt lat="53.0587483" lon="8.8641857"/><trkpt lat="53.0587516" lon="8.8641839"/><trkpt lat="53.0591436" lon="8.8643681"/><trkpt lat="53.0591484" lon="8.8643455"/><trkpt lat="53.0591534" lon="8.8643206"/><trkpt lat="53.0587564" lon="8.8641399"/><trkpt lat="53.0587558" lon="8.8641188"/><trkpt lat="53.0586629" lon="8.86408"/><trkpt lat="53.0586587" lon="8.8640919"/><trkpt lat="53.0582422" lon="8.8639067"/></trkseg></trk><trk><name>way/376367357</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367357</desc><trkseg><trkpt lat="53.0558635" lon="8.8951973"/><trkpt lat="53.0558317" lon="8.8953086"/><trkpt lat="53.0558051" lon="8.8954018"/><trkpt lat="53.0571327" lon="8.8964669"/><trkpt lat="53.0571536" lon="8.8963882"/><trkpt lat="53.0571883" lon="8.896269"/><trkpt lat="53.0558635" lon="8.8951973"/></trkseg></trk><trk><name>way/376367359</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367359</desc><trkseg><trkpt lat="53.0827586" lon="8.8912217"/><trkpt lat="53.0827603" lon="8.8910785"/><trkpt lat="53.0827642" lon="8.8909343"/><trkpt lat="53.0822839" lon="8.8912334"/><trkpt lat="53.0822779" lon="8.8913811"/><trkpt lat="53.082276" lon="8.8915205"/><trkpt lat="53.0827586" lon="8.8912217"/></trkseg></trk><trk><name>way/376367360</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+id=way/376367360</desc><trkseg><trkpt lat="53.0638057" lon="8.8826268"/><trkpt lat="53.063635" lon="8.8829373"/><trkpt lat="53.06364" lon="8.8830328"/><trkpt lat="53.0636454" lon="8.883128"/><trkpt lat="53.0636499" lon="8.8832115"/><trkpt lat="53.0638099" lon="8.8829213"/><trkpt lat="53.0638085" lon="8.8828218"/><trkpt lat="53.0638072" lon="8.8827313"/><trkpt lat="53.0638057" lon="8.8826268"/></trkseg></trk><trk><name>way/376367361</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367361</desc><trkseg><trkpt lat="53.0349588" lon="8.851764"/><trkpt lat="53.0350106" lon="8.851798"/><trkpt lat="53.0351144" lon="8.8518602"/><trkpt lat="53.0351694" lon="8.8518896"/><trkpt lat="53.0352079" lon="8.8518226"/><trkpt lat="53.0353702" lon="8.8515297"/><trkpt lat="53.0354118" lon="8.8514546"/><trkpt lat="53.0353615" lon="8.8514171"/><trkpt lat="53.0352581" lon="8.8513519"/><trkpt lat="53.0352028" lon="8.8513153"/><trkpt lat="53.0351799" lon="8.8513575"/><trkpt lat="53.0349588" lon="8.851764"/></trkseg></trk><trk><name>way/376367362</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/376367362</desc><trkseg><trkpt lat="53.0311804" lon="8.8568962"/><trkpt lat="53.031127" lon="8.8569451"/><trkpt lat="53.031149" lon="8.8570362"/><trkpt lat="53.0311673" lon="8.8572188"/><trkpt lat="53.0311789" lon="8.8572981"/><trkpt lat="53.0312351" lon="8.8572434"/><trkpt lat="53.0312313" lon="8.8571602"/><trkpt lat="53.0312067" lon="8.8569823"/><trkpt lat="53.0311804" lon="8.8568962"/></trkseg></trk><trk><name>way/376367363</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+id=way/376367363</desc><trkseg><trkpt lat="53.0652829" lon="8.8788973"/><trkpt lat="53.0649416" lon="8.8791638"/><trkpt lat="53.0649206" lon="8.879237"/><trkpt lat="53.0648841" lon="8.8793642"/><trkpt lat="53.0648686" lon="8.8794183"/><trkpt lat="53.0652106" lon="8.8791594"/><trkpt lat="53.0652021" lon="8.8791527"/><trkpt lat="53.0652151" lon="8.8791117"/><trkpt lat="53.0652566" lon="8.8789805"/><trkpt lat="53.0652829" lon="8.8788973"/></trkseg></trk><trk><name>way/377078487</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377078487</desc><trkseg><trkpt lat="53.0685853" lon="8.8736402"/><trkpt lat="53.0685108" lon="8.8737779"/><trkpt lat="53.0685324" lon="8.8738095"/><trkpt lat="53.0685632" lon="8.8738545"/><trkpt lat="53.0685923" lon="8.873897"/><trkpt lat="53.068611" lon="8.8739244"/><trkpt lat="53.0686845" lon="8.8737851"/><trkpt lat="53.0686664" lon="8.8737586"/><trkpt lat="53.068638" lon="8.8737172"/><trkpt lat="53.0686069" lon="8.8736718"/><trkpt lat="53.0685853" lon="8.8736402"/></trkseg></trk><trk><name>way/377078488</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+id=way/377078488</desc><trkseg><trkpt lat="53.0698382" lon="8.8752736"/><trkpt lat="53.0698262" lon="8.8752416"/><trkpt lat="53.0697928" lon="8.8751532"/><trkpt lat="53.0697719" lon="8.8750979"/><trkpt lat="53.0697562" lon="8.8750564"/><trkpt lat="53.069663" lon="8.8751539"/><trkpt lat="53.0696792" lon="8.8751968"/><trkpt lat="53.0696998" lon="8.8752515"/><trkpt lat="53.0697325" lon="8.8753379"/><trkpt lat="53.069745" lon="8.8753711"/><trkpt lat="53.0698382" lon="8.8752736"/></trkseg></trk><trk><name>way/377078489</name><desc>layer=1
+man_made=bridge
+id=way/377078489</desc><trkseg><trkpt lat="53.0568356" lon="8.885362"/><trkpt lat="53.0569224" lon="8.8853048"/><trkpt lat="53.0570151" lon="8.8852438"/><trkpt lat="53.0570349" lon="8.8852308"/><trkpt lat="53.0570133" lon="8.8852208"/><trkpt lat="53.056987" lon="8.8851978"/><trkpt lat="53.0569295" lon="8.8851213"/><trkpt lat="53.0568543" lon="8.8851744"/><trkpt lat="53.0567767" lon="8.8852291"/><trkpt lat="53.0568277" lon="8.8852758"/><trkpt lat="53.0568406" lon="8.8853279"/><trkpt lat="53.0568356" lon="8.885362"/></trkseg></trk><trk><name>way/377078490</name><desc>bridge:structure=humpback
+layer=1
+man_made=bridge
+id=way/377078490</desc><trkseg><trkpt lat="53.0756084" lon="8.8546871"/><trkpt lat="53.0756299" lon="8.8546962"/><trkpt lat="53.0756633" lon="8.8547104"/><trkpt lat="53.0757002" lon="8.8547261"/><trkpt lat="53.0757379" lon="8.8547421"/><trkpt lat="53.0757598" lon="8.8547514"/><trkpt lat="53.0758085" lon="8.854434"/><trkpt lat="53.0757866" lon="8.8544247"/><trkpt lat="53.0757489" lon="8.8544086"/><trkpt lat="53.075712" lon="8.854393"/><trkpt lat="53.0756786" lon="8.8543788"/><trkpt lat="53.0756571" lon="8.8543696"/><trkpt lat="53.0756084" lon="8.8546871"/></trkseg></trk><trk><name>way/377078492</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377078492</desc><trkseg><trkpt lat="53.038766" lon="8.8954868"/><trkpt lat="53.0390709" lon="8.8954832"/><trkpt lat="53.0390707" lon="8.8954425"/><trkpt lat="53.0390705" lon="8.8953826"/><trkpt lat="53.0390702" lon="8.8953049"/><trkpt lat="53.03907" lon="8.8952664"/><trkpt lat="53.0390698" lon="8.8952166"/><trkpt lat="53.0390696" lon="8.8951663"/><trkpt lat="53.0387646" lon="8.8951699"/><trkpt lat="53.0387648" lon="8.8952233"/><trkpt lat="53.038765" lon="8.8952724"/><trkpt lat="53.0387652" lon="8.8953128"/><trkpt lat="53.0387655" lon="8.8953895"/><trkpt lat="53.0387658" lon="8.8954465"/><trkpt lat="53.038766" lon="8.8954868"/></trkseg></trk><trk><name>way/377078496</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377078496</desc><trkseg><trkpt lat="53.0697621" lon="8.8754162"/><trkpt lat="53.0697759" lon="8.8754528"/><trkpt lat="53.0697884" lon="8.875486"/><trkpt lat="53.0698816" lon="8.8753885"/><trkpt lat="53.0698694" lon="8.8753561"/><trkpt lat="53.0698553" lon="8.8753187"/><trkpt lat="53.0697621" lon="8.8754162"/></trkseg></trk><trk><name>way/377078497</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+id=way/377078497</desc><trkseg><trkpt lat="53.0684855" lon="8.873741"/><trkpt lat="53.068559" lon="8.8736017"/><trkpt lat="53.0685441" lon="8.8735799"/><trkpt lat="53.0685253" lon="8.8735525"/><trkpt lat="53.06852" lon="8.8735625"/><trkpt lat="53.0684518" lon="8.8736917"/><trkpt lat="53.0684708" lon="8.8737195"/><trkpt lat="53.0684855" lon="8.873741"/></trkseg></trk><trk><name>way/377078498</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377078498</desc><trkseg><trkpt lat="53.0736675" lon="8.8623047"/><trkpt lat="53.0736484" lon="8.862286"/><trkpt lat="53.0736171" lon="8.8622552"/><trkpt lat="53.0735952" lon="8.8622337"/><trkpt lat="53.0735434" lon="8.86238"/><trkpt lat="53.0735642" lon="8.8624005"/><trkpt lat="53.0735961" lon="8.8624318"/><trkpt lat="53.0736156" lon="8.862451"/><trkpt lat="53.0736675" lon="8.8623047"/></trkseg></trk><trk><name>way/377078499</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377078499</desc><trkseg><trkpt lat="53.0756208" lon="8.8543524"/><trkpt lat="53.0755954" lon="8.8543414"/><trkpt lat="53.0755584" lon="8.8543254"/><trkpt lat="53.0755293" lon="8.8543129"/><trkpt lat="53.07548" lon="8.85463"/><trkpt lat="53.075509" lon="8.8546426"/><trkpt lat="53.075546" lon="8.8546585"/><trkpt lat="53.0755715" lon="8.8546695"/><trkpt lat="53.0756208" lon="8.8543524"/></trkseg></trk><trk><name>way/377078500</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377078500</desc><trkseg><trkpt lat="53.0734725" lon="8.8685501"/><trkpt lat="53.0734919" lon="8.8685647"/><trkpt lat="53.073539" lon="8.8686002"/><trkpt lat="53.0735585" lon="8.8686149"/><trkpt lat="53.0736234" lon="8.868376"/><trkpt lat="53.0736058" lon="8.8683628"/><trkpt lat="53.0735602" lon="8.8683285"/><trkpt lat="53.0735374" lon="8.8683113"/><trkpt lat="53.0734725" lon="8.8685501"/></trkseg></trk><trk><name>way/377078501</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+id=way/377078501</desc><trkseg><trkpt lat="53.0736632" lon="8.8624974"/><trkpt lat="53.0736895" lon="8.8625234"/><trkpt lat="53.0737222" lon="8.8625558"/><trkpt lat="53.0737378" lon="8.8625713"/><trkpt lat="53.07379" lon="8.8624254"/><trkpt lat="53.0737744" lon="8.8624099"/><trkpt lat="53.0737428" lon="8.8623786"/><trkpt lat="53.0737155" lon="8.8623515"/><trkpt lat="53.0736632" lon="8.8624974"/></trkseg></trk><trk><name>way/377078502</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377078502</desc><trkseg><trkpt lat="53.0612297" lon="8.8820102"/><trkpt lat="53.0611367" lon="8.8820815"/><trkpt lat="53.0611518" lon="8.8821358"/><trkpt lat="53.0611663" lon="8.8821884"/><trkpt lat="53.0611783" lon="8.8822316"/><trkpt lat="53.0612713" lon="8.8821603"/><trkpt lat="53.0612594" lon="8.8821173"/><trkpt lat="53.0612445" lon="8.8820638"/><trkpt lat="53.0612297" lon="8.8820102"/></trkseg></trk><trk><name>way/377078503</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+id=way/377078503</desc><trkseg><trkpt lat="53.0734854" lon="8.8682722"/><trkpt lat="53.0734601" lon="8.8682531"/><trkpt lat="53.073427" lon="8.8682282"/><trkpt lat="53.0734053" lon="8.8682119"/><trkpt lat="53.0733404" lon="8.8684507"/><trkpt lat="53.0733619" lon="8.868467"/><trkpt lat="53.0733942" lon="8.8684912"/><trkpt lat="53.0734205" lon="8.8685111"/><trkpt lat="53.0734854" lon="8.8682722"/></trkseg></trk><trk><name>way/377078504</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+id=way/377078504</desc><trkseg><trkpt lat="53.0720043" lon="8.866893"/><trkpt lat="53.0720154" lon="8.8669309"/><trkpt lat="53.0720331" lon="8.866991"/><trkpt lat="53.0720456" lon="8.8670335"/><trkpt lat="53.0721444" lon="8.8667942"/><trkpt lat="53.072133" lon="8.8667544"/><trkpt lat="53.0721155" lon="8.8666927"/><trkpt lat="53.0721048" lon="8.8666553"/><trkpt lat="53.0720043" lon="8.866893"/></trkseg></trk><trk><name>way/377078506</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377078506</desc><trkseg><trkpt lat="53.0720893" lon="8.8666006"/><trkpt lat="53.072076" lon="8.8665542"/><trkpt lat="53.0720543" lon="8.8664779"/><trkpt lat="53.0720367" lon="8.866416"/><trkpt lat="53.0719384" lon="8.8666689"/><trkpt lat="53.071954" lon="8.8667221"/><trkpt lat="53.0719762" lon="8.8667976"/><trkpt lat="53.0719893" lon="8.866842"/><trkpt lat="53.0720893" lon="8.8666006"/></trkseg></trk><trk><name>way/377078508</name><desc>layer=1
+man_made=bridge
+id=way/377078508</desc><trkseg><trkpt lat="53.0662721" lon="8.8783195"/><trkpt lat="53.0663047" lon="8.87826"/><trkpt lat="53.0663949" lon="8.8780951"/><trkpt lat="53.0664259" lon="8.8780383"/><trkpt lat="53.0661013" lon="8.8782683"/><trkpt lat="53.0660669" lon="8.8783547"/><trkpt lat="53.0660125" lon="8.878491"/><trkpt lat="53.0659925" lon="8.878541"/><trkpt lat="53.0662721" lon="8.8783195"/></trkseg></trk><trk><name>way/377481063</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377481063</desc><trkseg><trkpt lat="53.135602" lon="8.7391752"/><trkpt lat="53.1355779" lon="8.7391634"/><trkpt lat="53.1355505" lon="8.73915"/><trkpt lat="53.1355082" lon="8.7393905"/><trkpt lat="53.1355355" lon="8.7394039"/><trkpt lat="53.1355596" lon="8.7394157"/><trkpt lat="53.135602" lon="8.7391752"/></trkseg></trk><trk><name>way/377481064</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377481064</desc><trkseg><trkpt lat="53.135639" lon="8.7391933"/><trkpt lat="53.1355966" lon="8.7394338"/><trkpt lat="53.1356227" lon="8.7394465"/><trkpt lat="53.1356514" lon="8.7394606"/><trkpt lat="53.1356937" lon="8.7392201"/><trkpt lat="53.135665" lon="8.7392061"/><trkpt lat="53.135639" lon="8.7391933"/></trkseg></trk><trk><name>way/377481065</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377481065</desc><trkseg><trkpt lat="53.1355144" lon="8.7391323"/><trkpt lat="53.1354911" lon="8.7391209"/><trkpt lat="53.1354666" lon="8.7391089"/><trkpt lat="53.1354242" lon="8.7393494"/><trkpt lat="53.1354487" lon="8.7393614"/><trkpt lat="53.135472" lon="8.7393728"/><trkpt lat="53.1355144" lon="8.7391323"/></trkseg></trk><trk><name>way/377539573</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377539573</desc><trkseg><trkpt lat="53.0949437" lon="8.8968649"/><trkpt lat="53.0949127" lon="8.8968834"/><trkpt lat="53.0948697" lon="8.8969091"/><trkpt lat="53.0948295" lon="8.8969331"/><trkpt lat="53.094773" lon="8.8972738"/><trkpt lat="53.0948151" lon="8.897248"/><trkpt lat="53.0948576" lon="8.8972219"/><trkpt lat="53.0948919" lon="8.8972009"/><trkpt lat="53.0949437" lon="8.8968649"/></trkseg></trk><trk><name>way/377539655</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377539655</desc><trkseg><trkpt lat="53.1463663" lon="8.7386056"/><trkpt lat="53.1463544" lon="8.738641"/><trkpt lat="53.1463245" lon="8.7387302"/><trkpt lat="53.1462777" lon="8.7388697"/><trkpt lat="53.1462528" lon="8.7389437"/><trkpt lat="53.1464929" lon="8.73907"/><trkpt lat="53.1465197" lon="8.7389944"/><trkpt lat="53.1465691" lon="8.7388544"/><trkpt lat="53.1466006" lon="8.7387652"/><trkpt lat="53.146609" lon="8.7387416"/><trkpt lat="53.1463663" lon="8.7386056"/></trkseg></trk><trk><name>Alfred-Hoffmann-Brücke</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Alfred-Hoffmann-Brücke
+ref:lfd=0218,T016
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T016
+wikidata=Q45344244
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T016
+id=way/377539817</desc><trkseg><trkpt lat="53.1006458" lon="8.8353293"/><trkpt lat="53.1006115" lon="8.8352009"/><trkpt lat="53.1005959" lon="8.8352125"/><trkpt lat="53.1005792" lon="8.8352249"/><trkpt lat="53.1006135" lon="8.8353533"/><trkpt lat="53.1006302" lon="8.8353409"/><trkpt lat="53.1006458" lon="8.8353293"/></trkseg></trk><trk><name>Aselmeyerbrücken</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Aselmeyerbrücken
+ref:lfd=0218,T012
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T012
+wikidata=Q45337616
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T012
+id=way/377539818</desc><trkseg><trkpt lat="53.0939028" lon="8.822892"/><trkpt lat="53.0938906" lon="8.8228799"/><trkpt lat="53.0938456" lon="8.8230058"/><trkpt lat="53.0938578" lon="8.8230179"/><trkpt lat="53.093867" lon="8.8230271"/><trkpt lat="53.0939121" lon="8.8229012"/><trkpt lat="53.0939028" lon="8.822892"/></trkseg></trk><trk><name>Aselmeyerbrücken</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Aselmeyerbrücken
+ref:lfd=0218,T012
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T012
+wikidata=Q45337616
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T012
+id=way/377539820</desc><trkseg><trkpt lat="53.0939747" lon="8.822691"/><trkpt lat="53.093984" lon="8.8227002"/><trkpt lat="53.094029" lon="8.8225744"/><trkpt lat="53.0940197" lon="8.8225652"/><trkpt lat="53.0940076" lon="8.8225531"/><trkpt lat="53.0939625" lon="8.8226789"/><trkpt lat="53.0939747" lon="8.822691"/></trkseg></trk><trk><name>Carl-Schütte-Brücke</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Carl-Schütte-Brücke
+ref:lfd=0218,T019
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T019
+wikidata=Q45344295
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T019
+id=way/377539823</desc><trkseg><trkpt lat="53.0977476" lon="8.8341891"/><trkpt lat="53.0978088" lon="8.83431"/><trkpt lat="53.0978364" lon="8.8342712"/><trkpt lat="53.0978659" lon="8.8342298"/><trkpt lat="53.0978521" lon="8.8342026"/><trkpt lat="53.0978047" lon="8.834109"/><trkpt lat="53.0977752" lon="8.8341504"/><trkpt lat="53.0977476" lon="8.8341891"/></trkseg></trk><trk><name>Fritz-Hollweg-Brücke</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+name=Fritz-Hollweg-Brücke
+id=way/377539825</desc><trkseg><trkpt lat="53.1055617" lon="8.8371781"/><trkpt lat="53.105655" lon="8.8373128"/><trkpt lat="53.1056647" lon="8.8372942"/><trkpt lat="53.105674" lon="8.8372763"/><trkpt lat="53.1055807" lon="8.8371416"/><trkpt lat="53.1055714" lon="8.8371595"/><trkpt lat="53.1055617" lon="8.8371781"/></trkseg></trk><trk><name>Hachez-Brücke</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+lfd:criteria=Q45344208
+man_made=bridge
+name=Hachez-Brücke
+ref:lfd=0218,T014
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T014
+wikidata=Q45344208
+id=way/377539827</desc><trkseg><trkpt lat="53.0959274" lon="8.832168"/><trkpt lat="53.0959343" lon="8.8322172"/><trkpt lat="53.0959419" lon="8.8322723"/><trkpt lat="53.0960627" lon="8.8322256"/><trkpt lat="53.096055" lon="8.8321705"/><trkpt lat="53.0960482" lon="8.8321213"/><trkpt lat="53.0959274" lon="8.832168"/></trkseg></trk><trk><name>Hoffmann-Brücke</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Hoffmann-Brücke
+ref:lfd=0218,T015
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T015
+wikidata=Q45344225
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T015
+id=way/377539829</desc><trkseg><trkpt lat="53.0955548" lon="8.8260415"/><trkpt lat="53.0955454" lon="8.8260622"/><trkpt lat="53.0955361" lon="8.8260824"/><trkpt lat="53.0955987" lon="8.8261621"/><trkpt lat="53.095608" lon="8.8261419"/><trkpt lat="53.0956175" lon="8.8261213"/><trkpt lat="53.0955548" lon="8.8260415"/></trkseg></trk><trk><name>Köhler Brücke</name><desc>layer=1
+man_made=bridge
+name=Köhler Brücke
+id=way/377539831</desc><trkseg><trkpt lat="53.0761054" lon="8.7229636"/><trkpt lat="53.0760887" lon="8.723003"/><trkpt lat="53.0760736" lon="8.7230385"/><trkpt lat="53.0760984" lon="8.7230677"/><trkpt lat="53.0762472" lon="8.7232432"/><trkpt lat="53.07626" lon="8.7232583"/><trkpt lat="53.0762751" lon="8.7232228"/><trkpt lat="53.0762919" lon="8.7231834"/><trkpt lat="53.0762699" lon="8.7231576"/><trkpt lat="53.0761279" lon="8.7229901"/><trkpt lat="53.0761054" lon="8.7229636"/></trkseg></trk><trk><name>Lambert-Leisewitz-Brücke</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Lambert-Leisewitz-Brücke
+ref:lfd=0218,T017
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T017
+wikidata=Q45344261
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T017
+id=way/377539835</desc><trkseg><trkpt lat="53.0987354" lon="8.8332895"/><trkpt lat="53.098726" lon="8.8332852"/><trkpt lat="53.0986507" lon="8.833251"/><trkpt lat="53.098646" lon="8.8332799"/><trkpt lat="53.0986403" lon="8.8333144"/><trkpt lat="53.098725" lon="8.8333528"/><trkpt lat="53.0987306" lon="8.8333184"/><trkpt lat="53.0987354" lon="8.8332895"/></trkseg></trk><trk><name>Marie-Bergmann-Brücke</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Marie-Bergmann-Brücke
+ref:lfd=0218,T013
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T013
+wikidata=Q45344186
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T013
+id=way/377539837</desc><trkseg><trkpt lat="53.093585" lon="8.8290316"/><trkpt lat="53.0935848" lon="8.8290669"/><trkpt lat="53.09376" lon="8.8290695"/><trkpt lat="53.0937602" lon="8.8290342"/><trkpt lat="53.0937605" lon="8.8289923"/><trkpt lat="53.0935852" lon="8.8289896"/><trkpt lat="53.093585" lon="8.8290316"/></trkseg></trk><trk><name>Melchersbrücke</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Melchersbrücke
+ref:lfd=0218,T018
+start_date=1881/1882
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T018
+wikidata=Q45344279
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T018
+id=way/377539838</desc><trkseg><trkpt lat="53.0942815" lon="8.8266086"/><trkpt lat="53.0943209" lon="8.8266508"/><trkpt lat="53.0943449" lon="8.8266766"/><trkpt lat="53.0943366" lon="8.8266587"/><trkpt lat="53.0943325" lon="8.8266398"/><trkpt lat="53.0943351" lon="8.826614"/><trkpt lat="53.0943409" lon="8.8265989"/><trkpt lat="53.094375" lon="8.8265107"/><trkpt lat="53.0943837" lon="8.8264882"/><trkpt lat="53.0943954" lon="8.8264717"/><trkpt lat="53.0944034" lon="8.8264691"/><trkpt lat="53.0944168" lon="8.82647"/><trkpt lat="53.0943983" lon="8.8264502"/><trkpt lat="53.0943589" lon="8.826408"/><trkpt lat="53.0943176" lon="8.8263637"/><trkpt lat="53.0942921" lon="8.8263365"/><trkpt lat="53.0943022" lon="8.8263665"/><trkpt lat="53.0943041" lon="8.8263985"/><trkpt lat="53.0942947" lon="8.8264229"/><trkpt lat="53.0942598" lon="8.8265134"/><trkpt lat="53.0942511" lon="8.826536"/><trkpt lat="53.0942373" lon="8.8265494"/><trkpt lat="53.0942255" lon="8.8265487"/><trkpt lat="53.0942401" lon="8.8265643"/><trkpt lat="53.0942815" lon="8.8266086"/></trkseg></trk><trk><name>Schüttebrücke</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+material=wood
+name=Schüttebrücke
+id=way/377539839</desc><trkseg><trkpt lat="53.0921135" lon="8.8296915"/><trkpt lat="53.0921248" lon="8.8297087"/><trkpt lat="53.09216" lon="8.829645"/><trkpt lat="53.0921487" lon="8.8296278"/><trkpt lat="53.0921392" lon="8.8296132"/><trkpt lat="53.092104" lon="8.829677"/><trkpt lat="53.0921135" lon="8.8296915"/></trkseg></trk><trk><name>Wiegandbrücke</name><desc>bridge:structure=humpback
+description=Kulturdenkmal, siehe http://wiki.openstreetmap.org/wiki/Bremen/Kulturdenkm%C3%A4ler
+heritage=4
+heritage:operator=lfd
+layer=1
+man_made=bridge
+name=Wiegandbrücke
+ref:lfd=0218,T020
+start_date=1905
+website=https://www.denkmalpflege.bremen.de/sixcms/detail.php?template=20_denkmal_wrapper_d&amp;obj=00000218,T020
+wikidata=Q45344313
+wikipedia=de:Liste der Kulturdenkmäler in Schwachhausen#0218,T020
+id=way/377539840</desc><trkseg><trkpt lat="53.0995805" lon="8.8277247"/><trkpt lat="53.0995641" lon="8.8277122"/><trkpt lat="53.0995468" lon="8.8277754"/><trkpt lat="53.0995043" lon="8.8279303"/><trkpt lat="53.0995207" lon="8.8279428"/><trkpt lat="53.0995347" lon="8.8279534"/><trkpt lat="53.0995505" lon="8.8278955"/><trkpt lat="53.0995945" lon="8.8277353"/><trkpt lat="53.0995805" lon="8.8277247"/></trkseg></trk><trk><name>way/377675794</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377675794</desc><trkseg><trkpt lat="53.0411577" lon="8.8414217"/><trkpt lat="53.0411533" lon="8.841432"/><trkpt lat="53.0413662" lon="8.8416494"/><trkpt lat="53.0413918" lon="8.8415824"/><trkpt lat="53.0414373" lon="8.8414631"/><trkpt lat="53.041452" lon="8.8414246"/><trkpt lat="53.0412763" lon="8.8412464"/><trkpt lat="53.0412458" lon="8.8411944"/><trkpt lat="53.0412284" lon="8.8412393"/><trkpt lat="53.0412057" lon="8.8412978"/><trkpt lat="53.041177" lon="8.8413718"/><trkpt lat="53.0411577" lon="8.8414217"/></trkseg></trk><trk><name>way/377675795</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377675795</desc><trkseg><trkpt lat="53.0389862" lon="8.8458452"/><trkpt lat="53.0387264" lon="8.8457031"/><trkpt lat="53.0386096" lon="8.8456281"/><trkpt lat="53.0385411" lon="8.8455639"/><trkpt lat="53.0384727" lon="8.845483"/><trkpt lat="53.0384236" lon="8.8454106"/><trkpt lat="53.0383876" lon="8.8453415"/><trkpt lat="53.0383491" lon="8.845243"/><trkpt lat="53.0383213" lon="8.8451284"/><trkpt lat="53.0383051" lon="8.8450257"/><trkpt lat="53.0383019" lon="8.8449865"/><trkpt lat="53.0382909" lon="8.8448505"/><trkpt lat="53.038272" lon="8.8448524"/><trkpt lat="53.0382524" lon="8.8448538"/><trkpt lat="53.0382539" lon="8.844896"/><trkpt lat="53.0382662" lon="8.8450235"/><trkpt lat="53.0382675" lon="8.8450368"/><trkpt lat="53.0382721" lon="8.8450846"/><trkpt lat="53.0382863" lon="8.8451773"/><trkpt lat="53.0383152" lon="8.8452632"/><trkpt lat="53.0383506" lon="8.8453735"/><trkpt lat="53.0383967" lon="8.8454561"/><trkpt lat="53.0384448" lon="8.8455327"/><trkpt lat="53.0385259" lon="8.8456245"/><trkpt lat="53.0385795" lon="8.8456759"/><trkpt lat="53.0387112" lon="8.8457669"/><trkpt lat="53.03897" lon="8.84591"/><trkpt lat="53.0389766" lon="8.8458761"/><trkpt lat="53.0389862" lon="8.8458452"/></trkseg></trk><trk><name>way/377675796</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377675796</desc><trkseg><trkpt lat="53.0434336" lon="8.8494215"/><trkpt lat="53.043277" lon="8.8494201"/><trkpt lat="53.0432769" lon="8.8494388"/><trkpt lat="53.0432768" lon="8.8494544"/><trkpt lat="53.0434334" lon="8.8494559"/><trkpt lat="53.0434335" lon="8.8494407"/><trkpt lat="53.0434336" lon="8.8494215"/></trkseg></trk><trk><name>way/377675798</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377675798</desc><trkseg><trkpt lat="53.0434339" lon="8.8458172"/><trkpt lat="53.0433355" lon="8.8458185"/><trkpt lat="53.0433355" lon="8.8458351"/><trkpt lat="53.0433356" lon="8.8458556"/><trkpt lat="53.0434341" lon="8.8458542"/><trkpt lat="53.043434" lon="8.8458358"/><trkpt lat="53.0434339" lon="8.8458172"/></trkseg></trk><trk><name>way/377675799</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377675799</desc><trkseg><trkpt lat="53.0433771" lon="8.8437098"/><trkpt lat="53.0433562" lon="8.8438471"/><trkpt lat="53.0433684" lon="8.8438522"/><trkpt lat="53.0433758" lon="8.8438553"/><trkpt lat="53.0433966" lon="8.8437179"/><trkpt lat="53.0433863" lon="8.8437136"/><trkpt lat="53.0433771" lon="8.8437098"/></trkseg></trk><trk><name>way/377675800</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377675800</desc><trkseg><trkpt lat="53.0409348" lon="8.8423511"/><trkpt lat="53.0409248" lon="8.8423564"/><trkpt lat="53.040968" lon="8.8425821"/><trkpt lat="53.040982" lon="8.8425747"/><trkpt lat="53.0409934" lon="8.8425687"/><trkpt lat="53.0409501" lon="8.842343"/><trkpt lat="53.0409348" lon="8.8423511"/></trkseg></trk><trk><name>way/377675801</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/377675801</desc><trkseg><trkpt lat="53.0412097" lon="8.8419359"/><trkpt lat="53.0412403" lon="8.8418741"/><trkpt lat="53.040988" lon="8.8417698"/><trkpt lat="53.040958" lon="8.8418315"/><trkpt lat="53.0409167" lon="8.8419159"/><trkpt lat="53.0409003" lon="8.8419494"/><trkpt lat="53.0411534" lon="8.8420489"/><trkpt lat="53.0411715" lon="8.8420141"/><trkpt lat="53.0412097" lon="8.8419359"/></trkseg></trk><trk><name>way/397508936</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397508936</desc><trkseg><trkpt lat="53.5468386" lon="8.6191321"/><trkpt lat="53.5467673" lon="8.619113"/><trkpt lat="53.5466959" lon="8.6191003"/><trkpt lat="53.5466634" lon="8.6195259"/><trkpt lat="53.5466676" lon="8.6199144"/><trkpt lat="53.5466907" lon="8.6200839"/><trkpt lat="53.546768" lon="8.6200596"/><trkpt lat="53.5468355" lon="8.6200398"/><trkpt lat="53.5468093" lon="8.6197396"/><trkpt lat="53.5468072" lon="8.6195047"/><trkpt lat="53.5468386" lon="8.6191321"/></trkseg></trk><trk><name>way/397508937</name><desc>layer=1
+man_made=bridge
+id=way/397508937</desc><trkseg><trkpt lat="53.5477044" lon="8.6141595"/><trkpt lat="53.5476346" lon="8.6141956"/><trkpt lat="53.5476028" lon="8.6142115"/><trkpt lat="53.5475637" lon="8.6142341"/><trkpt lat="53.5474322" lon="8.6142967"/><trkpt lat="53.5473335" lon="8.6147563"/><trkpt lat="53.5474413" lon="8.6147108"/><trkpt lat="53.5475244" lon="8.6146628"/><trkpt lat="53.5475916" lon="8.6146313"/><trkpt lat="53.5476414" lon="8.6146065"/><trkpt lat="53.5477044" lon="8.6141595"/></trkseg></trk><trk><name>way/397508938</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397508938</desc><trkseg><trkpt lat="53.5528469" lon="8.5931338"/><trkpt lat="53.5517958" lon="8.5932631"/><trkpt lat="53.5517973" lon="8.5933946"/><trkpt lat="53.5518004" lon="8.593683"/><trkpt lat="53.551802" lon="8.593833"/><trkpt lat="53.5528474" lon="8.5937045"/><trkpt lat="53.5528473" lon="8.5935527"/><trkpt lat="53.552847" lon="8.5932837"/><trkpt lat="53.5528469" lon="8.5931338"/></trkseg></trk><trk><name>way/397508939</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397508939</desc><trkseg><trkpt lat="53.5506604" lon="8.5938631"/><trkpt lat="53.5504633" lon="8.5938786"/><trkpt lat="53.5504366" lon="8.5940452"/><trkpt lat="53.5504169" lon="8.5941701"/><trkpt lat="53.5504106" lon="8.5942101"/><trkpt lat="53.5505881" lon="8.5941954"/><trkpt lat="53.5505974" lon="8.5941507"/><trkpt lat="53.5506208" lon="8.5940386"/><trkpt lat="53.5506604" lon="8.5938631"/></trkseg></trk><trk><name>way/397508940</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397508940</desc><trkseg><trkpt lat="53.5507499" lon="8.5933781"/><trkpt lat="53.5505618" lon="8.5933797"/><trkpt lat="53.5505492" lon="8.5934457"/><trkpt lat="53.5505184" lon="8.5936012"/><trkpt lat="53.5504935" lon="8.5937375"/><trkpt lat="53.5506875" lon="8.5937211"/><trkpt lat="53.550717" lon="8.593575"/><trkpt lat="53.5507413" lon="8.5934257"/><trkpt lat="53.5507499" lon="8.5933781"/></trkseg></trk><trk><name>Kennedybrücke</name><desc>bridge=movable
+bridge:structure=beam
+layer=1
+man_made=bridge
+name=Kennedybrücke
+wikidata=Q1738812
+id=way/397508941</desc><trkseg><trkpt lat="53.5385922" lon="8.5834045"/><trkpt lat="53.5382988" lon="8.5838552"/><trkpt lat="53.5382322" lon="8.5839575"/><trkpt lat="53.5379085" lon="8.584455"/><trkpt lat="53.5379661" lon="8.5845612"/><trkpt lat="53.5380256" lon="8.5846708"/><trkpt lat="53.5380825" lon="8.5847755"/><trkpt lat="53.5383564" lon="8.5843545"/><trkpt lat="53.5383886" lon="8.5843049"/><trkpt lat="53.5384039" lon="8.5842814"/><trkpt lat="53.5384144" lon="8.5842652"/><trkpt lat="53.5384865" lon="8.5841544"/><trkpt lat="53.5386433" lon="8.5839133"/><trkpt lat="53.538766" lon="8.5837248"/><trkpt lat="53.5387058" lon="8.5836139"/><trkpt lat="53.5386498" lon="8.5835106"/><trkpt lat="53.5385922" lon="8.5834045"/></trkseg></trk><trk><name>way/397511094</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397511094</desc><trkseg><trkpt lat="53.057279" lon="8.7552924"/><trkpt lat="53.0572573" lon="8.7553086"/><trkpt lat="53.0572109" lon="8.7553354"/><trkpt lat="53.0571291" lon="8.7553827"/><trkpt lat="53.0570429" lon="8.7554324"/><trkpt lat="53.0569095" lon="8.7555095"/><trkpt lat="53.0568879" lon="8.7555207"/><trkpt lat="53.0571219" lon="8.7559952"/><trkpt lat="53.0571418" lon="8.7559826"/><trkpt lat="53.0571948" lon="8.7559529"/><trkpt lat="53.0572728" lon="8.7559091"/><trkpt lat="53.0573623" lon="8.7558588"/><trkpt lat="53.0574437" lon="8.7558131"/><trkpt lat="53.0574947" lon="8.7557845"/><trkpt lat="53.0575146" lon="8.7557692"/><trkpt lat="53.0574798" lon="8.7556988"/><trkpt lat="53.057319" lon="8.7553733"/><trkpt lat="53.057279" lon="8.7552924"/></trkseg></trk><trk><name>way/397571759</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397571759</desc><trkseg><trkpt lat="53.0577302" lon="8.7573769"/><trkpt lat="53.0575716" lon="8.7570595"/><trkpt lat="53.0575104" lon="8.756941"/><trkpt lat="53.0570548" lon="8.7560587"/><trkpt lat="53.0568446" lon="8.7556514"/><trkpt lat="53.0567386" lon="8.7554463"/><trkpt lat="53.0566838" lon="8.7555246"/><trkpt lat="53.0569469" lon="8.756034"/><trkpt lat="53.0569583" lon="8.7560562"/><trkpt lat="53.0569837" lon="8.7561053"/><trkpt lat="53.0572027" lon="8.7565296"/><trkpt lat="53.0574583" lon="8.7570244"/><trkpt lat="53.0575403" lon="8.7571834"/><trkpt lat="53.0575666" lon="8.7572343"/><trkpt lat="53.0576755" lon="8.7574562"/><trkpt lat="53.0578521" lon="8.7578276"/><trkpt lat="53.0580281" lon="8.7582184"/><trkpt lat="53.0581899" lon="8.7585857"/><trkpt lat="53.05821" lon="8.7586314"/><trkpt lat="53.0582247" lon="8.7586699"/><trkpt lat="53.0582422" lon="8.7586507"/><trkpt lat="53.0582673" lon="8.7586184"/><trkpt lat="53.0582825" lon="8.7586018"/><trkpt lat="53.0580851" lon="8.7581402"/><trkpt lat="53.0579121" lon="8.7577645"/><trkpt lat="53.0577957" lon="8.7575107"/><trkpt lat="53.0577302" lon="8.7573769"/></trkseg></trk><trk><name>way/397571767</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397571767</desc><trkseg><trkpt lat="53.0586452" lon="8.7548677"/><trkpt lat="53.0583766" lon="8.7542642"/><trkpt lat="53.0583605" lon="8.7542841"/><trkpt lat="53.0583449" lon="8.7543033"/><trkpt lat="53.0586136" lon="8.7549067"/><trkpt lat="53.0586292" lon="8.7548875"/><trkpt lat="53.0586452" lon="8.7548677"/></trkseg></trk><trk><name>way/397670870</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397670870</desc><trkseg><trkpt lat="53.0493754" lon="8.7455462"/><trkpt lat="53.0494095" lon="8.7455311"/><trkpt lat="53.04945" lon="8.7455132"/><trkpt lat="53.0494832" lon="8.7454985"/><trkpt lat="53.0494526" lon="8.7454439"/><trkpt lat="53.049422" lon="8.7453772"/><trkpt lat="53.0493971" lon="8.745323"/><trkpt lat="53.0493646" lon="8.7453356"/><trkpt lat="53.0493261" lon="8.7453505"/><trkpt lat="53.0492941" lon="8.7453629"/><trkpt lat="53.0493029" lon="8.7453827"/><trkpt lat="53.0493153" lon="8.7454107"/><trkpt lat="53.0493516" lon="8.7454925"/><trkpt lat="53.0493754" lon="8.7455462"/></trkseg></trk><trk><name>way/397719220</name><desc>layer=1
+man_made=bridge
+id=way/397719220</desc><trkseg><trkpt lat="53.0482348" lon="8.7601959"/><trkpt lat="53.048228" lon="8.7602566"/><trkpt lat="53.0482204" lon="8.7603246"/><trkpt lat="53.0482645" lon="8.7603382"/><trkpt lat="53.048332" lon="8.760359"/><trkpt lat="53.0483749" lon="8.7603722"/><trkpt lat="53.0483825" lon="8.7603043"/><trkpt lat="53.0483893" lon="8.7602436"/><trkpt lat="53.0483463" lon="8.7602303"/><trkpt lat="53.0482785" lon="8.7602094"/><trkpt lat="53.0482348" lon="8.7601959"/></trkseg></trk><trk><name>way/397719225</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397719225</desc><trkseg><trkpt lat="53.0608708" lon="8.7685918"/><trkpt lat="53.0608486" lon="8.7685915"/><trkpt lat="53.0608151" lon="8.7685911"/><trkpt lat="53.0607934" lon="8.7685908"/><trkpt lat="53.0607756" lon="8.7685906"/><trkpt lat="53.0607373" lon="8.7685901"/><trkpt lat="53.0607916" lon="8.7689745"/><trkpt lat="53.0608294" lon="8.7689755"/><trkpt lat="53.060847" lon="8.768976"/><trkpt lat="53.0608743" lon="8.7689767"/><trkpt lat="53.0609083" lon="8.7689776"/><trkpt lat="53.0609308" lon="8.7689782"/><trkpt lat="53.0608708" lon="8.7685918"/></trkseg></trk><trk><name>way/397719236</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397719236</desc><trkseg><trkpt lat="53.0613019" lon="8.7685921"/><trkpt lat="53.0612865" lon="8.768592"/><trkpt lat="53.0612344" lon="8.7685917"/><trkpt lat="53.0611607" lon="8.7685912"/><trkpt lat="53.0610762" lon="8.7685906"/><trkpt lat="53.0610182" lon="8.7685902"/><trkpt lat="53.0609488" lon="8.7685898"/><trkpt lat="53.0609211" lon="8.7685896"/><trkpt lat="53.0609901" lon="8.7689769"/><trkpt lat="53.0610145" lon="8.768977"/><trkpt lat="53.0611363" lon="8.7689774"/><trkpt lat="53.0612203" lon="8.7689777"/><trkpt lat="53.0612896" lon="8.768978"/><trkpt lat="53.0613431" lon="8.7689782"/><trkpt lat="53.0613627" lon="8.7689782"/><trkpt lat="53.0613564" lon="8.7689386"/><trkpt lat="53.0613076" lon="8.7686281"/><trkpt lat="53.0613019" lon="8.7685921"/></trkseg></trk><trk><name>way/397719252</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397719252</desc><trkseg><trkpt lat="53.0588893" lon="8.7601048"/><trkpt lat="53.0588584" lon="8.7600246"/><trkpt lat="53.0588421" lon="8.760042"/><trkpt lat="53.0588147" lon="8.7600713"/><trkpt lat="53.0587985" lon="8.7600886"/><trkpt lat="53.0588412" lon="8.7601993"/><trkpt lat="53.0590415" lon="8.760705"/><trkpt lat="53.0593303" lon="8.7614645"/><trkpt lat="53.0594497" lon="8.7617939"/><trkpt lat="53.0594762" lon="8.7618652"/><trkpt lat="53.059537" lon="8.762028"/><trkpt lat="53.05959" lon="8.7621699"/><trkpt lat="53.05961" lon="8.7622235"/><trkpt lat="53.0596198" lon="8.7622497"/><trkpt lat="53.0596277" lon="8.7622708"/><trkpt lat="53.0596446" lon="8.7623162"/><trkpt lat="53.0598184" lon="8.7628011"/><trkpt lat="53.0598992" lon="8.7630416"/><trkpt lat="53.0599656" lon="8.7632602"/><trkpt lat="53.0600286" lon="8.7634764"/><trkpt lat="53.0600372" lon="8.7635232"/><trkpt lat="53.0600853" lon="8.7637169"/><trkpt lat="53.0601396" lon="8.7639978"/><trkpt lat="53.0602129" lon="8.764468"/><trkpt lat="53.0602258" lon="8.7645588"/><trkpt lat="53.0602925" lon="8.7650727"/><trkpt lat="53.0603245" lon="8.7653187"/><trkpt lat="53.0604008" lon="8.7652901"/><trkpt lat="53.0603368" lon="8.7647947"/><trkpt lat="53.0602767" lon="8.7643364"/><trkpt lat="53.0602253" lon="8.764008"/><trkpt lat="53.0601739" lon="8.7637417"/><trkpt lat="53.0601205" lon="8.7635021"/><trkpt lat="53.0600366" lon="8.7632068"/><trkpt lat="53.0599508" lon="8.7629389"/><trkpt lat="53.0598272" lon="8.7625839"/><trkpt lat="53.059654" lon="8.7621135"/><trkpt lat="53.0594737" lon="8.7616253"/><trkpt lat="53.0592064" lon="8.760904"/><trkpt lat="53.0588893" lon="8.7601048"/></trkseg></trk><trk><name>way/397719262</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/397719262</desc><trkseg><trkpt lat="53.0501425" lon="8.7583695"/><trkpt lat="53.0501213" lon="8.7583779"/><trkpt lat="53.050097" lon="8.7583875"/><trkpt lat="53.0501926" lon="8.7590558"/><trkpt lat="53.0502169" lon="8.7590462"/><trkpt lat="53.0502381" lon="8.7590378"/><trkpt lat="53.0501425" lon="8.7583695"/></trkseg></trk><trk><name>way/398251283</name><desc>bridge=yes
+bridge:structure=beam
+layer=1
+man_made=bridge
+material=concrete
+id=way/398251283</desc><trkseg><trkpt lat="53.0561489" lon="8.7919176"/><trkpt lat="53.0560531" lon="8.792186"/><trkpt lat="53.0558388" lon="8.7927777"/><trkpt lat="53.0556133" lon="8.7934897"/><trkpt lat="53.0554432" lon="8.7940643"/><trkpt lat="53.0553214" lon="8.7945167"/><trkpt lat="53.0552327" lon="8.7949403"/><trkpt lat="53.0552917" lon="8.7949752"/><trkpt lat="53.055344" lon="8.7950044"/><trkpt lat="53.0553242" lon="8.7950884"/><trkpt lat="53.0553671" lon="8.7951174"/><trkpt lat="53.0554144" lon="8.7951495"/><trkpt lat="53.0554439" lon="8.7950314"/><trkpt lat="53.0555143" lon="8.7947822"/><trkpt lat="53.0555768" lon="8.794598"/><trkpt lat="53.0556587" lon="8.7943267"/><trkpt lat="53.0558742" lon="8.7935907"/><trkpt lat="53.0560379" lon="8.7930774"/><trkpt lat="53.0561508" lon="8.7927674"/><trkpt lat="53.0562861" lon="8.792405"/><trkpt lat="53.0563402" lon="8.7922859"/><trkpt lat="53.0562897" lon="8.7921852"/><trkpt lat="53.0562044" lon="8.7920216"/><trkpt lat="53.0561489" lon="8.7919176"/></trkseg></trk><trk><name>way/459222693</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/459222693</desc><trkseg><trkpt lat="53.1635085" lon="8.7202855"/><trkpt lat="53.1635283" lon="8.7201442"/><trkpt lat="53.1625727" lon="8.7205546"/><trkpt lat="53.1625553" lon="8.7206915"/><trkpt lat="53.1625226" lon="8.7209481"/><trkpt lat="53.1625063" lon="8.7210776"/><trkpt lat="53.1634575" lon="8.7206713"/><trkpt lat="53.1634753" lon="8.7205353"/><trkpt lat="53.1635085" lon="8.7202855"/></trkseg></trk><trk><name>way/479382390</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/479382390</desc><trkseg><trkpt lat="53.0912184" lon="8.8000502"/><trkpt lat="53.0912429" lon="8.800105"/><trkpt lat="53.0912746" lon="8.800175"/><trkpt lat="53.0912981" lon="8.8002272"/><trkpt lat="53.0913227" lon="8.800282"/><trkpt lat="53.0913458" lon="8.8003329"/><trkpt lat="53.091367" lon="8.8003792"/><trkpt lat="53.0914783" lon="8.8002381"/><trkpt lat="53.091459" lon="8.8001958"/><trkpt lat="53.0914358" lon="8.8001445"/><trkpt lat="53.0914111" lon="8.8000903"/><trkpt lat="53.091387" lon="8.800037"/><trkpt lat="53.0913571" lon="8.7999713"/><trkpt lat="53.091332" lon="8.7999155"/><trkpt lat="53.0913087" lon="8.7998635"/><trkpt lat="53.0911971" lon="8.8000027"/><trkpt lat="53.0912184" lon="8.8000502"/></trkseg></trk><trk><name>way/479382391</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/479382391</desc><trkseg><trkpt lat="53.0906427" lon="8.7987203"/><trkpt lat="53.0906688" lon="8.7987805"/><trkpt lat="53.0906913" lon="8.7988303"/><trkpt lat="53.0908057" lon="8.7987572"/><trkpt lat="53.0907869" lon="8.7987102"/><trkpt lat="53.0907619" lon="8.7986495"/><trkpt lat="53.090744" lon="8.7986057"/><trkpt lat="53.090624" lon="8.7986727"/><trkpt lat="53.0906427" lon="8.7987203"/></trkseg></trk><trk><name>way/479567330</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/479567330</desc><trkseg><trkpt lat="53.087369" lon="8.7826882"/><trkpt lat="53.087355" lon="8.7826657"/><trkpt lat="53.0870256" lon="8.7832351"/><trkpt lat="53.0870442" lon="8.7832651"/><trkpt lat="53.0870619" lon="8.7832933"/><trkpt lat="53.0873911" lon="8.7827236"/><trkpt lat="53.087369" lon="8.7826882"/></trkseg></trk><trk><name>way/479567332</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/479567332</desc><trkseg><trkpt lat="53.0845159" lon="8.7883851"/><trkpt lat="53.0844999" lon="8.7883696"/><trkpt lat="53.0843799" lon="8.7887321"/><trkpt lat="53.0843962" lon="8.7887454"/><trkpt lat="53.0844142" lon="8.7887602"/><trkpt lat="53.084536" lon="8.7884035"/><trkpt lat="53.0845159" lon="8.7883851"/></trkseg></trk><trk><name>way/605447600</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/605447600</desc><trkseg><trkpt lat="53.5977468" lon="8.54104"/><trkpt lat="53.5977808" lon="8.5409636"/><trkpt lat="53.5978062" lon="8.5409063"/><trkpt lat="53.5978368" lon="8.5408375"/><trkpt lat="53.5978685" lon="8.5407662"/><trkpt lat="53.5978966" lon="8.5407029"/><trkpt lat="53.5979233" lon="8.5406429"/><trkpt lat="53.5979493" lon="8.5405845"/><trkpt lat="53.5979766" lon="8.5405229"/><trkpt lat="53.5979844" lon="8.5405055"/><trkpt lat="53.597777" lon="8.5399657"/><trkpt lat="53.5977697" lon="8.5399863"/><trkpt lat="53.597746" lon="8.5400524"/><trkpt lat="53.5977245" lon="8.5401124"/><trkpt lat="53.5977027" lon="8.5401732"/><trkpt lat="53.5976756" lon="8.5402488"/><trkpt lat="53.5976484" lon="8.5403248"/><trkpt lat="53.5976222" lon="8.5403981"/><trkpt lat="53.5975964" lon="8.54047"/><trkpt lat="53.5975637" lon="8.5405612"/><trkpt lat="53.5977468" lon="8.54104"/></trkseg></trk><trk><name>way/605447601</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/605447601</desc><trkseg><trkpt lat="53.5972725" lon="8.5423289"/><trkpt lat="53.5970226" lon="8.5421131"/><trkpt lat="53.5970115" lon="8.5421497"/><trkpt lat="53.5970006" lon="8.5421853"/><trkpt lat="53.5972505" lon="8.5424012"/><trkpt lat="53.5972612" lon="8.5423659"/><trkpt lat="53.5972725" lon="8.5423289"/></trkseg></trk><trk><name>way/605447603</name><desc>bridge=movable
+bridge:structure=floating
+layer=1
+man_made=bridge
+id=way/605447603</desc><trkseg><trkpt lat="53.5685216" lon="8.5491972"/><trkpt lat="53.5684889" lon="8.549194"/><trkpt lat="53.5684436" lon="8.5491895"/><trkpt lat="53.5684188" lon="8.5498953"/><trkpt lat="53.5684596" lon="8.5498994"/><trkpt lat="53.5684968" lon="8.5499031"/><trkpt lat="53.5685216" lon="8.5491972"/></trkseg></trk><trk><name>way/605447604</name><desc>bridge=movable
+bridge:structure=floating
+layer=1
+man_made=bridge
+id=way/605447604</desc><trkseg><trkpt lat="53.571941" lon="8.5496366"/><trkpt lat="53.5718923" lon="8.5496301"/><trkpt lat="53.5718618" lon="8.5496261"/><trkpt lat="53.5718286" lon="8.5503352"/><trkpt lat="53.5718702" lon="8.5503407"/><trkpt lat="53.5719078" lon="8.5503457"/><trkpt lat="53.571941" lon="8.5496366"/></trkseg></trk><trk><name>way/605447605</name><desc>bridge=movable
+bridge:structure=floating
+layer=1
+man_made=bridge
+id=way/605447605</desc><trkseg><trkpt lat="53.5593192" lon="8.5592793"/><trkpt lat="53.5592739" lon="8.5592723"/><trkpt lat="53.5592208" lon="8.5592649"/><trkpt lat="53.5591895" lon="8.5600997"/><trkpt lat="53.5592356" lon="8.5601071"/><trkpt lat="53.559286" lon="8.5601128"/><trkpt lat="53.5593192" lon="8.5592793"/></trkseg></trk><trk><name>way/605447606</name><desc>bridge=movable
+bridge:structure=floating
+layer=1
+man_made=bridge
+id=way/605447606</desc><trkseg><trkpt lat="53.5564793" lon="8.5588715"/><trkpt lat="53.5564364" lon="8.5588666"/><trkpt lat="53.5563821" lon="8.5588603"/><trkpt lat="53.5563662" lon="8.5592537"/><trkpt lat="53.5563461" lon="8.5597477"/><trkpt lat="53.5563916" lon="8.5597529"/><trkpt lat="53.5564433" lon="8.5597588"/><trkpt lat="53.5564793" lon="8.5588715"/></trkseg></trk><trk><name>way/605447607</name><desc>bridge=movable
+bridge:movable=bascule
+layer=1
+man_made=bridge
+id=way/605447607</desc><trkseg><trkpt lat="53.5511399" lon="8.5675174"/><trkpt lat="53.5509511" lon="8.5671698"/><trkpt lat="53.5509366" lon="8.5671431"/><trkpt lat="53.5508975" lon="8.5672032"/><trkpt lat="53.5508582" lon="8.5672637"/><trkpt lat="53.5510615" lon="8.5676379"/><trkpt lat="53.5511016" lon="8.5675779"/><trkpt lat="53.5511399" lon="8.5675174"/></trkseg></trk><trk><name>way/605447608</name><desc>bridge=movable
+bridge:structure=floating
+layer=1
+man_made=bridge
+id=way/605447608</desc><trkseg><trkpt lat="53.5463784" lon="8.5707101"/><trkpt lat="53.5463683" lon="8.5706958"/><trkpt lat="53.5463511" lon="8.5706714"/><trkpt lat="53.5462644" lon="8.5708446"/><trkpt lat="53.5462824" lon="8.57087"/><trkpt lat="53.5462918" lon="8.5708833"/><trkpt lat="53.5463784" lon="8.5707101"/></trkseg></trk><trk><name>way/605447609</name><desc>bridge=movable
+bridge:structure=floating
+layer=1
+man_made=bridge
+id=way/605447609</desc><trkseg><trkpt lat="53.545964" lon="8.5701119"/><trkpt lat="53.5458636" lon="8.5703091"/><trkpt lat="53.5458818" lon="8.5703352"/><trkpt lat="53.5458935" lon="8.5703521"/><trkpt lat="53.5459462" lon="8.5702484"/><trkpt lat="53.5459938" lon="8.5701549"/><trkpt lat="53.5459832" lon="8.5701396"/><trkpt lat="53.545964" lon="8.5701119"/></trkseg></trk><trk><name>Holländische Klappbrücke</name><desc>bridge=movable
+bridge:structure=beam
+layer=1
+man_made=bridge
+name=Holländische Klappbrücke
+operator=Deutsches Schifffahrtsmuseum
+tourism=attraction
+website=https://www.dsm.museum/ausstellung/museumshafen/hollaendische-klappbruecke.4488.de.html
+wheelchair=yes
+id=way/605447610</desc><trkseg><trkpt lat="53.5416699" lon="8.5770396"/><trkpt lat="53.5416476" lon="8.5770612"/><trkpt lat="53.5416358" lon="8.5770726"/><trkpt lat="53.5418145" lon="8.5775922"/><trkpt lat="53.5418275" lon="8.5775796"/><trkpt lat="53.541851" lon="8.5775569"/><trkpt lat="53.5416699" lon="8.5770396"/></trkseg></trk><trk><name>way/605452296</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/605452296</desc><trkseg><trkpt lat="53.550625" lon="8.5826362"/><trkpt lat="53.5504463" lon="8.5822425"/><trkpt lat="53.5502608" lon="8.5818723"/><trkpt lat="53.5502087" lon="8.5819463"/><trkpt lat="53.5501752" lon="8.5819938"/><trkpt lat="53.5501644" lon="8.5820091"/><trkpt lat="53.5503647" lon="8.5824093"/><trkpt lat="53.550514" lon="8.5827681"/><trkpt lat="53.5505351" lon="8.582743"/><trkpt lat="53.5505748" lon="8.5826959"/><trkpt lat="53.550625" lon="8.5826362"/></trkseg></trk><trk><name>way/605452297</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+id=way/605452297</desc><trkseg><trkpt lat="53.5512493" lon="8.5841249"/><trkpt lat="53.550625" lon="8.5826362"/><trkpt lat="53.5505748" lon="8.5826959"/><trkpt lat="53.5505351" lon="8.582743"/><trkpt lat="53.550514" lon="8.5827681"/><trkpt lat="53.5511383" lon="8.5842568"/><trkpt lat="53.551172" lon="8.5842167"/><trkpt lat="53.5512004" lon="8.5841831"/><trkpt lat="53.5512493" lon="8.5841249"/></trkseg></trk><trk><name>way/605453776</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/605453776</desc><trkseg><trkpt lat="53.5420985" lon="8.5774945"/><trkpt lat="53.5420613" lon="8.5773631"/><trkpt lat="53.541851" lon="8.5775569"/><trkpt lat="53.5418275" lon="8.5775796"/><trkpt lat="53.5418145" lon="8.5775922"/><trkpt lat="53.5418207" lon="8.5776074"/><trkpt lat="53.5418399" lon="8.5776607"/><trkpt lat="53.5417904" lon="8.5777137"/><trkpt lat="53.5418097" lon="8.5777739"/><trkpt lat="53.5420985" lon="8.5774945"/></trkseg></trk><trk><name>way/629113730</name><desc>man_made=bridge
+id=way/629113730</desc><trkseg><trkpt lat="53.4983702" lon="8.5764976"/><trkpt lat="53.4983202" lon="8.5766771"/><trkpt lat="53.4983981" lon="8.5767237"/><trkpt lat="53.4984392" lon="8.5767482"/><trkpt lat="53.4985805" lon="8.5768099"/><trkpt lat="53.4987285" lon="8.5768548"/><trkpt lat="53.4988754" lon="8.5768773"/><trkpt lat="53.4989132" lon="8.5766865"/><trkpt lat="53.4987586" lon="8.5766678"/><trkpt lat="53.4986017" lon="8.5766266"/><trkpt lat="53.4984871" lon="8.5765686"/><trkpt lat="53.498438" lon="8.5765388"/><trkpt lat="53.4983702" lon="8.5764976"/></trkseg></trk><trk><name>way/631144952</name><desc>layer=1
+man_made=bridge
+id=way/631144952</desc><trkseg><trkpt lat="53.5486791" lon="8.6059098"/><trkpt lat="53.5486406" lon="8.6059763"/><trkpt lat="53.5486081" lon="8.6060324"/><trkpt lat="53.5492652" lon="8.6071107"/><trkpt lat="53.5492903" lon="8.6070676"/><trkpt lat="53.5493363" lon="8.6069881"/><trkpt lat="53.5486791" lon="8.6059098"/></trkseg></trk><trk><name>way/631675830</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/631675830</desc><trkseg><trkpt lat="53.5263266" lon="8.6235638"/><trkpt lat="53.526167" lon="8.6236227"/><trkpt lat="53.5260116" lon="8.6236871"/><trkpt lat="53.5258644" lon="8.6237447"/><trkpt lat="53.5258672" lon="8.6239462"/><trkpt lat="53.5258701" lon="8.6241596"/><trkpt lat="53.5258734" lon="8.6243948"/><trkpt lat="53.5260102" lon="8.6243399"/><trkpt lat="53.5261628" lon="8.6242786"/><trkpt lat="53.526342" lon="8.6242066"/><trkpt lat="53.5263369" lon="8.6239856"/><trkpt lat="53.5263317" lon="8.6237716"/><trkpt lat="53.5263266" lon="8.6235638"/></trkseg></trk><trk><name>way/641963763</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/641963763</desc><trkseg><trkpt lat="53.5093983" lon="8.6291631"/><trkpt lat="53.5098297" lon="8.6291336"/><trkpt lat="53.5098085" lon="8.6290727"/><trkpt lat="53.509737" lon="8.6288678"/><trkpt lat="53.5097005" lon="8.6287634"/><trkpt lat="53.509297" lon="8.6288023"/><trkpt lat="53.5093794" lon="8.629096"/><trkpt lat="53.5093983" lon="8.6291631"/></trkseg></trk><trk><name>way/659517132</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/659517132</desc><trkseg><trkpt lat="53.0923904" lon="8.7756458"/><trkpt lat="53.0923983" lon="8.7756937"/><trkpt lat="53.0926042" lon="8.7754611"/><trkpt lat="53.0925999" lon="8.7754056"/><trkpt lat="53.0925955" lon="8.7753501"/><trkpt lat="53.0923825" lon="8.7755979"/><trkpt lat="53.0923904" lon="8.7756458"/></trkseg></trk><trk><name>way/693091970</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/693091970</desc><trkseg><trkpt lat="53.1058166" lon="8.8424559"/><trkpt lat="53.1058401" lon="8.8425344"/><trkpt lat="53.1058992" lon="8.8427322"/><trkpt lat="53.10591" lon="8.8427685"/><trkpt lat="53.1059475" lon="8.8425738"/><trkpt lat="53.1059913" lon="8.8423494"/><trkpt lat="53.1060118" lon="8.8422397"/><trkpt lat="53.106027" lon="8.8421608"/><trkpt lat="53.1060168" lon="8.8421348"/><trkpt lat="53.1059829" lon="8.8420475"/><trkpt lat="53.1059572" lon="8.8419813"/><trkpt lat="53.1059142" lon="8.8418704"/><trkpt lat="53.1059008" lon="8.8419508"/><trkpt lat="53.1058836" lon="8.842054"/><trkpt lat="53.1058439" lon="8.8422922"/><trkpt lat="53.1058166" lon="8.8424559"/></trkseg></trk><trk><name>way/693091971</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/693091971</desc><trkseg><trkpt lat="53.1063283" lon="8.8417953"/><trkpt lat="53.1063644" lon="8.8416722"/><trkpt lat="53.1063737" lon="8.8416365"/><trkpt lat="53.1063292" lon="8.8415935"/><trkpt lat="53.1063068" lon="8.8415719"/><trkpt lat="53.1062596" lon="8.841526"/><trkpt lat="53.1062519" lon="8.8415673"/><trkpt lat="53.106225" lon="8.8416953"/><trkpt lat="53.106215" lon="8.8417546"/><trkpt lat="53.1062575" lon="8.8417943"/><trkpt lat="53.1062811" lon="8.841815"/><trkpt lat="53.1063153" lon="8.8418449"/><trkpt lat="53.1063283" lon="8.8417953"/></trkseg></trk><trk><name>way/694138461</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/694138461</desc><trkseg><trkpt lat="53.5361339" lon="8.5995738"/><trkpt lat="53.5361441" lon="8.5996786"/><trkpt lat="53.5361511" lon="8.5997509"/><trkpt lat="53.5363266" lon="8.5997028"/><trkpt lat="53.5363196" lon="8.599631"/><trkpt lat="53.5363094" lon="8.5995256"/><trkpt lat="53.5361339" lon="8.5995738"/></trkseg></trk><trk><name>way/694138462</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/694138462</desc><trkseg><trkpt lat="53.5361185" lon="8.5994143"/><trkpt lat="53.5361258" lon="8.5994898"/><trkpt lat="53.5361288" lon="8.5995209"/><trkpt lat="53.5363042" lon="8.5994727"/><trkpt lat="53.5363008" lon="8.5994376"/><trkpt lat="53.5362939" lon="8.5993662"/><trkpt lat="53.5361185" lon="8.5994143"/></trkseg></trk><trk><name>way/694138463</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/694138463</desc><trkseg><trkpt lat="53.5360957" lon="8.5991801"/><trkpt lat="53.5360986" lon="8.5992097"/><trkpt lat="53.536106" lon="8.5992859"/><trkpt lat="53.5361106" lon="8.5993329"/><trkpt lat="53.536286" lon="8.5992847"/><trkpt lat="53.5362816" lon="8.5992395"/><trkpt lat="53.5362712" lon="8.5991319"/><trkpt lat="53.5360957" lon="8.5991801"/></trkseg></trk><trk><name>way/694138464</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/694138464</desc><trkseg><trkpt lat="53.5360763" lon="8.5989793"/><trkpt lat="53.5360792" lon="8.5990101"/><trkpt lat="53.5360873" lon="8.5990927"/><trkpt lat="53.5362627" lon="8.5990446"/><trkpt lat="53.5362543" lon="8.598958"/><trkpt lat="53.5362517" lon="8.5989311"/><trkpt lat="53.5360763" lon="8.5989793"/></trkseg></trk><trk><name>way/694138465</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/694138465</desc><trkseg><trkpt lat="53.5362393" lon="8.598803"/><trkpt lat="53.5360638" lon="8.5988512"/><trkpt lat="53.5360687" lon="8.5989011"/><trkpt lat="53.5360721" lon="8.5989369"/><trkpt lat="53.5362476" lon="8.5988887"/><trkpt lat="53.5362439" lon="8.598851"/><trkpt lat="53.5362393" lon="8.598803"/></trkseg></trk><trk><name>way/758139221</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/758139221</desc><trkseg><trkpt lat="53.0785932" lon="8.7343026"/><trkpt lat="53.0788162" lon="8.7348511"/><trkpt lat="53.078841" lon="8.7347487"/><trkpt lat="53.0788678" lon="8.7346379"/><trkpt lat="53.0788759" lon="8.7346049"/><trkpt lat="53.0786598" lon="8.7340634"/><trkpt lat="53.0786524" lon="8.73409"/><trkpt lat="53.078622" lon="8.7341993"/><trkpt lat="53.0785932" lon="8.7343026"/></trkseg></trk><trk><name>way/758139222</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/758139222</desc><trkseg><trkpt lat="53.0789812" lon="8.7348666"/><trkpt lat="53.0789749" lon="8.7349056"/><trkpt lat="53.0789561" lon="8.7350231"/><trkpt lat="53.0789355" lon="8.7351515"/><trkpt lat="53.0790703" lon="8.7354842"/><trkpt lat="53.0790908" lon="8.735356"/><trkpt lat="53.0791116" lon="8.7352265"/><trkpt lat="53.0791166" lon="8.7351955"/><trkpt lat="53.0789812" lon="8.7348666"/></trkseg></trk><trk><name>way/758139223</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/758139223</desc><trkseg><trkpt lat="53.0781613" lon="8.7371913"/><trkpt lat="53.0780683" lon="8.7372877"/><trkpt lat="53.0779312" lon="8.7374297"/><trkpt lat="53.077841" lon="8.7375231"/><trkpt lat="53.0775989" lon="8.7384676"/><trkpt lat="53.0777241" lon="8.7382554"/><trkpt lat="53.0778134" lon="8.7381041"/><trkpt lat="53.0778916" lon="8.7380091"/><trkpt lat="53.0779795" lon="8.7379026"/><trkpt lat="53.0781613" lon="8.7371913"/></trkseg></trk><trk><name>way/758139224</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/758139224</desc><trkseg><trkpt lat="53.0768491" lon="8.7423645"/><trkpt lat="53.0767794" lon="8.7423947"/><trkpt lat="53.0766517" lon="8.7424499"/><trkpt lat="53.0765389" lon="8.7424987"/><trkpt lat="53.0763794" lon="8.7431301"/><trkpt lat="53.0764901" lon="8.7430869"/><trkpt lat="53.0766206" lon="8.7430358"/><trkpt lat="53.0766861" lon="8.7430102"/><trkpt lat="53.0768491" lon="8.7423645"/></trkseg></trk><trk><name>way/758139230</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/758139230</desc><trkseg><trkpt lat="53.0762158" lon="8.7567793"/><trkpt lat="53.0762235" lon="8.7566452"/><trkpt lat="53.0762292" lon="8.7565453"/><trkpt lat="53.076219" lon="8.7565623"/><trkpt lat="53.0761167" lon="8.7565793"/><trkpt lat="53.0760189" lon="8.7566091"/><trkpt lat="53.0759193" lon="8.7566921"/><trkpt lat="53.0758432" lon="8.75679"/><trkpt lat="53.0757946" lon="8.7568548"/><trkpt lat="53.0758114" lon="8.7569596"/><trkpt lat="53.0758349" lon="8.7571059"/><trkpt lat="53.0758783" lon="8.7569963"/><trkpt lat="53.0759467" lon="8.7568963"/><trkpt lat="53.0760132" lon="8.7568314"/><trkpt lat="53.0760848" lon="8.7567942"/><trkpt lat="53.0762017" lon="8.7567676"/><trkpt lat="53.0762158" lon="8.7567793"/></trkseg></trk><trk><name>way/758139235</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/758139235</desc><trkseg><trkpt lat="53.0716626" lon="8.7683832"/><trkpt lat="53.0716102" lon="8.7684892"/><trkpt lat="53.0715495" lon="8.7686118"/><trkpt lat="53.0717497" lon="8.7694799"/><trkpt lat="53.071803" lon="8.7693605"/><trkpt lat="53.0718513" lon="8.7692522"/><trkpt lat="53.0716626" lon="8.7683832"/></trkseg></trk><trk><name>way/758139236</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/758139236</desc><trkseg><trkpt lat="53.0656477" lon="8.7767347"/><trkpt lat="53.0655877" lon="8.7768401"/><trkpt lat="53.0655315" lon="8.7769388"/><trkpt lat="53.0654694" lon="8.777048"/><trkpt lat="53.0656802" lon="8.7772482"/><trkpt lat="53.0657389" lon="8.7771413"/><trkpt lat="53.0657946" lon="8.7770398"/><trkpt lat="53.0658534" lon="8.7769324"/><trkpt lat="53.0656477" lon="8.7767347"/></trkseg></trk><trk><name>way/758296849</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/758296849</desc><trkseg><trkpt lat="53.0683261" lon="8.7789777"/><trkpt lat="53.068344" lon="8.7788204"/><trkpt lat="53.0682791" lon="8.7788409"/><trkpt lat="53.0682478" lon="8.7789907"/><trkpt lat="53.0683261" lon="8.7789777"/></trkseg></trk><trk><name>way/853433723</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/853433723</desc><trkseg><trkpt lat="53.0637701" lon="8.7483772"/><trkpt lat="53.063756" lon="8.7483225"/><trkpt lat="53.0636305" lon="8.7479212"/><trkpt lat="53.063607" lon="8.7478376"/><trkpt lat="53.0635841" lon="8.7478547"/><trkpt lat="53.0635518" lon="8.7478788"/><trkpt lat="53.0635058" lon="8.747916"/><trkpt lat="53.0634865" lon="8.7479316"/><trkpt lat="53.0634985" lon="8.7479748"/><trkpt lat="53.0636062" lon="8.7483635"/><trkpt lat="53.0636262" lon="8.7484342"/><trkpt lat="53.0636494" lon="8.7484216"/><trkpt lat="53.063695" lon="8.7483969"/><trkpt lat="53.063738" lon="8.7483856"/><trkpt lat="53.0637701" lon="8.7483772"/></trkseg></trk><trk><name>way/894436183</name><desc>layer=1
+man_made=bridge
+id=way/894436183</desc><trkseg><trkpt lat="53.1313215" lon="8.8988643"/><trkpt lat="53.1313267" lon="8.8988399"/><trkpt lat="53.1313397" lon="8.8987795"/><trkpt lat="53.1313545" lon="8.8987109"/><trkpt lat="53.1313933" lon="8.8985309"/><trkpt lat="53.1314107" lon="8.8984502"/><trkpt lat="53.1314176" lon="8.8984185"/><trkpt lat="53.1305674" lon="8.8987023"/><trkpt lat="53.1305606" lon="8.8987279"/><trkpt lat="53.1305352" lon="8.898824"/><trkpt lat="53.1304861" lon="8.89901"/><trkpt lat="53.1304711" lon="8.8990668"/><trkpt lat="53.1304535" lon="8.8991336"/><trkpt lat="53.1304468" lon="8.8991591"/><trkpt lat="53.1313215" lon="8.8988643"/></trkseg></trk><trk><name>way/939069178</name><desc>bridge:structure=humpback
+layer=1
+man_made=bridge
+id=way/939069178</desc><trkseg><trkpt lat="53.0721902" lon="8.7456651"/><trkpt lat="53.0718696" lon="8.7458593"/><trkpt lat="53.0718751" lon="8.7458845"/><trkpt lat="53.0718807" lon="8.74591"/><trkpt lat="53.0722013" lon="8.7457159"/><trkpt lat="53.0721967" lon="8.7456948"/><trkpt lat="53.0721902" lon="8.7456651"/></trkseg></trk><trk><name>way/939069179</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/939069179</desc><trkseg><trkpt lat="53.0722464" lon="8.7451776"/><trkpt lat="53.0719235" lon="8.745373"/><trkpt lat="53.0718886" lon="8.7457148"/><trkpt lat="53.0722155" lon="8.7455208"/><trkpt lat="53.0722464" lon="8.7451776"/></trkseg></trk><trk><name>way/939069180</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/939069180</desc><trkseg><trkpt lat="53.0722606" lon="8.7450197"/><trkpt lat="53.071925" lon="8.7452207"/><trkpt lat="53.0719425" lon="8.7453114"/><trkpt lat="53.0722512" lon="8.7451238"/><trkpt lat="53.0722754" lon="8.7451088"/><trkpt lat="53.0722606" lon="8.7450197"/></trkseg></trk><trk><name>way/956418183</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/956418183</desc><trkseg><trkpt lat="53.0595362" lon="8.7085222"/><trkpt lat="53.0595037" lon="8.7085251"/><trkpt lat="53.0594828" lon="8.7085283"/><trkpt lat="53.0594993" lon="8.7087414"/><trkpt lat="53.0595226" lon="8.7087404"/><trkpt lat="53.0595561" lon="8.7087438"/><trkpt lat="53.0595698" lon="8.7087422"/><trkpt lat="53.0595503" lon="8.7085191"/><trkpt lat="53.0595362" lon="8.7085222"/></trkseg></trk><trk><name>way/995660861</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/995660861</desc><trkseg><trkpt lat="53.0410265" lon="8.9443249"/><trkpt lat="53.0409256" lon="8.9443874"/><trkpt lat="53.0410168" lon="8.9448472"/><trkpt lat="53.0411275" lon="8.944799"/><trkpt lat="53.0410265" lon="8.9443249"/></trkseg></trk><trk><name>way/1009303522</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1009303522</desc><trkseg><trkpt lat="53.0742152" lon="8.9368103"/><trkpt lat="53.074138" lon="8.9362117"/><trkpt lat="53.0741143" lon="8.936204"/><trkpt lat="53.0740796" lon="8.9361928"/><trkpt lat="53.0740627" lon="8.9361873"/><trkpt lat="53.0741395" lon="8.9367973"/><trkpt lat="53.074155" lon="8.9367999"/><trkpt lat="53.0741938" lon="8.9368067"/><trkpt lat="53.0742152" lon="8.9368103"/></trkseg></trk><trk><name>way/1050616017</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1050616017</desc><trkseg><trkpt lat="53.0876292" lon="8.7988876"/><trkpt lat="53.0874785" lon="8.7987518"/><trkpt lat="53.0872396" lon="8.7993652"/><trkpt lat="53.0873002" lon="8.7997465"/><trkpt lat="53.0876292" lon="8.7988876"/></trkseg></trk><trk><name>way/1050616018</name><desc>bridge:structure=beam
+landuse=railway
+man_made=bridge
+id=way/1050616018</desc><trkseg><trkpt lat="53.0873002" lon="8.7997465"/><trkpt lat="53.0872396" lon="8.7993652"/><trkpt lat="53.0871963" lon="8.7990776"/><trkpt lat="53.087162" lon="8.7991559"/><trkpt lat="53.0871346" lon="8.7992183"/><trkpt lat="53.0870999" lon="8.7992975"/><trkpt lat="53.087163" lon="8.7996378"/><trkpt lat="53.0872142" lon="8.7999711"/><trkpt lat="53.0872453" lon="8.7998899"/><trkpt lat="53.0872759" lon="8.7998099"/><trkpt lat="53.0873002" lon="8.7997465"/></trkseg></trk><trk><name>way/1050829790</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1050829790</desc><trkseg><trkpt lat="53.0944023" lon="8.7957836"/><trkpt lat="53.0942724" lon="8.7954222"/><trkpt lat="53.0942689" lon="8.7954125"/><trkpt lat="53.0942484" lon="8.7953427"/><trkpt lat="53.0942258" lon="8.7952799"/><trkpt lat="53.0942049" lon="8.7952217"/><trkpt lat="53.094181" lon="8.795168"/><trkpt lat="53.0941777" lon="8.7951589"/><trkpt lat="53.0940725" lon="8.7952678"/><trkpt lat="53.0940928" lon="8.7953386"/><trkpt lat="53.0941132" lon="8.7953976"/><trkpt lat="53.0941344" lon="8.7954589"/><trkpt lat="53.0941625" lon="8.7955263"/><trkpt lat="53.0941654" lon="8.795534"/><trkpt lat="53.0943014" lon="8.7958912"/><trkpt lat="53.0944023" lon="8.7957836"/></trkseg></trk><trk><name>way/1050829791</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1050829791</desc><trkseg><trkpt lat="53.0944815" lon="8.7960062"/><trkpt lat="53.0944695" lon="8.7959748"/><trkpt lat="53.094465" lon="8.7959597"/><trkpt lat="53.09437" lon="8.796076"/><trkpt lat="53.0943765" lon="8.7960991"/><trkpt lat="53.0943869" lon="8.7961277"/><trkpt lat="53.0944815" lon="8.7960062"/></trkseg></trk><trk><name>way/1050829792</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1050829792</desc><trkseg><trkpt lat="53.0945047" lon="8.796067"/><trkpt lat="53.0944936" lon="8.7960378"/><trkpt lat="53.0944878" lon="8.7960226"/><trkpt lat="53.0943934" lon="8.7961455"/><trkpt lat="53.0943986" lon="8.7961599"/><trkpt lat="53.09441" lon="8.7961905"/><trkpt lat="53.0945047" lon="8.796067"/></trkseg></trk><trk><name>way/1050829793</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1050829793</desc><trkseg><trkpt lat="53.0945317" lon="8.7961361"/><trkpt lat="53.0945172" lon="8.7960997"/><trkpt lat="53.0945103" lon="8.7960815"/><trkpt lat="53.0944149" lon="8.7962035"/><trkpt lat="53.0944207" lon="8.796219"/><trkpt lat="53.0944366" lon="8.7962606"/><trkpt lat="53.0945317" lon="8.7961361"/></trkseg></trk><trk><name>way/1050829794</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1050829794</desc><trkseg><trkpt lat="53.094581" lon="8.7962662"/><trkpt lat="53.0945673" lon="8.7962304"/><trkpt lat="53.0945465" lon="8.7961733"/><trkpt lat="53.0945353" lon="8.7961452"/><trkpt lat="53.0944398" lon="8.7962691"/><trkpt lat="53.0944506" lon="8.7962973"/><trkpt lat="53.0944709" lon="8.7963532"/><trkpt lat="53.0944881" lon="8.7963885"/><trkpt lat="53.094581" lon="8.7962662"/></trkseg></trk><trk><name>way/1050829795</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1050829795</desc><trkseg><trkpt lat="53.0946966" lon="8.7964905"/><trkpt lat="53.0945623" lon="8.7965853"/><trkpt lat="53.0945724" lon="8.7966411"/><trkpt lat="53.0945883" lon="8.7967043"/><trkpt lat="53.0946017" lon="8.796739"/><trkpt lat="53.0947262" lon="8.796636"/><trkpt lat="53.0947232" lon="8.7966007"/><trkpt lat="53.0947136" lon="8.7965468"/><trkpt lat="53.0946966" lon="8.7964905"/></trkseg></trk><trk><name>way/1053384858</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1053384858</desc><trkseg><trkpt lat="53.1033374" lon="8.7864183"/><trkpt lat="53.1033299" lon="8.7863775"/><trkpt lat="53.1033179" lon="8.7863127"/><trkpt lat="53.1033055" lon="8.7862453"/><trkpt lat="53.1033015" lon="8.7862233"/><trkpt lat="53.1030486" lon="8.7864526"/><trkpt lat="53.1030546" lon="8.7864785"/><trkpt lat="53.1030684" lon="8.7865374"/><trkpt lat="53.1030831" lon="8.7866006"/><trkpt lat="53.103093" lon="8.7866431"/><trkpt lat="53.1033374" lon="8.7864183"/></trkseg></trk><trk><name>way/1053384859</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1053384859</desc><trkseg><trkpt lat="53.1033549" lon="8.7865027"/><trkpt lat="53.1033485" lon="8.7864757"/><trkpt lat="53.1033437" lon="8.7864506"/><trkpt lat="53.1030979" lon="8.7866699"/><trkpt lat="53.1031025" lon="8.7866955"/><trkpt lat="53.1031079" lon="8.7867254"/><trkpt lat="53.1033549" lon="8.7865027"/></trkseg></trk><trk><name>way/1053384860</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1053384860</desc><trkseg><trkpt lat="53.1033593" lon="8.786521"/><trkpt lat="53.1031113" lon="8.786744"/><trkpt lat="53.103116" lon="8.78677"/><trkpt lat="53.1031214" lon="8.7867996"/><trkpt lat="53.1033708" lon="8.7865696"/><trkpt lat="53.1033645" lon="8.7865428"/><trkpt lat="53.1033593" lon="8.786521"/></trkseg></trk><trk><name>way/1053384861</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1053384861</desc><trkseg><trkpt lat="53.1031607" lon="8.7869799"/><trkpt lat="53.1034174" lon="8.7867653"/><trkpt lat="53.1034002" lon="8.7866933"/><trkpt lat="53.1031393" lon="8.7868977"/><trkpt lat="53.1031492" lon="8.7869358"/><trkpt lat="53.1031607" lon="8.7869799"/></trkseg></trk><trk><name>way/1061463895</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+id=way/1061463895</desc><trkseg><trkpt lat="53.1169309" lon="8.8187381"/><trkpt lat="53.1167896" lon="8.8187912"/><trkpt lat="53.1168076" lon="8.8188337"/><trkpt lat="53.1168256" lon="8.8188763"/><trkpt lat="53.1168453" lon="8.8188751"/><trkpt lat="53.116959" lon="8.8188292"/><trkpt lat="53.116945" lon="8.8187837"/><trkpt lat="53.1169309" lon="8.8187381"/></trkseg></trk><trk><name>way/1074288815</name><desc>layer=1
+man_made=bridge
+id=way/1074288815</desc><trkseg><trkpt lat="53.0761115" lon="8.9557892"/><trkpt lat="53.0760493" lon="8.9557128"/><trkpt lat="53.0759548" lon="8.9555968"/><trkpt lat="53.075891" lon="8.9555184"/><trkpt lat="53.0758525" lon="8.9556053"/><trkpt lat="53.0759163" lon="8.9556837"/><trkpt lat="53.0760108" lon="8.9557997"/><trkpt lat="53.076073" lon="8.9558761"/><trkpt lat="53.0761115" lon="8.9557892"/></trkseg></trk><trk><name>way/1074288816</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1074288816</desc><trkseg><trkpt lat="53.0711596" lon="8.961268"/><trkpt lat="53.071145" lon="8.9612988"/><trkpt lat="53.0711285" lon="8.9613337"/><trkpt lat="53.0720289" lon="8.9625146"/><trkpt lat="53.0720455" lon="8.9624797"/><trkpt lat="53.07206" lon="8.9624489"/><trkpt lat="53.0711596" lon="8.961268"/></trkseg></trk><trk><name>way/1074288818</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1074288818</desc><trkseg><trkpt lat="53.0527436" lon="8.9705502"/><trkpt lat="53.0528189" lon="8.9706535"/><trkpt lat="53.0529319" lon="8.9708083"/><trkpt lat="53.053005" lon="8.9709086"/><trkpt lat="53.0531529" lon="8.970839"/><trkpt lat="53.0530779" lon="8.9707439"/><trkpt lat="53.0529583" lon="8.9705923"/><trkpt lat="53.0528796" lon="8.9704927"/><trkpt lat="53.0527436" lon="8.9705502"/></trkseg></trk><trk><name>way/1074290278</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1074290278</desc><trkseg><trkpt lat="53.0792334" lon="8.9233884"/><trkpt lat="53.0792283" lon="8.9233758"/><trkpt lat="53.0792134" lon="8.9233429"/><trkpt lat="53.0791926" lon="8.9233148"/><trkpt lat="53.0791705" lon="8.9232906"/><trkpt lat="53.0785483" lon="8.9227666"/><trkpt lat="53.0785349" lon="8.9228136"/><trkpt lat="53.0785241" lon="8.9228511"/><trkpt lat="53.0791459" lon="8.9233751"/><trkpt lat="53.0791588" lon="8.9233862"/><trkpt lat="53.0791725" lon="8.923406"/><trkpt lat="53.0791882" lon="8.9234338"/><trkpt lat="53.0791904" lon="8.9234402"/><trkpt lat="53.0792117" lon="8.9234146"/><trkpt lat="53.0792334" lon="8.9233884"/></trkseg></trk><trk><name>way/1074290279</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1074290279</desc><trkseg><trkpt lat="53.0788526" lon="8.9408172"/><trkpt lat="53.078943" lon="8.9407794"/><trkpt lat="53.0790612" lon="8.9407301"/><trkpt lat="53.0791304" lon="8.9407012"/><trkpt lat="53.0791525" lon="8.9403974"/><trkpt lat="53.07908" lon="8.9404283"/><trkpt lat="53.0789628" lon="8.9404782"/><trkpt lat="53.0788751" lon="8.9405156"/><trkpt lat="53.0788526" lon="8.9408172"/></trkseg></trk><trk><name>way/1075406795</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1075406795</desc><trkseg><trkpt lat="53.1236134" lon="8.7439024"/><trkpt lat="53.123253" lon="8.744367"/><trkpt lat="53.1232383" lon="8.7444193"/><trkpt lat="53.1232174" lon="8.7444936"/><trkpt lat="53.1231641" lon="8.7446826"/><trkpt lat="53.1231351" lon="8.7447856"/><trkpt lat="53.1231817" lon="8.7447247"/><trkpt lat="53.123508" lon="8.744299"/><trkpt lat="53.123529" lon="8.74422"/><trkpt lat="53.1235752" lon="8.7440459"/><trkpt lat="53.1236134" lon="8.7439024"/></trkseg></trk><trk><name>way/1075414729</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1075414729</desc><trkseg><trkpt lat="53.0924074" lon="8.7757538"/><trkpt lat="53.0924301" lon="8.7758668"/><trkpt lat="53.0926414" lon="8.7756914"/><trkpt lat="53.0926142" lon="8.7755842"/><trkpt lat="53.0924074" lon="8.7757538"/></trkseg></trk><trk><name>way/1086897200</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1086897200</desc><trkseg><trkpt lat="53.1057911" lon="8.7893959"/><trkpt lat="53.1057674" lon="8.7893849"/><trkpt lat="53.1057347" lon="8.7893698"/><trkpt lat="53.1057081" lon="8.7895286"/><trkpt lat="53.105739" lon="8.7895429"/><trkpt lat="53.1057646" lon="8.7895548"/><trkpt lat="53.1057911" lon="8.7893959"/></trkseg></trk><trk><name>way/1086897201</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1086897201</desc><trkseg><trkpt lat="53.1048202" lon="8.7946282"/><trkpt lat="53.1048059" lon="8.7946107"/><trkpt lat="53.1047766" lon="8.7945748"/><trkpt lat="53.1047649" lon="8.7946375"/><trkpt lat="53.104752" lon="8.7947067"/><trkpt lat="53.1047822" lon="8.794747"/><trkpt lat="53.1047959" lon="8.7947653"/><trkpt lat="53.1048202" lon="8.7946282"/></trkseg></trk><trk><name>way/1086897202</name><desc>bridge:structure=beam
+layer=2
+man_made=bridge
+id=way/1086897202</desc><trkseg><trkpt lat="53.1034303" lon="8.8006701"/><trkpt lat="53.1034093" lon="8.8006513"/><trkpt lat="53.1033883" lon="8.8006325"/><trkpt lat="53.1033656" lon="8.8007028"/><trkpt lat="53.1032771" lon="8.8009766"/><trkpt lat="53.1032607" lon="8.8010274"/><trkpt lat="53.1032817" lon="8.8010462"/><trkpt lat="53.1033027" lon="8.801065"/><trkpt lat="53.1033168" lon="8.8010212"/><trkpt lat="53.1033975" lon="8.8007716"/><trkpt lat="53.1034303" lon="8.8006701"/></trkseg></trk><trk><name>way/1086897203</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1086897203</desc><trkseg><trkpt lat="53.1031857" lon="8.8012547"/><trkpt lat="53.1031065" lon="8.8015134"/><trkpt lat="53.1031254" lon="8.8015294"/><trkpt lat="53.1031442" lon="8.8015454"/><trkpt lat="53.1032234" lon="8.8012868"/><trkpt lat="53.1032045" lon="8.8012708"/><trkpt lat="53.1031857" lon="8.8012547"/></trkseg></trk><trk><name>way/1086897204</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1086897204</desc><trkseg><trkpt lat="53.1026623" lon="8.8032216"/><trkpt lat="53.1026354" lon="8.8032071"/><trkpt lat="53.1026085" lon="8.8031926"/><trkpt lat="53.1025544" lon="8.8034716"/><trkpt lat="53.1025813" lon="8.8034861"/><trkpt lat="53.1026082" lon="8.8035006"/><trkpt lat="53.1026623" lon="8.8032216"/></trkseg></trk><trk><name>way/1086897205</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1086897205</desc><trkseg><trkpt lat="53.1024592" lon="8.8070422"/><trkpt lat="53.1024357" lon="8.807048"/><trkpt lat="53.1023989" lon="8.8070571"/><trkpt lat="53.1023615" lon="8.8070663"/><trkpt lat="53.102379" lon="8.8072629"/><trkpt lat="53.1024146" lon="8.8072541"/><trkpt lat="53.1024524" lon="8.8072448"/><trkpt lat="53.1024767" lon="8.8072388"/><trkpt lat="53.1024592" lon="8.8070422"/></trkseg></trk><trk><name>way/1086897206</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1086897206</desc><trkseg><trkpt lat="53.1042217" lon="8.7978769"/><trkpt lat="53.1041952" lon="8.79786"/><trkpt lat="53.1041686" lon="8.797843"/><trkpt lat="53.1041313" lon="8.7980053"/><trkpt lat="53.1041578" lon="8.7980222"/><trkpt lat="53.1041844" lon="8.7980392"/><trkpt lat="53.1042217" lon="8.7978769"/></trkseg></trk><trk><name>way/1087496365</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1087496365</desc><trkseg><trkpt lat="53.1094786" lon="8.7811876"/><trkpt lat="53.1094181" lon="8.7812316"/><trkpt lat="53.1093576" lon="8.7812757"/><trkpt lat="53.109501" lon="8.7818215"/><trkpt lat="53.1095614" lon="8.7817774"/><trkpt lat="53.1096219" lon="8.7817333"/><trkpt lat="53.1094786" lon="8.7811876"/></trkseg></trk><trk><name>way/1111555267</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1111555267</desc><trkseg><trkpt lat="53.1280025" lon="8.9092865"/><trkpt lat="53.1277567" lon="8.9090204"/><trkpt lat="53.1277367" lon="8.9090717"/><trkpt lat="53.1277132" lon="8.9091321"/><trkpt lat="53.1279589" lon="8.9093981"/><trkpt lat="53.1279825" lon="8.9093377"/><trkpt lat="53.1280025" lon="8.9092865"/></trkseg></trk><trk><name>way/1111557875</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1111557875</desc><trkseg><trkpt lat="53.1341845" lon="8.898207"/><trkpt lat="53.1337966" lon="8.8980406"/><trkpt lat="53.1337914" lon="8.898074"/><trkpt lat="53.1337821" lon="8.8981346"/><trkpt lat="53.1337783" lon="8.898159"/><trkpt lat="53.1337742" lon="8.8981854"/><trkpt lat="53.1337667" lon="8.898234"/><trkpt lat="53.1337605" lon="8.8982746"/><trkpt lat="53.1341484" lon="8.898441"/><trkpt lat="53.1341533" lon="8.8984093"/><trkpt lat="53.1341625" lon="8.8983496"/><trkpt lat="53.1341665" lon="8.8983239"/><trkpt lat="53.1341704" lon="8.8982983"/><trkpt lat="53.13418" lon="8.8982363"/><trkpt lat="53.1341845" lon="8.898207"/></trkseg></trk><trk><name>way/1111557876</name><desc>layer=1
+man_made=bridge
+id=way/1111557876</desc><trkseg><trkpt lat="53.1331239" lon="8.8953041"/><trkpt lat="53.1330804" lon="8.8952871"/><trkpt lat="53.1330367" lon="8.89527"/><trkpt lat="53.1327437" lon="8.897351"/><trkpt lat="53.1327874" lon="8.897368"/><trkpt lat="53.1328309" lon="8.8973851"/><trkpt lat="53.1331239" lon="8.8953041"/></trkseg></trk><trk><name>way/1111561026</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1111561026</desc><trkseg><trkpt lat="53.1308575" lon="8.911337"/><trkpt lat="53.1308901" lon="8.9113585"/><trkpt lat="53.1309314" lon="8.9113856"/><trkpt lat="53.1309305" lon="8.9112869"/><trkpt lat="53.1309037" lon="8.9112682"/><trkpt lat="53.1308786" lon="8.9112507"/><trkpt lat="53.1308575" lon="8.911337"/></trkseg></trk><trk><name>way/1112080394</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+id=way/1112080394</desc><trkseg><trkpt lat="53.1336954" lon="8.8942778"/><trkpt lat="53.1336955" lon="8.8943209"/><trkpt lat="53.1336957" lon="8.894403"/><trkpt lat="53.1336958" lon="8.8944904"/><trkpt lat="53.1341941" lon="8.8944914"/><trkpt lat="53.1341936" lon="8.8944066"/><trkpt lat="53.1341932" lon="8.8943253"/><trkpt lat="53.1341929" lon="8.8942876"/><trkpt lat="53.1336954" lon="8.8942778"/></trkseg></trk><trk><name>way/1121026217</name><desc>layer=1
+man_made=bridge
+id=way/1121026217</desc><trkseg><trkpt lat="53.1967677" lon="8.5556859"/><trkpt lat="53.1967573" lon="8.5557179"/><trkpt lat="53.1969507" lon="8.555894"/><trkpt lat="53.1969599" lon="8.555866"/><trkpt lat="53.1969688" lon="8.5558386"/><trkpt lat="53.1967754" lon="8.5556626"/><trkpt lat="53.1967677" lon="8.5556859"/></trkseg></trk><trk><name>way/1121026218</name><desc>layer=1
+man_made=bridge
+id=way/1121026218</desc><trkseg><trkpt lat="53.1995807" lon="8.5426429"/><trkpt lat="53.1995649" lon="8.5426889"/><trkpt lat="53.1995493" lon="8.5427343"/><trkpt lat="53.1997284" lon="8.5433637"/><trkpt lat="53.1997753" lon="8.5433265"/><trkpt lat="53.1995807" lon="8.5426429"/></trkseg></trk><trk><name>way/1126188922</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1126188922</desc><trkseg><trkpt lat="53.1025682" lon="8.8816859"/><trkpt lat="53.1026371" lon="8.8817512"/><trkpt lat="53.1027545" lon="8.8818626"/><trkpt lat="53.102817" lon="8.8819219"/><trkpt lat="53.103061" lon="8.8816544"/><trkpt lat="53.1029934" lon="8.8815885"/><trkpt lat="53.102883" lon="8.8814808"/><trkpt lat="53.1028174" lon="8.881417"/><trkpt lat="53.1025682" lon="8.8816859"/></trkseg></trk><trk><name>way/1136056872</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1136056872</desc><trkseg><trkpt lat="53.1650024" lon="8.7026191"/><trkpt lat="53.1650473" lon="8.7024642"/><trkpt lat="53.1650848" lon="8.702335"/><trkpt lat="53.164025" lon="8.7025532"/><trkpt lat="53.1639844" lon="8.702687"/><trkpt lat="53.1639398" lon="8.7028338"/><trkpt lat="53.1650024" lon="8.7026191"/></trkseg></trk><trk><name>way/1145439537</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1145439537</desc><trkseg><trkpt lat="53.1726582" lon="8.6587976"/><trkpt lat="53.172157" lon="8.6592798"/><trkpt lat="53.1721493" lon="8.6594117"/><trkpt lat="53.1721418" lon="8.6595411"/><trkpt lat="53.1726452" lon="8.6590298"/><trkpt lat="53.1726525" lon="8.6589001"/><trkpt lat="53.1726582" lon="8.6587976"/></trkseg></trk><trk><name>way/1147635200</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1147635200</desc><trkseg><trkpt lat="53.1722834" lon="8.6488491"/><trkpt lat="53.1722333" lon="8.6489331"/><trkpt lat="53.1721829" lon="8.6490176"/><trkpt lat="53.172321" lon="8.6492403"/><trkpt lat="53.1724994" lon="8.6494683"/><trkpt lat="53.1726144" lon="8.6495863"/><trkpt lat="53.1727375" lon="8.6496924"/><trkpt lat="53.1728621" lon="8.6497915"/><trkpt lat="53.1728703" lon="8.6496382"/><trkpt lat="53.1728736" lon="8.6495111"/><trkpt lat="53.172874" lon="8.6494441"/><trkpt lat="53.1727342" lon="8.6493462"/><trkpt lat="53.1725911" lon="8.6492242"/><trkpt lat="53.1724673" lon="8.6490954"/><trkpt lat="53.1723716" lon="8.6489747"/><trkpt lat="53.1722834" lon="8.6488491"/></trkseg></trk><trk><name>way/1163733955</name><desc>bridge:structure=truss
+layer=1
+man_made=bridge
+id=way/1163733955</desc><trkseg><trkpt lat="53.5367769" lon="8.5812711"/><trkpt lat="53.5366" lon="8.5806095"/><trkpt lat="53.5365673" lon="8.5806343"/><trkpt lat="53.5365366" lon="8.5806575"/><trkpt lat="53.5367134" lon="8.5813192"/><trkpt lat="53.5367457" lon="8.5812947"/><trkpt lat="53.5367769" lon="8.5812711"/></trkseg></trk><trk><name>way/1210524393</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1210524393</desc><trkseg><trkpt lat="53.0958246" lon="8.794718"/><trkpt lat="53.0955698" lon="8.7950724"/><trkpt lat="53.095661" lon="8.7950809"/><trkpt lat="53.0957672" lon="8.7950908"/><trkpt lat="53.0960119" lon="8.7947916"/><trkpt lat="53.0959188" lon="8.794755"/><trkpt lat="53.0958246" lon="8.794718"/></trkseg></trk><trk><name>way/1210525080</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1210525080</desc><trkseg><trkpt lat="53.0990561" lon="8.7906549"/><trkpt lat="53.0990319" lon="8.7906442"/><trkpt lat="53.0989774" lon="8.79062"/><trkpt lat="53.098914" lon="8.7905919"/><trkpt lat="53.0988656" lon="8.7905705"/><trkpt lat="53.0988185" lon="8.7905496"/><trkpt lat="53.0987946" lon="8.7905391"/><trkpt lat="53.098702" lon="8.7906429"/><trkpt lat="53.098647" lon="8.7907045"/><trkpt lat="53.098672" lon="8.7907294"/><trkpt lat="53.0987065" lon="8.7907638"/><trkpt lat="53.0987446" lon="8.7908018"/><trkpt lat="53.0987821" lon="8.7908392"/><trkpt lat="53.0988244" lon="8.7908815"/><trkpt lat="53.0988522" lon="8.7909092"/><trkpt lat="53.0990561" lon="8.7906549"/></trkseg></trk><trk><name>way/1210525372</name><desc>bridge:structure=arch
+layer=1
+man_made=bridge
+id=way/1210525372</desc><trkseg><trkpt lat="53.1127861" lon="8.7810637"/><trkpt lat="53.1128106" lon="8.7810958"/><trkpt lat="53.1128535" lon="8.7811361"/><trkpt lat="53.1128922" lon="8.7811725"/><trkpt lat="53.1129421" lon="8.7812021"/><trkpt lat="53.1130672" lon="8.7811513"/><trkpt lat="53.1130071" lon="8.7811076"/><trkpt lat="53.1129668" lon="8.7810707"/><trkpt lat="53.1129234" lon="8.7810309"/><trkpt lat="53.1128982" lon="8.7810008"/><trkpt lat="53.1127861" lon="8.7810637"/></trkseg></trk><trk><name>726</name><desc>bridge:structure=beam
+man_made=bridge
+material=concrete
+ref=726
+start_date=1998
+id=way/1232239608</desc><trkseg><trkpt lat="53.1002976" lon="8.8591647"/><trkpt lat="53.1002459" lon="8.8592784"/><trkpt lat="53.1002339" lon="8.8593048"/><trkpt lat="53.100221" lon="8.8593331"/><trkpt lat="53.1002526" lon="8.8593402"/><trkpt lat="53.1003262" lon="8.8593567"/><trkpt lat="53.1003447" lon="8.8593608"/><trkpt lat="53.1003589" lon="8.8593313"/><trkpt lat="53.1003912" lon="8.8592635"/><trkpt lat="53.1004103" lon="8.8592237"/><trkpt lat="53.1004327" lon="8.8591767"/><trkpt lat="53.1004041" lon="8.8591743"/><trkpt lat="53.1003273" lon="8.8591674"/><trkpt lat="53.1002976" lon="8.8591647"/></trkseg></trk><trk><name>way/1257919262</name><desc>bridge:structure=beam
+man_made=bridge
+id=way/1257919262</desc><trkseg><trkpt lat="53.0862402" lon="8.9421108"/><trkpt lat="53.0862062" lon="8.9420704"/><trkpt lat="53.0861747" lon="8.942033"/><trkpt lat="53.0861447" lon="8.9419974"/><trkpt lat="53.0861085" lon="8.9421717"/><trkpt lat="53.0861375" lon="8.9422075"/><trkpt lat="53.0861684" lon="8.9422455"/><trkpt lat="53.086201" lon="8.9422854"/><trkpt lat="53.0862069" lon="8.9422589"/><trkpt lat="53.0862402" lon="8.9421108"/></trkseg></trk><trk><name>way/1262673815</name><desc>layer=1
+man_made=bridge
+id=way/1262673815</desc><trkseg><trkpt lat="53.5640796" lon="8.6005937"/><trkpt lat="53.5638749" lon="8.6006098"/><trkpt lat="53.5638784" lon="8.6007225"/><trkpt lat="53.563884" lon="8.6007985"/><trkpt lat="53.5638867" lon="8.6008398"/><trkpt lat="53.5640818" lon="8.6008368"/><trkpt lat="53.5640808" lon="8.6007989"/><trkpt lat="53.5640811" lon="8.6007877"/><trkpt lat="53.56408" lon="8.6007158"/><trkpt lat="53.5640801" lon="8.6007058"/><trkpt lat="53.5640796" lon="8.6005937"/></trkseg></trk><trk><name>way/1288341304</name><desc>layer=1
+man_made=bridge
+id=way/1288341304</desc><trkseg><trkpt lat="33.68542" lon="-85.1507368"/><trkpt lat="33.6854219" lon="-85.1516889"/><trkpt lat="33.6852863" lon="-85.1516893"/><trkpt lat="33.6852843" lon="-85.1507372"/><trkpt lat="33.68542" lon="-85.1507368"/></trkseg></trk><trk><name>way/1288341305</name><desc>layer=1
+man_made=bridge
+id=way/1288341305</desc><trkseg><trkpt lat="33.6857425" lon="-85.1507466"/><trkpt lat="33.6857432" lon="-85.1515955"/><trkpt lat="33.6856291" lon="-85.1515956"/><trkpt lat="33.6856283" lon="-85.1507467"/><trkpt lat="33.6857425" lon="-85.1507466"/></trkseg></trk><trk><name>way/1316728763</name><desc>layer=1
+man_made=bridge
+id=way/1316728763</desc><trkseg><trkpt lat="53.0815532" lon="8.7338988"/><trkpt lat="53.0815036" lon="8.7339536"/><trkpt lat="53.0814543" lon="8.7340026"/><trkpt lat="53.0813945" lon="8.7340692"/><trkpt lat="53.0815395" lon="8.7344681"/><trkpt lat="53.0816005" lon="8.7344011"/><trkpt lat="53.0816621" lon="8.7343314"/><trkpt lat="53.0817071" lon="8.7342817"/><trkpt lat="53.0815532" lon="8.7338988"/></trkseg></trk><trk><name>way/1319704095</name><desc>layer=1
+man_made=bridge
+id=way/1319704095</desc><trkseg><trkpt lat="53.1367212" lon="8.7116153"/><trkpt lat="53.1366731" lon="8.7114641"/><trkpt lat="53.1366264" lon="8.7113173"/><trkpt lat="53.136614" lon="8.7112784"/><trkpt lat="53.1364434" lon="8.7119701"/><trkpt lat="53.1364546" lon="8.7120071"/><trkpt lat="53.1365091" lon="8.7121868"/><trkpt lat="53.1365562" lon="8.7123422"/><trkpt lat="53.1367212" lon="8.7116153"/></trkseg></trk><trk><name>way/1336281946</name><desc>bridge:structure=beam
+layer=1
+man_made=bridge
+id=way/1336281946</desc><trkseg><trkpt lat="53.1931558" lon="8.5648621"/><trkpt lat="53.193239" lon="8.5647409"/><trkpt lat="53.1933159" lon="8.5646208"/><trkpt lat="53.1933755" lon="8.5645561"/><trkpt lat="53.1933403" lon="8.564577"/><trkpt lat="53.1933051" lon="8.564582"/><trkpt lat="53.1932758" lon="8.5645701"/><trkpt lat="53.1932639" lon="8.5645551"/><trkpt lat="53.1932442" lon="8.5645172"/><trkpt lat="53.1931821" lon="8.5643498"/><trkpt lat="53.1931653" lon="8.5643698"/><trkpt lat="53.1931184" lon="8.5644407"/><trkpt lat="53.1930411" lon="8.5645571"/><trkpt lat="53.1931558" lon="8.5648621"/></trkseg></trk><trk><name>Lesumsperrwerk</name><desc>layer=1
+man_made=bridge
+name=Lesumsperrwerk
+id=way/1356982682</desc><trkseg><trkpt lat="53.1594537" lon="8.6470459"/><trkpt lat="53.1594559" lon="8.6470832"/><trkpt lat="53.1594583" lon="8.647124"/><trkpt lat="53.1597058" lon="8.6470833"/><trkpt lat="53.1597085" lon="8.6471225"/><trkpt lat="53.159711" lon="8.6471779"/><trkpt lat="53.1597137" lon="8.6471931"/><trkpt lat="53.1597214" lon="8.6472048"/><trkpt lat="53.1597309" lon="8.6472119"/><trkpt lat="53.1597413" lon="8.6472136"/><trkpt lat="53.1597515" lon="8.6472098"/><trkpt lat="53.1597605" lon="8.6472008"/><trkpt lat="53.1597673" lon="8.6471876"/><trkpt lat="53.1597712" lon="8.6471715"/><trkpt lat="53.1597719" lon="8.6471531"/><trkpt lat="53.15977" lon="8.6471099"/><trkpt lat="53.1597676" lon="8.6470736"/><trkpt lat="53.1604087" lon="8.646968"/><trkpt lat="53.1604405" lon="8.6475411"/><trkpt lat="53.1604421" lon="8.647554"/><trkpt lat="53.160446" lon="8.6475653"/><trkpt lat="53.1604519" lon="8.6475739"/><trkpt lat="53.1604591" lon="8.6475789"/><trkpt lat="53.1604675" lon="8.6475793"/><trkpt lat="53.1604745" lon="8.6475763"/><trkpt lat="53.160481" lon="8.6475691"/><trkpt lat="53.1604858" lon="8.6475587"/><trkpt lat="53.1604879" lon="8.6475484"/><trkpt lat="53.1604883" lon="8.6475333"/><trkpt lat="53.1604865" lon="8.6474833"/><trkpt lat="53.1604777" lon="8.6473387"/><trkpt lat="53.1604564" lon="8.6469606"/><trkpt lat="53.1605181" lon="8.6469503"/><trkpt lat="53.1605824" lon="8.6469395"/><trkpt lat="53.1605893" lon="8.6469384"/><trkpt lat="53.1605846" lon="8.6468599"/><trkpt lat="53.1604515" lon="8.6468804"/><trkpt lat="53.1604327" lon="8.6465591"/><trkpt lat="53.1604299" lon="8.6465447"/><trkpt lat="53.1604246" lon="8.6465345"/><trkpt lat="53.1604176" lon="8.6465278"/><trkpt lat="53.1604097" lon="8.6465254"/><trkpt lat="53.1604018" lon="8.6465274"/><trkpt lat="53.1603947" lon="8.6465336"/><trkpt lat="53.1603892" lon="8.6465435"/><trkpt lat="53.160386" lon="8.6465557"/><trkpt lat="53.1603841" lon="8.6465672"/><trkpt lat="53.1603911" lon="8.6466772"/><trkpt lat="53.1603944" lon="8.646732"/><trkpt lat="53.1603985" lon="8.6468013"/><trkpt lat="53.1604016" lon="8.6468521"/><trkpt lat="53.1604039" lon="8.6468882"/><trkpt lat="53.1602728" lon="8.6469112"/><trkpt lat="53.1602637" lon="8.6467509"/><trkpt lat="53.1602608" lon="8.6467002"/><trkpt lat="53.1602592" lon="8.6466775"/><trkpt lat="53.1602579" lon="8.6466674"/><trkpt lat="53.1602547" lon="8.6466586"/><trkpt lat="53.16025" lon="8.6466519"/><trkpt lat="53.1602442" lon="8.646648"/><trkpt lat="53.1602381" lon="8.6466474"/><trkpt lat="53.1602321" lon="8.6466499"/><trkpt lat="53.1602269" lon="8.6466555"/><trkpt lat="53.160223" lon="8.6466636"/><trkpt lat="53.1602215" lon="8.6466758"/><trkpt lat="53.1602234" lon="8.646706"/><trkpt lat="53.1602264" lon="8.64676"/><trkpt lat="53.1602352" lon="8.6469174"/><trkpt lat="53.1601014" lon="8.6469391"/><trkpt lat="53.1600969" lon="8.6468536"/><trkpt lat="53.1600931" lon="8.646782"/><trkpt lat="53.1600903" lon="8.6467286"/><trkpt lat="53.1600886" lon="8.6467015"/><trkpt lat="53.1600872" lon="8.6466914"/><trkpt lat="53.160084" lon="8.6466826"/><trkpt lat="53.1600793" lon="8.6466759"/><trkpt lat="53.1600736" lon="8.646672"/><trkpt lat="53.1600674" lon="8.6466714"/><trkpt lat="53.1600615" lon="8.6466739"/><trkpt lat="53.1600563" lon="8.6466795"/><trkpt lat="53.1600524" lon="8.6466876"/><trkpt lat="53.1600514" lon="8.6466988"/><trkpt lat="53.160054" lon="8.6467343"/><trkpt lat="53.1600569" lon="8.6467874"/><trkpt lat="53.1600609" lon="8.6468608"/><trkpt lat="53.1600654" lon="8.6469453"/><trkpt lat="53.1599337" lon="8.646967"/><trkpt lat="53.1599284" lon="8.6468795"/><trkpt lat="53.1599239" lon="8.6468072"/><trkpt lat="53.1599208" lon="8.6467566"/><trkpt lat="53.1599187" lon="8.6467191"/><trkpt lat="53.1599155" lon="8.6467103"/><trkpt lat="53.1599108" lon="8.6467036"/><trkpt lat="53.1599051" lon="8.6466997"/><trkpt lat="53.1598989" lon="8.646699"/><trkpt lat="53.1598923" lon="8.6467023"/><trkpt lat="53.1598877" lon="8.6467072"/><trkpt lat="53.1598839" lon="8.6467152"/><trkpt lat="53.1598826" lon="8.6467256"/><trkpt lat="53.1598845" lon="8.6467622"/><trkpt lat="53.1598929" lon="8.6468859"/><trkpt lat="53.1598962" lon="8.6469359"/><trkpt lat="53.1598987" lon="8.6469727"/><trkpt lat="53.1597628" lon="8.6469951"/><trkpt lat="53.1597606" lon="8.646956"/><trkpt lat="53.1597577" lon="8.6469094"/><trkpt lat="53.1597533" lon="8.6468377"/><trkpt lat="53.1597502" lon="8.6467822"/><trkpt lat="53.1597437" lon="8.6466668"/><trkpt lat="53.1597403" lon="8.6466027"/><trkpt lat="53.1597373" lon="8.646585"/><trkpt lat="53.1597309" lon="8.6465699"/><trkpt lat="53.1597219" lon="8.6465593"/><trkpt lat="53.1597113" lon="8.6465542"/><trkpt lat="53.1597002" lon="8.6465553"/><trkpt lat="53.1596892" lon="8.6465638"/><trkpt lat="53.1596819" lon="8.6465749"/><trkpt lat="53.1596772" lon="8.6465893"/><trkpt lat="53.1596749" lon="8.6466093"/><trkpt lat="53.1596803" lon="8.6466759"/><trkpt lat="53.1596876" lon="8.6467926"/><trkpt lat="53.1595985" lon="8.6468059"/><trkpt lat="53.1595079" lon="8.6468195"/><trkpt lat="53.1595157" lon="8.6469783"/><trkpt lat="53.1595164" lon="8.6469916"/><trkpt lat="53.159698" lon="8.6469664"/><trkpt lat="53.1597006" lon="8.6470047"/><trkpt lat="53.1594537" lon="8.6470459"/></trkseg></trk></gpx>

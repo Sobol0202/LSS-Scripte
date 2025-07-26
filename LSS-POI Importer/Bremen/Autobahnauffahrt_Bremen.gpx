@@ -1,0 +1,574 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.070685" lon="8.7819939"><name>Bremen-Neustadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=25041
+highway=motorway_junction
+name=Bremen-Neustadt
+id=node/125801</desc></wpt><wpt lat="53.1395794" lon="8.7429251"><name>Dreieck Bremen-Industriehäfen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10715
+TMC:cid_58:tabcd_1:NextLocationCode=29672
+TMC:cid_58:tabcd_1:PrevLocationCode=43210
+alt_name=Bremen-Industriehäfen
+highway=motorway_junction
+name=Dreieck Bremen-Industriehäfen
+ref=17
+id=node/20973971</desc></wpt><wpt lat="53.1734561" lon="8.7161366"><name>Bremen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10716
+TMC:cid_58:tabcd_1:NextLocationCode=10717
+TMC:cid_58:tabcd_1:PrevLocationCode=29672
+highway=motorway_junction
+name=Bremen-Nord
+ref=16
+id=node/20973973</desc></wpt><wpt lat="53.1069393" lon="8.8748162"><name>Bremen-Horn/Lehe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10713
+TMC:cid_58:tabcd_1:NextLocationCode=10714
+TMC:cid_58:tabcd_1:PrevLocationCode=43212
+check_date=2024-03-22
+highway=motorway_junction
+name=Bremen-Horn/Lehe
+ref=19
+id=node/21105772</desc></wpt><wpt lat="53.1134057" lon="8.8592093"><name>Bremen-Horn/Lehe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10713
+TMC:cid_58:tabcd_1:NextLocationCode=10714
+TMC:cid_58:tabcd_1:PrevLocationCode=43212
+check_date=2024-03-22
+highway=motorway_junction
+name=Bremen-Horn/Lehe
+ref=19
+id=node/21112137</desc></wpt><wpt lat="53.0260586" lon="8.8516426"><name>Bremen-Arsten</name><desc>highway=motorway_junction
+maxspeed=none
+name=Bremen-Arsten
+ref=56
+wikidata=Q4472254
+id=node/21268870</desc></wpt><wpt lat="53.0791454" lon="8.7896946"><name>Woltmershausen/Hohentorshafen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34586
+highway=motorway_junction
+name=Woltmershausen/Hohentorshafen
+source:name=LCL
+id=node/21638623</desc></wpt><wpt lat="53.0809247" lon="8.7911876"><name>Walle/Überseestadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=7789
+highway=motorway_junction
+name=Walle/Überseestadt
+source:name=LCL
+id=node/21638625</desc></wpt><wpt lat="53.0530768" lon="8.7369136"><name>Kirchhuchting</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LocationCode=34513
+highway=motorway_junction
+name=Kirchhuchting
+id=node/21638960</desc></wpt><wpt lat="53.0798507" lon="8.9140771"><name>Bremen-Vahr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10712
+TMC:cid_58:tabcd_1:NextLocationCode=43211
+TMC:cid_58:tabcd_1:PrevLocationCode=10711
+highway=motorway_junction
+name=Bremen-Vahr
+ref=20
+id=node/21701583</desc></wpt><wpt lat="53.0468863" lon="8.824367"><name>node/21725036</name><desc>highway=motorway_junction
+id=node/21725036</desc></wpt><wpt lat="53.0426014" lon="8.8368101"><name>node/21725041</name><desc>highway=motorway_junction
+id=node/21725041</desc></wpt><wpt lat="53.0384691" lon="8.8456882"><name>node/21725048</name><desc>highway=motorway_junction
+id=node/21725048</desc></wpt><wpt lat="53.0856686" lon="8.7956654"><name>Nord-West-Knoten</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34589
+highway=motorway_junction
+loc_name=Spaghettiknoten
+name=Nord-West-Knoten
+source:name=LCL
+id=node/21730003</desc></wpt><wpt lat="53.1173514" lon="8.8060011"><name>Bremen-Überseestadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10714
+TMC:cid_58:tabcd_1:NextLocationCode=43245
+TMC:cid_58:tabcd_1:PrevLocationCode=10713
+highway=motorway_junction
+name=Bremen-Überseestadt
+ref=18
+id=node/21730025</desc></wpt><wpt lat="53.1410632" lon="8.7410055"><name>Bremen-Industriehäfen</name><desc>destination=Worpswede
+highway=motorway_junction
+name=Bremen-Industriehäfen
+ref=17
+id=node/21992225</desc></wpt><wpt lat="53.0562897" lon="8.7921852"><name>Bremen-Airport-Stadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LocationCode=34537
+highway=motorway_junction
+name=Bremen-Airport-Stadt
+ref=7
+id=node/25733731</desc></wpt><wpt lat="53.0599212" lon="8.7860587"><name>Bremen-Airport-Stadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LocationCode=34537
+highway=motorway_junction
+layer=3
+name=Bremen-Airport-Stadt
+ref=7
+id=node/25733750</desc></wpt><wpt lat="53.067788" lon="8.7760731"><name>Bremen-Neustadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LocationCode=34533
+highway=motorway_junction
+name=Bremen-Neustadt
+ref=6
+id=node/25733764</desc></wpt><wpt lat="53.0753935" lon="8.7601452"><name>Bremen-Neustädter Hafen</name><desc>highway=motorway_junction
+name=Bremen-Neustädter Hafen
+old_name=Bremen-Woltmershausen
+ref=5
+id=node/25733787</desc></wpt><wpt lat="53.0755241" lon="8.7526752"><name>Bremen-Neustädter Hafen</name><desc>highway=motorway_junction
+name=Bremen-Neustädter Hafen
+old_name=Bremen-Woltmershausen
+ref=5
+id=node/25733803</desc></wpt><wpt lat="53.0775333" lon="8.739446"><name>Bremen-Strom</name><desc>highway=motorway_junction
+name=Bremen-Strom
+old_name=Bremen-Neustädter Hafen
+ref=4
+id=node/25733854</desc></wpt><wpt lat="53.1376157" lon="8.714337"><name>Bremen-Burg-Grambke</name><desc>highway=motorway_junction
+name=Bremen-Burg-Grambke
+ref=2
+id=node/25743301</desc></wpt><wpt lat="53.0373453" lon="8.8808515"><name>Bremen-Hemelingen</name><desc>highway=motorway_junction
+name=Bremen-Hemelingen
+ref=55
+id=node/25769711</desc></wpt><wpt lat="53.110823" lon="8.8081393"><name>Bremen-Universität</name><desc>highway=motorway_junction
+name=Bremen-Universität
+source:name=http://www.autobahnatlas-online.de/A282.htm
+id=node/25778897</desc></wpt><wpt lat="53.1113392" lon="8.8153324"><name>Bremen-Universität</name><desc>highway=motorway_junction
+name=Bremen-Universität
+id=node/25778914</desc></wpt><wpt lat="53.1451205" lon="8.728273"><name>Dreieck Bremen-Industriehäfen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10760
+TMC:cid_58:tabcd_1:PrevLocationCode=10759
+highway=motorway_junction
+name=Dreieck Bremen-Industriehäfen
+ref=1
+id=node/25840056</desc></wpt><wpt lat="53.1481614" lon="8.7312234"><name>Dreieck Bremen-Industriehäfen</name><desc>highway=motorway_junction
+name=Dreieck Bremen-Industriehäfen
+ref=17
+id=node/25840093</desc></wpt><wpt lat="53.1473721" lon="8.7331073"><name>Dreieck Bremen-Industriehäfen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.0
+highway=motorway_junction
+name=Dreieck Bremen-Industriehäfen
+ref=17
+id=node/25840129</desc></wpt><wpt lat="53.1450159" lon="8.7351857"><name>Bremen-Industriehäfen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10715
+TMC:cid_58:tabcd_1:NextLocationCode=29672
+TMC:cid_58:tabcd_1:PrevLocationCode=43210
+destination=Bremen-Oslebshausen
+highway=motorway_junction
+name=Bremen-Industriehäfen
+ref=17
+id=node/25840179</desc></wpt><wpt lat="53.0903799" lon="8.7953527"><name>Nord-West-Knoten</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34589
+highway=motorway_junction
+name=Nord-West-Knoten
+source:name=LCL
+id=node/25872356</desc></wpt><wpt lat="53.1168204" lon="8.8116214"><name>Bremen-Überseestadt</name><desc>check_date=2024-03-22
+highway=motorway_junction
+name=Bremen-Überseestadt
+id=node/25925731</desc></wpt><wpt lat="53.1176533" lon="8.8122411"><name>Bremen-Überseestadt</name><desc>check_date=2024-03-22
+highway=motorway_junction
+name=Bremen-Überseestadt
+id=node/25941338</desc></wpt><wpt lat="53.0945612" lon="8.7946566"><name>Auffahrt Münchener Straße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=7819
+highway=motorway_junction
+name=Auffahrt Münchener Straße
+source:name=LCL
+id=node/26563212</desc></wpt><wpt lat="53.0815619" lon="8.9082774"><name>Bremen-Vahr</name><desc>destination=Bremen-Oberneuland
+highway=motorway_junction
+name=Bremen-Vahr
+id=node/26738296</desc></wpt><wpt lat="53.0824862" lon="8.9073273"><name>Bremen-Vahr</name><desc>highway=motorway_junction
+name=Bremen-Vahr
+id=node/26738354</desc></wpt><wpt lat="53.0856157" lon="8.901825"><name>Bremen-Vahr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10712
+TMC:cid_58:tabcd_1:NextLocationCode=43211
+TMC:cid_58:tabcd_1:PrevLocationCode=10711
+highway=motorway_junction
+name=Bremen-Vahr
+ref=20
+id=node/26739241</desc></wpt><wpt lat="53.0846528" lon="8.9031154"><name>Bremen-Vahr</name><desc>highway=motorway_junction
+name=Bremen-Vahr
+id=node/26739242</desc></wpt><wpt lat="53.0804128" lon="8.9123642"><name>Bremen-Vahr</name><desc>destination=Bremen-Oberneuland
+highway=motorway_junction
+name=Bremen-Vahr
+id=node/26739250</desc></wpt><wpt lat="53.1735908" lon="8.6924473"><name>Ihletal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34510
+highway=motorway_junction
+name=Ihletal
+ref=8
+source=survey
+id=node/27035619</desc></wpt><wpt lat="53.1729967" lon="8.6813626"><name>Bremen-Lesum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34509
+TMC:cid_58:tabcd_1:NextLocationCode=34510
+TMC:cid_58:tabcd_1:PrevLocationCode=34508
+highway=motorway_junction
+name=Bremen-Lesum
+ref=7
+source=survey
+id=node/27035664</desc></wpt><wpt lat="53.1725397" lon="8.6578682"><name>Bremen-St. Magnus</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34508
+TMC:cid_58:tabcd_1:NextLocationCode=34509
+TMC:cid_58:tabcd_1:PrevLocationCode=34507
+highway=motorway_junction
+name=Bremen-St. Magnus
+ref=6
+id=node/27035869</desc></wpt><wpt lat="53.1740335" lon="8.6489449"><name>Bremen-St. Magnus</name><desc>highway=motorway_junction
+name=Bremen-St. Magnus
+ref=6
+id=node/27035937</desc></wpt><wpt lat="53.0527963" lon="8.8839096"><name>node/27104018</name><desc>highway=motorway_junction
+id=node/27104018</desc></wpt><wpt lat="53.0404659" lon="8.8859257"><name>node/27104034</name><desc>highway=motorway_junction
+id=node/27104034</desc></wpt><wpt lat="53.1747816" lon="8.6415231"><name>Bremen-Vegesack-Hafen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34507
+TMC:cid_58:tabcd_1:NextLocationCode=34508
+TMC:cid_58:tabcd_1:PrevLocationCode=34505
+highway=motorway_junction
+name=Bremen-Vegesack-Hafen
+ref=5
+id=node/27278852</desc></wpt><wpt lat="53.1748801" lon="8.640258"><name>Bremen-Vegesack-Hafen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34507
+TMC:cid_58:tabcd_1:NextLocationCode=34508
+TMC:cid_58:tabcd_1:PrevLocationCode=34505
+highway=motorway_junction
+name=Bremen-Vegesack-Hafen
+ref=5
+id=node/27278880</desc></wpt><wpt lat="53.1818129" lon="8.5923486"><name>Bremen-Blumenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34502
+TMC:cid_58:tabcd_1:NextLocationCode=34503
+TMC:cid_58:tabcd_1:PrevLocationCode=34539
+highway=motorway_junction
+layer=1
+name=Bremen-Blumenthal
+note=Intern hat diese Abfahrt angeblich die ref 3a
+ref=3
+id=node/27279177</desc></wpt><wpt lat="53.1841308" lon="8.5840969"><name>Bremen-Blumenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34502
+TMC:cid_58:tabcd_1:NextLocationCode=34503
+TMC:cid_58:tabcd_1:PrevLocationCode=34539
+highway=motorway_junction
+layer=1
+name=Bremen-Blumenthal
+note=Intern hat diese Abfahrt angeblich die ref 3a
+ref=3
+id=node/27279189</desc></wpt><wpt lat="53.1865273" lon="8.5802388"><name>Bremen-Lüssum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34539
+TMC:cid_58:tabcd_1:NextLocationCode=34502
+TMC:cid_58:tabcd_1:PrevLocationCode=34532
+highway=motorway_junction
+layer=1
+name=Bremen-Lüssum
+ref=2
+id=node/27279202</desc></wpt><wpt lat="53.1910745" lon="8.5677623"><name>Bremen-Rönnebeck</name><desc>highway=motorway_junction
+name=Bremen-Rönnebeck
+ref=1
+id=node/27279288</desc></wpt><wpt lat="53.0469032" lon="8.8852459"><name>node/29037374</name><desc>highway=motorway_junction
+id=node/29037374</desc></wpt><wpt lat="53.0547017" lon="8.8833148"><name>node/29194136</name><desc>highway=motorway_junction
+id=node/29194136</desc></wpt><wpt lat="53.0856049" lon="8.8035388"><name>Nord-West-Knoten</name><desc>fixme=TMC
+highway=motorway_junction
+name=Nord-West-Knoten
+id=node/29224897</desc></wpt><wpt lat="53.0509294" lon="8.7186895"><name>Huchting</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=25038
+highway=motorway_junction
+name=Huchting
+source:name=LCL
+id=node/29856319</desc></wpt><wpt lat="53.0499365" lon="8.7164833"><name>Huchting</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=25038
+highway=motorway_junction
+name=Huchting
+source:name=LCL
+id=node/29856747</desc></wpt><wpt lat="53.0723491" lon="8.7847375"><name>Woltmershausen/Hohentorshafen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34586
+highway=motorway_junction
+name=Woltmershausen/Hohentorshafen
+source:name=LCL
+id=node/30210507</desc></wpt><wpt lat="53.0664508" lon="8.7778208"><name>Bremen-Neustadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=25041
+highway=motorway_junction
+name=Bremen-Neustadt
+id=node/30211998</desc></wpt><wpt lat="53.037749" lon="8.8870558"><name>node/31248113</name><desc>highway=motorway_junction
+id=node/31248113</desc></wpt><wpt lat="53.0389699" lon="8.8930728"><name>Bremen-Hemelingen</name><desc>highway=motorway_junction
+name=Bremen-Hemelingen
+ref=55
+id=node/31319902</desc></wpt><wpt lat="53.0612876" lon="8.7694118"><name>Grolland</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34514
+highway=motorway_junction
+name=Grolland
+source:name=LCL
+id=node/32343376</desc></wpt><wpt lat="53.0565916" lon="8.7545263"><name>Grolland</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34514
+highway=motorway_junction
+name=Grolland
+source:name=LCL
+id=node/32923447</desc></wpt><wpt lat="53.0639609" lon="8.7751626"><name>Airport-Stadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34583
+highway=motorway_junction
+name=Airport-Stadt
+source:name=LCL
+id=node/32923505</desc></wpt><wpt lat="33.6854402" lon="-85.1581254"><name>11</name><desc>highway=motorway_junction
+ref=11
+start_date=1976
+id=node/66826766</desc></wpt><wpt lat="33.6856381" lon="-85.1458217"><name>11</name><desc>highway=motorway_junction
+ref=11
+start_date=1976
+id=node/66883370</desc></wpt><wpt lat="53.5227979" lon="8.6253244"><name>Bremerhaven-Geestemünde</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10724
+TMC:cid_58:tabcd_1:NextLocationCode=10725
+TMC:cid_58:tabcd_1:PrevLocationCode=10723
+highway=motorway_junction
+name=Bremerhaven-Geestemünde
+ref=8
+id=node/71841305</desc></wpt><wpt lat="53.0691414" lon="8.7742955"><name>Bremen-Neustadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LocationCode=34533
+highway=motorway_junction
+layer=3
+name=Bremen-Neustadt
+ref=6
+id=node/158597768</desc></wpt><wpt lat="53.0894678" lon="8.896176"><name>Achterkämpe</name><desc>highway=motorway_junction
+name=Achterkämpe
+noref=yes
+id=node/173540264</desc></wpt><wpt lat="53.123333" lon="8.781118"><name>Osterwiesen</name><desc>highway=motorway_junction
+name=Osterwiesen
+noref=yes
+id=node/173540355</desc></wpt><wpt lat="53.1446194" lon="8.7364915"><name>Dreieck Bremen-Industriehäfen</name><desc>destination=Bremen-Gröpelingen
+highway=motorway_junction
+name=Dreieck Bremen-Industriehäfen
+ref=17
+id=node/173540400</desc></wpt><wpt lat="53.0928054" lon="8.890757"><name>Mittelkämpe</name><desc>highway=motorway_junction
+name=Mittelkämpe
+noref=yes
+id=node/173608597</desc></wpt><wpt lat="53.1424557" lon="8.7383768"><name>Bremen-Industriehäfen</name><desc>destination=Worpswede
+highway=motorway_junction
+name=Bremen-Industriehäfen
+ref=17
+id=node/173618488</desc></wpt><wpt lat="53.1805246" lon="8.6230217"><name>Bremen-Vegesack-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34505
+TMC:cid_58:tabcd_1:NextLocationCode=34507
+TMC:cid_58:tabcd_1:PrevLocationCode=34503
+highway=motorway_junction
+name=Bremen-Vegesack-Mitte
+ref=4
+id=node/252438841</desc></wpt><wpt lat="53.0368025" lon="8.8876232"><name>node/258894301</name><desc>highway=motorway_junction
+id=node/258894301</desc></wpt><wpt lat="53.0391481" lon="8.8865841"><name>node/258894526</name><desc>highway=motorway_junction
+id=node/258894526</desc></wpt><wpt lat="53.1807586" lon="8.6157403"><name>Bremen-Vegesack-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34505
+TMC:cid_58:tabcd_1:NextLocationCode=34507
+TMC:cid_58:tabcd_1:PrevLocationCode=34503
+highway=motorway_junction
+name=Bremen-Vegesack-Mitte
+ref=4
+id=node/289620056</desc></wpt><wpt lat="53.1199044" lon="8.794306"><name>Fahrwiesen</name><desc>highway=motorway_junction
+name=Fahrwiesen
+noref=yes
+id=node/293010615</desc></wpt><wpt lat="53.173499" lon="8.6899772"><name>Bremen-Lesum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=34509
+TMC:cid_58:tabcd_1:NextLocationCode=34510
+TMC:cid_58:tabcd_1:PrevLocationCode=34508
+highway=motorway_junction
+name=Bremen-Lesum
+ref=7
+source=survey
+id=node/521580281</desc></wpt><wpt lat="53.0236809" lon="8.8246337"><name>Rastplatz Krummhörens Kuhlen</name><desc>highway=motorway_junction
+name=Rastplatz Krummhörens Kuhlen
+noref=yes
+id=node/1270604057</desc></wpt><wpt lat="53.0943851" lon="8.6905883"><name>Bremen-Seehausen</name><desc>highway=motorway_junction
+name=Bremen-Seehausen
+old_name=Bremen-Strom
+ref=3
+id=node/1461100365</desc></wpt><wpt lat="53.0454707" lon="8.9777358"><name>Bremer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10710
+TMC:cid_58:tabcd_1:NextLocationCode=10711
+TMC:cid_58:tabcd_1:PrevLocationCode=10709
+highway=motorway_junction
+name=Bremer Kreuz
+ref=22
+id=node/1659040550</desc></wpt><wpt lat="53.5474569" lon="8.6196585"><name>Bremerhaven-Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10725
+TMC:cid_58:tabcd_1:NextLocationCode=10726
+TMC:cid_58:tabcd_1:PrevLocationCode=10724
+highway=motorway_junction
+name=Bremerhaven-Zentrum
+ref=7
+id=node/1659419989</desc></wpt><wpt lat="53.1503185" lon="8.7288361"><name>Dreieck Bremen-Industriehäfen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=29672
+TMC:cid_58:tabcd_1:NextLocationCode=10716
+TMC:cid_58:tabcd_1:PrevLocationCode=10715
+alt_name=Bremen-Industriehäfen
+highway=motorway_junction
+name=Dreieck Bremen-Industriehäfen
+ref=17
+id=node/1659420042</desc></wpt><wpt lat="53.4959093" lon="8.6263595"><name>Bremerhaven-Wulsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10723
+TMC:cid_58:tabcd_1:NextLocationCode=10724
+TMC:cid_58:tabcd_1:PrevLocationCode=59498
+highway=motorway_junction
+name=Bremerhaven-Wulsdorf
+ref=9
+id=node/1659420162</desc></wpt><wpt lat="53.496825" lon="8.6269311"><name>Bremerhaven-Wulsdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10723
+TMC:cid_58:tabcd_1:NextLocationCode=10724
+TMC:cid_58:tabcd_1:PrevLocationCode=59498
+highway=motorway_junction
+name=Bremerhaven-Wulsdorf
+ref=9
+id=node/1659420182</desc></wpt><wpt lat="53.5298437" lon="8.6224271"><name>Bremerhaven-Geestemünde</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10724
+TMC:cid_58:tabcd_1:NextLocationCode=10725
+TMC:cid_58:tabcd_1:PrevLocationCode=10723
+highway=motorway_junction
+name=Bremerhaven-Geestemünde
+ref=8
+id=node/1659420590</desc></wpt><wpt lat="53.5805003" lon="8.6221287"><name>Bremerhaven-Überseehäfen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10726
+TMC:cid_58:tabcd_1:NextLocationCode=59499
+TMC:cid_58:tabcd_1:PrevLocationCode=10725
+highway=motorway_junction
+name=Bremerhaven-Überseehäfen
+ref=6
+id=node/1659476578</desc></wpt><wpt lat="53.6054627" lon="8.6563012"><name>Bütteler Holz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=59499
+TMC:cid_58:tabcd_1:NextLocationCode=10727
+TMC:cid_58:tabcd_1:PrevLocationCode=10726
+highway=motorway_junction
+name=Bütteler Holz
+noref=yes
+id=node/1659476925</desc></wpt><wpt lat="53.1150195" lon="8.811647"><name>Bremen-Überseestadt</name><desc>highway=motorway_junction
+name=Bremen-Überseestadt
+noref=yes
+id=node/1835241549</desc></wpt><wpt lat="53.1085069" lon="8.8040151"><name>Bremen-Findorff</name><desc>highway=motorway_junction
+name=Bremen-Findorff
+source:name=http://www.autobahnatlas-online.de/A282.htm
+id=node/1907362507</desc></wpt><wpt lat="53.0940063" lon="8.794298"><name>Utbremer Straße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=7818
+highway=motorway_junction
+name=Utbremer Straße
+source:name=LCL
+id=node/1942440014</desc></wpt><wpt lat="53.098447" lon="8.6896342"><name>Bremen-Seehausen</name><desc>highway=motorway_junction
+name=Bremen-Seehausen
+old_name=Bremen-Strom
+ref=3
+id=node/2026210496</desc></wpt><wpt lat="53.0613429" lon="8.770216"><name>Airport-Stadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=10.1
+TMC:cid_58:tabcd_1:LocationCode=34583
+highway=motorway_junction
+name=Airport-Stadt
+source:name=LCL
+id=node/2264101904</desc></wpt><wpt lat="53.0243452" lon="8.8438796"><name>Rastplatz Ahlken</name><desc>highway=motorway_junction
+name=Rastplatz Ahlken
+noref=yes
+id=node/2486337423</desc></wpt><wpt lat="53.1164944" lon="8.818849"><name>Bremen-Überseestadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10714
+TMC:cid_58:tabcd_1:NextLocationCode=43245
+TMC:cid_58:tabcd_1:PrevLocationCode=10713
+check_date=2024-03-22
+highway=motorway_junction
+name=Bremen-Überseestadt
+ref=18
+id=node/2969606943</desc></wpt><wpt lat="53.111577" lon="8.8091878"><name>Bremen-Universität</name><desc>highway=motorway_junction
+name=Bremen-Universität
+source:name=http://www.autobahnatlas-online.de/A282.htm
+id=node/3072541816</desc></wpt><wpt lat="53.0981618" lon="8.7956886"><name>Bremen-Findorff</name><desc>highway=motorway_junction
+name=Bremen-Findorff
+source:name=http://www.autobahnatlas-online.de/A282.htm
+id=node/3079458830</desc></wpt><wpt lat="53.053396" lon="8.7462575"><name>Kirchhuchting</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LocationCode=34513
+highway=motorway_junction
+name=Kirchhuchting
+id=node/3083742958</desc></wpt><wpt lat="53.5488296" lon="8.6194579"><name>Bremerhaven-Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10725
+TMC:cid_58:tabcd_1:NextLocationCode=10726
+TMC:cid_58:tabcd_1:PrevLocationCode=10724
+highway=motorway_junction
+name=Bremerhaven-Zentrum
+ref=7
+id=node/3161566385</desc></wpt><wpt lat="53.5811469" lon="8.6227999"><name>Bremerhaven-Überseehäfen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10726
+TMC:cid_58:tabcd_1:NextLocationCode=59499
+TMC:cid_58:tabcd_1:PrevLocationCode=10725
+highway=motorway_junction
+name=Bremerhaven-Überseehäfen
+ref=6
+id=node/3161574570</desc></wpt><wpt lat="53.1346017" lon="8.7082409"><name>Bremen-Burg-Grambke</name><desc>highway=motorway_junction
+name=Bremen-Burg-Grambke
+ref=2
+id=node/9989195676</desc></wpt></gpx>

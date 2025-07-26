@@ -1,0 +1,31 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><trk><name>09/27</name><desc>aeroway=runway
+centerline=yes
+ele=4
+length=2040
+ref=09/27
+source=Bing
+surface=asphalt
+width=45
+id=way/360390539</desc><trkseg><trkpt lat="53.046576" lon="8.774473"/><trkpt lat="53.0465791" lon="8.7746075"/><trkpt lat="53.0466036" lon="8.7756882"/><trkpt lat="53.0468223" lon="8.7853114"/><trkpt lat="53.0468508" lon="8.7865668"/><trkpt lat="53.0468815" lon="8.7879178"/><trkpt lat="53.0469717" lon="8.791887"/><trkpt lat="53.0469967" lon="8.7929881"/><trkpt lat="53.0470087" lon="8.7935138"/><trkpt lat="53.0471195" lon="8.798391"/><trkpt lat="53.0471635" lon="8.8003271"/><trkpt lat="53.0472366" lon="8.8035436"/><trkpt lat="53.0472624" lon="8.8046803"/><trkpt lat="53.0472661" lon="8.8048426"/></trkseg></trk><trk><name>way/360390540</name><desc>aeroway=runway
+description=Special use Airbus A300/600ST aircrafts only
+ele=4
+runway=displaced_threshold
+surface=asphalt
+width=45
+id=way/360390540</desc><trkseg><trkpt lat="53.0473679" lon="8.8093237"/><trkpt lat="53.0473533" lon="8.8086798"/><trkpt lat="53.047329" lon="8.8076103"/><trkpt lat="53.047286" lon="8.8057184"/><trkpt lat="53.0472661" lon="8.8048426"/></trkseg></trk><trk><name>way/360390541</name><desc>aeroway=runway
+description=Special use Airbus A300/600ST aircrafts only
+ele=4
+runway=displaced_threshold
+surface=asphalt
+width=45
+id=way/360390541</desc><trkseg><trkpt lat="53.0464762" lon="8.770079"/><trkpt lat="53.0464935" lon="8.7708422"/><trkpt lat="53.0465144" lon="8.7717629"/><trkpt lat="53.0465479" lon="8.7732358"/><trkpt lat="53.046576" lon="8.774473"/></trkseg></trk><trk><name>23</name><desc>aeroway=runway
+centerline=yes
+disused=yes
+length=700
+name=23
+note=05 not in use!
+orientation=05/23
+ref=23
+surface=asphalt
+width=23
+id=way/360390542</desc><trkseg><trkpt lat="53.0426094" lon="8.7842277"/><trkpt lat="53.0439649" lon="8.787075"/><trkpt lat="53.0455026" lon="8.7902844"/><trkpt lat="53.0460632" lon="8.7914545"/><trkpt lat="53.0465194" lon="8.7924019"/></trkseg></trk></gpx>
