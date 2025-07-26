@@ -1,0 +1,37 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="52.5201609" lon="13.3689619"><name>node/4329873407</name><desc>description=Blockheizkraftwerk
+generator:method=combustion
+generator:output:electricity=yes
+generator:output:hot_water=yes
+generator:source=biomass
+power=generator
+start_date=2001
+id=node/4329873407</desc></wpt><wpt lat="44.4717011" lon="-71.1755276"><name>ST01</name><desc>generator:method=combustion
+generator:output:electricity=75 MW
+generator:source=biomass
+generator:type=steam_turbine
+power=generator
+ref=ST01
+source=U.S. Energy Information Administration - EIA-860 - 2021
+start_date=2013-11
+id=node/9888706978</desc></wpt><trk><name>Biomasseheizkraftwerk Berlin-Neukölln</name><desc>building=industrial
+generator:output:electricity=20 MW
+generator:output:heat=65 MW
+generator:source=biomass
+generator:source:biomass=wood
+name=Biomasseheizkraftwerk Berlin-Neukölln
+operator=innogy SE
+power=generator
+website=https://www.innogy.com/web/cms/de/3717504/fuer-unternehmen/energie-beschaffen/rechtliche-informationen/emissionberichte/heizkraftwerk-berlin-neukoelln/
+wikidata=Q1504100
+wikipedia=de:Holzheizkraftwerk Berlin-Neukölln/Gropiusstadt
+id=way/108052319</desc><trkseg><trkpt lat="52.4253458" lon="13.5170948"/><trkpt lat="52.4252998" lon="13.5175498"/><trkpt lat="52.4259206" lon="13.5177176"/><trkpt lat="52.4259684" lon="13.5172444"/><trkpt lat="52.4257797" lon="13.5171934"/><trkpt lat="52.4257781" lon="13.5172091"/><trkpt lat="52.4257097" lon="13.5171907"/><trkpt lat="52.4257167" lon="13.5171216"/><trkpt lat="52.425618" lon="13.5170949"/><trkpt lat="52.4256127" lon="13.5171473"/><trkpt lat="52.4255528" lon="13.5171311"/><trkpt lat="52.4255509" lon="13.5171502"/><trkpt lat="52.4253458" lon="13.5170948"/></trkseg></trk><trk><name>way/1059375125</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1059375125</desc><trkseg><trkpt lat="52.5322285" lon="13.2217906"/><trkpt lat="52.5318469" lon="13.2217066"/><trkpt lat="52.5318466" lon="13.2217112"/><trkpt lat="52.5318373" lon="13.221825"/><trkpt lat="52.531837" lon="13.2218284"/><trkpt lat="52.5322186" lon="13.2219125"/><trkpt lat="52.5322285" lon="13.2217906"/></trkseg></trk><trk><name>way/1059375126</name><desc>building=yes
+generator:method=anaerobic_digestion
+generator:output:biogas=yes
+generator:source=biomass
+power=generator
+id=way/1059375126</desc><trkseg><trkpt lat="52.5322012" lon="13.2221254"/><trkpt lat="52.532212" lon="13.2219926"/><trkpt lat="52.5318298" lon="13.2219084"/><trkpt lat="52.5318295" lon="13.2219121"/><trkpt lat="52.5318203" lon="13.2220242"/><trkpt lat="52.5318201" lon="13.2220267"/><trkpt lat="52.5321109" lon="13.2220908"/><trkpt lat="52.5321097" lon="13.2221053"/><trkpt lat="52.5322012" lon="13.2221254"/></trkseg></trk></gpx>

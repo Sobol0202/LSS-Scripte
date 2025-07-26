@@ -1,0 +1,1143 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="52.4146848" lon="13.2726869"><name>node/27452965</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/27452965</desc></wpt><wpt lat="52.4518572" lon="13.5346032"><name>node/29921533</name><desc>crossing:barrier=double_half
+crossing:light=yes
+railway=level_crossing
+railway:position=1.9
+railway:position:exact=1.95
+id=node/29921533</desc></wpt><wpt lat="52.4875573" lon="13.507755"><name>node/30219395</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/30219395</desc></wpt><wpt lat="52.490373" lon="13.5023416"><name>node/30219525</name><desc>railway=level_crossing
+id=node/30219525</desc></wpt><wpt lat="52.4903133" lon="13.5029181"><name>node/30219527</name><desc>railway=level_crossing
+id=node/30219527</desc></wpt><wpt lat="52.4879082" lon="13.5082745"><name>node/30219534</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/30219534</desc></wpt><wpt lat="52.6167997" lon="13.3815517"><name>node/30249222</name><desc>check_date=2023-06-10
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:supervision=no
+railway=level_crossing
+id=node/30249222</desc></wpt><wpt lat="52.4382085" lon="13.4348458"><name>node/31390989</name><desc>crossing:barrier=no
+hazard:bicycle=tracks
+railway=level_crossing
+id=node/31390989</desc></wpt><wpt lat="52.5552604" lon="13.1708969"><name>node/33205439</name><desc>check_date:crossing:barrier=2023-11-26
+crossing:barrier=half
+railway=level_crossing
+id=node/33205439</desc></wpt><wpt lat="52.5608187" lon="13.1720826"><name>node/33206668</name><desc>check_date:crossing:barrier=2024-05-28
+crossing:barrier=half
+railway=level_crossing
+id=node/33206668</desc></wpt><wpt lat="52.5502764" lon="13.1697811"><name>node/33206673</name><desc>crossing:barrier=full
+crossing:bell=yes
+crossing:light=yes
+crossing:supervision=yes
+railway=level_crossing
+id=node/33206673</desc></wpt><wpt lat="52.5416918" lon="13.1679151"><name>node/33206768</name><desc>crossing:barrier=full
+crossing:light=yes
+railway=level_crossing
+id=node/33206768</desc></wpt><wpt lat="52.5356559" lon="13.1798272"><name>node/33208818</name><desc>check_date:crossing:barrier=2024-06-27
+crossing:barrier=half
+railway=level_crossing
+id=node/33208818</desc></wpt><wpt lat="52.5361859" lon="13.1653192"><name>node/33211756</name><desc>crossing:barrier=half
+railway=level_crossing
+id=node/33211756</desc></wpt><wpt lat="52.5698725" lon="13.2019471"><name>node/33355563</name><desc>crossing:barrier=no
+crossing:light=yes
+crossing:saltire=yes
+railway=level_crossing
+id=node/33355563</desc></wpt><wpt lat="52.5314524" lon="13.216177"><name>node/34783536</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/34783536</desc></wpt><wpt lat="52.4379585" lon="13.4350654"><name>node/35115731</name><desc>crossing:barrier=no
+hazard:bicycle=tracks
+railway=level_crossing
+id=node/35115731</desc></wpt><wpt lat="52.4524501" lon="13.4236765"><name>node/38428869</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/38428869</desc></wpt><wpt lat="52.5503852" lon="13.169812"><name>node/59978775</name><desc>crossing:barrier=full
+crossing:bell=yes
+crossing:light=yes
+crossing:supervision=yes
+railway=level_crossing
+id=node/59978775</desc></wpt><wpt lat="52.5265238" lon="13.2082425"><name>node/60191600</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/60191600</desc></wpt><wpt lat="52.5263952" lon="13.2079994"><name>node/60191601</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/60191601</desc></wpt><wpt lat="52.5265219" lon="13.2077705"><name>node/60191632</name><desc>railway=level_crossing
+id=node/60191632</desc></wpt><wpt lat="52.5252122" lon="13.2066864"><name>node/60191653</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/60191653</desc></wpt><wpt lat="42.3618908" lon="-71.6385632"><name>node/71225233</name><desc>railway=level_crossing
+id=node/71225233</desc></wpt><wpt lat="42.3871154" lon="-71.6597064"><name>node/71225309</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/71225309</desc></wpt><wpt lat="42.3765556" lon="-71.6466424"><name>node/71235392</name><desc>railway=level_crossing
+id=node/71235392</desc></wpt><wpt lat="42.369641" lon="-71.6413714"><name>node/71251135</name><desc>railway=level_crossing
+id=node/71251135</desc></wpt><wpt lat="46.377205" lon="-98.490073"><name>node/76228691</name><desc>railway=level_crossing
+id=node/76228691</desc></wpt><wpt lat="52.6316833" lon="13.4656436"><name>node/76667352</name><desc>crossing:barrier=half
+crossing:light=yes
+railway=level_crossing
+id=node/76667352</desc></wpt><wpt lat="52.417775" lon="13.5569759"><name>node/94704896</name><desc>access=private
+crossing:activation=local
+crossing:barrier=full
+crossing:light=no
+crossing:on_demand=no
+crossing:saltire=no
+crossing:supervision=phone
+description=Vollschranke, Streckenfernsprecher daneben, nicht öffentlich
+railway=level_crossing
+id=node/94704896</desc></wpt><wpt lat="52.4479354" lon="13.528455"><name>node/94711345</name><desc>railway=level_crossing
+id=node/94711345</desc></wpt><wpt lat="52.4577459" lon="13.5442938"><name>node/95951878</name><desc>crossing:barrier=no
+crossing:chicane=no
+railway=level_crossing
+id=node/95951878</desc></wpt><wpt lat="39.7982204" lon="-74.9325817"><name>node/103378284</name><desc>railway=level_crossing
+id=node/103378284</desc></wpt><wpt lat="39.8027935" lon="-74.9403697"><name>node/103393721</name><desc>railway=level_crossing
+id=node/103393721</desc></wpt><wpt lat="39.797338" lon="-74.93108"><name>node/103417752</name><desc>railway=level_crossing
+id=node/103417752</desc></wpt><wpt lat="39.7945301" lon="-74.9262919"><name>node/103429035</name><desc>railway=level_crossing
+id=node/103429035</desc></wpt><wpt lat="39.7939469" lon="-74.9253104"><name>node/103429037</name><desc>railway=level_crossing
+id=node/103429037</desc></wpt><wpt lat="39.793289" lon="-74.9241789"><name>node/103429041</name><desc>railway=level_crossing
+id=node/103429041</desc></wpt><wpt lat="52.4202811" lon="13.4803553"><name>node/138562271</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/138562271</desc></wpt><wpt lat="52.4109742" lon="13.2750482"><name>node/142062672</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/142062672</desc></wpt><wpt lat="52.4222939" lon="13.2752542"><name>node/142092969</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/142092969</desc></wpt><wpt lat="52.4231507" lon="13.2755461"><name>node/142092973</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/142092973</desc></wpt><wpt lat="52.4244445" lon="13.2759991"><name>node/142092976</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/142092976</desc></wpt><wpt lat="52.425351" lon="13.2763147"><name>node/142092982</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/142092982</desc></wpt><wpt lat="52.4263568" lon="13.2767557"><name>node/142092989</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/142092989</desc></wpt><wpt lat="52.418622" lon="13.2739972"><name>node/142093056</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/142093056</desc></wpt><wpt lat="52.4323894" lon="13.2795631"><name>node/142109800</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/142109800</desc></wpt><wpt lat="52.4309379" lon="13.2789329"><name>node/142109804</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/142109804</desc></wpt><wpt lat="52.4307519" lon="13.2788448"><name>node/142109808</name><desc>check_date:crossing:barrier=2023-08-22
+crossing:barrier=no
+railway=level_crossing
+id=node/142109808</desc></wpt><wpt lat="52.411226" lon="13.2742825"><name>node/163090441</name><desc>crossing:barrier=full
+railway=level_crossing
+id=node/163090441</desc></wpt><wpt lat="41.6385849" lon="-72.7675621"><name>node/178401238</name><desc>railway=level_crossing
+id=node/178401238</desc></wpt><wpt lat="38.3260441" lon="-75.2222539"><name>531865V</name><desc>access=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=yes
+lit=no
+operator=Maryland &amp; Delaware
+operator:wikidata=Q6781532
+phone=1-855-854-6333
+railway=level_crossing
+ref=531865V
+id=node/183442431</desc></wpt><wpt lat="38.3269202" lon="-75.2218986"><name>531867J</name><desc>access=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+lit=no
+operator=Maryland &amp; Delaware
+operator:wikidata=Q6781532
+phone=1-855-854-6333
+railway=level_crossing
+ref=531867J
+id=node/183467496</desc></wpt><wpt lat="38.3338392" lon="-75.219096"><name>531870S</name><desc>access=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+lit=no
+operator=Maryland &amp; Delaware Railroad
+operator:wikidata=Q6781532
+phone=1-855-854-6333
+railway=level_crossing
+ref=531870S
+id=node/183483305</desc></wpt><wpt lat="38.3302074" lon="-75.2205638"><name>531869X</name><desc>access=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=yes
+lit=no
+operator=Maryland &amp; Delaware
+operator:wikidata=Q6781532
+phone=1-855-854-6333
+railway=level_crossing
+ref=531869X
+id=node/183483821</desc></wpt><wpt lat="38.3183976" lon="-75.2289196"><name>531862A</name><desc>access=yes
+crossing:barrier=no
+crossing:bell=yes
+crossing:light=yes
+lit=no
+operator=Maryland &amp; Delaware
+operator:wikidata=Q6781532
+phone=1-855-854-6333
+railway=level_crossing
+ref=531862A
+id=node/183560428</desc></wpt><wpt lat="38.3246892" lon="-75.2232591"><name>531864N</name><desc>access=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+lit=no
+operator=Maryland &amp; Delaware
+operator:wikidata=Q6781532
+phone=1-855-854-6333
+railway=level_crossing
+ref=531864N
+id=node/183565972</desc></wpt><wpt lat="44.485907" lon="-71.204038"><name>node/194612836</name><desc>railway=level_crossing
+id=node/194612836</desc></wpt><wpt lat="44.4725837" lon="-71.1769936"><name>node/194622753</name><desc>railway=level_crossing
+id=node/194622753</desc></wpt><wpt lat="44.4721881" lon="-71.1783741"><name>node/194622754</name><desc>railway=level_crossing
+id=node/194622754</desc></wpt><wpt lat="44.4721049" lon="-71.1789791"><name>node/194622758</name><desc>railway=level_crossing
+id=node/194622758</desc></wpt><wpt lat="44.4757852" lon="-71.1687716"><name>node/194721276</name><desc>railway=level_crossing
+id=node/194721276</desc></wpt><wpt lat="44.472726" lon="-71.1860699"><name>node/194751084</name><desc>railway=level_crossing
+id=node/194751084</desc></wpt><wpt lat="44.4676463" lon="-71.1857972"><name>node/194751094</name><desc>railway=level_crossing
+id=node/194751094</desc></wpt><wpt lat="44.5086288" lon="-71.2275893"><name>node/194751832</name><desc>railway=level_crossing
+id=node/194751832</desc></wpt><wpt lat="44.4966888" lon="-71.2212035"><name>node/194751854</name><desc>railway=level_crossing
+id=node/194751854</desc></wpt><wpt lat="44.4722765" lon="-71.1806796"><name>node/194765323</name><desc>railway=level_crossing
+id=node/194765323</desc></wpt><wpt lat="44.2379714" lon="-72.5974732"><name>node/205071521</name><desc>railway=level_crossing
+id=node/205071521</desc></wpt><wpt lat="44.2211257" lon="-72.6219732"><name>node/205073300</name><desc>railway=level_crossing
+id=node/205073300</desc></wpt><wpt lat="44.2003667" lon="-72.6348142"><name>node/205073319</name><desc>railway=level_crossing
+id=node/205073319</desc></wpt><wpt lat="44.1879909" lon="-72.6400119"><name>node/205073335</name><desc>railway=level_crossing
+id=node/205073335</desc></wpt><wpt lat="52.573186" lon="13.5668533"><name>node/213131433</name><desc>crossing:barrier=full
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+id=node/213131433</desc></wpt><wpt lat="52.4945319" lon="13.273732"><name>node/226816370</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/226816370</desc></wpt><wpt lat="52.4946081" lon="13.2736821"><name>node/226877519</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/226877519</desc></wpt><wpt lat="52.4924953" lon="13.4950756"><name>node/243347786</name><desc>railway=level_crossing
+id=node/243347786</desc></wpt><wpt lat="52.4668407" lon="13.5543775"><name>node/248084236</name><desc>crossing:barrier=half
+railway=level_crossing
+id=node/248084236</desc></wpt><wpt lat="52.4697587" lon="13.5528247"><name>node/248084244</name><desc>crossing:barrier=half
+crossing:light=yes
+maxheight=4
+railway=level_crossing
+id=node/248084244</desc></wpt><wpt lat="52.4283274" lon="13.4438835"><name>node/248649508</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/248649508</desc></wpt><wpt lat="52.4265492" lon="13.4455745"><name>node/248649512</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/248649512</desc></wpt><wpt lat="52.4264651" lon="13.4456538"><name>node/248649516</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/248649516</desc></wpt><wpt lat="52.4225019" lon="13.4573199"><name>node/248649523</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/248649523</desc></wpt><wpt lat="52.4215416" lon="13.4614312"><name>node/248649526</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/248649526</desc></wpt><wpt lat="52.4215131" lon="13.4615536"><name>node/248649530</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/248649530</desc></wpt><wpt lat="52.4213289" lon="13.4631138"><name>node/248649533</name><desc>crossing:barrier=no
+hazard:bicycle=tracks
+railway=level_crossing
+id=node/248649533</desc></wpt><wpt lat="52.4197772" lon="13.4737683"><name>node/248659059</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/248659059</desc></wpt><wpt lat="52.5901783" lon="13.2884018"><name>node/248782254</name><desc>crossing:activation=remote
+crossing:barrier=half
+crossing:bell=yes
+crossing:light=yes
+crossing:saltire=yes
+crossing:supervision=no
+railway=level_crossing
+railway:level_crossing:closure:average=3
+id=node/248782254</desc></wpt><wpt lat="52.4516227" lon="13.6964722"><name>node/252280449</name><desc>crossing:barrier=no
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+source=https://www.mapillary.com/map/im/gqYcCXXbEQK0C0eBdvLaD9
+id=node/252280449</desc></wpt><wpt lat="52.4551927" lon="13.7206749"><name>node/253943309</name><desc>bicycle=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:chicane=no
+crossing:light=no
+horse=no
+railway=level_crossing
+id=node/253943309</desc></wpt><wpt lat="52.3997708" lon="13.5439243"><name>node/260827077</name><desc>crossing:barrier=full
+crossing:light=yes
+crossing:saltire=yes
+note=Bei den DB-Open-Data nicht genau erkennbar welcher von beiden der 3.255 und welcher der 3.256 ist, daher beide 3.256
+railway=level_crossing
+railway:position=3.2
+railway:position:exact=3.256
+id=node/260827077</desc></wpt><wpt lat="52.3996572" lon="13.5439954"><name>node/260827078</name><desc>crossing:barrier=full
+crossing:light=yes
+crossing:saltire=yes
+note=Bei den DB-Open-Data nicht genau erkennbar welcher von beiden der 3.255 und welcher der 3.256 ist, daher beide 3.256
+railway=level_crossing
+railway:position=3.2
+railway:position:exact=3.256
+id=node/260827078</desc></wpt><wpt lat="52.5971593" lon="13.3157775"><name>node/269843363</name><desc>railway=level_crossing
+id=node/269843363</desc></wpt><wpt lat="52.4607101" lon="13.5531349"><name>node/276526560</name><desc>crossing:barrier=full
+railway=level_crossing
+id=node/276526560</desc></wpt><wpt lat="52.4593515" lon="13.5526103"><name>node/276526561</name><desc>crossing:barrier=half
+railway=level_crossing
+id=node/276526561</desc></wpt><wpt lat="52.4588868" lon="13.552194"><name>node/276526562</name><desc>crossing:barrier=half
+railway=level_crossing
+id=node/276526562</desc></wpt><wpt lat="52.4598692" lon="13.5377227"><name>node/276527704</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/276527704</desc></wpt><wpt lat="52.4581915" lon="13.5425022"><name>node/276527705</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/276527705</desc></wpt><wpt lat="52.4914915" lon="13.4996517"><name>node/276531337</name><desc>railway=level_crossing
+id=node/276531337</desc></wpt><wpt lat="52.4914732" lon="13.4996225"><name>node/276531340</name><desc>railway=level_crossing
+id=node/276531340</desc></wpt><wpt lat="52.4896911" lon="13.5014767"><name>node/276531343</name><desc>railway=level_crossing
+id=node/276531343</desc></wpt><wpt lat="52.4898708" lon="13.5007886"><name>node/276531346</name><desc>railway=level_crossing
+id=node/276531346</desc></wpt><wpt lat="52.421907" lon="13.5598741"><name>node/276566246</name><desc>railway=level_crossing
+id=node/276566246</desc></wpt><wpt lat="52.4223045" lon="13.5599261"><name>node/276566248</name><desc>railway=level_crossing
+id=node/276566248</desc></wpt><wpt lat="52.4223392" lon="13.5599603"><name>node/276566249</name><desc>railway=level_crossing
+id=node/276566249</desc></wpt><wpt lat="52.5971241" lon="13.3155739"><name>node/280101308</name><desc>railway=level_crossing
+id=node/280101308</desc></wpt><wpt lat="52.4605989" lon="13.465582"><name>node/280718007</name><desc>crossing=uncontrolled
+crossing:barrier=no
+crossing:bell=no
+crossing:chicane=no
+crossing:light=no
+crossing:saltire=yes
+hazard:bicycle=tracks
+railway=level_crossing
+id=node/280718007</desc></wpt><wpt lat="52.4628379" lon="13.4621752"><name>node/280718008</name><desc>crossing=traffic_signals
+crossing:barrier=no
+crossing:bell=no
+crossing:chicane=no
+crossing:light=FIXME
+crossing:saltire=yes
+railway=level_crossing
+id=node/280718008</desc></wpt><wpt lat="52.4648837" lon="13.4596013"><name>node/280718022</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:chicane=no
+crossing:light=no
+crossing:saltire=yes
+railway=level_crossing
+id=node/280718022</desc></wpt><wpt lat="52.460493" lon="13.4663374"><name>node/280718398</name><desc>crossing=uncontrolled
+crossing:barrier=no
+railway=level_crossing
+id=node/280718398</desc></wpt><wpt lat="52.5617297" lon="13.4532866"><name>node/281770629</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+railway=level_crossing
+id=node/281770629</desc></wpt><wpt lat="52.5609779" lon="13.4570987"><name>node/282272390</name><desc>railway=level_crossing
+id=node/282272390</desc></wpt><wpt lat="52.4904447" lon="13.2658116"><name>node/285023077</name><desc>railway=level_crossing
+supervised=no
+id=node/285023077</desc></wpt><wpt lat="52.4940229" lon="13.2731759"><name>node/285056896</name><desc>railway=level_crossing
+supervised=no
+id=node/285056896</desc></wpt><wpt lat="52.4939735" lon="13.2731413"><name>node/285056898</name><desc>railway=level_crossing
+supervised=no
+id=node/285056898</desc></wpt><wpt lat="52.4939355" lon="13.2731886"><name>node/285056904</name><desc>railway=level_crossing
+supervised=no
+id=node/285056904</desc></wpt><wpt lat="52.4939366" lon="13.2732552"><name>node/285056906</name><desc>railway=level_crossing
+supervised=no
+id=node/285056906</desc></wpt><wpt lat="52.4914351" lon="13.2683687"><name>node/285056914</name><desc>railway=level_crossing
+supervised=no
+id=node/285056914</desc></wpt><wpt lat="52.4914115" lon="13.2683823"><name>node/285056917</name><desc>railway=level_crossing
+supervised=no
+id=node/285056917</desc></wpt><wpt lat="52.4909641" lon="13.5012512"><name>node/286637488</name><desc>railway=level_crossing
+id=node/286637488</desc></wpt><wpt lat="52.5130543" lon="13.6204536"><name>node/287964513</name><desc>crossing:barrier=full
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+id=node/287964513</desc></wpt><wpt lat="52.5129922" lon="13.6204052"><name>node/287964515</name><desc>crossing:barrier=full
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+id=node/287964515</desc></wpt><wpt lat="52.4872093" lon="13.5047784"><name>node/288378886</name><desc>railway=level_crossing
+id=node/288378886</desc></wpt><wpt lat="52.4874223" lon="13.5074997"><name>node/288378890</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/288378890</desc></wpt><wpt lat="52.5361039" lon="13.3378038"><name>node/295076435</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/295076435</desc></wpt><wpt lat="52.5357781" lon="13.3350957"><name>node/295076474</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/295076474</desc></wpt><wpt lat="52.5374481" lon="13.3410308"><name>node/295079065</name><desc>railway=level_crossing
+id=node/295079065</desc></wpt><wpt lat="52.5374603" lon="13.3410965"><name>node/295103333</name><desc>railway=level_crossing
+id=node/295103333</desc></wpt><wpt lat="52.4690371" lon="13.4544561"><name>node/297358273</name><desc>crossing:barrier=no
+crossing:light=no
+railway=level_crossing
+id=node/297358273</desc></wpt><wpt lat="52.4691443" lon="13.4546773"><name>node/297359987</name><desc>crossing:barrier=no
+crossing:light=yes
+hazard:bicycle=tracks
+railway=level_crossing
+id=node/297359987</desc></wpt><wpt lat="52.5648075" lon="13.1756859"><name>node/297407027</name><desc>crossing=unmarked
+crossing:barrier=no
+crossing:markings=no
+crossing:supervision=no
+railway=level_crossing
+id=node/297407027</desc></wpt><wpt lat="41.6405333" lon="-72.7685723"><name>node/308298505</name><desc>railway=level_crossing
+id=node/308298505</desc></wpt><wpt lat="52.4684945" lon="13.4566345"><name>node/309645664</name><desc>railway=level_crossing
+id=node/309645664</desc></wpt><wpt lat="52.4900246" lon="13.5019017"><name>node/310012872</name><desc>railway=level_crossing
+id=node/310012872</desc></wpt><wpt lat="52.4899562" lon="13.5018177"><name>node/310012874</name><desc>railway=level_crossing
+id=node/310012874</desc></wpt><wpt lat="52.4874682" lon="13.5076406"><name>node/310014345</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/310014345</desc></wpt><wpt lat="52.4876256" lon="13.5078406"><name>node/310014348</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/310014348</desc></wpt><wpt lat="52.4876833" lon="13.5079139"><name>node/310014349</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/310014349</desc></wpt><wpt lat="52.49033" lon="13.503246"><name>node/310015502</name><desc>railway=level_crossing
+id=node/310015502</desc></wpt><wpt lat="52.4880247" lon="13.5084192"><name>node/310015508</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/310015508</desc></wpt><wpt lat="52.4877954" lon="13.5081286"><name>node/310015509</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/310015509</desc></wpt><wpt lat="52.4912718" lon="13.4993699"><name>node/310016252</name><desc>railway=level_crossing
+id=node/310016252</desc></wpt><wpt lat="52.490409" lon="13.502358"><name>node/310131349</name><desc>railway=level_crossing
+id=node/310131349</desc></wpt><wpt lat="52.4878555" lon="13.5082115"><name>node/310131351</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/310131351</desc></wpt><wpt lat="52.4914065" lon="13.4995475"><name>node/310134272</name><desc>railway=level_crossing
+id=node/310134272</desc></wpt><wpt lat="52.4915784" lon="13.4997526"><name>node/310134282</name><desc>railway=level_crossing
+id=node/310134282</desc></wpt><wpt lat="52.4910043" lon="13.5012748"><name>node/310523092</name><desc>railway=level_crossing
+id=node/310523092</desc></wpt><wpt lat="52.4913828" lon="13.499518"><name>node/310523094</name><desc>railway=level_crossing
+id=node/310523094</desc></wpt><wpt lat="52.4914572" lon="13.4996058"><name>node/310523095</name><desc>railway=level_crossing
+id=node/310523095</desc></wpt><wpt lat="52.5392102" lon="13.5290599"><name>node/317597255</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/317597255</desc></wpt><wpt lat="52.5392342" lon="13.5295458"><name>node/317597257</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/317597257</desc></wpt><wpt lat="52.5392477" lon="13.5296493"><name>node/317597259</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/317597259</desc></wpt><wpt lat="52.5430444" lon="13.5274723"><name>node/317597737</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/317597737</desc></wpt><wpt lat="52.5443835" lon="13.5269086"><name>node/317597740</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/317597740</desc></wpt><wpt lat="52.5429593" lon="13.5271146"><name>node/317598197</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/317598197</desc></wpt><wpt lat="52.4479051" lon="13.5284004"><name>node/319250761</name><desc>railway=level_crossing
+id=node/319250761</desc></wpt><wpt lat="52.4479633" lon="13.5285053"><name>node/319251053</name><desc>railway=level_crossing
+id=node/319251053</desc></wpt><wpt lat="52.4479992" lon="13.52857"><name>node/319251207</name><desc>railway=level_crossing
+id=node/319251207</desc></wpt><wpt lat="52.4480367" lon="13.5286377"><name>node/319251487</name><desc>railway=level_crossing
+id=node/319251487</desc></wpt><wpt lat="52.4463395" lon="13.5310138"><name>node/319251980</name><desc>railway=level_crossing
+id=node/319251980</desc></wpt><wpt lat="52.4459493" lon="13.5303095"><name>node/319251981</name><desc>railway=level_crossing
+id=node/319251981</desc></wpt><wpt lat="52.4454323" lon="13.5293743"><name>node/319252061</name><desc>railway=level_crossing
+id=node/319252061</desc></wpt><wpt lat="52.4453954" lon="13.5293077"><name>node/319252062</name><desc>railway=level_crossing
+id=node/319252062</desc></wpt><wpt lat="52.4453583" lon="13.5292393"><name>node/319252063</name><desc>railway=level_crossing
+id=node/319252063</desc></wpt><wpt lat="52.6405775" lon="13.4456856"><name>node/319536329</name><desc>crossing:barrier=double_half
+crossing:light=yes
+railway=level_crossing
+id=node/319536329</desc></wpt><wpt lat="52.4969041" lon="13.3771746"><name>node/322535975</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+railway=level_crossing
+id=node/322535975</desc></wpt><wpt lat="52.4697703" lon="13.5527519"><name>node/333028158</name><desc>crossing:barrier=half
+crossing:light=yes
+maxheight=4
+railway=level_crossing
+id=node/333028158</desc></wpt><wpt lat="52.4534598" lon="13.7089144"><name>node/338792915</name><desc>bicycle=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+horse=no
+railway=level_crossing
+id=node/338792915</desc></wpt><wpt lat="52.4538305" lon="13.711439"><name>node/338792920</name><desc>bicycle=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+horse=no
+railway=level_crossing
+id=node/338792920</desc></wpt><wpt lat="52.5901702" lon="13.2883229"><name>node/340178744</name><desc>crossing:activation=remote
+crossing:barrier=half
+crossing:bell=yes
+crossing:light=yes
+crossing:saltire=yes
+crossing:supervision=no
+railway=level_crossing
+railway:level_crossing:closure:average=3
+id=node/340178744</desc></wpt><wpt lat="52.5373842" lon="13.5319069"><name>node/343381645</name><desc>crossing:barrier=double_half
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+id=node/343381645</desc></wpt><wpt lat="52.4463812" lon="13.5310919"><name>node/343497161</name><desc>railway=level_crossing
+id=node/343497161</desc></wpt><wpt lat="52.4329107" lon="13.5428441"><name>node/345003392</name><desc>railway=level_crossing
+id=node/345003392</desc></wpt><wpt lat="52.4687678" lon="13.4522883"><name>node/358082705</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=yes
+crossing:saltire=yes
+railway=level_crossing
+id=node/358082705</desc></wpt><wpt lat="52.5286149" lon="13.2181743"><name>node/387784626</name><desc>crossing:barrier=double_half
+railway=level_crossing
+id=node/387784626</desc></wpt><wpt lat="52.5286613" lon="13.2182068"><name>node/387784627</name><desc>crossing:barrier=double_half
+railway=level_crossing
+id=node/387784627</desc></wpt><wpt lat="52.5288428" lon="13.2173315"><name>node/387784632</name><desc>crossing:barrier=half
+railway=level_crossing
+id=node/387784632</desc></wpt><wpt lat="52.5289076" lon="13.2173896"><name>node/387784633</name><desc>crossing:barrier=half
+railway=level_crossing
+id=node/387784633</desc></wpt><wpt lat="52.5305112" lon="13.2159629"><name>node/387787064</name><desc>crossing:barrier=yes
+crossing:chicane=no
+crossing:light=yes
+crossing:saltire=yes
+railway=level_crossing
+id=node/387787064</desc></wpt><wpt lat="52.5007866" lon="13.5398794"><name>node/427518585</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+railway=level_crossing
+id=node/427518585</desc></wpt><wpt lat="52.490318" lon="13.5030808"><name>node/427564093</name><desc>railway=level_crossing
+id=node/427564093</desc></wpt><wpt lat="52.4879695" lon="13.5083494"><name>node/427564094</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/427564094</desc></wpt><wpt lat="52.4898528" lon="13.5016621"><name>node/427564112</name><desc>railway=level_crossing
+id=node/427564112</desc></wpt><wpt lat="52.5131727" lon="13.6205451"><name>node/427672459</name><desc>crossing:barrier=full
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+id=node/427672459</desc></wpt><wpt lat="52.4896822" lon="13.5014305"><name>node/428077278</name><desc>railway=level_crossing
+id=node/428077278</desc></wpt><wpt lat="52.4924872" lon="13.4951716"><name>node/428077284</name><desc>railway=level_crossing
+id=node/428077284</desc></wpt><wpt lat="52.4925159" lon="13.4949811"><name>node/428077290</name><desc>railway=level_crossing
+id=node/428077290</desc></wpt><wpt lat="52.4935858" lon="13.4963547"><name>node/430843417</name><desc>railway=level_crossing
+id=node/430843417</desc></wpt><wpt lat="52.4935583" lon="13.4963642"><name>node/430843422</name><desc>railway=level_crossing
+id=node/430843422</desc></wpt><wpt lat="52.4478728" lon="13.5283421"><name>node/431295369</name><desc>railway=level_crossing
+id=node/431295369</desc></wpt><wpt lat="52.4478439" lon="13.5282901"><name>node/431295370</name><desc>railway=level_crossing
+id=node/431295370</desc></wpt><wpt lat="52.4465214" lon="13.5313458"><name>node/431304145</name><desc>railway=level_crossing
+id=node/431304145</desc></wpt><wpt lat="52.4464383" lon="13.5311916"><name>node/431304156</name><desc>railway=level_crossing
+id=node/431304156</desc></wpt><wpt lat="52.4444918" lon="13.5343308"><name>node/431304157</name><desc>railway=level_crossing
+id=node/431304157</desc></wpt><wpt lat="52.4480519" lon="13.528665"><name>node/431304159</name><desc>railway=level_crossing
+id=node/431304159</desc></wpt><wpt lat="52.4475787" lon="13.5278535"><name>node/431304204</name><desc>railway=level_crossing
+id=node/431304204</desc></wpt><wpt lat="52.4475933" lon="13.5278867"><name>node/431304206</name><desc>railway=level_crossing
+id=node/431304206</desc></wpt><wpt lat="52.4475511" lon="13.5277787"><name>node/431304208</name><desc>railway=level_crossing
+id=node/431304208</desc></wpt><wpt lat="52.490579" lon="13.2664654"><name>node/435202460</name><desc>railway=level_crossing
+supervised=no
+id=node/435202460</desc></wpt><wpt lat="52.4905294" lon="13.2662404"><name>node/435202462</name><desc>railway=level_crossing
+supervised=no
+id=node/435202462</desc></wpt><wpt lat="52.4904753" lon="13.2659647"><name>node/435202468</name><desc>railway=level_crossing
+supervised=no
+id=node/435202468</desc></wpt><wpt lat="52.4943625" lon="13.2739551"><name>node/435206456</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/435206456</desc></wpt><wpt lat="52.5373039" lon="13.2466346"><name>node/437566126</name><desc>crossing:barrier=no
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+supervised=no
+id=node/437566126</desc></wpt><wpt lat="52.534456" lon="13.2448206"><name>node/437988524</name><desc>railway=level_crossing
+id=node/437988524</desc></wpt><wpt lat="52.534434" lon="13.2449022"><name>node/437988525</name><desc>railway=level_crossing
+id=node/437988525</desc></wpt><wpt lat="52.5344159" lon="13.2449691"><name>node/437988526</name><desc>railway=level_crossing
+id=node/437988526</desc></wpt><wpt lat="52.5343977" lon="13.2450361"><name>node/437988527</name><desc>railway=level_crossing
+id=node/437988527</desc></wpt><wpt lat="52.4729336" lon="13.3454916"><name>node/447933638</name><desc>crossing:barrier=no
+railway=level_crossing
+supervised=no
+id=node/447933638</desc></wpt><wpt lat="52.4730506" lon="13.3455478"><name>node/447933642</name><desc>crossing:barrier=no
+railway=level_crossing
+supervised=no
+id=node/447933642</desc></wpt><wpt lat="52.4737558" lon="13.3467592"><name>node/447933646</name><desc>crossing:barrier=no
+railway=level_crossing
+supervised=no
+id=node/447933646</desc></wpt><wpt lat="52.4749117" lon="13.3482389"><name>node/447933648</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/447933648</desc></wpt><wpt lat="52.4279159" lon="13.4903779"><name>node/452635007</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/452635007</desc></wpt><wpt lat="52.5383751" lon="13.2463431"><name>node/465192779</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/465192779</desc></wpt><wpt lat="52.5373637" lon="13.5318413"><name>node/468128344</name><desc>crossing:barrier=double_half
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+id=node/468128344</desc></wpt><wpt lat="52.4685005" lon="13.4502079"><name>node/508075094</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/508075094</desc></wpt><wpt lat="52.4346101" lon="13.4431203"><name>node/534591071</name><desc>railway=level_crossing
+id=node/534591071</desc></wpt><wpt lat="52.4345772" lon="13.4432454"><name>node/534591086</name><desc>railway=level_crossing
+id=node/534591086</desc></wpt><wpt lat="52.4241041" lon="13.4854237"><name>node/539737145</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/539737145</desc></wpt><wpt lat="52.4241874" lon="13.4855227"><name>node/539737147</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/539737147</desc></wpt><wpt lat="52.4261367" lon="13.4880652"><name>node/539737164</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/539737164</desc></wpt><wpt lat="52.4299479" lon="13.4929975"><name>node/539737175</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/539737175</desc></wpt><wpt lat="52.4307365" lon="13.4941931"><name>node/539737185</name><desc>railway=level_crossing
+id=node/539737185</desc></wpt><wpt lat="52.4316754" lon="13.4952609"><name>node/539737208</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/539737208</desc></wpt><wpt lat="52.432177" lon="13.4957942"><name>node/539737264</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/539737264</desc></wpt><wpt lat="52.4322522" lon="13.4958403"><name>node/539737423</name><desc>crossing=traffic_signals
+crossing:barrier=no
+railway=level_crossing
+id=node/539737423</desc></wpt><wpt lat="52.4332197" lon="13.4959919"><name>node/539737462</name><desc>railway=level_crossing
+id=node/539737462</desc></wpt><wpt lat="52.5061056" lon="13.485561"><name>node/550654055</name><desc>crossing=uncontrolled
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+railway=level_crossing
+supervised=no
+id=node/550654055</desc></wpt><wpt lat="52.5316551" lon="13.5241925"><name>node/555078282</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+railway=level_crossing
+railway:level_crossing=disused
+id=node/555078282</desc></wpt><wpt lat="52.4430736" lon="13.430637"><name>node/575775418</name><desc>crossing:barrier=half
+crossing:light=yes
+crossing:saltire=yes
+railway=level_crossing
+id=node/575775418</desc></wpt><wpt lat="52.4476462" lon="13.5196152"><name>node/575798210</name><desc>railway=level_crossing
+id=node/575798210</desc></wpt><wpt lat="52.497098" lon="13.4876946"><name>node/581980686</name><desc>crossing:barrier=full
+railway=level_crossing
+id=node/581980686</desc></wpt><wpt lat="52.4960773" lon="13.4894891"><name>node/581980726</name><desc>railway=level_crossing
+id=node/581980726</desc></wpt><wpt lat="52.4910276" lon="13.5012897"><name>node/582008494</name><desc>railway=level_crossing
+id=node/582008494</desc></wpt><wpt lat="52.4692196" lon="13.4549136"><name>node/596397090</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/596397090</desc></wpt><wpt lat="52.4489469" lon="13.4240354"><name>node/618552362</name><desc>railway=level_crossing
+id=node/618552362</desc></wpt><wpt lat="52.4490173" lon="13.4260305"><name>node/618552370</name><desc>railway=level_crossing
+id=node/618552370</desc></wpt><wpt lat="52.5374435" lon="13.3410057"><name>node/623872895</name><desc>railway=level_crossing
+id=node/623872895</desc></wpt><wpt lat="52.5673748" lon="13.1920414"><name>node/648301264</name><desc>crossing:barrier=no
+crossing:bell=yes
+crossing:light=yes
+crossing:saltire=no
+railway=level_crossing
+id=node/648301264</desc></wpt><wpt lat="52.5673539" lon="13.1919083"><name>node/648301266</name><desc>railway=level_crossing
+id=node/648301266</desc></wpt><wpt lat="52.5673371" lon="13.1920784"><name>node/648301269</name><desc>crossing:barrier=no
+crossing:bell=yes
+crossing:light=yes
+crossing:saltire=no
+railway=level_crossing
+id=node/648301269</desc></wpt><wpt lat="52.567316" lon="13.1919457"><name>node/648301270</name><desc>railway=level_crossing
+id=node/648301270</desc></wpt><wpt lat="52.5731394" lon="13.5667285"><name>node/651874287</name><desc>crossing:barrier=full
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+id=node/651874287</desc></wpt><wpt lat="52.4604257" lon="13.5504309"><name>node/676537906</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/676537906</desc></wpt><wpt lat="52.4614449" lon="13.5511146"><name>node/676537911</name><desc>railway=level_crossing
+id=node/676537911</desc></wpt><wpt lat="52.461265" lon="13.5510384"><name>node/676537912</name><desc>railway=level_crossing
+id=node/676537912</desc></wpt><wpt lat="52.5358066" lon="13.3353595"><name>node/677045626</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/677045626</desc></wpt><wpt lat="52.4511338" lon="13.5547544"><name>node/681588327</name><desc>crossing:barrier=double_half
+crossing:bell=yes
+crossing:light=yes
+railway=level_crossing
+railway:position=3.3
+railway:position:exact=3.37
+supervised=no
+id=node/681588327</desc></wpt><wpt lat="52.5036482" lon="13.2678112"><name>node/682213364</name><desc>railway=level_crossing
+id=node/682213364</desc></wpt><wpt lat="52.4448318" lon="13.4287852"><name>node/736234757</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/736234757</desc></wpt><wpt lat="52.4360791" lon="13.2804762"><name>node/745732512</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/745732512</desc></wpt><wpt lat="41.6361311" lon="-72.7590653"><name>node/756510042</name><desc>railway=level_crossing
+id=node/756510042</desc></wpt><wpt lat="41.6364467" lon="-72.7586642"><name>node/756510047</name><desc>railway=level_crossing
+id=node/756510047</desc></wpt><wpt lat="41.6361052" lon="-72.7590263"><name>node/756510133</name><desc>railway=level_crossing
+id=node/756510133</desc></wpt><wpt lat="41.6364038" lon="-72.7586163"><name>node/756510140</name><desc>railway=level_crossing
+id=node/756510140</desc></wpt><wpt lat="52.5317804" lon="13.2454013"><name>node/773130346</name><desc>railway=level_crossing
+id=node/773130346</desc></wpt><wpt lat="52.5329754" lon="13.2458395"><name>node/773130351</name><desc>railway=level_crossing
+id=node/773130351</desc></wpt><wpt lat="52.5327423" lon="13.245758"><name>node/773130400</name><desc>railway=level_crossing
+id=node/773130400</desc></wpt><wpt lat="52.5053619" lon="13.4863855"><name>node/936609486</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/936609486</desc></wpt><wpt lat="52.5053432" lon="13.4863875"><name>node/936609613</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/936609613</desc></wpt><wpt lat="52.5052416" lon="13.4863983"><name>node/936609716</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/936609716</desc></wpt><wpt lat="52.5052093" lon="13.4864017"><name>node/936609790</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/936609790</desc></wpt><wpt lat="52.5054064" lon="13.4863808"><name>node/936609826</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/936609826</desc></wpt><wpt lat="52.4546878" lon="13.4173617"><name>node/1194571240</name><desc>railway=level_crossing
+id=node/1194571240</desc></wpt><wpt lat="52.454513" lon="13.4179316"><name>node/1194571729</name><desc>railway=level_crossing
+id=node/1194571729</desc></wpt><wpt lat="52.4549253" lon="13.4159142"><name>node/1194571739</name><desc>railway=level_crossing
+id=node/1194571739</desc></wpt><wpt lat="52.4490158" lon="13.4259805"><name>node/1194599965</name><desc>railway=level_crossing
+id=node/1194599965</desc></wpt><wpt lat="52.522715" lon="13.206588"><name>node/1347958194</name><desc>railway=level_crossing
+id=node/1347958194</desc></wpt><wpt lat="52.5252411" lon="13.2067734"><name>node/1347958287</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1347958287</desc></wpt><wpt lat="52.525261" lon="13.2068707"><name>node/1347958288</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1347958288</desc></wpt><wpt lat="52.4524562" lon="13.424711"><name>node/1360754894</name><desc>railway=level_crossing
+id=node/1360754894</desc></wpt><wpt lat="52.4851794" lon="13.5156903"><name>node/1363487327</name><desc>crossing:barrier=full
+maxheight=4
+railway=level_crossing
+id=node/1363487327</desc></wpt><wpt lat="52.4852132" lon="13.5157343"><name>node/1363487328</name><desc>crossing:barrier=full
+maxheight=4
+railway=level_crossing
+id=node/1363487328</desc></wpt><wpt lat="52.4853407" lon="13.5158213"><name>node/1363487330</name><desc>crossing:barrier=full
+maxheight=4
+railway=level_crossing
+id=node/1363487330</desc></wpt><wpt lat="52.5360704" lon="13.3374474"><name>node/1364439007</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1364439007</desc></wpt><wpt lat="52.4225284" lon="13.4572099"><name>node/1393869002</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1393869002</desc></wpt><wpt lat="52.4692042" lon="13.5522205"><name>node/1403608491</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1403608491</desc></wpt><wpt lat="52.4343599" lon="13.2802534"><name>node/1417281085</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1417281085</desc></wpt><wpt lat="52.4172752" lon="13.2735335"><name>node/1487036963</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1487036963</desc></wpt><wpt lat="52.4209778" lon="13.2748021"><name>node/1487037010</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1487037010</desc></wpt><wpt lat="44.2365288" lon="-72.5981607"><name>node/1489883549</name><desc>railway=level_crossing
+id=node/1489883549</desc></wpt><wpt lat="44.2302139" lon="-72.6032783"><name>node/1489883588</name><desc>railway=level_crossing
+id=node/1489883588</desc></wpt><wpt lat="44.2570397" lon="-72.6075593"><name>node/1489883657</name><desc>railway=level_crossing
+id=node/1489883657</desc></wpt><wpt lat="52.5367888" lon="13.3419612"><name>node/1510335185</name><desc>railway=level_crossing
+id=node/1510335185</desc></wpt><wpt lat="52.4275856" lon="13.2773407"><name>node/1614383746</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/1614383746</desc></wpt><wpt lat="52.4368162" lon="13.3675286"><name>node/1630088505</name><desc>railway=level_crossing
+id=node/1630088505</desc></wpt><wpt lat="52.4578903" lon="13.6291885"><name>node/1637970843</name><desc>crossing:light=yes
+railway=level_crossing
+id=node/1637970843</desc></wpt><wpt lat="52.5532752" lon="13.4793848"><name>node/1704875189</name><desc>railway=level_crossing
+id=node/1704875189</desc></wpt><wpt lat="52.5533044" lon="13.4796492"><name>node/1704875194</name><desc>railway=level_crossing
+id=node/1704875194</desc></wpt><wpt lat="52.3749016" lon="13.6499224"><name>node/1706996057</name><desc>railway=level_crossing
+id=node/1706996057</desc></wpt><wpt lat="52.5579154" lon="13.5155871"><name>node/1715881849</name><desc>railway=level_crossing
+id=node/1715881849</desc></wpt><wpt lat="52.5579314" lon="13.515548"><name>node/1715881859</name><desc>railway=level_crossing
+id=node/1715881859</desc></wpt><wpt lat="52.4675476" lon="13.4521869"><name>node/1722396483</name><desc>railway=level_crossing
+id=node/1722396483</desc></wpt><wpt lat="52.4620159" lon="13.463224"><name>node/1723402476</name><desc>railway=level_crossing
+id=node/1723402476</desc></wpt><wpt lat="52.5219169" lon="13.3883968"><name>node/1769605942</name><desc>railway=level_crossing
+id=node/1769605942</desc></wpt><wpt lat="52.52187" lon="13.3894144"><name>node/1769605949</name><desc>railway=level_crossing
+id=node/1769605949</desc></wpt><wpt lat="52.4578344" lon="13.6289413"><name>node/1821850633</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/1821850633</desc></wpt><wpt lat="52.547432" lon="13.5813188"><name>node/1839217850</name><desc>railway=level_crossing
+id=node/1839217850</desc></wpt><wpt lat="41.6353924" lon="-72.7646014"><name>node/1866258325</name><desc>railway=level_crossing
+id=node/1866258325</desc></wpt><wpt lat="41.5824999" lon="-72.7734637"><name>node/1866258783</name><desc>railway=level_crossing
+id=node/1866258783</desc></wpt><wpt lat="41.5825067" lon="-72.7735128"><name>node/1866258813</name><desc>railway=level_crossing
+id=node/1866258813</desc></wpt><wpt lat="52.5358304" lon="13.2461787"><name>node/1886265513</name><desc>railway=level_crossing
+id=node/1886265513</desc></wpt><wpt lat="52.5358531" lon="13.2460758"><name>node/1886265515</name><desc>railway=level_crossing
+id=node/1886265515</desc></wpt><wpt lat="52.5358706" lon="13.2459967"><name>node/1886265517</name><desc>railway=level_crossing
+id=node/1886265517</desc></wpt><wpt lat="52.5358869" lon="13.2459232"><name>node/1886265518</name><desc>railway=level_crossing
+id=node/1886265518</desc></wpt><wpt lat="52.5359026" lon="13.2458521"><name>node/1886265519</name><desc>railway=level_crossing
+id=node/1886265519</desc></wpt><wpt lat="52.5359175" lon="13.2457849"><name>node/1886265520</name><desc>railway=level_crossing
+id=node/1886265520</desc></wpt><wpt lat="52.5675411" lon="13.5109509"><name>node/1987229882</name><desc>crossing:barrier=full
+crossing:bell=no
+crossing:light=no
+railway=level_crossing
+id=node/1987229882</desc></wpt><wpt lat="52.5468938" lon="13.5802496"><name>node/2035290395</name><desc>railway=level_crossing
+id=node/2035290395</desc></wpt><wpt lat="52.4350105" lon="13.4454576"><name>node/2092044629</name><desc>railway=level_crossing
+id=node/2092044629</desc></wpt><wpt lat="52.4351145" lon="13.4455316"><name>node/2092044634</name><desc>railway=level_crossing
+id=node/2092044634</desc></wpt><wpt lat="52.4351661" lon="13.4455834"><name>node/2092044638</name><desc>railway=level_crossing
+id=node/2092044638</desc></wpt><wpt lat="52.4352059" lon="13.4456235"><name>node/2092044641</name><desc>railway=level_crossing
+id=node/2092044641</desc></wpt><wpt lat="52.435502" lon="13.4445555"><name>node/2092044654</name><desc>railway=level_crossing
+id=node/2092044654</desc></wpt><wpt lat="52.4355548" lon="13.4446142"><name>node/2092044657</name><desc>railway=level_crossing
+id=node/2092044657</desc></wpt><wpt lat="52.4526" lon="13.7030965"><name>node/2140616995</name><desc>bicycle=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+horse=no
+railway=level_crossing
+id=node/2140616995</desc></wpt><wpt lat="52.5802809" lon="13.3137933"><name>node/2179095898</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2179095898</desc></wpt><wpt lat="52.4332638" lon="13.4959066"><name>node/2223140915</name><desc>railway=level_crossing
+id=node/2223140915</desc></wpt><wpt lat="52.4326944" lon="13.4959957"><name>node/2223142520</name><desc>railway=level_crossing
+id=node/2223142520</desc></wpt><wpt lat="52.4901729" lon="13.5021211"><name>node/2290881424</name><desc>railway=level_crossing
+id=node/2290881424</desc></wpt><wpt lat="52.4902366" lon="13.5021855"><name>node/2290881426</name><desc>railway=level_crossing
+id=node/2290881426</desc></wpt><wpt lat="52.4901071" lon="13.5020415"><name>node/2290881428</name><desc>railway=level_crossing
+id=node/2290881428</desc></wpt><wpt lat="52.4222664" lon="13.5598756"><name>node/2301725257</name><desc>railway=level_crossing
+id=node/2301725257</desc></wpt><wpt lat="52.4373961" lon="13.2783116"><name>node/2320728623</name><desc>railway=level_crossing
+id=node/2320728623</desc></wpt><wpt lat="52.4377068" lon="13.279236"><name>node/2320728641</name><desc>railway=level_crossing
+id=node/2320728641</desc></wpt><wpt lat="52.4380714" lon="13.2803089"><name>node/2320728648</name><desc>railway=level_crossing
+id=node/2320728648</desc></wpt><wpt lat="52.4204969" lon="13.3780319"><name>node/2378082355</name><desc>railway=level_crossing
+id=node/2378082355</desc></wpt><wpt lat="52.4167702" lon="13.273358"><name>node/2380693237</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693237</desc></wpt><wpt lat="52.4177501" lon="13.2736967"><name>node/2380693265</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693265</desc></wpt><wpt lat="52.4178533" lon="13.2737304"><name>node/2380693276</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693276</desc></wpt><wpt lat="52.4180308" lon="13.2737917"><name>node/2380693279</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693279</desc></wpt><wpt lat="52.4182141" lon="13.2738578"><name>node/2380693288</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693288</desc></wpt><wpt lat="52.4190181" lon="13.2741322"><name>node/2380693374</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693374</desc></wpt><wpt lat="52.4201425" lon="13.2745172"><name>node/2380693455</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693455</desc></wpt><wpt lat="52.4203706" lon="13.2745956"><name>node/2380693479</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693479</desc></wpt><wpt lat="52.421405" lon="13.274951"><name>node/2380693506</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693506</desc></wpt><wpt lat="52.4219544" lon="13.2751384"><name>node/2380693531</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693531</desc></wpt><wpt lat="52.4226771" lon="13.2753832"><name>node/2380693578</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693578</desc></wpt><wpt lat="52.4234481" lon="13.2756492"><name>node/2380693601</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693601</desc></wpt><wpt lat="52.423656" lon="13.2757223"><name>node/2380693628</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693628</desc></wpt><wpt lat="52.4239651" lon="13.2758304"><name>node/2380693651</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693651</desc></wpt><wpt lat="52.4242103" lon="13.2759166"><name>node/2380693677</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693677</desc></wpt><wpt lat="52.4245788" lon="13.2760462"><name>node/2380693718</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693718</desc></wpt><wpt lat="52.4249848" lon="13.2761848"><name>node/2380693734</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693734</desc></wpt><wpt lat="52.4260198" lon="13.2765952"><name>node/2380693739</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693739</desc></wpt><wpt lat="52.4268663" lon="13.2769958"><name>node/2380693764</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693764</desc></wpt><wpt lat="52.4271362" lon="13.2771261"><name>node/2380693791</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693791</desc></wpt><wpt lat="52.4277488" lon="13.277418"><name>node/2380693819</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693819</desc></wpt><wpt lat="52.4279603" lon="13.2775183"><name>node/2380693835</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693835</desc></wpt><wpt lat="52.4286068" lon="13.2778271"><name>node/2380693864</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693864</desc></wpt><wpt lat="52.4289927" lon="13.2780111"><name>node/2380693895</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693895</desc></wpt><wpt lat="52.4297702" lon="13.2783792"><name>node/2380693920</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693920</desc></wpt><wpt lat="52.4302459" lon="13.278606"><name>node/2380693969</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2380693969</desc></wpt><wpt lat="52.431053" lon="13.2789815"><name>node/2383700271</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2383700271</desc></wpt><wpt lat="52.4183477" lon="13.2738996"><name>node/2476242602</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2476242602</desc></wpt><wpt lat="44.2176419" lon="-72.5396763"><name>node/2612907476</name><desc>railway=level_crossing
+id=node/2612907476</desc></wpt><wpt lat="44.2222665" lon="-72.5478627"><name>node/2612907608</name><desc>railway=level_crossing
+id=node/2612907608</desc></wpt><wpt lat="44.215705" lon="-72.5367075"><name>node/2612907633</name><desc>railway=level_crossing
+id=node/2612907633</desc></wpt><wpt lat="44.2319864" lon="-72.5497774"><name>node/2613056078</name><desc>railway=level_crossing
+id=node/2613056078</desc></wpt><wpt lat="52.4543218" lon="13.7147766"><name>node/2613510406</name><desc>bicycle=yes
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+horse=no
+railway=level_crossing
+id=node/2613510406</desc></wpt><wpt lat="52.5896315" lon="13.3531485"><name>node/2642577431</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2642577431</desc></wpt><wpt lat="52.5897832" lon="13.3564146"><name>node/2642577445</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2642577445</desc></wpt><wpt lat="52.5900123" lon="13.3581488"><name>node/2642577455</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2642577455</desc></wpt><wpt lat="52.5903455" lon="13.3582621"><name>node/2642577466</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2642577466</desc></wpt><wpt lat="52.5973148" lon="13.3681308"><name>node/2642577503</name><desc>check_date=2025-01-07
+crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+railway=level_crossing
+id=node/2642577503</desc></wpt><wpt lat="52.6000093" lon="13.3711758"><name>node/2642577504</name><desc>crossing:barrier=no
+crossing:bell=yes
+crossing:light=yes
+crossing:supervision=yes
+railway=level_crossing
+id=node/2642577504</desc></wpt><wpt lat="52.6114899" lon="13.3789558"><name>node/2642577506</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2642577506</desc></wpt><wpt lat="52.4690895" lon="13.4544569"><name>node/2685555588</name><desc>crossing:barrier=no
+crossing:light=no
+railway=level_crossing
+id=node/2685555588</desc></wpt><wpt lat="52.4301256" lon="13.2523877"><name>node/2688376143</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2688376143</desc></wpt><wpt lat="52.430162" lon="13.2523789"><name>node/2688376149</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2688376149</desc></wpt><wpt lat="52.4302369" lon="13.2523476"><name>node/2688376153</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/2688376153</desc></wpt><wpt lat="52.4668524" lon="13.4525211"><name>node/2696169069</name><desc>railway=level_crossing
+id=node/2696169069</desc></wpt><wpt lat="44.2166756" lon="-72.6251848"><name>node/2913799941</name><desc>railway=level_crossing
+id=node/2913799941</desc></wpt><wpt lat="44.4759285" lon="-71.1700265"><name>node/2916662349</name><desc>railway=level_crossing
+id=node/2916662349</desc></wpt><wpt lat="52.6391654" lon="13.4394087"><name>node/3051435894</name><desc>railway=level_crossing
+id=node/3051435894</desc></wpt><wpt lat="44.4829671" lon="-71.1983127"><name>node/3076565258</name><desc>railway=level_crossing
+id=node/3076565258</desc></wpt><wpt lat="44.4829358" lon="-71.1983432"><name>node/3076565295</name><desc>railway=level_crossing
+id=node/3076565295</desc></wpt><wpt lat="52.5637159" lon="13.2219235"><name>node/3269619109</name><desc>railway=level_crossing
+id=node/3269619109</desc></wpt><wpt lat="52.5413894" lon="13.5161424"><name>node/3331349771</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/3331349771</desc></wpt><wpt lat="52.447633" lon="13.5195858"><name>node/3409987149</name><desc>railway=level_crossing
+id=node/3409987149</desc></wpt><wpt lat="52.560982" lon="13.4571667"><name>node/3708360131</name><desc>railway=level_crossing
+id=node/3708360131</desc></wpt><wpt lat="52.5995097" lon="13.328397"><name>node/3737982133</name><desc>railway=level_crossing
+id=node/3737982133</desc></wpt><wpt lat="52.6067553" lon="13.348581"><name>node/3737982262</name><desc>railway=level_crossing
+id=node/3737982262</desc></wpt><wpt lat="42.3914644" lon="-71.6607972"><name>node/3770930190</name><desc>railway=level_crossing
+id=node/3770930190</desc></wpt><wpt lat="52.5364629" lon="13.3400164"><name>node/4133463531</name><desc>railway=level_crossing
+id=node/4133463531</desc></wpt><wpt lat="52.511373" lon="13.3289758"><name>node/4184087711</name><desc>crossing:barrier=half
+railway=level_crossing
+id=node/4184087711</desc></wpt><wpt lat="52.4178859" lon="13.5569358"><name>node/4396761730</name><desc>access=private
+crossing:activation=local
+crossing:barrier=full
+crossing:light=no
+crossing:on_demand=no
+crossing:saltire=no
+crossing:supervision=phone
+description=Vollschranke, Streckenfernsprecher daneben, nicht öffentlich
+railway=level_crossing
+id=node/4396761730</desc></wpt><wpt lat="52.4264962" lon="13.2436204"><name>node/4419395665</name><desc>railway=level_crossing
+id=node/4419395665</desc></wpt><wpt lat="52.5334267" lon="13.5235629"><name>node/4508640442</name><desc>railway=level_crossing
+id=node/4508640442</desc></wpt><wpt lat="52.5007586" lon="13.5398068"><name>node/4537558770</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+railway=level_crossing
+id=node/4537558770</desc></wpt><wpt lat="52.4097086" lon="13.2768729"><name>node/4643627808</name><desc>railway=level_crossing
+id=node/4643627808</desc></wpt><wpt lat="52.4375368" lon="13.2787301"><name>node/4646780312</name><desc>railway=level_crossing
+id=node/4646780312</desc></wpt><wpt lat="52.488195" lon="13.5086174"><name>node/5057442877</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/5057442877</desc></wpt><wpt lat="52.488353" lon="13.5087905"><name>node/5057442878</name><desc>crossing:barrier=double_half
+crossing:bell=no
+crossing:light=yes
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/5057442878</desc></wpt><wpt lat="52.4883854" lon="13.508825"><name>node/5057442879</name><desc>crossing:barrier=double_half
+crossing:bell=no
+crossing:light=yes
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/5057442879</desc></wpt><wpt lat="52.4884185" lon="13.5088622"><name>node/5057442880</name><desc>crossing:barrier=double_half
+crossing:bell=no
+crossing:light=yes
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/5057442880</desc></wpt><wpt lat="52.4883169" lon="13.5087516"><name>node/5057442881</name><desc>crossing:barrier=double_half
+crossing:bell=no
+crossing:light=yes
+crossing:saltire=yes
+crossing:supervision=automatic
+railway=level_crossing
+id=node/5057442881</desc></wpt><wpt lat="52.5055563" lon="13.4863106"><name>node/5060756012</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/5060756012</desc></wpt><wpt lat="52.5055164" lon="13.4863294"><name>node/5060756013</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/5060756013</desc></wpt><wpt lat="52.505427" lon="13.4863724"><name>node/5060756014</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/5060756014</desc></wpt><wpt lat="52.4524518" lon="13.4239633"><name>node/5268366422</name><desc>railway=level_crossing
+id=node/5268366422</desc></wpt><wpt lat="52.4326932" lon="13.4960108"><name>node/5628579326</name><desc>railway=level_crossing
+id=node/5628579326</desc></wpt><wpt lat="52.550713" lon="13.2400442"><name>node/6079821938</name><desc>maxheight:signed=no
+railway=level_crossing
+id=node/6079821938</desc></wpt><wpt lat="52.5326722" lon="13.2160411"><name>node/6554880470</name><desc>railway=level_crossing
+id=node/6554880470</desc></wpt><wpt lat="52.5219085" lon="13.3885063"><name>node/6697018609</name><desc>railway=level_crossing
+id=node/6697018609</desc></wpt><wpt lat="52.4144495" lon="13.2727117"><name>node/6699792885</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/6699792885</desc></wpt><wpt lat="42.388911" lon="-71.6603052"><name>node/6773970951</name><desc>railway=level_crossing
+id=node/6773970951</desc></wpt><wpt lat="52.4612992" lon="13.5509129"><name>node/7029977647</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/7029977647</desc></wpt><wpt lat="52.4614541" lon="13.5510812"><name>node/7029977648</name><desc>railway=level_crossing
+id=node/7029977648</desc></wpt><wpt lat="52.4251424" lon="13.2390559"><name>node/7115183994</name><desc>description=Unbeschrankt
+railway=level_crossing
+id=node/7115183994</desc></wpt><wpt lat="52.5380225" lon="13.3406286"><name>node/7262125986</name><desc>railway=level_crossing
+id=node/7262125986</desc></wpt><wpt lat="52.5388649" lon="13.341459"><name>node/7262126001</name><desc>railway=level_crossing
+id=node/7262126001</desc></wpt><wpt lat="52.5388258" lon="13.3414414"><name>node/7262126002</name><desc>railway=level_crossing
+id=node/7262126002</desc></wpt><wpt lat="52.539163" lon="13.3390947"><name>node/7262126007</name><desc>railway=level_crossing
+id=node/7262126007</desc></wpt><wpt lat="52.5386344" lon="13.339809"><name>node/7262126008</name><desc>railway=level_crossing
+id=node/7262126008</desc></wpt><wpt lat="52.5375335" lon="13.3409956"><name>node/7262126010</name><desc>railway=level_crossing
+id=node/7262126010</desc></wpt><wpt lat="52.5374575" lon="13.3410833"><name>node/7262126011</name><desc>railway=level_crossing
+id=node/7262126011</desc></wpt><wpt lat="52.5392218" lon="13.3390687"><name>node/7262126018</name><desc>railway=level_crossing
+id=node/7262126018</desc></wpt><wpt lat="52.537" lon="13.340794"><name>node/7262126020</name><desc>railway=level_crossing
+id=node/7262126020</desc></wpt><wpt lat="52.4692001" lon="13.4548589"><name>node/7419061185</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/7419061185</desc></wpt><wpt lat="52.5385443" lon="13.4411825"><name>node/7485394064</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/7485394064</desc></wpt><wpt lat="52.3996948" lon="13.5438959"><name>node/7549435940</name><desc>crossing:barrier=full
+crossing:light=yes
+crossing:saltire=yes
+railway=level_crossing
+id=node/7549435940</desc></wpt><wpt lat="52.4605039" lon="13.4662254"><name>node/7597438822</name><desc>crossing=uncontrolled
+crossing:barrier=no
+railway=level_crossing
+id=node/7597438822</desc></wpt><wpt lat="52.5350169" lon="13.5234312"><name>node/7621256516</name><desc>railway=level_crossing
+id=node/7621256516</desc></wpt><wpt lat="52.5344465" lon="13.5234988"><name>node/7621256533</name><desc>railway=level_crossing
+id=node/7621256533</desc></wpt><wpt lat="52.5344638" lon="13.5235855"><name>node/7621256547</name><desc>railway=level_crossing
+id=node/7621256547</desc></wpt><wpt lat="52.4103432" lon="13.5755381"><name>node/7676837634</name><desc>railway=level_crossing
+id=node/7676837634</desc></wpt><wpt lat="52.5342672" lon="13.5277367"><name>node/7780073035</name><desc>railway=level_crossing
+id=node/7780073035</desc></wpt><wpt lat="52.5342563" lon="13.5276401"><name>node/7780073036</name><desc>railway=level_crossing
+id=node/7780073036</desc></wpt><wpt lat="52.5624258" lon="13.2229024"><name>node/7845231816</name><desc>railway=level_crossing
+id=node/7845231816</desc></wpt><wpt lat="52.4515953" lon="13.6962657"><name>node/7880612291</name><desc>bicycle=yes
+crossing:barrier=no
+crossing:bell=yes
+crossing:light=yes
+horse=no
+railway=level_crossing
+source=https://www.mapillary.com/map/im/qSAq5FfyNjmUNU50tUT3jx
+id=node/7880612291</desc></wpt><wpt lat="52.5502518" lon="13.445312"><name>node/7896307650</name><desc>railway=level_crossing
+id=node/7896307650</desc></wpt><wpt lat="52.4229475" lon="13.1844237"><name>node/7975140248</name><desc>access=private
+crossing:barrier=no
+crossing:chicane=no
+crossing:light=no
+crossing:saltire=no
+railway=level_crossing
+supervised=no
+id=node/7975140248</desc></wpt><wpt lat="52.4892157" lon="13.5082881"><name>node/7985865192</name><desc>railway=level_crossing
+id=node/7985865192</desc></wpt><wpt lat="52.4891697" lon="13.5082338"><name>node/7985865196</name><desc>railway=level_crossing
+id=node/7985865196</desc></wpt><wpt lat="52.4604371" lon="13.4673212"><name>node/8224748013</name><desc>crossing=uncontrolled
+crossing:barrier=no
+railway=level_crossing
+id=node/8224748013</desc></wpt><wpt lat="52.4604293" lon="13.4675902"><name>node/8224748014</name><desc>crossing=uncontrolled
+crossing:barrier=no
+railway=level_crossing
+id=node/8224748014</desc></wpt><wpt lat="52.4606975" lon="13.4652189"><name>node/8224750122</name><desc>crossing=uncontrolled
+crossing:barrier=no
+crossing:bell=no
+crossing:chicane=no
+crossing:light=no
+crossing:saltire=yes
+railway=level_crossing
+id=node/8224750122</desc></wpt><wpt lat="52.4604442" lon="13.467126"><name>node/8224750128</name><desc>crossing=uncontrolled
+crossing:barrier=no
+railway=level_crossing
+id=node/8224750128</desc></wpt><wpt lat="52.5382596" lon="13.3403804"><name>node/8502432065</name><desc>railway=level_crossing
+id=node/8502432065</desc></wpt><wpt lat="52.5182601" lon="13.5240288"><name>node/8762199351</name><desc>railway=level_crossing
+id=node/8762199351</desc></wpt><wpt lat="52.5204889" lon="13.5248421"><name>node/8794913772</name><desc>railway=level_crossing
+id=node/8794913772</desc></wpt><wpt lat="52.4163252" lon="13.2732052"><name>node/9179332874</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/9179332874</desc></wpt><wpt lat="52.4217507" lon="13.2750689"><name>node/9179332881</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/9179332881</desc></wpt><wpt lat="52.5062836" lon="13.4849766"><name>node/9212569318</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+railway=level_crossing
+supervised=no
+id=node/9212569318</desc></wpt><wpt lat="52.4692421" lon="13.4549699"><name>node/9296541278</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/9296541278</desc></wpt><wpt lat="52.4690794" lon="13.4544114"><name>node/9296541289</name><desc>crossing:barrier=no
+crossing:light=yes
+railway=level_crossing
+id=node/9296541289</desc></wpt><wpt lat="52.4146366" lon="13.2726863"><name>node/9538497642</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/9538497642</desc></wpt><wpt lat="52.506519" lon="13.4524919"><name>node/9549538465</name><desc>railway=level_crossing
+id=node/9549538465</desc></wpt><wpt lat="52.5064342" lon="13.4524946"><name>node/9549538466</name><desc>railway=level_crossing
+id=node/9549538466</desc></wpt><wpt lat="52.5064847" lon="13.4524933"><name>node/9549538467</name><desc>railway=level_crossing
+id=node/9549538467</desc></wpt><wpt lat="52.5066343" lon="13.4509704"><name>node/9549538468</name><desc>railway=level_crossing
+id=node/9549538468</desc></wpt><wpt lat="52.5664779" lon="13.1878427"><name>node/9582487266</name><desc>railway=level_crossing
+id=node/9582487266</desc></wpt><wpt lat="52.5242577" lon="13.2071139"><name>node/9631568452</name><desc>railway=level_crossing
+id=node/9631568452</desc></wpt><wpt lat="52.5253046" lon="13.2071016"><name>node/9631568453</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/9631568453</desc></wpt><wpt lat="52.5266144" lon="13.2080797"><name>node/9631568462</name><desc>railway=level_crossing
+id=node/9631568462</desc></wpt><wpt lat="52.5266365" lon="13.2081609"><name>node/9631568463</name><desc>railway=level_crossing
+id=node/9631568463</desc></wpt><wpt lat="52.5684562" lon="13.3843408"><name>node/9667913877</name><desc>railway=level_crossing
+id=node/9667913877</desc></wpt><wpt lat="52.5682454" lon="13.3834329"><name>node/9667913878</name><desc>railway=level_crossing
+id=node/9667913878</desc></wpt><wpt lat="52.5684427" lon="13.3841853"><name>node/9667913879</name><desc>railway=level_crossing
+id=node/9667913879</desc></wpt><wpt lat="52.568449" lon="13.3842461"><name>node/9667913880</name><desc>railway=level_crossing
+id=node/9667913880</desc></wpt><wpt lat="52.5719832" lon="13.4442064"><name>node/9698838056</name><desc>railway=level_crossing
+id=node/9698838056</desc></wpt><wpt lat="52.4610787" lon="13.5509239"><name>node/9721265983</name><desc>railway=level_crossing
+id=node/9721265983</desc></wpt><wpt lat="52.5681231" lon="13.3830418"><name>node/9760340365</name><desc>railway=level_crossing
+id=node/9760340365</desc></wpt><wpt lat="44.250259" lon="-72.6019464"><name>node/9841780802</name><desc>railway=level_crossing
+id=node/9841780802</desc></wpt><wpt lat="44.2502422" lon="-72.6019857"><name>node/9841780803</name><desc>railway=level_crossing
+id=node/9841780803</desc></wpt><wpt lat="44.2502218" lon="-72.6020335"><name>node/9841780804</name><desc>railway=level_crossing
+id=node/9841780804</desc></wpt><wpt lat="44.2502047" lon="-72.6020736"><name>node/9841780805</name><desc>railway=level_crossing
+id=node/9841780805</desc></wpt><wpt lat="44.2501861" lon="-72.602117"><name>node/9841780806</name><desc>railway=level_crossing
+id=node/9841780806</desc></wpt><wpt lat="52.5255257" lon="13.5129351"><name>node/10032927085</name><desc>railway=level_crossing
+id=node/10032927085</desc></wpt><wpt lat="52.525497" lon="13.5129109"><name>node/10032927086</name><desc>railway=level_crossing
+id=node/10032927086</desc></wpt><wpt lat="52.4546967" lon="13.4162365"><name>node/10161200436</name><desc>railway=level_crossing
+id=node/10161200436</desc></wpt><wpt lat="52.4547173" lon="13.4162601"><name>node/10161200437</name><desc>railway=level_crossing
+id=node/10161200437</desc></wpt><wpt lat="52.4546687" lon="13.4162045"><name>node/10161200438</name><desc>railway=level_crossing
+id=node/10161200438</desc></wpt><wpt lat="52.4640422" lon="13.3635901"><name>node/10313921310</name><desc>railway=level_crossing
+id=node/10313921310</desc></wpt><wpt lat="52.4639606" lon="13.3636444"><name>node/10313921311</name><desc>railway=level_crossing
+id=node/10313921311</desc></wpt><wpt lat="52.5896737" lon="13.3542312"><name>node/10823950455</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/10823950455</desc></wpt><wpt lat="52.553215" lon="13.4796681"><name>node/10827733533</name><desc>railway=level_crossing
+id=node/10827733533</desc></wpt><wpt lat="52.5532407" lon="13.47972"><name>node/10827733534</name><desc>railway=level_crossing
+id=node/10827733534</desc></wpt><wpt lat="52.5532503" lon="13.4793497"><name>node/10879505318</name><desc>railway=level_crossing
+id=node/10879505318</desc></wpt><wpt lat="52.553233" lon="13.4793254"><name>node/10879505319</name><desc>railway=level_crossing
+id=node/10879505319</desc></wpt><wpt lat="52.5533086" lon="13.4795361"><name>node/10879505320</name><desc>railway=level_crossing
+id=node/10879505320</desc></wpt><wpt lat="52.5532207" lon="13.4793081"><name>node/10879505321</name><desc>railway=level_crossing
+id=node/10879505321</desc></wpt><wpt lat="41.6356507" lon="-72.7658277"><name>node/10920324715</name><desc>railway=level_crossing
+id=node/10920324715</desc></wpt><wpt lat="52.4873493" lon="13.5048949"><name>node/11131879683</name><desc>railway=level_crossing
+id=node/11131879683</desc></wpt><wpt lat="52.4872851" lon="13.5048355"><name>node/11131879689</name><desc>railway=level_crossing
+id=node/11131879689</desc></wpt><wpt lat="52.5622556" lon="13.4786732"><name>node/11163514831</name><desc>railway=level_crossing
+id=node/11163514831</desc></wpt><wpt lat="52.533115" lon="13.5235417"><name>node/11164204893</name><desc>railway=level_crossing
+id=node/11164204893</desc></wpt><wpt lat="52.5333793" lon="13.5235578"><name>node/11164204894</name><desc>railway=level_crossing
+id=node/11164204894</desc></wpt><wpt lat="52.5341576" lon="13.5235254"><name>node/11164204895</name><desc>railway=level_crossing
+id=node/11164204895</desc></wpt><wpt lat="52.5341607" lon="13.5236263"><name>node/11164204896</name><desc>railway=level_crossing
+id=node/11164204896</desc></wpt><wpt lat="52.5219352" lon="13.3884892"><name>node/11207718323</name><desc>railway=level_crossing
+id=node/11207718323</desc></wpt><wpt lat="52.5219345" lon="13.3886121"><name>node/11207740937</name><desc>railway=level_crossing
+id=node/11207740937</desc></wpt><wpt lat="52.5219562" lon="13.3885752"><name>node/11207740938</name><desc>railway=level_crossing
+id=node/11207740938</desc></wpt><wpt lat="52.5219266" lon="13.3885762"><name>node/11207740939</name><desc>railway=level_crossing
+id=node/11207740939</desc></wpt><wpt lat="52.5219536" lon="13.3885647"><name>node/11207740940</name><desc>railway=level_crossing
+id=node/11207740940</desc></wpt><wpt lat="52.5607573" lon="13.1720656"><name>node/11225486504</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/11225486504</desc></wpt><wpt lat="52.5474013" lon="13.581309"><name>node/11295523759</name><desc>railway=level_crossing
+id=node/11295523759</desc></wpt><wpt lat="52.5475181" lon="13.5813459"><name>node/11295523760</name><desc>railway=level_crossing
+id=node/11295523760</desc></wpt><wpt lat="52.4476176" lon="13.5195405"><name>node/11328541680</name><desc>railway=level_crossing
+id=node/11328541680</desc></wpt><wpt lat="52.5400017" lon="13.3361905"><name>node/11518700802</name><desc>railway=level_crossing
+id=node/11518700802</desc></wpt><wpt lat="52.5399952" lon="13.3360609"><name>node/11518700803</name><desc>railway=level_crossing
+id=node/11518700803</desc></wpt><wpt lat="52.4925934" lon="13.497986"><name>node/11572309901</name><desc>railway=level_crossing
+id=node/11572309901</desc></wpt><wpt lat="52.492667" lon="13.4980571"><name>node/11572309902</name><desc>railway=level_crossing
+id=node/11572309902</desc></wpt><wpt lat="52.5896387" lon="13.3539603"><name>node/11711406008</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/11711406008</desc></wpt><wpt lat="52.5896556" lon="13.354365"><name>node/11711406009</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/11711406009</desc></wpt><wpt lat="52.5896516" lon="13.3543023"><name>node/11711406010</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/11711406010</desc></wpt><wpt lat="52.589681" lon="13.3542296"><name>node/11711406011</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/11711406011</desc></wpt><wpt lat="52.589281" lon="13.3530262"><name>node/11711406012</name><desc>railway=level_crossing
+id=node/11711406012</desc></wpt><wpt lat="52.589247" lon="13.3530919"><name>node/11711406013</name><desc>railway=level_crossing
+id=node/11711406013</desc></wpt><wpt lat="52.5892088" lon="13.3531657"><name>node/11711406014</name><desc>railway=level_crossing
+id=node/11711406014</desc></wpt><wpt lat="52.5896193" lon="13.3528637"><name>node/11711406015</name><desc>crossing:barrier=no
+railway=level_crossing
+id=node/11711406015</desc></wpt><wpt lat="52.4166724" lon="13.4837441"><name>node/11738018703</name><desc>railway=level_crossing
+id=node/11738018703</desc></wpt><wpt lat="52.5493751" lon="13.2426931"><name>node/11787089949</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+maxheight:signed=no
+railway=level_crossing
+id=node/11787089949</desc></wpt><wpt lat="52.549813" lon="13.2418171"><name>node/11787089950</name><desc>maxheight:signed=no
+railway=level_crossing
+id=node/11787089950</desc></wpt><wpt lat="52.4681851" lon="13.453948"><name>node/11829170491</name><desc>railway=level_crossing
+id=node/11829170491</desc></wpt><wpt lat="52.4682209" lon="13.4539739"><name>node/11829170492</name><desc>railway=level_crossing
+id=node/11829170492</desc></wpt><wpt lat="52.4546229" lon="13.396635"><name>node/11829170494</name><desc>railway=level_crossing
+id=node/11829170494</desc></wpt><wpt lat="52.4559777" lon="13.4027164"><name>node/11829170495</name><desc>railway=level_crossing
+id=node/11829170495</desc></wpt><wpt lat="52.4559932" lon="13.4027202"><name>node/11829170496</name><desc>railway=level_crossing
+id=node/11829170496</desc></wpt><wpt lat="52.4560005" lon="13.4027222"><name>node/11829170497</name><desc>railway=level_crossing
+id=node/11829170497</desc></wpt><wpt lat="52.4548146" lon="13.3974343"><name>node/11829170498</name><desc>railway=level_crossing
+id=node/11829170498</desc></wpt><wpt lat="52.4559135" lon="13.4073955"><name>node/11829170499</name><desc>railway=level_crossing
+id=node/11829170499</desc></wpt><wpt lat="52.4560274" lon="13.4120018"><name>node/11829170500</name><desc>railway=level_crossing
+id=node/11829170500</desc></wpt><wpt lat="52.4577405" lon="13.4039357"><name>node/11829170501</name><desc>railway=level_crossing
+id=node/11829170501</desc></wpt><wpt lat="52.456279" lon="13.4017036"><name>node/11829170502</name><desc>railway=level_crossing
+id=node/11829170502</desc></wpt><wpt lat="52.456299" lon="13.4018991"><name>node/11829170503</name><desc>railway=level_crossing
+id=node/11829170503</desc></wpt><wpt lat="52.4559081" lon="13.4144901"><name>node/11829170504</name><desc>railway=level_crossing
+id=node/11829170504</desc></wpt><wpt lat="52.4664379" lon="13.452584"><name>node/11829170505</name><desc>railway=level_crossing
+id=node/11829170505</desc></wpt><wpt lat="52.4560349" lon="13.4083092"><name>node/11829170506</name><desc>railway=level_crossing
+id=node/11829170506</desc></wpt><wpt lat="52.4577925" lon="13.4040046"><name>node/11829170508</name><desc>railway=level_crossing
+id=node/11829170508</desc></wpt><wpt lat="52.4552707" lon="13.4153661"><name>node/11829170509</name><desc>railway=level_crossing
+id=node/11829170509</desc></wpt><wpt lat="52.4553307" lon="13.415405"><name>node/11829170510</name><desc>railway=level_crossing
+id=node/11829170510</desc></wpt><wpt lat="52.6341263" lon="13.5111314"><name>node/11853968597</name><desc>railway=level_crossing
+id=node/11853968597</desc></wpt><wpt lat="52.6348117" lon="13.510939"><name>node/11853968598</name><desc>railway=level_crossing
+id=node/11853968598</desc></wpt><wpt lat="52.5488775" lon="13.2459036"><name>node/11998991913</name><desc>crossing:barrier=no
+crossing:bell=no
+crossing:light=no
+maxheight:signed=no
+railway=level_crossing
+id=node/11998991913</desc></wpt><wpt lat="52.4494656" lon="13.3604943"><name>node/12100052382</name><desc>crossing:barrier=yes
+railway=level_crossing
+id=node/12100052382</desc></wpt><wpt lat="52.4656376" lon="13.3619481"><name>node/12139615620</name><desc>railway=level_crossing
+id=node/12139615620</desc></wpt><wpt lat="52.5217378" lon="13.4982661"><name>node/12265455784</name><desc>railway=level_crossing
+id=node/12265455784</desc></wpt><wpt lat="52.521682" lon="13.4982675"><name>node/12265455785</name><desc>railway=level_crossing
+id=node/12265455785</desc></wpt><wpt lat="52.5411932" lon="13.2471159"><name>node/12291884503</name><desc>railway=level_crossing
+id=node/12291884503</desc></wpt><wpt lat="52.5406102" lon="13.2472598"><name>node/12291884504</name><desc>maxheight:signed=no
+railway=level_crossing
+id=node/12291884504</desc></wpt><wpt lat="52.534247" lon="13.246258"><name>node/12291884505</name><desc>railway=level_crossing
+id=node/12291884505</desc></wpt><wpt lat="52.5342463" lon="13.2462717"><name>node/12291884506</name><desc>railway=level_crossing
+id=node/12291884506</desc></wpt><wpt lat="52.5473322" lon="13.2474744"><name>node/12291892856</name><desc>maxheight=5.5
+railway=level_crossing
+id=node/12291892856</desc></wpt><wpt lat="52.5035843" lon="13.2678951"><name>node/12297648213</name><desc>railway=level_crossing
+id=node/12297648213</desc></wpt><wpt lat="52.4605085" lon="13.4032475"><name>node/12397983338</name><desc>railway=level_crossing
+id=node/12397983338</desc></wpt><wpt lat="52.4604589" lon="13.4036719"><name>node/12397983339</name><desc>railway=level_crossing
+id=node/12397983339</desc></wpt><wpt lat="52.6391794" lon="13.4394722"><name>node/12475889835</name><desc>railway=level_crossing
+id=node/12475889835</desc></wpt><wpt lat="52.5347632" lon="13.3401579"><name>node/12530197385</name><desc>railway=level_crossing
+id=node/12530197385</desc></wpt><wpt lat="52.5369077" lon="13.3368303"><name>node/12530197393</name><desc>railway=level_crossing
+id=node/12530197393</desc></wpt><wpt lat="52.5312937" lon="13.5291183"><name>node/12618297760</name><desc>railway=level_crossing
+id=node/12618297760</desc></wpt><wpt lat="52.5494054" lon="13.2426324"><name>node/12848339845</name><desc>maxheight=4
+railway=level_crossing
+id=node/12848339845</desc></wpt><wpt lat="52.5497853" lon="13.2418725"><name>node/12848339846</name><desc>maxheight:signed=no
+railway=level_crossing
+id=node/12848339846</desc></wpt><wpt lat="52.5170945" lon="13.2515512"><name>node/12925447730</name><desc>railway=level_crossing
+id=node/12925447730</desc></wpt><wpt lat="52.5171083" lon="13.2516611"><name>node/12925447731</name><desc>railway=level_crossing
+id=node/12925447731</desc></wpt><wpt lat="52.5171513" lon="13.2520037"><name>node/12925447732</name><desc>railway=level_crossing
+id=node/12925447732</desc></wpt><wpt lat="52.5172789" lon="13.2522485"><name>node/12925447733</name><desc>railway=level_crossing
+id=node/12925447733</desc></wpt><wpt lat="52.5166082" lon="13.2525177"><name>node/12925447739</name><desc>railway=level_crossing
+id=node/12925447739</desc></wpt><wpt lat="52.5490994" lon="13.2434555"><name>node/12985407943</name><desc>railway=level_crossing
+id=node/12985407943</desc></wpt></gpx>

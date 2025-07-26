@@ -1,0 +1,615 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="52.5115569" lon="13.2862166"><name>Kaiserdamm</name><desc>destination=Kaiserdamm
+highway=motorway_junction
+name=Kaiserdamm
+ref=7
+id=node/458330</desc></wpt><wpt lat="52.5321687" lon="13.2866424"><name>Dreieck Charlottenburg</name><desc>destination=Hamburg;Reinickendorf;Siemensdamm;Flughafen Tegel
+highway=motorway_junction
+name=Dreieck Charlottenburg
+ref=4
+id=node/458350</desc></wpt><wpt lat="52.4933485" lon="13.2660206"><name>Dreieck Funkturm</name><desc>highway=motorway_junction
+name=Dreieck Funkturm
+ref=1
+id=node/458356</desc></wpt><wpt lat="52.5465246" lon="13.2994775"><name>Saatwinkler Damm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10271
+TMC:cid_58:tabcd_1:NextLocationCode=10272
+TMC:cid_58:tabcd_1:PrevLocationCode=10270
+highway=motorway_junction
+name=Saatwinkler Damm
+ref=10
+id=node/484082</desc></wpt><wpt lat="52.508287" lon="13.2833035"><name>Kaiserdamm-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10223
+TMC:cid_58:tabcd_1:NextLocationCode=10224
+TMC:cid_58:tabcd_1:PrevLocationCode=10222
+exit_to=Kaiserdamm-Süd
+highway=motorway_junction
+name=Kaiserdamm-Süd
+name:ja=カイザーダム・ズード
+ref=8
+id=node/484110</desc></wpt><wpt lat="52.4675231" lon="13.23465"><name>Hüttenweg</name><desc>destination=Hüttenweg
+ele=57.33
+highway=motorway_junction
+name=Hüttenweg
+ref=2
+id=node/484243</desc></wpt><wpt lat="52.4713022" lon="13.2391237"><name>Hüttenweg</name><desc>destination=Hüttenweg
+ele=25.13
+highway=motorway_junction
+name=Hüttenweg
+ref=2
+id=node/484282</desc></wpt><wpt lat="52.4359238" lon="13.1943862"><name>Spanische Allee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10298
+TMC:cid_58:tabcd_1:NextLocationCode=10297
+TMC:cid_58:tabcd_1:PrevLocationCode=10296
+ele=12.63
+highway=motorway_junction
+name=Spanische Allee
+ref=3
+id=node/484310</desc></wpt><wpt lat="52.6274264" lon="13.4278594"><name>Schönerlinder Straße</name><desc>highway=motorway_junction
+name=Schönerlinder Straße
+ref=2
+id=node/12696810</desc></wpt><wpt lat="52.5344702" lon="13.3010943"><name>Jakob-Kaiser-Platz</name><desc>destination=Jakob-Kaiser-Platz
+highway=motorway_junction
+name=Jakob-Kaiser-Platz
+ref=3
+id=node/16541571</desc></wpt><wpt lat="52.5374665" lon="13.3230381"><name>Beusselstraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10217
+TMC:cid_58:tabcd_1:NextLocationCode=10218
+TMC:cid_58:tabcd_1:PrevLocationCode=10216
+exit_to=Beusselstraße;Großmarkt;Westhafen
+highway=motorway_junction
+name=Beusselstraße
+ref=2
+id=node/16541582</desc></wpt><wpt lat="52.4693462" lon="13.3895341"><name>Tempelhofer Damm</name><desc>destination=Tempelhofer Damm
+highway=motorway_junction
+name=Tempelhofer Damm
+ref=20
+id=node/21487279</desc></wpt><wpt lat="52.6169684" lon="13.2504951"><name>Schulzendorfer Straße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10278
+TMC:cid_58:tabcd_1:NextLocationCode=34009
+TMC:cid_58:tabcd_1:PrevLocationCode=32702
+highway=motorway_junction
+name=Schulzendorfer Straße
+ref=3
+id=node/21508792</desc></wpt><wpt lat="52.485931" lon="13.3074308"><name>Schmargendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10246
+TMC:cid_58:tabcd_1:NextLocationCode=10247
+TMC:cid_58:tabcd_1:PrevLocationCode=10245
+exit_to=Schöneberg;Flughafen Schönefeld
+highway=motorway_junction
+name=Schmargendorf
+ref=14
+id=node/26627378</desc></wpt><wpt lat="52.493698" lon="13.2912309"><name>Kurfürstendamm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10227
+TMC:cid_58:tabcd_1:NextLocationCode=10228
+TMC:cid_58:tabcd_1:PrevLocationCode=10226
+destination=Kurfürstendamm
+highway=motorway_junction
+name=Kurfürstendamm
+name:ja=クアフュルステンダム
+ref=12
+id=node/26662370</desc></wpt><wpt lat="52.5050205" lon="13.2815377"><name>Messedamm-Nord</name><desc>exit_to=Messedamm;Messegelände;ICC
+highway=motorway_junction
+name=Messedamm-Nord
+ref=9
+id=node/26662382</desc></wpt><wpt lat="52.4974616" lon="13.2826225"><name>Kurfürstendamm</name><desc>destination=Kurfürstendamm
+highway=motorway_junction
+name=Kurfürstendamm
+name:ja=クアフュルステンダム
+ref=12
+id=node/26662407</desc></wpt><wpt lat="52.5029664" lon="13.2808433"><name>Dreieck Funkturm</name><desc>destination=Magdeburg;Leipzig;Potsdam
+highway=motorway_junction
+name=Dreieck Funkturm
+ref=10
+id=node/26662468</desc></wpt><wpt lat="52.4908214" lon="13.2959505"><name>Hohenzollerndamm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10228
+TMC:cid_58:tabcd_1:NextLocationCode=10229
+TMC:cid_58:tabcd_1:PrevLocationCode=10227
+destination=Hohenzollerndamm
+highway=motorway_junction
+name=Hohenzollerndamm
+ref=13
+id=node/26662485</desc></wpt><wpt lat="52.4864476" lon="13.3022559"><name>Hohenzollerndamm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10228
+TMC:cid_58:tabcd_1:NextLocationCode=10229
+TMC:cid_58:tabcd_1:PrevLocationCode=10227
+destination=Hohenzollerndamm
+highway=motorway_junction
+name=Hohenzollerndamm
+ref=13
+id=node/26708529</desc></wpt><wpt lat="52.4839605" lon="13.305243"><name>Schmargendorf</name><desc>destination=Schmargendorf;Mecklenburgische Straße
+highway=motorway_junction
+name=Schmargendorf
+ref=14
+id=node/26736279</desc></wpt><wpt lat="52.4990698" lon="13.2812674"><name>Messedamm-Süd</name><desc>destination=Messedamm;Messegelände;ICC
+highway=motorway_junction
+name=Messedamm-Süd
+ref=11
+id=node/26745934</desc></wpt><wpt lat="52.5331333" lon="13.2906489"><name>Jakob-Kaiser-Platz</name><desc>destination=Jakob-Kaiser-Platz
+highway=motorway_junction
+name=Jakob-Kaiser-Platz
+ref=3
+id=node/26750448</desc></wpt><wpt lat="52.4779691" lon="13.3331448"><name>Innsbrucker Platz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10231
+TMC:cid_58:tabcd_1:NextLocationCode=31023
+TMC:cid_58:tabcd_1:PrevLocationCode=10230
+destination=Innsbrucker Platz
+highway=motorway_junction
+name=Innsbrucker Platz
+ref=17
+id=node/26751254</desc></wpt><wpt lat="52.4800611" lon="13.30672"><name>Schmargendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10246
+TMC:cid_58:tabcd_1:NextLocationCode=10247
+TMC:cid_58:tabcd_1:PrevLocationCode=10245
+highway=motorway_junction
+name=Schmargendorf
+ref=14
+id=node/26805818</desc></wpt><wpt lat="52.4792485" lon="13.3065773"><name>node/26805819</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10247
+TMC:cid_58:tabcd_1:NextLocationCode=32714
+TMC:cid_58:tabcd_1:PrevLocationCode=10246
+highway=motorway_junction
+note=hat keinen eigenen Namen mehr; zählt mit zur AS Schmargendorf, da ehemalige A 104 ein Ast der A 100 ist
+id=node/26805819</desc></wpt><wpt lat="52.5209299" lon="13.2819983"><name>Spandauer Damm</name><desc>destination=Spandauer Damm;Zentrum
+highway=motorway_junction
+name=Spandauer Damm
+name:etymology:wikidata=Q158083
+ref=6
+id=node/26836036</desc></wpt><wpt lat="52.5639322" lon="13.3104571"><name>Eichborndamm</name><desc>highway=motorway_junction
+name=Eichborndamm
+ref=8
+id=node/26871395</desc></wpt><wpt lat="52.5714947" lon="13.3055249"><name>Seidelstraße</name><desc>highway=motorway_junction
+name=Seidelstraße
+ref=6
+id=node/26871401</desc></wpt><wpt lat="52.5386863" lon="13.3282515"><name>Seestraße</name><desc>destination=Seestraße
+exit_to=Seestraße
+highway=motorway_junction
+name=Seestraße
+ref=1
+id=node/26881959</desc></wpt><wpt lat="52.4566439" lon="13.3232851"><name>Schloßstraße</name><desc>highway=motorway_junction
+layer=2
+name=Schloßstraße
+ref=5
+id=node/26906825</desc></wpt><wpt lat="52.4689914" lon="13.3400305"><name>Saarstraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20243
+TMC:cid_58:tabcd_1:NextLocationCode=20244
+TMC:cid_58:tabcd_1:PrevLocationCode=20242
+highway=motorway_junction
+name=Saarstraße
+ref=3
+id=node/26908542</desc></wpt><wpt lat="52.4745123" lon="13.3519419"><name>node/26908750</name><desc>highway=motorway_junction
+id=node/26908750</desc></wpt><wpt lat="52.4771614" lon="13.3540555"><name>Kreuz Schöneberg</name><desc>highway=motorway_junction
+name=Kreuz Schöneberg
+ref=2
+id=node/26908767</desc></wpt><wpt lat="52.4767723" lon="13.3470934"><name>Innsbrucker Platz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10232
+TMC:cid_58:tabcd_1:NextLocationCode=10233
+TMC:cid_58:tabcd_1:PrevLocationCode=31023
+destination=Innsbrucker Platz
+highway=motorway_junction
+name=Innsbrucker Platz
+ref=17
+id=node/26908820</desc></wpt><wpt lat="52.4752517" lon="13.3488247"><name>Kreuz Schöneberg</name><desc>destination=Tiergarten;Sachsendamm;Bahnhof Südkreuz
+highway=motorway_junction
+name=Kreuz Schöneberg
+ref=18
+id=node/26908828</desc></wpt><wpt lat="52.4756037" lon="13.3482693"><name>Kreuz Schöneberg</name><desc>destination=Steglitz;Grazer Damm
+highway=motorway_junction
+name=Kreuz Schöneberg
+ref=18
+id=node/26908832</desc></wpt><wpt lat="52.4738058" lon="13.3563958"><name>Kreuz Schöneberg</name><desc>destination=Steglitz;Grazer Damm;Tiergarten;Sachsendamm
+highway=motorway_junction
+name=Kreuz Schöneberg
+ref=18
+id=node/26908974</desc></wpt><wpt lat="52.5818365" lon="13.4298767"><name>node/26970118</name><desc>highway=motorway_junction
+id=node/26970118</desc></wpt><wpt lat="52.576155" lon="13.3010574"><name>Holzhauser Straße</name><desc>highway=motorway_junction
+name=Holzhauser Straße
+ref=5
+id=node/26983747</desc></wpt><wpt lat="52.5982153" lon="13.2828349"><name>Waidmannsluster Damm</name><desc>highway=motorway_junction
+name=Waidmannsluster Damm
+ref=4
+id=node/26984690</desc></wpt><wpt lat="52.6120615" lon="13.2508661"><name>Schulzendorfer Straße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10278
+TMC:cid_58:tabcd_1:NextLocationCode=34009
+TMC:cid_58:tabcd_1:PrevLocationCode=32702
+highway=motorway_junction
+name=Schulzendorfer Straße
+ref=3
+id=node/26985225</desc></wpt><wpt lat="52.5135155" lon="13.3700849"><name>node/26992494</name><desc>highway=motorway_junction
+id=node/26992494</desc></wpt><wpt lat="52.523381" lon="13.3697574"><name>node/27000364</name><desc>destination=Wedding
+highway=motorway_junction
+id=node/27000364</desc></wpt><wpt lat="52.547383" lon="13.2999343"><name>Saatwinkler Damm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10271
+TMC:cid_58:tabcd_1:NextLocationCode=10272
+TMC:cid_58:tabcd_1:PrevLocationCode=10270
+highway=motorway_junction
+name=Saatwinkler Damm
+ref=10
+id=node/27009012</desc></wpt><wpt lat="52.4312861" lon="13.1920488"><name>Spanische Allee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10298
+TMC:cid_58:tabcd_1:NextLocationCode=10297
+TMC:cid_58:tabcd_1:PrevLocationCode=10296
+highway=motorway_junction
+name=Spanische Allee
+ref=3
+id=node/27088393</desc></wpt><wpt lat="52.5145655" lon="13.285113"><name>Kaiserdamm</name><desc>destination=Kaiserdamm
+highway=motorway_junction
+name=Kaiserdamm
+ref=7
+id=node/27216277</desc></wpt><wpt lat="52.4646389" lon="13.3345017"><name>Saarstraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20243
+TMC:cid_58:tabcd_1:NextLocationCode=20244
+TMC:cid_58:tabcd_1:PrevLocationCode=20242
+highway=motorway_junction
+name=Saarstraße
+ref=3
+id=node/27374464</desc></wpt><wpt lat="52.4013987" lon="13.5557237"><name>Dreieck Treptow</name><desc>highway=motorway_junction
+name=Dreieck Treptow
+ref=1
+wikidata=Q785621
+id=node/27378825</desc></wpt><wpt lat="52.4997337" lon="13.2807024"><name>Dreieck Funkturm</name><desc>destination=Magdeburg;Leipzig;Potsdam
+highway=motorway_junction
+name=Dreieck Funkturm
+ref=10
+id=node/27527881</desc></wpt><wpt lat="52.4722251" lon="13.3666837"><name>Alboinstraße</name><desc>destination=Alboinstraße
+highway=motorway_junction
+name=Alboinstraße
+ref=19
+id=node/27538910</desc></wpt><wpt lat="52.4655086" lon="13.3998184"><name>Oberlandstraße</name><desc>destination=Oberlandstraße
+highway=motorway_junction
+name=Oberlandstraße
+ref=21
+id=node/27539655</desc></wpt><wpt lat="52.4620933" lon="13.4062523"><name>Oberlandstraße</name><desc>highway=motorway_junction
+name=Oberlandstraße
+ref=21
+id=node/27540082</desc></wpt><wpt lat="52.4615915" lon="13.4080523"><name>Gradestraße</name><desc>destination=Gradestraße
+highway=motorway_junction
+name=Gradestraße
+ref=22
+id=node/27540554</desc></wpt><wpt lat="52.4627179" lon="13.4400519"><name>Buschkrugallee</name><desc>destination=Buschkrugallee
+highway=motorway_junction
+layer=-1
+name=Buschkrugallee
+ref=24
+id=node/27541405</desc></wpt><wpt lat="52.4562529" lon="13.4598824"><name>Späthstraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=32610
+TMC:cid_58:tabcd_1:NextLocationCode=32611
+TMC:cid_58:tabcd_1:PrevLocationCode=32609
+highway=motorway_junction
+name=Späthstraße
+ref=2
+id=node/27541936</desc></wpt><wpt lat="52.4442943" lon="13.4761286"><name>Johannisthaler Chaussee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=32611
+TMC:cid_58:tabcd_1:NextLocationCode=32612
+TMC:cid_58:tabcd_1:PrevLocationCode=32610
+highway=motorway_junction
+name=Johannisthaler Chaussee
+ref=3
+id=node/27541955</desc></wpt><wpt lat="52.4617089" lon="13.4288906"><name>Britzer Damm</name><desc>destination=Britzer Damm
+highway=motorway_junction
+layer=-1
+name=Britzer Damm
+ref=23
+id=node/27543299</desc></wpt><wpt lat="52.46313" lon="13.4545008"><name>Buschkrugallee</name><desc>highway=motorway_junction
+name=Buschkrugallee
+ref=24
+id=node/27554934</desc></wpt><wpt lat="52.474241" lon="13.3508662"><name>node/27683829</name><desc>highway=motorway_junction
+id=node/27683829</desc></wpt><wpt lat="42.39434" lon="-71.607193"><name>67</name><desc>highway=motorway_junction
+old_ref=26
+ref=67
+id=node/71208732</desc></wpt><wpt lat="42.390666" lon="-71.605533"><name>67</name><desc>highway=motorway_junction
+old_ref=26
+ref=67
+id=node/71234214</desc></wpt><wpt lat="52.428758" lon="13.5092183"><name>Adlershof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=32613
+TMC:cid_58:tabcd_1:NextLocationCode=32614
+TMC:cid_58:tabcd_1:PrevLocationCode=32612
+highway=motorway_junction
+name=Adlershof
+ref=5
+id=node/158710676</desc></wpt><wpt lat="41.6215749" lon="-72.7291672"><name>31</name><desc>highway=motorway_junction
+ref=31
+id=node/178403652</desc></wpt><wpt lat="41.6381759" lon="-72.7538935"><name>33</name><desc>highway=motorway_junction
+ref=33
+id=node/178403899</desc></wpt><wpt lat="38.3432137" lon="-75.2186836"><name>node/183312257</name><desc>highway=motorway_junction
+noref=yes
+id=node/183312257</desc></wpt><wpt lat="44.167723" lon="-72.5746336"><name>node/204891906</name><desc>highway=motorway_junction
+id=node/204891906</desc></wpt><wpt lat="44.220836" lon="-72.584986"><name>7</name><desc>highway=motorway_junction
+ref=7
+id=node/204912575</desc></wpt><wpt lat="44.219061" lon="-72.559366"><name>node/204912763</name><desc>highway=motorway_junction
+id=node/204912763</desc></wpt><wpt lat="44.212597" lon="-72.582887"><name>7</name><desc>highway=motorway_junction
+ref=7
+id=node/204916586</desc></wpt><wpt lat="44.1657372" lon="-72.5783123"><name>6</name><desc>highway=motorway_junction
+ref=6
+id=node/204918268</desc></wpt><wpt lat="44.2490204" lon="-72.5935602"><name>8</name><desc>highway=motorway_junction
+ref=8
+id=node/204934078</desc></wpt><wpt lat="44.1662827" lon="-72.5787798"><name>6</name><desc>highway=motorway_junction
+ref=6
+id=node/204949253</desc></wpt><wpt lat="44.2151603" lon="-72.580904"><name>node/205111198</name><desc>highway=motorway_junction
+id=node/205111198</desc></wpt><wpt lat="52.4701709" lon="13.3767299"><name>Alboinstraße</name><desc>destination=Alboinstraße;Bahnhof Südkreuz
+highway=motorway_junction
+name=Alboinstraße
+ref=19
+id=node/205325342</desc></wpt><wpt lat="52.4619032" lon="13.4555881"><name>Dreieck Neukölln</name><desc>highway=motorway_junction
+name=Dreieck Neukölln
+ref=1
+id=node/206191203</desc></wpt><wpt lat="52.4520949" lon="13.4627189"><name>Späthstraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=32610
+TMC:cid_58:tabcd_1:NextLocationCode=32611
+TMC:cid_58:tabcd_1:PrevLocationCode=32609
+highway=motorway_junction
+name=Späthstraße
+ref=2
+id=node/206191439</desc></wpt><wpt lat="52.4324489" lon="13.500954"><name>Stubenrauchstraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=32612
+TMC:cid_58:tabcd_1:NextLocationCode=32613
+TMC:cid_58:tabcd_1:PrevLocationCode=32611
+highway=motorway_junction
+name=Stubenrauchstraße
+ref=4
+id=node/206191818</desc></wpt><wpt lat="52.4354831" lon="13.4944463"><name>Stubenrauchstraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=32612
+TMC:cid_58:tabcd_1:NextLocationCode=32613
+TMC:cid_58:tabcd_1:PrevLocationCode=32611
+highway=motorway_junction
+name=Stubenrauchstraße
+ref=4
+id=node/206191829</desc></wpt><wpt lat="52.4750674" lon="13.306864"><name>node/237204812</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10247
+TMC:cid_58:tabcd_1:NextLocationCode=32714
+TMC:cid_58:tabcd_1:PrevLocationCode=10246
+destination=Schlangenbader Straße;Mecklenburgische Straße
+highway=motorway_junction
+note=hat keinen eigenen Namen mehr; zählt mit zur AS Schmargendorf, da ehemalige A 104 ein Ast der A 100 ist
+old_name=Mecklenburgische Straße
+id=node/237204812</desc></wpt><wpt lat="41.6247525" lon="-72.74061"><name>31</name><desc>highway=motorway_junction
+ref=31
+id=node/245560488</desc></wpt><wpt lat="41.6261921" lon="-72.7444553"><name>32</name><desc>highway=motorway_junction
+ref=32
+id=node/245563674</desc></wpt><wpt lat="52.4275895" lon="13.5181146"><name>Adlershof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=32613
+TMC:cid_58:tabcd_1:NextLocationCode=32614
+TMC:cid_58:tabcd_1:PrevLocationCode=32612
+highway=motorway_junction
+name=Adlershof
+ref=5
+id=node/260479469</desc></wpt><wpt lat="52.46367" lon="13.4502217"><name>Dreieck Neukölln</name><desc>highway=motorway_junction
+name=Dreieck Neukölln
+ref=25
+id=node/262644273</desc></wpt><wpt lat="52.4639773" lon="13.4507043"><name>Buschkrugallee</name><desc>highway=motorway_junction
+name=Buschkrugallee
+ref=24
+id=node/262644809</desc></wpt><wpt lat="52.478169" lon="13.3192869"><name>Detmolder Straße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10230
+TMC:cid_58:tabcd_1:NextLocationCode=10231
+TMC:cid_58:tabcd_1:PrevLocationCode=10229
+highway=motorway_junction
+name=Detmolder Straße
+ref=15
+id=node/263130724</desc></wpt><wpt lat="52.4720909" lon="13.3448497"><name>Kreuz Schöneberg</name><desc>highway=motorway_junction
+layer=2
+name=Kreuz Schöneberg
+ref=2
+id=node/267337350</desc></wpt><wpt lat="52.462956" lon="13.330928"><name>Filandastraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20242
+TMC:cid_58:tabcd_1:NextLocationCode=20243
+TMC:cid_58:tabcd_1:PrevLocationCode=20241
+highway=motorway_junction
+name=Filandastraße
+ref=4
+id=node/267339581</desc></wpt><wpt lat="52.536798" lon="13.2937074"><name>Heckerdamm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10269
+TMC:cid_58:tabcd_1:NextLocationCode=10270
+TMC:cid_58:tabcd_1:PrevLocationCode=10268
+highway=motorway_junction
+name=Heckerdamm
+ref=12
+id=node/267384249</desc></wpt><wpt lat="52.5419978" lon="13.2963076"><name>Heckerdamm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10269
+TMC:cid_58:tabcd_1:NextLocationCode=10270
+TMC:cid_58:tabcd_1:PrevLocationCode=10268
+highway=motorway_junction
+name=Heckerdamm
+ref=12
+id=node/267398957</desc></wpt><wpt lat="52.5435082" lon="13.2973455"><name>Flughafen Tegel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10270
+TMC:cid_58:tabcd_1:NextLocationCode=10271
+TMC:cid_58:tabcd_1:PrevLocationCode=10269
+highway=motorway_junction
+name=Flughafen Tegel
+ref=11
+id=node/267400443</desc></wpt><wpt lat="52.5511738" lon="13.3032702"><name>Am Festplatz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10272
+TMC:cid_58:tabcd_1:NextLocationCode=20077
+TMC:cid_58:tabcd_1:PrevLocationCode=10271
+highway=motorway_junction
+name=Am Festplatz
+ref=9
+id=node/267405714</desc></wpt><wpt lat="52.5648813" lon="13.3123812"><name>Eichborndamm</name><desc>highway=motorway_junction
+name=Eichborndamm
+id=node/267424810</desc></wpt><wpt lat="52.5673502" lon="13.3064187"><name>Kurt-Schumacher-Platz</name><desc>highway=motorway_junction
+name=Kurt-Schumacher-Platz
+ref=7
+id=node/267428802</desc></wpt><wpt lat="52.5007115" lon="13.2753882"><name>node/268095463</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10300
+TMC:cid_58:tabcd_1:NextLocationCode=10301
+TMC:cid_58:tabcd_1:PrevLocationCode=10299
+highway=motorway_junction
+noref=yes
+id=node/268095463</desc></wpt><wpt lat="41.6457032" lon="-72.7606753"><name>34</name><desc>highway=motorway_junction
+ref=34
+id=node/308038300</desc></wpt><wpt lat="41.6467525" lon="-72.768574"><name>1</name><desc>highway=motorway_junction
+ref=1
+id=node/308042629</desc></wpt><wpt lat="41.6463363" lon="-72.7757205"><name>1</name><desc>highway=motorway_junction
+ref=1
+id=node/308043030</desc></wpt><wpt lat="41.6267077" lon="-72.7462582"><name>32</name><desc>highway=motorway_junction
+ref=32
+id=node/308144202</desc></wpt><wpt lat="52.5806968" lon="13.4294426"><name>Pasewalker Straße</name><desc>highway=motorway_junction
+name=Pasewalker Straße
+ref=4
+id=node/315487772</desc></wpt><wpt lat="52.4738479" lon="13.4620688"><name>Sonnenallee</name><desc>highway=motorway_junction
+name=Sonnenallee
+ref=26
+id=node/356314873</desc></wpt><wpt lat="52.4689274" lon="13.4597369"><name>Sonnenallee</name><desc>highway=motorway_junction
+name=Sonnenallee
+ref=26
+id=node/356314954</desc></wpt><wpt lat="52.4706316" lon="13.3062529"><name>node/412209132</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10248
+TMC:cid_58:tabcd_1:NextLocationCode=10249
+TMC:cid_58:tabcd_1:PrevLocationCode=32714
+highway=motorway_junction
+note=hat keinen eigenen Namen mehr; zählt mit zur AS Schmargendorf, da ehemalige A 104 ein Ast der A 100 ist
+id=node/412209132</desc></wpt><wpt lat="52.4819508" lon="13.309856"><name>Schmargendorf</name><desc>destination=Schmargendorf;Konstanzer Straße
+highway=motorway_junction
+name=Schmargendorf
+ref=14
+id=node/444505902</desc></wpt><wpt lat="52.4787745" lon="13.3411447"><name>Wexstraße</name><desc>destination=Wexstraße;Zentrum
+highway=motorway_junction
+name=Wexstraße
+ref=16
+id=node/447933658</desc></wpt><wpt lat="52.458336" lon="13.3256602"><name>Filandastraße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20242
+TMC:cid_58:tabcd_1:NextLocationCode=20243
+TMC:cid_58:tabcd_1:PrevLocationCode=20241
+highway=motorway_junction
+layer=2
+name=Filandastraße
+ref=4
+id=node/573213381</desc></wpt><wpt lat="52.4638691" lon="13.4554562"><name>Grenzallee</name><desc>highway=motorway_junction
+name=Grenzallee
+ref=1b
+id=node/596372782</desc></wpt><wpt lat="52.5170365" lon="13.2840335"><name>Spandauer Damm</name><desc>destination=Spandauer Damm
+highway=motorway_junction
+name=Spandauer Damm
+name:etymology:wikidata=Q158083
+ref=6
+id=node/1020330221</desc></wpt><wpt lat="52.4887339" lon="13.458441"><name>Am Treptower Park</name><desc>highway=motorway_junction
+name=Am Treptower Park
+ref=27
+id=node/1373079887</desc></wpt><wpt lat="52.5327562" lon="13.2887913"><name>Siemensdamm</name><desc>destination=Siemensdamm
+highway=motorway_junction
+name=Siemensdamm
+ref=5
+id=node/1515731488</desc></wpt><wpt lat="52.5840121" lon="13.4320962"><name>Pasewalker Straße</name><desc>highway=motorway_junction
+name=Pasewalker Straße
+ref=4
+id=node/1580858436</desc></wpt><wpt lat="52.6133945" lon="13.4464777"><name>Bucher Straße</name><desc>highway=motorway_junction
+name=Bucher Straße
+ref=3
+id=node/1594497163</desc></wpt><wpt lat="52.6195339" lon="13.4370487"><name>Schönerlinder Straße</name><desc>highway=motorway_junction
+name=Schönerlinder Straße
+ref=2
+id=node/1594524818</desc></wpt><wpt lat="52.6335148" lon="13.4272643"><name>Dreieck Pankow</name><desc>highway=motorway_junction
+name=Dreieck Pankow
+ref=1
+id=node/1599687519</desc></wpt><wpt lat="52.6367875" lon="13.4387576"><name>Dreieck Pankow</name><desc>highway=motorway_junction
+name=Dreieck Pankow
+ref=35
+id=node/1610137170</desc></wpt><wpt lat="52.4167218" lon="13.1969687"><name>Kreuz Zehlendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10296
+TMC:cid_58:tabcd_1:NextLocationCode=10298
+TMC:cid_58:tabcd_1:PrevLocationCode=10295
+highway=motorway_junction
+name=Kreuz Zehlendorf
+ref=4
+id=node/1657703139</desc></wpt><wpt lat="52.4235117" lon="13.1949323"><name>Kreuz Zehlendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10296
+TMC:cid_58:tabcd_1:NextLocationCode=10298
+TMC:cid_58:tabcd_1:PrevLocationCode=10295
+highway=motorway_junction
+name=Kreuz Zehlendorf
+ref=4
+id=node/1657703360</desc></wpt><wpt lat="52.4698545" lon="13.3810658"><name>Tempelhofer Damm</name><desc>destination=Tempelhofer Damm
+highway=motorway_junction
+name=Tempelhofer Damm
+ref=20
+id=node/1809170959</desc></wpt><wpt lat="52.4793931" lon="13.314049"><name>Detmolder Straße</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10230
+TMC:cid_58:tabcd_1:NextLocationCode=10231
+TMC:cid_58:tabcd_1:PrevLocationCode=10229
+highway=motorway_junction
+name=Detmolder Straße
+ref=15
+id=node/1929853658</desc></wpt><wpt lat="52.4634401" lon="13.4497231"><name>Dreieck Neukölln</name><desc>highway=motorway_junction
+name=Dreieck Neukölln
+id=node/2051552149</desc></wpt><wpt lat="52.5796075" lon="13.295936"><name>Holzhauser Straße</name><desc>highway=motorway_junction
+name=Holzhauser Straße
+ref=5
+id=node/2250437906</desc></wpt><wpt lat="52.5930509" lon="13.2869197"><name>Waidmannsluster Damm</name><desc>highway=motorway_junction
+name=Waidmannsluster Damm
+ref=4
+id=node/2250437924</desc></wpt></gpx>
