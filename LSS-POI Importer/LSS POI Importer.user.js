@@ -23,7 +23,7 @@
     { id: 37, name: 'Bank', tag: 'amenity=bank' },
     { id: 21, name: 'Bauernhof', tag: 'landuse=farm' },
     { id: 28, name: 'Baumarkt', tag: 'shop=doityourself' },
-    { id: 36, name: 'Biogasanlage', tag: 'man_made=biogas_plant' },
+    { id: 36, name: 'Biogasanlage', tag: 'generator:source=biomass' },
     { id: 58, name: 'Brücke', tag: 'man_made=bridge' },
     { id: 4, name: 'Bushaltestelle', tag: 'highway=bus_stop' },
     { id: 22, name: 'Bürokomplex', tag: 'office=business' },
