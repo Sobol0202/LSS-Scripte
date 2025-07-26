@@ -5,7 +5,7 @@
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/*
 // @grant        GM_getResourceURL
-// @resource     icon https://upload.wikimedia.org/wikipedia/commons/e/ec/Map_pin_icon.svg
+// @resource     icon https://raw.githubusercontent.com/Sobol0202/LSS-Scripte/refs/heads/main/LSS-POI%20Importer/icons8-punktobjekte-64.png
 // @run-at       document-end
 // ==/UserScript==
 
