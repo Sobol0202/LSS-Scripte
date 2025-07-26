@@ -1,0 +1,1375 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="51.537084" lon="9.9311444"><name>Savoy</name><desc>amenity=nightclub
+contact:phone=+49 551 789 67 90
+contact:website=http://www.club-savoy.de
+name=Savoy
+opening_hours=We,Fr,Sa 22:00-05:00
+toilets:wheelchair=yes
+wheelchair=limited
+id=node/245917229</desc></wpt><wpt lat="51.539662" lon="9.9330625"><name>Alpenmax</name><desc>addr:city=Göttingen
+addr:country=DE
+addr:housenumber=7
+addr:postcode=37073
+addr:street=Weender Straße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/alpenmaxgoettingen
+contact:instagram=https://www.instagram.com/alpenmax_goettingen/
+contact:youtube=https://www.youtube.com/channel/UCIShSrFCzQ4VESus-KLwHVA/featured
+internet_access:fee=no
+min_age=18
+name=Alpenmax
+opening_hours=Mo,Fr,Sa 22:00-05:00
+operator=ALPENMAX Göttingen GmbH
+website=https://www.alpenmax-goettingen.com/
+wheelchair=limited
+id=node/245917232</desc></wpt><wpt lat="52.6802778" lon="9.6272353"><name>Dolce Vita</name><desc>amenity=nightclub
+name=Dolce Vita
+id=node/249174434</desc></wpt><wpt lat="52.2595112" lon="10.5165467"><name>Eule XO</name><desc>amenity=nightclub
+name=Eule XO
+opening_hours="je nach Veranstaltung"
+wheelchair=no
+id=node/251120895</desc></wpt><wpt lat="52.5917067" lon="10.0629538"><name>Inkognito</name><desc>amenity=nightclub
+created_by=Merkaartor 0.13
+name=Inkognito
+wheelchair=limited
+id=node/253801357</desc></wpt><wpt lat="52.5269852" lon="8.5585194"><name>Schusterkrug</name><desc>addr:city=Wagenfeld
+addr:country=DE
+addr:housenumber=101
+addr:postcode=49419
+addr:street=Oppenweher Straße
+amenity=nightclub
+contact:email=schusterkrug@t-online.de
+contact:facebook=https://www.facebook.com/schusterkrug/
+contact:fax=+49 5776 961 503
+contact:phone=+49 5776 961 505
+name=Schusterkrug
+website=https://schusterkrug.de/
+id=node/263881469</desc></wpt><wpt lat="52.2793693" lon="8.0420145"><name>Sonnendeck</name><desc>amenity=nightclub
+name=Sonnendeck
+opening_hours=Fr-Su 18:00-23:00
+source=luftbild_igf_uni_os
+wheelchair=no
+id=node/266466287</desc></wpt><wpt lat="53.3264446" lon="8.4829913"><name>Whisky</name><desc>addr:city=Brake (Unterweser)
+addr:housenumber=21
+addr:postcode=26919
+addr:street=Breite Straße
+amenity=nightclub
+name=Whisky
+id=node/268950726</desc></wpt><wpt lat="52.2592249" lon="10.5220162"><name>Brain</name><desc>amenity=nightclub
+name=Brain
+phone=+49 531 48039071
+smoking=isolated
+website=https://www.brainklub.de/
+wheelchair=no
+id=node/270105892</desc></wpt><wpt lat="52.4464339" lon="10.003901"><name>Black Horse</name><desc>addr:city=Burgdorf
+addr:country=DE
+addr:housenumber=2
+addr:postcode=31303
+addr:street=Bahnhofstraße
+amenity=nightclub
+name=Black Horse
+wheelchair=yes
+id=node/300864469</desc></wpt><wpt lat="53.3681934" lon="7.2032872"><name>Moods</name><desc>addr:city=Emden
+addr:country=DE
+addr:housenumber=20
+addr:postcode=26721
+addr:street=Neutorstraße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/moodsclubemden
+contact:phone=+49 4921 33353
+contact:website=http://www.mozo-club.de/
+name=Moods
+operator=Barbara Sälzer
+wheelchair=no
+id=node/302195604</desc></wpt><wpt lat="52.2720871" lon="8.0586824"><name>Tanzcafe Filou</name><desc>amenity=nightclub
+check_date=2024-06-04
+name=Tanzcafe Filou
+opening_hours=Fr-Sa 20:00-23:59, Sa-Su 00:00-05:00, Su 15:00-20:00
+website=http://www.tanzcafe-filou.de/
+wheelchair=limited
+id=node/304320082</desc></wpt><wpt lat="51.6396925" lon="9.940526"><name>Matrix</name><desc>amenity=nightclub
+name=Matrix
+wheelchair=no
+id=node/305788990</desc></wpt><wpt lat="53.0260395" lon="9.0673141"><name>Baroness-Club</name><desc>addr:city=Achim
+addr:country=DE
+addr:housenumber=15
+addr:postcode=28832
+addr:street=Justus-von-Liebig-Straße
+amenity=nightclub
+name=Baroness-Club
+id=node/306455967</desc></wpt><wpt lat="52.2713472" lon="8.0494858"><name>Atlantic</name><desc>amenity=nightclub
+name=Atlantic
+opening_hours=Tu,Th 22:00-04:00, Fr,Sa 21:00-06:00
+id=node/308264321</desc></wpt><wpt lat="52.2810473" lon="8.0425957"><name>Cheers</name><desc>amenity=nightclub
+name=Cheers
+id=node/308273120</desc></wpt><wpt lat="52.2818442" lon="8.0639198"><name>Discothek Virage</name><desc>addr:city=Osnabrück
+addr:housenumber=12
+addr:postcode=49074
+addr:street=Baumstraße
+amenity=nightclub
+check_date:opening_hours=2023-02-19
+email=info@disco-virage.de
+min_age=18
+name=Discothek Virage
+opening_hours:signed=no
+operator=monolith GmbH
+payment:american_express=yes
+payment:cash=yes
+payment:coins=yes
+payment:contactless=yes
+payment:credit_cards=yes
+payment:debit_cards=yes
+payment:electronic_purses=yes
+payment:girocard=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:visa=yes
+payment:visa_debit=yes
+payment:visa_electron=yes
+phone=+4954193386839
+smoking=isolated
+start_date=2007-09-01
+toilets:wheelchair=no
+website=https://www.disco-virage.de/
+wheelchair=yes
+id=node/308771250</desc></wpt><wpt lat="53.38153" lon="9.9838572"><name>Hittfelder Mühle</name><desc>amenity=nightclub
+name=Hittfelder Mühle
+wheelchair=no
+id=node/320736103</desc></wpt><wpt lat="52.3684564" lon="9.7203746"><name>Capitol</name><desc>amenity=nightclub
+contact:email=info@capitol-hannover.de
+contact:instagram=capitol.hannover
+contact:phone=+49 511 92988 0
+contact:website=https://www.capitol-hannover.de/
+live_music=yes
+name=Capitol
+wheelchair=yes
+id=node/322804624</desc></wpt><wpt lat="52.3719473" lon="9.6964897"><name>Béi Chéz Heinz</name><desc>addr:city=Hannover
+addr:housenumber=7b
+addr:postcode=30453
+addr:street=Liepmannstraße
+amenity=nightclub
+contact:email=post@beichezheinz.de
+contact:facebook=https://www.facebook.com/beichezheinz
+contact:phone=+49 511 21429920
+contact:twitter=https://twitter.com/BeiChezHeinz
+description=Neben Diskoabenden gibt es hier auch häufig Livemusik.
+name=Béi Chéz Heinz
+smoking=isolated
+url=https://www.beichezheinz.de/
+wheelchair=limited
+wheelchair:description=Für menschen im Aktivrolli, die man abrollen kann, machbar: Eine gerade, recht flache Treppe von ca. 20 Stufen muss bewältigt werden.
+id=node/323251817</desc></wpt><wpt lat="52.3790667" lon="9.7442417"><name>PaloPalo</name><desc>addr:city=Hannover
+addr:country=DE
+addr:housenumber=7a
+addr:postcode=30161
+addr:street=Raschplatz
+amenity=nightclub
+name=PaloPalo
+wheelchair=limited
+id=node/350823062</desc></wpt><wpt lat="52.2662387" lon="10.5220822"><name>Maxi Disco</name><desc>amenity=nightclub
+check_date=2024-05-11
+name=Maxi Disco
+opening_hours=Th-Sa 23:00+
+website=https://bierboerse-bs.de/maxi-disco
+wheelchair=no
+id=node/362740761</desc></wpt><wpt lat="52.1553296" lon="9.9552268"><name>LitteraNova</name><desc>addr:city=Hildesheim
+addr:housenumber=12a
+addr:postcode=31134
+addr:street=Wallstraße
+amenity=nightclub
+name=LitteraNova
+opening_hours=Tu,We,Fr,Sa 19:00-24:00
+operator=MarcoVegasEntertainment,  LitteraNova,  Meisenweg 27, 31180 Giesen
+smoking=isolated
+id=node/373547454</desc></wpt><wpt lat="52.1564018" lon="9.9538257"><name>Club Montana</name><desc>amenity=nightclub
+name=Club Montana
+opening_hours=Fr-Sa 23:00-05:00
+wheelchair=no
+id=node/388542715</desc></wpt><wpt lat="53.14061" lon="8.215026"><name>Metro</name><desc>addr:city=Oldenburg
+addr:country=DE
+addr:housenumber=18
+addr:postcode=26122
+addr:street=Achternstraße
+amenity=nightclub
+lgbtq=welcome
+min_age=18
+name=Metro
+opening_hours=Fr-Sa 23:00-05:00, Mo, We 20:00-24:00
+smoking=isolated
+toilets:wheelchair=no
+url=https://www.instagram.com/metrocluboldenburg
+website=https://metro-oldenburg.de/
+wheelchair=no
+id=node/401492263</desc></wpt><wpt lat="51.5344752" lon="9.9340658"><name>Basement 13</name><desc>addr:city=Göttingen
+addr:country=DE
+addr:housenumber=13
+addr:postcode=37073
+addr:street=Prinzenstraße
+amenity=nightclub
+entrance=yes
+level=0
+name=Basement 13
+opening_hours=Fr-Sa 22:00-05:00
+survey:date=2020-10-16
+id=node/412383166</desc></wpt><wpt lat="51.5306685" lon="9.937061"><name>jt-keller</name><desc>addr:city=Göttingen
+addr:country=DE
+addr:housenumber=6
+addr:postcode=37073
+addr:street=Am Wochenmarkt
+amenity=nightclub
+contact:fax=+49 551 7977963
+contact:phone=+49 551 7977961
+contact:website=http://www.jt-keller.de/
+name=jt-keller
+wheelchair=no
+id=node/412383936</desc></wpt><wpt lat="51.5319201" lon="9.9336904"><name>Nörgelbuff</name><desc>addr:city=Göttingen
+addr:country=DE
+addr:housenumber=23
+addr:postcode=37073
+addr:street=Groner Straße
+amenity=nightclub
+contact:phone=+49 551 3848262
+contact:website=http://noergelbuff.de/
+entrance=main
+level=-1;0
+name=Nörgelbuff
+wheelchair=no
+wikidata=Q1526214
+id=node/412384532</desc></wpt><wpt lat="51.5334289" lon="9.9367859"><name>E-Keller</name><desc>addr:city=Göttingen
+addr:housenumber=13b
+addr:postcode=37073
+addr:street=Jüdenstraße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/electronic.earthquake
+name=E-Keller
+wheelchair=no
+id=node/415658805</desc></wpt><wpt lat="53.4973899" lon="9.1007634"><name>Haase</name><desc>amenity=nightclub
+name=Haase
+wheelchair=yes
+id=node/455877717</desc></wpt><wpt lat="53.7995977" lon="8.7568278"><name>Janßen´s Tanzpalast</name><desc>amenity=nightclub
+name=Janßen´s Tanzpalast
+wheelchair=limited
+id=node/459980312</desc></wpt><wpt lat="53.1420326" lon="8.1908799"><name>VIERTEL - Klub + Bar + Kultur</name><desc>addr:country=DE
+amenity=nightclub
+email=info@kulturviertel.com
+name=VIERTEL - Klub + Bar + Kultur
+operator=Erkan Sünger
+phone=+4944130425838
+website=https://kulturviertel.com
+id=node/494258824</desc></wpt><wpt lat="52.1084277" lon="9.4561243"><name>Zum Schecken</name><desc>amenity=nightclub
+name=Zum Schecken
+id=node/498795572</desc></wpt><wpt lat="52.6761907" lon="7.5002963"><name>Zur Nachteule</name><desc>addr:city=Haselünne
+addr:country=DE
+addr:housenumber=5
+addr:postcode=49740
+addr:street=Löninger Straße
+amenity=nightclub
+name=Zur Nachteule
+wheelchair=no
+id=node/512603520</desc></wpt><wpt lat="52.3766045" lon="9.7112799"><name>60er Jahre Halle</name><desc>amenity=nightclub
+name=60er Jahre Halle
+toilets:wheelchair=yes
+wheelchair=yes
+id=node/601682250</desc></wpt><wpt lat="52.376548" lon="9.711363"><name>Mephisto</name><desc>amenity=nightclub
+name=Mephisto
+opening_hours:signed=no
+wheelchair=limited
+id=node/601682251</desc></wpt><wpt lat="52.3797335" lon="9.7436095"><name>Zaza</name><desc>amenity=nightclub
+name=Zaza
+wheelchair=limited
+id=node/601708139</desc></wpt><wpt lat="52.4701407" lon="7.3064467"><name>Sandbank</name><desc>amenity=nightclub
+name=Sandbank
+opening_hours=Fr-Sa 21:00-04:00
+smoking=separated
+wheelchair=limited
+id=node/669101764</desc></wpt><wpt lat="52.949369" lon="8.1873901"><name>node/691544432</name><desc>amenity=nightclub
+email=info@finca-sage.de
+phone=+49 4435 387704
+website=http://www.finca-sage.de
+id=node/691544432</desc></wpt><wpt lat="52.6947723" lon="7.2937353"><name>Penthaus Club Lounge</name><desc>addr:city=Meppen
+addr:country=DE
+addr:housenumber=1
+addr:postcode=49716
+addr:street=Bahnhofstraße
+amenity=nightclub
+name=Penthaus Club Lounge
+website=https://www.penthaus-meppen.de
+id=node/702381217</desc></wpt><wpt lat="52.695186" lon="7.2928478"><name>Rockpalast</name><desc>addr:city=Meppen
+addr:country=DE
+addr:housenumber=11
+addr:postcode=49716
+addr:street=Schützenstraße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/RockpalastMeppenoffiziell/
+music=rock
+name=Rockpalast
+opening_hours=Fr,Sa,PH-1 day 22:00-05:00
+toilets:wheelchair=no
+wheelchair=yes
+id=node/702381218</desc></wpt><wpt lat="53.1786886" lon="7.2835133"><name>Pyramide</name><desc>amenity=nightclub
+check_date:opening_hours=2024-02-12
+name=Pyramide
+opening_hours=Sa 23:00+
+wheelchair=yes
+id=node/727653725</desc></wpt><wpt lat="52.2887587" lon="8.0300557"><name>NEO club &amp; cuisine</name><desc>amenity=nightclub
+check_date=2025-06-29
+name=NEO club &amp; cuisine
+website=https://neo-cc.de/de/
+id=node/1018019845</desc></wpt><wpt lat="53.2325677" lon="7.4338301"><name>Fetenscheune</name><desc>amenity=nightclub
+name=Fetenscheune
+wheelchair=limited
+id=node/1039637656</desc></wpt><wpt lat="53.4837403" lon="8.4851751"><name>Bayou Beach Club</name><desc>amenity=nightclub
+check_date=2024-10-04
+contact:facebook=https://www.facebook.com/people/Bayou-Beach-Club/100063545469844/
+name=Bayou Beach Club
+old_website=https://web.archive.org/web/20180808144617/http://disco-bayou.de/
+website:note=disco-bayou.de does not exist
+id=node/1120481316</desc></wpt><wpt lat="53.2363584" lon="9.2856182"><name>Meyer's Tanzpalast</name><desc>addr:city=Gyhum
+addr:country=DE
+addr:housenumber=3
+addr:postcode=27404
+addr:street=Wehldorfer Bundesstraße
+addr:suburb=Wehldorf
+amenity=nightclub
+contact:email=info@meyers-tanzpalast.de
+contact:phone=+49 4286 93240
+contact:website=http://www.meyers-tanzpalast.de/
+name=Meyer's Tanzpalast
+operator=Harry Meyer GmbH
+website=https://meyers-tanzpalast.de/
+id=node/1208055874</desc></wpt><wpt lat="52.4432121" lon="7.0912889"><name>Abacco</name><desc>amenity=nightclub
+name=Abacco
+opening_hours=Fr-Sa 22:00-05:00
+website=https://tanzlokal-abacco.de/
+wheelchair=limited
+id=node/1281894814</desc></wpt><wpt lat="52.3811086" lon="9.7425342"><name>KLOSTER</name><desc>amenity=nightclub
+name=KLOSTER
+id=node/1286244492</desc></wpt><wpt lat="51.5301593" lon="9.93471"><name>EinsB</name><desc>addr:city=Göttingen
+addr:country=DE
+addr:housenumber=1b
+addr:postcode=37073
+addr:street=Nikolaistraße
+amenity=nightclub
+check_date=2024-08-30
+contact:fax=+49 30 484986551
+contact:phone=+49 551 28046418
+contact:website=http://www.einsb.de/
+name=EinsB
+wheelchair=no
+id=node/1368262784</desc></wpt><wpt lat="52.371635" lon="9.7204998"><name>Café Glocksee</name><desc>amenity=nightclub
+entrance=yes
+name=Café Glocksee
+website=http://www.cafe-glocksee.de
+wheelchair=limited
+id=node/1381704284</desc></wpt><wpt lat="53.5356764" lon="7.5981504"><name>Discothek Aurum</name><desc>addr:city=Aurich
+addr:country=DE
+addr:housenumber=12
+addr:postcode=26607
+addr:street=Westerlooger Straße
+addr:suburb=Middels-Westerloog
+amenity=nightclub
+name=Discothek Aurum
+website=https://www.aurum-aurich.de/
+id=node/1425535971</desc></wpt><wpt lat="53.3665987" lon="7.2052318"><name>La Grotta</name><desc>addr:city=Emden
+addr:country=DE
+addr:housenumber=1
+addr:postcode=26721
+addr:street=Am Delft
+amenity=nightclub
+check_date=2025-02-15
+contact:phone=+49 4921 27200
+name=La Grotta
+opening_hours=Mo-Su 21:00-05:00
+wheelchair=no
+id=node/1434000286</desc></wpt><wpt lat="51.5397523" lon="9.9368548"><name>Stilbrvch</name><desc>alt_name=Stilbruch
+amenity=nightclub
+level=-1
+name=Stilbrvch
+opening_hours=off "nur zu Veranstaltungen"
+smoking=outside
+website=http://stilbrvch.de
+wheelchair=yes
+id=node/1457349673</desc></wpt><wpt lat="52.2596608" lon="10.5180817"><name>The Lindbergh Palace</name><desc>addr:city=Braunschweig
+addr:housenumber=3
+addr:postcode=38100
+addr:street=Kalenwall
+amenity=nightclub
+check_date=2024-06-21
+name=The Lindbergh Palace
+opening_hours=Fr-Sa 23:00-30:00
+website=http://www.disko-kolchose.de/
+id=node/1584429962</desc></wpt><wpt lat="51.8209961" lon="9.4538483"><name>Jazz Club Holzminden</name><desc>addr:city=Holzminden
+addr:country=DE
+addr:housenumber=41
+addr:postcode=37603
+addr:street=Bahnhofstraße
+amenity=nightclub
+name=Jazz Club Holzminden
+wheelchair=no
+id=node/1634662266</desc></wpt><wpt lat="53.4615107" lon="9.7043646"><name>Diskothek Studio 21</name><desc>addr:city=Buxtehude
+addr:housenumber=12
+addr:postcode=21614
+addr:street=Rudolf-Diesel-Straße
+amenity=nightclub
+email=info@partyandmore-gmbh.de
+name=Diskothek Studio 21
+phone=+49 4161 8005650
+website=https://studio-einundzwanzig.de/
+id=node/1704175293</desc></wpt><wpt lat="53.7056469" lon="7.1427696"><name>Beach Club</name><desc>addr:city=Norderney
+addr:country=DE
+addr:housenumber=2
+addr:postcode=26548
+addr:street=Strandstraße
+amenity=nightclub
+name=Beach Club
+wheelchair=no
+id=node/1752935337</desc></wpt><wpt lat="52.3405121" lon="9.1794409"><name>51 Fifty One Party Deele</name><desc>amenity=nightclub
+name=51 Fifty One Party Deele
+opening_hours=Fr, Sa, PH-1 day 22:00+
+phone=+49 5721 9326145
+website=https://heines-deele.de/
+id=node/1766551867</desc></wpt><wpt lat="53.3985295" lon="7.8008196"><name>Saunaclub 99</name><desc>addr:city=Wiesmoor
+addr:country=DE
+addr:housenumber=99
+addr:postcode=26639
+addr:street=Bentstreeker Straße
+addr:suburb=Mullberg
+amenity=nightclub
+name=Saunaclub 99
+phone=+49 173 8426049
+id=node/1829361585</desc></wpt><wpt lat="51.7918074" lon="9.9766008"><name>Disco M1</name><desc>addr:housenumber=22
+addr:street=Ahlshäuser Endestraße
+amenity=nightclub
+name=Disco M1
+smoking=yes
+wheelchair=no
+id=node/1829885285</desc></wpt><wpt lat="51.7493651" lon="9.9664997"><name>Pi-Po Tabledance</name><desc>amenity=nightclub
+name=Pi-Po Tabledance
+opening_hours=We-Sa 21:00-5:00
+id=node/1831122729</desc></wpt><wpt lat="53.8013165" lon="9.0294529"><name>FestHalle Neuhaus Party pub /Discothek</name><desc>addr:housename=Festhalle Neuhaus
+addr:housenumber=1
+addr:postcode=21785
+addr:street=Bürgerpark
+alt_name=Magic Dancehall
+amenity=nightclub
+name=FestHalle Neuhaus Party pub /Discothek
+id=node/2124833946</desc></wpt><wpt lat="52.5374509" lon="6.9662326"><name>Escher Hof</name><desc>amenity=nightclub
+name=Escher Hof
+id=node/2132115665</desc></wpt><wpt lat="51.8183683" lon="9.8688259"><name>Soda Club</name><desc>addr:city=Einbeck
+addr:country=DE
+addr:housenumber=9-11
+addr:postcode=37574
+addr:street=Lange Brücke
+amenity=nightclub
+facebook=https://www.facebook.com/sodaeinbeck/
+internet_access=wlan
+internet_access:fee=no
+name=Soda Club
+website=http://www.soda-einbeck.de/
+wheelchair=no
+id=node/2136014034</desc></wpt><wpt lat="52.3804669" lon="9.7375085"><name>Agostea</name><desc>amenity=nightclub
+name=Agostea
+toilets:wheelchair=yes
+wheelchair=yes
+wheelchair:description=Man wird vom Personal mit einem nicht öffentlichen Fahrstuhl nach oben begleitet
+id=node/2148460365</desc></wpt><wpt lat="52.889343" lon="7.3324958"><name>Diskothek Kuper</name><desc>amenity=nightclub
+name=Diskothek Kuper
+website=https://www.kuper-melstrup.de/
+id=node/2165522621</desc></wpt><wpt lat="52.3682094" lon="9.720537"><name>LUX</name><desc>amenity=nightclub
+name=LUX
+wheelchair=no
+id=node/2235436113</desc></wpt><wpt lat="53.2307912" lon="7.4638261"><name>Zollhaus Kulturzentrum</name><desc>addr:city=Leer (Ostfriesland)
+addr:housenumber=4
+addr:postcode=26789
+addr:street=Bahnhofsring
+amenity=nightclub
+name=Zollhaus Kulturzentrum
+phone=+49 491 67649
+toilets:wheelchair=yes
+website=http://www.zollhaus-kulturzentrum.de
+wheelchair=yes
+wheelchair:description=WC und Fahrstuhl vorhanden
+id=node/2264587830</desc></wpt><wpt lat="53.2716381" lon="7.4587572"><name>Airport</name><desc>addr:city=Leer (Ostfriesland)
+addr:country=DE
+addr:housenumber=360
+addr:postcode=26789
+addr:street=Heisfelder Straße
+amenity=nightclub
+name=Airport
+id=node/2282191505</desc></wpt><wpt lat="52.3844242" lon="9.730149"><name>Weltspiele</name><desc>addr:city=Hannover
+addr:housenumber=8
+addr:postcode=30167
+addr:street=Weidendamm
+amenity=nightclub
+min_age=18
+name=Weltspiele
+smoking=yes
+toilets:wheelchair=yes
+website=https://weltspiele.club
+wheelchair=yes
+id=node/2331515651</desc></wpt><wpt lat="53.4659717" lon="7.4814197"><name>Tanzbar</name><desc>addr:city=Aurich
+addr:country=DE
+addr:housenumber=7
+addr:postcode=26603
+addr:street=Kirchdorfer Straße
+amenity=nightclub
+name=Tanzbar
+wheelchair=yes
+id=node/2407359892</desc></wpt><wpt lat="51.6998314" lon="9.9868638"><name>node/2411559287</name><desc>amenity=nightclub
+id=node/2411559287</desc></wpt><wpt lat="53.6176001" lon="7.1616228"><name>Die Schaluppe</name><desc>addr:city=Norden
+addr:country=DE
+addr:housenumber=218
+addr:postcode=26506
+addr:street=Norddeicher Straße
+amenity=nightclub
+name=Die Schaluppe
+opening_hours=20:00-01:00,01:00+; Su,Mo off
+smoking=separated
+wheelchair=no
+id=node/2419547944</desc></wpt><wpt lat="53.2115515" lon="9.6029397"><name>Padam Riepe</name><desc>amenity=nightclub
+designation=Disco
+name=Padam Riepe
+id=node/2421838182</desc></wpt><wpt lat="52.7705386" lon="9.0057273"><name>Kulturhaus B.O.</name><desc>addr:city=Asendorf
+addr:housenumber=35
+addr:postcode=27330
+addr:street=Alte Heerstraße
+alt_name=B.O.
+amenity=nightclub
+name=Kulturhaus B.O.
+toilets:wheelchair=yes
+website=https://www.kulturhaus-bo.de/
+wheelchair=limited
+id=node/2462186137</desc></wpt><wpt lat="53.4709975" lon="9.6704736"><name>Garage</name><desc>amenity=nightclub
+name=Garage
+id=node/2528120324</desc></wpt><wpt lat="53.7069242" lon="7.1469713"><name>Diamonds Club</name><desc>addr:city=Norderney
+addr:housenumber=6
+addr:postcode=26548
+addr:street=Osterstraße
+amenity=nightclub
+name=Diamonds Club
+opening_hours=Mo-Su ab 21:00 Uhr
+operator=Birol Durak
+website=https://www.diamondclubnorderney.de/
+wheelchair=limited
+id=node/2972007490</desc></wpt><wpt lat="52.8518132" lon="7.6749874"><name>Treffpunkt</name><desc>addr:city=Werlte
+addr:housenumber=4
+addr:postcode=49757
+addr:street=Loruper Straße
+amenity=nightclub
+name=Treffpunkt
+wheelchair=limited
+id=node/3048219064</desc></wpt><wpt lat="53.1412077" lon="8.2097439"><name>Shine</name><desc>addr:city=Oldenburg
+addr:country=DE
+addr:housenumber=21
+addr:postcode=26122
+addr:street=Kurwickstraße
+addr:suburb=Innenstadt
+amenity=nightclub
+name=Shine
+id=node/3108033136</desc></wpt><wpt lat="52.2679423" lon="8.0587698"><name>Kleine Freiheit</name><desc>addr:city=Osnabrück
+addr:housenumber=2
+addr:postcode=49084
+addr:street=Dammstraße
+amenity=nightclub
+name=Kleine Freiheit
+opening_hours=Th-Sa 23:00-05:00+
+operator=Zukunftsmusik Remmert, Schlukat, Vorberg GbR
+id=node/3116418396</desc></wpt><wpt lat="52.1617629" lon="9.9576651"><name>Kulturfabrik Löseke e.V.</name><desc>amenity=nightclub
+name=Kulturfabrik Löseke e.V.
+toilets:wheelchair=yes
+website=https://www.kufa.info/
+wheelchair=no
+wheelchair:description=Wenn man einen Aktiv-Rolli hat, tragen einen die Securis. Sonst wäre das Rolliklo ja auch witzlos. Es gibt nen Fahrstuhl, der eigt aber nur für Lasten gedacht ist... lieb gucken hilft manchmal...
+id=node/3141349408</desc></wpt><wpt lat="52.2598031" lon="10.521586"><name>Privileg Club</name><desc>addr:city=Braunschweig
+addr:country=DE
+addr:housenumber=1
+addr:postcode=38100
+addr:street=Wallstraße
+amenity=nightclub
+check_date=2024-08-22
+email=info@privileg-club.com
+name=Privileg Club
+opening_hours=Fr-Sa 23:00+; PH 23:00+
+phone=+49 531 4803104
+smoking=yes
+website=https://privileg-club.com/
+wheelchair=no
+id=node/3221771456</desc></wpt><wpt lat="53.0534465" lon="8.6291918"><name>Retro</name><desc>amenity=nightclub
+name=Retro
+smoking=no
+id=node/3268705782</desc></wpt><wpt lat="52.2608885" lon="10.5203413"><name>LULU Bar</name><desc>addr:city=Braunschweig
+addr:country=DE
+addr:housenumber=37
+addr:postcode=38100
+addr:street=Friedrich-Wilhelm-Straße
+amenity=nightclub
+name=LULU Bar
+id=node/3278388717</desc></wpt><wpt lat="53.467886" lon="7.486104"><name>Tiffany</name><desc>amenity=nightclub
+level=0
+name=Tiffany
+id=node/3621259147</desc></wpt><wpt lat="52.2506288" lon="10.5343979"><name>Stereowerk - Eventstudio</name><desc>amenity=nightclub
+name=Stereowerk - Eventstudio
+smoking=separated
+website=https://www.stereowerk.de/
+wheelchair=no
+id=node/3764153499</desc></wpt><wpt lat="51.5422919" lon="9.929173"><name>Amavi Wild</name><desc>addr:city=Göttingen
+addr:country=DE
+addr:housenumber=10
+addr:postcode=37073
+addr:street=Güterbahnhofstraße
+amenity=nightclub
+contact:phone=+49 551 63417510
+contact:website=http://amavi-pure.de/
+name=Amavi Wild
+operator=Amavi MNG GmbH
+toilets:wheelchair=no
+wheelchair=no
+id=node/3897074532</desc></wpt><wpt lat="53.3678577" lon="7.2038086"><name>Oldschool Die Diskothek</name><desc>addr:city=Emden
+addr:country=DE
+addr:housenumber=9
+addr:postcode=26721
+addr:street=Neuer Markt
+amenity=nightclub
+contact:email=info@oldschool-emden.de
+contact:phone=+49 170 9681 399
+contact:website=http://www.oldschool-emden.de/
+name=Oldschool Die Diskothek
+opening_hours=Fr,Sa 23:00+
+wheelchair=no
+id=node/3934582669</desc></wpt><wpt lat="52.2596913" lon="10.5183091"><name>42°Fieber</name><desc>addr:housenumber=3
+addr:street=Kalenwall
+amenity=nightclub
+check_date=2023-08-03
+name=42°Fieber
+wheelchair=no
+id=node/3966036639</desc></wpt><wpt lat="52.2755644" lon="8.0564099"><name>Bastard Club</name><desc>addr:city=Osnabrück
+addr:housenumber=27
+addr:postcode=49074
+addr:street=Buersche Straße
+amenity=nightclub
+contact:instagram=bastardclub
+live_music=yes
+name=Bastard Club
+smoking=isolated
+wheelchair=no
+id=node/3966155732</desc></wpt><wpt lat="53.1183724" lon="9.807252"><name>Fun House Musik &amp; mehr</name><desc>addr:city=Schneverdingen
+addr:country=DE
+addr:housenumber=59
+addr:postcode=29640
+addr:street=Freudenthalstraße
+amenity=nightclub
+name=Fun House Musik &amp; mehr
+source=survey
+id=node/4057143220</desc></wpt><wpt lat="52.2658659" lon="8.0672367"><name>Works</name><desc>amenity=nightclub
+name=Works
+id=node/4099100129</desc></wpt><wpt lat="52.2595373" lon="10.5162835"><name>Apartment 38</name><desc>amenity=nightclub
+name=Apartment 38
+id=node/4121551482</desc></wpt><wpt lat="52.2595585" lon="10.5162835"><name>Pfau</name><desc>amenity=nightclub
+name=Pfau
+id=node/4121551483</desc></wpt><wpt lat="51.5392039" lon="9.9331846"><name>EXIL</name><desc>alt_name=EXIL Rock-Music-Club
+amenity=nightclub
+contact:facebook=https://www.facebook.com/EXILGoettingen
+contact:website=https://www.exil-web.de/
+name=EXIL
+old_name=Red Carpet
+opening_hours=Mo 20:00-24:00, Tu 22:00-03:00, Fr,Sa 22:00-05:00
+operator=Bea Roth
+smoking=separated
+toilets:wheelchair=no
+wheelchair=limited
+id=node/4158045403</desc></wpt><wpt lat="52.3776176" lon="9.7326965"><name>Soundclub Hannover</name><desc>addr:city=Hannover
+addr:housenumber=8
+addr:postcode=30159
+addr:street=Goseriede
+amenity=nightclub
+name=Soundclub Hannover
+phone=+4951117649
+website=http://disco-euro.de
+id=node/4317632945</desc></wpt><wpt lat="53.2469829" lon="10.4004028"><name>Bordellgasse Hinter der Sülzmauer Lüneburg</name><desc>amenity=nightclub
+name=Bordellgasse Hinter der Sülzmauer Lüneburg
+name:de=Bordellgasse Hinter der Sülzmauer Lüneburg
+opening_hours=Mo-Su 08:00-05:00
+wheelchair=limited
+id=node/4559109098</desc></wpt><wpt lat="52.4689132" lon="10.2235132"><name>Halle 9</name><desc>amenity=nightclub
+name=Halle 9
+source=Bing
+id=node/5132949781</desc></wpt><wpt lat="52.4277375" lon="10.783613"><name>Exxit</name><desc>amenity=nightclub
+name=Exxit
+id=node/5265468798</desc></wpt><wpt lat="52.3810291" lon="9.7425853"><name>Casanova XL</name><desc>addr:city=Hannover
+addr:country=DE
+addr:housenumber=35
+addr:postcode=30161
+addr:street=Hallerstraße
+amenity=nightclub
+name=Casanova XL
+id=node/5681717073</desc></wpt><wpt lat="52.3804154" lon="9.7418649"><name>Titty Twister</name><desc>amenity=nightclub
+name=Titty Twister
+id=node/5682172733</desc></wpt><wpt lat="52.3788543" lon="9.7434662"><name>Osho</name><desc>amenity=nightclub
+name=Osho
+wheelchair=limited
+id=node/5686081673</desc></wpt><wpt lat="52.1526448" lon="9.9498194"><name>Old Inn</name><desc>addr:city=Hildesheim
+addr:housenumber=35
+addr:postcode=31134
+addr:street=Hoher Weg
+amenity=nightclub
+name=Old Inn
+opening_hours=Fr-Sa 22:00-05:00
+phone=+49 175 7389975
+website=https://old-inn.info/
+id=node/5762015951</desc></wpt><wpt lat="53.0052553" lon="9.2247766"><name>Grashoff's Tanzpalast</name><desc>amenity=nightclub
+name=Grashoff's Tanzpalast
+id=node/5774853319</desc></wpt><wpt lat="51.5499507" lon="9.9149586"><name>Musa e. V.</name><desc>addr:city=Göttingen
+addr:country=DE
+addr:housenumber=2a
+addr:postcode=37081
+addr:street=Hagenweg
+amenity=nightclub
+contact:fax=+49 551 632473
+contact:phone=+49 551 64353
+contact:website=https://www.musa.de
+email=kultur@musa.de
+name=Musa e. V.
+toilets:wheelchair=yes
+wheelchair=yes
+wheelchair:description=Aufzug vorhanden
+id=node/5887815764</desc></wpt><wpt lat="53.3499688" lon="9.2296641"><name>Kates Dirty Club</name><desc>addr:city=Seedorf
+addr:country=DE
+addr:housenumber=16
+addr:postcode=27404
+addr:street=Hauptstraße
+amenity=nightclub
+contact:phone=+49 4284 4847009
+name=Kates Dirty Club
+opening_hours=Mo-Su 20:00-06:00
+id=node/6294222431</desc></wpt><wpt lat="52.732043" lon="7.7576884"><name>Beat Klub</name><desc>addr:city=Löningen
+addr:country=DE
+addr:housenumber=3
+addr:postcode=49624
+addr:street=Angelbecker Straße
+amenity=nightclub
+name=Beat Klub
+opening_hours=Fr,Sa 23:00+
+wheelchair=no
+id=node/6632255378</desc></wpt><wpt lat="52.2684896" lon="8.0598211"><name>Brücks</name><desc>amenity=nightclub
+name=Brücks
+opening_hours=Fr-Su 16:00-23:59, Sa-Su 00:00-05:00
+operator=Brücklyn GmbH &amp; Co. KG
+id=node/6651086352</desc></wpt><wpt lat="52.2680999" lon="8.0585049"><name>Holy Poly</name><desc>addr:city=Osnabrück
+addr:housenumber=2
+addr:postcode=49084
+addr:street=Dammstraße
+amenity=nightclub
+name=Holy Poly
+id=node/6651086362</desc></wpt><wpt lat="51.726332" lon="10.2535135"><name>Check In</name><desc>addr:city=Osterode am Harz
+addr:housenumber=6-8
+addr:postcode=37520
+addr:street=Auenstraße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/Check-In-Osterode-2349098065409401/
+name=Check In
+id=node/6841460365</desc></wpt><wpt lat="52.4243966" lon="10.7748901"><name>Esplanade</name><desc>addr:city=Wolfsburg
+addr:housenumber=3
+addr:postcode=38440
+addr:street=Wielandstraße
+amenity=nightclub
+name=Esplanade
+id=node/6901211411</desc></wpt><wpt lat="52.1199506" lon="9.9034321"><name>Dark Secrets Hildesheim e.V.</name><desc>addr:city=Hildesheim
+addr:housenumber=170
+addr:postcode=31139
+addr:street=Robert-Bosch-Straße
+amenity=nightclub
+email=kontakt@ds-ev.de
+min_age=18
+name=Dark Secrets Hildesheim e.V.
+website=https://ds-ev.de/
+id=node/7042187990</desc></wpt><wpt lat="52.4327253" lon="9.7201445"><name>Pi32</name><desc>addr:city=Langenhagen
+addr:country=DE
+addr:housenumber=32
+addr:postcode=30851
+addr:street=Hans-Böckler-Straße
+amenity=nightclub
+min_age=18
+name=Pi32
+operator=DDD3 UG (haftungsbeschränkt)
+phone=+49 511 22829494
+smoking=separated
+website=https://www.pi32.de/
+id=node/7141776249</desc></wpt><wpt lat="53.2474112" lon="10.4035719"><name>Salon Hansen</name><desc>amenity=nightclub
+name=Salon Hansen
+website=https://salonhansen.com/
+id=node/7177745220</desc></wpt><wpt lat="53.5743865" lon="9.3266516"><name>Musikladen</name><desc>addr:housenumber=12
+addr:street=Dorfstraße
+amenity=nightclub
+name=Musikladen
+opening_hours=Fr,Sa 18:00-06:00
+id=node/7255021486</desc></wpt><wpt lat="52.2285567" lon="8.2984709"><name>Saloon</name><desc>addr:city=Melle
+addr:housenumber=14
+addr:postcode=49324
+addr:street=Gelbe Riede
+amenity=nightclub
+name=Saloon
+website=https://saloon-melle.de/
+id=node/8279896859</desc></wpt><wpt lat="53.4110707" lon="7.7293995"><name>MK 1</name><desc>amenity=nightclub
+name=MK 1
+id=node/8409091632</desc></wpt><wpt lat="52.4196508" lon="7.8313334"><name>Extra Danceclub</name><desc>amenity=nightclub
+name=Extra Danceclub
+website=https://fb.danceclub-extra.de/fb_miet_mich.html
+id=node/8692678117</desc></wpt><wpt lat="53.3398165" lon="8.1132737"><name>node/9183744179</name><desc>amenity=nightclub
+id=node/9183744179</desc></wpt><wpt lat="52.9571316" lon="11.1734166"><name>Event Park “Blaue Halle“</name><desc>amenity=nightclub
+name=Event Park “Blaue Halle“
+wheelchair=limited
+id=node/9202317304</desc></wpt><wpt lat="53.1841227" lon="8.0063123"><name>Mark 1</name><desc>addr:city=Bad Zwischenahn
+addr:country=DE
+addr:housenumber=4
+addr:postcode=26160
+addr:street=Bahnhofstraße
+amenity=nightclub
+name=Mark 1
+id=node/9998844439</desc></wpt><wpt lat="53.1843195" lon="8.0059681"><name>Zinnlöffel</name><desc>addr:city=Bad Zwischenahn
+addr:country=DE
+addr:housenumber=25
+addr:postcode=26160
+addr:street=Peterstraße
+amenity=nightclub
+level=-1
+name=Zinnlöffel
+id=node/9998845449</desc></wpt><wpt lat="53.8856911" lon="8.6409622"><name>Paulaner Keller</name><desc>amenity=nightclub
+name=Paulaner Keller
+wheelchair=no
+id=node/10591331965</desc></wpt><wpt lat="53.1411329" lon="8.2217227"><name>EX² Party &amp; Events</name><desc>addr:city=Oldenburg
+addr:country=DE
+addr:housenumber=39-41
+addr:postcode=26122
+addr:street=Stau
+amenity=nightclub
+email=info@partyraum-oldenburg.de
+mobile=0162 / 300 76 57
+name=EX² Party &amp; Events
+operator=René Johan Burgsma
+website=https://partyraum-oldenburg.de/
+wheelchair=no
+id=node/10739183510</desc></wpt><wpt lat="52.2733063" lon="8.0591715"><name>Darknet</name><desc>addr:city=Osnabrück
+addr:housenumber=3-4
+addr:postcode=49074
+addr:street=Theodor-Heuss-Platz
+amenity=nightclub
+check_date=2025-01-28
+check_date:opening_hours=2025-01-28
+name=Darknet
+opening_hours:signed=no
+start_date=2023-06-03
+id=node/10940396050</desc></wpt><wpt lat="52.3358131" lon="9.3783928"><name>Tanzlokal Salsa</name><desc>amenity=nightclub
+name=Tanzlokal Salsa
+id=node/11149596141</desc></wpt><wpt lat="52.3824992" lon="9.725254"><name>KLUB Pan</name><desc>addr:city=Hannover
+addr:country=DE
+addr:housenumber=7
+addr:postcode=30167
+addr:street=Engelbosteler Damm
+amenity=nightclub
+contact:facebook=pan.hannover
+contact:instagram=pan.hannover
+email=support@klubpan.com
+min_age=18
+name=KLUB Pan
+website=https://klubpan.com
+id=node/11351241075</desc></wpt><wpt lat="51.906453" lon="10.4257923"><name>Flames</name><desc>addr:city=Goslar
+addr:postcode=38640
+addr:street=Marstallstraße
+amenity=nightclub
+name=Flames
+wheelchair=limited
+id=node/11687222821</desc></wpt><wpt lat="53.5816259" lon="9.492158"><name>Metropol</name><desc>amenity=nightclub
+name=Metropol
+id=node/11971841531</desc></wpt><wpt lat="52.4237086" lon="10.7851923"><name>K Four</name><desc>amenity=nightclub
+name=K Four
+opening_hours=Fr,Sa 23:00-06:00
+id=node/12060904228</desc></wpt><wpt lat="53.4737336" lon="7.4778767"><name>Halle 1 Jugendzentrum Schlachthof</name><desc>amenity=nightclub
+name=Halle 1 Jugendzentrum Schlachthof
+id=node/12062737439</desc></wpt><wpt lat="52.3797554" lon="9.7438106"><name>BAILOTECA</name><desc>addr:housenumber=1
+addr:postcode=30161
+addr:street=Lister Meile
+amenity=nightclub
+name=BAILOTECA
+opening_hours=Fr 21:00-04:00; Sa 23:00-05:00
+website=https://www.bailoteca.de/
+id=node/12393742201</desc></wpt><wpt lat="53.5199027" lon="8.1122037"><name>Down Town</name><desc>amenity=nightclub
+min_age=18
+name=Down Town
+opening_hours=Mo,Fr,Sa 23:00+
+id=node/12469336632</desc></wpt><wpt lat="52.2643529" lon="10.526082"><name>nice to be nice</name><desc>amenity=nightclub
+level=1
+name=nice to be nice
+id=node/12599107607</desc></wpt><trk><name>Arena</name><desc>addr:city=Ritterhude
+addr:country=DE
+addr:housenumber=59
+addr:postcode=27721
+addr:street=Ihlpohler Heerstraße
+amenity=nightclub
+building=yes
+designation=DISCO
+name=Arena
+website=http://disco-arena.de
+id=way/27337839</desc><trkseg><trkpt lat="53.1866724" lon="8.7056815"/><trkpt lat="53.1865584" lon="8.705758"/><trkpt lat="53.1865422" lon="8.7056904"/><trkpt lat="53.1864664" lon="8.7057412"/><trkpt lat="53.1864844" lon="8.7058162"/><trkpt lat="53.186245" lon="8.7059768"/><trkpt lat="53.1863167" lon="8.7062745"/><trkpt lat="53.186359" lon="8.7062461"/><trkpt lat="53.1863974" lon="8.7064054"/><trkpt lat="53.1865329" lon="8.7063145"/><trkpt lat="53.1865529" lon="8.7063977"/><trkpt lat="53.1866893" lon="8.7063062"/><trkpt lat="53.1866732" lon="8.7062393"/><trkpt lat="53.1867882" lon="8.7061621"/><trkpt lat="53.1866724" lon="8.7056815"/></trkseg></trk><trk><name>Amadeus</name><desc>amenity=nightclub
+building=yes
+name=Amadeus
+toilets:wheelchair=no
+wheelchair=limited
+id=way/34283790</desc><trkseg><trkpt lat="53.1409144" lon="8.2124323"/><trkpt lat="53.1408798" lon="8.2124533"/><trkpt lat="53.1409233" lon="8.2127319"/><trkpt lat="53.140999" lon="8.2127054"/><trkpt lat="53.1409587" lon="8.2124181"/><trkpt lat="53.1409144" lon="8.2124323"/></trkseg></trk><trk><name>Polyester</name><desc>addr:city=Oldenburg
+addr:country=DE
+addr:housenumber=15
+addr:postcode=26121
+addr:street=Am Stadtmuseum
+amenity=nightclub
+building=yes
+building:colour=#AB8061
+height=12
+name=Polyester
+roof:material=tar_paper
+roof:shape=flat
+wheelchair=yes
+id=way/34569984</desc><trkseg><trkpt lat="53.1447997" lon="8.2139592"/><trkpt lat="53.1447557" lon="8.2139376"/><trkpt lat="53.1446984" lon="8.2139094"/><trkpt lat="53.1446827" lon="8.2140037"/><trkpt lat="53.1446668" lon="8.2140992"/><trkpt lat="53.1447753" lon="8.2141249"/><trkpt lat="53.1447823" lon="8.2140854"/><trkpt lat="53.1447876" lon="8.2140552"/><trkpt lat="53.1448042" lon="8.2139615"/><trkpt lat="53.1447997" lon="8.2139592"/></trkseg></trk><trk><name>Hyde Park</name><desc>addr:city=Osnabrück
+addr:housenumber=128
+addr:postcode=49090
+addr:street=Fürstenauer Weg
+amenity=nightclub
+building=yes
+building:levels=1
+building:material=metal
+contact:website=http://www.hyde-park.de
+name=Hyde Park
+name:ar=بار
+opening_hours=Fr,Sa,PH 22:00-05:00+
+roof:material=metal
+roof:shape=pyramidal
+wheelchair=yes
+wikidata=Q1499869
+wikipedia=de:Hyde Park (Osnabrück)
+id=way/34990965</desc><trkseg><trkpt lat="52.3114636" lon="8.0156383"/><trkpt lat="52.3113382" lon="8.0154001"/><trkpt lat="52.3113173" lon="8.0153604"/><trkpt lat="52.3112534" lon="8.0153524"/><trkpt lat="52.3111633" lon="8.0154726"/><trkpt lat="52.3110845" lon="8.0155777"/><trkpt lat="52.3110782" lon="8.0157054"/><trkpt lat="52.3112157" lon="8.0159774"/><trkpt lat="52.3112845" lon="8.0159878"/><trkpt lat="52.3113211" lon="8.0159362"/><trkpt lat="52.3114299" lon="8.0157868"/><trkpt lat="52.3114582" lon="8.0157488"/><trkpt lat="52.3114636" lon="8.0156383"/></trkseg></trk><trk><name>Alando Palais</name><desc>addr:city=Osnabrück
+addr:housenumber=60
+addr:postcode=49074
+addr:street=Pottgraben
+amenity=nightclub
+building=yes
+check_date=2025-01-25
+name=Alando Palais
+old_name=Pottgrabenbad
+wheelchair=limited
+id=way/35872359</desc><trkseg><trkpt lat="52.2712728" lon="8.0556787"/><trkpt lat="52.2710216" lon="8.0558138"/><trkpt lat="52.2710349" lon="8.0558801"/><trkpt lat="52.2709875" lon="8.0559055"/><trkpt lat="52.270953" lon="8.0559241"/><trkpt lat="52.2709975" lon="8.0561446"/><trkpt lat="52.271065" lon="8.0564798"/><trkpt lat="52.2711074" lon="8.0566902"/><trkpt lat="52.2711872" lon="8.0566472"/><trkpt lat="52.2712075" lon="8.0567477"/><trkpt lat="52.2713067" lon="8.0566943"/><trkpt lat="52.2714656" lon="8.0566088"/><trkpt lat="52.2714468" lon="8.0565152"/><trkpt lat="52.2714635" lon="8.0565062"/><trkpt lat="52.2713538" lon="8.0559615"/><trkpt lat="52.2714472" lon="8.0559112"/><trkpt lat="52.2714" lon="8.0556772"/><trkpt lat="52.2712849" lon="8.0557391"/><trkpt lat="52.2712784" lon="8.0557068"/><trkpt lat="52.2712728" lon="8.0556787"/></trkseg></trk><trk><name>5 Elements</name><desc>addr:city=Wildeshausen
+addr:country=DE
+addr:housenumber=7
+addr:postcode=27793
+addr:street=Am Umspannwerk
+amenity=nightclub
+building=yes
+name=5 Elements
+phone=+49 4431 7396 789
+website=https://www.5ive-elements.de/
+wheelchair=limited
+id=way/45129854</desc><trkseg><trkpt lat="52.8877212" lon="8.4162566"/><trkpt lat="52.8876016" lon="8.4159561"/><trkpt lat="52.8875489" lon="8.4160096"/><trkpt lat="52.8874765" lon="8.4158087"/><trkpt lat="52.8871723" lon="8.4161091"/><trkpt lat="52.8872758" lon="8.4164096"/><trkpt lat="52.8871982" lon="8.4164847"/><trkpt lat="52.8872783" lon="8.416714"/><trkpt lat="52.8877212" lon="8.4162566"/></trkseg></trk><trk><name>bad Kultur Pool e.V.</name><desc>abandoned=yes
+addr:city=Hannover
+addr:country=DE
+addr:housenumber=60
+addr:postcode=30167
+addr:street=Am Großen Garten
+amenity=nightclub
+building=yes
+name=bad Kultur Pool e.V.
+source:geometry=HiRes aerial imagery
+wikidata=Q67181584
+wikimedia_commons=Category:Musiktheater Bad (Hannover)
+id=way/49493395</desc><trkseg><trkpt lat="52.3852603" lon="9.689576"/><trkpt lat="52.3851381" lon="9.6896334"/><trkpt lat="52.3851791" lon="9.6898679"/><trkpt lat="52.3852039" lon="9.6900095"/><trkpt lat="52.3853261" lon="9.6899521"/><trkpt lat="52.3852603" lon="9.689576"/></trkseg></trk><trk><name>Nachtschicht</name><desc>addr:city=Goslar
+addr:country=DE
+addr:housenumber=1b
+addr:postcode=38644
+addr:street=Carl-Zeiß-Straße
+amenity=nightclub
+building=yes
+check_date=2024-01-11
+name=Nachtschicht
+note=Betrieb soll Ende 2024 eingestellt werden
+operator=Goslar Discotheken Verpachtungs GmbH
+roof:orientation=along
+roof:shape=gabled
+website=https://www.nachtschichtgoslar.de
+id=way/80250303</desc><trkseg><trkpt lat="51.9319897" lon="10.4088171"/><trkpt lat="51.931761" lon="10.4088417"/><trkpt lat="51.9317853" lon="10.409436"/><trkpt lat="51.932014" lon="10.4094114"/><trkpt lat="51.9319897" lon="10.4088171"/></trkseg></trk><trk><name>Discothek Check-Point</name><desc>addr:city=Duingen
+addr:housenumber=1
+addr:postcode=31089
+addr:street=Hohe Warte
+addr:suburb=Hohenbüchen
+amenity=nightclub
+building=yes
+name=Discothek Check-Point
+website=http://www.cpalfeld.de/
+wheelchair=limited
+id=way/86862047</desc><trkseg><trkpt lat="51.980642" lon="9.7457175"/><trkpt lat="51.9805448" lon="9.7456783"/><trkpt lat="51.9805053" lon="9.7459363"/><trkpt lat="51.9804137" lon="9.7458994"/><trkpt lat="51.980397" lon="9.7460083"/><trkpt lat="51.9803781" lon="9.7461317"/><trkpt lat="51.9805669" lon="9.7462079"/><trkpt lat="51.980642" lon="9.7457175"/></trkseg></trk><trk><name>Metas Musikschuppen</name><desc>addr:city=Norden
+addr:country=DE
+addr:housenumber=10
+addr:postcode=26506
+addr:street=Deichstraße
+amenity=nightclub
+building=yes
+building:levels=1
+name=Metas Musikschuppen
+name:etymology:wikidata=Q1924682
+name:etymology:wikipedia=de:Meta Rogall
+opening_hours=Fr,Sa 22:00-02:00
+operator=Sven Rogall
+roof:levels=1
+roof:shape=gabled
+source=bing
+website=http://www.metas-musikschuppen.de/
+wheelchair=limited
+id=way/87396649</desc><trkseg><trkpt lat="53.6141673" lon="7.1505102"/><trkpt lat="53.6141505" lon="7.1505464"/><trkpt lat="53.6140879" lon="7.1506813"/><trkpt lat="53.614158" lon="7.1507738"/><trkpt lat="53.6142374" lon="7.1506027"/><trkpt lat="53.6141673" lon="7.1505102"/></trkseg></trk><trk><name>Limit</name><desc>addr:city=Westoverledingen
+addr:country=DE
+addr:housenumber=5
+addr:postcode=26810
+addr:street=Dieselstraße
+amenity=nightclub
+building=yes
+name=Limit
+wheelchair=yes
+id=way/93186923</desc><trkseg><trkpt lat="53.1719325" lon="7.4684028"/><trkpt lat="53.1718179" lon="7.4687319"/><trkpt lat="53.1719763" lon="7.4688856"/><trkpt lat="53.172091" lon="7.4685564"/><trkpt lat="53.1719325" lon="7.4684028"/></trkseg></trk><trk><name>Venus Club</name><desc>addr:housenumber=5
+addr:street=Beim Alten Flugplatz
+amenity=nightclub
+building=yes
+name=Venus Club
+id=way/97249398</desc><trkseg><trkpt lat="52.7215797" lon="8.2700152"/><trkpt lat="52.7214931" lon="8.2700676"/><trkpt lat="52.7214855" lon="8.2700722"/><trkpt lat="52.7215031" lon="8.2701515"/><trkpt lat="52.7214777" lon="8.2701669"/><trkpt lat="52.7215402" lon="8.2704489"/><trkpt lat="52.7215703" lon="8.2704308"/><trkpt lat="52.721588" lon="8.2705111"/><trkpt lat="52.7216962" lon="8.2704458"/><trkpt lat="52.7216663" lon="8.270311"/><trkpt lat="52.7216861" lon="8.2702991"/><trkpt lat="52.7216524" lon="8.2701468"/><trkpt lat="52.7216345" lon="8.2701576"/><trkpt lat="52.721618" lon="8.2700833"/><trkpt lat="52.7215976" lon="8.2700956"/><trkpt lat="52.7215797" lon="8.2700152"/></trkseg></trk><trk><name>Eventcenter Remembe, Mausefaller Pewsum</name><desc>addr:city=Krummhörn
+addr:country=DE
+addr:housenumber=6
+addr:postcode=26736
+addr:street=Handelsstraße
+amenity=nightclub
+building=yes
+contact:facebook=https://www.facebook.com/people/Remember-Pewsum/100063486176579/
+name=Eventcenter Remembe, Mausefaller Pewsum
+phone=+49 170 7719069
+website=https://pewsumer-purzelbaum.de/
+id=way/105441518</desc><trkseg><trkpt lat="53.4270181" lon="7.1078352"/><trkpt lat="53.42684" lon="7.1077742"/><trkpt lat="53.4267627" lon="7.1084485"/><trkpt lat="53.4269424" lon="7.1085198"/><trkpt lat="53.4270181" lon="7.1078352"/></trkseg></trk><trk><name>NAAVA Club</name><desc>addr:city=Melle
+addr:housenumber=7
+addr:postcode=49324
+addr:street=Industriestraße
+amenity=nightclub
+building=commercial
+name=NAAVA Club
+website=https://www.naava.de/
+id=way/106580699</desc><trkseg><trkpt lat="52.193064" lon="8.3540704"/><trkpt lat="52.192915" lon="8.3547817"/><trkpt lat="52.193154" lon="8.3549149"/><trkpt lat="52.1931888" lon="8.3547492"/><trkpt lat="52.1932675" lon="8.3547931"/><trkpt lat="52.1933818" lon="8.3542475"/><trkpt lat="52.193064" lon="8.3540704"/></trkseg></trk><trk><name>Jolly Time</name><desc>addr:city=Braunschweig
+addr:country=DE
+addr:housenumber=220
+addr:postcode=38118
+addr:street=Broitzemer Straße
+amenity=nightclub
+building=yes
+building:levels=2
+name=Jolly Time
+operator=Tunc Events GmbH
+website=https://www.jollytime38.de
+id=way/106698929</desc><trkseg><trkpt lat="52.256677" lon="10.4994457"/><trkpt lat="52.256619" lon="10.4992608"/><trkpt lat="52.2565106" lon="10.4992372"/><trkpt lat="52.2563994" lon="10.4993872"/><trkpt lat="52.2562998" lon="10.4995215"/><trkpt lat="52.2561425" lon="10.4997336"/><trkpt lat="52.2562379" lon="10.4999226"/><trkpt lat="52.2562725" lon="10.499991"/><trkpt lat="52.256677" lon="10.4994457"/></trkseg></trk><trk><name>Discotheque INDEX</name><desc>addr:city=Schüttorf
+addr:country=DE
+addr:housenumber=10
+addr:postcode=48465
+addr:street=Industriestraße
+amenity=nightclub
+building=yes
+name=Discotheque INDEX
+phone=+49 5923 4240
+website=https://www.i-n-d-e-x.de/
+id=way/111251194</desc><trkseg><trkpt lat="52.3335918" lon="7.2468891"/><trkpt lat="52.3334216" lon="7.2475126"/><trkpt lat="52.3340956" lon="7.2480054"/><trkpt lat="52.3342618" lon="7.2473966"/><trkpt lat="52.3340566" lon="7.2472466"/><trkpt lat="52.3340046" lon="7.2472791"/><trkpt lat="52.3339551" lon="7.2470674"/><trkpt lat="52.3339705" lon="7.247011"/><trkpt lat="52.3339261" lon="7.2469785"/><trkpt lat="52.3339079" lon="7.2470451"/><trkpt lat="52.3338679" lon="7.2470159"/><trkpt lat="52.3338082" lon="7.2470532"/><trkpt lat="52.3337821" lon="7.2470341"/><trkpt lat="52.3337636" lon="7.247102"/><trkpt lat="52.333739" lon="7.2469967"/><trkpt lat="52.3335918" lon="7.2468891"/></trkseg></trk><trk><name>Discothek Sound</name><desc>addr:city=Alfeld (Leine)
+addr:country=DE
+addr:housenumber=49
+addr:postcode=31061
+addr:street=Hannoversche Straße
+amenity=nightclub
+building=yes
+name=Discothek Sound
+phone=+49 1755021346
+website=https://www.soundalfeld.de/
+id=way/119238389</desc><trkseg><trkpt lat="51.9850101" lon="9.808444"/><trkpt lat="51.9848716" lon="9.808303"/><trkpt lat="51.9847822" lon="9.8085344"/><trkpt lat="51.9849207" lon="9.8086753"/><trkpt lat="51.9850101" lon="9.808444"/></trkseg></trk><trk><name>Laut Klub / KuK-BS e.V.</name><desc>addr:city=Braunschweig
+addr:country=DE
+addr:housenumber=36
+addr:postcode=38114
+addr:street=Hamburger Straße
+amenity=nightclub
+building=yes
+contact:facebook=https://www.facebook.com/Lautklub/
+contact:instagram=https://www.instagram.com/lautklub/
+contact:soundcloud=https://soundcloud.com/lautklubbs
+email=kuk-bs@web.de
+min_age=18
+name=Laut Klub / KuK-BS e.V.
+opening_hours=Su 00:00-08:00
+operator=KuK-BS e.V.
+phone=+49 531 28761028
+smoking=outside
+website=https://lautklub.de
+id=way/120196218</desc><trkseg><trkpt lat="52.2799012" lon="10.5177326"/><trkpt lat="52.2796022" lon="10.5177187"/><trkpt lat="52.2796022" lon="10.5177349"/><trkpt lat="52.2796006" lon="10.518372"/><trkpt lat="52.2799314" lon="10.5183618"/><trkpt lat="52.2799695" lon="10.5183606"/><trkpt lat="52.279969" lon="10.5182998"/><trkpt lat="52.279967" lon="10.5180332"/><trkpt lat="52.2799011" lon="10.5180346"/><trkpt lat="52.2799014" lon="10.5178647"/><trkpt lat="52.2799012" lon="10.5177326"/></trkseg></trk><trk><name>Discothek Galaxy</name><desc>addr:city=Südbrookmerland
+addr:country=DE
+addr:housenumber=11
+addr:postcode=26624
+addr:street=Gewerbestraße
+amenity=nightclub
+building=yes
+name=Discothek Galaxy
+smoking=isolated
+id=way/123846155</desc><trkseg><trkpt lat="53.4697426" lon="7.3097566"/><trkpt lat="53.4692679" lon="7.3103754"/><trkpt lat="53.4694519" lon="7.3107739"/><trkpt lat="53.4695739" lon="7.3106149"/><trkpt lat="53.4695087" lon="7.3104737"/><trkpt lat="53.4698614" lon="7.3100139"/><trkpt lat="53.4697426" lon="7.3097566"/></trkseg></trk><trk><name>K2 Nachtstudio</name><desc>addr:housenumber=38
+addr:street=Soltauer Straße
+amenity=nightclub
+building=yes
+name=K2 Nachtstudio
+phone=+49 5192 2241
+website=http://www.k2-munster.de
+id=way/124483913</desc><trkseg><trkpt lat="52.994375" lon="10.072959"/><trkpt lat="52.9943969" lon="10.072914"/><trkpt lat="52.9943346" lon="10.0728301"/><trkpt lat="52.9943138" lon="10.0728728"/><trkpt lat="52.9942581" lon="10.0727979"/><trkpt lat="52.9942172" lon="10.0728817"/><trkpt lat="52.9942025" lon="10.0728619"/><trkpt lat="52.9941261" lon="10.0730187"/><trkpt lat="52.9942119" lon="10.0731341"/><trkpt lat="52.9941833" lon="10.0731927"/><trkpt lat="52.9942309" lon="10.0732567"/><trkpt lat="52.994251" lon="10.0732154"/><trkpt lat="52.9942841" lon="10.07326"/><trkpt lat="52.9943468" lon="10.0731315"/><trkpt lat="52.9943316" lon="10.073111"/><trkpt lat="52.9943936" lon="10.072984"/><trkpt lat="52.994375" lon="10.072959"/></trkseg></trk><trk><name>Disco Thun</name><desc>addr:city=Südbrookmerland
+addr:country=DE
+addr:housenumber=44
+addr:postcode=26624
+addr:street=Moorhuser Dorfstraße
+amenity=nightclub
+building=yes
+name=Disco Thun
+wheelchair=no
+id=way/132699613</desc><trkseg><trkpt lat="53.5152421" lon="7.3526827"/><trkpt lat="53.5152821" lon="7.3526399"/><trkpt lat="53.5152924" lon="7.352562"/><trkpt lat="53.5152669" lon="7.3524947"/><trkpt lat="53.5152206" lon="7.3524774"/><trkpt lat="53.5151806" lon="7.3525202"/><trkpt lat="53.5151703" lon="7.3525981"/><trkpt lat="53.5151958" lon="7.3526654"/><trkpt lat="53.5151274" lon="7.3529476"/><trkpt lat="53.5153254" lon="7.3529504"/><trkpt lat="53.5156124" lon="7.3527645"/><trkpt lat="53.5155564" lon="7.3524704"/><trkpt lat="53.5153353" lon="7.3525842"/><trkpt lat="53.5153303" lon="7.3526536"/><trkpt lat="53.5152957" lon="7.3527201"/><trkpt lat="53.5152429" lon="7.3527562"/><trkpt lat="53.5152421" lon="7.3526827"/></trkseg></trk><trk><name>Nachtschicht Schortens</name><desc>addr:city=Schortens
+addr:housenumber=2
+addr:postcode=26419
+addr:street=Schooster Straße
+amenity=nightclub
+building=yes
+loc_name=Dörp
+name=Nachtschicht Schortens
+old_name=in't Dörp
+toilets:wheelchair=no
+wheelchair=limited
+id=way/144080439</desc><trkseg><trkpt lat="53.5278885" lon="7.944022"/><trkpt lat="53.5277982" lon="7.9440958"/><trkpt lat="53.5277713" lon="7.9441923"/><trkpt lat="53.5277664" lon="7.9447471"/><trkpt lat="53.5278642" lon="7.9447451"/><trkpt lat="53.5283319" lon="7.9446057"/><trkpt lat="53.5283266" lon="7.9445192"/><trkpt lat="53.5281922" lon="7.9445652"/><trkpt lat="53.5281788" lon="7.9444833"/><trkpt lat="53.5279551" lon="7.944548"/><trkpt lat="53.5278885" lon="7.944022"/></trkseg></trk><trk><name>Mark4</name><desc>addr:city=Zetel
+addr:country=DE
+addr:postcode=26340
+addr:street=Hauptstraße
+amenity=nightclub
+building=yes
+name=Mark4
+website=http://www.mark4-zetel.de/
+wheelchair=limited
+id=way/153384879</desc><trkseg><trkpt lat="53.4192651" lon="7.9730822"/><trkpt lat="53.4193812" lon="7.9730945"/><trkpt lat="53.4193776" lon="7.9731714"/><trkpt lat="53.4193364" lon="7.9731687"/><trkpt lat="53.4193321" lon="7.9732944"/><trkpt lat="53.4194295" lon="7.9732995"/><trkpt lat="53.4194331" lon="7.9732646"/><trkpt lat="53.4196234" lon="7.9733127"/><trkpt lat="53.4196373" lon="7.9731342"/><trkpt lat="53.4196514" lon="7.9731353"/><trkpt lat="53.4196708" lon="7.9727315"/><trkpt lat="53.4195126" lon="7.9727201"/><trkpt lat="53.4195142" lon="7.9726698"/><trkpt lat="53.4194807" lon="7.9726685"/><trkpt lat="53.4194799" lon="7.9726236"/><trkpt lat="53.4194954" lon="7.972625"/><trkpt lat="53.4194969" lon="7.9725527"/><trkpt lat="53.4194467" lon="7.9725472"/><trkpt lat="53.4194435" lon="7.9725667"/><trkpt lat="53.4193348" lon="7.9725254"/><trkpt lat="53.4192825" lon="7.9728348"/><trkpt lat="53.4192651" lon="7.9730822"/></trkseg></trk><trk><name>Eventcenter ZAK</name><desc>addr:city=Uelsen
+addr:housenumber=14
+addr:postcode=49843
+addr:street=Rudolf-Diesel-Straße
+amenity=nightclub
+building=yes
+contact:email=frank@zak-disco.de
+contact:facebook=https://www.facebook.com/Eventcenter.ZAK
+contact:phone=+49 5942 95090
+contact:phone2=+49 5921 728640
+contact:website=https://www.zak-uelsen.com
+name=Eventcenter ZAK
+wheelchair=no
+id=way/154842142</desc><trkseg><trkpt lat="52.5032185" lon="6.8737726"/><trkpt lat="52.5031998" lon="6.8740259"/><trkpt lat="52.5032156" lon="6.874029"/><trkpt lat="52.5031776" lon="6.874542"/><trkpt lat="52.5032004" lon="6.8745466"/><trkpt lat="52.5031958" lon="6.8746083"/><trkpt lat="52.5035891" lon="6.8746866"/><trkpt lat="52.503605" lon="6.8744709"/><trkpt lat="52.5036472" lon="6.8744793"/><trkpt lat="52.5036569" lon="6.8743475"/><trkpt lat="52.5036211" lon="6.8743404"/><trkpt lat="52.5036451" lon="6.8740162"/><trkpt lat="52.5034289" lon="6.8739731"/><trkpt lat="52.5034462" lon="6.8737386"/><trkpt lat="52.503289" lon="6.8737072"/><trkpt lat="52.5032864" lon="6.8737422"/><trkpt lat="52.5032595" lon="6.8737368"/><trkpt lat="52.5032563" lon="6.8737802"/><trkpt lat="52.5032185" lon="6.8737726"/></trkseg></trk><trk><name>Black7Station</name><desc>addr:city=Schüttorf
+addr:country=DE
+addr:housenumber=1
+addr:postcode=48465
+addr:street=Narzissenstraße
+amenity=nightclub
+building=yes
+name=Black7Station
+operator=Rocking-Machine e.V.
+website=http://www.black7station.de/
+id=way/157926813</desc><trkseg><trkpt lat="52.3172876" lon="7.2225589"/><trkpt lat="52.3172148" lon="7.221963"/><trkpt lat="52.3170917" lon="7.2220033"/><trkpt lat="52.3171645" lon="7.2225992"/><trkpt lat="52.3171939" lon="7.2225896"/><trkpt lat="52.3172876" lon="7.2225589"/></trkseg></trk><trk><name>Diskothek Flash</name><desc>addr:city=Quakenbrück
+addr:country=DE
+addr:housename=Diskothek Flash
+addr:housenumber=59
+addr:postcode=49610
+addr:street=Wilhelmstraße
+amenity=nightclub
+building=yes
+contact:email=impressum@discothek-flash.de
+contact:phone=+49 5431 4441
+contact:website=https://www.discothek-flash.de
+name=Diskothek Flash
+id=way/159295800</desc><trkseg><trkpt lat="52.6699961" lon="7.9485493"/><trkpt lat="52.6699913" lon="7.9491531"/><trkpt lat="52.6701175" lon="7.949155"/><trkpt lat="52.6702727" lon="7.9491592"/><trkpt lat="52.6703654" lon="7.9491612"/><trkpt lat="52.6703664" lon="7.9490346"/><trkpt lat="52.6703702" lon="7.9485574"/><trkpt lat="52.6699961" lon="7.9485493"/></trkseg></trk><trk><name>Disco Bel Air</name><desc>addr:city=Cloppenburg
+addr:country=DE
+addr:housenumber=43-47
+addr:postcode=49661
+addr:street=Industriezubringer
+amenity=nightclub
+building=yes
+contact:email=impressum@disco-bel-air.de
+contact:phone=+49 4471 84342
+contact:website=https://www.disco-bel-air.de/
+designation=Discothek
+name=Disco Bel Air
+id=way/161077238</desc><trkseg><trkpt lat="52.8509357" lon="8.0832572"/><trkpt lat="52.8510625" lon="8.08328"/><trkpt lat="52.8510683" lon="8.0831923"/><trkpt lat="52.851134" lon="8.0832041"/><trkpt lat="52.8511734" lon="8.0826031"/><trkpt lat="52.8509809" lon="8.0825685"/><trkpt lat="52.8509357" lon="8.0832572"/></trkseg></trk><trk><name>Downtown Ü35 Diskothek</name><desc>addr:city=Oldenburg
+addr:housenumber=50
+addr:postcode=26123
+addr:street=Donnerschweer Straße
+amenity=nightclub
+building=yes
+name=Downtown Ü35 Diskothek
+id=way/209621197</desc><trkseg><trkpt lat="53.1469289" lon="8.2194558"/><trkpt lat="53.1468113" lon="8.2195382"/><trkpt lat="53.1468401" lon="8.2196867"/><trkpt lat="53.146775" lon="8.2197431"/><trkpt lat="53.1467954" lon="8.219805"/><trkpt lat="53.1469315" lon="8.2196901"/><trkpt lat="53.1469311" lon="8.2196593"/><trkpt lat="53.1469472" lon="8.2196588"/><trkpt lat="53.1469453" lon="8.2194836"/><trkpt lat="53.1469292" lon="8.219484"/><trkpt lat="53.1469289" lon="8.2194558"/></trkseg></trk><trk><name>Gentleman Bar</name><desc>addr:city=Leer
+addr:country=DE
+addr:housenumber=18
+addr:postcode=26789
+addr:street=Eichendorffstraße
+amenity=nightclub
+building=house
+building:levels=1
+name=Gentleman Bar
+roof:levels=1
+id=way/233202331</desc><trkseg><trkpt lat="53.2400273" lon="7.4909459"/><trkpt lat="53.2399631" lon="7.4910288"/><trkpt lat="53.2401097" lon="7.4913459"/><trkpt lat="53.2401739" lon="7.491263"/><trkpt lat="53.2400273" lon="7.4909459"/></trkseg></trk><trk><name>Joker</name><desc>addr:city=Lingen (Ems)
+addr:country=DE
+addr:housenumber=20
+addr:postcode=49809
+addr:street=Schwarzer Weg
+amenity=nightclub
+building=yes
+name=Joker
+toilets:wheelchair=no
+wheelchair=limited
+id=way/248583933</desc><trkseg><trkpt lat="52.5394142" lon="7.3340757"/><trkpt lat="52.5396706" lon="7.3342111"/><trkpt lat="52.5396921" lon="7.3341012"/><trkpt lat="52.5397222" lon="7.3341171"/><trkpt lat="52.5397462" lon="7.3339943"/><trkpt lat="52.5397925" lon="7.3340188"/><trkpt lat="52.539803" lon="7.3339653"/><trkpt lat="52.5397587" lon="7.3339419"/><trkpt lat="52.539784" lon="7.3338126"/><trkpt lat="52.5391706" lon="7.3334885"/><trkpt lat="52.5391134" lon="7.3337814"/><trkpt lat="52.5392229" lon="7.3338393"/><trkpt lat="52.5391997" lon="7.3339578"/><trkpt lat="52.53929" lon="7.3340055"/><trkpt lat="52.5392887" lon="7.3340169"/><trkpt lat="52.5393149" lon="7.3340932"/><trkpt lat="52.5393651" lon="7.3341246"/><trkpt lat="52.5394142" lon="7.3340757"/></trkseg></trk><trk><name>Welcome Kultraum</name><desc>addr:city=Bispingen
+addr:country=DE
+addr:housenumber=8a
+addr:postcode=29646
+addr:street=Dorfstraße
+addr:suburb=Hützel
+amenity=nightclub
+building=yes
+name=Welcome Kultraum
+source=survey
+website=https://welcome-huetzel.de/
+id=way/252790028</desc><trkseg><trkpt lat="53.0971836" lon="10.0283383"/><trkpt lat="53.0973131" lon="10.0285482"/><trkpt lat="53.0973354" lon="10.0285101"/><trkpt lat="53.0973692" lon="10.0285649"/><trkpt lat="53.09741" lon="10.0284952"/><trkpt lat="53.0973759" lon="10.02844"/><trkpt lat="53.0974031" lon="10.0283935"/><trkpt lat="53.0973249" lon="10.0282669"/><trkpt lat="53.0973925" lon="10.0281513"/><trkpt lat="53.0973394" lon="10.0280653"/><trkpt lat="53.0972383" lon="10.0282383"/><trkpt lat="53.0972152" lon="10.028201"/><trkpt lat="53.097181" lon="10.0282595"/><trkpt lat="53.097206" lon="10.0282999"/><trkpt lat="53.0971836" lon="10.0283383"/></trkseg></trk><trk><name>Subkultur</name><desc>addr:city=Hannover
+addr:housenumber=87
+addr:postcode=30167
+addr:street=Engelbosteler Damm
+amenity=nightclub
+building:part=yes
+check_date:opening_hours=2025-06-05
+drink:club-mate=served
+drink:hermann-brause=served
+height=8
+name=Subkultur
+opening_hours=We-Th 17:30+; Fr-Sa 22:00+
+opening_hours:signed=no
+operator=SubCulture Team Hannover
+roof:colour=grey
+smoking=isolated
+start_date=2014-03
+toilets:wheelchair=no
+wheelchair=yes
+wheelchair:description=barrierefreier Eingang. WC mit Rollstuhl erreichbar nur etwas eng.
+id=way/271231326</desc><trkseg><trkpt lat="52.3900781" lon="9.7208923"/><trkpt lat="52.3900823" lon="9.7210309"/><trkpt lat="52.3901122" lon="9.7211548"/><trkpt lat="52.3902574" lon="9.7210608"/><trkpt lat="52.3902494" lon="9.7210207"/><trkpt lat="52.3902194" lon="9.7208775"/><trkpt lat="52.3900781" lon="9.7208923"/></trkseg></trk><trk><name>Cubes</name><desc>addr:housenumber=3
+addr:street=Baumgartenstraße
+amenity=nightclub
+building=yes
+contact:phone=+49 441 12508
+height=21
+name=Cubes
+roof:height=7
+roof:material=roof_tiles
+roof:orientation=along
+roof:shape=gabled
+url=http://www.cubes-oldenburg.de/
+wheelchair=no
+id=way/284778531</desc><trkseg><trkpt lat="53.139859" lon="8.2133271"/><trkpt lat="53.139854" lon="8.2136804"/><trkpt lat="53.1399412" lon="8.2136848"/><trkpt lat="53.1399843" lon="8.2136862"/><trkpt lat="53.1399631" lon="8.2134463"/><trkpt lat="53.1399431" lon="8.2133147"/><trkpt lat="53.1399294" lon="8.213317"/><trkpt lat="53.139859" lon="8.2133271"/></trkseg></trk><trk><name>Rosenhof</name><desc>addr:city=Osnabrück
+addr:country=DE
+addr:housenumber=23
+addr:postcode=49074
+addr:street=Rosenplatz
+amenity=nightclub
+building=yes
+image=File:Osnabrück Rosenhof.jpg
+name=Rosenhof
+old_name=Rosenhof-Lichtspiele
+toilets:wheelchair=yes
+website=https://rosenhof-os.de/
+wheelchair=yes
+wikidata=Q29015767
+id=way/293346645</desc><trkseg><trkpt lat="52.2656555" lon="8.0530204"/><trkpt lat="52.2654553" lon="8.0530201"/><trkpt lat="52.2653551" lon="8.0530199"/><trkpt lat="52.2653549" lon="8.0531953"/><trkpt lat="52.2653549" lon="8.0532919"/><trkpt lat="52.2654062" lon="8.053292"/><trkpt lat="52.2655379" lon="8.0532922"/><trkpt lat="52.2656553" lon="8.0532924"/><trkpt lat="52.2656554" lon="8.053132"/><trkpt lat="52.2656555" lon="8.0530204"/></trkseg></trk><trk><name>Beat Club</name><desc>addr:city=Langelsheim
+addr:country=DE
+addr:housenumber=2
+addr:postcode=38685
+addr:street=August-Grotehenne-Straße
+amenity=nightclub
+building=yes
+name=Beat Club
+website=https://www.wenne.de/
+id=way/349915779</desc><trkseg><trkpt lat="51.9373835" lon="10.3332422"/><trkpt lat="51.9372411" lon="10.3331817"/><trkpt lat="51.9372228" lon="10.3331739"/><trkpt lat="51.9371661" lon="10.3335246"/><trkpt lat="51.9373268" lon="10.3335929"/><trkpt lat="51.9373835" lon="10.3332422"/></trkseg></trk><trk><name>Kramer</name><desc>addr:city=Damme
+addr:housenumber=1
+addr:postcode=49401
+addr:street=Dielinger Straße
+addr:suburb=Rüschendorf
+amenity=nightclub
+building=yes
+building:levels=1
+name=Kramer
+phone=+49 171 / 43 72 217
+website=https://www.disco-kramer.de/
+id=way/359842261</desc><trkseg><trkpt lat="52.521353" lon="8.2675023"/><trkpt lat="52.5215029" lon="8.2668591"/><trkpt lat="52.5214866" lon="8.2668462"/><trkpt lat="52.5215228" lon="8.2666804"/><trkpt lat="52.5213474" lon="8.2665765"/><trkpt lat="52.5212969" lon="8.2667995"/><trkpt lat="52.5212408" lon="8.2667692"/><trkpt lat="52.521184" lon="8.26704"/><trkpt lat="52.5212159" lon="8.2670552"/><trkpt lat="52.5211406" lon="8.2673882"/><trkpt lat="52.521353" lon="8.2675023"/></trkseg></trk><trk><name>Kuhstall: Das Partyhaus</name><desc>addr:city=Schladen-Werla
+addr:country=DE
+addr:housenumber=19
+addr:postcode=38315
+addr:street=Hermann-Müller-Straße
+addr:suburb=Schladen
+amenity=nightclub
+building=yes
+name=Kuhstall: Das Partyhaus
+note=Stand 03/16: ehemals Discothek Weltkugel Schladen, welche Ende 2015 mangels Nachfolger schließen musste, siehe disused:
+id=way/404811637</desc><trkseg><trkpt lat="52.0215264" lon="10.5504694"/><trkpt lat="52.0213876" lon="10.5504125"/><trkpt lat="52.0213925" lon="10.550381"/><trkpt lat="52.0213259" lon="10.5503537"/><trkpt lat="52.0212932" lon="10.5505649"/><trkpt lat="52.0213647" lon="10.5505942"/><trkpt lat="52.0213483" lon="10.5506996"/><trkpt lat="52.0214822" lon="10.5507545"/><trkpt lat="52.0215081" lon="10.5505873"/><trkpt lat="52.0215264" lon="10.5504694"/></trkseg></trk><trk><name>Soundcheck Bredehorn</name><desc>addr:city=Bockhorn
+addr:country=DE
+addr:hamlet=Bredehorn
+addr:housenumber=18
+addr:postcode=26345
+addr:street=Kreisstraße
+amenity=nightclub
+building=house
+name=Soundcheck Bredehorn
+website=https://www.facebook.com/SoundcheckBredehorn/
+id=way/510244489</desc><trkseg><trkpt lat="53.3470265" lon="7.9471221"/><trkpt lat="53.3469283" lon="7.9472296"/><trkpt lat="53.3470196" lon="7.9474636"/><trkpt lat="53.3470395" lon="7.9474418"/><trkpt lat="53.3471383" lon="7.9473336"/><trkpt lat="53.347117" lon="7.947279"/><trkpt lat="53.3470965" lon="7.9473015"/><trkpt lat="53.3470265" lon="7.9471221"/></trkseg></trk><trk><name>Empire Planet Dance Friesoythe</name><desc>addr:housenumber=15
+addr:street=Elbestraße
+amenity=nightclub
+building=yes
+name=Empire Planet Dance Friesoythe
+opening_hours=Fr,Sa 22:30+
+operator=TB Gastro GmbH Wildeshausen
+website=https://empire-friesoythe.de
+id=way/633035036</desc><trkseg><trkpt lat="53.0187365" lon="7.845059"/><trkpt lat="53.0189237" lon="7.8455096"/><trkpt lat="53.0191138" lon="7.8452914"/><trkpt lat="53.0189266" lon="7.8448408"/><trkpt lat="53.0187365" lon="7.845059"/></trkseg></trk><trk><name>Musikwerkstatt-Duderstadt</name><desc>addr:city=Duderstadt
+addr:country=DE
+addr:housenumber=17
+addr:postcode=37115
+addr:street=Industriestraße
+amenity=nightclub
+building=yes
+contact:email=info@musikwerkstatt-duderstadt.com
+contact:phone=+4955276689
+contact:website=http://www.musikwerkstatt-duderstadt.com/
+min_age=16
+name=Musikwerkstatt-Duderstadt
+id=way/661163743</desc><trkseg><trkpt lat="51.5095956" lon="10.2477665"/><trkpt lat="51.5097298" lon="10.2474909"/><trkpt lat="51.5097244" lon="10.247484"/><trkpt lat="51.5097412" lon="10.2474491"/><trkpt lat="51.5095361" lon="10.2471945"/><trkpt lat="51.5094555" lon="10.2471371"/><trkpt lat="51.5093985" lon="10.2470924"/><trkpt lat="51.5093695" lon="10.2471881"/><trkpt lat="51.5093899" lon="10.2472041"/><trkpt lat="51.5093695" lon="10.2472712"/><trkpt lat="51.5094061" lon="10.2472999"/><trkpt lat="51.5093779" lon="10.2473929"/><trkpt lat="51.5094557" lon="10.2474562"/><trkpt lat="51.5095488" lon="10.2475717"/><trkpt lat="51.5095077" lon="10.2476561"/><trkpt lat="51.5095956" lon="10.2477665"/></trkseg></trk><trk><name>Kalles Party Tenne</name><desc>amenity=nightclub
+building=yes
+name=Kalles Party Tenne
+id=way/665955653</desc><trkseg><trkpt lat="53.7743538" lon="9.0639798"/><trkpt lat="53.7749074" lon="9.0638583"/><trkpt lat="53.7748884" lon="9.0636103"/><trkpt lat="53.7744481" lon="9.0637069"/><trkpt lat="53.7744324" lon="9.0635018"/><trkpt lat="53.7743191" lon="9.0635267"/><trkpt lat="53.7743538" lon="9.0639798"/></trkseg></trk><trk><name>Discothek Galaxy - Außenbereich</name><desc>amenity=nightclub
+name=Discothek Galaxy - Außenbereich
+id=way/734635579</desc><trkseg><trkpt lat="53.4694131" lon="7.3107212"/><trkpt lat="53.4692381" lon="7.3103249"/><trkpt lat="53.4689809" lon="7.3106912"/><trkpt lat="53.4692359" lon="7.3111687"/><trkpt lat="53.4694599" lon="7.3108381"/><trkpt lat="53.4694131" lon="7.3107212"/></trkseg></trk><trk><name>Tunis Discothek</name><desc>addr:city=Friedeburg
+addr:country=DE
+addr:housenumber=36
+addr:postcode=26446
+addr:street=Marxer Hauptstraße
+addr:suburb=Marx
+amenity=nightclub
+building=house
+name=Tunis Discothek
+website=http://www.tunis-discothek.de
+id=way/809553546</desc><trkseg><trkpt lat="53.4341328" lon="7.8572162"/><trkpt lat="53.4340076" lon="7.8572496"/><trkpt lat="53.4340291" lon="7.8574867"/><trkpt lat="53.4342927" lon="7.8574194"/><trkpt lat="53.4342712" lon="7.8571823"/><trkpt lat="53.4342075" lon="7.8571979"/><trkpt lat="53.4342052" lon="7.8571706"/><trkpt lat="53.4341305" lon="7.8571902"/><trkpt lat="53.4341328" lon="7.8572162"/></trkseg></trk><trk><name>Dancehall Life</name><desc>addr:city=Cloppenburg
+addr:country=DE
+addr:housenumber=6
+addr:postcode=49661
+addr:street=Bürgerparkstraße
+amenity=nightclub
+building=yes
+name=Dancehall Life
+operator=Daniel Knorr
+website=https://www.facebook.com/lifepartyclub
+id=way/1054471591</desc><trkseg><trkpt lat="52.8429327" lon="8.0614408"/><trkpt lat="52.8428083" lon="8.0614455"/><trkpt lat="52.8426017" lon="8.0614532"/><trkpt lat="52.8425482" lon="8.0614552"/><trkpt lat="52.8425582" lon="8.0621884"/><trkpt lat="52.8426686" lon="8.0621843"/><trkpt lat="52.8428633" lon="8.0621771"/><trkpt lat="52.8429427" lon="8.0621741"/><trkpt lat="52.8429327" lon="8.0614408"/></trkseg></trk><trk><name>Discothek Blaue Maus</name><desc>addr:city=Rodewald
+addr:country=DE
+addr:housenumber=127
+addr:postcode=31637
+addr:street=Hauptstraße
+amenity=nightclub
+building=yes
+contact:email=info@diskothek-blauemaus.de
+contact:website=http://www.diskothek-blauemaus.de/
+name=Discothek Blaue Maus
+id=way/1086618257</desc><trkseg><trkpt lat="52.6458793" lon="9.4924202"/><trkpt lat="52.6457599" lon="9.4925047"/><trkpt lat="52.6458515" lon="9.4928561"/><trkpt lat="52.6459709" lon="9.4927716"/><trkpt lat="52.6458793" lon="9.4924202"/></trkseg></trk></gpx>
