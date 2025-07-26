@@ -1,0 +1,393 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.5758736" lon="9.886671"><name>Reemtsma-Bad</name><desc>access=customers
+check_date=2024-03-07
+leisure=swimming_pool
+length=25
+lit=yes
+location=indoor
+name=Reemtsma-Bad
+opening_hours=Mo-Fr 06:15-09:00,14:00-22:00; Sa 13:00-20:00; Su 09:00-20:00
+opening_hours:covid19=closed
+operator=Verein Aktive Freizeit
+operator:type=cooperative
+sport=swimming
+swimming_pool=indoor
+wheelchair=no
+id=node/610588582</desc></wpt><wpt lat="53.5534002" lon="9.9524449"><name>node/1641843490</name><desc>leisure=swimming_pool
+note=Kinder-Planschbecken
+id=node/1641843490</desc></wpt><wpt lat="33.2255828" lon="-91.7876961"><name>node/10588029041</name><desc>leisure=swimming_pool
+id=node/10588029041</desc></wpt><wpt lat="33.2257773" lon="-91.7857029"><name>node/10588029042</name><desc>leisure=swimming_pool
+id=node/10588029042</desc></wpt><wpt lat="33.224525" lon="-91.7869107"><name>node/10588029043</name><desc>leisure=swimming_pool
+id=node/10588029043</desc></wpt><trk><name>Bäderland Elbgaustraße</name><desc>addr:city=Hamburg
+addr:housenumber=110
+addr:postcode=22547
+addr:street=Elbgaustraße
+building=civic
+building:levels=1
+check_date:opening_hours=2023-11-29
+leisure=swimming_pool
+name=Bäderland Elbgaustraße
+opening_hours=Tu-Th 14:00-20:00, Fr 08:30-20:00, Sa 10:00-18:00
+operator=Bäderland Hamburg GmbH
+roof:levels=0
+roof:shape=flat
+sport=swimming
+website=https://www.baederland.de/baeder/standorte/elbgaustrasse/
+wheelchair=yes
+id=way/23057814</desc><trkseg><trkpt lat="53.6023464" lon="9.8878384"/><trkpt lat="53.6023029" lon="9.8879517"/><trkpt lat="53.6023194" lon="9.8879696"/><trkpt lat="53.6021501" lon="9.8884102"/><trkpt lat="53.6025515" lon="9.8888481"/><trkpt lat="53.6026386" lon="9.8886214"/><trkpt lat="53.6026165" lon="9.8885973"/><trkpt lat="53.6027339" lon="9.8882918"/><trkpt lat="53.6024891" lon="9.8880248"/><trkpt lat="53.6024974" lon="9.8880031"/><trkpt lat="53.6023464" lon="9.8878384"/></trkseg></trk><trk><name>way/25064185</name><desc>leisure=swimming_pool
+sport=swimming
+id=way/25064185</desc><trkseg><trkpt lat="53.5394852" lon="9.8715143"/><trkpt lat="53.5393792" lon="9.8712712"/><trkpt lat="53.5392798" lon="9.871353"/><trkpt lat="53.5391821" lon="9.871445"/><trkpt lat="53.5390891" lon="9.8715575"/><trkpt lat="53.5390041" lon="9.8716678"/><trkpt lat="53.53916" lon="9.8720658"/><trkpt lat="53.5392452" lon="9.8719852"/><trkpt lat="53.5392184" lon="9.8718115"/><trkpt lat="53.5393295" lon="9.8716786"/><trkpt lat="53.5393559" lon="9.8717241"/><trkpt lat="53.5394852" lon="9.8715143"/></trkseg></trk><trk><name>way/25299887</name><desc>leisure=swimming_pool
+sport=swimming
+id=way/25299887</desc><trkseg><trkpt lat="53.4500134" lon="10.29688"/><trkpt lat="53.4497767" lon="10.2964206"/><trkpt lat="53.4497155" lon="10.2962049"/><trkpt lat="53.4496058" lon="10.295999"/><trkpt lat="53.4494883" lon="10.2958531"/><trkpt lat="53.4493451" lon="10.2960669"/><trkpt lat="53.4494116" lon="10.2962994"/><trkpt lat="53.4495138" lon="10.2964882"/><trkpt lat="53.4496314" lon="10.2965912"/><trkpt lat="53.4498791" lon="10.2970692"/><trkpt lat="53.4500134" lon="10.29688"/></trkseg></trk><trk><name>Bäderland Alsterschwimmhalle</name><desc>access=customers
+addr:city=Hamburg
+addr:country=DE
+addr:housenumber=15
+addr:postcode=22087
+addr:street=Sechslingspforte
+alt_name=Alster-Schwimmhalle
+building=civic
+indoor=yes
+leisure=swimming_pool
+name=Bäderland Alsterschwimmhalle
+old_addr:housenumber=21
+old_addr:street=Ifflandstraße
+opening_hours=Mo-Fr 06:30-23:00; Sa,Su 08:00-22:00
+operator=Bäderland
+sport=swimming
+website=https://www.baederland.de/baeder/standorte/alsterschwimmhalle/
+wikidata=Q2651509
+id=way/28536388</desc><trkseg><trkpt lat="53.5602274" lon="10.0222652"/><trkpt lat="53.5604442" lon="10.0221508"/><trkpt lat="53.5604539" lon="10.0221695"/><trkpt lat="53.5604683" lon="10.0221972"/><trkpt lat="53.5604826" lon="10.0221766"/><trkpt lat="53.5604468" lon="10.0220807"/><trkpt lat="53.5608162" lon="10.0220203"/><trkpt lat="53.5607819" lon="10.0212304"/><trkpt lat="53.5607453" lon="10.0212358"/><trkpt lat="53.560711" lon="10.0212398"/><trkpt lat="53.5601805" lon="10.0206095"/><trkpt lat="53.5600682" lon="10.0209282"/><trkpt lat="53.5600462" lon="10.020888"/><trkpt lat="53.5600159" lon="10.0207843"/><trkpt lat="53.5599933" lon="10.0207957"/><trkpt lat="53.5600132" lon="10.0208786"/><trkpt lat="53.5600082" lon="10.0209089"/><trkpt lat="53.5597488" lon="10.021288"/><trkpt lat="53.5598647" lon="10.0215019"/><trkpt lat="53.5599576" lon="10.021654"/><trkpt lat="53.55999" lon="10.0217324"/><trkpt lat="53.5599564" lon="10.0217638"/><trkpt lat="53.5599601" lon="10.0217816"/><trkpt lat="53.5599692" lon="10.0218016"/><trkpt lat="53.5600057" lon="10.0217746"/><trkpt lat="53.5600178" lon="10.0218902"/><trkpt lat="53.5600427" lon="10.02201"/><trkpt lat="53.5600749" lon="10.0223393"/><trkpt lat="53.5602274" lon="10.0222652"/></trkseg></trk><trk><name>way/28972886</name><desc>leisure=swimming_pool
+id=way/28972886</desc><trkseg><trkpt lat="53.7093596" lon="10.103258"/><trkpt lat="53.7092796" lon="10.1030975"/><trkpt lat="53.7091522" lon="10.1030748"/><trkpt lat="53.7090846" lon="10.1029772"/><trkpt lat="53.7090762" lon="10.1029719"/><trkpt lat="53.7090647" lon="10.1029716"/><trkpt lat="53.7090295" lon="10.1030034"/><trkpt lat="53.7090094" lon="10.1030094"/><trkpt lat="53.7089928" lon="10.1029981"/><trkpt lat="53.708969" lon="10.1029502"/><trkpt lat="53.7087981" lon="10.1032054"/><trkpt lat="53.7090972" lon="10.1037448"/><trkpt lat="53.7091508" lon="10.1036623"/><trkpt lat="53.7091688" lon="10.1036532"/><trkpt lat="53.7092268" lon="10.1036392"/><trkpt lat="53.7093319" lon="10.1034654"/><trkpt lat="53.7093319" lon="10.1033239"/><trkpt lat="53.7093362" lon="10.1033079"/><trkpt lat="53.7093596" lon="10.103258"/></trkseg></trk><trk><name>Planschbecken</name><desc>depth=0.3
+description=Planschbecken
+leisure=swimming_pool
+local_name=Planschi
+name=Planschbecken
+id=way/32324822</desc><trkseg><trkpt lat="53.5965298" lon="9.9892227"/><trkpt lat="53.5965885" lon="9.9892488"/><trkpt lat="53.5966462" lon="9.9892173"/><trkpt lat="53.5966846" lon="9.9891382"/><trkpt lat="53.5966915" lon="9.9890367"/><trkpt lat="53.5966648" lon="9.988945"/><trkpt lat="53.5966129" lon="9.9888921"/><trkpt lat="53.5965523" lon="9.988895"/><trkpt lat="53.5965022" lon="9.9889526"/><trkpt lat="53.5964786" lon="9.9890467"/><trkpt lat="53.5964889" lon="9.9891474"/><trkpt lat="53.5965298" lon="9.9892227"/></trkseg></trk><trk><name>way/35334697</name><desc>leisure=swimming_pool
+id=way/35334697</desc><trkseg><trkpt lat="53.5739405" lon="9.9924672"/><trkpt lat="53.5739436" lon="9.9926621"/><trkpt lat="53.574173" lon="9.9926519"/><trkpt lat="53.5741699" lon="9.992457"/><trkpt lat="53.5739405" lon="9.9924672"/></trkseg></trk><trk><name>way/38069998</name><desc>access=customers
+description=10m Sprunganlage
+heritage=4
+heritage:operator=dsa
+leisure=swimming_pool
+length=30
+location=outdoor
+ref:dsa=43365
+start_date=1938
+wheelchair=yes
+id=way/38069998</desc><trkseg><trkpt lat="53.5709666" lon="9.9628081"/><trkpt lat="53.5710791" lon="9.9625724"/><trkpt lat="53.570874" lon="9.9622949"/><trkpt lat="53.5707616" lon="9.9625306"/><trkpt lat="53.5709666" lon="9.9628081"/></trkseg></trk><trk><name>way/38070010</name><desc>access=customers
+heritage=4
+heritage:operator=dsa
+leisure=swimming_pool
+length=50
+location=outdoor
+ref:dsa=43365
+sport=swimming
+start_date=1938
+id=way/38070010</desc><trkseg><trkpt lat="53.5709961" lon="9.9628458"/><trkpt lat="53.5713431" lon="9.9633246"/><trkpt lat="53.5714567" lon="9.963091"/><trkpt lat="53.5711098" lon="9.9626122"/><trkpt lat="53.5709961" lon="9.9628458"/></trkseg></trk><trk><name>way/38070013</name><desc>access=customers
+leisure=swimming_pool
+length=25
+location=outdoor
+wheelchair=yes
+id=way/38070013</desc><trkseg><trkpt lat="53.5714495" lon="9.9633709"/><trkpt lat="53.5712998" lon="9.9636507"/><trkpt lat="53.5713682" lon="9.9637545"/><trkpt lat="53.5714775" lon="9.9635502"/><trkpt lat="53.5715075" lon="9.9635491"/><trkpt lat="53.5715341" lon="9.9634993"/><trkpt lat="53.5714495" lon="9.9633709"/></trkseg></trk><trk><name>way/43901495</name><desc>access=private
+addr:city=Hamburg
+addr:country=DE
+addr:housenumber=8
+addr:postcode=22391
+addr:street=Von-Kurtzrock-Ring
+building=yes
+building:levels=1
+building:material=brick
+leisure=swimming_pool
+roof:colour=dark grey
+roof:levels=1
+roof:material=roof_tiles
+roof:shape=mansard
+id=way/43901495</desc><trkseg><trkpt lat="53.6374585" lon="10.0665009"/><trkpt lat="53.6373552" lon="10.0665652"/><trkpt lat="53.6373997" lon="10.0667673"/><trkpt lat="53.6373584" lon="10.0667931"/><trkpt lat="53.6373854" lon="10.066916"/><trkpt lat="53.6374392" lon="10.0668825"/><trkpt lat="53.6374235" lon="10.0668113"/><trkpt lat="53.6375143" lon="10.0667547"/><trkpt lat="53.6374585" lon="10.0665009"/></trkseg></trk><trk><name>Schwimmhalle Bramfelder Weg</name><desc>access=private
+building=civic
+building:levels=1
+leisure=swimming_pool
+name=Schwimmhalle Bramfelder Weg
+nohousenumber=yes
+sport=swimming
+id=way/46763725</desc><trkseg><trkpt lat="53.6132824" lon="10.1079844"/><trkpt lat="53.613121" lon="10.1078776"/><trkpt lat="53.613088" lon="10.1080192"/><trkpt lat="53.6131224" lon="10.108042"/><trkpt lat="53.6130959" lon="10.1081557"/><trkpt lat="53.6132137" lon="10.1082337"/><trkpt lat="53.6132197" lon="10.1082078"/><trkpt lat="53.6132591" lon="10.1082339"/><trkpt lat="53.613298" lon="10.108067"/><trkpt lat="53.6132678" lon="10.108047"/><trkpt lat="53.6132824" lon="10.1079844"/></trkseg></trk><trk><name>way/48064375</name><desc>access=customers
+leisure=swimming_pool
+wheelchair=no
+id=way/48064375</desc><trkseg><trkpt lat="53.5898493" lon="9.9911256"/><trkpt lat="53.5897868" lon="9.9911273"/><trkpt lat="53.5897866" lon="9.9911038"/><trkpt lat="53.5897778" lon="9.9911041"/><trkpt lat="53.5897691" lon="9.9911043"/><trkpt lat="53.5897693" lon="9.9911282"/><trkpt lat="53.5896207" lon="9.9911321"/><trkpt lat="53.5896225" lon="9.991321"/><trkpt lat="53.5898511" lon="9.9913149"/><trkpt lat="53.5898493" lon="9.9911256"/></trkseg></trk><trk><name>way/52520641</name><desc>access=customers
+leisure=swimming_pool
+wheelchair=limited
+id=way/52520641</desc><trkseg><trkpt lat="53.6244061" lon="9.9354721"/><trkpt lat="53.6243034" lon="9.9356716"/><trkpt lat="53.6243857" lon="9.9358134"/><trkpt lat="53.6243376" lon="9.9359562"/><trkpt lat="53.6242775" lon="9.935939"/><trkpt lat="53.6242469" lon="9.9362004"/><trkpt lat="53.6244067" lon="9.9363584"/><trkpt lat="53.6244241" lon="9.9363219"/><trkpt lat="53.6244457" lon="9.9362743"/><trkpt lat="53.6244746" lon="9.9362074"/><trkpt lat="53.6245028" lon="9.9361386"/><trkpt lat="53.6245244" lon="9.9360798"/><trkpt lat="53.6245466" lon="9.936018"/><trkpt lat="53.6245665" lon="9.9359573"/><trkpt lat="53.6245845" lon="9.9358955"/><trkpt lat="53.6246013" lon="9.9358347"/><trkpt lat="53.6246169" lon="9.935781"/><trkpt lat="53.6246332" lon="9.9357111"/><trkpt lat="53.6244061" lon="9.9354721"/></trkseg></trk><trk><name>way/55467913</name><desc>leisure=swimming_pool
+id=way/55467913</desc><trkseg><trkpt lat="53.5410163" lon="10.1182853"/><trkpt lat="53.5409199" lon="10.1181285"/><trkpt lat="53.5408236" lon="10.1182961"/><trkpt lat="53.54092" lon="10.1184529"/><trkpt lat="53.5410163" lon="10.1182853"/></trkseg></trk><trk><name>way/55467949</name><desc>leisure=swimming_pool
+id=way/55467949</desc><trkseg><trkpt lat="53.540924" lon="10.1179996"/><trkpt lat="53.540597" lon="10.1174753"/><trkpt lat="53.5404622" lon="10.1177134"/><trkpt lat="53.5407891" lon="10.1182377"/><trkpt lat="53.540924" lon="10.1179996"/></trkseg></trk><trk><name>way/55467964</name><desc>leisure=swimming_pool
+id=way/55467964</desc><trkseg><trkpt lat="53.540562" lon="10.1174117"/><trkpt lat="53.5404285" lon="10.1171957"/><trkpt lat="53.5402396" lon="10.1175262"/><trkpt lat="53.5403732" lon="10.1177423"/><trkpt lat="53.540562" lon="10.1174117"/></trkseg></trk><trk><name>way/58811667</name><desc>access=customers
+leisure=swimming_pool
+id=way/58811667</desc><trkseg><trkpt lat="53.6247015" lon="9.9366901"/><trkpt lat="53.6246755" lon="9.9366825"/><trkpt lat="53.6246045" lon="9.9367847"/><trkpt lat="53.6246022" lon="9.9368265"/><trkpt lat="53.6246178" lon="9.9368531"/><trkpt lat="53.6246401" lon="9.9368594"/><trkpt lat="53.624658" lon="9.9368319"/><trkpt lat="53.6247502" lon="9.936852"/><trkpt lat="53.6247508" lon="9.936825"/><trkpt lat="53.6247516" lon="9.9367889"/><trkpt lat="53.6247015" lon="9.9366901"/></trkseg></trk><trk><name>way/60361050</name><desc>leisure=swimming_pool
+location=outdoor
+sport=swimming
+id=way/60361050</desc><trkseg><trkpt lat="53.5597282" lon="9.807644"/><trkpt lat="53.5596306" lon="9.8076402"/><trkpt lat="53.5596236" lon="9.8081412"/><trkpt lat="53.5597212" lon="9.8081451"/><trkpt lat="53.5597282" lon="9.807644"/></trkseg></trk><trk><name>way/60417680</name><desc>access=customers
+leisure=swimming_pool
+id=way/60417680</desc><trkseg><trkpt lat="53.4467036" lon="9.9795441"/><trkpt lat="53.446701" lon="9.9795978"/><trkpt lat="53.4467203" lon="9.9796067"/><trkpt lat="53.4467283" lon="9.9795518"/><trkpt lat="53.446871" lon="9.9795964"/><trkpt lat="53.4468885" lon="9.979438"/><trkpt lat="53.4467122" lon="9.979383"/><trkpt lat="53.4466947" lon="9.9795413"/><trkpt lat="53.4467036" lon="9.9795441"/></trkseg></trk><trk><name>way/66262045</name><desc>leisure=swimming_pool
+id=way/66262045</desc><trkseg><trkpt lat="53.4771287" lon="9.8640066"/><trkpt lat="53.4771391" lon="9.8641812"/><trkpt lat="53.4772264" lon="9.8641665"/><trkpt lat="53.477216" lon="9.8639919"/><trkpt lat="53.4771287" lon="9.8640066"/></trkseg></trk><trk><name>way/66262048</name><desc>leisure=swimming_pool
+id=way/66262048</desc><trkseg><trkpt lat="53.4769816" lon="9.8642077"/><trkpt lat="53.4771391" lon="9.8641812"/><trkpt lat="53.4771287" lon="9.8640066"/><trkpt lat="53.4769712" lon="9.864033"/><trkpt lat="53.4769816" lon="9.8642077"/></trkseg></trk><trk><name>way/67712985</name><desc>leisure=swimming_pool
+id=way/67712985</desc><trkseg><trkpt lat="53.6502369" lon="10.1660586"/><trkpt lat="53.6501435" lon="10.1661025"/><trkpt lat="53.6502036" lon="10.1664665"/><trkpt lat="53.650297" lon="10.1664226"/><trkpt lat="53.6502932" lon="10.1663993"/><trkpt lat="53.6502885" lon="10.1663707"/><trkpt lat="53.6502847" lon="10.166348"/><trkpt lat="53.6502369" lon="10.1660586"/></trkseg></trk><trk><name>way/87255627</name><desc>access=private
+leisure=swimming_pool
+id=way/87255627</desc><trkseg><trkpt lat="53.5697299" lon="9.8997301"/><trkpt lat="53.569822" lon="9.899605"/><trkpt lat="53.5697914" lon="9.8995411"/><trkpt lat="53.5696992" lon="9.8996662"/><trkpt lat="53.5697299" lon="9.8997301"/></trkseg></trk><trk><name>way/87410022</name><desc>access=private
+leisure=swimming_pool
+id=way/87410022</desc><trkseg><trkpt lat="53.5657866" lon="9.8463247"/><trkpt lat="53.5657866" lon="9.8462491"/><trkpt lat="53.5656664" lon="9.8462491"/><trkpt lat="53.5656664" lon="9.8463247"/><trkpt lat="53.5657866" lon="9.8463247"/></trkseg></trk><trk><name>way/87605409</name><desc>access=customers
+leisure=swimming_pool
+location=outdoor
+swimming_pool=inground
+id=way/87605409</desc><trkseg><trkpt lat="53.5851025" lon="9.840731"/><trkpt lat="53.5849036" lon="9.8407082"/><trkpt lat="53.5848749" lon="9.8413792"/><trkpt lat="53.5848637" lon="9.8413782"/><trkpt lat="53.5848589" lon="9.8414656"/><trkpt lat="53.5850665" lon="9.8414911"/><trkpt lat="53.5851025" lon="9.840731"/></trkseg></trk><trk><name>Schwimmbad</name><desc>access=students
+building=school
+building:levels=1
+leisure=swimming_pool
+name=Schwimmbad
+roof:shape=flat
+id=way/111525306</desc><trkseg><trkpt lat="53.5646795" lon="9.9061945"/><trkpt lat="53.5646335" lon="9.9060326"/><trkpt lat="53.5646025" lon="9.9060575"/><trkpt lat="53.5645875" lon="9.9060049"/><trkpt lat="53.5645033" lon="9.9060727"/><trkpt lat="53.5644326" lon="9.9061297"/><trkpt lat="53.5644675" lon="9.9062527"/><trkpt lat="53.5645023" lon="9.9062248"/><trkpt lat="53.5645333" lon="9.9063341"/><trkpt lat="53.5646483" lon="9.9062415"/><trkpt lat="53.5646432" lon="9.9062237"/><trkpt lat="53.5646795" lon="9.9061945"/></trkseg></trk><trk><name>Nichtschwimmerbecken</name><desc>description=Nichtschwimmerbecken
+leisure=swimming_pool
+name=Nichtschwimmerbecken
+source=Bing
+wheelchair=limited
+id=way/115431139</desc><trkseg><trkpt lat="53.6715311" lon="10.0207241"/><trkpt lat="53.6718223" lon="10.020592"/><trkpt lat="53.6717067" lon="10.0198807"/><trkpt lat="53.6714139" lon="10.020002"/><trkpt lat="53.6715311" lon="10.0207241"/></trkseg></trk><trk><name>Schwimmerbecken</name><desc>description=Schwimmerbecken
+leisure=swimming_pool
+name=Schwimmerbecken
+source=Bing
+wheelchair=no
+id=way/115431142</desc><trkseg><trkpt lat="53.6718223" lon="10.020592"/><trkpt lat="53.6722529" lon="10.0203968"/><trkpt lat="53.6721409" lon="10.0196883"/><trkpt lat="53.6717067" lon="10.0198807"/><trkpt lat="53.6718223" lon="10.020592"/></trkseg></trk><trk><name>way/119661635</name><desc>access=customers
+leisure=swimming_pool
+location=outdoor
+id=way/119661635</desc><trkseg><trkpt lat="53.5741833" lon="9.794193"/><trkpt lat="53.5743235" lon="9.7942842"/><trkpt lat="53.5743744" lon="9.7941018"/><trkpt lat="53.5744732" lon="9.7941286"/><trkpt lat="53.5744987" lon="9.7942627"/><trkpt lat="53.5746101" lon="9.7942198"/><trkpt lat="53.5746197" lon="9.794252"/><trkpt lat="53.5746484" lon="9.7942252"/><trkpt lat="53.5746707" lon="9.7938443"/><trkpt lat="53.5744413" lon="9.7937746"/><trkpt lat="53.5742343" lon="9.7937478"/><trkpt lat="53.5741833" lon="9.794193"/></trkseg></trk><trk><name>way/119661638</name><desc>leisure=swimming_pool
+wheelchair=limited
+id=way/119661638</desc><trkseg><trkpt lat="53.5752821" lon="9.793747"/><trkpt lat="53.57525" lon="9.7937626"/><trkpt lat="53.5752329" lon="9.7937876"/><trkpt lat="53.57522" lon="9.7938323"/><trkpt lat="53.5752189" lon="9.7938704"/><trkpt lat="53.5752247" lon="9.793904"/><trkpt lat="53.5752379" lon="9.7939349"/><trkpt lat="53.5752506" lon="9.7939513"/><trkpt lat="53.5752718" lon="9.7939645"/><trkpt lat="53.5752859" lon="9.7939662"/><trkpt lat="53.575308" lon="9.7939582"/><trkpt lat="53.5753324" lon="9.793929"/><trkpt lat="53.5753399" lon="9.7939114"/><trkpt lat="53.5753476" lon="9.7938756"/><trkpt lat="53.5753476" lon="9.7938375"/><trkpt lat="53.5753437" lon="9.7938147"/><trkpt lat="53.5753315" lon="9.7937825"/><trkpt lat="53.5753045" lon="9.7937528"/><trkpt lat="53.5752821" lon="9.793747"/></trkseg></trk><trk><name>way/154977066</name><desc>leisure=swimming_pool
+location=outdoor
+id=way/154977066</desc><trkseg><trkpt lat="53.587921" lon="10.0735624"/><trkpt lat="53.5879211" lon="10.0735177"/><trkpt lat="53.5879136" lon="10.0734748"/><trkpt lat="53.5879036" lon="10.0734467"/><trkpt lat="53.5878903" lon="10.0734227"/><trkpt lat="53.5878664" lon="10.0733974"/><trkpt lat="53.5878391" lon="10.0733855"/><trkpt lat="53.5878127" lon="10.0733875"/><trkpt lat="53.5877878" lon="10.0734019"/><trkpt lat="53.5877689" lon="10.0734238"/><trkpt lat="53.5877156" lon="10.0735126"/><trkpt lat="53.5876842" lon="10.0736256"/><trkpt lat="53.5876776" lon="10.073678"/><trkpt lat="53.5876821" lon="10.073731"/><trkpt lat="53.5876961" lon="10.0737766"/><trkpt lat="53.5877181" lon="10.0738121"/><trkpt lat="53.587739" lon="10.07383"/><trkpt lat="53.5877618" lon="10.0738384"/><trkpt lat="53.5877852" lon="10.0738369"/><trkpt lat="53.5878077" lon="10.0738255"/><trkpt lat="53.5878299" lon="10.0738095"/><trkpt lat="53.5878525" lon="10.0737799"/><trkpt lat="53.5878846" lon="10.0737172"/><trkpt lat="53.5879077" lon="10.0736474"/><trkpt lat="53.587921" lon="10.0735624"/></trkseg></trk><trk><name>way/154977074</name><desc>leisure=swimming_pool
+location=outdoor
+sport=swimming
+id=way/154977074</desc><trkseg><trkpt lat="53.5879347" lon="10.0741818"/><trkpt lat="53.5878749" lon="10.0741592"/><trkpt lat="53.5878632" lon="10.0742468"/><trkpt lat="53.5877048" lon="10.0741868"/><trkpt lat="53.5876806" lon="10.0743684"/><trkpt lat="53.5878988" lon="10.074451"/><trkpt lat="53.5879347" lon="10.0741818"/></trkseg></trk><trk><name>way/158314336</name><desc>access=private
+leisure=swimming_pool
+id=way/158314336</desc><trkseg><trkpt lat="53.4765085" lon="9.9286754"/><trkpt lat="53.476465" lon="9.9286576"/><trkpt lat="53.4764573" lon="9.9286594"/><trkpt lat="53.4764504" lon="9.9286653"/><trkpt lat="53.4764451" lon="9.9286748"/><trkpt lat="53.476442" lon="9.9286867"/><trkpt lat="53.4764414" lon="9.9286997"/><trkpt lat="53.4764434" lon="9.9287123"/><trkpt lat="53.4764478" lon="9.928723"/><trkpt lat="53.476454" lon="9.9287307"/><trkpt lat="53.4764954" lon="9.9287463"/><trkpt lat="53.4765026" lon="9.9287433"/><trkpt lat="53.4765095" lon="9.9287373"/><trkpt lat="53.4765146" lon="9.9287287"/><trkpt lat="53.4765178" lon="9.9287179"/><trkpt lat="53.4765188" lon="9.9287059"/><trkpt lat="53.4765174" lon="9.928694"/><trkpt lat="53.4765139" lon="9.9286834"/><trkpt lat="53.4765085" lon="9.9286754"/></trkseg></trk><trk><name>way/173257212</name><desc>access=private
+covered=no
+leisure=swimming_pool
+id=way/173257212</desc><trkseg><trkpt lat="53.5847488" lon="9.8956816"/><trkpt lat="53.5846851" lon="9.8956664"/><trkpt lat="53.5846695" lon="9.8958514"/><trkpt lat="53.5847333" lon="9.8958667"/><trkpt lat="53.5847488" lon="9.8956816"/></trkseg></trk><trk><name>way/176833738</name><desc>access=private
+leisure=swimming_pool
+id=way/176833738</desc><trkseg><trkpt lat="53.6328607" lon="10.1336995"/><trkpt lat="53.6328324" lon="10.1337519"/><trkpt lat="53.632813" lon="10.133788"/><trkpt lat="53.63284" lon="10.1338228"/><trkpt lat="53.6328671" lon="10.1337692"/><trkpt lat="53.6328846" lon="10.1337317"/><trkpt lat="53.632883" lon="10.1337129"/><trkpt lat="53.6328782" lon="10.1336995"/><trkpt lat="53.6328607" lon="10.1336995"/></trkseg></trk><trk><name>way/210019404</name><desc>access=customers
+description=Außenbecken Bille-Bad
+fee=yes
+leisure=swimming_pool
+sport=swimming
+id=way/210019404</desc><trkseg><trkpt lat="53.4921903" lon="10.2125298"/><trkpt lat="53.4921248" lon="10.2126495"/><trkpt lat="53.4922542" lon="10.2128567"/><trkpt lat="53.4923212" lon="10.2127593"/><trkpt lat="53.4923269" lon="10.212773"/><trkpt lat="53.4923417" lon="10.2127549"/><trkpt lat="53.4923164" lon="10.21271"/><trkpt lat="53.4923059" lon="10.2127282"/><trkpt lat="53.4921903" lon="10.2125298"/></trkseg></trk><trk><name>way/220111295</name><desc>access=private
+covered=no
+leisure=swimming_pool
+operator=HTHC
+sport=swimming
+id=way/220111295</desc><trkseg><trkpt lat="53.5921085" lon="10.0085292"/><trkpt lat="53.5920987" lon="10.0082596"/><trkpt lat="53.5920326" lon="10.0082664"/><trkpt lat="53.5920424" lon="10.008536"/><trkpt lat="53.5921085" lon="10.0085292"/></trkseg></trk><trk><name>way/226847429</name><desc>access=private
+covered=no
+leisure=swimming_pool
+id=way/226847429</desc><trkseg><trkpt lat="53.5696813" lon="9.8391838"/><trkpt lat="53.56974" lon="9.8392032"/><trkpt lat="53.5697479" lon="9.8391358"/><trkpt lat="53.5696892" lon="9.8391164"/><trkpt lat="53.5696813" lon="9.8391838"/></trkseg></trk><trk><name>way/227709905</name><desc>access=private
+covered=no
+leisure=swimming_pool
+id=way/227709905</desc><trkseg><trkpt lat="53.6414498" lon="10.1138841"/><trkpt lat="53.6414593" lon="10.1140167"/><trkpt lat="53.6414972" lon="10.1140089"/><trkpt lat="53.6414877" lon="10.1138763"/><trkpt lat="53.6414498" lon="10.1138841"/></trkseg></trk><trk><name>way/227755804</name><desc>access=private
+covered=no
+leisure=swimming_pool
+id=way/227755804</desc><trkseg><trkpt lat="53.6434662" lon="10.1096995"/><trkpt lat="53.6434895" lon="10.1098091"/><trkpt lat="53.643524" lon="10.1097883"/><trkpt lat="53.6435007" lon="10.1096786"/><trkpt lat="53.6434662" lon="10.1096995"/></trkseg></trk><trk><name>way/227756090</name><desc>access=private
+covered=no
+leisure=swimming_pool
+id=way/227756090</desc><trkseg><trkpt lat="53.6434394" lon="10.1109045"/><trkpt lat="53.6433973" lon="10.1109286"/><trkpt lat="53.6434264" lon="10.1110735"/><trkpt lat="53.6434685" lon="10.1110495"/><trkpt lat="53.6434394" lon="10.1109045"/></trkseg></trk><trk><name>way/233539642</name><desc>access=permit
+leisure=swimming_pool
+location=outdoor
+id=way/233539642</desc><trkseg><trkpt lat="53.5678466" lon="9.7557169"/><trkpt lat="53.5677078" lon="9.7556969"/><trkpt lat="53.5676995" lon="9.7558601"/><trkpt lat="53.5678383" lon="9.75588"/><trkpt lat="53.5678466" lon="9.7557169"/></trkseg></trk><trk><name>way/242164714</name><desc>leisure=swimming_pool
+id=way/242164714</desc><trkseg><trkpt lat="53.5399348" lon="10.1166653"/><trkpt lat="53.5399573" lon="10.1166753"/><trkpt lat="53.5399804" lon="10.1166718"/><trkpt lat="53.5400015" lon="10.1166553"/><trkpt lat="53.5400179" lon="10.1166276"/><trkpt lat="53.5400277" lon="10.1165922"/><trkpt lat="53.5400298" lon="10.1165532"/><trkpt lat="53.5400238" lon="10.1165155"/><trkpt lat="53.5400105" lon="10.1164834"/><trkpt lat="53.5399935" lon="10.1164626"/><trkpt lat="53.5399736" lon="10.1164516"/><trkpt lat="53.5399526" lon="10.1164515"/><trkpt lat="53.5399326" lon="10.1164624"/><trkpt lat="53.5399156" lon="10.1164832"/><trkpt lat="53.5399032" lon="10.1165118"/><trkpt lat="53.5398968" lon="10.1165455"/><trkpt lat="53.5398968" lon="10.1165808"/><trkpt lat="53.5399034" lon="10.1166144"/><trkpt lat="53.5399158" lon="10.116643"/><trkpt lat="53.5399348" lon="10.1166653"/></trkseg></trk><trk><name>way/243378948</name><desc>leisure=swimming_pool
+lit=no
+location=outdoor
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/243378948</desc><trkseg><trkpt lat="53.5539763" lon="9.9511114"/><trkpt lat="53.5538365" lon="9.9511587"/><trkpt lat="53.5538831" lon="9.9515493"/><trkpt lat="53.5540211" lon="9.9515026"/><trkpt lat="53.5540002" lon="9.9513275"/><trkpt lat="53.5540063" lon="9.9513254"/><trkpt lat="53.5540042" lon="9.9513077"/><trkpt lat="53.5540015" lon="9.9512855"/><trkpt lat="53.5539973" lon="9.9512869"/><trkpt lat="53.5539763" lon="9.9511114"/></trkseg></trk><trk><name>way/243379126</name><desc>leisure=swimming_pool
+level=1
+location=outdoor
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/243379126</desc><trkseg><trkpt lat="53.5542856" lon="9.9511095"/><trkpt lat="53.554264" lon="9.9511207"/><trkpt lat="53.554247" lon="9.9511412"/><trkpt lat="53.5542355" lon="9.9511814"/><trkpt lat="53.554235" lon="9.9512225"/><trkpt lat="53.5542429" lon="9.9512592"/><trkpt lat="53.5542582" lon="9.9512904"/><trkpt lat="53.5542765" lon="9.9513073"/><trkpt lat="53.5542936" lon="9.9513147"/><trkpt lat="53.5543095" lon="9.9513083"/><trkpt lat="53.5543042" lon="9.9512588"/><trkpt lat="53.5542901" lon="9.9512588"/><trkpt lat="53.5542768" lon="9.9512459"/><trkpt lat="53.5542695" lon="9.9512265"/><trkpt lat="53.5542692" lon="9.9511988"/><trkpt lat="53.5542789" lon="9.9511765"/><trkpt lat="53.554293" lon="9.9511646"/><trkpt lat="53.5542856" lon="9.9511095"/></trkseg></trk><trk><name>Hamburg Boro Swimming Pool</name><desc>covered=no
+leisure=swimming_pool
+name=Hamburg Boro Swimming Pool
+sport=swimming
+id=way/311505343</desc><trkseg><trkpt lat="40.5579814" lon="-75.9870183"/><trkpt lat="40.557848" lon="-75.9870057"/><trkpt lat="40.5578356" lon="-75.986986"/><trkpt lat="40.5578399" lon="-75.9869074"/><trkpt lat="40.5579867" lon="-75.9869212"/><trkpt lat="40.5579814" lon="-75.9870183"/></trkseg></trk><trk><name>Hamburg Boro Swimming Pool</name><desc>access=yes
+covered=no
+ele=110
+gnis:feature_id=2488776
+leisure=swimming_pool
+location=outdoor
+name=Hamburg Boro Swimming Pool
+sport=swimming
+id=way/311505345</desc><trkseg><trkpt lat="40.5576255" lon="-75.9873387"/><trkpt lat="40.5577313" lon="-75.9873482"/><trkpt lat="40.5577376" lon="-75.9872265"/><trkpt lat="40.5578624" lon="-75.9872377"/><trkpt lat="40.5578645" lon="-75.9871963"/><trkpt lat="40.5577413" lon="-75.9871852"/><trkpt lat="40.5577474" lon="-75.9870664"/><trkpt lat="40.5578327" lon="-75.9870741"/><trkpt lat="40.5578287" lon="-75.9871521"/><trkpt lat="40.5578532" lon="-75.9871543"/><trkpt lat="40.5578573" lon="-75.9870761"/><trkpt lat="40.5579725" lon="-75.9870864"/><trkpt lat="40.5579505" lon="-75.9875111"/><trkpt lat="40.5576181" lon="-75.9874813"/><trkpt lat="40.5576255" lon="-75.9873387"/></trkseg></trk><trk><name>way/313625522</name><desc>access=customers
+leisure=swimming_pool
+length=13.5
+location=outdoor
+id=way/313625522</desc><trkseg><trkpt lat="53.5716959" lon="9.9633926"/><trkpt lat="53.5715988" lon="9.9632559"/><trkpt lat="53.5715732" lon="9.9633074"/><trkpt lat="53.5715802" lon="9.96332"/><trkpt lat="53.5715868" lon="9.9633347"/><trkpt lat="53.5715926" lon="9.9633506"/><trkpt lat="53.571597" lon="9.9633662"/><trkpt lat="53.5716006" lon="9.963383"/><trkpt lat="53.571603" lon="9.963399"/><trkpt lat="53.5716046" lon="9.9634159"/><trkpt lat="53.5716052" lon="9.9634319"/><trkpt lat="53.571605" lon="9.9634479"/><trkpt lat="53.5716041" lon="9.9634612"/><trkpt lat="53.5716381" lon="9.963509"/><trkpt lat="53.5716959" lon="9.9633926"/></trkseg></trk><trk><name>way/317214551</name><desc>access=private
+leisure=swimming_pool
+id=way/317214551</desc><trkseg><trkpt lat="53.5702051" lon="9.8397074"/><trkpt lat="53.5701892" lon="9.8396617"/><trkpt lat="53.5701284" lon="9.8397218"/><trkpt lat="53.5701443" lon="9.8397674"/><trkpt lat="53.5702051" lon="9.8397074"/></trkseg></trk><trk><name>way/331390486</name><desc>access=private
+leisure=swimming_pool
+id=way/331390486</desc><trkseg><trkpt lat="53.6298957" lon="9.8996899"/><trkpt lat="53.6299654" lon="9.8996828"/><trkpt lat="53.6299634" lon="9.8996246"/><trkpt lat="53.6298937" lon="9.8996317"/><trkpt lat="53.6298957" lon="9.8996899"/></trkseg></trk><trk><name>way/441113750</name><desc>leisure=swimming_pool
+sport=swimming
+id=way/441113750</desc><trkseg><trkpt lat="53.5709344" lon="10.0180741"/><trkpt lat="53.5708886" lon="10.0177659"/><trkpt lat="53.5708118" lon="10.0177981"/><trkpt lat="53.5708576" lon="10.0181063"/><trkpt lat="53.5709344" lon="10.0180741"/></trkseg></trk><trk><name>way/441113751</name><desc>leisure=swimming_pool
+sport=swimming
+id=way/441113751</desc><trkseg><trkpt lat="53.5708719" lon="10.0176496"/><trkpt lat="53.5707972" lon="10.0176795"/><trkpt lat="53.570809" lon="10.017763"/><trkpt lat="53.5708838" lon="10.0177331"/><trkpt lat="53.5708719" lon="10.0176496"/></trkseg></trk><trk><name>way/441954133</name><desc>access=private
+leisure=swimming_pool
+id=way/441954133</desc><trkseg><trkpt lat="53.5964977" lon="9.9341964"/><trkpt lat="53.5964041" lon="9.9342591"/><trkpt lat="53.596422" lon="9.934335"/><trkpt lat="53.5965156" lon="9.9342723"/><trkpt lat="53.5964977" lon="9.9341964"/></trkseg></trk><trk><name>way/456214340</name><desc>leisure=swimming_pool
+id=way/456214340</desc><trkseg><trkpt lat="53.5553842" lon="9.8830218"/><trkpt lat="53.5553882" lon="9.8829757"/><trkpt lat="53.5553071" lon="9.8829554"/><trkpt lat="53.555303" lon="9.8830016"/><trkpt lat="53.5553842" lon="9.8830218"/></trkseg></trk><trk><name>way/456216553</name><desc>leisure=swimming_pool
+id=way/456216553</desc><trkseg><trkpt lat="53.5541176" lon="9.8888764"/><trkpt lat="53.5540844" lon="9.8888728"/><trkpt lat="53.5540801" lon="9.8889872"/><trkpt lat="53.5541134" lon="9.8889907"/><trkpt lat="53.5541176" lon="9.8888764"/></trkseg></trk><trk><name>way/458043084</name><desc>access=private
+leisure=swimming_pool
+id=way/458043084</desc><trkseg><trkpt lat="53.5750341" lon="10.010848"/><trkpt lat="53.5749635" lon="10.0108643"/><trkpt lat="53.5749678" lon="10.0109169"/><trkpt lat="53.5750384" lon="10.0109007"/><trkpt lat="53.5750341" lon="10.010848"/></trkseg></trk><trk><name>way/460187968</name><desc>leisure=swimming_pool
+id=way/460187968</desc><trkseg><trkpt lat="53.5574304" lon="9.8810001"/><trkpt lat="53.55735" lon="9.8809955"/><trkpt lat="53.5573485" lon="9.8810711"/><trkpt lat="53.5574288" lon="9.8810757"/><trkpt lat="53.5574304" lon="9.8810001"/></trkseg></trk><trk><name>way/478367215</name><desc>leisure=swimming_pool
+id=way/478367215</desc><trkseg><trkpt lat="40.6047208" lon="-95.6611358"/><trkpt lat="40.6046357" lon="-95.6611623"/><trkpt lat="40.6045247" lon="-95.6608682"/><trkpt lat="40.604553" lon="-95.660823"/><trkpt lat="40.604683" lon="-95.6607795"/><trkpt lat="40.6047161" lon="-95.6608075"/><trkpt lat="40.6047208" lon="-95.6611358"/></trkseg></trk><trk><name>way/508096937</name><desc>leisure=swimming_pool
+id=way/508096937</desc><trkseg><trkpt lat="53.5955383" lon="9.962317"/><trkpt lat="53.5955281" lon="9.9622554"/><trkpt lat="53.5954593" lon="9.9622877"/><trkpt lat="53.5954695" lon="9.9623493"/><trkpt lat="53.5955383" lon="9.962317"/></trkseg></trk><trk><name>way/545018174</name><desc>access=private
+leisure=swimming_pool
+id=way/545018174</desc><trkseg><trkpt lat="40.5564852" lon="-75.982289"/><trkpt lat="40.5564931" lon="-75.982278"/><trkpt lat="40.5565033" lon="-75.9822708"/><trkpt lat="40.5565146" lon="-75.9822684"/><trkpt lat="40.556526" lon="-75.9822708"/><trkpt lat="40.5565361" lon="-75.982278"/><trkpt lat="40.556544" lon="-75.982289"/><trkpt lat="40.5565488" lon="-75.9823028"/><trkpt lat="40.5565499" lon="-75.9823179"/><trkpt lat="40.5565472" lon="-75.9823331"/><trkpt lat="40.5565408" lon="-75.9823462"/><trkpt lat="40.5565314" lon="-75.9823558"/><trkpt lat="40.5565202" lon="-75.9823608"/><trkpt lat="40.5565084" lon="-75.9823607"/><trkpt lat="40.5564972" lon="-75.9823554"/><trkpt lat="40.556488" lon="-75.9823455"/><trkpt lat="40.556482" lon="-75.9823327"/><trkpt lat="40.5564794" lon="-75.9823179"/><trkpt lat="40.5564805" lon="-75.9823028"/><trkpt lat="40.5564852" lon="-75.982289"/></trkseg></trk><trk><name>way/546881838</name><desc>leisure=swimming_pool
+id=way/546881838</desc><trkseg><trkpt lat="40.5572578" lon="-75.9812324"/><trkpt lat="40.5572558" lon="-75.9812408"/><trkpt lat="40.5572511" lon="-75.9812492"/><trkpt lat="40.557243" lon="-75.9812562"/><trkpt lat="40.5572388" lon="-75.981259"/><trkpt lat="40.5572256" lon="-75.9812589"/><trkpt lat="40.5572195" lon="-75.9812611"/><trkpt lat="40.5572147" lon="-75.9812671"/><trkpt lat="40.5572086" lon="-75.9812737"/><trkpt lat="40.5571969" lon="-75.9812746"/><trkpt lat="40.5571891" lon="-75.9812695"/><trkpt lat="40.5571831" lon="-75.9812611"/><trkpt lat="40.5571795" lon="-75.9812529"/><trkpt lat="40.5571767" lon="-75.9812474"/><trkpt lat="40.5571714" lon="-75.9812419"/><trkpt lat="40.5571572" lon="-75.9812326"/><trkpt lat="40.5571506" lon="-75.9812224"/><trkpt lat="40.5571472" lon="-75.9812063"/><trkpt lat="40.5571471" lon="-75.981192"/><trkpt lat="40.5571549" lon="-75.9811782"/><trkpt lat="40.5571669" lon="-75.9811673"/><trkpt lat="40.5571835" lon="-75.9811667"/><trkpt lat="40.5571923" lon="-75.9811729"/><trkpt lat="40.5572024" lon="-75.9811854"/><trkpt lat="40.5572097" lon="-75.9811908"/><trkpt lat="40.5572185" lon="-75.9811925"/><trkpt lat="40.5572274" lon="-75.9811897"/><trkpt lat="40.5572378" lon="-75.9811898"/><trkpt lat="40.557246" lon="-75.9811949"/><trkpt lat="40.5572528" lon="-75.9812031"/><trkpt lat="40.5572556" lon="-75.9812125"/><trkpt lat="40.5572578" lon="-75.9812211"/><trkpt lat="40.5572578" lon="-75.9812324"/></trkseg></trk><trk><name>way/546881839</name><desc>access=private
+leisure=swimming_pool
+id=way/546881839</desc><trkseg><trkpt lat="40.5575745" lon="-75.9811906"/><trkpt lat="40.5575808" lon="-75.9811876"/><trkpt lat="40.5575874" lon="-75.9811873"/><trkpt lat="40.5575938" lon="-75.9811899"/><trkpt lat="40.5575992" lon="-75.981195"/><trkpt lat="40.5576031" lon="-75.9812022"/><trkpt lat="40.557605" lon="-75.9812106"/><trkpt lat="40.5576048" lon="-75.9812194"/><trkpt lat="40.5576024" lon="-75.9812278"/><trkpt lat="40.557598" lon="-75.9812347"/><trkpt lat="40.5575921" lon="-75.9812393"/><trkpt lat="40.5575854" lon="-75.9812411"/><trkpt lat="40.5575786" lon="-75.9812399"/><trkpt lat="40.5575725" lon="-75.9812358"/><trkpt lat="40.5575677" lon="-75.9812293"/><trkpt lat="40.5575649" lon="-75.9812212"/><trkpt lat="40.5575642" lon="-75.9812122"/><trkpt lat="40.5575658" lon="-75.9812036"/><trkpt lat="40.5575693" lon="-75.9811962"/><trkpt lat="40.5575745" lon="-75.9811906"/></trkseg></trk><trk><name>way/546881840</name><desc>access=private
+leisure=swimming_pool
+id=way/546881840</desc><trkseg><trkpt lat="40.5566733" lon="-75.9823164"/><trkpt lat="40.5566813" lon="-75.9823147"/><trkpt lat="40.5566893" lon="-75.9823165"/><trkpt lat="40.5566965" lon="-75.9823215"/><trkpt lat="40.5567021" lon="-75.9823293"/><trkpt lat="40.5567055" lon="-75.982339"/><trkpt lat="40.5567065" lon="-75.9823496"/><trkpt lat="40.5567048" lon="-75.98236"/><trkpt lat="40.5567004" lon="-75.9823697"/><trkpt lat="40.5566938" lon="-75.9823769"/><trkpt lat="40.5566857" lon="-75.9823808"/><trkpt lat="40.5566772" lon="-75.982381"/><trkpt lat="40.556669" lon="-75.9823773"/><trkpt lat="40.5566623" lon="-75.9823703"/><trkpt lat="40.5566577" lon="-75.9823607"/><trkpt lat="40.5566559" lon="-75.9823497"/><trkpt lat="40.5566569" lon="-75.9823385"/><trkpt lat="40.5566604" lon="-75.9823289"/><trkpt lat="40.5566661" lon="-75.9823213"/><trkpt lat="40.5566733" lon="-75.9823164"/></trkseg></trk><trk><name>way/547772929</name><desc>access=private
+leisure=swimming_pool
+id=way/547772929</desc><trkseg><trkpt lat="40.5551544" lon="-75.9787131"/><trkpt lat="40.5551623" lon="-75.9787089"/><trkpt lat="40.5551708" lon="-75.9787086"/><trkpt lat="40.5551788" lon="-75.9787121"/><trkpt lat="40.5551855" lon="-75.978719"/><trkpt lat="40.55519" lon="-75.9787285"/><trkpt lat="40.5551917" lon="-75.9787394"/><trkpt lat="40.5551908" lon="-75.9787494"/><trkpt lat="40.5551875" lon="-75.9787585"/><trkpt lat="40.5551823" lon="-75.9787659"/><trkpt lat="40.5551756" lon="-75.9787707"/><trkpt lat="40.555168" lon="-75.9787726"/><trkpt lat="40.5551604" lon="-75.9787713"/><trkpt lat="40.5551535" lon="-75.978767"/><trkpt lat="40.5551479" lon="-75.9787601"/><trkpt lat="40.5551442" lon="-75.9787512"/><trkpt lat="40.5551428" lon="-75.9787413"/><trkpt lat="40.5551441" lon="-75.9787303"/><trkpt lat="40.5551481" lon="-75.9787205"/><trkpt lat="40.5551544" lon="-75.9787131"/></trkseg></trk><trk><name>way/558436139</name><desc>leisure=swimming_pool
+id=way/558436139</desc><trkseg><trkpt lat="53.6243558" lon="9.9373482"/><trkpt lat="53.624324" lon="9.9373467"/><trkpt lat="53.6243233" lon="9.9373896"/><trkpt lat="53.6243551" lon="9.9373911"/><trkpt lat="53.6243558" lon="9.9373482"/></trkseg></trk><trk><name>way/575285501</name><desc>access=private
+leisure=swimming_pool
+id=way/575285501</desc><trkseg><trkpt lat="53.4521418" lon="9.9579901"/><trkpt lat="53.4520693" lon="9.9579816"/><trkpt lat="53.4520669" lon="9.9580397"/><trkpt lat="53.4521394" lon="9.9580482"/><trkpt lat="53.4521418" lon="9.9579901"/></trkseg></trk><trk><name>way/618570387</name><desc>access=private
+leisure=swimming_pool
+id=way/618570387</desc><trkseg><trkpt lat="53.6160428" lon="10.1478104"/><trkpt lat="53.6160947" lon="10.1478178"/><trkpt lat="53.6160893" lon="10.1476655"/><trkpt lat="53.6160396" lon="10.147671"/><trkpt lat="53.6160428" lon="10.1478104"/></trkseg></trk><trk><name>way/626827348</name><desc>leisure=swimming_pool
+id=way/626827348</desc><trkseg><trkpt lat="53.4461297" lon="9.9795642"/><trkpt lat="53.4461063" lon="9.9795945"/><trkpt lat="53.4461271" lon="9.9796397"/><trkpt lat="53.4461505" lon="9.9796095"/><trkpt lat="53.4461297" lon="9.9795642"/></trkseg></trk><trk><name>way/637250666</name><desc>leisure=swimming_pool
+id=way/637250666</desc><trkseg><trkpt lat="53.5589097" lon="9.8424941"/><trkpt lat="53.55889" lon="9.8425333"/><trkpt lat="53.5589415" lon="9.8426069"/><trkpt lat="53.5589612" lon="9.8425677"/><trkpt lat="53.5589097" lon="9.8424941"/></trkseg></trk><trk><name>way/659271496</name><desc>leisure=swimming_pool
+id=way/659271496</desc><trkseg><trkpt lat="53.5667185" lon="9.8217506"/><trkpt lat="53.5666944" lon="9.8217468"/><trkpt lat="53.5666917" lon="9.8217938"/><trkpt lat="53.5667159" lon="9.8217977"/><trkpt lat="53.5667185" lon="9.8217506"/></trkseg></trk><trk><name>way/678111023</name><desc>access=private
+leisure=swimming_pool
+id=way/678111023</desc><trkseg><trkpt lat="53.6339045" lon="10.1550905"/><trkpt lat="53.633893" lon="10.1550289"/><trkpt lat="53.6338881" lon="10.1550171"/><trkpt lat="53.6338819" lon="10.1550109"/><trkpt lat="53.6338712" lon="10.1550109"/><trkpt lat="53.6338622" lon="10.155015"/><trkpt lat="53.6338544" lon="10.1550275"/><trkpt lat="53.6338536" lon="10.1550496"/><trkpt lat="53.633868" lon="10.1551195"/><trkpt lat="53.6338766" lon="10.1551285"/><trkpt lat="53.6338885" lon="10.1551313"/><trkpt lat="53.6339004" lon="10.1551216"/><trkpt lat="53.6339061" lon="10.1551064"/><trkpt lat="53.6339045" lon="10.1550905"/></trkseg></trk><trk><name>way/678111024</name><desc>access=private
+leisure=swimming_pool
+id=way/678111024</desc><trkseg><trkpt lat="53.633609" lon="10.1572643"/><trkpt lat="53.6336033" lon="10.157244"/><trkpt lat="53.6335925" lon="10.1572304"/><trkpt lat="53.6335793" lon="10.1572268"/><trkpt lat="53.6335667" lon="10.157234"/><trkpt lat="53.6335574" lon="10.1572503"/><trkpt lat="53.6335537" lon="10.157272"/><trkpt lat="53.6335564" lon="10.1572941"/><trkpt lat="53.6335649" lon="10.1573116"/><trkpt lat="53.6335772" lon="10.1573204"/><trkpt lat="53.6335905" lon="10.1573185"/><trkpt lat="53.6336018" lon="10.1573064"/><trkpt lat="53.6336085" lon="10.1572869"/><trkpt lat="53.633609" lon="10.1572643"/></trkseg></trk><trk><name>way/681623401</name><desc>access=private
+leisure=swimming_pool
+id=way/681623401</desc><trkseg><trkpt lat="53.6131807" lon="10.1293503"/><trkpt lat="53.6131889" lon="10.1293018"/><trkpt lat="53.6131896" lon="10.1292822"/><trkpt lat="53.6131855" lon="10.1292643"/><trkpt lat="53.6131759" lon="10.1292609"/><trkpt lat="53.6131667" lon="10.1292661"/><trkpt lat="53.6131615" lon="10.1292742"/><trkpt lat="53.6131581" lon="10.1292863"/><trkpt lat="53.613153" lon="10.1293093"/><trkpt lat="53.6131516" lon="10.1293324"/><trkpt lat="53.613152" lon="10.1293508"/><trkpt lat="53.6131567" lon="10.1293647"/><trkpt lat="53.6131697" lon="10.1293681"/><trkpt lat="53.6131783" lon="10.1293612"/><trkpt lat="53.6131807" lon="10.1293503"/></trkseg></trk><trk><name>way/683661007</name><desc>access=private
+leisure=swimming_pool
+id=way/683661007</desc><trkseg><trkpt lat="53.6364184" lon="10.1829902"/><trkpt lat="53.6363997" lon="10.1829405"/><trkpt lat="53.6363419" lon="10.1830022"/><trkpt lat="53.6363606" lon="10.1830519"/><trkpt lat="53.6364184" lon="10.1829902"/></trkseg></trk><trk><name>way/683661065</name><desc>access=private
+leisure=swimming_pool
+id=way/683661065</desc><trkseg><trkpt lat="53.6359007" lon="10.1844145"/><trkpt lat="53.6358985" lon="10.1844142"/><trkpt lat="53.6358947" lon="10.1845014"/><trkpt lat="53.6359219" lon="10.1845048"/><trkpt lat="53.6359257" lon="10.1844176"/><trkpt lat="53.6359236" lon="10.1844173"/><trkpt lat="53.6359205" lon="10.1844041"/><trkpt lat="53.6359129" lon="10.1843979"/><trkpt lat="53.6359049" lon="10.1844021"/><trkpt lat="53.6359007" lon="10.1844145"/></trkseg></trk><trk><name>way/684929100</name><desc>access=private
+leisure=swimming_pool
+id=way/684929100</desc><trkseg><trkpt lat="53.4959585" lon="10.0152126"/><trkpt lat="53.4959588" lon="10.0151933"/><trkpt lat="53.4959529" lon="10.0151821"/><trkpt lat="53.4959429" lon="10.0151722"/><trkpt lat="53.4959351" lon="10.015174"/><trkpt lat="53.4959239" lon="10.0151839"/><trkpt lat="53.4959198" lon="10.0151977"/><trkpt lat="53.4959178" lon="10.0152072"/><trkpt lat="53.4959104" lon="10.0152148"/><trkpt lat="53.4959055" lon="10.0152276"/><trkpt lat="53.4959065" lon="10.0152462"/><trkpt lat="53.4959094" lon="10.0152542"/><trkpt lat="53.4959148" lon="10.0152636"/><trkpt lat="53.4959221" lon="10.0152706"/><trkpt lat="53.4959317" lon="10.0152713"/><trkpt lat="53.4959421" lon="10.0152607"/><trkpt lat="53.4959453" lon="10.0152476"/><trkpt lat="53.4959503" lon="10.0152345"/><trkpt lat="53.4959581" lon="10.015221"/><trkpt lat="53.4959585" lon="10.0152126"/></trkseg></trk><trk><name>way/686075982</name><desc>access=private
+leisure=swimming_pool
+id=way/686075982</desc><trkseg><trkpt lat="53.4958567" lon="10.0248787"/><trkpt lat="53.4958554" lon="10.0248682"/><trkpt lat="53.4958518" lon="10.0248588"/><trkpt lat="53.4958473" lon="10.0248543"/><trkpt lat="53.4958435" lon="10.0248532"/><trkpt lat="53.4958395" lon="10.0248539"/><trkpt lat="53.4958359" lon="10.0248528"/><trkpt lat="53.4958325" lon="10.0248475"/><trkpt lat="53.4958298" lon="10.0248434"/><trkpt lat="53.4958269" lon="10.0248419"/><trkpt lat="53.4958211" lon="10.0248366"/><trkpt lat="53.495816" lon="10.0248366"/><trkpt lat="53.4958108" lon="10.0248396"/><trkpt lat="53.495807" lon="10.0248423"/><trkpt lat="53.4958028" lon="10.0248517"/><trkpt lat="53.495801" lon="10.0248603"/><trkpt lat="53.4958012" lon="10.0248697"/><trkpt lat="53.4958023" lon="10.0248772"/><trkpt lat="53.4958037" lon="10.024884"/><trkpt lat="53.4958057" lon="10.0248904"/><trkpt lat="53.4958088" lon="10.0248972"/><trkpt lat="53.4958119" lon="10.0249006"/><trkpt lat="53.4958166" lon="10.0249013"/><trkpt lat="53.4958198" lon="10.0249013"/><trkpt lat="53.4958229" lon="10.0249032"/><trkpt lat="53.4958258" lon="10.0249088"/><trkpt lat="53.4958281" lon="10.0249134"/><trkpt lat="53.4958314" lon="10.0249152"/><trkpt lat="53.4958357" lon="10.0249167"/><trkpt lat="53.4958399" lon="10.024916"/><trkpt lat="53.4958428" lon="10.0249149"/><trkpt lat="53.4958466" lon="10.0249126"/><trkpt lat="53.4958495" lon="10.0249107"/><trkpt lat="53.4958524" lon="10.0249066"/><trkpt lat="53.4958551" lon="10.0248991"/><trkpt lat="53.4958565" lon="10.0248942"/><trkpt lat="53.4958563" lon="10.024887"/><trkpt lat="53.4958567" lon="10.0248787"/></trkseg></trk><trk><name>way/686076004</name><desc>access=private
+leisure=swimming_pool
+id=way/686076004</desc><trkseg><trkpt lat="53.4966072" lon="10.0245851"/><trkpt lat="53.4966046" lon="10.0245709"/><trkpt lat="53.4965989" lon="10.0245595"/><trkpt lat="53.4965911" lon="10.0245526"/><trkpt lat="53.4965823" lon="10.0245512"/><trkpt lat="53.4965739" lon="10.0245556"/><trkpt lat="53.4965671" lon="10.024565"/><trkpt lat="53.496563" lon="10.0245782"/><trkpt lat="53.4965622" lon="10.0245929"/><trkpt lat="53.4965648" lon="10.0246071"/><trkpt lat="53.4965704" lon="10.0246185"/><trkpt lat="53.4965782" lon="10.0246254"/><trkpt lat="53.496587" lon="10.0246268"/><trkpt lat="53.4965954" lon="10.0246224"/><trkpt lat="53.4966022" lon="10.0246129"/><trkpt lat="53.4966063" lon="10.0245998"/><trkpt lat="53.4966072" lon="10.0245851"/></trkseg></trk><trk><name>way/686076029</name><desc>access=private
+leisure=swimming_pool
+id=way/686076029</desc><trkseg><trkpt lat="53.4980969" lon="10.0267626"/><trkpt lat="53.4980923" lon="10.0267414"/><trkpt lat="53.4980829" lon="10.0267251"/><trkpt lat="53.4980704" lon="10.0267166"/><trkpt lat="53.4980569" lon="10.0267175"/><trkpt lat="53.4980448" lon="10.0267275"/><trkpt lat="53.4980361" lon="10.0267449"/><trkpt lat="53.4980324" lon="10.0267667"/><trkpt lat="53.4980344" lon="10.0267892"/><trkpt lat="53.4980415" lon="10.0268084"/><trkpt lat="53.4980527" lon="10.026821"/><trkpt lat="53.498066" lon="10.0268249"/><trkpt lat="53.4980791" lon="10.0268194"/><trkpt lat="53.4980897" lon="10.0268053"/><trkpt lat="53.498096" lon="10.0267853"/><trkpt lat="53.4980969" lon="10.0267626"/></trkseg></trk><trk><name>way/686833876</name><desc>leisure=swimming_pool
+id=way/686833876</desc><trkseg><trkpt lat="53.5884958" lon="9.9246295"/><trkpt lat="53.588467" lon="9.9245831"/><trkpt lat="53.5884215" lon="9.9246633"/><trkpt lat="53.5884502" lon="9.9247097"/><trkpt lat="53.5884958" lon="9.9246295"/></trkseg></trk><trk><name>way/708069288</name><desc>access=private
+leisure=swimming_pool
+id=way/708069288</desc><trkseg><trkpt lat="53.6259276" lon="10.1051862"/><trkpt lat="53.6259252" lon="10.1051246"/><trkpt lat="53.6258429" lon="10.1051341"/><trkpt lat="53.6258454" lon="10.1051956"/><trkpt lat="53.6259276" lon="10.1051862"/></trkseg></trk><trk><name>way/709986524</name><desc>access=private
+leisure=swimming_pool
+id=way/709986524</desc><trkseg><trkpt lat="53.4859871" lon="10.0138111"/><trkpt lat="53.4859542" lon="10.013742"/><trkpt lat="53.4858849" lon="10.013835"/><trkpt lat="53.4859177" lon="10.0139041"/><trkpt lat="53.4859871" lon="10.0138111"/></trkseg></trk><trk><name>Kursbecken</name><desc>access=customers
+leisure=swimming_pool
+location=indoor
+name=Kursbecken
+id=way/722746105</desc><trkseg><trkpt lat="53.6216458" lon="10.0298374"/><trkpt lat="53.6214975" lon="10.0298157"/><trkpt lat="53.6214949" lon="10.0298672"/><trkpt lat="53.6215052" lon="10.0298687"/><trkpt lat="53.6214966" lon="10.0300363"/><trkpt lat="53.6216345" lon="10.0300565"/><trkpt lat="53.6216458" lon="10.0298374"/></trkseg></trk><trk><name>way/722746106</name><desc>access=customers
+leisure=swimming_pool
+length=50
+location=indoor
+id=way/722746106</desc><trkseg><trkpt lat="53.6216955" lon="10.0289496"/><trkpt lat="53.6215529" lon="10.0289261"/><trkpt lat="53.6215095" lon="10.0296737"/><trkpt lat="53.6216523" lon="10.0296972"/><trkpt lat="53.6216955" lon="10.0289496"/></trkseg></trk><trk><name>Kleinkindbecken</name><desc>access=customers
+leisure=swimming_pool
+location=indoor
+name=Kleinkindbecken
+id=way/722746107</desc><trkseg><trkpt lat="53.6215567" lon="10.0301201"/><trkpt lat="53.6215525" lon="10.0301201"/><trkpt lat="53.6215483" lon="10.030113"/><trkpt lat="53.6215431" lon="10.0301051"/><trkpt lat="53.6215347" lon="10.030098"/><trkpt lat="53.6215257" lon="10.0300953"/><trkpt lat="53.6214911" lon="10.0300883"/><trkpt lat="53.6214865" lon="10.0300878"/><trkpt lat="53.6214842" lon="10.0300876"/><trkpt lat="53.6214809" lon="10.0301492"/><trkpt lat="53.6214864" lon="10.0301502"/><trkpt lat="53.6215011" lon="10.0301564"/><trkpt lat="53.6215058" lon="10.0301617"/><trkpt lat="53.62151" lon="10.0301644"/><trkpt lat="53.6215147" lon="10.0301626"/><trkpt lat="53.6215189" lon="10.0301679"/><trkpt lat="53.6215226" lon="10.0301821"/><trkpt lat="53.6215268" lon="10.0301944"/><trkpt lat="53.621532" lon="10.0302095"/><trkpt lat="53.6215404" lon="10.0302157"/><trkpt lat="53.6215494" lon="10.0302175"/><trkpt lat="53.6215572" lon="10.0302157"/><trkpt lat="53.621564" lon="10.0302086"/><trkpt lat="53.621573" lon="10.030198"/><trkpt lat="53.6215808" lon="10.0301856"/><trkpt lat="53.6215824" lon="10.0301759"/><trkpt lat="53.6215866" lon="10.0301714"/><trkpt lat="53.6215887" lon="10.0301644"/><trkpt lat="53.6215882" lon="10.0301529"/><trkpt lat="53.6215924" lon="10.030152"/><trkpt lat="53.6215966" lon="10.030152"/><trkpt lat="53.6215997" lon="10.0301476"/><trkpt lat="53.6216024" lon="10.0301414"/><trkpt lat="53.6216024" lon="10.0301334"/><trkpt lat="53.6216008" lon="10.0301245"/><trkpt lat="53.6215961" lon="10.0301192"/><trkpt lat="53.6215903" lon="10.0301228"/><trkpt lat="53.6215871" lon="10.030129"/><trkpt lat="53.6215793" lon="10.0301387"/><trkpt lat="53.6215688" lon="10.0301343"/><trkpt lat="53.6215619" lon="10.0301281"/><trkpt lat="53.6215567" lon="10.0301201"/></trkseg></trk><trk><name>way/727210571</name><desc>leisure=swimming_pool
+id=way/727210571</desc><trkseg><trkpt lat="53.560962" lon="9.9084305"/><trkpt lat="53.5609528" lon="9.9084475"/><trkpt lat="53.5609489" lon="9.9084695"/><trkpt lat="53.5609511" lon="9.9084922"/><trkpt lat="53.5609589" lon="9.9085111"/><trkpt lat="53.5609708" lon="9.9085224"/><trkpt lat="53.5609844" lon="9.9085239"/><trkpt lat="53.5609971" lon="9.9085153"/><trkpt lat="53.5610062" lon="9.9084983"/><trkpt lat="53.5610101" lon="9.9084763"/><trkpt lat="53.561008" lon="9.9084536"/><trkpt lat="53.5610002" lon="9.9084348"/><trkpt lat="53.5609883" lon="9.9084234"/><trkpt lat="53.5609747" lon="9.9084219"/><trkpt lat="53.560962" lon="9.9084305"/></trkseg></trk><trk><name>way/755335392</name><desc>access=private
+leisure=swimming_pool
+id=way/755335392</desc><trkseg><trkpt lat="53.6505411" lon="10.1273994"/><trkpt lat="53.6505106" lon="10.1272663"/><trkpt lat="53.6504701" lon="10.1272928"/><trkpt lat="53.6505007" lon="10.1274259"/><trkpt lat="53.6505411" lon="10.1273994"/></trkseg></trk><trk><name>way/763750214</name><desc>access=private
+leisure=swimming_pool
+id=way/763750214</desc><trkseg><trkpt lat="53.6308049" lon="10.1361399"/><trkpt lat="53.6308086" lon="10.1360405"/><trkpt lat="53.6307685" lon="10.1360362"/><trkpt lat="53.6307648" lon="10.1361356"/><trkpt lat="53.6308049" lon="10.1361399"/></trkseg></trk><trk><name>way/769921864</name><desc>access=private
+leisure=swimming_pool
+id=way/769921864</desc><trkseg><trkpt lat="53.4713509" lon="9.9269387"/><trkpt lat="53.4713489" lon="9.9269679"/><trkpt lat="53.4713565" lon="9.9269943"/><trkpt lat="53.4713714" lon="9.9270098"/><trkpt lat="53.4713888" lon="9.9270098"/><trkpt lat="53.4714036" lon="9.926994"/><trkpt lat="53.4714111" lon="9.9269675"/><trkpt lat="53.4714095" lon="9.9269401"/><trkpt lat="53.4713998" lon="9.9269177"/><trkpt lat="53.4713848" lon="9.9269065"/><trkpt lat="53.4713709" lon="9.9269082"/><trkpt lat="53.4713588" lon="9.9269196"/><trkpt lat="53.4713509" lon="9.9269387"/></trkseg></trk><trk><name>way/791990257</name><desc>leisure=swimming_pool
+id=way/791990257</desc><trkseg><trkpt lat="53.5829031" lon="10.0131824"/><trkpt lat="53.5828553" lon="10.0132243"/><trkpt lat="53.5829021" lon="10.0133756"/><trkpt lat="53.5829498" lon="10.0133337"/><trkpt lat="53.5829031" lon="10.0131824"/></trkseg></trk><trk><name>way/822270877</name><desc>leisure=swimming_pool
+swimming_pool=plunge
+id=way/822270877</desc><trkseg><trkpt lat="53.6165695" lon="10.1083905"/><trkpt lat="53.6165658" lon="10.1083297"/><trkpt lat="53.6165488" lon="10.1083325"/><trkpt lat="53.6165524" lon="10.1083934"/><trkpt lat="53.6165598" lon="10.1083922"/><trkpt lat="53.6165695" lon="10.1083905"/></trkseg></trk><trk><name>way/851533357</name><desc>access=private
+leisure=swimming_pool
+id=way/851533357</desc><trkseg><trkpt lat="53.6781205" lon="10.1094796"/><trkpt lat="53.6780945" lon="10.1092668"/><trkpt lat="53.6780521" lon="10.1092815"/><trkpt lat="53.678078" lon="10.1094944"/><trkpt lat="53.6781205" lon="10.1094796"/></trkseg></trk><trk><name>way/859255024</name><desc>access=private
+leisure=swimming_pool
+location=outdoor
+id=way/859255024</desc><trkseg><trkpt lat="53.5862802" lon="9.8641825"/><trkpt lat="53.5862397" lon="9.8641561"/><trkpt lat="53.586206" lon="9.8643025"/><trkpt lat="53.5862465" lon="9.8643289"/><trkpt lat="53.5862802" lon="9.8641825"/></trkseg></trk><trk><name>way/864611958</name><desc>access=private
+leisure=swimming_pool
+id=way/864611958</desc><trkseg><trkpt lat="53.6967309" lon="10.1390624"/><trkpt lat="53.6966613" lon="10.1390623"/><trkpt lat="53.6966612" lon="10.139117"/><trkpt lat="53.6967308" lon="10.1391171"/><trkpt lat="53.6967309" lon="10.1390624"/></trkseg></trk><trk><name>way/865793335</name><desc>access=private
+leisure=swimming_pool
+id=way/865793335</desc><trkseg><trkpt lat="53.6377464" lon="10.1832072"/><trkpt lat="53.6376915" lon="10.1831213"/><trkpt lat="53.6376717" lon="10.1831572"/><trkpt lat="53.6377266" lon="10.1832432"/><trkpt lat="53.6377464" lon="10.1832072"/></trkseg></trk><trk><name>way/882333688</name><desc>access=private
+leisure=swimming_pool
+id=way/882333688</desc><trkseg><trkpt lat="53.673506" lon="10.1377683"/><trkpt lat="53.6734901" lon="10.1377186"/><trkpt lat="53.6734118" lon="10.13779"/><trkpt lat="53.6734277" lon="10.1378397"/><trkpt lat="53.673506" lon="10.1377683"/></trkseg></trk><trk><name>way/927368063</name><desc>leisure=swimming_pool
+id=way/927368063</desc><trkseg><trkpt lat="53.5910133" lon="9.7599525"/><trkpt lat="53.5909442" lon="9.7599608"/><trkpt lat="53.5909467" lon="9.7600217"/><trkpt lat="53.5910159" lon="9.7600134"/><trkpt lat="53.5910133" lon="9.7599525"/></trkseg></trk><trk><name>way/946064979</name><desc>leisure=swimming_pool
+id=way/946064979</desc><trkseg><trkpt lat="53.5869455" lon="9.7550942"/><trkpt lat="53.5868608" lon="9.7551037"/><trkpt lat="53.5868648" lon="9.7552068"/><trkpt lat="53.5869496" lon="9.7551973"/><trkpt lat="53.5869455" lon="9.7550942"/></trkseg></trk><trk><name>Außenschwimmbecken</name><desc>access=customers
+leisure=swimming_pool
+length=25
+location=outdoor
+name=Außenschwimmbecken
+swimming_pool=outdoor
+id=way/993996592</desc><trkseg><trkpt lat="53.5988259" lon="10.1510778"/><trkpt lat="53.5987134" lon="10.1510856"/><trkpt lat="53.5987238" lon="10.1514699"/><trkpt lat="53.5988372" lon="10.1514621"/><trkpt lat="53.5988259" lon="10.1510778"/></trkseg></trk><trk><name>Planschbecken</name><desc>access=customers
+leisure=swimming_pool
+location=outdoor
+name=Planschbecken
+swimming_pool=outdoor
+id=way/1022638841</desc><trkseg><trkpt lat="53.5986641" lon="10.1510903"/><trkpt lat="53.5985804" lon="10.1510959"/><trkpt lat="53.5985861" lon="10.1512769"/><trkpt lat="53.5986693" lon="10.1512711"/><trkpt lat="53.5986641" lon="10.1510903"/></trkseg></trk><trk><name>way/1052048816</name><desc>access=private
+leisure=swimming_pool
+id=way/1052048816</desc><trkseg><trkpt lat="53.5576455" lon="9.8330411"/><trkpt lat="53.5575598" lon="9.8330171"/><trkpt lat="53.5575523" lon="9.833092"/><trkpt lat="53.5576381" lon="9.8331161"/><trkpt lat="53.5576455" lon="9.8330411"/></trkseg></trk><trk><name>way/1052221464</name><desc>access=private
+leisure=swimming_pool
+id=way/1052221464</desc><trkseg><trkpt lat="53.5701214" lon="9.9035463"/><trkpt lat="53.5701" lon="9.9036643"/><trkpt lat="53.5701398" lon="9.9036847"/><trkpt lat="53.5701612" lon="9.9035668"/><trkpt lat="53.5701214" lon="9.9035463"/></trkseg></trk><trk><name>way/1056291556</name><desc>access=private
+area=yes
+leisure=swimming_pool
+location=outdoor
+swimming_pool=outdoor
+id=way/1056291556</desc><trkseg><trkpt lat="53.4676231" lon="10.1422541"/><trkpt lat="53.4676219" lon="10.1422666"/><trkpt lat="53.4676234" lon="10.1422791"/><trkpt lat="53.4676272" lon="10.14229"/><trkpt lat="53.467633" lon="10.1422981"/><trkpt lat="53.4676401" lon="10.1423025"/><trkpt lat="53.4676477" lon="10.1423026"/><trkpt lat="53.4676544" lon="10.1422988"/><trkpt lat="53.4676601" lon="10.1422916"/><trkpt lat="53.4676641" lon="10.1422817"/><trkpt lat="53.4676661" lon="10.1422703"/><trkpt lat="53.4676658" lon="10.1422583"/><trkpt lat="53.4676633" lon="10.1422471"/><trkpt lat="53.4676588" lon="10.1422379"/><trkpt lat="53.4676527" lon="10.1422315"/><trkpt lat="53.4676458" lon="10.1422287"/><trkpt lat="53.4676387" lon="10.1422297"/><trkpt lat="53.4676322" lon="10.1422344"/><trkpt lat="53.4676266" lon="10.1422429"/><trkpt lat="53.4676231" lon="10.1422541"/></trkseg></trk><trk><name>way/1074743493</name><desc>leisure=swimming_pool
+id=way/1074743493</desc><trkseg><trkpt lat="53.5626524" lon="9.8060387"/><trkpt lat="53.5627189" lon="9.8061231"/><trkpt lat="53.5627279" lon="9.8061032"/><trkpt lat="53.5627349" lon="9.8061122"/><trkpt lat="53.5627495" lon="9.8060796"/><trkpt lat="53.5626759" lon="9.8059862"/><trkpt lat="53.5626524" lon="9.8060387"/></trkseg></trk><trk><name>way/1081088883</name><desc>access=private
+leisure=swimming_pool
+id=way/1081088883</desc><trkseg><trkpt lat="53.6800612" lon="10.0048618"/><trkpt lat="53.6800608" lon="10.004875"/><trkpt lat="53.6800629" lon="10.0048877"/><trkpt lat="53.6800672" lon="10.0048987"/><trkpt lat="53.6800734" lon="10.0049068"/><trkpt lat="53.6800813" lon="10.0049113"/><trkpt lat="53.6800895" lon="10.0049111"/><trkpt lat="53.6800973" lon="10.0049062"/><trkpt lat="53.6801036" lon="10.0048973"/><trkpt lat="53.6801078" lon="10.0048853"/><trkpt lat="53.6801094" lon="10.0048717"/><trkpt lat="53.6801083" lon="10.0048579"/><trkpt lat="53.6801044" lon="10.0048455"/><trkpt lat="53.6800984" lon="10.004836"/><trkpt lat="53.6800912" lon="10.0048307"/><trkpt lat="53.6800834" lon="10.0048294"/><trkpt lat="53.6800758" lon="10.0048324"/><trkpt lat="53.6800691" lon="10.0048394"/><trkpt lat="53.6800641" lon="10.0048495"/><trkpt lat="53.6800612" lon="10.0048618"/></trkseg></trk><trk><name>way/1081088884</name><desc>access=private
+leisure=swimming_pool
+id=way/1081088884</desc><trkseg><trkpt lat="53.6802183" lon="10.0050618"/><trkpt lat="53.6802062" lon="10.005025"/><trkpt lat="53.6801879" lon="10.0050212"/><trkpt lat="53.680173" lon="10.0050492"/><trkpt lat="53.6801822" lon="10.0050801"/><trkpt lat="53.6801976" lon="10.0050985"/><trkpt lat="53.6802154" lon="10.0051053"/><trkpt lat="53.6802274" lon="10.0051033"/><trkpt lat="53.6802297" lon="10.0050859"/><trkpt lat="53.6802274" lon="10.0050724"/><trkpt lat="53.6802183" lon="10.0050618"/></trkseg></trk><trk><name>way/1090777472</name><desc>leisure=swimming_pool
+id=way/1090777472</desc><trkseg><trkpt lat="53.5014735" lon="10.1756554"/><trkpt lat="53.5014119" lon="10.1757446"/><trkpt lat="53.5014382" lon="10.1757959"/><trkpt lat="53.5014998" lon="10.1757068"/><trkpt lat="53.5014735" lon="10.1756554"/></trkseg></trk><trk><name>way/1090777473</name><desc>leisure=swimming_pool
+id=way/1090777473</desc><trkseg><trkpt lat="53.5016132" lon="10.1756372"/><trkpt lat="53.5016172" lon="10.1756693"/><trkpt lat="53.5016316" lon="10.1757029"/><trkpt lat="53.5016435" lon="10.1757257"/><trkpt lat="53.5016587" lon="10.1757297"/><trkpt lat="53.5016682" lon="10.1757176"/><trkpt lat="53.5016746" lon="10.1756921"/><trkpt lat="53.5016675" lon="10.175668"/><trkpt lat="53.5016475" lon="10.1756278"/><trkpt lat="53.5016355" lon="10.175617"/><trkpt lat="53.5016212" lon="10.1756184"/><trkpt lat="53.5016132" lon="10.1756372"/></trkseg></trk><trk><name>way/1135667542</name><desc>access=private
+leisure=swimming_pool
+location=outdoor
+id=way/1135667542</desc><trkseg><trkpt lat="53.5652659" lon="9.7728057"/><trkpt lat="53.5653213" lon="9.7728262"/><trkpt lat="53.565345" lon="9.7726437"/><trkpt lat="53.5652896" lon="9.7726233"/><trkpt lat="53.5652659" lon="9.7728057"/></trkseg></trk><trk><name>way/1155890927</name><desc>access=private
+leisure=swimming_pool
+id=way/1155890927</desc><trkseg><trkpt lat="53.6647363" lon="10.0830289"/><trkpt lat="53.6646743" lon="10.0830523"/><trkpt lat="53.6646826" lon="10.0831149"/><trkpt lat="53.6647446" lon="10.0830914"/><trkpt lat="53.6647363" lon="10.0830289"/></trkseg></trk><trk><name>way/1156148736</name><desc>access=private
+leisure=swimming_pool
+id=way/1156148736</desc><trkseg><trkpt lat="53.6657997" lon="10.0836588"/><trkpt lat="53.6658073" lon="10.0836784"/><trkpt lat="53.6658203" lon="10.0836866"/><trkpt lat="53.6658337" lon="10.0836804"/><trkpt lat="53.6658423" lon="10.0836621"/><trkpt lat="53.665843" lon="10.0836387"/><trkpt lat="53.6658353" lon="10.0836192"/><trkpt lat="53.6658223" lon="10.0836109"/><trkpt lat="53.665809" lon="10.0836171"/><trkpt lat="53.6658003" lon="10.0836354"/><trkpt lat="53.6657997" lon="10.0836588"/></trkseg></trk><trk><name>way/1157389910</name><desc>leisure=swimming_pool
+id=way/1157389910</desc><trkseg><trkpt lat="53.6550315" lon="10.0821407"/><trkpt lat="53.6549773" lon="10.0822335"/><trkpt lat="53.6550017" lon="10.0822742"/><trkpt lat="53.6550559" lon="10.0821814"/><trkpt lat="53.6550315" lon="10.0821407"/></trkseg></trk><trk><name>way/1160824777</name><desc>access=private
+leisure=swimming_pool
+id=way/1160824777</desc><trkseg><trkpt lat="53.5973329" lon="9.9695897"/><trkpt lat="53.5973016" lon="9.969589"/><trkpt lat="53.5973008" lon="9.9696846"/><trkpt lat="53.5973321" lon="9.9696853"/><trkpt lat="53.5973329" lon="9.9695897"/></trkseg></trk><trk><name>way/1160824778</name><desc>access=private
+leisure=swimming_pool
+id=way/1160824778</desc><trkseg><trkpt lat="53.5973056" lon="9.9697005"/><trkpt lat="53.5973055" lon="9.9697049"/><trkpt lat="53.5973062" lon="9.9697092"/><trkpt lat="53.5973077" lon="9.9697128"/><trkpt lat="53.5973098" lon="9.9697154"/><trkpt lat="53.5973123" lon="9.9697167"/><trkpt lat="53.5973149" lon="9.9697165"/><trkpt lat="53.5973174" lon="9.9697149"/><trkpt lat="53.5973194" lon="9.9697121"/><trkpt lat="53.5973208" lon="9.9697083"/><trkpt lat="53.5973213" lon="9.969704"/><trkpt lat="53.597321" lon="9.9696997"/><trkpt lat="53.5973199" lon="9.9696957"/><trkpt lat="53.597318" lon="9.9696925"/><trkpt lat="53.5973157" lon="9.9696905"/><trkpt lat="53.5973131" lon="9.9696899"/><trkpt lat="53.5973105" lon="9.9696908"/><trkpt lat="53.5973083" lon="9.969693"/><trkpt lat="53.5973065" lon="9.9696964"/><trkpt lat="53.5973056" lon="9.9697005"/></trkseg></trk><trk><name>way/1162851933</name><desc>leisure=swimming_pool
+id=way/1162851933</desc><trkseg><trkpt lat="53.6339278" lon="10.051792"/><trkpt lat="53.6339324" lon="10.0517712"/><trkpt lat="53.633924" lon="10.0517466"/><trkpt lat="53.633911" lon="10.0517429"/><trkpt lat="53.6338482" lon="10.051804"/><trkpt lat="53.6338443" lon="10.0518241"/><trkpt lat="53.6338526" lon="10.0518487"/><trkpt lat="53.633865" lon="10.0518531"/><trkpt lat="53.6339278" lon="10.051792"/></trkseg></trk><trk><name>way/1194163567</name><desc>leisure=swimming_pool
+id=way/1194163567</desc><trkseg><trkpt lat="41.1457444" lon="-74.566423"/><trkpt lat="41.1457211" lon="-74.5664472"/><trkpt lat="41.1456908" lon="-74.5664498"/><trkpt lat="41.1456656" lon="-74.5663975"/><trkpt lat="41.1456908" lon="-74.5663452"/><trkpt lat="41.1457353" lon="-74.5663493"/><trkpt lat="41.1457444" lon="-74.566423"/></trkseg></trk><trk><name>way/1194163570</name><desc>leisure=swimming_pool
+id=way/1194163570</desc><trkseg><trkpt lat="41.1463565" lon="-74.5672989"/><trkpt lat="41.1463191" lon="-74.5672761"/><trkpt lat="41.1463648" lon="-74.5671961"/><trkpt lat="41.1463903" lon="-74.5672242"/><trkpt lat="41.1463565" lon="-74.5672989"/></trkseg></trk><trk><name>way/1194163571</name><desc>leisure=swimming_pool
+id=way/1194163571</desc><trkseg><trkpt lat="41.1468685" lon="-74.5681183"/><trkpt lat="41.1468111" lon="-74.5680728"/><trkpt lat="41.1468696" lon="-74.5679581"/><trkpt lat="41.1469218" lon="-74.5679973"/><trkpt lat="41.1468685" lon="-74.5681183"/></trkseg></trk><trk><name>way/1194277466</name><desc>access=yes
+leisure=swimming_pool
+lit=no
+location=outdoor
+swimming_pool=children's_pool
+id=way/1194277466</desc><trkseg><trkpt lat="53.5701499" lon="9.9699986"/><trkpt lat="53.5701391" lon="9.9699679"/><trkpt lat="53.5701243" lon="9.9699463"/><trkpt lat="53.5701068" lon="9.9699361"/><trkpt lat="53.5700906" lon="9.9699361"/><trkpt lat="53.570071" lon="9.969944"/><trkpt lat="53.5700535" lon="9.9699622"/><trkpt lat="53.570038" lon="9.9699929"/><trkpt lat="53.5700312" lon="9.9700428"/><trkpt lat="53.5700393" lon="9.9700883"/><trkpt lat="53.5700542" lon="9.9701223"/><trkpt lat="53.5700737" lon="9.9701371"/><trkpt lat="53.5700953" lon="9.9701428"/><trkpt lat="53.5701169" lon="9.9701348"/><trkpt lat="53.5701425" lon="9.9700985"/><trkpt lat="53.5701513" lon="9.9700712"/><trkpt lat="53.5701553" lon="9.9700372"/><trkpt lat="53.5701499" lon="9.9699986"/></trkseg></trk><trk><name>way/1246983363</name><desc>access=private
+leisure=swimming_pool
+id=way/1246983363</desc><trkseg><trkpt lat="53.6716745" lon="10.0903489"/><trkpt lat="53.6716447" lon="10.0903222"/><trkpt lat="53.6716134" lon="10.0904217"/><trkpt lat="53.6716431" lon="10.0904485"/><trkpt lat="53.6716745" lon="10.0903489"/></trkseg></trk><trk><name>way/1249282315</name><desc>access=private
+leisure=swimming_pool
+location=outdoor
+id=way/1249282315</desc><trkseg><trkpt lat="53.6630233" lon="10.1030861"/><trkpt lat="53.6629947" lon="10.1030394"/><trkpt lat="53.6629436" lon="10.1031285"/><trkpt lat="53.6629723" lon="10.1031753"/><trkpt lat="53.6630233" lon="10.1030861"/></trkseg></trk><trk><name>way/1249282316</name><desc>access=private
+leisure=swimming_pool
+location=outdoor
+id=way/1249282316</desc><trkseg><trkpt lat="53.6663281" lon="10.1039099"/><trkpt lat="53.6663216" lon="10.103897"/><trkpt lat="53.6663139" lon="10.103889"/><trkpt lat="53.6663044" lon="10.10389"/><trkpt lat="53.6662991" lon="10.103899"/><trkpt lat="53.666295" lon="10.1039119"/><trkpt lat="53.6662979" lon="10.1039797"/><trkpt lat="53.6663037" lon="10.1039936"/><trkpt lat="53.6663115" lon="10.1039977"/><trkpt lat="53.6663198" lon="10.1039977"/><trkpt lat="53.6663259" lon="10.103991"/><trkpt lat="53.6663304" lon="10.1039747"/><trkpt lat="53.6663281" lon="10.1039099"/></trkseg></trk><trk><name>way/1254371508</name><desc>access=private
+leisure=swimming_pool
+id=way/1254371508</desc><trkseg><trkpt lat="53.637837" lon="10.0652828"/><trkpt lat="53.6379187" lon="10.065513"/><trkpt lat="53.6379478" lon="10.0654836"/><trkpt lat="53.6378661" lon="10.0652534"/><trkpt lat="53.637837" lon="10.0652828"/></trkseg></trk><trk><name>way/1254635237</name><desc>access=private
+leisure=swimming_pool
+id=way/1254635237</desc><trkseg><trkpt lat="53.6385489" lon="10.0696004"/><trkpt lat="53.6384294" lon="10.069687"/><trkpt lat="53.6384461" lon="10.0697528"/><trkpt lat="53.6385657" lon="10.0696662"/><trkpt lat="53.6385489" lon="10.0696004"/></trkseg></trk><trk><name>way/1255000314</name><desc>access=private
+leisure=swimming_pool
+id=way/1255000314</desc><trkseg><trkpt lat="53.6404864" lon="10.0716006"/><trkpt lat="53.6405423" lon="10.0715601"/><trkpt lat="53.6405466" lon="10.0715429"/><trkpt lat="53.6405375" lon="10.0715073"/><trkpt lat="53.6405272" lon="10.0715007"/><trkpt lat="53.6404713" lon="10.0715412"/><trkpt lat="53.6404671" lon="10.0715582"/><trkpt lat="53.6404762" lon="10.0715939"/><trkpt lat="53.6404864" lon="10.0716006"/></trkseg></trk><trk><name>way/1255377260</name><desc>access=private
+leisure=swimming_pool
+id=way/1255377260</desc><trkseg><trkpt lat="53.6393873" lon="10.0754034"/><trkpt lat="53.6393511" lon="10.0754073"/><trkpt lat="53.6393578" lon="10.0755847"/><trkpt lat="53.639394" lon="10.0755808"/><trkpt lat="53.6393873" lon="10.0754034"/></trkseg></trk><trk><name>way/1267531045</name><desc>access=private
+leisure=swimming_pool
+id=way/1267531045</desc><trkseg><trkpt lat="53.6302388" lon="10.0421691"/><trkpt lat="53.6301661" lon="10.0422339"/><trkpt lat="53.6301807" lon="10.0422804"/><trkpt lat="53.6302534" lon="10.0422156"/><trkpt lat="53.6302388" lon="10.0421691"/></trkseg></trk><trk><name>way/1296929459</name><desc>leisure=swimming_pool
+id=way/1296929459</desc><trkseg><trkpt lat="53.4632983" lon="9.8866362"/><trkpt lat="53.4632713" lon="9.8866637"/><trkpt lat="53.463307" lon="9.8867624"/><trkpt lat="53.463334" lon="9.8867349"/><trkpt lat="53.4632983" lon="9.8866362"/></trkseg></trk><trk><name>way/1302093185</name><desc>access=private
+leisure=swimming_pool
+id=way/1302093185</desc><trkseg><trkpt lat="53.6376976" lon="10.1854567"/><trkpt lat="53.637676" lon="10.1854964"/><trkpt lat="53.6377438" lon="10.1856009"/><trkpt lat="53.6377654" lon="10.1855612"/><trkpt lat="53.6376976" lon="10.1854567"/></trkseg></trk><trk><name>way/1302846454</name><desc>leisure=swimming_pool
+id=way/1302846454</desc><trkseg><trkpt lat="53.4472185" lon="9.979661"/><trkpt lat="53.4471994" lon="9.9796302"/><trkpt lat="53.4471674" lon="9.9796141"/><trkpt lat="53.4471243" lon="9.9796074"/><trkpt lat="53.4470979" lon="9.9796208"/><trkpt lat="53.447082" lon="9.9796557"/><trkpt lat="53.4470796" lon="9.9797133"/><trkpt lat="53.4470971" lon="9.9797536"/><trkpt lat="53.4471299" lon="9.9797576"/><trkpt lat="53.4471674" lon="9.9797321"/><trkpt lat="53.4471994" lon="9.9797227"/><trkpt lat="53.4472161" lon="9.979716"/><trkpt lat="53.4472265" lon="9.9796825"/><trkpt lat="53.4472185" lon="9.979661"/></trkseg></trk><trk><name>way/1309489718</name><desc>leisure=swimming_pool
+id=way/1309489718</desc><trkseg><trkpt lat="53.5504936" lon="9.8613763"/><trkpt lat="53.5504539" lon="9.8614062"/><trkpt lat="53.5505027" lon="9.8615741"/><trkpt lat="53.5505404" lon="9.8615418"/><trkpt lat="53.5504936" lon="9.8613763"/></trkseg></trk><trk><name>way/1321641531</name><desc>leisure=swimming_pool
+id=way/1321641531</desc><trkseg><trkpt lat="53.5693488" lon="9.8185687"/><trkpt lat="53.5693464" lon="9.8184306"/><trkpt lat="53.5693122" lon="9.8184333"/><trkpt lat="53.569313" lon="9.8185701"/><trkpt lat="53.5693488" lon="9.8185687"/></trkseg></trk><trk><name>way/1327537655</name><desc>leisure=swimming_pool
+id=way/1327537655</desc><trkseg><trkpt lat="53.4571702" lon="10.0085799"/><trkpt lat="53.4571542" lon="10.0086266"/><trkpt lat="53.4572146" lon="10.0086851"/><trkpt lat="53.4572298" lon="10.0086406"/><trkpt lat="53.4571702" lon="10.0085799"/></trkseg></trk><trk><name>way/1362309386</name><desc>access=private
+leisure=swimming_pool
+location=outdoor
+id=way/1362309386</desc><trkseg><trkpt lat="53.566252" lon="9.8445762"/><trkpt lat="53.5662441" lon="9.8446482"/><trkpt lat="53.5663431" lon="9.8446789"/><trkpt lat="53.5663448" lon="9.8446632"/><trkpt lat="53.566354" lon="9.8446599"/><trkpt lat="53.5663596" lon="9.8446461"/><trkpt lat="53.5663579" lon="9.8446302"/><trkpt lat="53.5663493" lon="9.8446218"/><trkpt lat="53.566351" lon="9.8446068"/><trkpt lat="53.566252" lon="9.8445762"/></trkseg></trk><trk><name>way/1362309387</name><desc>access=private
+leisure=swimming_pool
+location=outdoor
+id=way/1362309387</desc><trkseg><trkpt lat="53.5664993" lon="9.8434048"/><trkpt lat="53.5665101" lon="9.8433686"/><trkpt lat="53.5665236" lon="9.8433451"/><trkpt lat="53.5665265" lon="9.8433223"/><trkpt lat="53.5664976" lon="9.8432772"/><trkpt lat="53.5664929" lon="9.8432584"/><trkpt lat="53.5664937" lon="9.8432372"/><trkpt lat="53.5665046" lon="9.8431822"/><trkpt lat="53.5664953" lon="9.8431491"/><trkpt lat="53.5664655" lon="9.8431183"/><trkpt lat="53.5664502" lon="9.8431176"/><trkpt lat="53.5664286" lon="9.8431743"/><trkpt lat="53.566429" lon="9.8431921"/><trkpt lat="53.5664565" lon="9.8432482"/><trkpt lat="53.5664633" lon="9.8432851"/><trkpt lat="53.5664554" lon="9.8434001"/><trkpt lat="53.5664993" lon="9.8434048"/></trkseg></trk></gpx>

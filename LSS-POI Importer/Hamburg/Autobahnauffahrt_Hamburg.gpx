@@ -1,0 +1,701 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.4250112" lon="9.9278571"><name>Hamburg-Marmstorf / Lürade</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10700
+TMC:cid_58:tabcd_1:NextLocationCode=10701
+TMC:cid_58:tabcd_1:PrevLocationCode=10699
+highway=motorway_junction
+name=Hamburg-Marmstorf / Lürade
+ref=2
+id=node/131118</desc></wpt><wpt lat="53.5096919" lon="10.047011"><name>Dreieck Norderelbe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10140
+TMC:cid_58:tabcd_1:NextLocationCode=10141
+TMC:cid_58:tabcd_1:PrevLocationCode=10139
+TMC:cid_58:tabcd_1:TypeName=motorway intersection
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnkreuz
+highway=motorway_junction
+name=Dreieck Norderelbe
+old_name=Kreuz Hamburg-Süd
+ref=36
+id=node/148112</desc></wpt><wpt lat="53.586053" lon="9.9155465"><name>Hamburg-Volkspark</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12379
+TMC:cid_58:tabcd_1:NextLocationCode=12380
+TMC:cid_58:tabcd_1:PrevLocationCode=12378
+check_date=2024-03-06
+ele=27.54
+highway=motorway_junction
+name=Hamburg-Volkspark
+ref=27
+time=2003-09-27T15:40:49Z
+id=node/491108</desc></wpt><wpt lat="53.5565316" lon="9.8975877"><name>Hamburg-Othmarschen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12377
+TMC:cid_58:tabcd_1:NextLocationCode=12378
+TMC:cid_58:tabcd_1:PrevLocationCode=12376
+ele=6.39
+highway=motorway_junction
+layer=1
+name=Hamburg-Othmarschen
+ref=29
+time=2003-09-27T15:42:58Z
+id=node/491128</desc></wpt><wpt lat="53.5177941" lon="9.9205855"><name>Hamburg-Waltershof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12375
+TMC:cid_58:tabcd_1:NextLocationCode=12376
+TMC:cid_58:tabcd_1:PrevLocationCode=12374
+ele=10.23
+highway=motorway_junction
+layer=1
+name=Hamburg-Waltershof
+ref=30
+time=2003-09-27T15:47:06Z
+id=node/491151</desc></wpt><wpt lat="53.4686742" lon="9.9226586"><name>Hamburg-Heimfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12373
+TMC:cid_58:tabcd_1:NextLocationCode=12374
+TMC:cid_58:tabcd_1:PrevLocationCode=12372
+ele=16.0
+highway=motorway_junction
+name=Hamburg-Heimfeld
+ref=32
+time=2003-09-27T15:51:17Z
+id=node/491179</desc></wpt><wpt lat="53.439472" lon="9.921407"><name>Dreieck Hamburg-Südwest</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12372
+TMC:cid_58:tabcd_1:NextLocationCode=12373
+TMC:cid_58:tabcd_1:PrevLocationCode=12371
+highway=motorway_junction
+name=Dreieck Hamburg-Südwest
+ref=33
+wikidata=Q2458798
+id=node/491213</desc></wpt><wpt lat="53.4319165" lon="9.9372877"><name>Hamburg-Marmstorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12371
+TMC:cid_58:tabcd_1:NextLocationCode=12372
+TMC:cid_58:tabcd_1:PrevLocationCode=12370
+ele=72.24
+highway=motorway_junction
+name=Hamburg-Marmstorf
+ref=34
+time=2003-09-18T19:03:42Z
+id=node/495968</desc></wpt><wpt lat="53.4637419" lon="9.9279453"><name>Hamburg-Heimfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12373
+TMC:cid_58:tabcd_1:NextLocationCode=12374
+TMC:cid_58:tabcd_1:PrevLocationCode=12372
+ele=38.59
+highway=motorway_junction
+name=Hamburg-Heimfeld
+ref=32
+time=2003-09-18T19:05:52Z
+id=node/495998</desc></wpt><wpt lat="53.5121744" lon="9.9147752"><name>Hamburg-Waltershof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12375
+TMC:cid_58:tabcd_1:NextLocationCode=12376
+TMC:cid_58:tabcd_1:PrevLocationCode=12374
+ele=16.0
+highway=motorway_junction
+layer=1
+name=Hamburg-Waltershof
+ref=30
+time=2003-09-18T19:09:30Z
+id=node/496030</desc></wpt><wpt lat="53.5947081" lon="9.9225522"><name>Hamburg-Stellingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12380
+TMC:cid_58:tabcd_1:NextLocationCode=12381
+TMC:cid_58:tabcd_1:PrevLocationCode=12379
+highway=motorway_junction
+name=Hamburg-Stellingen
+ref=26
+id=node/496110</desc></wpt><wpt lat="53.6421789" lon="9.9288123"><name>Hamburg-Schnelsen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12383
+TMC:cid_58:tabcd_1:NextLocationCode=12384
+TMC:cid_58:tabcd_1:PrevLocationCode=12382
+highway=motorway_junction
+name=Hamburg-Schnelsen-Nord
+ref=23
+id=node/496140</desc></wpt><wpt lat="53.5242253" lon="10.1294567"><name>Hamburg-Billstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10143
+TMC:cid_58:tabcd_1:NextLocationCode=10144
+TMC:cid_58:tabcd_1:PrevLocationCode=10142
+highway=motorway_junction
+name=Hamburg-Billstedt
+ref=33
+id=node/13330228</desc></wpt><wpt lat="53.5253771" lon="10.1306986"><name>Hamburg-Billstedt</name><desc>highway=motorway_junction
+name=Hamburg-Billstedt
+ref=33
+id=node/13330231</desc></wpt><wpt lat="53.5417208" lon="10.1461067"><name>Hamburg-Öjendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10144
+TMC:cid_58:tabcd_1:NextLocationCode=10145
+TMC:cid_58:tabcd_1:PrevLocationCode=10143
+highway=motorway_junction
+name=Hamburg-Öjendorf
+ref=32
+id=node/13330237</desc></wpt><wpt lat="53.5544931" lon="10.1519066"><name>Kreuz Hamburg-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10145
+TMC:cid_58:tabcd_1:NextLocationCode=55014
+TMC:cid_58:tabcd_1:PrevLocationCode=10144
+highway=motorway_junction
+name=Kreuz Hamburg-Ost
+ref=31
+id=node/13330252</desc></wpt><wpt lat="53.46117" lon="9.9986087"><name>Hamburg-Neuland</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=23240
+TMC:cid_58:tabcd_1:NextLocationCode=53817
+TMC:cid_58:tabcd_1:PrevLocationCode=23238
+highway=motorway_junction
+name=Hamburg-Neuland
+old_ref=4
+id=node/14642080</desc></wpt><wpt lat="53.5836693" lon="9.9161941"><name>Hamburg-Volkspark</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12379
+TMC:cid_58:tabcd_1:NextLocationCode=12380
+TMC:cid_58:tabcd_1:PrevLocationCode=12378
+highway=motorway_junction
+name=Hamburg-Volkspark
+ref=27
+id=node/14949205</desc></wpt><wpt lat="53.5169516" lon="10.0122785"><name>Hamburg-Georgswerder</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25066
+TMC:cid_58:tabcd_1:NextLocationCode=35614
+TMC:cid_58:tabcd_1:PrevLocationCode=53815
+highway=motorway_junction
+name=Hamburg-Georgswerder
+old_ref=6
+id=node/15425989</desc></wpt><wpt lat="53.6374521" lon="10.0093698"><name>node/16381565</name><desc>highway=motorway_junction
+id=node/16381565</desc></wpt><wpt lat="53.5671379" lon="10.1262684"><name>Hamburg-Jenfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10641
+TMC:cid_58:tabcd_1:NextLocationCode=10642
+TMC:cid_58:tabcd_1:PrevLocationCode=10640
+highway=motorway_junction
+name=Hamburg-Jenfeld
+ref=2
+id=node/21375800</desc></wpt><wpt lat="53.6319683" lon="10.0092706"><name>node/21397094</name><desc>highway=motorway_junction
+id=node/21397094</desc></wpt><wpt lat="53.4631529" lon="10.025666"><name>Hamburg-Harburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10137
+TMC:cid_58:tabcd_1:NextLocationCode=10138
+TMC:cid_58:tabcd_1:PrevLocationCode=10136
+highway=motorway_junction
+name=Hamburg-Harburg
+ref=38
+id=node/25434268</desc></wpt><wpt lat="53.5373129" lon="10.1048318"><name>HH-Billstedt-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=35790
+TMC:cid_58:tabcd_1:NextLocationCode=24046
+TMC:cid_58:tabcd_1:PrevLocationCode=24045
+highway=motorway_junction
+name=HH-Billstedt-Mitte
+noref=yes
+id=node/26019564</desc></wpt><wpt lat="53.509585" lon="10.0961249"><name>Dreieck Hamburg-Südost;Hamburg-Moorfleet</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10142
+TMC:cid_58:tabcd_1:NextLocationCode=10143
+TMC:cid_58:tabcd_1:PrevLocationCode=10141
+colour=blue
+guidepost=overhead
+highway=motorway_junction
+name=Dreieck Hamburg-Südost;Hamburg-Moorfleet
+ref=34;35
+id=node/27235328</desc></wpt><wpt lat="40.5607037" lon="-75.9878763"><name>30</name><desc>highway=motorway_junction
+ref=30
+id=node/27607160</desc></wpt><wpt lat="53.4864101" lon="10.1165675"><name>Hamburg-Allermöhe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10676
+TMC:cid_58:tabcd_1:NextLocationCode=10677
+TMC:cid_58:tabcd_1:PrevLocationCode=10675
+highway=motorway_junction
+name=Hamburg-Allermöhe
+ref=2
+id=node/29537855</desc></wpt><wpt lat="53.4736102" lon="10.1770983"><name>Hamburg-Nettelnburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10678
+TMC:cid_58:tabcd_1:NextLocationCode=10679
+TMC:cid_58:tabcd_1:PrevLocationCode=10677
+highway=motorway_junction
+name=Hamburg-Nettelnburg
+ref=4
+id=node/29537874</desc></wpt><wpt lat="53.476116" lon="10.2099495"><name>Hamburg-Bergedorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10679
+TMC:cid_58:tabcd_1:NextLocationCode=10680
+TMC:cid_58:tabcd_1:PrevLocationCode=10678
+highway=motorway_junction
+name=Hamburg-Bergedorf
+ref=5
+id=node/31821204</desc></wpt><wpt lat="53.4800291" lon="10.1527242"><name>Hamburg-Neuallermöhe-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10677
+TMC:cid_58:tabcd_1:NextLocationCode=10678
+TMC:cid_58:tabcd_1:PrevLocationCode=10676
+highway=motorway_junction
+name=Hamburg-Neuallermöhe-West
+ref=3
+id=node/31821233</desc></wpt><wpt lat="53.5051008" lon="10.0820042"><name>Dreieck Hamburg-Südost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10675
+TMC:cid_58:tabcd_1:NextLocationCode=10676
+highway=motorway_junction
+layer=1
+name=Dreieck Hamburg-Südost
+ref=1
+id=node/31821279</desc></wpt><wpt lat="53.4662592" lon="9.9967182"><name>Hamburg-Neuland</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=23240
+TMC:cid_58:tabcd_1:NextLocationCode=53817
+TMC:cid_58:tabcd_1:PrevLocationCode=23238
+highway=motorway_junction
+name=Hamburg-Neuland
+old_ref=4
+id=node/33037481</desc></wpt><wpt lat="53.5286529" lon="10.0230564"><name>Veddel</name><desc>highway=motorway_junction
+name=Veddel
+id=node/35132824</desc></wpt><wpt lat="53.5174895" lon="10.0153945"><name>Hamburg-Georgswerder</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=25066
+TMC:cid_58:tabcd_1:NextLocationCode=35614
+TMC:cid_58:tabcd_1:PrevLocationCode=53815
+highway=motorway_junction
+name=Hamburg-Georgswerder
+old_ref=6
+id=node/35835358</desc></wpt><wpt lat="53.4589239" lon="9.9982752"><name>Hamburg-Harburg-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=23238
+TMC:cid_58:tabcd_1:NextLocationCode=23240
+TMC:cid_58:tabcd_1:PrevLocationCode=23237
+highway=motorway_junction
+name=Hamburg-Harburg-Mitte
+old_ref=5
+id=node/46077606</desc></wpt><wpt lat="53.4814138" lon="10.0232082"><name>Hamburg-Stillhorn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10138
+TMC:cid_58:tabcd_1:NextLocationCode=10139
+TMC:cid_58:tabcd_1:PrevLocationCode=10137
+highway=motorway_junction
+layer=1
+name=Hamburg-Stillhorn
+ref=37
+id=node/60294521</desc></wpt><wpt lat="53.5465322" lon="10.0801103"><name>HH-Horner Rampe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=24045
+TMC:cid_58:tabcd_1:NextLocationCode=35790
+TMC:cid_58:tabcd_1:PrevLocationCode=35874
+highway=motorway_junction
+name=HH-Horner Rampe
+noref=yes
+id=node/82795508</desc></wpt><wpt lat="53.4788723" lon="10.0226382"><name>Hamburg-Stillhorn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10138
+TMC:cid_58:tabcd_1:NextLocationCode=10139
+TMC:cid_58:tabcd_1:PrevLocationCode=10137
+highway=motorway_junction
+layer=1
+name=Hamburg-Stillhorn
+ref=37
+id=node/92877222</desc></wpt><wpt lat="53.5191445" lon="10.0269007"><name>Hamburg-Elbinsel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=35596
+TMC:cid_58:tabcd_1:NextLocationCode=23246
+TMC:cid_58:tabcd_1:PrevLocationCode=23245
+highway=motorway_junction
+layer=1
+name=Hamburg-Elbinsel
+old_name=Kreuz Hamburg-Süd
+id=node/93043186</desc></wpt><wpt lat="53.5088357" lon="10.0361767"><name>Hamburg Elbinsel / HH-Veddel</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10695
+TMC:cid_58:tabcd_1:NextLocationCode=10696
+TMC:cid_58:tabcd_1:TypeName=motorway intersection
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnkreuz
+highway=motorway_junction
+name=Hamburg Elbinsel / HH-Veddel
+old_name=Kreuz Hamburg-Süd
+ref=1
+id=node/93043263</desc></wpt><wpt lat="53.5147201" lon="10.0318847"><name>Hamburg-Elbinsel</name><desc>highway=motorway_junction
+name=Hamburg-Elbinsel
+id=node/93043294</desc></wpt><wpt lat="53.5467526" lon="10.1481612"><name>Hamburg-Öjendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10144
+TMC:cid_58:tabcd_1:NextLocationCode=10145
+TMC:cid_58:tabcd_1:PrevLocationCode=10143
+highway=motorway_junction
+name=Hamburg-Öjendorf
+ref=32
+id=node/93116961</desc></wpt><wpt lat="53.5667137" lon="10.1226667"><name>Hamburg-Jenfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10641
+TMC:cid_58:tabcd_1:NextLocationCode=10642
+TMC:cid_58:tabcd_1:PrevLocationCode=10640
+highway=motorway_junction
+name=Hamburg-Jenfeld
+ref=2
+id=node/93136736</desc></wpt><wpt lat="53.4330282" lon="9.9334421"><name>Hamburg-Marmstorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12371
+TMC:cid_58:tabcd_1:NextLocationCode=12372
+TMC:cid_58:tabcd_1:PrevLocationCode=12370
+highway=motorway_junction
+layer=1
+name=Hamburg-Marmstorf
+ref=34
+id=node/94170412</desc></wpt><wpt lat="53.4794678" lon="9.9150135"><name>Hamburg-Hausbruch</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12374
+TMC:cid_58:tabcd_1:NextLocationCode=12375
+TMC:cid_58:tabcd_1:PrevLocationCode=12373
+highway=motorway_junction
+name=Hamburg-Hausbruch
+old_name=Hamburg-Moorburg
+old_ref=31
+ref=31b
+id=node/94186701</desc></wpt><wpt lat="53.4530829" lon="9.9918042"><name>Hamburg-Wilstorf</name><desc>highway=motorway_junction
+layer=1
+name=Hamburg-Wilstorf
+old_ref=6
+id=node/94259407</desc></wpt><wpt lat="53.5237915" lon="10.0233943"><name>Hamburg-Veddel</name><desc>highway=motorway_junction
+name=Hamburg-Veddel
+ref=1
+id=node/94277079</desc></wpt><wpt lat="53.5622926" lon="9.8990544"><name>Hamburg-Bahrenfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12378
+TMC:cid_58:tabcd_1:NextLocationCode=12379
+TMC:cid_58:tabcd_1:PrevLocationCode=12377
+highway=motorway_junction
+layer=1
+name=Hamburg-Bahrenfeld
+ref=28
+id=node/95023668</desc></wpt><wpt lat="53.6368929" lon="9.9247219"><name>Hamburg-Schnelsen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12382
+TMC:cid_58:tabcd_1:NextLocationCode=12383
+TMC:cid_58:tabcd_1:PrevLocationCode=12381
+highway=motorway_junction
+name=Hamburg-Schnelsen
+ref=24
+id=node/95123407</desc></wpt><wpt lat="53.486975" lon="10.1150523"><name>Hamburg-Allermöhe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10676
+TMC:cid_58:tabcd_1:NextLocationCode=10677
+TMC:cid_58:tabcd_1:PrevLocationCode=10675
+highway=motorway_junction
+name=Hamburg-Allermöhe
+ref=2
+id=node/95915114</desc></wpt><wpt lat="53.4807308" lon="10.1501523"><name>Hamburg-Neuallermöhe-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10677
+TMC:cid_58:tabcd_1:NextLocationCode=10678
+TMC:cid_58:tabcd_1:PrevLocationCode=10676
+highway=motorway_junction
+name=Hamburg-Neuallermöhe-West
+ref=3
+id=node/95915201</desc></wpt><wpt lat="53.4731698" lon="10.1813379"><name>Hamburg-Nettelnburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10678
+TMC:cid_58:tabcd_1:NextLocationCode=10679
+TMC:cid_58:tabcd_1:PrevLocationCode=10677
+highway=motorway_junction
+name=Hamburg-Nettelnburg
+ref=4
+id=node/95915420</desc></wpt><wpt lat="53.4763254" lon="10.2359117"><name>Hamburg-Curslack</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10680
+TMC:cid_58:tabcd_1:NextLocationCode=10681
+TMC:cid_58:tabcd_1:PrevLocationCode=10679
+highway=motorway_junction
+name=Hamburg-Curslack
+ref=6
+id=node/95915521</desc></wpt><wpt lat="53.6204299" lon="10.0134481"><name>node/229534684</name><desc>highway=motorway_junction
+id=node/229534684</desc></wpt><wpt lat="53.6288158" lon="10.008508"><name>node/229579577</name><desc>highway=motorway_junction
+id=node/229579577</desc></wpt><wpt lat="53.5404707" lon="10.0949425"><name>HH-Billstedt-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=35790
+TMC:cid_58:tabcd_1:NextLocationCode=24046
+TMC:cid_58:tabcd_1:PrevLocationCode=24045
+highway=motorway_junction
+name=HH-Billstedt-Mitte
+noref=yes
+id=node/240521452</desc></wpt><wpt lat="53.5064365" lon="10.0375393"><name>Dreieck Norderelbe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10695
+TMC:cid_58:tabcd_1:NextLocationCode=10696
+TMC:cid_58:tabcd_1:TypeName=motorway intersection
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnkreuz
+highway=motorway_junction
+name=Dreieck Norderelbe
+old_name=Kreuz Hamburg-Süd
+ref=2
+id=node/254401002</desc></wpt><wpt lat="53.4877345" lon="10.0285976"><name>Hamburg-Stillhorn</name><desc>highway=motorway_junction
+layer=1
+name=Hamburg-Stillhorn
+ref=37
+id=node/255074978</desc></wpt><wpt lat="53.5286653" lon="10.1345626"><name>Hamburg-Billstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10143
+TMC:cid_58:tabcd_1:NextLocationCode=10144
+TMC:cid_58:tabcd_1:PrevLocationCode=10142
+highway=motorway_junction
+name=Hamburg-Billstedt
+ref=33
+id=node/260125738</desc></wpt><wpt lat="53.5092894" lon="10.0939323"><name>Hamburg-Moorfleet</name><desc>highway=motorway_junction
+name=Hamburg-Moorfleet
+ref=34
+wikidata=Q15868529
+id=node/282658178</desc></wpt><wpt lat="53.5075011" lon="10.0840169"><name>Dreieck Hamburg-Südost</name><desc>highway=motorway_junction
+name=Dreieck Hamburg-Südost
+ref=35
+id=node/353885077</desc></wpt><wpt lat="53.5070909" lon="10.082049"><name>Hamburg-Moorfleet</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10142
+TMC:cid_58:tabcd_1:NextLocationCode=10143
+TMC:cid_58:tabcd_1:PrevLocationCode=10141
+highway=motorway_junction
+layer=1
+name=Hamburg-Moorfleet
+ref=34
+id=node/353885091</desc></wpt><wpt lat="40.5635824" lon="-75.9805661"><name>30</name><desc>highway=motorway_junction
+ref=30
+id=node/473219051</desc></wpt><wpt lat="53.5171192" lon="10.0237007"><name>Hamburg-Elbinsel</name><desc>highway=motorway_junction
+name=Hamburg-Elbinsel
+id=node/641128833</desc></wpt><wpt lat="53.5603054" lon="10.0712744"><name>Hamburg-Horn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10640
+TMC:cid_58:tabcd_1:NextLocationCode=10641
+highway=motorway_junction
+name=Hamburg-Horn
+ref=1
+id=node/1029745391</desc></wpt><wpt lat="53.6196453" lon="9.9064689"><name>Hamburg-Eidelstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10619
+TMC:cid_58:tabcd_1:NextLocationCode=10620
+TMC:cid_58:tabcd_1:PrevLocationCode=10618
+highway=motorway_junction
+name=Hamburg-Eidelstedt
+ref=21
+id=node/1412122526</desc></wpt><wpt lat="53.6202783" lon="9.9047841"><name>Hamburg-Eidelstedt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10619
+TMC:cid_58:tabcd_1:NextLocationCode=10620
+TMC:cid_58:tabcd_1:PrevLocationCode=10618
+highway=motorway_junction
+name=Hamburg-Eidelstedt
+ref=21
+id=node/1412129834</desc></wpt><wpt lat="53.6166979" lon="9.9104582"><name>Dreieck Hamburg-Nordwest</name><desc>highway=motorway_junction
+name=Dreieck Hamburg-Nordwest
+ref=22
+id=node/1412129883</desc></wpt><wpt lat="53.6169255" lon="9.910608"><name>Hamburg-Eidelstedt</name><desc>highway=motorway_junction
+layer=1
+name=Hamburg-Eidelstedt
+ref=21
+id=node/1412142435</desc></wpt><wpt lat="53.6194531" lon="9.9130072"><name>Dreieck Hamburg-Nordwest</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12381
+TMC:cid_58:tabcd_1:NextLocationCode=12382
+TMC:cid_58:tabcd_1:PrevLocationCode=12380
+highway=motorway_junction
+name=Dreieck Hamburg-Nordwest
+ref=25
+id=node/1412142452</desc></wpt><wpt lat="53.4658957" lon="10.0246924"><name>Hamburg-Harburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10137
+TMC:cid_58:tabcd_1:NextLocationCode=10138
+TMC:cid_58:tabcd_1:PrevLocationCode=10136
+highway=motorway_junction
+name=Hamburg-Harburg
+ref=38
+id=node/1659233610</desc></wpt><wpt lat="53.4749496" lon="10.2441896"><name>Hamburg-Curslack</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10680
+TMC:cid_58:tabcd_1:NextLocationCode=10681
+TMC:cid_58:tabcd_1:PrevLocationCode=10679
+highway=motorway_junction
+name=Hamburg-Curslack
+ref=6
+id=node/1671606311</desc></wpt><wpt lat="53.4752332" lon="10.2052656"><name>Hamburg-Bergedorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10679
+TMC:cid_58:tabcd_1:NextLocationCode=10680
+TMC:cid_58:tabcd_1:PrevLocationCode=10678
+highway=motorway_junction
+name=Hamburg-Bergedorf
+ref=5
+id=node/1671606312</desc></wpt><wpt lat="53.4816076" lon="9.9141708"><name>Hamburg-Hausbruch</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12374
+TMC:cid_58:tabcd_1:NextLocationCode=12375
+TMC:cid_58:tabcd_1:PrevLocationCode=12373
+highway=motorway_junction
+name=Hamburg-Hausbruch
+old_name=Hamburg-Moorburg
+old_ref=31
+ref=31b
+id=node/1852001413</desc></wpt><wpt lat="40.5405515" lon="-75.9772664"><name>node/1907556907</name><desc>highway=motorway_junction
+noref=yes
+id=node/1907556907</desc></wpt><wpt lat="53.5032722" lon="10.0062702"><name>Hamburg-Wilhelmsburg</name><desc>highway=motorway_junction
+name=Hamburg-Wilhelmsburg
+id=node/1920834011</desc></wpt><wpt lat="53.6250459" lon="10.0097146"><name>node/1976674655</name><desc>highway=motorway_junction
+id=node/1976674655</desc></wpt><wpt lat="53.4544109" lon="9.995017"><name>Hamburg-Harburg-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=23238
+TMC:cid_58:tabcd_1:NextLocationCode=23240
+TMC:cid_58:tabcd_1:PrevLocationCode=23237
+highway=motorway_junction
+layer=1
+name=Hamburg-Harburg-Mitte
+old_ref=5
+id=node/1992159131</desc></wpt><wpt lat="53.6118247" lon="9.9162544"><name>Dreieck Hamburg-Nordwest</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12381
+TMC:cid_58:tabcd_1:NextLocationCode=12382
+TMC:cid_58:tabcd_1:PrevLocationCode=12380
+ele=16.0
+highway=motorway_junction
+name=Dreieck Hamburg-Nordwest
+ref=25
+time=2003-09-18T19:22:25Z
+id=node/2781713034</desc></wpt><wpt lat="53.5011757" lon="10.0391628"><name>Dreieck Norderelbe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10140
+TMC:cid_58:tabcd_1:NextLocationCode=10141
+TMC:cid_58:tabcd_1:PrevLocationCode=10139
+TMC:cid_58:tabcd_1:TypeName=motorway intersection
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnkreuz
+highway=motorway_junction
+layer=1
+name=Dreieck Norderelbe
+old_name=Kreuz Hamburg-Süd
+ref=36
+id=node/3131098259</desc></wpt><wpt lat="53.5073696" lon="10.0772489"><name>Dreieck Hamburg-Südost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=10141
+TMC:cid_58:tabcd_1:NextLocationCode=10142
+TMC:cid_58:tabcd_1:PrevLocationCode=10140
+highway=motorway_junction
+name=Dreieck Hamburg-Südost
+ref=35
+id=node/3219506793</desc></wpt><wpt lat="53.4786722" lon="9.997513"><name>Hamburg-Wilhelmsburg Süd (Kornweide)</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10693
+TMC:cid_58:tabcd_1:NextLocationCode=10694
+TMC:cid_58:tabcd_1:PrevLocationCode=10692
+highway=motorway_junction
+name=Hamburg-Wilhelmsburg Süd (Kornweide)
+id=node/4452241822</desc></wpt><wpt lat="53.648069" lon="9.9303482"><name>Hamburg-Schnelsen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12383
+TMC:cid_58:tabcd_1:NextLocationCode=12384
+TMC:cid_58:tabcd_1:PrevLocationCode=12382
+highway=motorway_junction
+name=Hamburg-Schnelsen-Nord
+ref=23
+id=node/4730548208</desc></wpt><wpt lat="53.6346544" lon="9.9239307"><name>Hamburg-Schnelsen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12382
+TMC:cid_58:tabcd_1:NextLocationCode=12383
+TMC:cid_58:tabcd_1:PrevLocationCode=12381
+highway=motorway_junction
+name=Hamburg-Schnelsen
+ref=24
+id=node/5275665045</desc></wpt><wpt lat="53.425606" lon="9.9609384"><name>Rasthof Harburger Berge West</name><desc>highway=motorway_junction
+name=Rasthof Harburger Berge West
+noref=yes
+id=node/5789574746</desc></wpt><wpt lat="53.5085756" lon="10.0058101"><name>Hamburg-Wilhelmsburg</name><desc>highway=motorway_junction
+name=Hamburg-Wilhelmsburg
+id=node/6872867178</desc></wpt><wpt lat="53.5440244" lon="10.0859088"><name>HH-Horner Rampe</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=24045
+TMC:cid_58:tabcd_1:NextLocationCode=35790
+TMC:cid_58:tabcd_1:PrevLocationCode=35874
+highway=motorway_junction
+name=HH-Horner Rampe
+noref=yes
+id=node/8244639348</desc></wpt><wpt lat="53.4812369" lon="9.9978957"><name>Hamburg-Wilhelmsburg Süd (Kornweide)</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10693
+TMC:cid_58:tabcd_1:NextLocationCode=10694
+TMC:cid_58:tabcd_1:PrevLocationCode=10692
+highway=motorway_junction
+name=Hamburg-Wilhelmsburg Süd (Kornweide)
+id=node/8248735726</desc></wpt><wpt lat="53.555695" lon="9.8976497"><name>Hamburg-Othmarschen</name><desc>highway=motorway_junction
+name=Hamburg-Othmarschen
+ref=29
+id=node/11065965764</desc></wpt><wpt lat="53.5929071" lon="9.9210232"><name>Hamburg-Stellingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=8.00
+TMC:cid_58:tabcd_1:LocationCode=12380
+TMC:cid_58:tabcd_1:NextLocationCode=12381
+TMC:cid_58:tabcd_1:PrevLocationCode=12379
+highway=motorway_junction
+name=Hamburg-Stellingen
+ref=26
+id=node/11169901471</desc></wpt></gpx>

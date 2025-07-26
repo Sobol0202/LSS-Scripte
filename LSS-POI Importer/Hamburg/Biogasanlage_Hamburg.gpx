@@ -1,0 +1,12 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.679134" lon="10.0212093"><name>node/1771454559</name><desc>generator:source=biomass
+power=generator
+id=node/1771454559</desc></wpt><wpt lat="53.5311217" lon="10.071308"><name>Biomasseheizkraftwerk Hamburg</name><desc>generator:method=combustion
+generator:output:electricity=20 MW
+generator:output:steam=yes
+generator:source=biomass
+name=Biomasseheizkraftwerk Hamburg
+operator=Müllverwertung Borsigstrasse GmbH
+power=generator
+ref:EEG=E4183501Bi00000000440000000200001
+start_date=2005-09-14
+id=node/3578292227</desc></wpt></gpx>

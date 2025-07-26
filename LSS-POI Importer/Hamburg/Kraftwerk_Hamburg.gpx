@@ -1,0 +1,188 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.4603245" lon="10.2606908"><name>node/318020119</name><desc>id=node/318020119</desc></wpt><wpt lat="53.4581168" lon="10.2598153"><name>node/318020120</name><desc>id=node/318020120</desc></wpt><wpt lat="53.4539516" lon="10.2644158"><name>node/318020123</name><desc>id=node/318020123</desc></wpt><wpt lat="53.4559806" lon="10.2650681"><name>node/318020124</name><desc>id=node/318020124</desc></wpt><wpt lat="53.5205875" lon="9.9178921"><name>node/2344256256</name><desc>id=node/2344256256</desc></wpt><wpt lat="53.5226538" lon="9.9128512"><name>node/2344257071</name><desc>id=node/2344257071</desc></wpt><wpt lat="53.5249423" lon="9.9059761"><name>node/2419227662</name><desc>id=node/2419227662</desc></wpt><wpt lat="53.5196479" lon="9.904281"><name>node/5740144803</name><desc>id=node/5740144803</desc></wpt><wpt lat="53.5177328" lon="9.9089716"><name>node/5740144804</name><desc>id=node/5740144804</desc></wpt><wpt lat="53.5234252" lon="9.8948642"><name>node/5740144802</name><desc>id=node/5740144802</desc></wpt><wpt lat="53.4713274" lon="10.2102539"><name>node/5182159703</name><desc>id=node/5182159703</desc></wpt><wpt lat="53.4700949" lon="10.21417"><name>node/5182159704</name><desc>id=node/5182159704</desc></wpt><wpt lat="53.4692519" lon="10.2185688"><name>node/5182159705</name><desc>id=node/5182159705</desc></wpt><wpt lat="53.473117" lon="10.2180461"><name>node/5182159707</name><desc>id=node/5182159707</desc></wpt><wpt lat="53.4742312" lon="10.2139992"><name>node/5182159706</name><desc>id=node/5182159706</desc></wpt><wpt lat="53.4515761" lon="10.2574429"><name>node/7118548127</name><desc>id=node/7118548127</desc></wpt><wpt lat="53.4476219" lon="10.2688154"><name>node/7118548155</name><desc>id=node/7118548155</desc></wpt><wpt lat="53.4524906" lon="10.2645191"><name>node/7118548128</name><desc>id=node/7118548128</desc></wpt><wpt lat="53.4495707" lon="10.2633883"><name>node/7118548129</name><desc>id=node/7118548129</desc></wpt><wpt lat="53.4504231" lon="10.2698108"><name>node/7118548154</name><desc>id=node/7118548154</desc></wpt><wpt lat="53.4549545" lon="10.2586183"><name>node/7118548126</name><desc>id=node/7118548126</desc></wpt><trk><name>Müllverwertung Rugenberger Damm</name><desc>addr:housenumber=1
+addr:postcode=21129
+addr:street=Rugenberger Damm
+description:de=Müllverbrennungsanlange
+landuse=industrial
+name=Müllverwertung Rugenberger Damm
+plant:method=combustion
+plant:output:electricity=24 MW
+plant:output:heat=yes
+plant:source=waste
+power=plant
+short_name=MVR
+type=multipolygon
+id=relation/8457141</desc><trkseg><trkpt lat="53.5212722" lon="9.9323891"/><trkpt lat="53.5211306" lon="9.932231"/><trkpt lat="53.5211249" lon="9.9322496"/><trkpt lat="53.5208885" lon="9.9319855"/><trkpt lat="53.5198684" lon="9.9345428"/><trkpt lat="53.5198582" lon="9.9345991"/><trkpt lat="53.5198441" lon="9.9346735"/><trkpt lat="53.5198382" lon="9.9347825"/><trkpt lat="53.5195629" lon="9.935516"/><trkpt lat="53.5195516" lon="9.9355886"/><trkpt lat="53.5195446" lon="9.935673"/><trkpt lat="53.5195424" lon="9.9357502"/><trkpt lat="53.5195469" lon="9.9358079"/><trkpt lat="53.5195532" lon="9.9358466"/><trkpt lat="53.5195723" lon="9.9359318"/><trkpt lat="53.5195918" lon="9.9360012"/><trkpt lat="53.5196212" lon="9.9360802"/><trkpt lat="53.5196509" lon="9.9361388"/><trkpt lat="53.5196882" lon="9.9361882"/><trkpt lat="53.5196782" lon="9.9363781"/><trkpt lat="53.5215953" lon="9.9363525"/><trkpt lat="53.521615" lon="9.9363349"/><trkpt lat="53.5219367" lon="9.9363512"/><trkpt lat="53.5219626" lon="9.9358163"/><trkpt lat="53.5220246" lon="9.9358165"/><trkpt lat="53.5220953" lon="9.9351937"/><trkpt lat="53.522029" lon="9.9349849"/><trkpt lat="53.521771" lon="9.9346928"/><trkpt lat="53.521785" lon="9.9346581"/><trkpt lat="53.5219129" lon="9.9343426"/><trkpt lat="53.5219205" lon="9.9342618"/><trkpt lat="53.5219137" lon="9.934162"/><trkpt lat="53.521842" lon="9.9339672"/><trkpt lat="53.5217517" lon="9.9334943"/><trkpt lat="53.5217254" lon="9.9333227"/><trkpt lat="53.5216722" lon="9.9330576"/><trkpt lat="53.5216309" lon="9.9329164"/><trkpt lat="53.5215289" lon="9.9326364"/><trkpt lat="53.5212925" lon="9.932384"/><trkpt lat="53.5212722" lon="9.9323891"/></trkseg></trk><trk><name>Kraftwerk Tiefstack</name><desc>landuse=industrial
+name=Kraftwerk Tiefstack
+official_name=Heizkraftwerk Tiefstack
+operator=Wärme Hamburg GmbH
+plant:method=combustion
+plant:output:electricity=321 MW
+plant:output:hot_water=814 MWth
+plant:source=coal;gas;fuel
+power=plant
+ref:EU:ENTSOE_EIC=11WD8TIEF5X----V
+start_date=1917
+website=https://waerme.hamburg/erzeugungsanlagen
+wikidata=Q19392478
+wikipedia=de:Heizkraftwerk Tiefstack
+id=way/24953276</desc><trkseg><trkpt lat="53.5260937" lon="10.0676246"/><trkpt lat="53.5259077" lon="10.06839"/><trkpt lat="53.5259068" lon="10.0685531"/><trkpt lat="53.5259328" lon="10.0685687"/><trkpt lat="53.5259196" lon="10.0687535"/><trkpt lat="53.5259156" lon="10.0688082"/><trkpt lat="53.5259117" lon="10.0689883"/><trkpt lat="53.5259421" lon="10.0690728"/><trkpt lat="53.5260443" lon="10.0691662"/><trkpt lat="53.526198" lon="10.0692442"/><trkpt lat="53.5262959" lon="10.0690432"/><trkpt lat="53.5264211" lon="10.068975"/><trkpt lat="53.5265198" lon="10.0689334"/><trkpt lat="53.5266732" lon="10.0689475"/><trkpt lat="53.526678" lon="10.068866"/><trkpt lat="53.526756" lon="10.0688875"/><trkpt lat="53.5270956" lon="10.0689171"/><trkpt lat="53.5271478" lon="10.0688282"/><trkpt lat="53.5271729" lon="10.0688282"/><trkpt lat="53.527202" lon="10.0688282"/><trkpt lat="53.5272518" lon="10.0689179"/><trkpt lat="53.5273959" lon="10.0688941"/><trkpt lat="53.5276189" lon="10.0688185"/><trkpt lat="53.5278556" lon="10.0686856"/><trkpt lat="53.5282039" lon="10.0684608"/><trkpt lat="53.5283092" lon="10.0683748"/><trkpt lat="53.5283889" lon="10.0683163"/><trkpt lat="53.5283773" lon="10.0682444"/><trkpt lat="53.5283707" lon="10.068178"/><trkpt lat="53.5283795" lon="10.0681269"/><trkpt lat="53.5284206" lon="10.06802"/><trkpt lat="53.5283772" lon="10.0679058"/><trkpt lat="53.5281919" lon="10.0673929"/><trkpt lat="53.5280878" lon="10.0671006"/><trkpt lat="53.5279859" lon="10.0667548"/><trkpt lat="53.5279132" lon="10.0663888"/><trkpt lat="53.5278754" lon="10.0660763"/><trkpt lat="53.5278577" lon="10.0657117"/><trkpt lat="53.5278577" lon="10.0652986"/><trkpt lat="53.5278887" lon="10.064756"/><trkpt lat="53.5277511" lon="10.064716"/><trkpt lat="53.5277545" lon="10.0646265"/><trkpt lat="53.5277055" lon="10.0646077"/><trkpt lat="53.5277902" lon="10.0634199"/><trkpt lat="53.5278337" lon="10.0632311"/><trkpt lat="53.527986" lon="10.0625654"/><trkpt lat="53.5280699" lon="10.0625926"/><trkpt lat="53.5280964" lon="10.0622726"/><trkpt lat="53.5280998" lon="10.0620961"/><trkpt lat="53.5280938" lon="10.0619716"/><trkpt lat="53.5280856" lon="10.0618588"/><trkpt lat="53.5280749" lon="10.0617778"/><trkpt lat="53.5280598" lon="10.0616974"/><trkpt lat="53.527932" lon="10.0612703"/><trkpt lat="53.5277753" lon="10.0610094"/><trkpt lat="53.5275937" lon="10.0608388"/><trkpt lat="53.5273513" lon="10.0607563"/><trkpt lat="53.5270934" lon="10.0607563"/><trkpt lat="53.5267855" lon="10.0609887"/><trkpt lat="53.5260162" lon="10.0618434"/><trkpt lat="53.525295" lon="10.0634712"/><trkpt lat="53.5252776" lon="10.0636886"/><trkpt lat="53.5258395" lon="10.0668009"/><trkpt lat="53.5257141" lon="10.0673262"/><trkpt lat="53.525804" lon="10.0678828"/><trkpt lat="53.5258442" lon="10.067691"/><trkpt lat="53.5258782" lon="10.0676695"/><trkpt lat="53.5259033" lon="10.0676561"/><trkpt lat="53.5259787" lon="10.0675242"/><trkpt lat="53.5261115" lon="10.067605"/><trkpt lat="53.5260937" lon="10.0676246"/></trkseg></trk><trk><name>Heizwerk Barmbek</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=407
+addr:postcode=22309
+addr:street=Fuhlsbüttler Straße
+architect=Friedrich Ruppel
+building=industrial
+dsa:criteria=Ensembleteil
+heritage=4
+heritage:operator=dsa
+historic=heritage
+image=File:Heizkraftwerk von Vattenfall an der Fuhlsbütteler Straße in Hamburg-Barmbek-Nord.jpg
+landuse=industrial
+name=Heizwerk Barmbek
+operator=Vattenfall Wärme Hamburg
+plant:method=combustion
+plant:output:electricity=yes
+plant:output:hot_water=45 MW
+plant:source=gas;oil
+power=plant
+ref:dsa=38919
+start_date=1911
+website=https://www.vattenfall.de/geschaeftskunden-waerme-hamburg-heizwerk-barmbek
+wikidata=Q54418279
+id=way/28157488</desc><trkseg><trkpt lat="53.6035258" lon="10.0399751"/><trkpt lat="53.6035435" lon="10.0401514"/><trkpt lat="53.6036026" lon="10.0401345"/><trkpt lat="53.6036107" lon="10.0402145"/><trkpt lat="53.6040408" lon="10.0400914"/><trkpt lat="53.6040448" lon="10.0400784"/><trkpt lat="53.6040484" lon="10.04009"/><trkpt lat="53.6040541" lon="10.0401"/><trkpt lat="53.6040604" lon="10.0401061"/><trkpt lat="53.6040673" lon="10.0401094"/><trkpt lat="53.6040722" lon="10.0401098"/><trkpt lat="53.6040771" lon="10.0401088"/><trkpt lat="53.6040821" lon="10.0401062"/><trkpt lat="53.6040868" lon="10.0401019"/><trkpt lat="53.6040907" lon="10.0400966"/><trkpt lat="53.604094" lon="10.0400902"/><trkpt lat="53.6040981" lon="10.0400764"/><trkpt lat="53.6040992" lon="10.0400667"/><trkpt lat="53.6040991" lon="10.040057"/><trkpt lat="53.6040971" lon="10.0400439"/><trkpt lat="53.604093" lon="10.0400327"/><trkpt lat="53.6040888" lon="10.0400256"/><trkpt lat="53.6040837" lon="10.0400201"/><trkpt lat="53.604077" lon="10.0400162"/><trkpt lat="53.6040698" lon="10.0400153"/><trkpt lat="53.6040687" lon="10.0400044"/><trkpt lat="53.6040891" lon="10.0399955"/><trkpt lat="53.6040714" lon="10.0398195"/><trkpt lat="53.6035258" lon="10.0399751"/></trkseg></trk><trk><name>Blockheizkraftwerk</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=146
+addr:postcode=22159
+addr:street=Eckerkoppel
+building=yes
+landuse=industrial
+name=Blockheizkraftwerk
+operator=Vattenfall Europe New Energy Services GmbH
+plant:method=combustion
+plant:output:electricity=1.5 MW
+plant:output:hot_water=2 MW
+plant:source=gas
+power=plant
+start_date=03.09.1999
+id=way/48951060</desc><trkseg><trkpt lat="53.5975466" lon="10.1000327"/><trkpt lat="53.5973841" lon="10.1001298"/><trkpt lat="53.5974313" lon="10.1003543"/><trkpt lat="53.5975938" lon="10.1002572"/><trkpt lat="53.5975466" lon="10.1000327"/></trkseg></trk><trk><name>Heizwerk Eppendorf UKE</name><desc>addr:unit=W16
+building=industrial
+landuse=industrial
+name=Heizwerk Eppendorf UKE
+operator=Vattenfall
+operator:wikidata=Q1649778
+power=plant
+ref=W16
+id=way/81267301</desc><trkseg><trkpt lat="53.591343" lon="9.971792"/><trkpt lat="53.5910584" lon="9.9717991"/><trkpt lat="53.5907611" lon="9.9718065"/><trkpt lat="53.5907615" lon="9.971847"/><trkpt lat="53.5908235" lon="9.9718455"/><trkpt lat="53.5908257" lon="9.9720983"/><trkpt lat="53.5909433" lon="9.9720954"/><trkpt lat="53.5909456" lon="9.9723677"/><trkpt lat="53.5909469" lon="9.9725217"/><trkpt lat="53.5912164" lon="9.9725151"/><trkpt lat="53.5912148" lon="9.9723324"/><trkpt lat="53.5911558" lon="9.9723338"/><trkpt lat="53.5911552" lon="9.9722552"/><trkpt lat="53.591347" lon="9.9722505"/><trkpt lat="53.591343" lon="9.971792"/></trkseg></trk><trk><name>way/145993839</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=1
+addr:postcode=21109
+addr:street=Schwentnerring
+building=industrial
+landuse=industrial
+operator=Eon Hanse Wärme GmbH
+plant:output:hot_air=yes
+plant:output:hot_water=yes
+power=plant
+id=way/145993839</desc><trkseg><trkpt lat="53.4938985" lon="10.0101266"/><trkpt lat="53.4937401" lon="10.010106"/><trkpt lat="53.4937188" lon="10.0105709"/><trkpt lat="53.4938771" lon="10.0105915"/><trkpt lat="53.4938985" lon="10.0101266"/></trkseg></trk><trk><name>Blockheizkraftwerk</name><desc>building=industrial
+building:levels=1
+landuse=industrial
+name=Blockheizkraftwerk
+operator=GETEC Wärme &amp; Effizienz GmbH Nord
+operator:wikidata=Q21036285
+operator:wikipedia=de:Getec-Gruppe
+plant:method=combustion
+plant:output:electricity=400 kW
+plant:output:hot_water=428 kW
+plant:source=biogas
+power=plant
+ref:MaStR=SEE942861065371
+roof:shape=flat
+start_date=2014-07-24
+id=way/299066897</desc><trkseg><trkpt lat="53.4615658" lon="9.9868049"/><trkpt lat="53.4615272" lon="9.986555"/><trkpt lat="53.461422" lon="9.9866008"/><trkpt lat="53.4614607" lon="9.9868508"/><trkpt lat="53.4615658" lon="9.9868049"/></trkseg></trk><trk><name>way/306082534</name><desc>building=industrial
+plant:output:hot_water=yes
+power=plant
+id=way/306082534</desc><trkseg><trkpt lat="53.5178125" lon="10.1685898"/><trkpt lat="53.5177204" lon="10.1685115"/><trkpt lat="53.5176568" lon="10.1687236"/><trkpt lat="53.5177489" lon="10.1688019"/><trkpt lat="53.5178125" lon="10.1685898"/></trkseg></trk><trk><name>24 (Heizkraftwerk)</name><desc>building=industrial
+landuse=industrial
+name=24 (Heizkraftwerk)
+power=plant
+id=way/306529218</desc><trkseg><trkpt lat="53.543131" lon="9.8404995"/><trkpt lat="53.543102" lon="9.8404215"/><trkpt lat="53.5428506" lon="9.8406695"/><trkpt lat="53.5428572" lon="9.8406881"/><trkpt lat="53.5427165" lon="9.8408269"/><trkpt lat="53.5428197" lon="9.8411113"/><trkpt lat="53.5429027" lon="9.8410192"/><trkpt lat="53.542915" lon="9.8410556"/><trkpt lat="53.5431286" lon="9.840824"/><trkpt lat="53.5431087" lon="9.8407764"/><trkpt lat="53.5431987" lon="9.840681"/><trkpt lat="53.543131" lon="9.8404995"/></trkseg></trk><trk><name>Heizwerk HafenCity</name><desc>landuse=industrial
+name=Heizwerk HafenCity
+operator=Vattenfall Europe AG
+operator:wikidata=Q27486104
+plant:method=combustion
+plant:output:hot_water=yes
+plant:output:steam=yes
+plant:source=gas
+power=plant
+start_date=1999
+wikidata=Q53665728
+id=way/381551526</desc><trkseg><trkpt lat="53.5412686" lon="9.9964348"/><trkpt lat="53.5412343" lon="9.99573"/><trkpt lat="53.5413863" lon="9.9957049"/><trkpt lat="53.5413703" lon="9.9953891"/><trkpt lat="53.5412222" lon="9.9954083"/><trkpt lat="53.5412026" lon="9.9950132"/><trkpt lat="53.5407144" lon="9.9950922"/><trkpt lat="53.5407311" lon="9.9954097"/><trkpt lat="53.5407335" lon="9.9954542"/><trkpt lat="53.5407502" lon="9.9957712"/><trkpt lat="53.5407661" lon="9.9960741"/><trkpt lat="53.5407822" lon="9.9963807"/><trkpt lat="53.5407891" lon="9.9965111"/><trkpt lat="53.5408014" lon="9.9967444"/><trkpt lat="53.5408681" lon="9.9966946"/><trkpt lat="53.5409623" lon="9.9966273"/><trkpt lat="53.5410355" lon="9.996575"/><trkpt lat="53.5410717" lon="9.9965819"/><trkpt lat="53.5411083" lon="9.996575"/><trkpt lat="53.5411399" lon="9.9965542"/><trkpt lat="53.5411797" lon="9.9965134"/><trkpt lat="53.5412308" lon="9.9964663"/><trkpt lat="53.5412686" lon="9.9964348"/></trkseg></trk><trk><name>way/487817709</name><desc>building=industrial
+description=Blockheizkraftwerk
+operator=HanseWerk Natur
+plant:output:electricity=yes
+plant:output:hot_water=yes
+plant:source=gas
+power=plant
+id=way/487817709</desc><trkseg><trkpt lat="53.476523" lon="9.8578985"/><trkpt lat="53.4764598" lon="9.8579256"/><trkpt lat="53.476472" lon="9.8580064"/><trkpt lat="53.4765352" lon="9.8579794"/><trkpt lat="53.476523" lon="9.8578985"/></trkseg></trk><trk><name>Blockheizkraftwerk Mümmelmannsberg</name><desc>barrier=fence
+landuse=industrial
+name=Blockheizkraftwerk Mümmelmannsberg
+operator=URBANA Energietechnik
+plant:method=combustion
+plant:output:electricity=yes
+plant:output:hot_water=yes
+plant:source=gas
+power=plant
+id=way/756279688</desc><trkseg><trkpt lat="53.524985" lon="10.1499656"/><trkpt lat="53.5245441" lon="10.1498278"/><trkpt lat="53.5244596" lon="10.1498911"/><trkpt lat="53.5244186" lon="10.1499188"/><trkpt lat="53.5243645" lon="10.1499266"/><trkpt lat="53.5243151" lon="10.149933"/><trkpt lat="53.5242408" lon="10.1501405"/><trkpt lat="53.5242244" lon="10.1501873"/><trkpt lat="53.5242086" lon="10.1502322"/><trkpt lat="53.5244495" lon="10.1505961"/><trkpt lat="53.5245323" lon="10.1506487"/><trkpt lat="53.5248842" lon="10.150648"/><trkpt lat="53.5249256" lon="10.150616"/><trkpt lat="53.5249729" lon="10.1505236"/><trkpt lat="53.5250004" lon="10.150412"/><trkpt lat="53.5250152" lon="10.1499764"/><trkpt lat="53.524985" lon="10.1499656"/></trkseg></trk><trk><name>way/768310925</name><desc>plant:method=photovoltaic
+plant:output:electricity=yes
+plant:source=solar
+power=plant
+id=way/768310925</desc><trkseg><trkpt lat="53.4393596" lon="10.3017983"/><trkpt lat="53.4391159" lon="10.3017343"/><trkpt lat="53.4390945" lon="10.3019804"/><trkpt lat="53.4393368" lon="10.3020387"/><trkpt lat="53.4393399" lon="10.3020061"/><trkpt lat="53.4393554" lon="10.3018423"/><trkpt lat="53.4393596" lon="10.3017983"/></trkseg></trk><trk><name>way/779686519</name><desc>landuse=industrial
+operator=Vattenfall Europe Wärme AG
+plant:output:hot_water=yes
+power=plant
+id=way/779686519</desc><trkseg><trkpt lat="53.491857" lon="10.183167"/><trkpt lat="53.4922274" lon="10.1827822"/><trkpt lat="53.4924265" lon="10.1825744"/><trkpt lat="53.4928018" lon="10.1822013"/><trkpt lat="53.4927786" lon="10.1821247"/><trkpt lat="53.4926797" lon="10.1821998"/><trkpt lat="53.4926004" lon="10.1822542"/><trkpt lat="53.4925265" lon="10.1822856"/><trkpt lat="53.4924363" lon="10.1823109"/><trkpt lat="53.4923237" lon="10.1823323"/><trkpt lat="53.4922066" lon="10.1823407"/><trkpt lat="53.4921099" lon="10.1823645"/><trkpt lat="53.4920247" lon="10.1824074"/><trkpt lat="53.4919158" lon="10.1824909"/><trkpt lat="53.491691" lon="10.1827108"/><trkpt lat="53.4916973" lon="10.1827318"/><trkpt lat="53.4917649" lon="10.1829194"/><trkpt lat="53.491857" lon="10.183167"/></trkseg></trk><trk><name>Fernkältewerk</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=14
+addr:postcode=22297
+addr:street=Überseering
+architect=Prof. Friedrich;Ingeborg Spengelin
+building=industrial
+description=Das Fernkältewerk erzeugt kaltes Wasser (6-8 Grad), welches über ein Rohleitungssystem (12km) unter der City Nord in die Gebäude gepumpt wird. Dieses Wasser wird zum kühlen der Klimaanlagen genutzt. Insgesamt besitzt der Kraftwerk 7 Kältemaschinen.
+landuse=industrial
+name=Fernkältewerk
+operator=Fernkälte Geschäftsstadt Nord GbR
+plant:method=chiller
+plant:output:cold_water=38.500 kW
+plant:output:electricity=no
+plant:source=electricity_network
+power=plant
+source=https://city-nord.eu/de/city-nord/haeuser/fernkaeltewerk
+start_date=1968
+wikimedia_commons=Category:Überseering 14 Heizwerk
+year_of_construction=1968
+id=way/998742348</desc><trkseg><trkpt lat="53.6073993" lon="10.0219093"/><trkpt lat="53.6073992" lon="10.0219254"/><trkpt lat="53.6073698" lon="10.0219249"/><trkpt lat="53.6073704" lon="10.0218262"/><trkpt lat="53.6072618" lon="10.0218244"/><trkpt lat="53.6072604" lon="10.0220681"/><trkpt lat="53.6073675" lon="10.0220698"/><trkpt lat="53.6073675" lon="10.0220603"/><trkpt lat="53.6073808" lon="10.0220605"/><trkpt lat="53.6073994" lon="10.0220608"/><trkpt lat="53.6073988" lon="10.0221792"/><trkpt lat="53.6077055" lon="10.0221843"/><trkpt lat="53.6078306" lon="10.0221862"/><trkpt lat="53.6080966" lon="10.0221907"/><trkpt lat="53.6081852" lon="10.0221922"/><trkpt lat="53.608187" lon="10.0218959"/><trkpt lat="53.6080983" lon="10.0218944"/><trkpt lat="53.6078324" lon="10.02189"/><trkpt lat="53.6078327" lon="10.0218336"/><trkpt lat="53.6077152" lon="10.0218317"/><trkpt lat="53.6077149" lon="10.0218884"/><trkpt lat="53.6077077" lon="10.0218882"/><trkpt lat="53.6077076" lon="10.0219143"/><trkpt lat="53.6073993" lon="10.0219093"/></trkseg></trk><trk><name>Heizkraftwerk Haferweg</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=17
+addr:postcode=22769
+addr:street=Haferweg
+landuse=industrial
+name=Heizkraftwerk Haferweg
+operator=Wärme Hamburg GmbH
+operator:wikidata=Q107336926
+operator:wikipedia=de:Wärme Hamburg
+plant:method=combustion
+plant:output:electricity=1282 kW
+plant:source=gas
+power=plant
+ref:MaStR=SEE994846175667
+short_name=BHKW Haferweg
+start_date=2016-08-09
+id=way/1019853884</desc><trkseg><trkpt lat="53.5709305" lon="9.9381235"/><trkpt lat="53.5709288" lon="9.9383255"/><trkpt lat="53.5712844" lon="9.9383293"/><trkpt lat="53.5712836" lon="9.9384241"/><trkpt lat="53.5717247" lon="9.9384391"/><trkpt lat="53.5717256" lon="9.938323"/><trkpt lat="53.5717245" lon="9.9379936"/><trkpt lat="53.5717086" lon="9.9378109"/><trkpt lat="53.5717011" lon="9.9377216"/><trkpt lat="53.5716401" lon="9.9372316"/><trkpt lat="53.5715736" lon="9.9366796"/><trkpt lat="53.5713707" lon="9.9367517"/><trkpt lat="53.5713277" lon="9.9367637"/><trkpt lat="53.5713136" lon="9.9368885"/><trkpt lat="53.5710804" lon="9.936814"/><trkpt lat="53.5710452" lon="9.9368033"/><trkpt lat="53.5709934" lon="9.9372443"/><trkpt lat="53.5709753" lon="9.9380347"/><trkpt lat="53.5709329" lon="9.9380347"/><trkpt lat="53.5709305" lon="9.9381235"/></trkseg></trk><trk><name>way/1177516322</name><desc>landuse=industrial
+operator=Vattenfall Europe AG
+operator:wikidata=Q27486104
+plant:output:electricity=2 MW
+plant:source=battery
+plant:storage=2.8 MWh
+power=plant
+start_date=2016
+id=way/1177516322</desc><trkseg><trkpt lat="53.5280971" lon="9.9640553"/><trkpt lat="53.5279687" lon="9.9638965"/><trkpt lat="53.5278507" lon="9.9641664"/><trkpt lat="53.5278453" lon="9.9641785"/><trkpt lat="53.5278399" lon="9.9641907"/><trkpt lat="53.5277619" lon="9.9643691"/><trkpt lat="53.5278903" lon="9.9645281"/><trkpt lat="53.5280617" lon="9.9641362"/><trkpt lat="53.5280971" lon="9.9640553"/></trkseg></trk></gpx>

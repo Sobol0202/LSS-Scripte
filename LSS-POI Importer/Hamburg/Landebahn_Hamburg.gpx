@@ -1,0 +1,73 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><trk><name>12/30</name><desc>aeroway=runway
+bicycle=yes
+foot=yes
+highway=path
+length=900
+ref=12/30
+surface=sand
+width=5
+id=way/4272767</desc><trkseg><trkpt lat="53.4577193" lon="9.824123"/><trkpt lat="53.4573427" lon="9.8252528"/><trkpt lat="53.4571515" lon="9.8258243"/><trkpt lat="53.4559303" lon="9.8294745"/><trkpt lat="53.4543053" lon="9.8341051"/><trkpt lat="53.4540311" lon="9.8348864"/><trkpt lat="53.4538823" lon="9.8353106"/><trkpt lat="53.4538218" lon="9.8354802"/><trkpt lat="53.4537951" lon="9.835555"/><trkpt lat="53.453678" lon="9.835882"/><trkpt lat="53.4534364" lon="9.8365559"/></trkseg></trk><trk><name>05/23</name><desc>aeroway=runway
+centerline=yes
+ele=7
+length=3183
+ref=05/23
+surface=concrete
+width=45
+id=way/4571484</desc><trkseg><trkpt lat="53.5431638" lon="9.8521741"/><trkpt lat="53.5421189" lon="9.8499581"/><trkpt lat="53.5418488" lon="9.8493852"/><trkpt lat="53.541366" lon="9.8483613"/><trkpt lat="53.5412285" lon="9.8480697"/><trkpt lat="53.5391979" lon="9.8437635"/><trkpt lat="53.5365093" lon="9.838062"/><trkpt lat="53.5362098" lon="9.837427"/><trkpt lat="53.5345491" lon="9.8339056"/><trkpt lat="53.5340975" lon="9.8329479"/><trkpt lat="53.53364" lon="9.8319779"/><trkpt lat="53.5334291" lon="9.8315306"/><trkpt lat="53.5332702" lon="9.8311937"/><trkpt lat="53.5331378" lon="9.8309131"/><trkpt lat="53.5330055" lon="9.8306324"/><trkpt lat="53.5293607" lon="9.8229045"/><trkpt lat="53.5291766" lon="9.8225124"/><trkpt lat="53.5286974" lon="9.8215074"/><trkpt lat="53.5257704" lon="9.8152929"/><trkpt lat="53.5255981" lon="9.8149276"/><trkpt lat="53.5254355" lon="9.814583"/><trkpt lat="53.5249118" lon="9.8134728"/></trkseg></trk><trk><name>way/20806108</name><desc>aeroway=runway
+bicycle=yes
+foot=yes
+highway=path
+surface=grass
+id=way/20806108</desc><trkseg><trkpt lat="53.4581995" lon="9.8256422"/><trkpt lat="53.4580842" lon="9.8257298"/><trkpt lat="53.4580213" lon="9.8258159"/><trkpt lat="53.4572692" lon="9.827408"/><trkpt lat="53.4570998" lon="9.8278008"/><trkpt lat="53.4560681" lon="9.8306289"/><trkpt lat="53.4554497" lon="9.8323249"/><trkpt lat="53.4544631" lon="9.8350306"/></trkseg></trk><trk><name>12/30</name><desc>aeroway=runway
+length=1200
+note=glider
+ref=12/30
+surface=grass
+width=50
+id=way/23855240</desc><trkseg><trkpt lat="53.5174022" lon="10.1360501"/><trkpt lat="53.5120278" lon="10.152442"/></trkseg></trk><trk><name>15/33</name><desc>aeroway=runway
+centerline=yes
+length=3666
+ref=15/33
+surface=asphalt
+width=46
+id=way/126708576</desc><trkseg><trkpt lat="53.654392" lon="9.975241"/><trkpt lat="53.6543298" lon="9.9752948"/><trkpt lat="53.6535582" lon="9.9759572"/><trkpt lat="53.647112" lon="9.9815334"/><trkpt lat="53.6439054" lon="9.9843046"/><trkpt lat="53.641135" lon="9.9866987"/><trkpt lat="53.6393784" lon="9.988209"/><trkpt lat="53.6356679" lon="9.9914099"/><trkpt lat="53.6339084" lon="9.992936"/><trkpt lat="53.633442" lon="9.9933337"/><trkpt lat="53.6330488" lon="9.9936781"/><trkpt lat="53.6328492" lon="9.9938468"/><trkpt lat="53.6320199" lon="9.9945641"/><trkpt lat="53.6318298" lon="9.9947285"/><trkpt lat="53.6314187" lon="9.9950841"/><trkpt lat="53.6305804" lon="9.9958129"/><trkpt lat="53.6288725" lon="9.99729"/><trkpt lat="53.6286954" lon="9.9974432"/></trkseg></trk><trk><name>05/23</name><desc>aeroway=runway
+centerline=yes
+length=3250
+ref=05/23
+surface=asphalt
+width=46
+id=way/149993709</desc><trkseg><trkpt lat="53.6199644" lon="9.9671844"/><trkpt lat="53.6218557" lon="9.9710136"/><trkpt lat="53.6233659" lon="9.9740716"/><trkpt lat="53.6247652" lon="9.9769049"/><trkpt lat="53.6253558" lon="9.9781009"/><trkpt lat="53.6275461" lon="9.9825307"/><trkpt lat="53.6282019" lon="9.9838578"/><trkpt lat="53.629309" lon="9.9861061"/><trkpt lat="53.6302632" lon="9.9880387"/><trkpt lat="53.6304539" lon="9.9884248"/><trkpt lat="53.6325876" lon="9.9927455"/><trkpt lat="53.6329835" lon="9.9935425"/><trkpt lat="53.6330488" lon="9.9936781"/><trkpt lat="53.6354533" lon="9.9985369"/><trkpt lat="53.635587" lon="9.9988108"/><trkpt lat="53.6357152" lon="9.9990648"/><trkpt lat="53.6359831" lon="9.9996207"/></trkseg></trk><trk><name>way/374833331</name><desc>aeroway=runway
+bicycle=yes
+foot=yes
+highway=path
+surface=grass
+id=way/374833331</desc><trkseg><trkpt lat="53.4583084" lon="9.8257183"/><trkpt lat="53.4568444" lon="9.8296973"/><trkpt lat="53.4561631" lon="9.8315291"/><trkpt lat="53.45578" lon="9.8325403"/><trkpt lat="53.454831" lon="9.8348872"/></trkseg></trk><trk><name>way/509962199</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=46
+id=way/509962199</desc><trkseg><trkpt lat="53.6182345" lon="9.9636669"/><trkpt lat="53.6182867" lon="9.9637704"/><trkpt lat="53.6188765" lon="9.9649705"/><trkpt lat="53.6199644" lon="9.9671844"/></trkseg></trk><trk><name>way/509962202</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=46
+id=way/509962202</desc><trkseg><trkpt lat="53.6369055" lon="10.0014967"/><trkpt lat="53.6368306" lon="10.0013394"/><trkpt lat="53.6366715" lon="10.0010117"/><trkpt lat="53.6366278" lon="10.0009232"/><trkpt lat="53.6364094" lon="10.0004812"/><trkpt lat="53.6359831" lon="9.9996207"/></trkseg></trk><trk><name>way/509962205</name><desc>aeroway=runway
+note=dimensions 3666 m x 46 m, airport reference point N53° 37' 49.40" E9° 59' 17.62"
+runway=displaced_threshold
+surface=asphalt
+width=46
+id=way/509962205</desc><trkseg><trkpt lat="53.6251179" lon="10.0005302"/><trkpt lat="53.6256718" lon="10.0000534"/><trkpt lat="53.6264548" lon="9.999377"/><trkpt lat="53.6271428" lon="9.9987859"/></trkseg></trk><trk><name>way/564725173</name><desc>aeroway=runway
+emergency=yes
+note=dimensions 3666 m x 46 m, airport reference point N53° 37' 49.40" E9° 59' 17.62"
+runway=displaced_threshold
+source=bing
+surface=asphalt
+width=46
+id=way/564725173</desc><trkseg><trkpt lat="53.6286954" lon="9.9974432"/><trkpt lat="53.6283485" lon="9.9977399"/><trkpt lat="53.6274774" lon="9.9984864"/><trkpt lat="53.6271428" lon="9.9987859"/></trkseg></trk><trk><name>12/30</name><desc>aeroway=runway
+bicycle=yes
+foot=yes
+highway=path
+length=900
+ref=12/30
+smoothness=excellent
+surface=asphalt
+width=5
+id=way/1098383669</desc><trkseg><trkpt lat="53.4579702" lon="9.8233643"/><trkpt lat="53.4577976" lon="9.8238798"/><trkpt lat="53.4577193" lon="9.824123"/></trkseg></trk></gpx>

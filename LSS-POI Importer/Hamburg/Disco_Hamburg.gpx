@@ -1,0 +1,598 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.5419988" lon="10.1107584"><name>Bambi galore</name><desc>addr:city=Hamburg
+addr:housenumber=30a
+addr:postcode=22119
+addr:street=Öjendorfer Weg
+amenity=nightclub
+name=Bambi galore
+id=node/369953014</desc></wpt><wpt lat="53.6162538" lon="10.0778566"><name>Starlight</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=6
+addr:postcode=22179
+addr:street=Trittauer Amtsweg
+amenity=nightclub
+name=Starlight
+opening_hours=Fr,Sa 20:00-18:00+
+opening_hours:covid19=off
+operator=Jens Kühlhorn, Thai Thuy Trang Humbla
+website=https://starlight-hamburg.de/
+id=node/623573421</desc></wpt><wpt lat="53.5753659" lon="10.0741736"><name>Byblos</name><desc>amenity=nightclub
+name=Byblos
+opening_hours=17:00-04:00
+id=node/967834398</desc></wpt><wpt lat="53.5483459" lon="9.9609387"><name>Frieda B.</name><desc>amenity=nightclub
+check_date:opening_hours=2023-10-29
+name=Frieda B.
+opening_hours:signed=no
+website=https://www.friedab.de/
+wheelchair=limited
+id=node/1004006269</desc></wpt><wpt lat="53.5565464" lon="9.9704241"><name>Uebel und Gefährlich</name><desc>addr:city=Hamburg
+addr:housenumber=66
+addr:postcode=20359
+addr:street=Feldstraße
+amenity=nightclub
+check_date=2024-09-20
+contact:phone=+49 1573 8276469
+contact:website=https://www.uebelundgefaehrlich.com
+name=Uebel und Gefährlich
+opening_hours="Abhängig vom Veranstaltungsbeginn"
+opening_hours:url=https://www.uebelundgefaehrlich.com/
+toilets:wheelchair=no
+wheelchair=limited
+wheelchair:description=2 concert rooms, 1 has a regular toilet without stairs but a little step, 70wide wheelchair fits trough the door
+wikidata=Q2473531
+id=node/1408551428</desc></wpt><wpt lat="53.5492622" lon="9.9645517"><name>Docks</name><desc>addr:city=Hamburg
+addr:housenumber=19
+addr:postcode=20359
+addr:street=Spielbudenplatz
+amenity=nightclub
+leisure=music_venue
+name=Docks
+opening_hours:signed=no
+phone=+49 40 31 788 3 - 0
+toilets:wheelchair=no
+website=http://www.docks-prinzenbar.de/
+wheelchair=limited
+wheelchair:description=Ebenerdiger Zugang, oberer Bereich für Rollifahrer zugänglich, keine Toilette für Rollifahrer
+wikidata=Q1233759
+id=node/1450920230</desc></wpt><wpt lat="53.5581388" lon="9.9679333"><name>Knust</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:floor=0
+addr:housenumber=30
+addr:postcode=20357
+addr:street=Neuer Kamp
+amenity=nightclub
+check_date=2024-09-20
+check_date:opening_hours=2024-09-20
+contact:facebook=https://www.facebook.com/KnustHamburg
+contact:instagram=https://www.instagram.com/knusthamburg
+leisure=music_venue
+live_music=yes
+name=Knust
+opening_hours=Su-Fr 16:00-23:30; Sa 10:00-23:30
+website=https://www.knusthamburg.de/
+wheelchair=yes
+id=node/1525291987</desc></wpt><wpt lat="53.5488176" lon="9.9647442"><name>Prinzenbar</name><desc>addr:city=Hamburg
+addr:housenumber=20
+addr:street=Kastanienallee
+amenity=nightclub
+check_date:opening_hours=2024-08-25
+name=Prinzenbar
+opening_hours:signed=no
+wheelchair=no
+id=node/1775996840</desc></wpt><wpt lat="53.5577591" lon="9.9906161"><name>Royal Casino Club Esplanade</name><desc>amenity=nightclub
+name=Royal Casino Club Esplanade
+id=node/1937256940</desc></wpt><wpt lat="53.4563263" lon="9.9915538"><name>Stellwerk</name><desc>amenity=nightclub
+disused:railway=signal_box
+level=0
+name=Stellwerk
+opening_hours="by event"
+website=https://www.stellwerk-hamburg.de/
+wikidata=Q1312503
+id=node/2149763792</desc></wpt><wpt lat="53.5486311" lon="10.0464556"><name>Kow2</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=119
+addr:postcode=20537
+addr:street=Luisenweg
+amenity=nightclub
+check_date:opening_hours=2023-02-23
+name=Kow2
+opening_hours:signed=no
+website=https://www.kow2.de/
+id=node/2377320626</desc></wpt><wpt lat="53.5576381" lon="9.9309291"><name>Monkeys Music Club</name><desc>addr:city=Hamburg
+addr:housenumber=16
+addr:street=Barnerstraße
+amenity=nightclub
+name=Monkeys Music Club
+office=company
+opening_hours="nach Bedarf"
+parking=surface
+toilets:wheelchair=yes
+website=https://www.monkeysmusicclub.com/
+wheelchair=yes
+wheelchair:description=Rollstuhlgerechte Toilette in der Barner 16! Einfach mal an der Bar nachfragen;)
+id=node/2546606764</desc></wpt><wpt lat="53.5638484" lon="10.0363951"><name>H1 Club &amp; Lounge</name><desc>amenity=nightclub
+name=H1 Club &amp; Lounge
+source:name=survey
+id=node/2669485173</desc></wpt><wpt lat="53.5507069" lon="10.0762423"><name>LustundSpass</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=132
+addr:postcode=22111
+addr:street=Horner Landstraße
+amenity=nightclub
+check_date:opening_hours=2025-04-04
+email=info@lustundspass.com
+name=LustundSpass
+opening_hours:signed=no
+phone=+49 40 788 08 114
+website=http://www.lustundspass.com/
+id=node/2769365065</desc></wpt><wpt lat="53.5496762" lon="9.9676124"><name>Mojo Club</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=1
+addr:postcode=20359
+addr:street=Reeperbahn
+amenity=nightclub
+check_date=2024-09-19
+contact:email=club@mojo.de
+contact:facebook=https://www.facebook.com/MojoClub/events
+contact:instagram=https://www.instagram.com/mojo_club
+contact:phone=+49 40 3191999
+contact:ra=https://ra.co/clubs/8041
+contact:website=https://www.mojo.de/program
+leisure=music_venue
+level=-1
+name=Mojo Club
+opening_hours="Nur bei Veranstaltungen geöffnet."
+operator=mojo club reeperbahn gmbh
+toilets:wheelchair=yes
+wheelchair=yes
+wheelchair:description=Einfach die Security ansprechend, dann wird man im Aufzug begleitet nach unten gebracht. Ein barrierefrees WC befindet sich im 1. UG und ist ebenfalls über den Aufzug erreichbar.
+wikidata=Q383118
+wikipedia=de:Mojo Club
+id=node/3008963133</desc></wpt><wpt lat="53.5507821" lon="9.9611066"><name>headCRASH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=13
+addr:postcode=20359
+addr:street=Hamburger Berg
+amenity=nightclub
+check_date=2023-12-28
+contact:facebook=https://www.facebook.com/headCRASH.de
+contact:instagram=https://www.instagram.com/headcrashh/
+email=community@headcrash.hamburg
+name=headCRASH
+opening_hours=Fr-Sa 23:00-07:00
+operator=PAKT Entertainment GmbH
+ref:vatin=DE256498599
+toilets:wheelchair=no
+website=https://www.headcrash-hamburg.com/
+wheelchair=no
+wheelchair:description=Konzertsaal im ersten Stock. Wenn man sich hoch tragen lässt, wird man aber rein gelassen ohne „Brandschutz“-Blabla. Toilette oben mit einer Stufe
+id=node/3141379530</desc></wpt><wpt lat="53.5500405" lon="9.9565843"><name>Noho</name><desc>amenity=nightclub
+check_date:opening_hours=2025-04-20
+name=Noho
+opening_hours:signed=no
+wikidata=Q1943691
+wikipedia=de:Molotow (Musikclub)
+id=node/3239175234</desc></wpt><wpt lat="53.5612895" lon="9.9753199"><name>Volt</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=45
+addr:postcode=20357
+addr:street=Karolinenstraße
+addr:suburb=St. Pauli
+amenity=nightclub
+check_date=2024-09-20
+contact:facebook=https://www.facebook.com/volthamburg
+name=Volt
+opening_hours:signed=no
+id=node/3489197580</desc></wpt><wpt lat="53.5513461" lon="9.9579296"><name>Thai-Oase</name><desc>amenity=nightclub
+check_date=2024-12-16
+check_date:opening_hours=2024-04-16
+description=Karaoke Bar
+name=Thai-Oase
+opening_hours:signed=no
+source=local_knowledge
+wheelchair=no
+id=node/3673487343</desc></wpt><wpt lat="53.5546896" lon="10.000626"><name>Cascadas</name><desc>addr:city=Hamburg
+addr:housenumber=12
+addr:postcode=20095
+addr:street=Ferdinandstraße
+amenity=nightclub
+check_date=2024-02-27
+email=mietanfrage@cascadas.club
+name=Cascadas
+operator=Cascadas GbR
+website=https://www.cascadas.club/
+id=node/3789624490</desc></wpt><wpt lat="53.5471589" lon="9.9612754"><name>Nochtspeicher</name><desc>addr:city=Hamburg
+addr:housenumber=69a
+addr:postcode=20359
+addr:street=Bernhard-Nocht-Straße
+amenity=nightclub
+check_date=2023-12-10
+contact:email=info@nochtspeicher.de
+contact:facebook=https://www.facebook.com/Nochtspeicher
+contact:instagram=https://www.instagram.com/nochtspeicher
+internet_access=wlan
+name=Nochtspeicher
+phone=+49 40 333 988 69
+website=https://www.nochtspeicher.de/
+wheelchair=no
+id=node/4017808490</desc></wpt><wpt lat="53.5706863" lon="10.1434236"><name>Morpheus-Club</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=43
+addr:postcode=22043
+addr:street=Barsbütteler Straße
+amenity=nightclub
+email=info@morpheus-club.de
+name=Morpheus-Club
+opening_hours=Sa 23:00-06:00
+phone=+49-40-68860641
+website=https://morpheus-club.business.site/
+id=node/4083212900</desc></wpt><wpt lat="53.5629224" lon="9.9446451"><name>Juice Club</name><desc>addr:city=Hamburg
+addr:housenumber=204
+addr:street=Stresemannstraße
+amenity=nightclub
+check_date=2023-05-25
+music_genre=Trance, Progressive Trance, Goa
+name=Juice Club
+payment:cash=yes
+payment:credit_cards=no
+payment:debit_cards=no
+smoking=yes
+website=https://www.juice-club.net/
+id=node/4134254544</desc></wpt><wpt lat="53.5491414" lon="9.9643873"><name>UWE</name><desc>addr:housenumber=21
+addr:street=Spielbudenplatz
+amenity=nightclub
+check_date=2024-09-19
+level=1
+name=UWE
+operator=UWE Reeperbahn
+toilets:wheelchair=yes
+website=https://uwereeperbahn.de/
+wheelchair=limited
+id=node/4469658918</desc></wpt><wpt lat="53.5490694" lon="9.9641573"><name>Bahnhof Pauli</name><desc>addr:housenumber=21-22
+addr:street=Spielbudenplatz
+amenity=nightclub
+check_date=2024-09-19
+email=info@bahnhofpauli.de
+level=-1
+name=Bahnhof Pauli
+opening_hours=Fr-Sa 23:00-06:00
+website=https://klubhaus-stpauli.de/bahnhof_stpauli.php
+id=node/4469658919</desc></wpt><wpt lat="53.5492229" lon="9.9643606"><name>Sommersalon</name><desc>addr:housename=Klubhaus
+addr:housenumber=22
+addr:street=Spielbudenplatz
+amenity=nightclub
+check_date=2024-02-25
+check_date:opening_hours=2023-12-17
+email=info@sommersalon.de
+level=0
+name=Sommersalon
+opening_hours=16:00+
+smoking=dedicated
+toilets:wheelchair=no
+website=https://sommersalon.de/
+wheelchair=yes
+id=node/4469658920</desc></wpt><wpt lat="53.5492019" lon="9.9641128"><name>Schmidtchen´s Alte Liebe</name><desc>addr:housenumber=21-22
+addr:street=Spielbudenplatz
+amenity=nightclub
+level=0
+name=Schmidtchen´s Alte Liebe
+website=https://klubhaus-stpauli.de/
+wheelchair=limited
+id=node/4469658921</desc></wpt><wpt lat="53.549135" lon="9.9641378"><name>Häkken</name><desc>addr:housenumber=21-22
+addr:street=Spielbudenplatz
+amenity=nightclub
+level=1
+name=Häkken
+toilets:wheelchair=yes
+website=https://klubhaus-stpauli.de/
+wheelchair=limited
+id=node/4469658922</desc></wpt><wpt lat="53.5490324" lon="9.9643585"><name>Gaga</name><desc>addr:housenumber=21-22
+addr:street=Spielbudenplatz
+amenity=nightclub
+level=5
+name=Gaga
+website=https://ga-ga.de/
+id=node/4469658923</desc></wpt><wpt lat="53.5520951" lon="9.9983069"><name>Nachtasyl</name><desc>amenity=nightclub
+check_date=2024-08-17
+check_date:opening_hours=2024-08-17
+name=Nachtasyl
+opening_hours=Mo-Su,PH 19:00+
+operator=Thalia Theater
+website=https://www.thalia-theater.de/de/spielplan/nachtasyl/
+wheelchair=no
+id=node/4469660003</desc></wpt><wpt lat="53.4894055" lon="10.2078901"><name>Jazz Club</name><desc>amenity=nightclub
+name=Jazz Club
+id=node/5064396428</desc></wpt><wpt lat="53.5499405" lon="9.9643925"><name>Club Hamburg</name><desc>addr:city=Hamburg
+addr:housenumber=48
+addr:postcode=20359
+addr:street=Reeperbahn
+amenity=nightclub
+contact:phone=+49 40 57288561
+contact:website=http://www.clubhamburg.info/
+name=Club Hamburg
+id=node/5203789918</desc></wpt><wpt lat="53.5500692" lon="9.9661185"><name>Baalsaal</name><desc>addr:housenumber=25
+addr:street=Reeperbahn
+amenity=nightclub
+check_date:opening_hours=2023-12-17
+contact:facebook=https://www.facebook.com/baalsaalclub/
+contact:phone=+49 176 70486814
+contact:website=https://www.baalsaal.club/
+name=Baalsaal
+opening_hours:signed=no
+id=node/5204071866</desc></wpt><wpt lat="53.5499702" lon="9.9651927"><name>Shark Beach Bar</name><desc>addr:city=Hamburg
+addr:housenumber=40
+addr:postcode=20359
+addr:street=Reeperbahn
+amenity=nightclub
+check_date:opening_hours=2023-12-17
+name=Shark Beach Bar
+opening_hours:signed=no
+id=node/5250296417</desc></wpt><wpt lat="53.5534784" lon="10.0151048"><name>BASEMENT XXV</name><desc>addr:city=Hamburg
+addr:housenumber=23
+addr:postcode=20099
+addr:street=Pulverteich
+amenity=nightclub
+description=Fetish-Play-Area
+email=basementxxv@outlook.de
+name=BASEMENT XXV
+website=http://www.basementxxv.de
+id=node/5290249809</desc></wpt><wpt lat="53.5496005" lon="10.0078797"><name>Hühnerposten</name><desc>amenity=nightclub
+check_date=2024-06-28
+name=Hühnerposten
+opening_hours="bei Veranstaltungen"
+website=https://www.huehner-posten.de/
+id=node/5387158207</desc></wpt><wpt lat="53.5456138" lon="10.0327089"><name>Südpol</name><desc>addr:housenumber=112
+addr:street=Süderstraße
+amenity=nightclub
+name=Südpol
+website=https://www.suedpol.org/
+wheelchair=limited
+id=node/5389366637</desc></wpt><wpt lat="53.5502591" lon="9.9603185"><name>Hörsaal</name><desc>amenity=nightclub
+contact:email=info@hoersaal-hamburg.de
+contact:phone=+49 170 7818640
+contact:website=http://hoersaal-hamburg.de
+min_age=18
+name=Hörsaal
+opening_hours=Th,Sa 22:00+
+operator=Hörsaal Gbr
+wheelchair=no
+id=node/5477425896</desc></wpt><wpt lat="53.5155378" lon="10.0056692"><name>vor-land</name><desc>addr:city=Hamburg
+addr:postcode=21109
+addr:street=Honartsdeicher Kehre
+amenity=nightclub
+name=vor-land
+opening_hours:signed=no
+operator=vor-land e.V.
+website=https://vor-land.de/
+id=node/5631261499</desc></wpt><wpt lat="53.4475433" lon="10.2308875"><name>Clausen's Vierländer Landhaus - Eventlocation</name><desc>addr:city=Hamburg
+addr:housenumber=2a
+addr:postcode=21039
+addr:street=Curslacker Heerweg
+amenity=nightclub
+check_date:opening_hours=2024-10-15
+name=Clausen's Vierländer Landhaus - Eventlocation
+opening_hours:signed=no
+id=node/6255528798</desc></wpt><wpt lat="53.5496913" lon="9.9595423"><name>Molotow</name><desc>addr:street=Reeperbahn
+amenity=nightclub
+check_date:opening_hours=2023-10-29
+min_age=16
+name=Molotow
+opening_hours:signed=no
+toilets:wheelchair=no
+website=https://www.molotowclub.com/
+wheelchair=limited
+id=node/6595669185</desc></wpt><wpt lat="53.5833796" lon="9.9343791"><name>Kir</name><desc>amenity=nightclub
+description:de=Wave, Gothic, 80er, etc.
+email=info@kir-hamburg.de
+name=Kir
+opening_hours=Th 22:00-02:00, Fr,Sa 22:00-03:00
+phone=+49 17648173203
+smoking=yes
+website=http://kir-hamburg.de
+wheelchair=yes
+id=node/7518384201</desc></wpt><wpt lat="53.5498966" lon="9.9639873"><name>Herzblut St. Pauli</name><desc>amenity=nightclub
+contact:email=info@herzblut-st-pauli.de
+contact:fax=+49 40 33396934
+contact:phone=+49 40 33396933
+contact:website=http://www.herzblut-st-pauli.de
+name=Herzblut St. Pauli
+opening_hours=Mo-Th 17:00+, Fr 17:00-04:00, Sa 13:00-04:00, Su 13:00+
+opening_hours:covid19=off
+opening_hours:kitchen=Mo-Fr 17:00-23:30, Sa,Su 13:00-23:30
+opening_hours:kitchen:covid19=off
+operator=Herzblut Gaststättenbetriebs GmbH
+id=node/8305157339</desc></wpt><wpt lat="53.5502294" lon="9.9578805"><name>Halo Club</name><desc>addr:city=Hamburg
+addr:housenumber=6
+addr:postcode=22767
+addr:street=Große Freiheit
+amenity=nightclub
+check_date:opening_hours=2024-03-30
+contact:email=info@halo.club
+contact:facebook=halohamburg
+contact:instagram=halohamburg
+contact:phone=+49 40 87870 680
+contact:website=https://halo.club/
+min_age=18
+name=Halo Club
+opening_hours:signed=no
+operator=Halo Gastro &amp; Event GmbH
+id=node/8722058413</desc></wpt><wpt lat="53.5510758" lon="9.9578704"><name>Colibri</name><desc>addr:housenumber=34
+addr:street=Große Freiheit
+amenity=nightclub
+charge=10 EUR
+check_date=2024-12-16
+email=info@colibri-club.de
+fee=yes
+name=Colibri
+opening_hours=SH Th 22:00+; Fr,Sa 21:00+
+operator=HBM GbmH
+phone=+49 40 69659899
+website=https://www.colibri-club.de/
+website:menu=http://colibri-club.de/ueberuns/getraenkekarte/
+id=node/9177093418</desc></wpt><wpt lat="53.5486454" lon="9.960513"><name>DrunkenLama</name><desc>addr:city=Hamburg
+addr:housenumber=3
+addr:street=Hans-Albers-Platz
+amenity=nightclub
+contact:facebook=https://facebook.com/drunkenlama
+contact:instagram=http://instagram.com/drunkenlamahh
+contact:whatsapp=https://web.whatsapp.com/send?phone=+4917631343455
+email=moin@drunkenlama.de
+fee=no
+name=DrunkenLama
+opening_hours=Mo-Th off; Fr 21:00-02:00; Sa 21:00-04:00; Su off
+phone=+49 40 60861518
+smoking=yes
+toilets=yes
+website=https://www.drunkenlama.de/
+website:menu=https://www.drunkenlama.de/drinks
+id=node/9177141617</desc></wpt><wpt lat="53.5488144" lon="9.9611524"><name>Scandinavian Club</name><desc>amenity=nightclub
+check_date:opening_hours=2023-10-29
+name=Scandinavian Club
+opening_hours:signed=no
+id=node/9177282717</desc></wpt><wpt lat="53.5519933" lon="9.9581557"><name>INDRA Musikclub</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=64
+addr:postcode=22767
+addr:street=Große Freiheit
+amenity=nightclub
+check_date=2024-10-12
+check_date:opening_hours=2024-10-12
+name=INDRA Musikclub
+opening_hours="abhängig vom Programm"
+outdoor_seating=yes
+website=http://www.indramusikclub.com/
+id=node/9242143190</desc></wpt><wpt lat="53.5570721" lon="9.9298944"><name>Hebebühne</name><desc>addr:city=Hamburg
+addr:housenumber=30
+addr:postcode=22765
+addr:street=Barnerstraße
+amenity=nightclub
+email=info@die-hebebuehne.com
+live_music=yes
+name=Hebebühne
+phone=+49 40 39 89 38 80
+website=https://die-hebebuehne.com
+id=node/10214261225</desc></wpt><wpt lat="53.5500404" lon="9.9574892"><name>Le Premier Night Club</name><desc>addr:housenumber=2
+addr:street=Große Freiheit
+amenity=nightclub
+check_date:opening_hours=2024-09-20
+level=0
+name=Le Premier Night Club
+opening_hours:signed=no
+id=node/10771255806</desc></wpt><wpt lat="53.5501278" lon="9.957556"><name>The Plane</name><desc>addr:housenumber=4
+addr:street=Große Freiheit
+amenity=nightclub
+check_date:opening_hours=2024-03-30
+name=The Plane
+opening_hours:signed=no
+id=node/10771255807</desc></wpt><wpt lat="53.5502813" lon="9.9576089"><name>MashUp - Music Bar</name><desc>addr:housenumber=8
+addr:street=Große Freiheit
+amenity=nightclub
+check_date:opening_hours=2024-03-30
+name=MashUp - Music Bar
+opening_hours:signed=no
+id=node/10771255808</desc></wpt><wpt lat="53.550332" lon="9.9575973"><name>BKI: Kiezinternat</name><desc>addr:city=Hamburg
+addr:housenumber=10
+addr:postcode=22767
+addr:street=Große Freiheit
+amenity=nightclub
+check_date:opening_hours=2024-03-30
+name=BKI: Kiezinternat
+opening_hours:signed=no
+id=node/10771255809</desc></wpt><wpt lat="53.5503864" lon="9.9576199"><name>superfly</name><desc>addr:city=Hamburg
+addr:housenumber=10
+addr:postcode=22767
+addr:street=Große Freiheit
+amenity=nightclub
+check_date:opening_hours=2024-03-30
+name=superfly
+opening_hours:signed=no
+id=node/10771255810</desc></wpt><wpt lat="53.5504408" lon="9.9576489"><name>Jams Club</name><desc>addr:housenumber=12
+addr:street=Große Freiheit
+amenity=nightclub
+check_date:opening_hours=2024-03-30
+name=Jams Club
+opening_hours:signed=no
+id=node/10771255811</desc></wpt><wpt lat="53.5500888" lon="9.9599916"><name>Nikki Tiger</name><desc>amenity=nightclub
+check_date:opening_hours=2024-05-26
+name=Nikki Tiger
+old_name=RYU Nine
+opening_hours:signed=no
+id=node/11459150977</desc></wpt><wpt lat="53.5500026" lon="9.9574939"><name>IN The Club</name><desc>amenity=nightclub
+check_date:opening_hours=2024-03-31
+level=1
+name=IN The Club
+opening_hours:signed=no
+id=node/11472919966</desc></wpt><wpt lat="53.5504047" lon="9.9573679"><name>Rooftop Dune</name><desc>amenity=nightclub
+check_date:opening_hours=2024-04-26
+name=Rooftop Dune
+opening_hours:signed=no
+id=node/11799692379</desc></wpt><wpt lat="53.5499755" lon="9.9578801"><name>White Rabbit</name><desc>amenity=nightclub
+name=White Rabbit
+opening_hours=Fr, Sa 22:00+
+id=node/11891029119</desc></wpt><wpt lat="53.5788602" lon="10.0457216"><name>Tanzschule Tango Chocolate</name><desc>amenity=nightclub
+dance:teaching=yes
+email=info@tango-chocolate.de
+leisure=dance
+name=Tanzschule Tango Chocolate
+name:en=Dance School Tango Chocolate
+name:es=Escuela de baile Tango Chocolate
+website=https://tango-chocolate.de/
+id=node/11907057769</desc></wpt><wpt lat="53.5485815" lon="9.9620571"><name>DOT</name><desc>amenity=nightclub
+check_date:opening_hours=2024-09-14
+name=DOT
+opening_hours:signed=no
+id=node/12020551880</desc></wpt><wpt lat="53.5564089" lon="9.9702727"><name>Terrace Hill</name><desc>amenity=nightclub
+name=Terrace Hill
+opening_hours="Abhängig vom Veranstaltungsbeginn"
+id=node/12188971519</desc></wpt><wpt lat="53.5507427" lon="9.990576"><name>Nica</name><desc>amenity=nightclub
+leisure=music_venue
+name=Nica
+start_date=2024-11-09
+website=https://www.nica-jazzclub.de/de
+id=node/12328224754</desc></wpt><wpt lat="53.5502393" lon="9.9573317"><name>Große Freiheit Nr.7</name><desc>amenity=nightclub
+check_date:opening_hours=2025-05-03
+name=Große Freiheit Nr.7
+opening_hours:signed=no
+id=node/12469799037</desc></wpt><trk><name>Logo</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=5
+addr:postcode=20146
+addr:street=Grindelallee
+amenity=nightclub
+building=retail
+building:colour=black
+check_date:opening_hours=2022-10-22
+club=music
+contact:instagram=logo.hamburg
+height=4
+live_music=yes
+name=Logo
+opening_hours:signed=no
+roof:colour=lightgray
+roof:shape=flat
+wheelchair=yes
+id=way/32720959</desc><trkseg><trkpt lat="53.564409" lon="9.9836119"/><trkpt lat="53.5644887" lon="9.9837985"/><trkpt lat="53.5646344" lon="9.9836221"/><trkpt lat="53.5646107" lon="9.9835668"/><trkpt lat="53.5645398" lon="9.9834007"/><trkpt lat="53.5644738" lon="9.9834806"/><trkpt lat="53.5644887" lon="9.9835154"/><trkpt lat="53.564409" lon="9.9836119"/></trkseg></trk><trk><name>Gruenspan</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=58
+addr:postcode=22767
+addr:street=Große Freiheit
+amenity=nightclub
+building=nightclub
+contact:instagram=gruenspan_hamburg
+live_music=yes
+name=Gruenspan
+opening_hours="abhängig vom Programm"
+website=https://www.gruenspan.de/
+wheelchair=limited
+wheelchair:description=Zwei Stufen am Eingang, es gibt aber eine Rampe (sehr steil, aber möglich, selbst mit E-Rolli). Generell nicht sehr Rollstuhlfahrerfreundlich
+wikidata=Q1550320
+id=way/66997571</desc><trkseg><trkpt lat="53.5519023" lon="9.958065"/><trkpt lat="53.55179" lon="9.9580281"/><trkpt lat="53.5517827" lon="9.9580912"/><trkpt lat="53.5517107" lon="9.9587117"/><trkpt lat="53.551823" lon="9.9587487"/><trkpt lat="53.5518871" lon="9.9581965"/><trkpt lat="53.5519023" lon="9.958065"/></trkseg></trk><trk><name>Tipsy Apes Hamburg</name><desc>addr:city=Hamburg
+addr:housenumber=25a
+addr:postcode=21079
+addr:street=Am Radeland
+amenity=nightclub
+building=yes
+name=Tipsy Apes Hamburg
+opening_hours=24/7
+operator=Tipsy Apes e.V.
+source=https://delyed.de/knightfest2019/
+id=way/997203979</desc><trkseg><trkpt lat="53.4720444" lon="9.9501407"/><trkpt lat="53.4720717" lon="9.9500778"/><trkpt lat="53.4721107" lon="9.9500696"/><trkpt lat="53.4721248" lon="9.9500372"/><trkpt lat="53.4720437" lon="9.9499379"/><trkpt lat="53.4719865" lon="9.9500698"/><trkpt lat="53.4720444" lon="9.9501407"/></trkseg></trk></gpx>

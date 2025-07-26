@@ -1,0 +1,2431 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.6695438" lon="10.0188676"><name>Dotter</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=235
+addr:postcode=22419
+addr:street=Neubergerweg
+name=Dotter
+opening_hours=Mo-Th 07:30-17:00; Fr 07:30-15:00
+phone=+49405311124
+shop=car_repair
+website=https://www.dotter-kfz.hamburg/
+wheelchair=yes
+id=node/297484876</desc></wpt><wpt lat="53.6369914" lon="10.0334899"><name>Autoreparatur Koch</name><desc>name=Autoreparatur Koch
+shop=car_repair
+id=node/300212789</desc></wpt><wpt lat="53.5413232" lon="10.0389112"><name>Touran Bosh Service</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=67
+addr:postcode=20539
+addr:street=Billstraße
+name=Touran Bosh Service
+opening_hours=Mo-Fr 08:00-18:00
+shop=car_repair
+wheelchair=yes
+id=node/408792194</desc></wpt><wpt lat="53.6614039" lon="10.0807082"><name>BMW Servicestation</name><desc>brand=BMW
+brand:wikidata=Q26678
+name=BMW Servicestation
+shop=car_repair
+id=node/619515027</desc></wpt><wpt lat="53.5553734" lon="10.0305701"><name>M.M. Autowerkstatt</name><desc>check_date=2025-01-19
+name=M.M. Autowerkstatt
+opening_hours=Mo-Fr 08:00-19:00; Sa 09:00-16:00
+shop=car_repair
+id=node/678449000</desc></wpt><wpt lat="53.5802698" lon="10.1232786"><name>Siggel &amp; Co. GmbH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=36a
+addr:postcode=22045
+addr:street=Albert-Schweitzer-Ring
+brand=GTÜ
+car_service=appraisal
+email=hamburg@siggelundco.de
+fax=+49-40-6684231
+name=Siggel &amp; Co. GmbH
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-15:00
+operator=P Siggel &amp; Co. Gmbh
+phone=+49-40-6695926
+shop=car_repair
+website=https://siggelundco.de/
+id=node/842601564</desc></wpt><wpt lat="53.5693762" lon="10.0575085"><name>Tiam</name><desc>brand=Bosch Car Service
+brand:wikidata=Q894368
+name=Tiam
+operator=Bosch Service
+shop=car_repair
+vehicle_inspection=TÜV
+id=node/892776060</desc></wpt><wpt lat="53.6118875" lon="9.957149"><name>speedy Auto-Service</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=2
+addr:postcode=22453
+addr:street=Papenreye
+addr:suburb=Niendorf
+email=niendorf@speedyautoservice.de
+name=speedy Auto-Service
+opening_hours=Mo-Fr 08:00-18:00; Sa 09:00-13:00
+phone=+49 40 58916988
+shop=car_repair
+website=https://www.speedyautoservice.de/
+id=node/959585165</desc></wpt><wpt lat="53.6023136" lon="9.9908683"><name>Pitstop</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=11
+addr:postcode=22297
+addr:street=Deelböge
+brand=pitstop
+brand:wikidata=Q1310014
+name=Pitstop
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+phone=+49 40 31108662
+shop=car_repair
+website=https://www.pitstop.de/werkstatt/hamburg/
+id=node/1103384568</desc></wpt><wpt lat="53.575733" lon="10.0829008"><name>Autofit Devsir</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=14
+addr:postcode=22041
+addr:street=Efftingestraße
+brand=AUTOFIT
+brand:wikidata=Q108198772
+name=Autofit Devsir
+shop=car_repair
+wheelchair=yes
+id=node/1222845052</desc></wpt><wpt lat="53.6095342" lon="9.903095"><name>Ford Ulrich</name><desc>brand=Ford
+brand:wikidata=Q44294
+name=Ford Ulrich
+opening_hours=Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 10:00-14:00; Su,PH off
+shop=car_repair
+website=https://www.ford-ulrich-hamburg.de/
+id=node/1365849962</desc></wpt><wpt lat="53.6151339" lon="9.8978858"><name>TC Autowerkstatt Eidelstedt</name><desc>name=TC Autowerkstatt Eidelstedt
+shop=car_repair
+id=node/1370096130</desc></wpt><wpt lat="53.5414237" lon="10.0944635"><name>Schön &amp; Knauer</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=20
+addr:postcode=22111
+addr:street=Am Schiffbeker Berg
+contact:phone=+49 40 6500110
+contact:website=https://schoen-knauer.de/
+name=Schön &amp; Knauer
+opening_hours=Mo-Tu 07:00-17:30; Fr 07:00-15:00; PH off
+shop=car_repair
+id=node/1377897280</desc></wpt><wpt lat="53.5578103" lon="10.0466644"><name>Shell Service</name><desc>check_date=2024-12-21
+check_date:opening_hours=2024-03-29
+name=Shell Service
+opening_hours:signed=no
+shop=car_repair
+wheelchair=yes
+id=node/1464529546</desc></wpt><wpt lat="53.615" lon="10.1049108"><name>Werkstatt Peter Theda</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=47
+addr:postcode=22159
+addr:street=Neusurenland
+name=Werkstatt Peter Theda
+operator=Peter Theda
+shop=car_repair
+id=node/1501882600</desc></wpt><wpt lat="53.5774184" lon="9.9894172"><name>Brammer</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=144
+addr:postcode=20149
+addr:street=Rothenbaumchaussee
+brand=Mercedes-Benz
+brand:wikidata=Q36008
+name=Brammer
+opening_hours=Mo-Fr 07:30-18:30; Sa 09:00-14:00
+shop=car_repair
+id=node/1502645658</desc></wpt><wpt lat="53.5155386" lon="10.1649112"><name>Car Glass</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=7
+addr:postcode=21031
+addr:street=Heidhorst
+brand=Carglass
+brand:wikidata=Q1035997
+brand:wikipedia=de:Carglass
+name=Car Glass
+shop=car_repair
+id=node/1578705511</desc></wpt><wpt lat="53.5932406" lon="10.1437191"><name>Opel Werkstatt</name><desc>brand=Opel
+brand:wikidata=Q40966
+name=Opel Werkstatt
+shop=car_repair
+id=node/1580895751</desc></wpt><wpt lat="53.6186162" lon="10.0114613"><name>1a car service</name><desc>addr:city=Hamburg
+addr:housenumber=35
+addr:postcode=22335
+addr:street=Suhrenkamp
+name=1a car service
+note=Inhaberwechsel (vorher "1a autoservice")
+shop=car_repair
+id=node/1650806150</desc></wpt><wpt lat="53.4522157" lon="9.9962636"><name>MMM-Autospezialist</name><desc>addr:city=Hamburg
+addr:housenumber=40
+addr:postcode=21079
+addr:street=Hörstener Straße
+name=MMM-Autospezialist
+shop=car_repair
+website=http://mundm-autospezialist.de
+id=node/1725752855</desc></wpt><wpt lat="53.6446996" lon="10.1290902"><name>Petschallies Sasel</name><desc>name=Petschallies Sasel
+shop=car_repair
+id=node/1923946287</desc></wpt><wpt lat="53.5636256" lon="9.9229733"><name>Pit-Stop</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=362
+addr:postcode=22761
+addr:street=Stresemannstraße
+brand=pitstop
+brand:wikidata=Q1310014
+check_date:opening_hours=2024-04-27
+name=Pit-Stop
+opening_hours=Mo-Fr 08:00-18:00; PH off; Sa 08:00-13:00
+operator=Pit-Stop Systempartner GmbH
+phone=+49 40 8507662
+shop=car_repair
+website=https://www.pitstop.de/werkstatt/hamburg/
+wheelchair=yes
+id=node/2006535618</desc></wpt><wpt lat="53.5427918" lon="10.0962577"><name>pitstop</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=113
+addr:postcode=22111
+addr:street=Washingtonallee
+brand=pitstop
+brand:wikidata=Q1310014
+brand:wikipedia=de:Pitstop (Werkstattkette)
+contact:phone=+49 40 7313800
+contact:website=https://www.pitstop.de/werkstatt/hamburg/
+name=pitstop
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+shop=car_repair
+id=node/2067163801</desc></wpt><wpt lat="53.5814047" lon="10.1235789"><name>TimeMAX Werkstatt und Showroom</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=39
+addr:postcode=22045
+addr:street=Albert-Schweitzer-Ring
+email=info@timemax.de
+fax=+494051312906
+image=http://www.timemax.de/wp-content/uploads/werkstatt_001.jpg
+name=TimeMAX Werkstatt und Showroom
+opening_hours=Mo-Th 07:30-16:45; Fr 07:30-15:00
+operator=Gerd Cordes
+phone=+494046093910
+shop=car_repair
+short_name=timemax
+website=https://timemax.de/
+id=node/2291491249</desc></wpt><wpt lat="53.5600517" lon="9.9281209"><name>C.A.R.S.S. GmbH</name><desc>check_date:opening_hours=2023-04-28
+name=C.A.R.S.S. GmbH
+opening_hours=Mo-Th 09:00-17:00, Fr "nach Vereinbarung"
+phone=+49 40 8501185
+shop=car_repair
+website=http://www.carss-gates.de/
+wheelchair=yes
+id=node/2495984181</desc></wpt><wpt lat="53.5848633" lon="9.8749032"><name>Driver Center Lurup</name><desc>addr:housenumber=7
+addr:postcode=22549
+addr:street=Grandkuhlenweg
+brand=Driver Center
+brand:wikidata=Q48180528
+name=Driver Center Lurup
+opening_hours=Mo-Fr 08:00-12:00,13:00-17:00
+service=tyres;repair
+shop=car_repair
+wheelchair=yes
+id=node/2509471787</desc></wpt><wpt lat="53.5858412" lon="9.8760573"><name>Dannys Garage</name><desc>check_date=2023-12-14
+check_date:opening_hours=2023-12-14
+name=Dannys Garage
+opening_hours:signed=no
+shop=car_repair
+wheelchair=limited
+id=node/2509534555</desc></wpt><wpt lat="53.5868984" lon="9.874374"><name>Auto Service Kartal</name><desc>addr:housenumber=34
+addr:postcode=22549
+addr:street=Böttcherkamp
+check_date:opening_hours=2023-12-22
+name=Auto Service Kartal
+opening_hours:signed=no
+shop=car_repair
+wheelchair=yes
+id=node/2509536331</desc></wpt><wpt lat="53.5733378" lon="10.0335647"><name>pitstop.de</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=76
+addr:postcode=22081
+addr:street=Oberaltenallee
+brand=pitstop
+brand:wikidata=Q1310014
+brand:wikipedia=de:Pitstop (Werkstattkette)
+check_date=2025-01-31
+check_date:opening_hours=2022-08-15
+name=pitstop.de
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+phone=+49 40 291471
+shop=car_repair
+website=https://www.pitstop.de/werkstatt/hamburg/
+id=node/2525093186</desc></wpt><wpt lat="53.6300453" lon="9.9269701"><name>AK Werkstatt</name><desc>addr:city=Hamburg
+addr:postcode=22459
+addr:street=Frohmestraße
+email=baki@comptrax.de
+name=AK Werkstatt
+phone=+49 40 570 033 13
+shop=car_repair
+wheelchair=yes
+id=node/2580059345</desc></wpt><wpt lat="53.6056239" lon="9.9618893"><name>Bosch Car Service</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=68
+addr:postcode=22529
+addr:street=Kollaustraße
+name=Bosch Car Service
+opening_hours=PH off; Mo-Th 07:00-18:00
+operator=Bertold von Somm OHG
+phone=+49 40 582175
+shop=car_repair
+source=website
+website=https://www.boschcarservice.com/de/de/werkstatt/von-Somm-Hamburg
+wheelchair=yes
+id=node/2599761751</desc></wpt><wpt lat="53.5844606" lon="9.9280952"><name>France Garage</name><desc>name=France Garage
+opening_hours:signed=no
+shop=car_repair
+website=http://francegarage.de/
+id=node/2633077126</desc></wpt><wpt lat="53.4468231" lon="9.9579915"><name>KFZ-Technik</name><desc>name=KFZ-Technik
+shop=car_repair
+id=node/2661649764</desc></wpt><wpt lat="53.4518922" lon="9.9709827"><name>Autoservice Neuhoff</name><desc>alt_name=D. Neuhoff KFZ-Meisterbetrieb
+check_date=2024-07-31
+contact:email=kfz@autoservice-neuhoff.de
+contact:fax=+49 40 7664564
+contact:phone=+49 40 776606
+contact:website=http://autoservice-neuhoff.de
+description=24 Std. Fahrzeugannahme-Service an der Shell-Tankstelle
+name=Autoservice Neuhoff
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-14:00
+operator=Dieter Neuhoff
+service=tyres;repair;parts
+shop=car_repair
+id=node/2671964412</desc></wpt><wpt lat="53.5675517" lon="9.9639647"><name>Kfz-Reperaturwerkstatt</name><desc>check_date=2023-07-10
+name=Kfz-Reperaturwerkstatt
+shop=car_repair
+id=node/2919467712</desc></wpt><wpt lat="53.572722" lon="9.9182698"><name>IRS Dent Wizard</name><desc>name=IRS Dent Wizard
+opening_hours=Mo-Fr 07:00-18:00
+shop=car_repair
+wheelchair=no
+id=node/3241879263</desc></wpt><wpt lat="53.6081626" lon="10.0566428"><name>König Kfz Meisterbetrieb</name><desc>addr:city=Hamburg
+addr:housenumber=319
+addr:postcode=22309
+addr:street=Steilshooper Straße
+name=König Kfz Meisterbetrieb
+opening_hours=Mo-Fr 09:00-18:00; Sa 10:00-14:00
+shop=car_repair
+website=https://www.koenigkfzmb.de/
+id=node/3314363062</desc></wpt><wpt lat="53.6239118" lon="9.9087988"><name>Biehl</name><desc>addr:city=Hamburg
+addr:housenumber=175
+addr:postcode=22457
+addr:street=Holsteiner Chaussee
+brand=Renault
+name=Biehl
+shop=car_repair
+id=node/3479109622</desc></wpt><wpt lat="53.5841998" lon="9.8809788"><name>Auto Service Sasak</name><desc>name=Auto Service Sasak
+opening_hours=Mo-Fr 07:30-18:00
+shop=car_repair
+wheelchair=yes
+id=node/3479913208</desc></wpt><wpt lat="53.4388428" lon="9.9869674"><name>Autotechnik Böger</name><desc>name=Autotechnik Böger
+shop=car_repair
+id=node/3493547064</desc></wpt><wpt lat="53.5591256" lon="9.9155965"><name>Steinke Sportwagenservice</name><desc>name=Steinke Sportwagenservice
+opening_hours:signed=no
+shop=car_repair
+website=http://steinke-sportwagenservice.de/
+wheelchair=yes
+id=node/3590411007</desc></wpt><wpt lat="53.593231" lon="10.1382372"><name>pitstop</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=1-3
+addr:postcode=22149
+addr:street=Rahlstedter Straße
+brand=pitstop
+brand:wikidata=Q1310014
+brand:wikipedia=de:Pitstop (Werkstattkette)
+name=pitstop
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+phone=+49 40 27142992
+shop=car_repair
+website=https://www.pitstop.de/werkstatt/hamburg/
+id=node/3647842259</desc></wpt><wpt lat="53.5937626" lon="10.1373645"><name>Reifen Singelmann</name><desc>name=Reifen Singelmann
+shop=car_repair
+id=node/3647854559</desc></wpt><wpt lat="53.5500898" lon="10.0360296"><name>Freie Werkstatt Hamburg</name><desc>check_date=2023-08-18
+fax=+49 40 284175210
+name=Freie Werkstatt Hamburg
+opening_hours=Mo-Fr 09:00-17:00
+phone=+49 40 284175260
+shop=car_repair
+wheelchair=yes
+id=node/3737020397</desc></wpt><wpt lat="53.5502805" lon="10.0360051"><name>BoxenStop</name><desc>name=BoxenStop
+opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-14:00
+shop=car_repair
+id=node/3737022684</desc></wpt><wpt lat="53.5906037" lon="9.9127365"><name>Gerhard Kagerah Fahrzeugtechnik GmbH</name><desc>addr:city=Hamburg
+addr:housenumber=30
+addr:postcode=22525
+addr:street=Lederstraße
+check_date:opening_hours=2024-02-26
+name=Gerhard Kagerah Fahrzeugtechnik GmbH
+opening_hours=Mo-Th 07:00-18:00; Fr 07:00-15:00
+opening_hours:signed=no
+phone=+49 40 408304
+shop=car_repair
+toilets:wheelchair=no
+website=https://kagerah.de/
+wheelchair=yes
+id=node/3789915478</desc></wpt><wpt lat="53.4776677" lon="10.1982511"><name>Bergedorfer Selbsthilfe Autoselbsthilfe</name><desc>addr:city=Hamburg
+addr:housenumber=2
+addr:postcode=21035
+addr:street=Helmut-Nack-Straße
+name=Bergedorfer Selbsthilfe Autoselbsthilfe
+phone=+49 40 28 78 78 88
+shop=car_repair
+id=node/3944960985</desc></wpt><wpt lat="53.5091458" lon="10.178694"><name>Autodock</name><desc>addr:city=Hamburg
+addr:housenumber=4
+addr:postcode=21031
+addr:street=Osterrade
+name=Autodock
+note:de=Autoselbsthilfe
+phone=+49 40 7386003
+shop=car_repair
+website=https://autodock.de/
+id=node/3944976561</desc></wpt><wpt lat="53.5502985" lon="10.0387415"><name>Motorinstandsetzung Carl Baguhn</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=254
+addr:postcode=20537
+addr:street=Wendenstraße
+building=industrial
+check_date=2024-12-29
+name=Motorinstandsetzung Carl Baguhn
+opening_hours=Mo-Fr 06:45-15:00
+shop=car_repair
+wheelchair=yes
+id=node/3956511470</desc></wpt><wpt lat="53.569181" lon="10.0592207"><name>Autoservice</name><desc>check_date=2025-07-23
+name=Autoservice
+opening_hours=Mo-Fr 09:00-18:00
+phone=+49 40 30202460
+shop=car_repair
+id=node/4097716517</desc></wpt><wpt lat="53.568492" lon="10.059722"><name>DD Customs</name><desc>check_date=2025-07-23
+name=DD Customs
+shop=car_repair
+id=node/4097750496</desc></wpt><wpt lat="53.6475472" lon="10.0373112"><name>Offroad Manufaktur Hamburg</name><desc>contact:email=info@offroad-manufaktur.com
+contact:fax=+49 40 401 398 50
+contact:phone=+49 40 401 398 48
+contact:website=https://www.offroad-manufaktur.com
+name=Offroad Manufaktur Hamburg
+opening_hours=Mo-Fr 08:00-18:00;Sa 10:00-13:00
+operator=Raasch &amp; Schäfers GmbH
+shop=car_repair
+id=node/4192133290</desc></wpt><wpt lat="53.6539661" lon="10.0190957"><name>Kfz-Werkstatt Jänkel</name><desc>name=Kfz-Werkstatt Jänkel
+phone=+49-40-5204820
+shop=car_repair
+id=node/4279100092</desc></wpt><wpt lat="53.5780203" lon="10.0376004"><name>Sportwagen-Service</name><desc>check_date:opening_hours=2022-11-27
+name=Sportwagen-Service
+opening_hours=Mo-Fr 10:00-18:00
+shop=car_repair
+id=node/4296702929</desc></wpt><wpt lat="53.5831726" lon="10.0171252"><name>Reifen-Pio</name><desc>name=Reifen-Pio
+opening_hours=Mo-Fr 07:30-18:00, Sa 09:00-12:30
+shop=car_repair
+id=node/4348336796</desc></wpt><wpt lat="53.5938575" lon="10.0015925"><name>Thele + Peters</name><desc>name=Thele + Peters
+shop=car_repair
+id=node/4424769101</desc></wpt><wpt lat="53.5680506" lon="9.9948367"><name>Rene Kienas KFZ-Service</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=26
+addr:postcode=20148
+addr:street=Mittelweg
+email=Kienas@Hamburg.de
+name=Rene Kienas KFZ-Service
+opening_hours=Mo-Th 08:00-16:30; Fr 08:00-15:30
+phone=+49 40 445912
+shop=car_repair
+website=http://www.kienas.de/
+id=node/4572291190</desc></wpt><wpt lat="53.4569681" lon="10.0004299"><name>Autotechnik Buch &amp; Benecke GmbH</name><desc>addr:housenumber=2
+addr:postcode=21079
+addr:street=Lewenwerder
+email=info@buch-benecke.de
+name=Autotechnik Buch &amp; Benecke GmbH
+name:de=Autotechnik Buch &amp; Benecke GmbH
+opening_hours=Mo-Th 07:30-17:00; Fr 07:30-15:00
+operator=Michael u. Marcel Dressnandt
+phone=+49 40 777479
+shop=car_repair
+website=https://www.buch-benecke.de/
+id=node/4586483593</desc></wpt><wpt lat="53.5192289" lon="10.0209834"><name>Car Spezi</name><desc>check_date:opening_hours=2024-08-17
+name=Car Spezi
+opening_hours:signed=no
+shop=car_repair
+id=node/4692807630</desc></wpt><wpt lat="53.5333417" lon="10.0868467"><name>Zweistein GmbH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=40
+addr:postcode=22113
+addr:street=Liebigstraße
+name=Zweistein GmbH
+phone=+49 40 7367742-0
+shop=car_repair
+id=node/4889264021</desc></wpt><wpt lat="53.5579883" lon="9.9646828"><name>F. Sachs + Sohn GmbH</name><desc>name=F. Sachs + Sohn GmbH
+opening_hours=Mo-Su 06:00-23:00
+operator=Rüdiger Lange
+phone=+49-40-4600566
+shop=car_repair
+website=https://www.sachs-sohn.de/
+wheelchair=yes
+id=node/5020619687</desc></wpt><wpt lat="53.5445485" lon="10.0511944"><name>AutoTeamNowak</name><desc>addr:city=Hamburg
+addr:housenumber=160a
+addr:postcode=20537
+addr:street=Hammer Deich
+check_date=2025-02-09
+check_date:opening_hours=2025-02-09
+name=AutoTeamNowak
+opening_hours=Mo-Th 07:00-17:00, Fr 07:00-15:00
+shop=car_repair
+wheelchair=yes
+id=node/5182293736</desc></wpt><wpt lat="53.5117363" lon="10.179061"><name>Harms</name><desc>name=Harms
+opening_hours=Mo-Fr 07:30-18:00
+shop=car_repair
+website=https://www.autoharms.de/
+id=node/5628688532</desc></wpt><wpt lat="53.5096356" lon="10.1830709"><name>Autoservice Helmer</name><desc>name=Autoservice Helmer
+shop=car_repair
+website=https://www.autoservice-helmer.de/
+id=node/5628688544</desc></wpt><wpt lat="53.5094187" lon="10.182741"><name>SG Autolackiererei</name><desc>name=SG Autolackiererei
+shop=car_repair
+id=node/5628688545</desc></wpt><wpt lat="53.6597993" lon="10.0039579"><name>Autolackiererei Langenhorn</name><desc>addr:city=Hamburg
+addr:housenumber=2
+addr:postcode=22419
+addr:street=Oehleckerring
+email=Info@bslack.de
+fax=+49 40 69660069
+name=Autolackiererei Langenhorn
+opening_hours=Mo-Th 07:00-16:30; Fr 07:00-14:00
+operator=Autolackiererei Langenhorn Michael Höhne GmbH
+phone=+49 40 5321313
+shop=car_repair
+website=https://www.autolackiererei-langenhorn.de/
+id=node/5691299938</desc></wpt><wpt lat="53.4631231" lon="9.9824485"><name>Wheel Buster</name><desc>email=kontakt@wheelbuster.de
+level=0
+name=Wheel Buster
+opening_hours=Mo-Fr 08:00-17:00; Sa 09:00-13:00
+phone=+49 40 376 11 323
+service=tyres;repair;parts
+shop=car_repair
+website=https://wheelbuster.de/
+wheelchair=yes
+id=node/5762361791</desc></wpt><wpt lat="53.5757285" lon="10.0245591"><name>KFZ Service Christian Winkler</name><desc>addr:city=Hamburg
+addr:housenumber=8a
+addr:postcode=22083
+addr:street=Schubertstraße
+name=KFZ Service Christian Winkler
+opening_hours=Mo-Th 07:00-18:00, Fr 07:00-15:00
+phone=+49 40 220 14 91
+shop=car_repair
+website=https://www.winkler-kfz-service.de/
+wheelchair=yes
+id=node/5784093687</desc></wpt><wpt lat="53.6032598" lon="9.9863188"><name>Autoservice Offakamp e. K.</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=4
+addr:postcode=22453
+addr:street=Rosenbrook
+disused:name=Meisterhaft Autoreparatur Thomas Knaack
+disused:service=repair
+name=Autoservice Offakamp e. K.
+opening_hours=Mo-Fr 08:30-18:00
+phone=+49 40 514 99 999
+shop=car_repair
+wheelchair=yes
+id=node/5906596817</desc></wpt><wpt lat="53.5375326" lon="9.8580432"><name>Autoservice Domgjoni</name><desc>name=Autoservice Domgjoni
+shop=car_repair
+id=node/6042828993</desc></wpt><wpt lat="53.5437396" lon="10.090539"><name>Nissan</name><desc>brand=Nissan
+brand:wikidata=Q20165
+name=Nissan
+shop=car_repair
+id=node/6055974098</desc></wpt><wpt lat="53.5807968" lon="9.788803"><name>Kalinna</name><desc>name=Kalinna
+shop=car_repair
+id=node/6175011604</desc></wpt><wpt lat="53.6192269" lon="10.0329142"><name>Freie Automobilwerkstatt Thorsten Klatt</name><desc>name=Freie Automobilwerkstatt Thorsten Klatt
+shop=car_repair
+id=node/6180485792</desc></wpt><wpt lat="53.5760661" lon="10.0396313"><name>Fahrzeugtechnik Dipl. Ing. Uli Sandmeier</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=14
+addr:postcode=22081
+addr:street=Volksdorfer Straße
+description:de=Liebhaberfahrzeuge, Oldtimer spez. Citroén DS/ID Reparatur, Ersatzteile und Beratung
+email=ulisandmeier@ladeesse.de
+name=Fahrzeugtechnik Dipl. Ing. Uli Sandmeier
+phone=+49 40 25490549
+shop=car_repair
+website=http://ladeesse.de
+id=node/6210397738</desc></wpt><wpt lat="53.5524789" lon="9.992229"><name>KFZ Gutachter Institut Hamburg</name><desc>addr:city=Hamburg
+addr:housenumber=10
+addr:postcode=20354
+addr:street=Neuer Wall
+name=KFZ Gutachter Institut Hamburg
+shop=car_repair
+id=node/6241623836</desc></wpt><wpt lat="53.5165182" lon="9.994247"><name>KSK Autoservice</name><desc>check_date:opening_hours=2024-03-02
+description=Reifenservice, Klimaservice, Reperaturen, HU/AU
+name=KSK Autoservice
+opening_hours:signed=no
+phone=+49 40 76980557
+shop=car_repair
+id=node/6358370962</desc></wpt><wpt lat="53.5496237" lon="10.0374519"><name>BusWorldHome Hamburg</name><desc>addr:city=Hamburg
+addr:housenumber=59
+addr:postcode=20537
+addr:street=Ausschläger Weg
+check_date=2024-03-20
+name=BusWorldHome Hamburg
+opening_hours=Mo-Fr 07:30-20:00
+operator=EvoBus GmbH
+phone=+49 40 251509 0
+shop=car_repair
+id=node/6504801088</desc></wpt><wpt lat="53.5094069" lon="9.9854721"><name>Auto Service Albrecht</name><desc>addr:housenumber=23
+addr:street=Neuhöfer Straße
+addr:unit=16
+check_date:opening_hours=2024-10-25
+name=Auto Service Albrecht
+opening_hours:signed=no
+phone=+49407533777
+shop=car_repair
+id=node/6578305251</desc></wpt><wpt lat="53.5368484" lon="10.0608212"><name>Vergölst</name><desc>brand=Vergölst
+brand:wikidata=Q1673875
+name=Vergölst
+shop=car_repair
+id=node/6682845136</desc></wpt><wpt lat="53.4967931" lon="10.1795304"><name>Caryac</name><desc>name=Caryac
+shop=car_repair
+website=http://www.caryac.de
+id=node/6693473435</desc></wpt><wpt lat="53.5157092" lon="10.2090749"><name>WAW</name><desc>name=WAW
+shop=car_repair
+id=node/6699127099</desc></wpt><wpt lat="53.5157188" lon="10.2086243"><name>Peter Kaczmarek</name><desc>name=Peter Kaczmarek
+shop=car_repair
+id=node/6699127103</desc></wpt><wpt lat="53.5153743" lon="10.208348"><name>Smart-Repair Buchmüller</name><desc>name=Smart-Repair Buchmüller
+shop=car_repair
+id=node/6699127105</desc></wpt><wpt lat="53.5154891" lon="10.2082729"><name>A&amp;S</name><desc>name=A&amp;S
+shop=car_repair
+id=node/6699127106</desc></wpt><wpt lat="53.6788467" lon="10.0013801"><name>Audi Hamburg Nord</name><desc>brand=Audi;Seat;Škoda;Volkswagen
+name=Audi Hamburg Nord
+opening_hours=Mo-Fr 07:00-19:00, Sa 09:00-13:00
+operator=VGRHH GmbH
+service=repair
+shop=car_repair
+website=https://www.audi-hamburg-nord.audi/
+wheelchair=yes
+id=node/6749274334</desc></wpt><wpt lat="53.5750699" lon="10.1018317"><name>Auto Groth</name><desc>name=Auto Groth
+shop=car_repair
+id=node/6766504404</desc></wpt><wpt lat="53.470793" lon="9.9532783"><name>Car's &amp; Bike's Selbsthilfewerkstatt</name><desc>name=Car's &amp; Bike's Selbsthilfewerkstatt
+opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-14:00
+shop=car_repair
+wheelchair=yes
+id=node/6793520829</desc></wpt><wpt lat="53.6661298" lon="9.9934052"><name>Westside Cars</name><desc>contact:phone=+49 40 32595670
+contact:website=https://westsidecars.eu/
+name=Westside Cars
+opening_hours=Mo-Fr 08:00-18:00; Sa "nach Absprache"
+operator=westside.cars GmbH &amp; Co. KG
+service=dealer;repair
+shop=car_repair
+id=node/6825152041</desc></wpt><wpt lat="53.6061137" lon="10.0808844"><name>Autoport Oettinger&amp;Wilde GmbH</name><desc>description=Reparaturwerkstatt für Porsche
+name=Autoport Oettinger&amp;Wilde GmbH
+shop=car_repair
+id=node/6872893033</desc></wpt><wpt lat="53.6035261" lon="9.9851521"><name>DHK Reifenservice Groß Borstel GmbH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=15a+b
+addr:postcode=22453
+addr:street=Borsteler Chaussee
+email=info@reifenservice-gross-borstel.de
+fax=+49 40 514 24 11
+name=DHK Reifenservice Groß Borstel GmbH
+opening_hours=Mo-Fr 08:00-13:00,14:00-17:00
+phone=+49 40 514 24 00
+service:vehicle:tyres=yes
+shop=car_repair
+id=node/6882990741</desc></wpt><wpt lat="53.6035016" lon="9.9848423"><name>T.A.S. Kfz-Service GmbH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=15c
+addr:postcode=22453
+addr:street=Borsteler Chaussee
+email=info@taskfzgmbh.de
+name=T.A.S. Kfz-Service GmbH
+opening_hours=Mo-Fr 09:00-18:00;Sa 08:00-14:00
+phone=+49 40 515655
+service=repair
+shop=car_repair
+website=https://www.autoservice-tas.de/
+id=node/6934960754</desc></wpt><wpt lat="53.5766146" lon="9.8194238"><name>Jan Hoops Service</name><desc>name=Jan Hoops Service
+phone=+49 1778662594
+shop=car_repair
+id=node/6987265073</desc></wpt><wpt lat="53.5645292" lon="10.0417091"><name>All about cars.de</name><desc>addr:city=Hamburg
+addr:housenumber=21
+addr:postcode=22089
+addr:street=Kiebitzstraße
+brand=DHL
+brand:wikidata=Q489815
+name=All about cars.de
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-14:00; Sa,Su off
+payment:credit_cards=no
+payment:debit_cards=yes
+shop=car_repair
+id=node/7021796590</desc></wpt><wpt lat="53.5486525" lon="10.03635"><name>Audi</name><desc>brand=Audi
+brand:wikidata=Q23317
+brand:wikipedia=en:Audi
+check_date=2024-03-20
+name=Audi
+shop=car_repair
+id=node/7099441004</desc></wpt><wpt lat="53.5731724" lon="9.8522749"><name>Freie Porsche Werkstatt Armin Leppek</name><desc>brand=Porsche
+name=Freie Porsche Werkstatt Armin Leppek
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-16:00
+shop=car_repair
+wheelchair=yes
+id=node/7159546698</desc></wpt><wpt lat="53.5873396" lon="10.053652"><name>KFZ Werkstatt</name><desc>addr:housenumber=21
+addr:street=Geierstraße
+check_date:opening_hours=2024-03-26
+name=KFZ Werkstatt
+opening_hours=Mo-Sa 09:00-19:00
+phone=+4915753757893
+shop=car_repair
+wheelchair=yes
+id=node/7725937746</desc></wpt><wpt lat="53.5847927" lon="9.9291371"><name>Hanse KFZ Technik</name><desc>contact:email=hanse-kfztechnik@gmx.de
+contact:fax=+49 40 41 46 76 39
+contact:phone=+49 40 41 46 76 76
+contact:website=http://hanse-kfz.de/
+name=Hanse KFZ Technik
+opening_hours=Mo-Sa 09:00-19:00
+opening_hours:signed=no
+shop=car_repair
+wheelchair=yes
+id=node/7734624664</desc></wpt><wpt lat="53.597594" lon="10.0696757"><name>Klamer + Banko Kfz-Meisterbetrieb</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=31
+addr:postcode=22179
+addr:street=Haldesdorfer Straße
+email=k@klamer-autoservice.de
+name=Klamer + Banko Kfz-Meisterbetrieb
+opening_hours=Mo-Th 08:00-18:00; Fr 08:00-15:30
+phone=+494032510917
+shop=car_repair
+website=https://www.klamer-autoservice.de/
+wheelchair=yes
+id=node/7834744265</desc></wpt><wpt lat="53.5975576" lon="10.0704614"><name>Premio Reifen + Autoservice Reifendienst Hamburg GmbH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=33-37
+addr:postcode=22179
+addr:street=Haldesdorfer Straße
+brand=Premio
+brand:wikidata=Q100895958
+name=Premio Reifen + Autoservice Reifendienst Hamburg GmbH
+phone=+4940616261
+shop=car_repair
+website=https://hamburg-bramfeld.premio.de/
+id=node/7834744266</desc></wpt><wpt lat="53.5979376" lon="10.0679672"><name>KFZ-Meisterbetrieb Gröhn</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=21
+addr:postcode=22179
+addr:street=Haldesdorfer Straße
+name=KFZ-Meisterbetrieb Gröhn
+opening_hours=Mo-Fr 08:00-17:00
+phone=+49406917344
+shop=car_repair
+website=https://www.holger-groehn.de/
+wheelchair=yes
+id=node/7834744281</desc></wpt><wpt lat="53.6624371" lon="10.0180141"><name>Kfz-Service Langenhorn</name><desc>name=Kfz-Service Langenhorn
+opening_hours=Mo-Fr 09:00-18:00
+shop=car_repair
+id=node/7869917803</desc></wpt><wpt lat="53.6242308" lon="10.1152802"><name>Reifen Börse Riemschneider</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=156-158
+addr:postcode=22159
+addr:street=Pezolddamm
+email=info@reifenboerse-riemschneider.de
+fax=+49 40 64090299
+layer=-1
+name=Reifen Börse Riemschneider
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-12:00
+operator=Hans-Werner Riemschneider
+phone=+49 40 6409020
+service=dealer;tyres;repair
+shop=car_repair
+website=https://www.riemschneider.de/
+id=node/7917783825</desc></wpt><wpt lat="53.45643" lon="9.9554573"><name>Auto Fitt Service</name><desc>name=Auto Fitt Service
+shop=car_repair
+id=node/8397586208</desc></wpt><wpt lat="53.5513408" lon="10.0540308"><name>Wintec Autoglas</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=596
+addr:postcode=20537
+addr:street=Eiffestraße
+brand=Wintec Autoglas
+brand:wikidata=Q23816518
+brand:wikipedia=de:Wintec
+check_date=2025-02-02
+check_date:opening_hours=2024-01-04
+contact:phone=+49 40 79725030
+contact:website=https://wintec-hardeman-gmbh-co-kg.wintec-autoglas.de/hamburg-eiffestr-596
+name=Wintec Autoglas
+opening_hours=Mo-Fr 08:00-17:00; PH off
+operator=Wintec Hardeman GmbH &amp; Co. KG
+service:vehicle:glass=yes
+shop=car_repair
+id=node/8751107344</desc></wpt><wpt lat="53.5789478" lon="9.936803"><name>Aydin Topalova</name><desc>contact:email=info@auto-topalova.de
+contact:fax=+49 40 45 23 622
+contact:phone=+49 40 85 337 667
+contact:website=http://auto-topalova.de
+name=Aydin Topalova
+opening_hours=Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa "nach Vereinbarung"
+shop=car_repair
+wheelchair=yes
+id=node/8825773683</desc></wpt><wpt lat="53.4581214" lon="9.9729909"><name>MS Performance</name><desc>addr:housenumber=50
+addr:street=Marienstraße
+email=info@ms-performance-hamburg.de
+name=MS Performance
+opening_hours=Mo-Fr 08:00-17:00; Sa 09:00-14:00
+phone=+4917640525658
+shop=car_repair
+website=https://www.ms-performance-hamburg.de
+id=node/8954549308</desc></wpt><wpt lat="53.6043768" lon="10.0238289"><name>Speedy Autoservice</name><desc>name=Speedy Autoservice
+opening_hours=Mo-Fr 08:00-17:00
+shop=car_repair
+id=node/8998071808</desc></wpt><wpt lat="53.5771344" lon="9.9645283"><name>KFZ-Meister-Betrieb Frank Gollnick</name><desc>check_date:opening_hours=2024-10-05
+name=KFZ-Meister-Betrieb Frank Gollnick
+opening_hours:signed=no
+parking=underground
+shop=car_repair
+wheelchair=yes
+id=node/9006274949</desc></wpt><wpt lat="53.5513027" lon="9.9236919"><name>Sternberg Autoreparatur</name><desc>name=Sternberg Autoreparatur
+opening_hours=Mo-Th 08:00-12:00; Fr-Su off, Mo-Th 13:00-18:00
+phone=+49 40 3902090
+shop=car_repair
+website=https://www.sternberg-autoreparatur.de/
+wheelchair=yes
+id=node/9025877140</desc></wpt><wpt lat="53.5970471" lon="10.064533"><name>speedy Auto-Service</name><desc>name=speedy Auto-Service
+shop=car_repair
+id=node/9038306660</desc></wpt><wpt lat="53.5490098" lon="10.0229117"><name>KFZ Technik Z&amp;A GmbH</name><desc>addr:city=Hamburg
+addr:housenumber=3
+addr:postcode=20097
+addr:street=Gotenstraße
+check_date=2023-09-09
+name=KFZ Technik Z&amp;A GmbH
+opening_hours=Mo-Fr 07:30-18:00; Sa 09:00-13:00
+shop=car_repair
+website=https://za-werkstatt-hamburg.de
+id=node/9155691484</desc></wpt><wpt lat="53.5158707" lon="9.992811"><name>ATAI Autoselbsthilfe</name><desc>check_date:opening_hours=2024-10-19
+name=ATAI Autoselbsthilfe
+opening_hours:signed=no
+payment:credit_cards=no
+payment:debit_cards=no
+shop=car_repair
+id=node/9223594383</desc></wpt><wpt lat="53.5776467" lon="9.9364993"><name>Automobil Service Zentrum</name><desc>name=Automobil Service Zentrum
+service=parts;repair
+shop=car_repair
+id=node/9423407806</desc></wpt><wpt lat="53.5753279" lon="9.9565055"><name>Hamburgs GaRage</name><desc>addr:city=Hamburg
+addr:housenumber=62-64
+addr:postcode=20259
+addr:street=Osterstraße
+email=info@hamburgsgarage.de
+name=Hamburgs GaRage
+opening_hours=Mo-Th 08:00-17:15; Fr 08:00-15:15
+operator=Hamburgs GaRage G.B. &amp; R.S. GmbH
+phone=+49 40 407173
+service:vehicle:air_conditioning=yes
+service:vehicle:car_parts=yes
+service:vehicle:car_repair=yes
+service:vehicle:diagnostics=yes
+service:vehicle:glass=yes
+service:vehicle:inspection=yes
+service:vehicle:oil_change=yes
+service:vehicle:painting=yes
+service:vehicle:tyres=yes
+shop=car_repair
+website=https://hamburgsgarage.de/index/
+id=node/9581383236</desc></wpt><wpt lat="53.585098" lon="9.9276397"><name>TP Auto Service</name><desc>name=TP Auto Service
+opening_hours=Mo-Th 07:30-16:30; Fr 07:30-14:30
+shop=car_repair
+wheelchair=yes
+id=node/9621084363</desc></wpt><wpt lat="53.5819305" lon="9.9299835"><name>KFZ-Service Pigiel</name><desc>name=KFZ-Service Pigiel
+opening_hours:signed=no
+shop=car_repair
+wheelchair=yes
+id=node/9621084382</desc></wpt><wpt lat="53.6004197" lon="10.0783869"><name>DG Autotechnic</name><desc>addr:city=Hamburg
+addr:housenumber=109
+addr:postcode=22179
+addr:street=Haldesdorfer Straße
+contact:phone=+4940 55009571
+contact:website=https://www.auto-technic.de/
+name=DG Autotechnic
+opening_hours=Mo-Fr 08:30-18:00
+payment:cash=yes
+payment:girocard=yes
+phone=+49 40 55009571
+service=parts;repair;tyres
+shop=car_repair
+website=https://auto-technic.de
+id=node/9624431519</desc></wpt><wpt lat="53.5974551" lon="9.9284126"><name>T&amp;S Automobile</name><desc>name=T&amp;S Automobile
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-14:00
+shop=car_repair
+id=node/9703480577</desc></wpt><wpt lat="53.575466" lon="10.0864324"><name>Kfz-Meisterbetrieb A-B</name><desc>name=Kfz-Meisterbetrieb A-B
+opening_hours=Mo-Fr 07:30-18:00; Sa 9:00-13:00
+shop=car_repair
+website=https://www.kfz-a-b.de/
+id=node/9861247062</desc></wpt><wpt lat="53.5754955" lon="10.0868651"><name>A &amp; V Karosserie- &amp; Lackierzentrum</name><desc>name=A &amp; V Karosserie- &amp; Lackierzentrum
+service:vehicle:body_repair=yes
+service:vehicle:painting=yes
+shop=car_repair
+id=node/9872467299</desc></wpt><wpt lat="53.5750744" lon="10.0867384"><name>MyCarDesign</name><desc>name=MyCarDesign
+shop=car_repair
+id=node/9872467304</desc></wpt><wpt lat="53.5875465" lon="9.9213545"><name>TSM Autoservice</name><desc>name=TSM Autoservice
+opening_hours=Mo-Fr 08:00-18:00; Sa 10:00-14:00
+phone=+4940544060
+shop=car_repair
+wheelchair=yes
+id=node/10099414523</desc></wpt><wpt lat="53.4971607" lon="10.1799811"><name>node/10238136318</name><desc>shop=car_repair
+id=node/10238136318</desc></wpt><wpt lat="53.6087999" lon="10.0379624"><name>KFZ-Werkstatt Hellwig</name><desc>addr:city=Hamburg
+addr:housenumber=527
+addr:postcode=22337
+addr:street=Fuhlsbüttler Straße
+email=info@kfz-werkstatt-hellwig.de
+fax=+49 40 6321753
+name=KFZ-Werkstatt Hellwig
+opening_hours=Mo-Th 07:30-18:00; Fr 07:30-15:00
+operator=Tim Hellwig
+phone=+49 40 6319289
+shop=car_repair
+website=https://www.kfz-werkstatt-hellwig.de
+id=node/10313205179</desc></wpt><wpt lat="53.5560171" lon="9.9083121"><name>Auto-Service André Feige</name><desc>name=Auto-Service André Feige
+opening_hours=Mo-Th 08:00-16:30; Fr 08:00-15:30
+shop=car_repair
+wheelchair=yes
+id=node/10552835485</desc></wpt><wpt lat="53.5792109" lon="10.1300969"><name>Demi-Kfz</name><desc>addr:city=Hamburg
+addr:housenumber=6
+addr:postcode=22045
+addr:street=Zur Jenfelder Au
+description=Selbsthilfewerkstatt mit Hebebühnen und Werkzeugverleih
+name=Demi-Kfz
+opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-16:00
+payment:cash=yes
+phone=+49 40 38637650
+shop=car_repair
+website=https://demi-kfz.de/
+id=node/10559284936</desc></wpt><wpt lat="53.6002673" lon="9.9171996"><name>AC Kfz-Werkstatt</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=566
+addr:postcode=22525
+addr:street=Kieler Straße
+name=AC Kfz-Werkstatt
+shop=car_repair
+id=node/10656075466</desc></wpt><wpt lat="53.6023725" lon="9.9905983"><name>Carglass</name><desc>brand=Carglass
+brand:wikidata=Q1035997
+name=Carglass
+opening_hours=Mo-Fr 08:00-17:00
+service:vehicle:glass=yes
+shop=car_repair
+id=node/10725331249</desc></wpt><wpt lat="53.5592557" lon="9.9156448"><name>Motorrad Service Altona</name><desc>name=Motorrad Service Altona
+opening_hours=Mo-Fr 10:00-12:00,13:00-19:00
+operator=Tobias Trapp
+service=repair
+shop=car_repair
+wheelchair=yes
+id=node/10814735092</desc></wpt><wpt lat="53.594931" lon="10.057733"><name>Autolackier- und Karosseriefachbetrieb Berndt</name><desc>addr:city=Hamburg
+addr:housenumber=21
+addr:postcode=22177
+addr:street=Heinrich-Helbing-Straße
+contact:email=info@berndt-hamburg.de
+contact:fax=+49 40 6571242
+contact:phone=+49 40 6565298
+contact:website=https://berndt-hamburg.de/
+name=Autolackier- und Karosseriefachbetrieb Berndt
+opening_hours=Mo-Th 07:00-16:00, Fr 07:00-14:00
+operator=Berndt GmbH &amp; Co KG
+shop=car_repair
+wheelchair=yes
+id=node/10873374629</desc></wpt><wpt lat="53.5461591" lon="10.0396297"><name>M-S Sherpur Kfz-Service Meisterbetrieb</name><desc>check_date=2025-02-08
+name=M-S Sherpur Kfz-Service Meisterbetrieb
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-14:00
+shop=car_repair
+id=node/11005991794</desc></wpt><wpt lat="53.5951579" lon="9.9069985"><name>Jens Traulsen &amp; Sohn</name><desc>contact:phone=+49 40 54 32 01
+entrance=yes
+name=Jens Traulsen &amp; Sohn
+old_name=Karlheinz Oehlke
+opening_hours=Mo-Th 07:00-17:00, Fr 07:00-13:00; PH off
+operator=Dennis Wolf
+shop=car_repair
+wheelchair=yes
+id=node/11073339182</desc></wpt><wpt lat="53.5699969" lon="9.8761705"><name>Elbe Auto Service</name><desc>check_date:opening_hours=2025-04-21
+name=Elbe Auto Service
+opening_hours=Mo-Fr 08:00-19:00; Sa 09:00-15:00
+shop=car_repair
+wheelchair=yes
+id=node/11274560352</desc></wpt><wpt lat="53.5593494" lon="9.9156672"><name>KFZ Werkstatt Kallert</name><desc>check_date:opening_hours=2023-11-18
+name=KFZ Werkstatt Kallert
+opening_hours:signed=no
+service=repair
+shop=car_repair
+wheelchair=yes
+id=node/11359634748</desc></wpt><wpt lat="53.5847506" lon="9.8810057"><name>Bieniek</name><desc>name=Bieniek
+opening_hours=Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa,Su,PH off
+shop=car_repair
+wheelchair=limited
+id=node/11443337504</desc></wpt><wpt lat="53.5818825" lon="10.0764174"><name>Autoservice Albrecht &amp; Debus GbR</name><desc>addr:city=Hamburg
+addr:housenumber=14
+addr:postcode=22041
+addr:street=Hinschenfelder Straße
+email=info@autoservice-debus-albrecht.de
+name=Autoservice Albrecht &amp; Debus GbR
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-15:00
+operator=Demitri Debus, Lars Albrecht
+phone=+49 40 6935727
+service:vehicle:air_conditioning=yes
+service:vehicle:alignment=yes
+service:vehicle:batteries=yes
+service:vehicle:brakes=yes
+service:vehicle:car_parts=yes
+service:vehicle:car_repair=yes
+service:vehicle:diagnostics=yes
+service:vehicle:electrical=yes
+service:vehicle:glass=yes
+service:vehicle:inspection=yes
+service:vehicle:muffler=yes
+service:vehicle:oil_change=yes
+service:vehicle:repairs=yes
+service:vehicle:transmission=yes
+service:vehicle:tyres=yes
+service:vehicle:wheels=yes
+shop=car_repair
+wheelchair=limited
+id=node/11527575153</desc></wpt><wpt lat="53.5532511" lon="10.057303"><name>auto reparatur K. Hansen C. Donner</name><desc>check_date=2025-02-02
+name=auto reparatur K. Hansen C. Donner
+opening_hours=Mo-Fr 07:00-17:00; Sa 07:00-15:00
+shop=car_repair
+id=node/11557245420</desc></wpt><wpt lat="53.6015154" lon="9.9176771"><name>Autowerk Hamburg</name><desc>addr:city=Hamburg
+addr:housenumber=45c
+addr:postcode=22527
+addr:street=Olloweg
+name=Autowerk Hamburg
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-15:00
+phone=+49 40 80791882
+shop=car_repair
+website=https://www.autowerk24.de/
+id=node/11580708705</desc></wpt><wpt lat="53.5490407" lon="10.0365585"><name>Auto Partner Süd</name><desc>name=Auto Partner Süd
+shop=car_repair
+id=node/11748401401</desc></wpt><wpt lat="53.5636013" lon="10.0269709"><name>Motoren Hildebrandt</name><desc>addr:city=Hamburg
+addr:housenumber=30
+addr:postcode=22087
+addr:street=Güntherstraße
+boat:repair=marine engines
+contact:fax=+49 40 22742810
+description=Motoreninstandsetzung, Motorenersatzteilverkauf, maritimer Service, Lieferservice und Kfz-Werkstatt
+name=Motoren Hildebrandt
+opening_hours=Mo-Th 07:30-16:30, Fr 07:30-13:00; PH off
+phone=+49 40 2274280
+service:vehicle:air_conditioning=yes
+service:vehicle:brakes=yes
+service:vehicle:car_repair=yes
+service:vehicle:diagnostics=yes
+service:vehicle:inspection=yes
+service:vehicle:motor=yes
+service:vehicle:oil_change=yes
+service:vehicle:tyres=yes
+shop=car_repair
+website=https://motoren-hh.de
+wheelchair=yes
+id=node/11878586649</desc></wpt><wpt lat="53.5155847" lon="9.9827312"><name>KFZ-Werkstatt Honigfabrik</name><desc>name=KFZ-Werkstatt Honigfabrik
+shop=car_repair
+wheelchair=yes
+id=node/12089365521</desc></wpt><wpt lat="53.5622269" lon="10.0277902"><name>Autoservice Wehbe</name><desc>name=Autoservice Wehbe
+opening_hours=Mo-Fr 10:00-18:00
+shop=car_repair
+id=node/12091857350</desc></wpt><wpt lat="53.4952181" lon="10.1192122"><name>speedy Auto-Service</name><desc>addr:city=Hamburg
+addr:housenumber=18
+addr:postcode=21035
+addr:street=Rungedamm
+email=allermoehe@speedyautoservice.de
+name=speedy Auto-Service
+opening_hours=Mo-Fr 08:00-17:00
+operator=Speedy Auto-Service GmbH &amp; Co KG
+phone=+49 40 702 967 97
+shop=car_repair
+website=https://www.speedyautoservice.de/index.php/de/filialen/hamburg/18-hamburg-allermoehe
+id=node/12205988370</desc></wpt><wpt lat="53.5831309" lon="10.116685"><name>Semo Sunj</name><desc>name=Semo Sunj
+shop=car_repair
+id=node/12209078604</desc></wpt><wpt lat="53.519546" lon="9.9973454"><name>Fair Fix GmbH</name><desc>name=Fair Fix GmbH
+opening_hours=Mo-Fr 09:00-17:00; Sa 09:00-12:00
+shop=car_repair
+id=node/12214142914</desc></wpt><wpt lat="53.5201544" lon="9.9806779"><name>H&amp;H, KFZ-Meisterbetrieb</name><desc>check_date:opening_hours=2024-10-12
+name=H&amp;H, KFZ-Meisterbetrieb
+opening_hours:signed=no
+shop=car_repair
+id=node/12246254685</desc></wpt><wpt lat="53.5112187" lon="9.9857872"><name>Auto Reparatur Stefan Walz</name><desc>check_date:opening_hours=2024-11-10
+name=Auto Reparatur Stefan Walz
+opening_hours:signed=no
+shop=car_repair
+id=node/12329635242</desc></wpt><wpt lat="53.5494519" lon="10.0335063"><name>Volkswagen Commercial Vehicles</name><desc>brand=Volkswagen Commercial Vehicles
+brand:wikidata=Q699709
+name=Volkswagen Commercial Vehicles
+opening_hours=Mo-Fr 07:00-18:00; Sa 08:00-13:00
+shop=car_repair
+id=node/12348124690</desc></wpt><wpt lat="53.5495903" lon="10.0415137"><name>Carglass</name><desc>brand=Carglass
+brand:wikidata=Q1035997
+name=Carglass
+opening_hours=Mo-Fr 09:00-12:00,12:45-17:00
+service:vehicle:glass=yes
+shop=car_repair
+id=node/12460793067</desc></wpt><wpt lat="53.5477678" lon="10.0413408"><name>Euromaster</name><desc>brand=Euromaster
+brand:wikidata=Q3060668
+name=Euromaster
+shop=car_repair
+id=node/12495836752</desc></wpt><wpt lat="53.5502469" lon="10.053535"><name>Peters</name><desc>name=Peters
+shop=car_repair
+id=node/12551290035</desc></wpt><wpt lat="53.4481769" lon="10.2295769"><name>Timmann Autoreparatur</name><desc>name=Timmann Autoreparatur
+opening_hours=Mo-Th 07:30-17:15; Fr-Su,PH off
+shop=car_repair
+id=node/12557409888</desc></wpt><wpt lat="53.5409347" lon="10.0425135"><name>Bosch Car Service</name><desc>brand=Bosch Car Service
+brand:wikidata=Q894368
+name=Bosch Car Service
+shop=car_repair
+id=node/12568238038</desc></wpt><wpt lat="53.5673994" lon="9.9209802"><name>Auto Service Köppen</name><desc>name=Auto Service Köppen
+shop=car_repair
+wheelchair=yes
+id=node/12620905589</desc></wpt><wpt lat="53.5663345" lon="10.0583608"><name>MyCarDesign</name><desc>name=MyCarDesign
+shop=car_repair
+id=node/12645490884</desc></wpt><wpt lat="53.5660801" lon="10.0583345"><name>Auto Betrieb Ömer</name><desc>name=Auto Betrieb Ömer
+shop=car_repair
+id=node/12646629832</desc></wpt><wpt lat="53.481451" lon="9.991602"><name>Kale-Cars</name><desc>name=Kale-Cars
+opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-17:00
+shop=car_repair
+id=node/12677613978</desc></wpt><wpt lat="53.579464" lon="10.1158415"><name>Hansi´s Autoservice</name><desc>name=Hansi´s Autoservice
+shop=car_repair
+id=node/12729274512</desc></wpt><wpt lat="53.5493007" lon="9.9467928"><name>Augemobile Harald Lehmann</name><desc>name=Augemobile Harald Lehmann
+shop=car_repair
+id=node/12748949790</desc></wpt><wpt lat="53.5738701" lon="10.0584149"><name>junited Autoglas</name><desc>brand=junited Autoglas
+brand:wikidata=Q108131315
+name=junited Autoglas
+service=parts;repair
+service:vehicle:glass=yes
+shop=car_repair
+id=node/12785485634</desc></wpt><wpt lat="53.5729406" lon="10.0252431"><name>Minis-Hamburg</name><desc>name=Minis-Hamburg
+shop=car_repair
+website=http://minishamburg.de
+id=node/12797938211</desc></wpt><wpt lat="53.6030765" lon="9.9690357"><name>9ELF Hamburg</name><desc>addr:housenumber=23
+addr:postcode=22529
+addr:street=Nedderfeld
+contact:facebook=100052539476908
+contact:instagram=9elfhamburg
+email=info@9elf-hamburg.de
+name=9ELF Hamburg
+opening_hours=Mo-Th 09:00-17:30; Fr 09:00-15:00
+phone=040 88 161 992;0172 709 80 81
+shop=car_repair
+website=https://www.9elf-hamburg.de/
+wheelchair=yes
+id=node/12800067601</desc></wpt><wpt lat="53.5709402" lon="9.8938671"><name>Isku Autoservice</name><desc>name=Isku Autoservice
+opening_hours=Mo-Fr 09:00-18:00
+shop=car_repair
+wheelchair=yes
+id=node/12847259853</desc></wpt><wpt lat="53.5608412" lon="10.0412665"><name>Autochic Center</name><desc>name=Autochic Center
+opening_hours=Mo-Sa 08:00-18:00
+shop=car_repair
+wheelchair=yes
+id=node/12944489288</desc></wpt><wpt lat="53.4588839" lon="10.002215"><name>Autofit Steinmüller</name><desc>name=Autofit Steinmüller
+shop=car_repair
+id=node/12994519957</desc></wpt><trk><name>OTTO DÖRNER GmbH &amp; Co. KG</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:postcode=22525
+addr:street=Lederstraße
+building=yes
+check_date:opening_hours=2024-02-26
+name=OTTO DÖRNER GmbH &amp; Co. KG
+opening_hours:signed=no
+roof:shape=flat
+shop=car_repair
+wheelchair=limited
+id=way/22752587</desc><trkseg><trkpt lat="53.589864" lon="9.908734"/><trkpt lat="53.589508" lon="9.9088301"/><trkpt lat="53.5895934" lon="9.9097283"/><trkpt lat="53.5896" lon="9.9097974"/><trkpt lat="53.589956" lon="9.9097013"/><trkpt lat="53.589864" lon="9.908734"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=297
+addr:postcode=22769
+addr:street=Stresemannstraße
+branch=Hamburg-Altona
+brand=A.T.U
+brand:wikidata=Q784721
+building=commercial
+building:levels=3
+name=A.T.U
+opening_hours=Mo-Fr 08:00-17:00; Sa 08:00-14:00
+phone=+49 40 81955829
+roof:levels=0
+roof:shape=flat
+shop=car_repair
+website=https://www.atu.de/filialen/471-hamburg-altona/
+wheelchair=yes
+id=way/23058040</desc><trkseg><trkpt lat="53.5636902" lon="9.9323529"/><trkpt lat="53.5638542" lon="9.9323823"/><trkpt lat="53.5638558" lon="9.9323434"/><trkpt lat="53.5642254" lon="9.9324037"/><trkpt lat="53.5642369" lon="9.9320706"/><trkpt lat="53.563932" lon="9.9320275"/><trkpt lat="53.5637174" lon="9.9319874"/><trkpt lat="53.5636178" lon="9.9319791"/><trkpt lat="53.5636902" lon="9.9323529"/></trkseg></trk><trk><name>ATO Autotechnik Ohlsdorf</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=31a
+addr:postcode=22335
+addr:street=Sommerkamp
+building=industrial
+building:colour=lightblue
+building:levels=2
+building:material=metal
+check_date:opening_hours=2025-07-01
+name=ATO Autotechnik Ohlsdorf
+opening_hours=Mo-Fr 08:00-17:00
+phone=+49 40 8797798 0
+roof:material=tar_paper
+roof:shape=flat
+shop=car_repair
+website=https://www.auteo.online/
+id=way/25701275</desc><trkseg><trkpt lat="53.6180571" lon="10.0325425"/><trkpt lat="53.6183694" lon="10.0324749"/><trkpt lat="53.6183462" lon="10.0321703"/><trkpt lat="53.6180339" lon="10.0322379"/><trkpt lat="53.6180571" lon="10.0325425"/></trkseg></trk><trk><name>Auto + Technik Tim Jahnke GmbH</name><desc>addr:housenumber=108
+addr:postcode=22143
+addr:street=Merkurring
+building=commercial
+name=Auto + Technik Tim Jahnke GmbH
+operator=Tim Jahnke
+shop=car_repair
+id=way/29339278</desc><trkseg><trkpt lat="53.6076803" lon="10.1918981"/><trkpt lat="53.6075075" lon="10.1919973"/><trkpt lat="53.6075804" lon="10.1923581"/><trkpt lat="53.6077084" lon="10.1922846"/><trkpt lat="53.6076619" lon="10.1920542"/><trkpt lat="53.6077066" lon="10.1920285"/><trkpt lat="53.6076803" lon="10.1918981"/></trkseg></trk><trk><name>Auto-Kipke</name><desc>addr:housenumber=19
+addr:street=Heestweg
+building=yes
+check_date=2023-09-30
+contact:phone=+49 40 6772001
+name=Auto-Kipke
+operator=Max Kipke GbR
+service=repair
+shop=car_repair
+website=https://www.autokipke.de/
+wheelchair=yes
+id=way/31450899</desc><trkseg><trkpt lat="53.6017495" lon="10.1484156"/><trkpt lat="53.6019796" lon="10.1488271"/><trkpt lat="53.6020347" lon="10.1487353"/><trkpt lat="53.6020983" lon="10.148844"/><trkpt lat="53.6021336" lon="10.1487916"/><trkpt lat="53.6020718" lon="10.1486743"/><trkpt lat="53.6020755" lon="10.1486672"/><trkpt lat="53.6019799" lon="10.148496"/><trkpt lat="53.6019994" lon="10.1484679"/><trkpt lat="53.6018752" lon="10.1482111"/><trkpt lat="53.6017495" lon="10.1484156"/></trkseg></trk><trk><name>autoPRO</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=28a
+addr:postcode=20259
+addr:street=Henriettenstraße
+building=industrial
+name=autoPRO
+opening_hours=Mo-Th 07:30-17:30; Fr 07:30-15:00
+operator=Thomas, Sotirios
+phone=+49 40 403420
+shop=car_repair
+url=https://www.autowerkstatt-eimsbüttel.de/
+wheelchair=limited
+id=way/34407701</desc><trkseg><trkpt lat="53.5745922" lon="9.9557253"/><trkpt lat="53.5745634" lon="9.9558448"/><trkpt lat="53.5746523" lon="9.9559053"/><trkpt lat="53.5746901" lon="9.9559311"/><trkpt lat="53.5747332" lon="9.9557516"/><trkpt lat="53.5747793" lon="9.9555598"/><trkpt lat="53.5746923" lon="9.9555005"/><trkpt lat="53.5746318" lon="9.9557523"/><trkpt lat="53.5745922" lon="9.9557253"/></trkseg></trk><trk><name>Volkswagen Automobile Hamburg GmbH</name><desc>brand=Volkswagen
+brand:wikidata=Q246
+building=industrial
+name=Volkswagen Automobile Hamburg GmbH
+old_name=Raffay
+opening_hours=Mo-Fr 09:00-19:00
+operator=Volkswagen Automobile Hamburg GmbH
+shop=car_repair
+short_name=VW Hamburg
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/34689768</desc><trkseg><trkpt lat="53.5696578" lon="9.9582435"/><trkpt lat="53.5695073" lon="9.9581385"/><trkpt lat="53.5695198" lon="9.9580879"/><trkpt lat="53.5694955" lon="9.958071"/><trkpt lat="53.5694625" lon="9.958048"/><trkpt lat="53.5693429" lon="9.958532"/><trkpt lat="53.5693194" lon="9.9585157"/><trkpt lat="53.5693013" lon="9.9585891"/><trkpt lat="53.5693247" lon="9.9586054"/><trkpt lat="53.569297" lon="9.9587176"/><trkpt lat="53.5695248" lon="9.9588765"/><trkpt lat="53.5696513" lon="9.9583645"/><trkpt lat="53.5696313" lon="9.9583505"/><trkpt lat="53.5696578" lon="9.9582435"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:city=Hamburg
+addr:housenumber=229
+addr:postcode=21077
+addr:street=Winsener Straße
+alt_name=Auto Teile Unger
+brand=A.T.U
+brand:wikidata=Q784721
+building=yes
+name=A.T.U
+operator=A.T.U Auto-Teile-Unger GmbH &amp; Co. KG
+shop=car_repair
+short_name=ATU
+id=way/37072770</desc><trkseg><trkpt lat="53.422297" lon="9.9813822"/><trkpt lat="53.4222056" lon="9.9813719"/><trkpt lat="53.4221698" lon="9.9822661"/><trkpt lat="53.4221099" lon="9.9822594"/><trkpt lat="53.4220959" lon="9.9826071"/><trkpt lat="53.4225356" lon="9.9826567"/><trkpt lat="53.422545" lon="9.9824202"/><trkpt lat="53.4222592" lon="9.9823254"/><trkpt lat="53.422297" lon="9.9813822"/></trkseg></trk><trk><name>Kfz-Meisterbetrieb Klaus Schmidt</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=83
+addr:postcode=20144
+addr:street=Grindelberg
+building=industrial
+email=kfz-schmidt64@gmx.de
+fax=+49 40 4205691
+name=Kfz-Meisterbetrieb Klaus Schmidt
+opening_hours=Mo-Fr 07:45-17:00; PH closed
+phone=+49 40 4205667
+shop=car_repair
+website=https://www.kfz-reparatur-schmidt.de/
+id=way/37186503</desc><trkseg><trkpt lat="53.5771065" lon="9.9759471"/><trkpt lat="53.5770125" lon="9.975812"/><trkpt lat="53.5769749" lon="9.9758836"/><trkpt lat="53.577055" lon="9.9760042"/><trkpt lat="53.5771089" lon="9.9760017"/><trkpt lat="53.5771065" lon="9.9759471"/></trkseg></trk><trk><name>HMH Autoreperatur</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=107A
+addr:postcode=22527
+addr:street=Julius-Vosseler-Straße
+building=commercial
+building:levels=1
+contact:email=autogas@pinktank.de
+contact:fax=+49 40 563486
+contact:phone=+49 40 562232
+contact:website=https://pinktank.de/
+name=HMH Autoreperatur
+opening_hours=Mo-Th 08:00-17:30; Fr 08:00-14:00; Sa,Su,PH off
+operator=HMH Autoreperatur GmbH
+payment:cash=yes
+payment:cryptocurrencies=no
+payment:electronic_purses=no
+roof:levels=1
+roof:shape=gabled
+service=dealer;tyres;repair;parts
+shop=car_repair
+wheelchair=yes
+id=way/37572493</desc><trkseg><trkpt lat="53.589999" lon="9.9475096"/><trkpt lat="53.5898072" lon="9.9475467"/><trkpt lat="53.5898434" lon="9.9480763"/><trkpt lat="53.5900351" lon="9.9480392"/><trkpt lat="53.589999" lon="9.9475096"/></trkseg></trk><trk><name>G&amp;L KFZ Werkstatt</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=38
+addr:postcode=22393
+addr:street=Stadtbahnstraße
+building=yes
+name=G&amp;L KFZ Werkstatt
+shop=car_repair
+toilets:wheelchair=no
+wheelchair=limited
+id=way/39070733</desc><trkseg><trkpt lat="53.6536514" lon="10.1043178"/><trkpt lat="53.6536321" lon="10.1043184"/><trkpt lat="53.6536175" lon="10.104345"/><trkpt lat="53.6536046" lon="10.1043248"/><trkpt lat="53.6535639" lon="10.1043989"/><trkpt lat="53.6535953" lon="10.104448"/><trkpt lat="53.6536121" lon="10.1044175"/><trkpt lat="53.6536291" lon="10.104444"/><trkpt lat="53.6536256" lon="10.1044503"/><trkpt lat="53.6536594" lon="10.1045031"/><trkpt lat="53.6537104" lon="10.1044102"/><trkpt lat="53.6536514" lon="10.1043178"/></trkseg></trk><trk><name>Kfz-Meisterbetrieb Marco Saal</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=74
+addr:postcode=22397
+addr:street=Lemsahler Landstraße
+building=yes
+email=werkstatt.saal@t-online.de
+fax=+49 40 6084644
+name=Kfz-Meisterbetrieb Marco Saal
+opening_hours=Mo-Th 07:45-17:30; Fr 07:45-16:45; PH off
+operator=Marco Saal
+phone=+49 40 6080134
+service=repair
+shop=car_repair
+website=https://www.kfz-meisterbetrieb-marco-saal.de/
+wheelchair=limited
+id=way/39142159</desc><trkseg><trkpt lat="53.6750459" lon="10.0933765"/><trkpt lat="53.6748793" lon="10.0932976"/><trkpt lat="53.67485" lon="10.0934742"/><trkpt lat="53.6750166" lon="10.0935531"/><trkpt lat="53.6750459" lon="10.0933765"/></trkseg></trk><trk><name>Klaus Kowalski Automobile</name><desc>building=yes
+name=Klaus Kowalski Automobile
+shop=car_repair
+toilets:wheelchair=no
+wheelchair=limited
+id=way/39698695</desc><trkseg><trkpt lat="53.6507553" lon="10.1055944"/><trkpt lat="53.6504576" lon="10.1057871"/><trkpt lat="53.6504859" lon="10.1059114"/><trkpt lat="53.6507836" lon="10.1057187"/><trkpt lat="53.6507553" lon="10.1055944"/></trkseg></trk><trk><name>Carglass</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=154
+addr:postcode=22393
+addr:street=Saseler Chaussee
+brand=Carglass
+brand:wikidata=Q1035997
+brand:wikipedia=de:Carglass
+building=commercial
+building:levels=1
+name=Carglass
+opening_hours=Mo-Fr 08:00-17:00; PH off
+phone=+49 800 4209050
+roof:shape=flat
+service=repair
+service:vehicle:glass=yes
+shop=car_repair
+toilets:wheelchair=no
+website=https://standorte.carglass.de/standorte/hamburg/saseler-chaussee-154.html
+wheelchair=yes
+id=way/39698738</desc><trkseg><trkpt lat="53.6504135" lon="10.105048"/><trkpt lat="53.6503898" lon="10.1049455"/><trkpt lat="53.6501618" lon="10.1050952"/><trkpt lat="53.6502015" lon="10.1052672"/><trkpt lat="53.6504625" lon="10.1050958"/><trkpt lat="53.6504464" lon="10.1050263"/><trkpt lat="53.6504135" lon="10.105048"/></trkseg></trk><trk><name>Pit Stop</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=189
+addr:postcode=22393
+addr:street=Saseler Chaussee
+brand=pitstop
+brand:wikidata=Q1310014
+building=yes
+contact:phone=+49 40 6010727
+contact:website=https://www.pitstop.de/werkstatt/hamburg/
+name=Pit Stop
+opening_hours=Mo-Fr 08:00-18:00; PH off
+operator=Pit Stop
+shop=car_repair
+id=way/39779205</desc><trkseg><trkpt lat="53.6516059" lon="10.1053666"/><trkpt lat="53.6517911" lon="10.1054861"/><trkpt lat="53.6518438" lon="10.1052534"/><trkpt lat="53.6517473" lon="10.105191"/><trkpt lat="53.6517335" lon="10.1052516"/><trkpt lat="53.6516865" lon="10.1052213"/><trkpt lat="53.6516291" lon="10.1052644"/><trkpt lat="53.6516059" lon="10.1053666"/></trkseg></trk><trk><name>KFZ Griem</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=3
+addr:postcode=22395
+addr:street=Alte Schmiede
+building=yes
+name=KFZ Griem
+shop=car_repair
+id=way/40370503</desc><trkseg><trkpt lat="53.6702451" lon="10.1237949"/><trkpt lat="53.6701119" lon="10.1237745"/><trkpt lat="53.670109" lon="10.1238279"/><trkpt lat="53.6700004" lon="10.1238113"/><trkpt lat="53.6699924" lon="10.1239603"/><trkpt lat="53.6702343" lon="10.1239973"/><trkpt lat="53.6702451" lon="10.1237949"/></trkseg></trk><trk><name>Altmann Reifenservice</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=121
+addr:postcode=22393
+addr:street=Saseler Chaussee
+building=yes
+check_date=2023-01-29
+contact:phone=+49 40 6000970
+contact:website=https://www.reifen-altmann.de/
+email=info@reifen-altmann.de
+name=Altmann Reifenservice
+opening_hours=Mo-Fr 07:30-17:00; Sa 08:30-12:00
+service:vehicle:car_repair=yes
+service:vehicle:inspection=yes
+service:vehicle:tyres=yes
+shop=car_repair
+id=way/40614247</desc><trkseg><trkpt lat="53.6455459" lon="10.1005872"/><trkpt lat="53.645766" lon="10.1007459"/><trkpt lat="53.6458677" lon="10.1003446"/><trkpt lat="53.6460297" lon="10.1004614"/><trkpt lat="53.6461209" lon="10.1001014"/><trkpt lat="53.6458825" lon="10.0999295"/><trkpt lat="53.6458587" lon="10.1000235"/><trkpt lat="53.645824" lon="10.0999985"/><trkpt lat="53.6458086" lon="10.1000595"/><trkpt lat="53.6457564" lon="10.1000219"/><trkpt lat="53.6457352" lon="10.1001059"/><trkpt lat="53.6456782" lon="10.1000648"/><trkpt lat="53.6455459" lon="10.1005872"/></trkseg></trk><trk><name>Nehmet</name><desc>addr:city=Hamburg
+addr:housenumber=65
+addr:postcode=20099
+addr:street=Koppel
+building=yes
+name=Nehmet
+shop=car_repair
+id=way/41572167</desc><trkseg><trkpt lat="53.5588675" lon="10.0113363"/><trkpt lat="53.5589495" lon="10.0114498"/><trkpt lat="53.5590034" lon="10.0113213"/><trkpt lat="53.5589186" lon="10.0112137"/><trkpt lat="53.5588675" lon="10.0113363"/></trkseg></trk><trk><name>Autohaus Bergstedt</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=214
+addr:postcode=22395
+addr:street=Bergstedter Chaussee
+building=yes
+email=post@autohaus-bergstedt.de
+fax=+49 40 6040039
+name=Autohaus Bergstedt
+phone=+49 40 6049844
+shop=car_repair
+website=http://www.autohaus-bergstedt.de/
+id=way/42751660</desc><trkseg><trkpt lat="53.6750507" lon="10.1379886"/><trkpt lat="53.674852" lon="10.1380046"/><trkpt lat="53.6748577" lon="10.1382072"/><trkpt lat="53.6750564" lon="10.1381913"/><trkpt lat="53.6750507" lon="10.1379886"/></trkseg></trk><trk><name>Weiß-Kfz</name><desc>addr:city=Hamburg
+addr:housenumber=370
+addr:postcode=22175
+addr:street=Bramfelder Chaussee
+building=yes
+name=Weiß-Kfz
+operator=Royal Dutch Shell plc
+service:vehicle:batteries=yes
+service:vehicle:brakes=yes
+service:vehicle:car_repair=yes
+service:vehicle:diagnostics=yes
+service:vehicle:electrical=yes
+service:vehicle:inspection=yes
+service:vehicle:motor=yes
+service:vehicle:muffler=yes
+service:vehicle:oil_change=yes
+shop=car_repair
+id=way/43363738</desc><trkseg><trkpt lat="53.621941" lon="10.0844619"/><trkpt lat="53.6219387" lon="10.0843848"/><trkpt lat="53.6221066" lon="10.0843705"/><trkpt lat="53.6221024" lon="10.0842301"/><trkpt lat="53.6219345" lon="10.0842444"/><trkpt lat="53.6219329" lon="10.0841913"/><trkpt lat="53.6218637" lon="10.0841972"/><trkpt lat="53.6218718" lon="10.0844678"/><trkpt lat="53.621941" lon="10.0844619"/></trkseg></trk><trk><name>Empire Autoaufbereitung</name><desc>addr:city=Hamburg
+addr:housenumber=17 B
+addr:postcode=20354
+addr:street=Alsterglacis
+building=commercial
+building:levels=1
+contact:email=info@empire-autoaufbereitung.de
+contact:fax=+49 40 45060508
+contact:phone=+49 40 45060506
+contact:website=https://empire-autoaufbereitung.de
+name=Empire Autoaufbereitung
+opening_hours=Mo-Fr 08:00-18:00
+roof:shape=flat
+shop=car_repair
+id=way/44172783</desc><trkseg><trkpt lat="53.5589678" lon="9.9918558"/><trkpt lat="53.5589015" lon="9.9919826"/><trkpt lat="53.5590165" lon="9.9921666"/><trkpt lat="53.5590852" lon="9.9920451"/><trkpt lat="53.5589678" lon="9.9918558"/></trkseg></trk><trk><name>KFZ Schwerdtfeger</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=7
+addr:postcode=22397
+addr:street=Trillup
+building=yes
+email=info@kfz-schwerdtfeger.de
+fax=+49 40 69795276
+name=KFZ Schwerdtfeger
+operator=Sven Schwerdtfeger
+phone=+49 40 69795275
+service=repair
+shop=car_repair
+source=Website
+website=http://www.kfz-schwerdtfeger.de/
+id=way/45378450</desc><trkseg><trkpt lat="53.6838608" lon="10.113121"/><trkpt lat="53.683864" lon="10.1131521"/><trkpt lat="53.6837721" lon="10.1131785"/><trkpt lat="53.683775" lon="10.1132077"/><trkpt lat="53.6836748" lon="10.1132366"/><trkpt lat="53.683687" lon="10.1133573"/><trkpt lat="53.6837723" lon="10.1133327"/><trkpt lat="53.6837957" lon="10.1135644"/><trkpt lat="53.6839171" lon="10.1135295"/><trkpt lat="53.6838879" lon="10.1132409"/><trkpt lat="53.6839309" lon="10.1132285"/><trkpt lat="53.6839183" lon="10.1131045"/><trkpt lat="53.6838608" lon="10.113121"/></trkseg></trk><trk><name>Freese &amp; Ulrich</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=2
+addr:postcode=22459
+addr:street=Niendorfer Marktplatz
+addr:suburb=Niendorf
+building=yes
+name=Freese &amp; Ulrich
+opening_hours=Fr 07:15-15:00; Mo-Th 07:15-18:00
+operator=Freese &amp; Ulrich GmbH
+phone=+49 40 584869
+shop=car_repair
+source=website
+website=https://www.freese-ulrich.de
+id=way/47311838</desc><trkseg><trkpt lat="53.6174394" lon="9.9510721"/><trkpt lat="53.6174329" lon="9.9508739"/><trkpt lat="53.6172879" lon="9.9508907"/><trkpt lat="53.6173087" lon="9.9513999"/><trkpt lat="53.6174297" lon="9.9513859"/><trkpt lat="53.6174171" lon="9.9510747"/><trkpt lat="53.6174394" lon="9.9510721"/></trkseg></trk><trk><name>Auto-Technic-Lehmann</name><desc>addr:city=Hamburg
+addr:housenumber=154
+addr:postcode=22047
+addr:street=Voßkulen
+building=yes
+name=Auto-Technic-Lehmann
+opening_hours=Mo-Fr 08:00-18:00; Sa 09:00-13:00
+operator=Melina Lehmann
+service:vehicle:brakes=yes
+service:vehicle:car_repair=yes
+service:vehicle:inspection=yes
+service:vehicle:oil_change=yes
+service:vehicle:repairs=yes
+service:vehicle:tyres=yes
+service:vehicle:used_car_sales=yes
+shop=car_repair
+id=way/47886567</desc><trkseg><trkpt lat="53.5951645" lon="10.0859803"/><trkpt lat="53.5951469" lon="10.085901"/><trkpt lat="53.5950854" lon="10.0858792"/><trkpt lat="53.5950124" lon="10.0859259"/><trkpt lat="53.59504" lon="10.0860596"/><trkpt lat="53.5950797" lon="10.0860355"/><trkpt lat="53.5951645" lon="10.0859803"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:city=Hamburg
+addr:housenumber=3
+addr:postcode=22309
+addr:street=Steilshooper Allee
+alt_name=Auto Teile Unger
+brand=A.T.U
+brand:wikidata=Q784721
+brand:wikipedia=de:Auto-Teile-Unger
+building=industrial
+building:levels=2
+name=A.T.U
+opening_hours=Mo-Fr 07:30-18:00, Sa 08:00-14:00; PH off
+operator=A.T.U Auto-Teile-Unger GmbH &amp; Co. KG
+phone=+49 40 63976874
+roof:levels=0
+shop=car_repair
+short_name=ATU
+website=https://autowerkstatt.atu.de/hamburg/hamburg/steilshooper-allee-3
+id=way/48548938</desc><trkseg><trkpt lat="53.6089028" lon="10.0448489"/><trkpt lat="53.6088763" lon="10.0448524"/><trkpt lat="53.6083654" lon="10.0449184"/><trkpt lat="53.6083766" lon="10.0451631"/><trkpt lat="53.6083832" lon="10.0453089"/><trkpt lat="53.6089205" lon="10.0452394"/><trkpt lat="53.6089028" lon="10.0448489"/></trkseg></trk><trk><name>Sibbert</name><desc>addr:city=Hamburg
+addr:housenumber=2
+addr:postcode=22047
+addr:street=Johannes-Frömming-Straße
+alt_name=Sibbert Kfz-Reparatur
+brand=1a autoservice
+brand:website=https://sibbert.go1a.de
+brand:wikidata=Q109558465
+building=commercial
+building:levels=1
+name=Sibbert
+opening_hours=Mo-Fr 08:00-18:00; PH off
+operator=Sibbert Kfz-Reparatur GmbH
+phone=+49 40 69643506
+roof:levels=0
+service:vehicle:air_conditioning=yes
+service:vehicle:alignment=yes
+service:vehicle:batteries=yes
+service:vehicle:body_repair=yes
+service:vehicle:brakes=yes
+service:vehicle:car_repair=yes
+service:vehicle:diagnostics=yes
+service:vehicle:inspection=yes
+service:vehicle:motor=yes
+service:vehicle:muffler=yes
+service:vehicle:oil_change=yes
+service:vehicle:painting=yes
+service:vehicle:tyres=yes
+shop=car_repair
+website=https://www.sibbert.de
+id=way/48988816</desc><trkseg><trkpt lat="53.5939025" lon="10.099413"/><trkpt lat="53.5938061" lon="10.099326"/><trkpt lat="53.5936761" lon="10.0997353"/><trkpt lat="53.5937725" lon="10.0998223"/><trkpt lat="53.5939025" lon="10.099413"/></trkseg></trk><trk><name>S. Dias &amp; M. Krohn</name><desc>addr:city=Hamburg
+addr:housenumber=114a
+addr:postcode=22045
+addr:street=Ahrensburger Straße
+building=commercial
+building:levels=1
+contact:email=info@dias-krohn.de
+contact:facebook=DiasKrohn
+contact:fax=+49 40 69646763
+contact:instagram=dias_krohn_
+contact:phone=+49 40 69646761
+contact:twitter=DiasKrohn
+contact:website=https://www.dias-krohn.de/
+contact:whatsapp=+49 16091031607
+name=S. Dias &amp; M. Krohn
+opening_hours=Mo-Th 08:00-18:00, Fr 08:00-14:00, Sa 08:00-13:00
+roof:levels=0
+shop=car_repair
+id=way/49479631</desc><trkseg><trkpt lat="53.5809729" lon="10.1032536"/><trkpt lat="53.5808061" lon="10.103367"/><trkpt lat="53.5808495" lon="10.1035482"/><trkpt lat="53.5810163" lon="10.1034348"/><trkpt lat="53.5809729" lon="10.1032536"/></trkseg></trk><trk><name>Autoservice Albrecht &amp; Debus GbR</name><desc>addr:city=Hamburg
+addr:housenumber=14
+addr:postcode=22041
+addr:street=Hinschenfelder Straße
+building=industrial
+email=info@autoservice-debus-albrecht.de
+name=Autoservice Albrecht &amp; Debus GbR
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-15:00
+phone=+49 40 6935727
+shop=car_repair
+wheelchair=yes
+id=way/49838219</desc><trkseg><trkpt lat="53.5818851" lon="10.0759868"/><trkpt lat="53.5817494" lon="10.0760412"/><trkpt lat="53.5814285" lon="10.0761926"/><trkpt lat="53.5814566" lon="10.0765133"/><trkpt lat="53.5814623" lon="10.0766363"/><trkpt lat="53.5815993" lon="10.0765656"/><trkpt lat="53.5816079" lon="10.0766233"/><trkpt lat="53.5819176" lon="10.0765157"/><trkpt lat="53.5819049" lon="10.0762757"/><trkpt lat="53.5815846" lon="10.0764118"/><trkpt lat="53.5815584" lon="10.0762365"/><trkpt lat="53.5818976" lon="10.0760928"/><trkpt lat="53.5818851" lon="10.0759868"/></trkseg></trk><trk><name>Karosserie &amp; Lackierfachbetrieb SPS e. K.</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=118
+addr:postcode=22041
+addr:street=Walddörferstraße
+building=yes
+name=Karosserie &amp; Lackierfachbetrieb SPS e. K.
+shop=car_repair
+id=way/49847273</desc><trkseg><trkpt lat="53.5800107" lon="10.0774329"/><trkpt lat="53.5800367" lon="10.0775941"/><trkpt lat="53.58006" lon="10.0777386"/><trkpt lat="53.5801607" lon="10.0776944"/><trkpt lat="53.5801998" lon="10.0776772"/><trkpt lat="53.580413" lon="10.0775797"/><trkpt lat="53.580345" lon="10.0771531"/><trkpt lat="53.5803381" lon="10.0771098"/><trkpt lat="53.580093" lon="10.0772208"/><trkpt lat="53.5800284" lon="10.077251"/><trkpt lat="53.5800545" lon="10.0774128"/><trkpt lat="53.5800107" lon="10.0774329"/></trkseg></trk><trk><name>Kühn Jürgen KFZ-Meisterbetrieb</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=10
+addr:postcode=22041
+addr:street=Schwarzlosestraße
+building=yes
+email=juergenkuehnkfz@arcor.de
+fax=+49 40 6890133
+name=Kühn Jürgen KFZ-Meisterbetrieb
+opening_hours=Mo-Th 07:00-18:00; Fr 07:00-16:00
+phone=+49 40 6522214
+shop=car_repair
+id=way/49847309</desc><trkseg><trkpt lat="53.5801179" lon="10.0781916"/><trkpt lat="53.5801054" lon="10.0781111"/><trkpt lat="53.580098" lon="10.0781144"/><trkpt lat="53.5800891" lon="10.0780567"/><trkpt lat="53.5799341" lon="10.0781246"/><trkpt lat="53.5799378" lon="10.0781483"/><trkpt lat="53.5799671" lon="10.0783383"/><trkpt lat="53.5799893" lon="10.0784822"/><trkpt lat="53.5800265" lon="10.078466"/><trkpt lat="53.5799966" lon="10.0782724"/><trkpt lat="53.5800703" lon="10.0782402"/><trkpt lat="53.5800778" lon="10.0782891"/><trkpt lat="53.5801716" lon="10.078248"/><trkpt lat="53.5801601" lon="10.0781731"/><trkpt lat="53.5801179" lon="10.0781916"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:housenumber=37
+addr:street=Tonndorfer Hauptstraße
+alt_name=Auto Teile Unger
+brand=A.T.U
+brand:wikidata=Q784721
+brand:wikipedia=de:Auto-Teile-Unger
+building=retail
+name=A.T.U
+operator=A.T.U Auto-Teile-Unger GmbH &amp; Co. KG
+shop=car_repair
+short_name=ATU
+id=way/50055198</desc><trkseg><trkpt lat="53.5851247" lon="10.1187989"/><trkpt lat="53.5849516" lon="10.1184928"/><trkpt lat="53.5849134" lon="10.1185501"/><trkpt lat="53.5850295" lon="10.1187681"/><trkpt lat="53.5849287" lon="10.1190239"/><trkpt lat="53.5845256" lon="10.1193146"/><trkpt lat="53.5846293" lon="10.1197144"/><trkpt lat="53.5848268" lon="10.1195642"/><trkpt lat="53.5850899" lon="10.118879"/><trkpt lat="53.5851247" lon="10.1187989"/></trkseg></trk><trk><name>Karl Heinrich Karosseriebau</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=131
+addr:postcode=22043
+addr:street=Schimmelmannstraße
+building=yes
+name=Karl Heinrich Karosseriebau
+shop=car_repair
+id=way/50981632</desc><trkseg><trkpt lat="53.5751353" lon="10.1076592"/><trkpt lat="53.5750946" lon="10.1077176"/><trkpt lat="53.5751136" lon="10.1077552"/><trkpt lat="53.575103" lon="10.1077705"/><trkpt lat="53.5751192" lon="10.1078025"/><trkpt lat="53.5750982" lon="10.1078325"/><trkpt lat="53.575063" lon="10.107763"/><trkpt lat="53.5747888" lon="10.1081567"/><trkpt lat="53.5747061" lon="10.1082716"/><trkpt lat="53.5747204" lon="10.1082998"/><trkpt lat="53.5748149" lon="10.1084864"/><trkpt lat="53.5749679" lon="10.1082666"/><trkpt lat="53.5750785" lon="10.1084849"/><trkpt lat="53.5750055" lon="10.1085899"/><trkpt lat="53.5750991" lon="10.1087747"/><trkpt lat="53.5751818" lon="10.1086558"/><trkpt lat="53.5751623" lon="10.1086174"/><trkpt lat="53.5752549" lon="10.1084843"/><trkpt lat="53.5750861" lon="10.1081511"/><trkpt lat="53.5752596" lon="10.107904"/><trkpt lat="53.5751612" lon="10.1077104"/><trkpt lat="53.5751353" lon="10.1076592"/></trkseg></trk><trk><name>Autoselbsthilfe Matthias Dehn</name><desc>addr:city=Hamburg
+addr:housenumber=15
+addr:postcode=22043
+addr:street=Gustav-Adolf-Straße
+alt_name=Autoselbsthilfe M. Dehn GmbH
+building=commercial
+description=Kfz-Meisterbetrieb und Autoselbsthilfe
+name=Autoselbsthilfe Matthias Dehn
+opening_hours=Mo-Fr 08:00-20:00, Sa 08:00-19:30; PH off
+operator=M. Dehn GmbH
+phone=+49 40 6567021
+service:vehicle:brakes=yes
+service:vehicle:car_parts=yes
+service:vehicle:car_repair=yes
+service:vehicle:diagnostics=yes
+service:vehicle:inspection=yes
+service:vehicle:muffler=yes
+service:vehicle:oil_change=yes
+shop=car_repair
+website=https://dehn2000.de
+id=way/51029592</desc><trkseg><trkpt lat="53.5717805" lon="10.087591"/><trkpt lat="53.5714352" lon="10.087768"/><trkpt lat="53.5714933" lon="10.0880895"/><trkpt lat="53.571901" lon="10.0878806"/><trkpt lat="53.5718844" lon="10.0877886"/><trkpt lat="53.571822" lon="10.0878205"/><trkpt lat="53.5717805" lon="10.087591"/></trkseg></trk><trk><name>Kfz Meisterbetrieb Andreas Godenrath</name><desc>addr:city=Hamburg
+addr:housenumber=41
+addr:postcode=22339
+addr:street=Glashütter Landstraße
+building=yes
+building:levels=1
+email=a.godenrath@kfz-godenrath.de
+name=Kfz Meisterbetrieb Andreas Godenrath
+phone=+49 40 5381880
+shop=car_repair
+website=https://www.kfz-godenrath.de
+id=way/52271835</desc><trkseg><trkpt lat="53.6522138" lon="10.0426876"/><trkpt lat="53.6520101" lon="10.0425786"/><trkpt lat="53.6520334" lon="10.0424548"/><trkpt lat="53.6519613" lon="10.0424162"/><trkpt lat="53.6519113" lon="10.0426821"/><trkpt lat="53.6521871" lon="10.0428297"/><trkpt lat="53.6522138" lon="10.0426876"/></trkseg></trk><trk><name>Bosch Car Service</name><desc>addr:housenumber=5-7
+addr:postcode=22143
+addr:street=Neuer Höltigbaum
+brand=Bosch Car Service
+brand:wikidata=Q234021
+brand:wikipedia=en:Robert Bosch GmbH
+building=commercial
+name=Bosch Car Service
+operator=Johann Müller GmbH
+shop=car_repair
+id=way/54265682</desc><trkseg><trkpt lat="53.608839" lon="10.1845649"/><trkpt lat="53.6087666" lon="10.18424"/><trkpt lat="53.6087228" lon="10.1842677"/><trkpt lat="53.6082466" lon="10.1845691"/><trkpt lat="53.608319" lon="10.184894"/><trkpt lat="53.608839" lon="10.1845649"/></trkseg></trk><trk><name>Autoservice Max</name><desc>addr:city=Hamburg
+addr:housenumber=14
+addr:postcode=22143
+addr:street=Bargteheider Straße
+building=yes
+description=Autoreparaturwerkstatt
+name=Autoservice Max
+opening_hours=Mo-Fr 08:00-18:00
+shop=car_repair
+website=https://www.auto-service-max.de/
+id=way/58699828</desc><trkseg><trkpt lat="53.5983385" lon="10.1423994"/><trkpt lat="53.5982283" lon="10.1423077"/><trkpt lat="53.5982121" lon="10.1423721"/><trkpt lat="53.5980474" lon="10.1422234"/><trkpt lat="53.5980944" lon="10.1420698"/><trkpt lat="53.5980047" lon="10.141988"/><trkpt lat="53.5979503" lon="10.1421466"/><trkpt lat="53.5979944" lon="10.1421838"/><trkpt lat="53.5979371" lon="10.1423671"/><trkpt lat="53.5979915" lon="10.1424217"/><trkpt lat="53.5979415" lon="10.1425778"/><trkpt lat="53.5981621" lon="10.1429495"/><trkpt lat="53.5983385" lon="10.1423994"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=161
+addr:postcode=22453
+addr:street=Kollaustraße
+addr:suburb=Niendorf
+alt_name=Auto Teile Unger
+brand=A.T.U
+brand:wikidata=Q784721
+brand:wikipedia=de:Auto-Teile-Unger
+building=industrial
+email=niendorf@atu.de
+name=A.T.U
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-14:00
+operator=A.T.U Auto-Teile-Unger GmbH &amp; Co. KG
+phone=+49 40 53009926
+shop=car_repair
+short_name=ATU
+source=website
+website=https://www.atu.de/filiale-hamburg---niendorf-267.html
+wheelchair=yes
+id=way/58922448</desc><trkseg><trkpt lat="53.6108958" lon="9.9533837"/><trkpt lat="53.610875" lon="9.9534091"/><trkpt lat="53.6107751" lon="9.9535309"/><trkpt lat="53.6110688" lon="9.9542149"/><trkpt lat="53.6110216" lon="9.9542724"/><trkpt lat="53.6114333" lon="9.9552314"/><trkpt lat="53.6115069" lon="9.9551417"/><trkpt lat="53.6111273" lon="9.9542574"/><trkpt lat="53.6112216" lon="9.9541425"/><trkpt lat="53.6109103" lon="9.9534175"/><trkpt lat="53.6108958" lon="9.9533837"/></trkseg></trk><trk><name>Alfa Romeo Service</name><desc>addr:housenumber=11
+addr:street=Niendorfer Weg
+brand=Alfa Romeo
+brand:wikidata=Q26921
+building=yes
+name=Alfa Romeo Service
+opening_hours=Mo-Fr 9:00-18:00
+operator=Ralf Lange
+shop=car_repair
+id=way/59178387</desc><trkseg><trkpt lat="53.6115573" lon="9.9685356"/><trkpt lat="53.6115505" lon="9.968416"/><trkpt lat="53.6118606" lon="9.9683663"/><trkpt lat="53.6118539" lon="9.9682502"/><trkpt lat="53.611509" lon="9.9683056"/><trkpt lat="53.6115225" lon="9.9685413"/><trkpt lat="53.6115573" lon="9.9685356"/></trkseg></trk><trk><name>Zukowsky Classic Cars</name><desc>addr:city=Hamburg
+addr:housenumber=20b
+addr:postcode=22457
+addr:street=Süntelstraße
+building=yes
+name=Zukowsky Classic Cars
+operator=Sven Zukowsky
+service:vehicle:car_repair=yes
+shop=car_repair
+wheelchair=limited
+id=way/61295751</desc><trkseg><trkpt lat="53.6323105" lon="9.9038672"/><trkpt lat="53.6327294" lon="9.9039516"/><trkpt lat="53.6327421" lon="9.9037721"/><trkpt lat="53.6321727" lon="9.9036574"/><trkpt lat="53.6321716" lon="9.9036726"/><trkpt lat="53.632164" lon="9.9037795"/><trkpt lat="53.6321618" lon="9.9038103"/><trkpt lat="53.6323124" lon="9.9038407"/><trkpt lat="53.6323105" lon="9.9038672"/></trkseg></trk><trk><name>Lenke Boschservice e.V.</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=11
+addr:postcode=21079
+addr:street=Großmoorbogen
+building=commercial
+building:levels=1
+name=Lenke Boschservice e.V.
+shop=car_repair
+id=way/61870474</desc><trkseg><trkpt lat="53.4573376" lon="10.0100808"/><trkpt lat="53.4572205" lon="10.0103761"/><trkpt lat="53.4574073" lon="10.0105851"/><trkpt lat="53.4575051" lon="10.0106945"/><trkpt lat="53.4576222" lon="10.0103992"/><trkpt lat="53.4575244" lon="10.0102898"/><trkpt lat="53.4573376" lon="10.0100808"/></trkseg></trk><trk><name>ATR</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=97
+addr:postcode=22459
+addr:street=Frohmestraße
+addr:suburb=Niendorf
+building=commercial
+building:levels=1
+name=ATR
+opening_hours=Mo-Th 07:30-18:00; Fr 07:30-17:30; PH off
+operator=ATR Automobile – Technik – Reparatur GmbH
+phone=+49 40 5502060
+roof:levels=0
+roof:shape=flat
+service:vehicle:car_repair=yes
+shop=car_repair
+source=website
+website=https://www.atr-service.de
+id=way/64161064</desc><trkseg><trkpt lat="53.6300907" lon="9.9291987"/><trkpt lat="53.6298079" lon="9.9290383"/><trkpt lat="53.6297988" lon="9.929084"/><trkpt lat="53.6296891" lon="9.9290218"/><trkpt lat="53.6297205" lon="9.928864"/><trkpt lat="53.6296525" lon="9.9288254"/><trkpt lat="53.6295914" lon="9.9291315"/><trkpt lat="53.6297707" lon="9.9292332"/><trkpt lat="53.630052" lon="9.9293927"/><trkpt lat="53.6300907" lon="9.9291987"/></trkseg></trk><trk><name>Wodzak</name><desc>addr:city=Hamburg
+addr:housenumber=416
+addr:postcode=22559
+addr:street=Alte Sülldorfer Landstraße
+brand=1a autoservice
+brand:website=https://wodzak.go1a.de
+brand:wikidata=Q109558465
+building=yes
+building:levels=1
+name=Wodzak
+old_name=Ford Wodzak GmbH
+opening_hours=Mo-Th 07:30-16:30, Fr 07:30-15:00; PH off
+operator=Wodzak GmbH
+phone=+49 40 814542
+service:vehicle:air_conditioning=yes
+service:vehicle:batteries=yes
+service:vehicle:body_repair=yes
+service:vehicle:brakes=yes
+service:vehicle:diagnostics=yes
+service:vehicle:electrical=yes
+service:vehicle:inspection=yes
+service:vehicle:motor=yes
+service:vehicle:muffler=yes
+service:vehicle:oil_change=yes
+service:vehicle:painting=yes
+service:vehicle:repairs=yes
+service:vehicle:tyres=yes
+shop=car_repair
+website=https://www.autoservice-wodzak.de
+id=way/67696895</desc><trkseg><trkpt lat="53.5812294" lon="9.7649464"/><trkpt lat="53.5815982" lon="9.765165"/><trkpt lat="53.5816283" lon="9.7650209"/><trkpt lat="53.5812595" lon="9.7648023"/><trkpt lat="53.5812294" lon="9.7649464"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=35
+addr:postcode=22523
+addr:street=Elbgaustraße
+alt_name=Auto Teile Unger
+brand=A.T.U
+brand:wikidata=Q784721
+brand:wikipedia=de:Auto-Teile-Unger
+building=retail
+check_date=2025-01-04
+name=A.T.U
+opening_hours=Mo-Fr 08:00-16:00; Sa 08:00-14:00; Su,PH off
+operator=A.T.U Auto-Teile-Unger GmbH &amp; Co. KG
+phone=+49 40 53206911
+service:vehicle:car_parts=yes
+service:vehicle:car_repair=yes
+service:vehicle:inspection=yes
+service:vehicle:oil_change=yes
+service:vehicle:service=yes
+shop=car_repair
+short_name=ATU
+website=https://autowerkstatt.atu.de/hamburg/hamburg/elbgaustr-35
+wheelchair=yes
+id=way/69921203</desc><trkseg><trkpt lat="53.6061127" lon="9.9008559"/><trkpt lat="53.6059479" lon="9.9015007"/><trkpt lat="53.6059438" lon="9.9015817"/><trkpt lat="53.6059246" lon="9.901579"/><trkpt lat="53.6059149" lon="9.901724"/><trkpt lat="53.6059049" lon="9.9018744"/><trkpt lat="53.6058101" lon="9.9018597"/><trkpt lat="53.6057969" lon="9.9020886"/><trkpt lat="53.606041" lon="9.9021294"/><trkpt lat="53.6060724" lon="9.9016048"/><trkpt lat="53.606035" lon="9.9015978"/><trkpt lat="53.6060389" lon="9.9015188"/><trkpt lat="53.6061951" lon="9.9009146"/><trkpt lat="53.6061127" lon="9.9008559"/></trkseg></trk><trk><name>Kfz-Werkstatt Plohmann</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=7
+addr:postcode=22339
+addr:street=Barkhausenweg
+building=yes
+check_date:opening_hours=2023-01-08
+contact:phone=+49 40 53908917
+name=Kfz-Werkstatt Plohmann
+opening_hours=Mo-Fr 08:00-17:00
+shop=car_repair
+id=way/72557838</desc><trkseg><trkpt lat="53.6468402" lon="10.0592236"/><trkpt lat="53.6468086" lon="10.0591728"/><trkpt lat="53.6467962" lon="10.0591948"/><trkpt lat="53.6467793" lon="10.0592248"/><trkpt lat="53.6467632" lon="10.0592533"/><trkpt lat="53.6468291" lon="10.0593591"/><trkpt lat="53.6468973" lon="10.0594687"/><trkpt lat="53.6469427" lon="10.0593883"/><trkpt lat="53.6468873" lon="10.0592993"/><trkpt lat="53.6468402" lon="10.0592236"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:city=Hamburg
+addr:housenumber=96
+addr:postcode=22339
+addr:street=Poppenbütteler Weg
+alt_name=Auto Teile Unger
+brand=A.T.U
+brand:wikidata=Q784721
+brand:wikipedia=de:Auto-Teile-Unger
+building=commercial
+name=A.T.U
+opening_hours=Mo-Fr 08:00-18:00, Sa 08:00-14:00; PH off
+operator=A.T.U Auto-Teile-Unger GmbH &amp; Co. KG
+phone=+49 40 63976874
+shop=car_repair
+short_name=ATU
+website=https://autowerkstatt.atu.de/hamburg/hamburg/poppenbuetteler-weg-96
+id=way/72557842</desc><trkseg><trkpt lat="53.6481664" lon="10.0586022"/><trkpt lat="53.6479849" lon="10.058781"/><trkpt lat="53.6481921" lon="10.0593797"/><trkpt lat="53.6483736" lon="10.0592009"/><trkpt lat="53.6481664" lon="10.0586022"/></trkseg></trk><trk><name>Autolackiererei Magnussen</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=8a
+addr:postcode=20257
+addr:street=Müggenkampstraße
+building=industrial
+building:levels=1
+craft=car_painter
+name=Autolackiererei Magnussen
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-15:00
+shop=car_repair
+wheelchair=yes
+id=way/79311917</desc><trkseg><trkpt lat="53.5798272" lon="9.9452513"/><trkpt lat="53.5798936" lon="9.9452759"/><trkpt lat="53.5798904" lon="9.9453002"/><trkpt lat="53.5799447" lon="9.9453203"/><trkpt lat="53.5799767" lon="9.9453322"/><trkpt lat="53.5800154" lon="9.9450352"/><trkpt lat="53.5798865" lon="9.9449876"/><trkpt lat="53.5798746" lon="9.9449832"/><trkpt lat="53.5798591" lon="9.945102"/><trkpt lat="53.5798472" lon="9.9450976"/><trkpt lat="53.5798272" lon="9.9452513"/></trkseg></trk><trk><name>Mertsch &amp; Zander</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=12a
+addr:postcode=20257
+addr:street=Müggenkampstraße
+building=industrial
+building:levels=1
+check_date:opening_hours=2024-10-05
+contact:phone=+4940495366
+contact:website=http://www.mertsch-zander.de/
+name=Mertsch &amp; Zander
+opening_hours=Mo-Th 07:00-17:00; Fr 08:00-12:00
+roof:shape=flat
+shop=car_repair
+wheelchair=yes
+id=way/79312032</desc><trkseg><trkpt lat="53.5799253" lon="9.9446899"/><trkpt lat="53.5798865" lon="9.9449876"/><trkpt lat="53.5800154" lon="9.9450352"/><trkpt lat="53.5800542" lon="9.9447376"/><trkpt lat="53.5799756" lon="9.9447085"/><trkpt lat="53.5799253" lon="9.9446899"/></trkseg></trk><trk><name>Premio Reifen + Autoservice</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=9
+addr:postcode=21033
+addr:street=Oberer Landweg
+brand=Premio
+brand:wikidata=Q100895958
+building=yes
+name=Premio Reifen + Autoservice
+opening_hours=Mo-Fr 08:00-18:00
+operator=Premio
+shop=car_repair
+source=Yahoo, local_knowledge
+id=way/84976940</desc><trkseg><trkpt lat="53.489465" lon="10.1868339"/><trkpt lat="53.4892702" lon="10.1867613"/><trkpt lat="53.4892745" lon="10.1867289"/><trkpt lat="53.4892327" lon="10.1867133"/><trkpt lat="53.4891899" lon="10.1870376"/><trkpt lat="53.4894265" lon="10.1871257"/><trkpt lat="53.489465" lon="10.1868339"/></trkseg></trk><trk><name>Autolackiererei Herbert Dähn GmbH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=169
+addr:postcode=22297
+addr:street=Hindenburgstraße
+building=commercial
+name=Autolackiererei Herbert Dähn GmbH
+opening_hours=Mo-Th 07:30-18:00; Fr 07:30-17:00
+service:vehicle:body_repair=yes
+service:vehicle:painting=yes
+shop=car_repair
+website=https://www.daehn-hamburg.de/
+id=way/89615792</desc><trkseg><trkpt lat="53.617752" lon="10.0026937"/><trkpt lat="53.6172416" lon="10.0035895"/><trkpt lat="53.6173702" lon="10.0037955"/><trkpt lat="53.6174301" lon="10.0036936"/><trkpt lat="53.6175828" lon="10.0039334"/><trkpt lat="53.6177375" lon="10.0036528"/><trkpt lat="53.6178152" lon="10.0037732"/><trkpt lat="53.6178673" lon="10.0036836"/><trkpt lat="53.6181068" lon="10.0032715"/><trkpt lat="53.617752" lon="10.0026937"/></trkseg></trk><trk><name>J. Wenk's Automobil-Service</name><desc>addr:housenumber=17
+addr:street=Am Osdorfer Born
+building=commercial
+contact:email=mail@wenks.de
+contact:fax=+49408005418
+contact:phone=+49408002171
+contact:website=https://wenks.de/
+name=J. Wenk's Automobil-Service
+opening_hours=Mo-Th 07:30-18:00; Fr 07:30-14:30
+phone=+49 40 800 2171
+shop=car_repair
+website=https://wenks.de/
+id=way/92084482</desc><trkseg><trkpt lat="53.5752124" lon="9.8425722"/><trkpt lat="53.5753856" lon="9.8428052"/><trkpt lat="53.5754112" lon="9.8427512"/><trkpt lat="53.5755376" lon="9.8429212"/><trkpt lat="53.5756224" lon="9.8427424"/><trkpt lat="53.5755628" lon="9.8426623"/><trkpt lat="53.5755202" lon="9.8427521"/><trkpt lat="53.5754839" lon="9.8427033"/><trkpt lat="53.5755093" lon="9.8426496"/><trkpt lat="53.5753057" lon="9.8423756"/><trkpt lat="53.5752124" lon="9.8425722"/></trkseg></trk><trk><name>Hermann Claassen GmbH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=6
+addr:postcode=22083
+addr:street=Beim Alten Schützenhof
+brand=Ford;Ligier
+building=yes
+email=gl@ahclaassen.de
+name=Hermann Claassen GmbH
+opening_hours=Mo-Fr 07:30-18:00
+phone=+49 40 2203448
+service=repair;dealer;tyres
+shop=car_repair
+website=http://www.ahclaassen.de/
+id=way/101084414</desc><trkseg><trkpt lat="53.574892" lon="10.0288693"/><trkpt lat="53.5749488" lon="10.0290943"/><trkpt lat="53.5750612" lon="10.029017"/><trkpt lat="53.5751602" lon="10.0289521"/><trkpt lat="53.5752348" lon="10.0289023"/><trkpt lat="53.5752904" lon="10.0288652"/><trkpt lat="53.5752724" lon="10.028786"/><trkpt lat="53.5752643" lon="10.0287507"/><trkpt lat="53.5752406" lon="10.0286466"/><trkpt lat="53.574892" lon="10.0288693"/></trkseg></trk><trk><name>HanseWerkstatt Hamburg</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=17
+addr:postcode=22549
+addr:street=Brandstücken
+building=yes
+name=HanseWerkstatt Hamburg
+opening_hours=Mo-Fr 08:30-13:00, 13:30-17:00; Sa,Su,PH off
+roof:shape=flat
+shop=car_repair
+website=https://www.hansewerkstatt.de/
+wheelchair=yes
+id=way/104107607</desc><trkseg><trkpt lat="53.579695" lon="9.8514989"/><trkpt lat="53.5797178" lon="9.8519157"/><trkpt lat="53.5797188" lon="9.8519342"/><trkpt lat="53.5797919" lon="9.8519228"/><trkpt lat="53.5797804" lon="9.8517145"/><trkpt lat="53.5799003" lon="9.8516958"/><trkpt lat="53.5798933" lon="9.8515647"/><trkpt lat="53.5798906" lon="9.8515125"/><trkpt lat="53.5797736" lon="9.8515307"/><trkpt lat="53.5797712" lon="9.851487"/><trkpt lat="53.579695" lon="9.8514989"/></trkseg></trk><trk><name>Autoservice Volkspark</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=26
+addr:postcode=22525
+addr:street=Schnackenburgallee
+building=yes
+contact:website=http://www.autoservice-volkspark.de
+name=Autoservice Volkspark
+opening_hours=Mo-Fr 08:00-17:00
+operator=Thorsten Bredenow
+shop=car_repair
+wheelchair=no
+id=way/111209104</desc><trkseg><trkpt lat="53.5775548" lon="9.9192479"/><trkpt lat="53.5775186" lon="9.9192574"/><trkpt lat="53.5774979" lon="9.9193096"/><trkpt lat="53.5775063" lon="9.9194062"/><trkpt lat="53.5774605" lon="9.9194182"/><trkpt lat="53.5774892" lon="9.9197308"/><trkpt lat="53.5775367" lon="9.9197184"/><trkpt lat="53.5775471" lon="9.9198307"/><trkpt lat="53.5775028" lon="9.9198423"/><trkpt lat="53.5775186" lon="9.9200141"/><trkpt lat="53.5776228" lon="9.9199869"/><trkpt lat="53.5775548" lon="9.9192479"/></trkseg></trk><trk><name>Bosch Car Service Koberger GmBH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=9
+addr:postcode=22525
+addr:street=Rondenbarg
+brand=Bosch Car Service
+brand:wikidata=Q234021
+brand:wikipedia=en:Robert Bosch GmbH
+building=industrial
+building:levels=1
+check_date:opening_hours=2025-03-03
+contact:website=https://www.boschcarservice.com/de/de/werkstatt/koberger/
+email=info@koberger-online.de
+name=Bosch Car Service Koberger GmBH
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-14:00
+operator=Koberger GmbH
+phone=+49 4080040841
+shop=car_repair
+wheelchair=no
+id=way/111213307</desc><trkseg><trkpt lat="53.5732336" lon="9.9248593"/><trkpt lat="53.5731572" lon="9.9245902"/><trkpt lat="53.573094" lon="9.9243653"/><trkpt lat="53.5729758" lon="9.924452"/><trkpt lat="53.5731108" lon="9.9249269"/><trkpt lat="53.5730854" lon="9.9249466"/><trkpt lat="53.5731045" lon="9.9250135"/><trkpt lat="53.5731314" lon="9.9250312"/><trkpt lat="53.5732215" lon="9.9249616"/><trkpt lat="53.5732316" lon="9.9249135"/><trkpt lat="53.5732194" lon="9.9248708"/><trkpt lat="53.5732336" lon="9.9248593"/></trkseg></trk><trk><name>Kühler Kneesch</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=78
+addr:postcode=21075
+addr:street=Stader Straße
+building=commercial
+check_date:opening_hours=2021-10-02
+email=info@kuehler-kneesch.de
+fax=+49 40 770260
+name=Kühler Kneesch
+opening_hours=Mo-Fr 07:00-17:30, Sa 09:00-12:00; PH closed
+operator=Kühler-Kneesch GmbH &amp; Co. KG
+phone=+49 40 776113
+service=repair
+shop=car_repair
+website=http://www.kuehler-kneesch.de/
+wheelchair=yes
+id=way/113951789</desc><trkseg><trkpt lat="53.4708618" lon="9.9529854"/><trkpt lat="53.4709599" lon="9.9529979"/><trkpt lat="53.470979" lon="9.952575"/><trkpt lat="53.4709959" lon="9.9525772"/><trkpt lat="53.4709998" lon="9.9524897"/><trkpt lat="53.4708849" lon="9.952475"/><trkpt lat="53.4708679" lon="9.952851"/><trkpt lat="53.4708618" lon="9.9529854"/></trkseg></trk><trk><name>Carglass Hamburg</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=138
+addr:postcode=21075
+addr:street=Stader Straße
+brand=Carglass
+brand:wikidata=Q1035997
+building=commercial
+building:levels=2
+name=Carglass Hamburg
+opening_hours=Mo-Fr 07:30-18:00, Sa 08:00-13:30; PH closed
+phone=+49 800 0363636
+reservation=recommended
+roof:levels=0
+roof:shape=flat
+service=repair
+shop=car_repair
+website=https://www.carglass.de
+id=way/113951931</desc><trkseg><trkpt lat="53.471389" lon="9.9445544"/><trkpt lat="53.4712515" lon="9.9445506"/><trkpt lat="53.4712479" lon="9.9449143"/><trkpt lat="53.4713854" lon="9.944918"/><trkpt lat="53.471389" lon="9.9445544"/></trkseg></trk><trk><name>Auto-Haake GmbH</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=81
+addr:postcode=22527
+addr:street=Tierparkallee
+building=industrial
+email=info@autohaake.de
+fax=+49 40 546665
+name=Auto-Haake GmbH
+opening_hours=Mo-Fr 08:00-17:00
+operator=Dieter Löwenberg
+phone=+49 40 562839
+service=repair;tyres
+shop=car_repair
+website=http://autoreparatur-in-hamburg.de
+id=way/114008793</desc><trkseg><trkpt lat="53.5934724" lon="9.9340008"/><trkpt lat="53.5934432" lon="9.9338344"/><trkpt lat="53.5934078" lon="9.9336321"/><trkpt lat="53.5933832" lon="9.9336443"/><trkpt lat="53.5933795" lon="9.9336228"/><trkpt lat="53.5933732" lon="9.933626"/><trkpt lat="53.5933745" lon="9.9336334"/><trkpt lat="53.5933333" lon="9.9336539"/><trkpt lat="53.5933024" lon="9.9336692"/><trkpt lat="53.5933088" lon="9.9337058"/><trkpt lat="53.5933397" lon="9.9336905"/><trkpt lat="53.5933595" lon="9.9338037"/><trkpt lat="53.5933502" lon="9.9338083"/><trkpt lat="53.5933784" lon="9.9339693"/><trkpt lat="53.5933039" lon="9.9340064"/><trkpt lat="53.5933257" lon="9.934131"/><trkpt lat="53.5934816" lon="9.9340535"/><trkpt lat="53.5934724" lon="9.9340008"/></trkseg></trk><trk><name>PitStop</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=156
+addr:postcode=21075
+addr:street=Stader Straße
+brand=pitstop
+brand:wikidata=Q1310014
+building=commercial
+building:levels=1
+name=PitStop
+opening_hours=Mo-Fr 08:00-17:00; Sa 08:00-13:00
+operator=pitstop.de GmbH
+payment:cash=yes
+payment:cryptocurrencies=no
+payment:electronic_purses=no
+payment:girocard=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:visa=yes
+phone=+49 40 52982302
+roof:shape=flat
+service=tyres;repair;parts
+shop=car_repair
+website=https://www.pitstop.de/werkstatt/hamburg/
+wheelchair=yes
+id=way/118150232</desc><trkseg><trkpt lat="53.4713023" lon="9.9420327"/><trkpt lat="53.4713037" lon="9.9420931"/><trkpt lat="53.4713101" lon="9.9423666"/><trkpt lat="53.4714351" lon="9.9423584"/><trkpt lat="53.4714273" lon="9.9420245"/><trkpt lat="53.4713023" lon="9.9420327"/></trkseg></trk><trk><name>Bosch Car Service Manfred Jebsen</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=19-21
+addr:postcode=22081
+addr:street=Holsteinischer Kamp
+brand=Bosch Car Service
+brand:wikidata=Q894368
+brand:wikipedia=en:Robert Bosch GmbH
+building=commercial
+building:levels=1
+check_date:opening_hours=2023-04-22
+email=jebsen@t-online.de
+fax=+49 40 20978385
+name=Bosch Car Service Manfred Jebsen
+opening_hours=Mo-Th 07:00-17:30, Fr 07:00-15:30; PH,Sa,Su off
+payment:cash=yes
+payment:cryptocurrencies=no
+payment:electronic_purses=no
+payment:girocard=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:visa=yes
+phone=+49 40 294425
+roof:shape=flat
+service=tyres;repair;parts
+shop=car_repair
+website=https://www.boschcarservice.com/de/de/werkstatt/jebsen-hamburg
+wheelchair=yes
+id=way/118924556</desc><trkseg><trkpt lat="53.5751758" lon="10.0380707"/><trkpt lat="53.5752059" lon="10.0382658"/><trkpt lat="53.5751056" lon="10.0383096"/><trkpt lat="53.5751212" lon="10.0384166"/><trkpt lat="53.575274" lon="10.0383471"/><trkpt lat="53.575284" lon="10.0382915"/><trkpt lat="53.5752894" lon="10.0382558"/><trkpt lat="53.5751624" lon="10.0380165"/><trkpt lat="53.5750879" lon="10.0380487"/><trkpt lat="53.5750683" lon="10.0380572"/><trkpt lat="53.5750766" lon="10.0381141"/><trkpt lat="53.5751758" lon="10.0380707"/></trkseg></trk><trk><name>Autoservice Andreas Butzek</name><desc>addr:city=Hamburg
+addr:housenumber=37;39
+addr:postcode=22769
+addr:street=Heinrichstraße
+alt_name=Kfz-Meisterbetrieb Butzek
+brand=1a autoservice
+brand:website=https://butzek.go1a.de
+brand:wikidata=Q109558465
+contact:phone=+49 40 437785
+landuse=commercial
+name=Autoservice Andreas Butzek
+opening_hours=Mo-Th 08:00-18:00, Fr 08:00-16:00; PH off
+operator=Kfz-Meisterbetrieb Butzek
+service:vehicle:batteries=yes
+service:vehicle:brakes=yes
+service:vehicle:diagnostics=yes
+service:vehicle:inspection=yes
+service:vehicle:muffler=yes
+service:vehicle:oil_change=yes
+service:vehicle:repairs=yes
+service:vehicle:suspension=yes
+service:vehicle:tyres=yes
+shop=car_repair
+website=https://www.kfz-butzek.de
+id=way/137470464</desc><trkseg><trkpt lat="53.5666299" lon="9.9552461"/><trkpt lat="53.5664496" lon="9.9549965"/><trkpt lat="53.5663704" lon="9.9551604"/><trkpt lat="53.5664638" lon="9.9552916"/><trkpt lat="53.5665499" lon="9.9554126"/><trkpt lat="53.5666131" lon="9.9552823"/><trkpt lat="53.5666299" lon="9.9552461"/></trkseg></trk><trk><name>pitstop</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=45
+addr:postcode=22041
+addr:street=Rüterstraße
+brand=pitstop
+brand:wikidata=Q1310014
+brand:wikipedia=de:Pitstop (Werkstattkette)
+building=yes
+check_date:opening_hours=2024-06-02
+name=pitstop
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+phone=+49 40 687771
+shop=car_repair
+website=https://www.pitstop.de/werkstatt/hamburg/
+wheelchair=limited
+id=way/147850536</desc><trkseg><trkpt lat="53.5756641" lon="10.0786055"/><trkpt lat="53.5756492" lon="10.0786142"/><trkpt lat="53.575642" lon="10.0786384"/><trkpt lat="53.5756461" lon="10.078661"/><trkpt lat="53.5755428" lon="10.0787093"/><trkpt lat="53.5755844" lon="10.0789717"/><trkpt lat="53.5757109" lon="10.0789148"/><trkpt lat="53.5756641" lon="10.0786055"/></trkseg></trk><trk><name>way/155167734</name><desc>addr:housenumber=180
+addr:street=Simrockstraße
+building=yes
+shop=car_repair
+id=way/155167734</desc><trkseg><trkpt lat="53.5756045" lon="9.8217066"/><trkpt lat="53.5754742" lon="9.8217527"/><trkpt lat="53.5754973" lon="9.8219381"/><trkpt lat="53.5756277" lon="9.821892"/><trkpt lat="53.5756045" lon="9.8217066"/></trkseg></trk><trk><name>Autoselbsthilfe Langenhorn</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=19
+addr:postcode=22419
+addr:street=Oehleckerring
+building=yes
+check_date=2022-11-30
+email=info@autoselbsthilfe-langenhorn.de
+fax=+49 40 63701774
+name=Autoselbsthilfe Langenhorn
+opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-18:00
+operator=Hamid Barzin
+phone=+49 40 63701773
+shop=car_repair
+website=https://autoselbsthilfe-langenhorn.de/
+id=way/160513512</desc><trkseg><trkpt lat="53.6626319" lon="10.0065884"/><trkpt lat="53.6625583" lon="10.0062261"/><trkpt lat="53.6625754" lon="10.0062162"/><trkpt lat="53.6625327" lon="10.0060061"/><trkpt lat="53.6625156" lon="10.0060161"/><trkpt lat="53.6624834" lon="10.0058578"/><trkpt lat="53.6623107" lon="10.0059578"/><trkpt lat="53.6624592" lon="10.0066884"/><trkpt lat="53.6626319" lon="10.0065884"/></trkseg></trk><trk><name>Walker GmbH</name><desc>addr:city=Hamburg
+addr:housenumber=71
+addr:postcode=22087
+addr:street=Ifflandstraße
+building=yes
+check_date=2025-02-16
+name=Walker GmbH
+shop=car_repair
+id=way/168895907</desc><trkseg><trkpt lat="53.5632816" lon="10.0228153"/><trkpt lat="53.5632956" lon="10.0225995"/><trkpt lat="53.5632971" lon="10.022577"/><trkpt lat="53.5632809" lon="10.0225738"/><trkpt lat="53.5632896" lon="10.0224466"/><trkpt lat="53.563238" lon="10.0224366"/><trkpt lat="53.5632292" lon="10.0225655"/><trkpt lat="53.563205" lon="10.0225608"/><trkpt lat="53.5631993" lon="10.0224402"/><trkpt lat="53.5631387" lon="10.0224661"/><trkpt lat="53.5631369" lon="10.0225212"/><trkpt lat="53.563119" lon="10.0227832"/><trkpt lat="53.5632184" lon="10.0228029"/><trkpt lat="53.5632816" lon="10.0228153"/></trkseg></trk><trk><name>way/170621693</name><desc>building=commercial
+shop=car_repair
+id=way/170621693</desc><trkseg><trkpt lat="53.4443439" lon="9.9541932"/><trkpt lat="53.4442044" lon="9.9539161"/><trkpt lat="53.4440166" lon="9.9541826"/><trkpt lat="53.4440892" lon="9.9543269"/><trkpt lat="53.4441482" lon="9.9542432"/><trkpt lat="53.4441803" lon="9.9543071"/><trkpt lat="53.4441652" lon="9.9543286"/><trkpt lat="53.4441999" lon="9.9543975"/><trkpt lat="53.4443439" lon="9.9541932"/></trkseg></trk><trk><name>KFZ Werkstatt Rolf Krüger</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=104
+addr:postcode=22043
+addr:street=Gustav-Adolf-Straße
+barrier=fence
+name=KFZ Werkstatt Rolf Krüger
+shop=car_repair
+id=way/175802655</desc><trkseg><trkpt lat="53.5735896" lon="10.0947623"/><trkpt lat="53.5736074" lon="10.0948612"/><trkpt lat="53.5737271" lon="10.0948045"/><trkpt lat="53.573843" lon="10.0954641"/><trkpt lat="53.5741069" lon="10.0953317"/><trkpt lat="53.5740179" lon="10.0945605"/><trkpt lat="53.5735896" lon="10.0947623"/></trkseg></trk><trk><name>way/179060065</name><desc>building=yes
+shop=car_repair
+id=way/179060065</desc><trkseg><trkpt lat="53.542782" lon="10.0267352"/><trkpt lat="53.54291" lon="10.0268088"/><trkpt lat="53.5429319" lon="10.0267008"/><trkpt lat="53.5429387" lon="10.0266673"/><trkpt lat="53.5428894" lon="10.026639"/><trkpt lat="53.5428833" lon="10.026669"/><trkpt lat="53.5428046" lon="10.0266238"/><trkpt lat="53.542782" lon="10.0267352"/></trkseg></trk><trk><name>Milan &amp; Mc Murray</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=135
+addr:postcode=22043
+addr:street=Schimmelmannstraße
+building=yes
+name=Milan &amp; Mc Murray
+shop=car_repair
+id=way/186974397</desc><trkseg><trkpt lat="53.5747132" lon="10.1097118"/><trkpt lat="53.5748112" lon="10.110013"/><trkpt lat="53.5748363" lon="10.1100328"/><trkpt lat="53.5748614" lon="10.1100254"/><trkpt lat="53.5748864" lon="10.1100141"/><trkpt lat="53.5750618" lon="10.1097435"/><trkpt lat="53.5750242" lon="10.1096732"/><trkpt lat="53.5752037" lon="10.1093849"/><trkpt lat="53.5750806" lon="10.1091529"/><trkpt lat="53.5747132" lon="10.1097118"/></trkseg></trk><trk><name>1A Car Service</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=22
+addr:postcode=22335
+addr:street=Sommerkamp
+addr:suburb=Ohlsdorf
+brand=AUTOFIT
+brand:wikidata=Q108198772
+building=yes
+contact:email=sommerkamp@1acarservice.de
+contact:fax=+49 40 42 10 20 16
+contact:phone=+49 40 42 10 20 15
+name=1A Car Service
+operator=AutoFit
+service=repair
+shop=car_repair
+website=https://www.1acarservice.de/
+id=way/201326411</desc><trkseg><trkpt lat="53.6192404" lon="10.0323"/><trkpt lat="53.6190958" lon="10.0324923"/><trkpt lat="53.6191293" lon="10.0325619"/><trkpt lat="53.619163" lon="10.0325158"/><trkpt lat="53.6192732" lon="10.03237"/><trkpt lat="53.6192404" lon="10.0323"/></trkseg></trk><trk><name>way/204456426</name><desc>building=yes
+operator=HVT Automobile
+shop=car_repair
+id=way/204456426</desc><trkseg><trkpt lat="53.6620299" lon="10.0077219"/><trkpt lat="53.6619978" lon="10.0077409"/><trkpt lat="53.6618905" lon="10.0078029"/><trkpt lat="53.661915" lon="10.0079227"/><trkpt lat="53.6619779" lon="10.0082308"/><trkpt lat="53.6619929" lon="10.0083042"/><trkpt lat="53.6622064" lon="10.0081801"/><trkpt lat="53.6621046" lon="10.0076768"/><trkpt lat="53.6620299" lon="10.0077219"/></trkseg></trk><trk><name>Werkstatt Hyundai &amp; Suzuki</name><desc>brand=Hyundai;Suzuki
+building=commercial
+name=Werkstatt Hyundai &amp; Suzuki
+opening_hours=Mo-Fr 07:30-18:00; Sa 09:00-14:00
+operator=Autohaus Langenhorn
+shop=car_repair
+id=way/204456475</desc><trkseg><trkpt lat="53.6613806" lon="10.005548"/><trkpt lat="53.6613876" lon="10.0055788"/><trkpt lat="53.6615156" lon="10.0054963"/><trkpt lat="53.6614376" lon="10.0051478"/><trkpt lat="53.6613689" lon="10.0051882"/><trkpt lat="53.6613171" lon="10.005224"/><trkpt lat="53.6613125" lon="10.0052037"/><trkpt lat="53.661169" lon="10.0052963"/><trkpt lat="53.6612461" lon="10.0056289"/><trkpt lat="53.6613806" lon="10.005548"/></trkseg></trk><trk><name>Bauer</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=16
+addr:postcode=21149
+addr:street=Stremelkamp
+building=yes
+name=Bauer
+opening_hours=Mo-Th 07:00-17:00; Fr 07:00-16:00
+shop=car_repair
+source=bing
+website=https://www.johnbauer.de
+id=way/218355025</desc><trkseg><trkpt lat="53.4740282" lon="9.8397212"/><trkpt lat="53.4736036" lon="9.8398875"/><trkpt lat="53.4736227" lon="9.8400484"/><trkpt lat="53.4735493" lon="9.8400752"/><trkpt lat="53.4735812" lon="9.8403435"/><trkpt lat="53.4736546" lon="9.8403166"/><trkpt lat="53.4736802" lon="9.8404776"/><trkpt lat="53.4741016" lon="9.8403005"/><trkpt lat="53.4740282" lon="9.8397212"/></trkseg></trk><trk><name>Bosch Car Service</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=8
+addr:postcode=21109
+addr:street=Otto-Brenner-Straße
+brand=Bosch Car Service
+brand:wikidata=Q894368
+brand:wikipedia=en:Robert Bosch GmbH
+building=commercial
+name=Bosch Car Service
+operator=Harro Engel Söhne
+shop=car_repair
+id=way/232859578</desc><trkseg><trkpt lat="53.489477" lon="10.0193783"/><trkpt lat="53.4894674" lon="10.0189921"/><trkpt lat="53.4894307" lon="10.0189948"/><trkpt lat="53.4894227" lon="10.0187427"/><trkpt lat="53.4893054" lon="10.0187526"/><trkpt lat="53.4893238" lon="10.0193944"/><trkpt lat="53.489477" lon="10.0193783"/></trkseg></trk><trk><name>Autohaus Franke</name><desc>addr:housenumber=6a
+addr:street=Bessemerweg
+building=commercial
+building:levels=1
+name=Autohaus Franke
+opening_hours=Mo-Th 07:00-16:30; Fr 07:00-14:00
+phone=+49 40 8508 0561
+roof:levels=0
+roof:shape=flat
+shop=car_repair
+wheelchair=yes
+id=way/243044184</desc><trkseg><trkpt lat="53.5641438" lon="9.9317021"/><trkpt lat="53.5641365" lon="9.931849"/><trkpt lat="53.5639422" lon="9.9318215"/><trkpt lat="53.563932" lon="9.9320275"/><trkpt lat="53.5642369" lon="9.9320706"/><trkpt lat="53.5643995" lon="9.9320936"/><trkpt lat="53.5644096" lon="9.9318911"/><trkpt lat="53.5641958" lon="9.9318608"/><trkpt lat="53.5642029" lon="9.931718"/><trkpt lat="53.5642033" lon="9.9317105"/><trkpt lat="53.5641841" lon="9.9317078"/><trkpt lat="53.5641438" lon="9.9317021"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=3
+addr:postcode=21031
+addr:street=Heidhorst
+alt_name=Auto Teile Unger
+brand=A.T.U
+brand:wikidata=Q784721
+brand:wikipedia=de:Auto-Teile-Unger
+building=commercial
+name=A.T.U
+operator=A.T.U Auto-Teile-Unger GmbH &amp; Co. KG
+shop=car_repair
+short_name=ATU
+toilets:wheelchair=no
+wheelchair=yes
+id=way/244159933</desc><trkseg><trkpt lat="53.5156538" lon="10.1652166"/><trkpt lat="53.5154196" lon="10.165176"/><trkpt lat="53.5153887" lon="10.1652958"/><trkpt lat="53.5153338" lon="10.1660518"/><trkpt lat="53.5155933" lon="10.1660979"/><trkpt lat="53.5156538" lon="10.1652166"/></trkseg></trk><trk><name>way/246359312</name><desc>building=yes
+shop=car_repair
+id=way/246359312</desc><trkseg><trkpt lat="53.4859477" lon="10.203812"/><trkpt lat="53.485855" lon="10.2042834"/><trkpt lat="53.4859947" lon="10.2043592"/><trkpt lat="53.4860817" lon="10.2038848"/><trkpt lat="53.4860743" lon="10.2038808"/><trkpt lat="53.4860921" lon="10.2037903"/><trkpt lat="53.4860321" lon="10.2037572"/><trkpt lat="53.4860142" lon="10.2038485"/><trkpt lat="53.4859477" lon="10.203812"/></trkseg></trk><trk><name>First Stop</name><desc>brand=First Stop
+brand:wikidata=Q3072965
+landuse=commercial
+name=First Stop
+opening_hours=Mo-Fr 07:30-17:00; Sa 09:00-12:00
+shop=car_repair
+id=way/267317341</desc><trkseg><trkpt lat="53.5815422" lon="9.9552603"/><trkpt lat="53.5818992" lon="9.9553753"/><trkpt lat="53.5819554" lon="9.9553856"/><trkpt lat="53.5824157" lon="9.9554807"/><trkpt lat="53.5824143" lon="9.9553692"/><trkpt lat="53.5824138" lon="9.9552868"/><trkpt lat="53.5824126" lon="9.9551086"/><trkpt lat="53.5819307" lon="9.9550388"/><trkpt lat="53.5819067" lon="9.9549869"/><trkpt lat="53.5816138" lon="9.9549351"/><trkpt lat="53.5815422" lon="9.9552603"/></trkseg></trk><trk><name>Hantel</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=94
+addr:postcode=21107
+addr:street=Vogelhüttendeich
+brand=Ford
+brand:wikidata=Q44294
+building=industrial
+building:levels=1
+contact:email=max-hantel@gmx.de
+contact:fax=+49 40 7522480
+contact:phone=+49 40 757305
+contact:website=https://www.max-hantel.de/
+name=Hantel
+opening_hours=Mo-Th 07:00-17:00, Fr 06:00-16:00, Sa 07:30-11:30 "Notdienst";PH,Su off
+operator=Max Hantel u. Co. KG
+roof:levels=0
+roof:shape=flat
+service=tyres;repair
+shop=car_repair
+id=way/268454212</desc><trkseg><trkpt lat="53.5160494" lon="9.9925193"/><trkpt lat="53.5160475" lon="9.9925299"/><trkpt lat="53.5160282" lon="9.9926378"/><trkpt lat="53.5160051" lon="9.9927664"/><trkpt lat="53.5159846" lon="9.9928812"/><trkpt lat="53.51607" lon="9.992922"/><trkpt lat="53.5160967" lon="9.9927636"/><trkpt lat="53.516166" lon="9.992837"/><trkpt lat="53.5161868" lon="9.9927137"/><trkpt lat="53.5160961" lon="9.9926703"/><trkpt lat="53.5161163" lon="9.9925509"/><trkpt lat="53.5160936" lon="9.9925402"/><trkpt lat="53.5160494" lon="9.9925193"/></trkseg></trk><trk><name>DB Krull</name><desc>addr:city=Hamburg
+addr:housenumber=10
+addr:postcode=22419
+addr:street=Tarpenring
+building=commercial
+email=info@db-krull.de
+name=DB Krull
+opening_hours=Mo-Th 07:45-09:30,10:00-13:30,14:00-18:00; Fr 07:45-09:30,10:00-13:00
+operator=DB-Krull Autoservice GmbH
+phone=+49 40 50726582
+shop=car_repair
+website=https://db-krull.de/
+id=way/297797873</desc><trkseg><trkpt lat="53.6643746" lon="9.9972493"/><trkpt lat="53.6640643" lon="9.9972999"/><trkpt lat="53.6640818" lon="9.9976055"/><trkpt lat="53.6643921" lon="9.9975549"/><trkpt lat="53.6643746" lon="9.9972493"/></trkseg></trk><trk><name>way/301709796</name><desc>building=industrial
+building:levels=1
+roof:levels=0
+shop=car_repair
+id=way/301709796</desc><trkseg><trkpt lat="53.539538" lon="10.1112317"/><trkpt lat="53.539586" lon="10.110615"/><trkpt lat="53.5393219" lon="10.1105616"/><trkpt lat="53.5393123" lon="10.11073"/><trkpt lat="53.5393496" lon="10.1107355"/><trkpt lat="53.5393198" lon="10.1111154"/><trkpt lat="53.5393987" lon="10.1111574"/><trkpt lat="53.539414" lon="10.1111655"/><trkpt lat="53.5395364" lon="10.1112309"/><trkpt lat="53.539538" lon="10.1112317"/></trkseg></trk><trk><name>Carglass</name><desc>addr:housenumber=189
+addr:street=Ahrensburger Straße
+brand=Carglass
+brand:wikidata=Q1035997
+building=yes
+name=Carglass
+operator=Carglass
+shop=car_repair
+id=way/305223686</desc><trkseg><trkpt lat="53.5826649" lon="10.1142306"/><trkpt lat="53.5828226" lon="10.1148292"/><trkpt lat="53.5829473" lon="10.1147349"/><trkpt lat="53.5827885" lon="10.1141397"/><trkpt lat="53.5826649" lon="10.1142306"/></trkseg></trk><trk><name>Auto LoLa GmbH</name><desc>addr:city=Hamburg
+addr:housenumber=123
+addr:postcode=21031
+addr:street=Lohbrügger Landstraße
+building=yes
+name=Auto LoLa GmbH
+opening_hours=Mo-Fr 08:00-18:00; Sa 09:00-14:00
+phone=+49 40 55286260
+shop=car_repair
+id=way/306373141</desc><trkseg><trkpt lat="53.5031415" lon="10.192718"/><trkpt lat="53.5030555" lon="10.1926329"/><trkpt lat="53.5030159" lon="10.1927463"/><trkpt lat="53.5031019" lon="10.1928314"/><trkpt lat="53.5031415" lon="10.192718"/></trkseg></trk><trk><name>AFK Automobile</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=21b
+addr:postcode=21033
+addr:street=Oberer Landweg
+building=yes
+name=AFK Automobile
+opening_hours=Mo-Fr 08:00-18:00; PH off
+phone=+494072542011
+shop=car_repair
+website=https://www.afkautomobile.de/
+id=way/309456828</desc><trkseg><trkpt lat="53.4886623" lon="10.1871721"/><trkpt lat="53.4885357" lon="10.1871269"/><trkpt lat="53.4885167" lon="10.1872774"/><trkpt lat="53.4884257" lon="10.1872449"/><trkpt lat="53.488398" lon="10.1874642"/><trkpt lat="53.4886156" lon="10.1875418"/><trkpt lat="53.4886623" lon="10.1871721"/></trkseg></trk><trk><name>New Sulzer Diesel Werkstatt</name><desc>addr:housenumber=3
+addr:street=Ellerholzweg
+building=yes
+name=New Sulzer Diesel Werkstatt
+service:vehicle:car_repair=yes
+shop=car_repair
+id=way/309807921</desc><trkseg><trkpt lat="53.5245452" lon="9.9740969"/><trkpt lat="53.5244297" lon="9.9741024"/><trkpt lat="53.5244324" lon="9.9742624"/><trkpt lat="53.524548" lon="9.9742569"/><trkpt lat="53.5245452" lon="9.9740969"/></trkseg></trk><trk><name>Autohaus S+K</name><desc>brand=Toyota
+brand:wikidata=Q53268
+brand:wikipedia=en:Toyota
+building=yes
+name=Autohaus S+K
+operator=Autohaus S+K GmbH
+shop=car_repair
+website=https://www.autohaus-suk.de/
+id=way/311067520</desc><trkseg><trkpt lat="53.4793043" lon="10.1979743"/><trkpt lat="53.4790576" lon="10.1978452"/><trkpt lat="53.4789758" lon="10.1982865"/><trkpt lat="53.4790808" lon="10.1983415"/><trkpt lat="53.4790732" lon="10.1983824"/><trkpt lat="53.4791931" lon="10.1984452"/><trkpt lat="53.4792397" lon="10.1981936"/><trkpt lat="53.4792615" lon="10.198205"/><trkpt lat="53.4793043" lon="10.1979743"/></trkseg></trk><trk><name>A.T.U</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=50
+addr:postcode=22549
+addr:street=Osdorfer Landstraße
+alt_name=Auto Teile Unger
+brand=A.T.U
+brand:wikidata=Q784721
+brand:wikipedia=de:Auto-Teile-Unger
+building=industrial
+building:levels=2
+name=A.T.U
+opening_hours=Mo-Fr 08:00-17:00; Sa 08:00-14:00
+operator=A.T.U Auto-Teile-Unger GmbH &amp; Co. KG
+roof:levels=1
+roof:shape=flat
+shop=car_repair
+short_name=ATU
+wheelchair=yes
+id=way/313450543</desc><trkseg><trkpt lat="53.5715052" lon="9.8684219"/><trkpt lat="53.5719139" lon="9.868301"/><trkpt lat="53.5719405" lon="9.8675534"/><trkpt lat="53.5717318" lon="9.8675414"/><trkpt lat="53.5717269" lon="9.8677834"/><trkpt lat="53.571749" lon="9.8677847"/><trkpt lat="53.57173" lon="9.868208"/><trkpt lat="53.5714895" lon="9.8682891"/><trkpt lat="53.5715052" lon="9.8684219"/></trkseg></trk><trk><name>Euromaster</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=295
+addr:postcode=21031
+addr:street=Reinbeker Redder
+brand=Euromaster
+brand:wikidata=Q3060668
+building=yes
+name=Euromaster
+repair=yes
+shop=car_repair
+id=way/338303363</desc><trkseg><trkpt lat="53.5137538" lon="10.2125421"/><trkpt lat="53.5136566" lon="10.2125439"/><trkpt lat="53.5136578" lon="10.2127354"/><trkpt lat="53.5136384" lon="10.2127611"/><trkpt lat="53.5136387" lon="10.2128256"/><trkpt lat="53.5136614" lon="10.2128609"/><trkpt lat="53.5137558" lon="10.2128592"/><trkpt lat="53.5137556" lon="10.2128314"/><trkpt lat="53.5137538" lon="10.2125421"/></trkseg></trk><trk><name>Euromaster</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=56
+addr:postcode=22761
+addr:street=Leverkusenstraße
+brand=Euromaster
+brand:wikidata=Q3060668
+brand:wikipedia=de:Euromaster
+building=commercial
+building:levels=1
+check_date:opening_hours=2023-11-19
+name=Euromaster
+opening_hours:signed=no
+roof:shape=flat
+shop=car_repair
+wheelchair=no
+id=way/362268800</desc><trkseg><trkpt lat="53.5661245" lon="9.9329606"/><trkpt lat="53.5661285" lon="9.9331377"/><trkpt lat="53.566504" lon="9.9331138"/><trkpt lat="53.5665" lon="9.9329366"/><trkpt lat="53.5661245" lon="9.9329606"/></trkseg></trk><trk><name>ALS Auto Lackier- und Selbsthilfewerkstatt</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=1
+addr:postcode=22525
+addr:street=Rondenbarg
+building=commercial
+building:levels=1
+check_date:opening_hours=2023-08-31
+name=ALS Auto Lackier- und Selbsthilfewerkstatt
+opening_hours=Mo-Fr 08:00-18:00; Sa 09:00-16:00
+roof:levels=0
+roof:shape=gabled
+shop=car_repair
+website=https://www.als-hamburg.de/
+wheelchair=yes
+id=way/362277294</desc><trkseg><trkpt lat="53.5721374" lon="9.9255586"/><trkpt lat="53.5722336" lon="9.9258995"/><trkpt lat="53.5725614" lon="9.9256375"/><trkpt lat="53.5724652" lon="9.9252964"/><trkpt lat="53.5721374" lon="9.9255586"/></trkseg></trk><trk><name>KFZ-Meisterwerkstatt J. Franke</name><desc>check_date:opening_hours=2022-10-13
+contact:phone=+491772341184
+landuse=industrial
+name=KFZ-Meisterwerkstatt J. Franke
+opening_hours:signed=no
+shop=car_repair
+wheelchair=yes
+id=way/362620876</desc><trkseg><trkpt lat="53.5803823" lon="9.9368633"/><trkpt lat="53.5804836" lon="9.9368406"/><trkpt lat="53.5806006" lon="9.9367371"/><trkpt lat="53.5805862" lon="9.93669"/><trkpt lat="53.5805678" lon="9.9366286"/><trkpt lat="53.5805353" lon="9.9365217"/><trkpt lat="53.5804499" lon="9.9365459"/><trkpt lat="53.5804013" lon="9.9365621"/><trkpt lat="53.5804087" lon="9.9366419"/><trkpt lat="53.58042" lon="9.9367657"/><trkpt lat="53.5802432" lon="9.9368112"/><trkpt lat="53.5802511" lon="9.9368861"/><trkpt lat="53.580272" lon="9.9368813"/><trkpt lat="53.5803823" lon="9.9368633"/></trkseg></trk><trk><name>Kfz-Meisterbetrieb Franz Kühn</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=4
+addr:postcode=22529
+addr:street=Deepenstöcken
+check_date:opening_hours=2023-01-08
+name=Kfz-Meisterbetrieb Franz Kühn
+opening_hours=Mo-Th 08:00-17:00; Fr 08:00-13:00; Sa off
+phone=+4940562696
+shop=car_repair
+website=https://www.kfzkuehn.de/
+wheelchair=yes
+id=way/379566681</desc><trkseg><trkpt lat="53.5849558" lon="9.9545956"/><trkpt lat="53.5849693" lon="9.9543297"/><trkpt lat="53.5849729" lon="9.9542555"/><trkpt lat="53.5848232" lon="9.9542571"/><trkpt lat="53.5846886" lon="9.9542387"/><trkpt lat="53.5846311" lon="9.9542274"/><trkpt lat="53.5846118" lon="9.9545547"/><trkpt lat="53.5848013" lon="9.9545764"/><trkpt lat="53.5848894" lon="9.9545869"/><trkpt lat="53.5849558" lon="9.9545956"/></trkseg></trk><trk><name>Peters &amp; Peters</name><desc>addr:city=Hamburg
+addr:housenumber=1
+addr:postcode=22045
+addr:street=Kurt-Oldenburg-Straße
+building=yes
+name=Peters &amp; Peters
+shop=car_repair
+id=way/551358024</desc><trkseg><trkpt lat="53.5812442" lon="10.137435"/><trkpt lat="53.5810042" lon="10.1373232"/><trkpt lat="53.5809541" lon="10.1376285"/><trkpt lat="53.5811256" lon="10.1377084"/><trkpt lat="53.581118" lon="10.1377544"/><trkpt lat="53.5811865" lon="10.1377863"/><trkpt lat="53.5812442" lon="10.137435"/></trkseg></trk><trk><name>Freie Werkstatt</name><desc>landuse=commercial
+name=Freie Werkstatt
+shop=car_repair
+id=way/577847975</desc><trkseg><trkpt lat="53.4667935" lon="10.2017192"/><trkpt lat="53.4670014" lon="10.2017375"/><trkpt lat="53.4674325" lon="10.201802"/><trkpt lat="53.4676268" lon="10.2018625"/><trkpt lat="53.467722" lon="10.2012966"/><trkpt lat="53.467541" lon="10.201188"/><trkpt lat="53.4669947" lon="10.2011738"/><trkpt lat="53.4667818" lon="10.2011682"/><trkpt lat="53.4667935" lon="10.2017192"/></trkseg></trk><trk><name>Weitze</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=27
+addr:postcode=22761
+addr:street=Leverkusenstraße
+name=Weitze
+opening_hours=Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30
+phone=+4940546251
+shop=car_repair
+website=https://www.kfz-weitze.de/
+wheelchair=yes
+id=way/692640132</desc><trkseg><trkpt lat="53.5659738" lon="9.9311134"/><trkpt lat="53.5661935" lon="9.9308547"/><trkpt lat="53.566227" lon="9.9308494"/><trkpt lat="53.5662035" lon="9.9303746"/><trkpt lat="53.5660138" lon="9.9304003"/><trkpt lat="53.5657704" lon="9.9306625"/><trkpt lat="53.5659738" lon="9.9311134"/></trkseg></trk><trk><name>Holger Hansen</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=14
+addr:postcode=22761
+addr:street=Amália-Rodrigues-Weg
+name=Holger Hansen
+opening_hours=Mo-Th 08:00-13:00,14:00-18:00; Fr 08:00-13:00,14:00-17:00
+shop=car_repair
+wheelchair=yes
+id=way/692640135</desc><trkseg><trkpt lat="53.5666476" lon="9.9307878"/><trkpt lat="53.5663003" lon="9.9308373"/><trkpt lat="53.566321" lon="9.9313027"/><trkpt lat="53.5665699" lon="9.9312651"/><trkpt lat="53.5665973" lon="9.9311525"/><trkpt lat="53.5665838" lon="9.931076"/><trkpt lat="53.5665902" lon="9.9309178"/><trkpt lat="53.5666476" lon="9.9307878"/></trkseg></trk><trk><name>Auto Partner Süd</name><desc>name=Auto Partner Süd
+shop=car_repair
+id=way/819130770</desc><trkseg><trkpt lat="53.5470186" lon="10.0335989"/><trkpt lat="53.5469822" lon="10.033457"/><trkpt lat="53.5469454" lon="10.0333139"/><trkpt lat="53.5463617" lon="10.0337387"/><trkpt lat="53.5464349" lon="10.0340237"/><trkpt lat="53.5464726" lon="10.0339962"/><trkpt lat="53.5470186" lon="10.0335989"/></trkseg></trk><trk><name>Euromaster Hamburg City Süd</name><desc>brand=Euromaster
+brand:wikidata=Q3060668
+brand:wikipedia=de:Euromaster
+building=commercial
+check_date:opening_hours=2023-01-08
+contact:email=sc129@euromaster.com
+contact:fax=+49 40 237003-12
+contact:phone=+49 40 237003-0
+contact:website=https://filiale.euromaster.de/23223-euromaster-hamburg
+name=Euromaster Hamburg City Süd
+opening_hours=Mo-Fr 08:00-17:00; Sa off; Su off
+service=tyres;repair;parts
+shop=car_repair
+id=way/819130785</desc><trkseg><trkpt lat="53.544544" lon="10.0284431"/><trkpt lat="53.5445134" lon="10.028333"/><trkpt lat="53.5444174" lon="10.0284045"/><trkpt lat="53.5443847" lon="10.0284289"/><trkpt lat="53.5443671" lon="10.0283659"/><trkpt lat="53.544232" lon="10.0278639"/><trkpt lat="53.5442965" lon="10.0278132"/><trkpt lat="53.5443963" lon="10.0277347"/><trkpt lat="53.5443573" lon="10.0275945"/><trkpt lat="53.5443367" lon="10.0276076"/><trkpt lat="53.5442245" lon="10.0276977"/><trkpt lat="53.544193" lon="10.0277219"/><trkpt lat="53.5440567" lon="10.0278268"/><trkpt lat="53.5442553" lon="10.0285359"/><trkpt lat="53.5442859" lon="10.0286461"/><trkpt lat="53.5444491" lon="10.0285177"/><trkpt lat="53.544544" lon="10.0284431"/></trkseg></trk><trk><name>Rahl KFZ-Ersatzteile Servie</name><desc>addr:city=Hamburg
+addr:housenumber=570
+addr:postcode=22525
+addr:street=Kieler Straße
+building=commercial
+name=Rahl KFZ-Ersatzteile Servie
+shop=car_repair
+id=way/914826110</desc><trkseg><trkpt lat="53.601287" lon="9.9174925"/><trkpt lat="53.6013723" lon="9.9172743"/><trkpt lat="53.6012725" lon="9.9171635"/><trkpt lat="53.60119" lon="9.9173747"/><trkpt lat="53.6011872" lon="9.9173818"/><trkpt lat="53.6012149" lon="9.9174126"/><trkpt lat="53.601287" lon="9.9174925"/></trkseg></trk><trk><name>Fahrzeuglackiererei Elbglanz</name><desc>building=commercial
+contact:fax=+49 40 215433
+contact:phone=+49 40 215456
+contact:website=https://www.fahrzeuglackiererei-elbglanz.de/
+name=Fahrzeuglackiererei Elbglanz
+opening_hours=Mo-Fr 08:00-17:00;PH,Sa,Su off
+shop=car_repair
+id=way/944833156</desc><trkseg><trkpt lat="53.6099629" lon="10.0517663"/><trkpt lat="53.6100397" lon="10.051344"/><trkpt lat="53.609882" lon="10.0512625"/><trkpt lat="53.6098625" lon="10.05137"/><trkpt lat="53.6097812" lon="10.0518169"/><trkpt lat="53.6097793" lon="10.0518269"/><trkpt lat="53.6098544" lon="10.0518657"/><trkpt lat="53.6099629" lon="10.0517663"/></trkseg></trk><trk><name>KFZ Werkstatt Hagel &amp; Reinecke</name><desc>name=KFZ Werkstatt Hagel &amp; Reinecke
+opening_hours:signed=no
+phone=+49408503311
+shop=car_repair
+id=way/967983497</desc><trkseg><trkpt lat="53.5751111" lon="9.9408636"/><trkpt lat="53.575102" lon="9.940835"/><trkpt lat="53.5748905" lon="9.9410594"/><trkpt lat="53.5749106" lon="9.9411179"/><trkpt lat="53.5749427" lon="9.941209"/><trkpt lat="53.574928" lon="9.941226"/><trkpt lat="53.5749407" lon="9.9412595"/><trkpt lat="53.5748976" lon="9.9413049"/><trkpt lat="53.5749092" lon="9.9413342"/><trkpt lat="53.5749185" lon="9.9413607"/><trkpt lat="53.5749629" lon="9.9413211"/><trkpt lat="53.5749903" lon="9.9412485"/><trkpt lat="53.5751462" lon="9.9411059"/><trkpt lat="53.5751835" lon="9.9410686"/><trkpt lat="53.5751499" lon="9.9409735"/><trkpt lat="53.5751111" lon="9.9408636"/></trkseg></trk><trk><name>M. Petzel</name><desc>craft=car_repair
+landuse=industrial
+name=M. Petzel
+shop=car_repair
+id=way/1019193562</desc><trkseg><trkpt lat="53.5718617" lon="9.9378646"/><trkpt lat="53.5718772" lon="9.9380254"/><trkpt lat="53.5718703" lon="9.9387964"/><trkpt lat="53.5719913" lon="9.9387994"/><trkpt lat="53.5720441" lon="9.938721"/><trkpt lat="53.5720452" lon="9.9384865"/><trkpt lat="53.5721407" lon="9.9384874"/><trkpt lat="53.5721412" lon="9.938306"/><trkpt lat="53.572289" lon="9.9384186"/><trkpt lat="53.5723361" lon="9.9382435"/><trkpt lat="53.5721883" lon="9.9381308"/><trkpt lat="53.5718617" lon="9.9378646"/></trkseg></trk><trk><name>Autowerkstatt Eger &amp; Hornung GmbH</name><desc>check_date:opening_hours=2023-08-24
+landuse=industrial
+name=Autowerkstatt Eger &amp; Hornung GmbH
+opening_hours:signed=no
+shop=car_repair
+wheelchair=yes
+id=way/1040620000</desc><trkseg><trkpt lat="53.5707524" lon="9.9524718"/><trkpt lat="53.5707556" lon="9.9523187"/><trkpt lat="53.5707604" lon="9.9521492"/><trkpt lat="53.5706731" lon="9.9521347"/><trkpt lat="53.5706532" lon="9.9519554"/><trkpt lat="53.5705777" lon="9.9519715"/><trkpt lat="53.5705022" lon="9.9519876"/><trkpt lat="53.5705045" lon="9.9520144"/><trkpt lat="53.5705196" lon="9.952174"/><trkpt lat="53.5705344" lon="9.9523424"/><trkpt lat="53.5705515" lon="9.9525372"/><trkpt lat="53.5707524" lon="9.9524718"/></trkseg></trk><trk><name>Reinsch Service GmbH</name><desc>addr:city=Hamburg
+addr:housenumber=67
+addr:postcode=22525
+addr:street=Försterweg
+email=service@reinschgmbh.de
+landuse=industrial
+name=Reinsch Service GmbH
+opening_hours=Mo-Fr 08:00-17:00
+phone=+494056195770
+shop=car_repair
+website=https://www.reinschservicegmbh.de/
+wheelchair=yes
+id=way/1103674227</desc><trkseg><trkpt lat="53.5802806" lon="9.9257731"/><trkpt lat="53.5799569" lon="9.9260112"/><trkpt lat="53.5799626" lon="9.9260197"/><trkpt lat="53.580012" lon="9.9260881"/><trkpt lat="53.5800413" lon="9.9261288"/><trkpt lat="53.5800461" lon="9.9261353"/><trkpt lat="53.5801075" lon="9.9262157"/><trkpt lat="53.5803922" lon="9.9265886"/><trkpt lat="53.5806861" lon="9.9263655"/><trkpt lat="53.5802806" lon="9.9257731"/></trkseg></trk><trk><name>way/1117810569</name><desc>building:part=commercial
+operator=Autohaus Langenhorn
+shop=car_repair
+id=way/1117810569</desc><trkseg><trkpt lat="53.6621803" lon="10.0051328"/><trkpt lat="53.6620034" lon="10.0052332"/><trkpt lat="53.6620865" lon="10.0056464"/><trkpt lat="53.6622632" lon="10.0055452"/><trkpt lat="53.6622334" lon="10.0053971"/><trkpt lat="53.6621803" lon="10.0051328"/></trkseg></trk><trk><name>way/1119378280</name><desc>building=yes
+operator=Star
+shop=car_repair
+id=way/1119378280</desc><trkseg><trkpt lat="53.4785029" lon="9.887252"/><trkpt lat="53.4784403" lon="9.8872309"/><trkpt lat="53.4784265" lon="9.8872262"/><trkpt lat="53.478412" lon="9.887348"/><trkpt lat="53.4784871" lon="9.8873754"/><trkpt lat="53.4785029" lon="9.887252"/></trkseg></trk><trk><name>way/1148566300</name><desc>building:part=yes
+operator=Elan Tankstelle
+shop=car_repair
+id=way/1148566300</desc><trkseg><trkpt lat="53.4780891" lon="9.8843825"/><trkpt lat="53.4781651" lon="9.8843887"/><trkpt lat="53.4781673" lon="9.8843144"/><trkpt lat="53.4780912" lon="9.8843082"/><trkpt lat="53.4780891" lon="9.8843825"/></trkseg></trk><trk><name>Auto Company Kfz-Meisterbetrieb</name><desc>contact:email=info@autocompany-werkstatt.de
+contact:fax=+49 40 76621551
+contact:phone=+49 40 76621550
+contact:website=https://www.autocompany-werkstatt.de/
+landuse=commercial
+name=Auto Company Kfz-Meisterbetrieb
+opening_hours=Mo-Fr 09:30-19:00, Sa 09:00-14:00
+operator=A J R Import - Export e.K.
+payment:cash=yes
+payment:contactless=yes
+payment:cryptocurrencies=no
+payment:electronic_purses=no
+payment:girocard=yes
+payment:mastercard=yes
+service=repair;tyres
+shop=car_repair
+wheelchair=limited
+id=way/1167330545</desc><trkseg><trkpt lat="53.5376272" lon="10.0616798"/><trkpt lat="53.5376635" lon="10.0617114"/><trkpt lat="53.5378554" lon="10.0610173"/><trkpt lat="53.5377431" lon="10.0609264"/><trkpt lat="53.5377254" lon="10.0609121"/><trkpt lat="53.5375385" lon="10.0607608"/><trkpt lat="53.5375157" lon="10.0608407"/><trkpt lat="53.5374195" lon="10.0607629"/><trkpt lat="53.5373496" lon="10.0607002"/><trkpt lat="53.5372614" lon="10.0610288"/><trkpt lat="53.5371809" lon="10.0613043"/><trkpt lat="53.5373836" lon="10.0614798"/><trkpt lat="53.5376272" lon="10.0616798"/></trkseg></trk><trk><name>SK Autoservice</name><desc>check_date:opening_hours=2023-09-16
+name=SK Autoservice
+opening_hours:signed=no
+shop=car_repair
+wheelchair=yes
+id=way/1208290235</desc><trkseg><trkpt lat="53.5598801" lon="9.9299268"/><trkpt lat="53.5598584" lon="9.9298454"/><trkpt lat="53.5598054" lon="9.929883"/><trkpt lat="53.5598296" lon="9.9299682"/><trkpt lat="53.5598801" lon="9.9299268"/></trkseg></trk><trk><name>DRK mediservice freie Kfz-Werkstatt</name><desc>building:part=yes
+check_date:opening_hours=2023-06-24
+contact:email=werkstatt@drk-mediservice.de
+contact:phone=+49 40 507280020
+contact:website=http://www.lvhhmed.drkcms.de/angebote/werkstatt.html
+disused:shop=car
+name=DRK mediservice freie Kfz-Werkstatt
+opening_hours=Mo-Th 07:30-09:30, 09:45-13:00, 13:30-17:00, Fr 07:30-09:30, 09:45-13:00, 13:30-15:00;PH,Sa,Su off
+opening_hours:signed=no
+operator=DRK Hamburg mediservice gGmbH
+payment:cash=yes
+payment:credit_cards=no
+payment:cryptocurrencies=no
+payment:electronic_purses=no
+payment:girocard=yes
+service=repair
+shop=car_repair
+wheelchair=yes
+id=way/1208360025</desc><trkseg><trkpt lat="53.5774276" lon="10.1161552"/><trkpt lat="53.577522" lon="10.1164799"/><trkpt lat="53.5776039" lon="10.1164124"/><trkpt lat="53.5775864" lon="10.1163522"/><trkpt lat="53.5775837" lon="10.1163428"/><trkpt lat="53.5776668" lon="10.1162743"/><trkpt lat="53.5777322" lon="10.1162205"/><trkpt lat="53.577663" lon="10.1159824"/><trkpt lat="53.5775792" lon="10.1160871"/><trkpt lat="53.5775199" lon="10.1160848"/><trkpt lat="53.5774409" lon="10.1160864"/><trkpt lat="53.5774545" lon="10.1161331"/><trkpt lat="53.5774276" lon="10.1161552"/></trkseg></trk><trk><name>9Elber</name><desc>contact:email=info@9elber.de
+contact:facebook=https://www.facebook.com/9elber-109885220741038
+contact:instagram=9elber
+contact:phone=+ 49 40 6560704
+contact:website=https://www.9elber.de/
+name=9Elber
+opening_hours=Mo-Fr 08:00-17:00
+service=dealer;parts;repair;tyres
+shop=car_repair
+id=way/1211617406</desc><trkseg><trkpt lat="53.5095287" lon="10.1782915"/><trkpt lat="53.5095448" lon="10.1782521"/><trkpt lat="53.5092837" lon="10.1779761"/><trkpt lat="53.5092531" lon="10.1780513"/><trkpt lat="53.5091915" lon="10.178226"/><trkpt lat="53.5092307" lon="10.1782651"/><trkpt lat="53.5092024" lon="10.1783455"/><trkpt lat="53.5092308" lon="10.1783737"/><trkpt lat="53.5092115" lon="10.1784283"/><trkpt lat="53.509319" lon="10.1785355"/><trkpt lat="53.5093955" lon="10.1786096"/><trkpt lat="53.5095287" lon="10.1782915"/></trkseg></trk></gpx>

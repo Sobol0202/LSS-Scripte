@@ -1,0 +1,111 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="53.9214005" lon="8.5010416"><name>Freizeitcamp Neuwerk</name><desc>alt_name=Salzgitterlager
+name=Freizeitcamp Neuwerk
+operator=Stadt Salzgitter - Kommunale Kinder- und Jugendförderung
+tourism=camp_site
+website:note=neuwerkfreizeitcamp.de is on sale
+id=node/2433681184</desc></wpt><wpt lat="53.6522138" lon="10.0460484"><name>HSN e.V.</name><desc>addr:city=Hamburg
+addr:housenumber=28
+addr:postcode=22339
+addr:street=Wüsthofweg
+name=HSN e.V.
+operator=Hamburger Sport und Naturismus e.V.
+tourism=camp_site
+website=https://www.hsn-ev.de/
+id=node/4228680599</desc></wpt><trk><name>Camping Oortkaten</name><desc>backcountry=no
+capacity:caravans=1000
+caravans=yes
+email=info@camping-oortkaten.de
+group_only=no
+internet_access=no
+name=Camping Oortkaten
+opening_hours=Apr-Oct
+permanent_camping=only
+phone=+49 175 9821916
+tents=no
+tourism=camp_site
+type=multipolygon
+website=http://www.camping-oortkaten.de
+id=relation/9075174</desc><trkseg><trkpt lat="53.4399884" lon="10.1100935"/><trkpt lat="53.4400379" lon="10.1103148"/><trkpt lat="53.4400704" lon="10.1104398"/><trkpt lat="53.440162" lon="10.1105504"/><trkpt lat="53.4401887" lon="10.1105231"/><trkpt lat="53.4406383" lon="10.1113179"/><trkpt lat="53.4408339" lon="10.1116976"/><trkpt lat="53.4408082" lon="10.1117409"/><trkpt lat="53.4407719" lon="10.1117441"/><trkpt lat="53.4405696" lon="10.1118258"/><trkpt lat="53.440414" lon="10.1119476"/><trkpt lat="53.4401534" lon="10.1121896"/><trkpt lat="53.4399778" lon="10.112095"/><trkpt lat="53.4399444" lon="10.1124443"/><trkpt lat="53.4401448" lon="10.1126094"/><trkpt lat="53.4401916" lon="10.1127135"/><trkpt lat="53.4402832" lon="10.113199"/><trkpt lat="53.4403481" lon="10.1133817"/><trkpt lat="53.4404698" lon="10.1135828"/><trkpt lat="53.4405906" lon="10.1137453"/><trkpt lat="53.4407011" lon="10.1138489"/><trkpt lat="53.44074" lon="10.1136408"/><trkpt lat="53.4406383" lon="10.1135852"/><trkpt lat="53.4407433" lon="10.1130212"/><trkpt lat="53.4409189" lon="10.1131093"/><trkpt lat="53.441022" lon="10.112462"/><trkpt lat="53.4410802" lon="10.1120982"/><trkpt lat="53.4411365" lon="10.1118675"/><trkpt lat="53.4412553" lon="10.1115911"/><trkpt lat="53.4413412" lon="10.1114845"/><trkpt lat="53.4414416" lon="10.1114095"/><trkpt lat="53.441528" lon="10.1113694"/><trkpt lat="53.4416514" lon="10.111366"/><trkpt lat="53.4424975" lon="10.111366"/><trkpt lat="53.4427237" lon="10.1113499"/><trkpt lat="53.4429508" lon="10.1112923"/><trkpt lat="53.4431636" lon="10.1112185"/><trkpt lat="53.4435234" lon="10.1110823"/><trkpt lat="53.4438699" lon="10.1109301"/><trkpt lat="53.4441085" lon="10.1107891"/><trkpt lat="53.4443571" lon="10.1106177"/><trkpt lat="53.4446315" lon="10.1103669"/><trkpt lat="53.4447579" lon="10.1102515"/><trkpt lat="53.4446916" lon="10.1100985"/><trkpt lat="53.4449497" lon="10.1097716"/><trkpt lat="53.4450313" lon="10.1099551"/><trkpt lat="53.4452131" lon="10.1097668"/><trkpt lat="53.4452966" lon="10.1096523"/><trkpt lat="53.4450791" lon="10.1091804"/><trkpt lat="53.4451898" lon="10.109041"/><trkpt lat="53.4452799" lon="10.1092308"/><trkpt lat="53.4453" lon="10.1091643"/><trkpt lat="53.4454303" lon="10.1094656"/><trkpt lat="53.4456612" lon="10.1091339"/><trkpt lat="53.446136" lon="10.108541"/><trkpt lat="53.446355" lon="10.1082382"/><trkpt lat="53.4466174" lon="10.1078448"/><trkpt lat="53.4468102" lon="10.1074699"/><trkpt lat="53.4470144" lon="10.1070172"/><trkpt lat="53.4471423" lon="10.1066615"/><trkpt lat="53.4473204" lon="10.1060908"/><trkpt lat="53.4474807" lon="10.1056786"/><trkpt lat="53.4475833" lon="10.1054605"/><trkpt lat="53.4470558" lon="10.1046059"/><trkpt lat="53.4468687" lon="10.1048935"/><trkpt lat="53.4468628" lon="10.1049025"/><trkpt lat="53.4466616" lon="10.1052498"/><trkpt lat="53.4466037" lon="10.1053969"/><trkpt lat="53.4465346" lon="10.1054793"/><trkpt lat="53.446481" lon="10.1055246"/><trkpt lat="53.4463458" lon="10.1055856"/><trkpt lat="53.4462505" lon="10.1056792"/><trkpt lat="53.4456727" lon="10.1058992"/><trkpt lat="53.4449617" lon="10.1062016"/><trkpt lat="53.4446623" lon="10.1063704"/><trkpt lat="53.4443231" lon="10.1064765"/><trkpt lat="53.4440237" lon="10.1064254"/><trkpt lat="53.4439699" lon="10.1062919"/><trkpt lat="53.4438502" lon="10.1061619"/><trkpt lat="53.4436284" lon="10.106233"/><trkpt lat="53.4434436" lon="10.1065589"/><trkpt lat="53.4434039" lon="10.1067749"/><trkpt lat="53.4431395" lon="10.1070302"/><trkpt lat="53.4429992" lon="10.106881"/><trkpt lat="53.442897" lon="10.1069894"/><trkpt lat="53.4428659" lon="10.1070224"/><trkpt lat="53.4427278" lon="10.1071834"/><trkpt lat="53.4426556" lon="10.1072202"/><trkpt lat="53.4424659" lon="10.1073169"/><trkpt lat="53.4420144" lon="10.1074308"/><trkpt lat="53.4419653" lon="10.1073601"/><trkpt lat="53.4419382" lon="10.1073686"/><trkpt lat="53.4417075" lon="10.1074405"/><trkpt lat="53.4416216" lon="10.1074762"/><trkpt lat="53.44159" lon="10.1074759"/><trkpt lat="53.4415488" lon="10.1074619"/><trkpt lat="53.4415297" lon="10.1075121"/><trkpt lat="53.4415246" lon="10.1075805"/><trkpt lat="53.4415253" lon="10.107643"/><trkpt lat="53.4415259" lon="10.1077065"/><trkpt lat="53.4415395" lon="10.1077685"/><trkpt lat="53.4413295" lon="10.1080746"/><trkpt lat="53.4412805" lon="10.1080158"/><trkpt lat="53.4411591" lon="10.1081086"/><trkpt lat="53.4410547" lon="10.1083525"/><trkpt lat="53.4409947" lon="10.1084262"/><trkpt lat="53.4409575" lon="10.1086078"/><trkpt lat="53.4409546" lon="10.1087364"/><trkpt lat="53.4408724" lon="10.1088494"/><trkpt lat="53.4408172" lon="10.1087211"/><trkpt lat="53.4407808" lon="10.1088138"/><trkpt lat="53.4405521" lon="10.1090786"/><trkpt lat="53.4405778" lon="10.1091652"/><trkpt lat="53.4405398" lon="10.1091763"/><trkpt lat="53.4404934" lon="10.1091507"/><trkpt lat="53.4404667" lon="10.1091137"/><trkpt lat="53.4404096" lon="10.1092522"/><trkpt lat="53.4404327" lon="10.1094201"/><trkpt lat="53.4403764" lon="10.1095038"/><trkpt lat="53.4403345" lon="10.1094333"/><trkpt lat="53.4403012" lon="10.1094426"/><trkpt lat="53.4401754" lon="10.1096652"/><trkpt lat="53.4400994" lon="10.109716"/><trkpt lat="53.4400771" lon="10.109823"/><trkpt lat="53.4401202" lon="10.1099664"/><trkpt lat="53.4399884" lon="10.1100935"/></trkseg><trkseg><trkpt lat="53.4373892" lon="10.1149155"/><trkpt lat="53.4374207" lon="10.1150353"/><trkpt lat="53.4374942" lon="10.1152628"/><trkpt lat="53.4376212" lon="10.1154567"/><trkpt lat="53.4377882" lon="10.115609"/><trkpt lat="53.4378775" lon="10.1156957"/><trkpt lat="53.4379352" lon="10.11573"/><trkpt lat="53.4381127" lon="10.1157852"/><trkpt lat="53.4381984" lon="10.1158142"/><trkpt lat="53.4382216" lon="10.1158221"/><trkpt lat="53.4389078" lon="10.1164213"/><trkpt lat="53.4391121" lon="10.1164694"/><trkpt lat="53.439324" lon="10.1165191"/><trkpt lat="53.4394166" lon="10.1165111"/><trkpt lat="53.4394948" lon="10.1165447"/><trkpt lat="53.4395721" lon="10.1167418"/><trkpt lat="53.4396571" lon="10.116854"/><trkpt lat="53.4397096" lon="10.1169613"/><trkpt lat="53.4397439" lon="10.1169629"/><trkpt lat="53.4398337" lon="10.1169133"/><trkpt lat="53.4400417" lon="10.116769"/><trkpt lat="53.4401792" lon="10.1166296"/><trkpt lat="53.4402956" lon="10.1165415"/><trkpt lat="53.4403846" lon="10.1164882"/><trkpt lat="53.4404187" lon="10.1164678"/><trkpt lat="53.440456" lon="10.1164318"/><trkpt lat="53.4404708" lon="10.1163917"/><trkpt lat="53.4404746" lon="10.1162948"/><trkpt lat="53.4404751" lon="10.1162563"/><trkpt lat="53.4404607" lon="10.1161257"/><trkpt lat="53.4404001" lon="10.1157684"/><trkpt lat="53.4403529" lon="10.1155569"/><trkpt lat="53.4402656" lon="10.1153245"/><trkpt lat="53.4401525" lon="10.115117"/><trkpt lat="53.4400761" lon="10.1149512"/><trkpt lat="53.4399764" lon="10.1146724"/><trkpt lat="53.4399277" lon="10.1145554"/><trkpt lat="53.4399134" lon="10.1144729"/><trkpt lat="53.4398766" lon="10.1143447"/><trkpt lat="53.4398594" lon="10.1141316"/><trkpt lat="53.4398566" lon="10.1140274"/><trkpt lat="53.4398728" lon="10.11384"/><trkpt lat="53.4398699" lon="10.1137518"/><trkpt lat="53.4398337" lon="10.1134859"/><trkpt lat="53.4398241" lon="10.1133384"/><trkpt lat="53.4398098" lon="10.1130356"/><trkpt lat="53.4398203" lon="10.1126975"/><trkpt lat="53.4398308" lon="10.1125293"/><trkpt lat="53.4398581" lon="10.1122886"/><trkpt lat="53.4398163" lon="10.1119938"/><trkpt lat="53.43968" lon="10.1118526"/><trkpt lat="53.4394109" lon="10.1117239"/><trkpt lat="53.4391536" lon="10.1118175"/><trkpt lat="53.4387292" lon="10.1117395"/><trkpt lat="53.4384017" lon="10.1117279"/><trkpt lat="53.4382347" lon="10.1117465"/><trkpt lat="53.438086" lon="10.111773"/><trkpt lat="53.4378102" lon="10.1118702"/><trkpt lat="53.4376743" lon="10.1119749"/><trkpt lat="53.4374874" lon="10.1121207"/><trkpt lat="53.4373405" lon="10.1123242"/><trkpt lat="53.4373033" lon="10.1123658"/><trkpt lat="53.4372564" lon="10.1125424"/><trkpt lat="53.4372272" lon="10.1129233"/><trkpt lat="53.4372814" lon="10.1134266"/><trkpt lat="53.4373071" lon="10.1136337"/><trkpt lat="53.4373148" lon="10.1137351"/><trkpt lat="53.4373282" lon="10.1139173"/><trkpt lat="53.4373329" lon="10.1141423"/><trkpt lat="53.4373351" lon="10.114312"/><trkpt lat="53.4373324" lon="10.114545"/><trkpt lat="53.4373892" lon="10.1149155"/></trkseg></trk><trk><name>Campingplatz Schnelsen-Nord</name><desc>addr:city=Hamburg
+addr:country=DE
+addr:housenumber=2
+addr:postcode=22457
+addr:street=Wunderbrunnen
+addr:suburb=Schnelsen
+caravans=yes
+check_date=2024-05-21
+dog=yes
+fee=yes
+name=Campingplatz Schnelsen-Nord
+operator=KNAUS Campingpark Hamburg
+phone=+49 40 5594225
+tents=yes
+tourism=camp_site
+website=https://www.knauscamp.de/hamburg
+wheelchair=limited
+id=way/20929491</desc><trkseg><trkpt lat="53.6502037" lon="9.9274081"/><trkpt lat="53.6499339" lon="9.9287754"/><trkpt lat="53.6494257" lon="9.9300284"/><trkpt lat="53.6511003" lon="9.9302003"/><trkpt lat="53.6520995" lon="9.9302785"/><trkpt lat="53.6527534" lon="9.9304368"/><trkpt lat="53.6530004" lon="9.9300456"/><trkpt lat="53.6528496" lon="9.9295881"/><trkpt lat="53.6522094" lon="9.9290355"/><trkpt lat="53.6518826" lon="9.9287837"/><trkpt lat="53.6518502" lon="9.9287587"/><trkpt lat="53.6516544" lon="9.9288926"/><trkpt lat="53.6515152" lon="9.9287634"/><trkpt lat="53.6514819" lon="9.9285695"/><trkpt lat="53.6502037" lon="9.9274081"/></trkseg></trk><trk><name>Camping Buchholz</name><desc>access=customers
+caravans=yes
+drinking_water=no
+fee=yes
+internet_access=wlan
+internet_access:fee=no
+name=Camping Buchholz
+payment:cash=yes
+phone=+49 40 5404532
+power_supply=yes
+sanitary_dump_station=yes
+shower=yes
+tents=yes
+toilets=yes
+tourism=camp_site
+url=http://www.camping-buchholz.de
+wheelchair=yes
+id=way/27320541</desc><trkseg><trkpt lat="53.5901269" lon="9.9313875"/><trkpt lat="53.5899846" lon="9.931439"/><trkpt lat="53.5899851" lon="9.9315426"/><trkpt lat="53.5899079" lon="9.9315473"/><trkpt lat="53.5899582" lon="9.9326588"/><trkpt lat="53.5901631" lon="9.932594"/><trkpt lat="53.5901269" lon="9.9313875"/></trkseg></trk><trk><name>ElbeCamp</name><desc>access=customers
+addr:city=Hamburg
+addr:housenumber=101
+addr:postcode=22587
+addr:street=Falkensteiner Ufer
+caravans=yes
+drinking_water=yes
+email=info@elbecamp.de
+fee=yes
+internet_access=wlan
+internet_access:fee=yes
+name=ElbeCamp
+openfire=yes
+opening_hours=Mo-Su 08:00-12:00, 15:30-21:00
+phone=+49 40 812 949
+power_supply=yes
+sanitary_dump_station=yes
+shower=yes
+survey:date=2022-08-26
+tents=yes
+toilets=yes
+tourism=camp_site
+website=https://www.elbecamp.de/
+wheelchair=limited
+id=way/27534543</desc><trkseg><trkpt lat="53.5648605" lon="9.7644517"/><trkpt lat="53.5647551" lon="9.7643975"/><trkpt lat="53.5639549" lon="9.7642395"/><trkpt lat="53.5638483" lon="9.7642268"/><trkpt lat="53.5636884" lon="9.7650881"/><trkpt lat="53.5636349" lon="9.7654685"/><trkpt lat="53.5636795" lon="9.7667589"/><trkpt lat="53.5636795" lon="9.7667596"/><trkpt lat="53.5636794" lon="9.7667602"/><trkpt lat="53.5635925" lon="9.7676622"/><trkpt lat="53.5636173" lon="9.7685782"/><trkpt lat="53.5635817" lon="9.7689679"/><trkpt lat="53.5633262" lon="9.7712958"/><trkpt lat="53.5635171" lon="9.7714595"/><trkpt lat="53.5637353" lon="9.7716465"/><trkpt lat="53.5640536" lon="9.7704232"/><trkpt lat="53.5644355" lon="9.7685633"/><trkpt lat="53.5644553" lon="9.7684725"/><trkpt lat="53.5644603" lon="9.7681256"/><trkpt lat="53.5644719" lon="9.7680562"/><trkpt lat="53.5646571" lon="9.767282"/><trkpt lat="53.5648478" lon="9.7661684"/><trkpt lat="53.5648025" lon="9.7652344"/><trkpt lat="53.5648605" lon="9.7644517"/></trkseg></trk><trk><name>Campingplatz Haselknick</name><desc>caravans=yes
+name=Campingplatz Haselknick
+tents=yes
+tourism=camp_site
+website=http://www.haselknick.de/Camping/body_camping.html
+id=way/42774683</desc><trkseg><trkpt lat="53.6923284" lon="10.1193938"/><trkpt lat="53.6927828" lon="10.1194317"/><trkpt lat="53.6927777" lon="10.1182969"/><trkpt lat="53.6931373" lon="10.1183048"/><trkpt lat="53.6930874" lon="10.1177664"/><trkpt lat="53.6927621" lon="10.1171141"/><trkpt lat="53.6925639" lon="10.1169081"/><trkpt lat="53.6921592" lon="10.1168517"/><trkpt lat="53.6916522" lon="10.1170215"/><trkpt lat="53.6917247" lon="10.1178175"/><trkpt lat="53.6918979" lon="10.1183481"/><trkpt lat="53.691914" lon="10.1194841"/><trkpt lat="53.6923284" lon="10.1193938"/></trkseg></trk><trk><name>Zeltplatz</name><desc>caravans=no
+drinking_water=yes
+name=Zeltplatz
+operator=Das alte Fischerhaus
+power_supply=yes
+reservation=recommended
+shower=yes
+tents=yes
+toilets=yes
+tourism=camp_site
+website=https://www.wattfahrten.de/
+id=way/60957541</desc><trkseg><trkpt lat="53.9143003" lon="8.490263"/><trkpt lat="53.9142626" lon="8.4907512"/><trkpt lat="53.9147317" lon="8.4908556"/><trkpt lat="53.9147694" lon="8.4903674"/><trkpt lat="53.9143003" lon="8.490263"/></trkseg></trk><trk><name>Campingplatz</name><desc>caravans=yes
+drinking_water=yes
+name=Campingplatz
+power_supply=yes
+shower=yes
+tents=yes
+toilets=yes
+tourism=camp_site
+website=https://www.husachterndiek.de/nordsee-urlaub/uebernachten/campingplatz.php
+id=way/160291093</desc><trkseg><trkpt lat="53.9214649" lon="8.4934039"/><trkpt lat="53.9209406" lon="8.4928106"/><trkpt lat="53.9208597" lon="8.4930339"/><trkpt lat="53.9208464" lon="8.4935317"/><trkpt lat="53.9211723" lon="8.4938786"/><trkpt lat="53.9213065" lon="8.4938436"/><trkpt lat="53.9214649" lon="8.4934039"/></trkseg></trk></gpx>
