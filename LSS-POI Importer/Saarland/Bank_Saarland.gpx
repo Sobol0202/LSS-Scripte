@@ -1,0 +1,2442 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.2307466" lon="6.8965634"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/252139168</desc></wpt><wpt lat="49.4085587" lon="6.9686691"><name>Sparkasse Neunkirchen</name><desc>addr:city=Eppelborn
+addr:country=DE
+addr:housenumber=30
+addr:postcode=66571
+addr:street=Am Markt
+amenity=bank
+atm=yes
+drive_through=no
+name=Sparkasse Neunkirchen
+opening_hours=Mo,Tu,Th 09:00-12:00,14:00-17:00; We 09:00-12:00; Fr 09:00-12:00,14:00-16:00; Sa,Su,PH off
+wheelchair=yes
+id=node/259048831</desc></wpt><wpt lat="49.4229845" lon="6.844321"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse Saarlouis
+wheelchair=yes
+id=node/264551597</desc></wpt><wpt lat="49.321923" lon="7.0960232"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+wheelchair=yes
+id=node/271785607</desc></wpt><wpt lat="49.1996055" lon="7.0284619"><name>Sparkasse Saarbrücken</name><desc>amenity=bank
+brand:wikidata=Q2307655
+level=0
+name=Sparkasse Saarbrücken
+opening_hours=Mo,Th 09:00-12:00; Mo-Fr 08:00-19:00 open "Beratung mit Terminvereinbarung"; PH,Su closed
+wheelchair=yes
+id=node/276389574</desc></wpt><wpt lat="49.2002342" lon="7.028198"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+brand=meine VVB
+brand:wikidata=Q19310981
+level=0
+name=Volksbank
+opening_hours=PH,Mo-Su 05:00-23:00
+wheelchair=limited
+id=node/276390056</desc></wpt><wpt lat="49.2466494" lon="6.9526385"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+brand:wikidata=Q2307655
+contact:website=https://www.sparkasse.de/standorte/filialen/sparkasse-saarbruecken-sb-center-hubert-mueller-strasse-109067
+level=0
+name=Sparkasse
+opening_hours=Mo-Su 06:00-23:00
+strapline=Geldautomat SB-Service
+wheelchair=yes
+id=node/279078338</desc></wpt><wpt lat="49.3086179" lon="6.7427405"><name>Sparkasse</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=11
+addr:postcode=66740
+addr:street=Soutyhofstraße
+amenity=bank
+atm=yes
+drive_through=no
+name=Sparkasse
+phone=+49 6831 4420
+wheelchair=yes
+id=node/281432165</desc></wpt><wpt lat="49.2213602" lon="6.8083477"><name>Sparkasse Saarbrücken - Filiale Ludweiler</name><desc>amenity=bank
+atm=yes
+brand:wikidata=Q2307655
+contact:website=https://www.sparkasse.de/filialen/v/sparkasse-saarbruecken-filiale-ludweiler/7321.html
+name=Sparkasse Saarbrücken - Filiale Ludweiler
+id=node/283759902</desc></wpt><wpt lat="49.3158559" lon="6.7495713"><name>Bank 1 Saar</name><desc>amenity=bank
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+level=0
+name=Bank 1 Saar
+opening_hours=Mo-We,Fr 09:00-16:00; Th 09:00-17:00; PH,Sa-Su closed
+wheelchair=limited
+id=node/288159309</desc></wpt><wpt lat="49.3125004" lon="6.7544761"><name>Sparda-Bank Süd-West eG</name><desc>amenity=bank
+atm=yes
+brand:wikidata=Q2307157
+level=0
+name=Sparda-Bank Süd-West eG
+wheelchair=yes
+id=node/288169157</desc></wpt><wpt lat="49.2172051" lon="7.1596929"><name>Kreissparkasse Saarpfalz</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse Saarpfalz
+operator=Kreissparkasse Saarpfalz
+wheelchair=no
+id=node/289655529</desc></wpt><wpt lat="49.2503642" lon="6.8540158"><name>Sparkasse Saarbrücken</name><desc>amenity=bank
+atm=yes
+brand:wikidata=Q2307655
+name=Sparkasse Saarbrücken
+wheelchair=yes
+id=node/293490359</desc></wpt><wpt lat="49.2830483" lon="7.2347147"><name>Kreissparkasse Saarpfalz</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse Saarpfalz
+opening_hours=Mo,We 08:30-12:00,14:00-16:00
+wheelchair=yes
+id=node/303788230</desc></wpt><wpt lat="49.3722036" lon="6.9784449"><name>Raiffeisenbank Wiesbach eG</name><desc>amenity=bank
+atm=yes
+name=Raiffeisenbank Wiesbach eG
+wheelchair=yes
+id=node/305694596</desc></wpt><wpt lat="49.4505242" lon="6.7664468"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=no
+id=node/313150001</desc></wpt><wpt lat="49.1506464" lon="7.11475"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+id=node/352950809</desc></wpt><wpt lat="49.2388337" lon="7.018226"><name>Sparkasse</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=17
+addr:postcode=66123
+addr:street=Schwarzenbergstraße
+amenity=bank
+atm=yes
+brand=Sparkasse Saarbrücken
+brand:wikidata=Q2307655
+drive_through=no
+level=0
+name=Sparkasse
+opening_hours=Sa,Su,PH off; Tu,Th 09:00-12:00,14:00-16:00
+operator=Sparkasse Saarbrücken
+wheelchair=no
+id=node/354406395</desc></wpt><wpt lat="49.3228438" lon="7.3393856"><name>Kreissparkasse Saarpfalz - Geschäftsstelle Homburg</name><desc>amenity=bank
+contact:website=https://www.ksk-saarpfalz.de/de/home/toolbar/filialen/kreissparkasse-saarpfalz-geschaeftsstelle-homburg-7432.html
+name=Kreissparkasse Saarpfalz - Geschäftsstelle Homburg
+opening_hours=Mo-Fr 08:30-12:00,13:00-16:00
+operator:wikidata=Q1787806
+wheelchair=yes
+id=node/356379840</desc></wpt><wpt lat="49.3212099" lon="7.3380714"><name>VR Bank</name><desc>amenity=bank
+name=VR Bank
+opening_hours=Mo-We 09:00-12:00,14:00-16:00, Th,Fr 09:00-12:00, Th 14:00-17:00
+wheelchair=yes
+id=node/356388374</desc></wpt><wpt lat="49.3213589" lon="7.3383248"><name>Deutsche Bank</name><desc>amenity=bank
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+opening_hours=Mo,Tu,Th,Fr 09:00-12:30, We 09:00-14:00, Mo 14:00-16:00
+wheelchair=yes
+id=node/356388865</desc></wpt><wpt lat="49.3218248" lon="7.3390765"><name>Bank 1 Saar</name><desc>amenity=bank
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+check_date:opening_hours=2025-03-03
+name=Bank 1 Saar
+opening_hours:signed=no
+wheelchair=yes
+id=node/356391347</desc></wpt><wpt lat="49.4423861" lon="6.8525684"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+name=Kreissparkasse Saarlouis
+wheelchair=yes
+id=node/357398175</desc></wpt><wpt lat="49.3188526" lon="6.8127117"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse Saarlouis
+operator=Kreissparkasse Saarlouis
+operator:wikidata=Q18628332
+wheelchair=limited
+id=node/357488238</desc></wpt><wpt lat="49.2288587" lon="7.0126854"><name>Sparda-Bank Südwest</name><desc>amenity=bank
+atm=yes
+brand=Sparda-Bank Südwest
+brand:wikidata=Q2307136
+level=0
+name=Sparda-Bank Südwest
+opening_hours=Mo 08:30-17:15, Tu,We 08:30-16:00, Th 08:30-18:00, Fr 08:30-12:30; Sa,Su,PH closed
+surveillance=indoor
+surveillance:type=camera
+wheelchair=yes
+id=node/361507266</desc></wpt><wpt lat="49.2312889" lon="6.8958801"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+id=node/366827505</desc></wpt><wpt lat="49.2625075" lon="7.2822227"><name>Kreissparkasse Saarpfalz</name><desc>amenity=bank
+atm=no
+bic=SALADE51HOM
+name=Kreissparkasse Saarpfalz
+id=node/382920834</desc></wpt><wpt lat="49.3719787" lon="7.086676"><name>node/387809537</name><desc>amenity=bank
+atm=yes
+operator=Sparkasse Neunkirchen
+id=node/387809537</desc></wpt><wpt lat="49.3714689" lon="6.9798102"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/392388063</desc></wpt><wpt lat="49.1819114" lon="7.0389615"><name>Sparkasse</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=131a
+addr:postcode=66129
+addr:street=Saargemünder Straße
+amenity=bank
+brand=Sparkasse
+level=0
+name=Sparkasse
+opening_hours=We 09:00-12:00,14:00-16:00; Mo-Fr 08:00-19:00 open "Beratung mit Terminvereinbarung "; PH,Sa-Su closed
+operator=Sparkasse Saarbrücken
+wheelchair=yes
+id=node/402439079</desc></wpt><wpt lat="49.4150193" lon="6.656973"><name>Sparkasse Merig-Wadern (Bietzen)</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Merig-Wadern (Bietzen)
+wheelchair=limited
+id=node/416555649</desc></wpt><wpt lat="49.157044" lon="7.0349165"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+level=0
+name=Volksbank
+opening_hours=Mo-Tu,Th-Fr 09:00-12:00,14:00-16:00; We 09:00-12:00; PH,Sa-Su closed
+wheelchair=yes
+id=node/427495486</desc></wpt><wpt lat="49.3314745" lon="6.9858938"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=no
+id=node/429612072</desc></wpt><wpt lat="49.5565221" lon="6.8199441"><name>Sparkasse</name><desc>addr:city=Weiskirchen
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66709
+addr:street=Kirchenweg
+amenity=bank
+atm=yes
+name=Sparkasse
+operator=Sparkasse Merzig-Wadern
+wheelchair=yes
+id=node/431215356</desc></wpt><wpt lat="49.197352" lon="7.1402545"><name>VR-Bank-Saarpfalz eG</name><desc>amenity=bank
+atm=yes
+name=VR-Bank-Saarpfalz eG
+operator=VR-Bank-Saarpfalz eG
+wheelchair=yes
+id=node/441536626</desc></wpt><wpt lat="49.3358379" lon="6.9304163"><name>Bank1Saar</name><desc>amenity=bank
+atm=yes
+name=Bank1Saar
+opening_hours=Mo-Fr 08:30-12:30, 14:00-16:30
+operator=Bank 1 Saar eg
+wheelchair=yes
+id=node/455212980</desc></wpt><wpt lat="49.3338955" lon="6.9309806"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+opening_hours=Mo-Fr 08:15-12:30, 14:00-16:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/455213056</desc></wpt><wpt lat="49.2209715" lon="7.0674285"><name>VVB</name><desc>amenity=bank
+name=VVB
+id=node/485792908</desc></wpt><wpt lat="49.2618545" lon="6.917292"><name>Sparkasse Saarbrücken</name><desc>amenity=bank
+atm=yes
+level=0
+name=Sparkasse Saarbrücken
+opening_hours=Th 09:00-12:00,14:00-16:00; Mo-Fr 09:00-19:00 open "Beratung mit Terminvereinbarung "; PH,Sa-Su closed
+operator=Sparkasse Saarbrücken
+wheelchair=yes
+id=node/534149996</desc></wpt><wpt lat="49.2617622" lon="6.9167505"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+brand:wikidata=Q19310981
+contact:website=https://www.meine-vvb.de/meine-vvb/filialen-ansprechpartner/filialen/uebersicht-filialen1/altenkessel.html
+name=Volksbank
+wheelchair=yes
+id=node/534162104</desc></wpt><wpt lat="49.2778577" lon="7.1118313"><name>Postbank</name><desc>amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+opening_hours="Mo-Fr 9:00-12:30, 14:00-18:00; Sa 9:00-12:00"
+operator=Deutsche Postbank
+wheelchair=limited
+id=node/559965902</desc></wpt><wpt lat="49.2642207" lon="7.1028777"><name>Bank 1 Saar</name><desc>amenity=bank
+atm=yes
+name=Bank 1 Saar
+old_name=Saar Bank
+opening_hours=00:00-00:01
+toilets:wheelchair=no
+wheelchair=no
+id=node/560414214</desc></wpt><wpt lat="49.4675535" lon="7.1693717"><name>Sparda-Bank Südwest</name><desc>amenity=bank
+atm=yes
+brand=Sparda-Bank Südwest
+brand:wikidata=Q2307136
+name=Sparda-Bank Südwest
+operator=Sparda-Bank
+wheelchair=yes
+id=node/560662671</desc></wpt><wpt lat="49.3013605" lon="7.368912"><name>Kreissparkasse</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse
+wheelchair=yes
+id=node/560901001</desc></wpt><wpt lat="49.3010181" lon="7.3694061"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+wheelchair=no
+id=node/560901423</desc></wpt><wpt lat="49.3571566" lon="7.0976986"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+bic=SALADE51NKS
+name=Sparkasse
+opening_hours=Mo-Fr 09:00-12:00; Mo,Tu,We,Fr 14:00-16:00; Th 14:00-18:00
+operator=Sparkasse Neunkirchen, Saar
+wheelchair=yes
+id=node/569968569</desc></wpt><wpt lat="49.2698762" lon="7.3189012"><name>Kreissparkasse Saarpfalz Geschäftsstelle Einöd</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=86
+addr:postcode=66424
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+name=Kreissparkasse Saarpfalz Geschäftsstelle Einöd
+operator=Kreissparkasse Saarpfalz
+wheelchair=yes
+id=node/609197966</desc></wpt><wpt lat="49.4904381" lon="6.8364519"><name>Sparkasse Merzig-Wadern, Filiale Nunkirchen</name><desc>amenity=bank
+contact:website=https://www.sparkasse.de/standorte/filialen/sparkasse-merzig-wadern-filiale-nunkirchen-35737
+name=Sparkasse Merzig-Wadern, Filiale Nunkirchen
+operator=Sparkasse Merzig-Wadern
+operator:wikidata=Q18630932
+wheelchair=yes
+id=node/612593147</desc></wpt><wpt lat="49.5102772" lon="7.088814"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+operator=Kreissparkasse St. Wendel
+id=node/659608126</desc></wpt><wpt lat="49.5101776" lon="7.0892988"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+operator=St. Wendeler Volksbank
+id=node/659608127</desc></wpt><wpt lat="49.3227189" lon="7.2168241"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+branch=Geschäftsstelle Furpach
+brand=Sparkasse Neunkirchen
+drive_through=no
+email=service@spk-neunkirchen.de
+name=Sparkasse
+opening_hours=Mo-Fr 9:00-12:00
+opening_hours:url=https://www.sparkasse-neunkirchen.de/de/home/service/filiale-finden.html#/details/7374
+operator=Sparkasse Neunkirchen
+phone=+49 6821 208-1
+wheelchair=yes
+id=node/667251951</desc></wpt><wpt lat="49.2412436" lon="6.7809215"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/667448451</desc></wpt><wpt lat="49.2291853" lon="7.0103043"><name>Postbank</name><desc>amenity=bank
+atm=no
+brand=Postbank
+brand:wikidata=Q708835
+brand:wikipedia=en:Deutsche Postbank
+name=Postbank
+opening_hours=Mo-Fr 08:00-18:00, Sa 08:00-12:00
+surveillance=indoor
+surveillance:type=camera
+surveillance:zone=shop
+id=node/667519284</desc></wpt><wpt lat="49.2372823" lon="6.9947987"><name>Bank1Saar</name><desc>amenity=bank
+atm=yes
+brand=Bank1Saar
+brand:wikidata=Q806608
+name=Bank1Saar
+opening_hours=Mo-We,Fr 09:00-16:00; Th 09:00-18:00
+id=node/667757012</desc></wpt><wpt lat="49.2377206" lon="6.9949618"><name>Santander</name><desc>addr:city=Saarbrücken
+addr:housenumber=16-18
+addr:postcode=66111
+addr:street=Sulzbachstraße
+amenity=bank
+atm=yes
+brand=Santander
+brand:wikidata=Q5835668
+brand:wikipedia=en:Santander Bank
+check_date:opening_hours=2023-08-23
+level=0
+name=Santander
+opening_hours=Mo-Th 09:00-13:00, Mo,Tu,Th 14:00-19:00, We 14:00-16:00; PH,Sa,Su off, Fr 09:00-14:00
+website=https://www.santander.de/
+wheelchair=yes
+id=node/667757013</desc></wpt><wpt lat="49.4248197" lon="6.8451863"><name>Volksbank Untere Saar eG</name><desc>amenity=bank
+atm=yes
+name=Volksbank Untere Saar eG
+id=node/731259114</desc></wpt><wpt lat="49.325756" lon="7.0533993"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+wheelchair=limited
+id=node/733745155</desc></wpt><wpt lat="49.2406543" lon="6.9888934"><name>Postbank Finanzcenter</name><desc>amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+brand:wikipedia=en:Deutsche Postbank
+check_date=2024-01-25
+check_date:opening_hours=2022-05-29
+name=Postbank Finanzcenter
+opening_hours=Mo-Fr 09:00-18:15; Sa 09:00-13:00; Su,PH off
+operator=Postbank
+surveillance=indoor
+surveillance:type=camera
+wheelchair=yes
+id=node/804815900</desc></wpt><wpt lat="49.2431357" lon="6.7006031"><name>Volksbank</name><desc>amenity=bank
+name=Volksbank
+wheelchair=yes
+id=node/846322813</desc></wpt><wpt lat="49.2441084" lon="6.6982051"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+atm=yes
+drive_through=no
+name=Kreissparkasse Saarlouis
+wikidata=Q18628332
+id=node/846322818</desc></wpt><wpt lat="49.4683009" lon="7.1722571"><name>Postbank</name><desc>amenity=bank
+atm=no
+brand=Postbank
+brand:wikidata=Q708835
+brand:wikipedia=en:Deutsche Postbank
+name=Postbank
+id=node/857191410</desc></wpt><wpt lat="49.4431866" lon="6.8512413"><name>Bank 1 Saar</name><desc>addr:city=Schmelz
+addr:country=DE
+addr:housenumber=23
+addr:postcode=66839
+addr:street=Trierer Straße
+amenity=bank
+atm=yes
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+email=filiale.schmelz@bank1saar.de
+fax=+496887300492370
+name=Bank 1 Saar
+phone=+496887300490
+website=https://www.bank1saar.de/service/unsere-filialen/filiale-schmelz.html
+wheelchair=yes
+id=node/885964847</desc></wpt><wpt lat="49.442473" lon="6.8537915"><name>Volksbank Untere Saar eG</name><desc>addr:city=Schmelz
+addr:country=DE
+addr:housenumber=2a
+addr:postcode=66839
+addr:street=Trierer Straße
+amenity=bank
+name=Volksbank Untere Saar eG
+wheelchair=yes
+id=node/885964867</desc></wpt><wpt lat="49.4131538" lon="6.7242965"><name>Sparkasse Merzig-Wadern</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Merzig-Wadern
+wheelchair=yes
+id=node/908921660</desc></wpt><wpt lat="49.219909" lon="6.8054162"><name>Volksbank Saarlouis</name><desc>amenity=bank
+atm=yes
+name=Volksbank Saarlouis
+operator=Volksbank Saarlouis
+toilets:wheelchair=no
+wheelchair=limited
+id=node/940801048</desc></wpt><wpt lat="49.2391996" lon="6.992921"><name>SaarLB – Landesbank Saar</name><desc>amenity=bank
+atm=yes
+brand=SaarLB
+brand:wikidata=Q1802114
+check_date:opening_hours=2023-11-15
+name=SaarLB – Landesbank Saar
+opening_hours=Mo-Fr 08:30-12:30
+opening_hours:signed=no
+wheelchair=limited
+wikidata=Q1802114
+id=node/970189951</desc></wpt><wpt lat="49.4669694" lon="7.1669065"><name>Bank 1 Saar</name><desc>amenity=bank
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+name=Bank 1 Saar
+wheelchair=limited
+id=node/983522516</desc></wpt><wpt lat="49.1984498" lon="7.0660972"><name>Sparkasse</name><desc>amenity=bank
+atm=no
+level=0
+name=Sparkasse
+opening_hours=Mo,Tu 09:00-12:30; Th 14:00-17:00; Fr 14:00-16:00
+operator=Sparkasse Saarbrücken
+wheelchair=yes
+id=node/984831288</desc></wpt><wpt lat="49.2258681" lon="7.0478493"><name>Sparkasse</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=47a
+addr:postcode=66121
+addr:street=Kaiserstraße
+amenity=bank
+atm=yes
+brand=Sparkasse Saarbrücken
+brand:wikidata=Q2307655
+level=0
+name=Sparkasse
+network=Sparkassenverbund
+opening_hours=Mo-Tu 09:00-12:30; Th 14:00-17:00; Fr 14:00-16:00; PH,We,Sa-Su closed
+operator=Sparkasse Saarbrücken
+wheelchair=no
+id=node/1124530698</desc></wpt><wpt lat="49.5710216" lon="6.9687171"><name>Sparkasse Kastel</name><desc>amenity=bank
+name=Sparkasse Kastel
+wheelchair=no
+id=node/1143482641</desc></wpt><wpt lat="49.245383" lon="7.2043702"><name>Volksbank</name><desc>addr:city=Blieskastel
+addr:country=DE
+addr:housenumber=26a
+addr:postcode=66440
+addr:street=Kirkeler Straße
+amenity=bank
+name=Volksbank
+wheelchair=yes
+id=node/1148772402</desc></wpt><wpt lat="49.5256496" lon="7.2621888"><name>Kreissparkasse St.Wendel</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse St.Wendel
+wheelchair=yes
+id=node/1212306644</desc></wpt><wpt lat="49.3534621" lon="6.7297575"><name>Vereinigte Volksbank eG</name><desc>amenity=bank
+name=Vereinigte Volksbank eG
+id=node/1262486137</desc></wpt><wpt lat="49.2373407" lon="6.9941704"><name>Bank1Saar</name><desc>addr:city=Saarbrücken
+addr:housenumber=20
+addr:postcode=66111
+addr:street=Kaiserstraße
+amenity=bank
+atm=yes
+brand=Bank1Saar
+brand:wikidata=Q806608
+contact:phone=+49 681 30040
+contact:website=https://www.bank1saar.de
+name=Bank1Saar
+opening_hours=Mo-We,Fr 09:00-16:00; Th 09:00-18:00
+opening_hours:atm=05:00-00:00
+wheelchair=yes
+id=node/1270079974</desc></wpt><wpt lat="49.4037413" lon="7.0815676"><name>Sparkasse Neunkirchen</name><desc>amenity=bank
+brand:wikidata=Q18630944
+name=Sparkasse Neunkirchen
+id=node/1288900143</desc></wpt><wpt lat="49.3157612" lon="6.7516266"><name>Kreissparkasse Saarlouis</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=8
+addr:postcode=66740
+addr:street=Großer Markt
+air_conditioning=yes
+amenity=bank
+atm=yes
+brand:wikidata=Q18628332
+name=Kreissparkasse Saarlouis
+operator=Kreissparkasse Saarlouis
+wheelchair=yes
+id=node/1293250431</desc></wpt><wpt lat="49.2925651" lon="6.8382938"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse Saarlouis
+wheelchair=yes
+id=node/1303519791</desc></wpt><wpt lat="49.2167312" lon="7.1880646"><name>Kreissparkasse Saarpfalz - Geschäftsstelle Aßweiler</name><desc>addr:city=Blieskastel
+addr:country=DE
+addr:housenumber=49
+addr:postcode=66440
+addr:street=Saar-Pfalz-Straße
+amenity=bank
+atm=yes
+drive_through=no
+name=Kreissparkasse Saarpfalz - Geschäftsstelle Aßweiler
+operator=Kreissparkasse Saarpfalz
+operator:wikidata=Q1787806
+id=node/1303956841</desc></wpt><wpt lat="49.2156348" lon="7.186038"><name>VR Bank</name><desc>addr:city=Blieskastel
+addr:country=DE
+addr:housenumber=28
+addr:postcode=66440
+addr:street=Saar-Pfalz-Straße
+amenity=bank
+atm=yes
+description=Öffnungszeiten: 8.15-12.0014.00-16.45
+name=VR Bank
+id=node/1303956850</desc></wpt><wpt lat="49.3774264" lon="6.6818883"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+wheelchair=yes
+id=node/1325733667</desc></wpt><wpt lat="49.248436" lon="6.8227246"><name>Stadtsparkasse Völklingen</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housename=ServiceCenter Wehrden
+addr:housenumber=158
+addr:postcode=66333
+addr:street=Schaffhauser Straße
+amenity=bank
+atm=yes
+name=Stadtsparkasse Völklingen
+wheelchair=yes
+id=node/1334392155</desc></wpt><wpt lat="49.276297" lon="7.0356078"><name>Sparkasse</name><desc>addr:city=Saarbrücken
+addr:housenumber=243
+addr:postcode=66125
+addr:street=Saarbrücker Straße
+amenity=bank
+atm=yes
+brand=Sparkasse Saarbrücken
+brand:wikidata=Q2307655
+contact:website=https://www.sparkasse.de/standorte/filialen/sparkasse-saarbruecken-filiale-dudweiler-7311
+drive_through=no
+level=0
+name=Sparkasse
+network=Sparkasse
+network:wikidata=Q2307760
+opening_hours=Mo-Th 09:00-12:30,14:00-17:00; Fr 09:00-12:30,14:00-16:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/1358004688</desc></wpt><wpt lat="49.4650518" lon="7.1611816"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/1377609027</desc></wpt><wpt lat="49.3472291" lon="7.1768092"><name>Bank 1 Saar</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=9
+addr:postcode=66538
+addr:street=Unterer Markt
+amenity=bank
+atm=yes
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+name=Bank 1 Saar
+wheelchair=yes
+id=node/1429723195</desc></wpt><wpt lat="49.3481885" lon="7.1762304"><name>Sparkasse Neunkirchen</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housename=Hauptgeschäftsstelle
+addr:housenumber=5
+addr:postcode=66538
+addr:street=Hammergraben
+amenity=bank
+atm=yes
+name=Sparkasse Neunkirchen
+wheelchair=yes
+id=node/1429723197</desc></wpt><wpt lat="49.1954817" lon="7.1825082"><name>Volksbank Saarpfalz eG</name><desc>addr:city=Mandelbachtal
+addr:country=DE
+addr:housenumber=67
+addr:postcode=66399
+addr:street=Rubenheimer Straße
+amenity=bank
+atm=no
+name=Volksbank Saarpfalz eG
+id=node/1454201039</desc></wpt><wpt lat="49.2328416" lon="7.0440119"><name>Sparkasse Saarbrücken - Geschäftsstelle Eschberg</name><desc>amenity=bank
+atm=yes
+description=Geldautomat, Einzahlautomaten, Kontoauszugdrucker, SB-Terminal, Kundenparkplatz, Rollstuhlgerecht, Lademöglichkeit, Geldkarte/Prepaid Handy, Kundentresor
+level=0
+name=Sparkasse Saarbrücken - Geschäftsstelle Eschberg
+opening_hours=Tu,Fr 09:00-12:00; PH,Mo,We-Th,Sa-Su closed
+opening_hours:self_service=06:00-23:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+phone=+49 681 841270
+source=https://www.sparkasse-saarbruecken.de/module/ihre_sparkasse/filialfinder/index.php?n=%2Fmodule%2Fihre_sparkasse%2Ffilialfinder%2F#module.0.kontakt_filiale_query#
+website=https://www.sparkasse-saarbruecken.de/
+wheelchair=yes
+wikidata=Q2307655
+wikipedia=de:Sparkasse Saarbrücken
+id=node/1488862386</desc></wpt><wpt lat="49.2422258" lon="6.7778007"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+id=node/1492189787</desc></wpt><wpt lat="49.206157" lon="6.8409341"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/1526594574</desc></wpt><wpt lat="49.3719206" lon="7.1860256"><name>Sparkasse Neunkirchen</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Neunkirchen
+website=https://www.sparkasse-neunkirchen.de/
+wheelchair=yes
+id=node/1579753343</desc></wpt><wpt lat="49.3506556" lon="7.1748411"><name>Sparda-Bank</name><desc>addr:city=Neunkirchen
+addr:housenumber=34
+addr:postcode=66538
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+brand=Sparda-Bank Südwest
+brand:wikidata=Q2307157
+level=0
+name=Sparda-Bank
+opening_hours=Mo-Th 09:00-12:30, Mo,Tu,Th 13:30-17:00; Fr off
+operator=Sparda-Bank Südwest eG
+operator:wikidata=Q2307157
+id=node/1588295241</desc></wpt><wpt lat="49.506789" lon="6.5247122"><name>Volksbank Untere Saar, Filiale Orscholz</name><desc>amenity=bank
+atm=yes
+name=Volksbank Untere Saar, Filiale Orscholz
+operator=Volksbank Untere Saar
+wheelchair=yes
+id=node/1603472498</desc></wpt><wpt lat="49.2672706" lon="6.7967179"><name>Volksbank Saar West</name><desc>amenity=bank
+name=Volksbank Saar West
+wheelchair=no
+id=node/1607639268</desc></wpt><wpt lat="49.2670276" lon="6.7998207"><name>KSK Saarlouis</name><desc>amenity=bank
+brand:wikidata=Q18628332
+name=KSK Saarlouis
+wheelchair=yes
+id=node/1607639325</desc></wpt><wpt lat="49.3553193" lon="7.1293811"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+operator=Sparkasse Neunkirchen, Saar
+wheelchair=yes
+id=node/1612195019</desc></wpt><wpt lat="49.3031301" lon="6.9448103"><name>Postbank</name><desc>amenity=bank
+name=Postbank
+id=node/1657886268</desc></wpt><wpt lat="49.3012787" lon="6.9434753"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+opening_hours=Mo,We,Fr 09:00-12:00,14:00-16:00
+operator=Sparkasse Saarbrücken
+id=node/1657886270</desc></wpt><wpt lat="49.5211373" lon="7.1406941"><name>Kreissparkasse St.Wendel</name><desc>amenity=bank
+name=Kreissparkasse St.Wendel
+id=node/1672523668</desc></wpt><wpt lat="49.3132156" lon="6.75239"><name>Targobank</name><desc>amenity=bank
+brand:wikidata=Q1455437
+name=Targobank
+wheelchair=limited
+id=node/1674860609</desc></wpt><wpt lat="49.314948" lon="6.7511373"><name>meineVVB</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=15
+addr:postcode=66740
+addr:street=Großer Markt
+amenity=bank
+brand:wikidata=Q19310981
+level=0
+name=meineVVB
+opening_hours=Mo-Fr 09:00-16:00
+wheelchair=yes
+id=node/1674860610</desc></wpt><wpt lat="49.3475876" lon="7.2577289"><name>Volksbank Saarpfalz</name><desc>amenity=bank
+name=Volksbank Saarpfalz
+opening_hours=Mo-Fr 09:00-12:00, Mo 14:00-16:00, Th 14:00-17:00
+wheelchair=yes
+id=node/1707705786</desc></wpt><wpt lat="49.3639458" lon="7.2606009"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+id=node/1708719140</desc></wpt><wpt lat="49.2642073" lon="7.1614962"><name>Kreissparkasse Saarpfalz</name><desc>amenity=bank
+brand:wikidata=Q1787806
+name=Kreissparkasse Saarpfalz
+wheelchair=limited
+id=node/1720845319</desc></wpt><wpt lat="49.3543054" lon="6.727025"><name>Bank 1 Saar</name><desc>amenity=bank
+name=Bank 1 Saar
+toilets:wheelchair=no
+wheelchair=yes
+id=node/1737608029</desc></wpt><wpt lat="49.4745279" lon="7.1018181"><name>node/1762366318</name><desc>amenity=bank
+atm=yes
+operator=Bank1Saar
+id=node/1762366318</desc></wpt><wpt lat="49.3929853" lon="6.7001789"><name>Volksbank Beckingen</name><desc>amenity=bank
+name=Volksbank Beckingen
+wheelchair=yes
+id=node/1766461130</desc></wpt><wpt lat="49.3788707" lon="6.789163"><name>Volksbank</name><desc>amenity=bank
+name=Volksbank
+id=node/1787475519</desc></wpt><wpt lat="49.3152003" lon="6.7515493"><name>HypoVereinsbank</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=13
+addr:postcode=66740
+addr:street=Großer Markt
+amenity=bank
+level=0
+name=HypoVereinsbank
+website=http://www.hvb.de
+wheelchair=yes
+id=node/1793012988</desc></wpt><wpt lat="49.3179822" lon="6.9406103"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+wheelchair=yes
+id=node/1799932454</desc></wpt><wpt lat="49.3792681" lon="6.7886756"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.ksk-saarlouis.de/de/home/toolbar/filialen/kreissparkasse-saarlouis-filiale-nalbach-7202.html
+name=Kreissparkasse Saarlouis
+operator=Kreissparkasse Saarlouis
+operator:wikidata=Q18628332
+id=node/1800417394</desc></wpt><wpt lat="49.3149796" lon="6.749975"><name>Postbank</name><desc>amenity=bank
+name=Postbank
+wheelchair=yes
+id=node/1827605417</desc></wpt><wpt lat="49.2367143" lon="7.259342"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+wheelchair=yes
+id=node/1830248139</desc></wpt><wpt lat="49.3121984" lon="6.7529633"><name>Vereinigte Volksbank eG Saarlouis - Sulzbach/Saar</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=7-13
+addr:postcode=66740
+addr:street=Kaiser-Friedrich-Ring
+amenity=bank
+brand:wikidata=Q19310981
+drive_through=no
+name=Vereinigte Volksbank eG Saarlouis - Sulzbach/Saar
+operator=Vereinigte Volksbank eG Saarlouis - Sulzbach/Saar
+website=https://www.meine-vvb.de
+wikidata=Q19310981
+id=node/1836231240</desc></wpt><wpt lat="49.3538097" lon="6.7271899"><name>SB-Center der Sparda-Bank Südwest eG</name><desc>addr:city=Dillingen/Saar
+addr:country=DE
+addr:housenumber=14
+addr:postcode=66763
+addr:street=Nachtweidstraße
+amenity=bank
+cash_in=yes
+drive_through=no
+name=SB-Center der Sparda-Bank Südwest eG
+operator=Sparda-Bank Südwest eG
+toilets:wheelchair=no
+wheelchair=yes
+wheelchair:description=Öffentliche Behindertentoiletten mit Euro-Schlüssel befinden sich ca. 160m Hüttenwerkstraße 42 im Haus der Energie
+id=node/1859281800</desc></wpt><wpt lat="49.3477775" lon="7.1737556"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+level=0
+name=Sparkasse
+wheelchair=yes
+wheelchair:description=geld automaten sind relativ hoch
+id=node/1864584689</desc></wpt><wpt lat="49.3469113" lon="7.1748543"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+opening_hours=Mo,Tu,Fr 09:30-12:30, We 09:30-14:00, Mo,Tu,Fr 14:00-16:00, Th 14:00-17:00
+id=node/1864624303</desc></wpt><wpt lat="49.3481552" lon="7.1752987"><name>Targobank</name><desc>amenity=bank
+brand=Targobank
+brand:wikidata=Q1455437
+brand:wikipedia=en:Targobank
+level=0
+name=Targobank
+id=node/1864820847</desc></wpt><wpt lat="49.4428652" lon="6.6362115"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+name=Deutsche Bank
+opening_hours=Mo-We,Fr 09:00-12:30; Th 09:00-12:30,14:00-17:00
+id=node/1865810572</desc></wpt><wpt lat="49.3524893" lon="6.7290738"><name>Deutsche Bank</name><desc>amenity=bank
+atm=yes
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+wheelchair=yes
+id=node/1865824390</desc></wpt><wpt lat="49.1756019" lon="6.8106169"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+delivery:covid19=no
+name=Sparkasse
+opening_hours=Mo-Su,PH 00:00-00:00
+takeaway:covid19=no
+wheelchair=limited
+id=node/1954961964</desc></wpt><wpt lat="49.242192" lon="6.9464758"><name>Bank1Saar</name><desc>amenity=bank
+atm=yes
+level=0
+name=Bank1Saar
+operator=Bank1Saar
+wheelchair=yes
+id=node/1997780414</desc></wpt><wpt lat="49.4551865" lon="7.1508136"><name>St.Wendeler Volksbank</name><desc>amenity=bank
+atm=yes
+name=St.Wendeler Volksbank
+id=node/2054451521</desc></wpt><wpt lat="49.4039597" lon="7.1615157"><name>Bank1Saar</name><desc>amenity=bank
+atm=yes
+brand:wikidata=Q806608
+name=Bank1Saar
+opening_hours=Mo,Fr 09:00-12:00, 14:00-16:00; We 09:00-12:00
+opening_hours:atm=05:00-24:00
+wheelchair=yes
+id=node/2090943578</desc></wpt><wpt lat="49.4027651" lon="7.1612836"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+level=0
+name=Postbank
+opening_hours=Mo-Fr 09:00-13:00,14:00-18:00; Sa 08:30-12:30
+wheelchair=no
+id=node/2090964130</desc></wpt><wpt lat="49.4990927" lon="7.0228842"><name>Volksbank Nahe-Schaumberg</name><desc>amenity=bank
+atm=yes
+name=Volksbank Nahe-Schaumberg
+wheelchair=yes
+id=node/2102158053</desc></wpt><wpt lat="49.298817" lon="7.060244"><name>Vereinigte Volksbank eG</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.meine-vvb.de/meine-vvb/filialen-ansprechpartner/filialen/uebersicht-filialen1/sulzbach.html
+name=Vereinigte Volksbank eG
+operator:wikidata=Q19310981
+id=node/2131236841</desc></wpt><wpt lat="49.2990881" lon="7.0604028"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+brand=Sparkasse Saarbrücken
+brand:wikidata=Q2307655
+contact:website=https://www.sparkasse.de/standorte/filialen/sparkasse-saarbruecken-filiale-sulzbach-7317
+name=Sparkasse
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/2131238343</desc></wpt><wpt lat="49.3482277" lon="7.1788293"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+wheelchair=yes
+id=node/2132953302</desc></wpt><wpt lat="49.3724362" lon="7.1851029"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+wheelchair=yes
+id=node/2142887903</desc></wpt><wpt lat="49.2381642" lon="6.9908029"><name>Sparkasse SB-Center</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=103
+addr:postcode=66111
+addr:street=Bahnhofstraße
+addr:suburb=St. Johann
+amenity=bank
+atm=yes
+brand=Sparkasse
+brand:wikidata=Q2307655
+level=0
+name=Sparkasse SB-Center
+old_name=Barbarossa
+opening_hours=PH,Mo-Su 05:00-23:00
+wheelchair=yes
+id=node/2145619335</desc></wpt><wpt lat="49.2391645" lon="6.9910902"><name>meine VVB</name><desc>addr:city=Saarbrücken
+addr:housenumber=10
+addr:postcode=66111
+addr:street=Reichsstraße
+amenity=bank
+atm=yes
+brand=Vereinigte Volksbank eG Saarlouis - Losheim am See - Sulzbach/Saar
+brand:wikidata=Q19310981
+level=0
+name=meine VVB
+opening_hours=Mo-Fr 09:00-18:00; PH,Sa-Su closed
+opening_hours:atm=05:00-23:00
+surveillance=indoor
+website=https://meine-vvb.de
+wheelchair=yes
+id=node/2174683763</desc></wpt><wpt lat="49.489719" lon="6.9782989"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+operator=KSK Saarlouis
+id=node/2192685110</desc></wpt><wpt lat="49.165619" lon="7.0892964"><name>Sparkasse</name><desc>addr:city=Kleinblittersdorf
+addr:housenumber=7
+addr:postcode=66271
+addr:street=Eschringer Straße
+amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/geldautomaten/k/sparkasse-saarbruecken-geldautomat-bliesransbach/109462.html
+drive_through=no
+name=Sparkasse
+opening_hours=Mo-Su 06:00-23:00
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/2225325233</desc></wpt><wpt lat="49.3712992" lon="7.1827962"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+wheelchair=no
+id=node/2234647575</desc></wpt><wpt lat="49.2385419" lon="6.9934307"><name>Deutsche Bank</name><desc>amenity=bank
+brand=Deutsche Bank
+brand:wikidata=Q66048
+brand:wikipedia=en:Deutsche Bank
+name=Deutsche Bank
+opening_hours=Mo-We,Fr 09:00-12:30,14:00-16:00; Th 09:00-12:30,14:00-18:00; PH,Sa-Su closed
+surveillance=indoor
+surveillance:type=camera
+id=node/2239099960</desc></wpt><wpt lat="49.2382318" lon="6.9937667"><name>HypoVereinsbank</name><desc>addr:housenumber=27
+addr:street=Kaiserstraße
+amenity=bank
+brand=HypoVereinsbank
+brand:wikidata=Q220189
+brand:wikipedia=en:HypoVereinsbank
+name=HypoVereinsbank
+opening_hours=Mo,Th 10:00-12:00,15:00-17:00; Tu 10:00-12:00; PH,We,Fr-Su closed
+surveillance=indoor
+surveillance:type=camera
+wheelchair=yes
+id=node/2239099972</desc></wpt><wpt lat="49.4427054" lon="6.6377592"><name>Bank 1</name><desc>addr:city=Merzig
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66663
+addr:street=Friedrichstraße
+amenity=bank
+name=Bank 1
+wheelchair=yes
+id=node/2355856642</desc></wpt><wpt lat="49.4756578" lon="6.6048966"><name>Volksbank</name><desc>amenity=bank
+name=Volksbank
+id=node/2381628749</desc></wpt><wpt lat="49.3480537" lon="7.2560218"><name>Sparkasse Bexbach</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Bexbach
+source=local knowledge
+wheelchair=yes
+id=node/2403586577</desc></wpt><wpt lat="49.3640314" lon="7.2599761"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+toilets:wheelchair=no
+wheelchair=limited
+id=node/2404754591</desc></wpt><wpt lat="49.4737579" lon="6.3888526"><name>Kreissparkasse</name><desc>amenity=bank
+atm=yes
+brand=Sparkasse
+name=Kreissparkasse
+id=node/2418973688</desc></wpt><wpt lat="49.4735965" lon="6.3865527"><name>Bank 1 Saar</name><desc>amenity=bank
+atm=yes
+name=Bank 1 Saar
+id=node/2420502842</desc></wpt><wpt lat="49.5344677" lon="6.9757464"><name>node/2430016990</name><desc>amenity=bank
+atm=yes
+id=node/2430016990</desc></wpt><wpt lat="49.3700281" lon="7.1307637"><name>Sparkassen Filiale Schiffweiler</name><desc>amenity=bank
+atm=yes
+name=Sparkassen Filiale Schiffweiler
+id=node/2431078775</desc></wpt><wpt lat="49.3462681" lon="7.2197198"><name>Postbank</name><desc>amenity=bank
+atm=no
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+id=node/2441346115</desc></wpt><wpt lat="49.3484201" lon="7.2239594"><name>Sparkasse Neunkirchen</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Neunkirchen
+id=node/2488502389</desc></wpt><wpt lat="49.3740585" lon="7.0815336"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+id=node/2490213375</desc></wpt><wpt lat="49.3569455" lon="7.0562501"><name>Bank 1 Saar</name><desc>amenity=bank
+atm=yes
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+name=Bank 1 Saar
+id=node/2504244258</desc></wpt><wpt lat="49.4984725" lon="7.0221221"><name>Kreissparkasse St.Wendel</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse St.Wendel
+id=node/2521485104</desc></wpt><wpt lat="49.3151781" lon="7.1515897"><name>Volksbank</name><desc>amenity=bank
+name=Volksbank
+id=node/2576986389</desc></wpt><wpt lat="49.3898481" lon="6.9239371"><name>Kreissparkasse</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse
+id=node/2612879364</desc></wpt><wpt lat="49.2393169" lon="6.9936739"><name>LBS Landesbausparkasse Saar</name><desc>addr:city=Saarbrücken
+addr:housenumber=35-39
+addr:postcode=66111
+addr:street=Beethovenstraße
+amenity=bank
+name=LBS Landesbausparkasse Saar
+opening_hours=Mo-Th 08:30-12:30,13:30-16:30; Fr 08:30-12:30
+id=node/2613649773</desc></wpt><wpt lat="49.2348112" lon="6.9947075"><name>Targobank</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=36
+addr:postcode=66111
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+bic=CMCIDEDDXXX
+brand=Targobank
+brand:wikidata=Q1455437
+brand:wikipedia=en:Targobank
+check_date:opening_hours=2025-01-03
+contact:fax=+49 681 37996544
+contact:phone=+49 681 3799670
+contact:website=https://www.targobank.de/de/service/suchen-und-finden/Details.aspx?banque=02236&amp;guichet=20143&amp;bureau=00&amp;pva=000&amp;type=branch&amp;loca=66111
+name=Targobank
+opening_hours=Mo-Fr 10:00-13:00, Th 14:00-18:00, Fr 14:00-17:00; Sa,Su,PH off
+operator=Targobank
+ref:targobank=20143 (00)
+wheelchair=yes
+id=node/2617610400</desc></wpt><wpt lat="49.4086394" lon="6.9083091"><name>Bank 1 Saar</name><desc>amenity=bank
+atm=yes
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+email=fd.lebach@bank1saar.de
+fax=+49688192382210
+name=Bank 1 Saar
+phone=+49688192380
+wheelchair=yes
+id=node/2700425790</desc></wpt><wpt lat="49.3168704" lon="7.2781173"><name>Bank 1 Saar</name><desc>amenity=bank
+atm=yes
+name=Bank 1 Saar
+opening_hours=Tu,Fr 09:00-12:00,14:00-16:00
+wheelchair=yes
+id=node/2711358409</desc></wpt><wpt lat="49.2137822" lon="7.0377188"><name>Sparkasse Saarbrücken</name><desc>amenity=bank
+atm=yes
+level=0
+name=Sparkasse Saarbrücken
+network=Sparkassenverbund
+opening_hours=Mo-Th 09:00-12:30,14:00-17:00; Fr 09:00-12:30,14:00-16:00; PH,Sa-Su closed
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/2796735256</desc></wpt><wpt lat="49.4743287" lon="6.8968673"><name>Kreissparkasse Saarlouis SB-Standort Limbach</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.ksk-saarlouis.de/de/home/toolbar/filialen/kreissparkasse-saarlouis-sb-standort-limbach-7232.html
+name=Kreissparkasse Saarlouis SB-Standort Limbach
+operator:wikidata=Q18628332
+id=node/2810537760</desc></wpt><wpt lat="49.2694681" lon="7.0432803"><name>Sparkasse Saarbrücken Filiale Dudweiler Süd</name><desc>addr:city=Saarbrücken
+addr:housenumber=43a
+addr:postcode=66125
+addr:street=Kantstraße
+amenity=bank
+atm=yes
+brand=Sparkasse Saarbrücken
+brand:wikidata=Q2307655
+check_date=2025-06-04
+contact:email=service@sparkasse-saarbruecken.de
+contact:fax=+49 681 504836600
+contact:phone=+49 681 50436600
+contact:website=https://www.sparkasse.de/standorte/filialen/sparkasse-saarbruecken-filiale-dudweiler-sued-7309
+drive_through=no
+level=0
+name=Sparkasse Saarbrücken Filiale Dudweiler Süd
+note:opening_hours=Beratungsgespräche mit Termin Mo-Fr 8:00-19:00
+opening_hours=We 09:00-12:00, 14:00-16:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/2842875935</desc></wpt><wpt lat="49.2250522" lon="7.0421378"><name>mediserv Bank GmbH</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=6
+addr:postcode=66121
+addr:street=Am Halberg
+amenity=bank
+atm=no
+name=mediserv Bank GmbH
+wikidata=Q47160230
+id=node/3067253335</desc></wpt><wpt lat="49.6035874" lon="6.9935524"><name>Kreissparkasse St. Wendel, Geschäftsstelle Otzenhausen</name><desc>addr:city=Nonnweiler
+addr:housenumber=1
+addr:postcode=66620
+addr:street=Am Marktplatz
+addr:suburb=Otzenhausen
+amenity=bank
+atm=yes
+name=Kreissparkasse St. Wendel, Geschäftsstelle Otzenhausen
+opening_hours=Mo-We,Fr 09:00-12:00; Th 14:00-18:00
+operator=Kreissparkasse St. Wendel
+id=node/3248349799</desc></wpt><wpt lat="49.2396616" lon="6.9911481"><name>BBBank</name><desc>addr:city=Saarbrücken
+addr:housenumber=16
+addr:postcode=66111
+addr:street=Reichsstraße
+amenity=bank
+atm=yes
+brand=BBBank
+brand:wikidata=Q795504
+contact:email=info@bbbank.de
+contact:phone=+49 681 21399050
+contact:website=https://www.bbbank.de/wir-fuer-sie/bbbank-vor-ort/filialen/uebersicht-der-filialen/saarbruecken.html
+fixme=opening_hours:atm erfassen
+name=BBBank
+opening_hours=Mo,We,Fr 09:00-16:00, Tu,Th 09:00-18:00, Mo,We 09:00-12:00, Th 14:00-17:00
+wheelchair=yes
+id=node/3319986887</desc></wpt><wpt lat="49.2351025" lon="6.9938054"><name>Sparda-Bank</name><desc>addr:city=Saarbrücken
+addr:housenumber=41
+addr:postcode=66111
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+brand=Sparda-Bank
+brand:wikidata=Q2307157
+drive_through=no
+level=0
+name=Sparda-Bank
+opening_hours=Mo 08:30-17:15, Tu-We 08:30-16:00, Th 08:30-18:00, Fr 08:30-12:30; PH,Sa,Su closed
+opening_hours:atm=24/7
+operator=Sparda-Bank Südwest eG
+surveillance=indoor
+surveillance:type=camera
+wheelchair=yes
+id=node/3319986931</desc></wpt><wpt lat="49.4093447" lon="6.9085751"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse Saarlouis
+id=node/3441500530</desc></wpt><wpt lat="49.5404536" lon="6.8907182"><name>Bank 1 Saar</name><desc>amenity=bank
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+name=Bank 1 Saar
+operator=Bank 1 Saar
+wheelchair=yes
+id=node/3469112994</desc></wpt><wpt lat="49.2184099" lon="7.0141843"><name>Sparkasse Saarbrücken Beratungscenter St. Arnual</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=131
+addr:postcode=66119
+addr:street=Saargemünder Straße
+amenity=bank
+atm=yes
+name=Sparkasse Saarbrücken Beratungscenter St. Arnual
+opening_hours=Mo-Fr 08:15-12:30,14:00-16:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+phone=+49 681 985650
+toilets:wheelchair=no
+wheelchair=yes
+id=node/3483976676</desc></wpt><wpt lat="49.2824213" lon="7.2351596"><name>Volksbank</name><desc>addr:city=Kirkel
+addr:country=DE
+addr:housename=Volksbank
+addr:housenumber=66c
+addr:postcode=66459
+addr:street=Goethestraße
+amenity=bank
+atm=yes
+name=Volksbank
+opening_hours=Mo,Th 09:00-12:00, Th 14:00-17:00
+wheelchair=yes
+id=node/3654805626</desc></wpt><wpt lat="49.2500523" lon="6.8582381"><name>Bank 1 Saar</name><desc>amenity=bank
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+name=Bank 1 Saar
+id=node/3661703340</desc></wpt><wpt lat="49.2502599" lon="6.9639737"><name>Sparkasse Saarbrücken Filiale Rastpfuhl</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66113
+addr:street=Rastpfuhl
+amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-filiale-rastpfuhl/35718.html
+drive_through=no
+name=Sparkasse Saarbrücken Filiale Rastpfuhl
+network:wikidata=Q2307760
+opening_hours=Mo-Fr 08:15-12:30,14:00-16:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/3706273628</desc></wpt><wpt lat="49.3926005" lon="6.7009357"><name>Sparkasse Merzig-Wadern</name><desc>amenity=bank
+name=Sparkasse Merzig-Wadern
+wheelchair=yes
+id=node/3844415461</desc></wpt><wpt lat="49.5177569" lon="7.158406"><name>Kreissparkasse</name><desc>amenity=bank
+name=Kreissparkasse
+id=node/4080530703</desc></wpt><wpt lat="49.5210364" lon="7.140826"><name>Volksbank eG St. Wendeler Land</name><desc>amenity=bank
+name=Volksbank eG St. Wendeler Land
+id=node/4083003140</desc></wpt><wpt lat="49.4436943" lon="6.6384916"><name>Sparkasse Merzig-Wadern</name><desc>amenity=bank
+name=Sparkasse Merzig-Wadern
+wheelchair=yes
+id=node/4157625394</desc></wpt><wpt lat="49.4425949" lon="6.6372077"><name>Bank 1 Saar Beratungsservice</name><desc>amenity=bank
+name=Bank 1 Saar Beratungsservice
+wheelchair=yes
+id=node/4157702908</desc></wpt><wpt lat="49.4432922" lon="6.6376052"><name>Volksbank Untere Saar</name><desc>amenity=bank
+name=Volksbank Untere Saar
+wheelchair=yes
+id=node/4157705459</desc></wpt><wpt lat="49.4778314" lon="6.4994712"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/4215835891</desc></wpt><wpt lat="49.2414783" lon="6.9462646"><name>Postbank</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66115
+addr:street=Bergstraße
+addr:suburb=Burbach
+amenity=bank
+name=Postbank
+opening_hours=Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:00; PH,Su closed
+wheelchair=limited
+wheelchair:description=1 kleine Stufe
+id=node/4281847692</desc></wpt><wpt lat="49.4507226" lon="7.0566599"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+id=node/4318717585</desc></wpt><wpt lat="49.4518498" lon="7.0552965"><name>Kreissparkasse</name><desc>amenity=bank
+name=Kreissparkasse
+wheelchair=yes
+id=node/4362057076</desc></wpt><wpt lat="49.4821746" lon="7.0326528"><name>Kreissparkasse St. Wendel - Geschäftsstelle Tholey</name><desc>amenity=bank
+atm=yes
+bic=SALADE51WND
+name=Kreissparkasse St. Wendel - Geschäftsstelle Tholey
+operator=Kreissparkasse St. Wendel
+wheelchair=yes
+id=node/4408425657</desc></wpt><wpt lat="49.441541" lon="6.6181708"><name>Volksbank</name><desc>addr:city=Merzig
+addr:housenumber=30
+addr:postcode=66663
+addr:street=Merziger Straße
+amenity=bank
+name=Volksbank
+operator=Volksbank untere Saar
+toilets:wheelchair=no
+wheelchair=yes
+id=node/4500346750</desc></wpt><wpt lat="49.2451823" lon="7.2038893"><name>Kreissparkasse Saarpfalz</name><desc>amenity=bank
+name=Kreissparkasse Saarpfalz
+phone=+49 6841 1000
+wheelchair=yes
+id=node/4741455022</desc></wpt><wpt lat="49.3217115" lon="7.0951561"><name>Volksbank</name><desc>amenity=bank
+name=Volksbank
+wheelchair=yes
+id=node/4753095380</desc></wpt><wpt lat="49.3147143" lon="7.1517976"><name>Sparkasse</name><desc>amenity=bank
+check_date:opening_hours=2025-07-21
+name=Sparkasse
+opening_hours=Mo-Fr 09:00-12:00, Mo,Tu,Th 14:00-17:00, Fr 14:00-16:00
+id=node/4786543533</desc></wpt><wpt lat="49.245005" lon="6.9938954"><name>Sparkasse Saarbrücken Filiale Rodenhof</name><desc>addr:city=Saarbrücken
+addr:housenumber=10
+addr:postcode=66113
+addr:street=Grülingsstraße
+amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-filiale-rodenhof/7306.html
+level=0
+name=Sparkasse Saarbrücken Filiale Rodenhof
+network:wikidata=Q2307760
+opening_hours=Fr 09:00-12:00,14:00-16:00; Mo-Th,Sa-Su,PH closed
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+phone=+49 681 948510
+wheelchair=yes
+id=node/4862245187</desc></wpt><wpt lat="49.3783932" lon="7.2544286"><name>Kreissparkasse Saarpfalz</name><desc>amenity=bank
+name=Kreissparkasse Saarpfalz
+id=node/4915702219</desc></wpt><wpt lat="49.3781758" lon="7.2546861"><name>Volksbank Saarpfalz eG</name><desc>amenity=bank
+name=Volksbank Saarpfalz eG
+id=node/4915702220</desc></wpt><wpt lat="49.3261537" lon="7.0518918"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+operator=Sparkasse Saarbrücken
+wheelchair=yes
+id=node/5137457694</desc></wpt><wpt lat="49.3704592" lon="7.1310979"><name>Bank1Saar</name><desc>amenity=bank
+atm=yes
+brand:wikidata=Q806608
+name=Bank1Saar
+id=node/5212392180</desc></wpt><wpt lat="49.369743" lon="7.1305944"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+id=node/5212410445</desc></wpt><wpt lat="49.3890566" lon="7.2719903"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/5268381123</desc></wpt><wpt lat="49.4178651" lon="7.012893"><name>LEVO Bank Zweigstelle Dirmingen</name><desc>amenity=bank
+atm=yes
+description=LEVO Bank Dirmingen
+name=LEVO Bank Zweigstelle Dirmingen
+id=node/5278258706</desc></wpt><wpt lat="49.4174803" lon="7.0139357"><name>Sparkasse Dirmingen</name><desc>amenity=bank
+atm=yes
+brand=Sparkasse
+name=Sparkasse Dirmingen
+operator=Sparkasse Neunkirchen
+wheelchair=yes
+id=node/5278279495</desc></wpt><wpt lat="49.2283616" lon="7.0309184"><name>Mercedes-Benz Bank</name><desc>amenity=bank
+brand=Mercedes-Benz Bank AG
+brand:wikidata=Q872078
+brand:wikipedia=de:Mercedes-Benz Bank
+contact:email=kundenservice@mercedes-benz-bank.com
+contact:website=https://www.daimler.com/karriere/das-sind-wir/standorte/standort-detailseite-6324.html
+name=Mercedes-Benz Bank
+official_name=Mercedes-Benz Banking Service GmbH
+id=node/5278469230</desc></wpt><wpt lat="49.4170354" lon="7.014572"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+id=node/5317193802</desc></wpt><wpt lat="49.4514085" lon="6.8973461"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/5433570801</desc></wpt><wpt lat="49.4997649" lon="6.7759761"><name>Volksbank Untere Saar eG</name><desc>amenity=bank
+name=Volksbank Untere Saar eG
+id=node/5435487139</desc></wpt><wpt lat="49.5080409" lon="6.7454931"><name>Kreissparkasse Merzig Wadern</name><desc>amenity=bank
+name=Kreissparkasse Merzig Wadern
+wheelchair=yes
+wheelchair:description=von Rückseite ebenerdig befahrbar, Vorderseite mit Aufzug nachgerüstert
+id=node/5436071353</desc></wpt><wpt lat="49.5083729" lon="6.7444722"><name>meine VVB</name><desc>amenity=bank
+name=meine VVB
+wheelchair=yes
+id=node/5438477808</desc></wpt><wpt lat="49.4923274" lon="6.591707"><name>Kreissparkasse</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse
+id=node/5447859464</desc></wpt><wpt lat="49.3163784" lon="6.7237033"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+name=Kreissparkasse Saarlouis
+id=node/5498814021</desc></wpt><wpt lat="49.5041527" lon="6.5259768"><name>Sparkasse Merzig-Wadern</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Merzig-Wadern
+id=node/5534417265</desc></wpt><wpt lat="49.5042655" lon="6.5244513"><name>Postbank</name><desc>amenity=bank
+name=Postbank
+id=node/5538609178</desc></wpt><wpt lat="49.4336519" lon="6.9493675"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse Saarlouis
+self_service=only
+source=www.ksk-saarlouis.de
+website=https://www.ksk-saarlouis.de/
+id=node/5590071259</desc></wpt><wpt lat="49.3573233" lon="7.0566103"><name>Sparkasse Neunkirchen</name><desc>addr:city=Merchweiler
+addr:country=DE
+addr:housenumber=153
+addr:postcode=66589
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+name=Sparkasse Neunkirchen
+id=node/5635916649</desc></wpt><wpt lat="49.2128755" lon="7.0411801"><name>Vereinigte Volksbank eG meine VVB</name><desc>amenity=bank
+atm=yes
+brand=Volksbank
+brand:wikidata=Q19310981
+contact:website=https://www.meine-vvb.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen/brebach.html
+level=0
+name=Vereinigte Volksbank eG meine VVB
+opening_hours=Mo-Tu,Th 09:00-12:30,14:00-17:00; We 09:00-12:30; Fr 09:00-12:30,14:00-16:00; PH,Su closed
+wheelchair=no
+wheelchair:description=3 Stufen
+id=node/5653849779</desc></wpt><wpt lat="49.2438836" lon="6.9717316"><name>Sparkasse Saarbrücken Filiale Malstatt</name><desc>amenity=bank
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-filiale-malstatt/35717.html
+level=0
+name=Sparkasse Saarbrücken Filiale Malstatt
+network:wikidata=Q2307760
+opening_hours=24/7
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/5669974790</desc></wpt><wpt lat="49.3580256" lon="6.9317763"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+operator=Sparkasse Saarbrücken
+id=node/5745848720</desc></wpt><wpt lat="49.3897069" lon="7.0727424"><name>Sparkasse Neunkirchen - Filiale Hüttigweiler</name><desc>amenity=bank
+name=Sparkasse Neunkirchen - Filiale Hüttigweiler
+id=node/5774794919</desc></wpt><wpt lat="49.3767848" lon="7.0517199"><name>Sparkasse Neunkirchen</name><desc>amenity=bank
+atm=yes
+name=Sparkasse Neunkirchen
+id=node/5866434805</desc></wpt><wpt lat="49.3782395" lon="7.0198815"><name>node/5882505639</name><desc>amenity=bank
+atm=yes
+operator=levoBank eG
+id=node/5882505639</desc></wpt><wpt lat="49.2301254" lon="7.0061722"><name>FinanzCenter Mainzer Straße</name><desc>addr:city=Saarbrücken
+addr:housenumber=76
+addr:postcode=66121
+addr:street=Mainzer Straße
+amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-filiale-mainzer-strasse/7287.html
+name=FinanzCenter Mainzer Straße
+network:wikidata=Q2307760
+opening_hours=Mo-Su,PH 06:00-23:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+wheelchair=yes
+id=node/5900406810</desc></wpt><wpt lat="49.3778064" lon="7.0194711"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/5924192023</desc></wpt><wpt lat="49.4055203" lon="6.9660321"><name>levoBank</name><desc>amenity=bank
+atm=yes
+name=levoBank
+wheelchair=yes
+id=node/5932377554</desc></wpt><wpt lat="49.3100819" lon="7.0597967"><name>Sparkasse Saarbrücken</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/standorte/geldautomaten/sparkasse-saarbruecken-geldautomat-huehnerfeld-114899
+name=Sparkasse Saarbrücken
+opening_hours=Mo-Su 06:00-23:00
+operator:wikidata=Q2307655
+wheelchair=limited
+id=node/6255990827</desc></wpt><wpt lat="49.5270295" lon="6.9226688"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/6279634609</desc></wpt><wpt lat="49.5402775" lon="6.8902302"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+wheelchair=yes
+id=node/6281570045</desc></wpt><wpt lat="49.5833738" lon="6.8899948"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+operator=Sparkasse Merzig-Wadern
+wheelchair=yes
+id=node/6296489624</desc></wpt><wpt lat="49.4898817" lon="6.837337"><name>meine VVB – SB-Filiale Nunkirchen</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.meine-vvb.de/meine-vvb/filialen-ansprechpartner/filialen/sb-filialen/nunkirchen.html
+name=meine VVB – SB-Filiale Nunkirchen
+opening_hours=Tu, Fr 08:00-12:30, 14:00-16:30; We 08:00-12:30; Th 08:00-12:30, 14:00-18:00
+operator=Vereinigte Volksbank Saarlouis – Losheim am See – Sulzbach/Saar
+operator:wikidata=Q19310981
+wheelchair=no
+id=node/6301044670</desc></wpt><wpt lat="49.5565895" lon="6.8196465"><name>Postbank</name><desc>amenity=bank
+name=Postbank
+wheelchair=yes
+id=node/6317039341</desc></wpt><wpt lat="49.277359" lon="7.0357802"><name>Vereinigte Volksbank eG | Filiale Dudweiler</name><desc>addr:city=Saarbrücken
+addr:housenumber=263-265
+addr:postcode=66125
+addr:street=Saarbrücker Straße
+amenity=bank
+atm=yes
+drive_through=no
+email=dudweiler@meine-vvb.de
+fax=+49 6831 9133019
+level=0
+name=Vereinigte Volksbank eG | Filiale Dudweiler
+opening_hours=Mo-Tu 09:00-12:30,14:00-17:00; We 09:00-12:30; Th 09:00-12:30,14:00-17:00; Fr 09:00-12:30,14:00-16:00
+operator=Vereinigte Volksbank eG Saarlouis - Sulzbach/Saar
+operator:wikidata=Q19310981
+phone=+49 6831 9130
+website=https://www.meine-vvb.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen/saarbruecken-dudweiler.html
+wheelchair=no
+id=node/6324281713</desc></wpt><wpt lat="49.2391929" lon="6.9718505"><name>Sparkasse Saarbrücken</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=38
+addr:postcode=66115
+addr:street=Breite Straße
+amenity=bank
+atm=yes
+contact:phone=+49 681 504 38000
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-filiale-breite-strasse/7290.html
+name=Sparkasse Saarbrücken
+opening_hours=Mo-Th 09:00-12:30, 14:00-17:00; Fr 09:00-12:30, 14:00-16:00; Sa,Su,PH off
+wheelchair=limited
+id=node/6397712307</desc></wpt><wpt lat="49.3008024" lon="6.8098685"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/6593610520</desc></wpt><wpt lat="49.3021649" lon="6.8116321"><name>Bank 1 Saar</name><desc>amenity=bank
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+name=Bank 1 Saar
+id=node/6593610537</desc></wpt><wpt lat="49.3058407" lon="6.7780877"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/6598152750</desc></wpt><wpt lat="49.2275529" lon="6.9990933"><name>Saarländische Investitionskreditbank AG</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housename=Atrium Haus der Wirtschaftsförderung
+addr:housenumber=17
+addr:postcode=66119
+addr:street=Franz-Josef-Röder-Straße
+amenity=bank
+contact:website=https://www.sikb.de/
+name=Saarländische Investitionskreditbank AG
+opening_hours:signed=no
+short_name=SIKB
+wikidata=Q1370651
+id=node/6612113707</desc></wpt><wpt lat="49.1416524" lon="7.054093"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/6620291927</desc></wpt><wpt lat="49.3396393" lon="7.3347996"><name>Volksbank</name><desc>amenity=bank
+name=Volksbank
+wheelchair=yes
+id=node/6727719446</desc></wpt><wpt lat="49.3235783" lon="7.3402874"><name>Targo Bank</name><desc>amenity=bank
+name=Targo Bank
+opening_hours=Mo-Fr 10:00-13:00, Mo,Tu,Th 14:00-16:00
+wheelchair=yes
+id=node/6790925307</desc></wpt><wpt lat="49.2682929" lon="7.3209359"><name>Bank1Saar</name><desc>amenity=bank
+brand:wikidata=Q806608
+name=Bank1Saar
+id=node/6832380049</desc></wpt><wpt lat="49.2692296" lon="7.3194339"><name>Postbank</name><desc>amenity=bank
+name=Postbank
+id=node/6832626772</desc></wpt><wpt lat="49.3009331" lon="7.3695389"><name>VR Saarpfalz</name><desc>amenity=bank
+name=VR Saarpfalz
+id=node/6841713315</desc></wpt><wpt lat="49.3163268" lon="6.7492484"><name>Commerzbank</name><desc>amenity=bank
+brand:wikidata=Q157617
+level=0
+name=Commerzbank
+opening_hours=Mo,We 09:30-13:00; Tu,Th 09:30-13:00,14:00-16:00; Fr 09:30-14:00; PH,Sa-Su closed
+wheelchair=yes
+id=node/6879224265</desc></wpt><wpt lat="49.3628561" lon="6.6638956"><name>Volksbank</name><desc>amenity=bank
+name=Volksbank
+wheelchair=no
+id=node/6907029301</desc></wpt><wpt lat="49.4068537" lon="6.6480213"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+id=node/6939462429</desc></wpt><wpt lat="49.4068864" lon="6.647957"><name>Volksbank</name><desc>amenity=bank
+atm=yes
+name=Volksbank
+id=node/6939462430</desc></wpt><wpt lat="49.4093825" lon="6.9088246"><name>Sparda Bank</name><desc>addr:housenumber=6
+addr:street=Poststraße
+amenity=bank
+atm=yes
+name=Sparda Bank
+id=node/7047834818</desc></wpt><wpt lat="49.2411846" lon="7.2597259"><name>Postbank</name><desc>amenity=bank
+name=Postbank
+id=node/7125012805</desc></wpt><wpt lat="49.3228275" lon="6.9190358"><name>Sparkasse SB-Center</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/standorte/filialen/sparkasse-saarbruecken-sb-center-walpershofen-168666
+name=Sparkasse SB-Center
+operator:wikidata=Q2307655
+id=node/7204712440</desc></wpt><wpt lat="49.3547647" lon="6.7294398"><name>Kreissparkasse</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse
+operator=KSK Saarlouis
+wheelchair=yes
+wheelchair:description=Barrierefreie Toilette gegenüber im Haus der Energie
+id=node/7318586425</desc></wpt><wpt lat="49.1479066" lon="7.2100293"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+drive_through=no
+name=Sparkasse
+wheelchair=yes
+id=node/7416942958</desc></wpt><wpt lat="49.3303444" lon="6.7163144"><name>VVB</name><desc>amenity=bank
+atm=yes
+name=VVB
+id=node/7781482137</desc></wpt><wpt lat="49.3309544" lon="6.6791511"><name>Sparkasse SB</name><desc>amenity=bank
+name=Sparkasse SB
+id=node/7834191305</desc></wpt><wpt lat="49.3519231" lon="6.7243468"><name>Postbank</name><desc>addr:city=Dillingen/Saar
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66763
+addr:street=De-Lenoncourt-Straße
+amenity=bank
+atm=yes
+brand=Postbank
+brand:wikidata=Q708835
+brand:wikipedia=de:Postbank
+disused=yes
+name=Postbank
+opening_hours=closed
+operator=Deutsche Post
+ref:DeutschePost=610
+id=node/7836797680</desc></wpt><wpt lat="49.3348042" lon="6.7719515"><name>Kreissparkasse Steinrausch</name><desc>amenity=bank
+atm=yes
+check_date:opening_hours=2024-05-21
+name=Kreissparkasse Steinrausch
+opening_hours=Mo-Su 06:00-22:00
+operator=Kreissparkasse Saarlouis
+wheelchair=yes
+id=node/7856539389</desc></wpt><wpt lat="49.324365" lon="6.7679389"><name>VVB</name><desc>amenity=bank
+atm=yes
+name=VVB
+id=node/7880465839</desc></wpt><wpt lat="49.5398571" lon="6.7968129"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/7888235708</desc></wpt><wpt lat="49.3891212" lon="6.8047723"><name>Sparkasse</name><desc>amenity=bank
+atm=no
+name=Sparkasse
+id=node/7944460517</desc></wpt><wpt lat="49.2408601" lon="6.9456343"><name>Western Union</name><desc>amenity=bank
+brand=Western Union
+level=0
+name=Western Union
+opening_hours:signed=no
+operator=Damas Reisebüro
+wheelchair=no
+id=node/8010735310</desc></wpt><wpt lat="49.3520758" lon="6.8064219"><name>meine VVB</name><desc>amenity=bank
+name=meine VVB
+id=node/8042706061</desc></wpt><wpt lat="49.5075421" lon="6.7427248"><name>Sparda-Bank Südwest</name><desc>amenity=bank
+brand=Sparda-Bank Südwest
+brand:wikidata=Q2307136
+name=Sparda-Bank Südwest
+operator=Sparda-Bank Südwest eG
+wheelchair=yes
+id=node/8147759955</desc></wpt><wpt lat="49.4790355" lon="6.7047353"><name>Sparkasse</name><desc>addr:housename=Sparkasse
+addr:street=Provinzialstraße
+amenity=bank
+atm=yes
+name=Sparkasse
+opening_hours=Mo-Su,PH 05:00-22:00
+wheelchair=yes
+id=node/8148459665</desc></wpt><wpt lat="49.4868352" lon="6.7766802"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+name=Sparkasse
+wheelchair=yes
+id=node/8172814773</desc></wpt><wpt lat="49.4664646" lon="6.5910727"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/8215311619</desc></wpt><wpt lat="49.3716215" lon="6.7616451"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/8270961739</desc></wpt><wpt lat="49.1971209" lon="7.1434696"><name>Sparkasse</name><desc>amenity=bank
+contact:website=https://www.sparkasse.de/standorte/filialen/kreissparkasse-saarpfalz-geschaeftsstelle-ormesheim-7442
+name=Sparkasse
+operator:wikidata=Q1787806
+id=node/8365766254</desc></wpt><wpt lat="49.2834428" lon="7.1625026"><name>Bank 1 Saar</name><desc>amenity=bank
+atm=yes
+branch=Rohrbach
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+contact:website=https://www.bank1saar.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen/7695.html
+name=Bank 1 Saar
+operator:wikidata=Q806608
+id=node/8392218340</desc></wpt><wpt lat="49.2773248" lon="7.113972"><name>Bank 1 Saar</name><desc>amenity=bank
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+name=Bank 1 Saar
+opening_hours=Mo-We,Fr 09:00-16:00; Th 09:00-17:00
+id=node/8399173312</desc></wpt><wpt lat="49.2801376" lon="7.1126457"><name>Sparda-Bank Südwest</name><desc>amenity=bank
+brand=Sparda-Bank Südwest
+brand:wikidata=Q2307136
+name=Sparda-Bank Südwest
+opening_hours=Mo 08:30-17:15; We 08:30-16:00; Fr 08:30-12:30
+id=node/8399321772</desc></wpt><wpt lat="49.280065" lon="7.112757"><name>Postbank</name><desc>amenity=bank
+brand=Postbank
+brand:wikidata=Q708835
+name=Postbank
+opening_hours="nach Vereinbarung"
+id=node/8399321784</desc></wpt><wpt lat="49.3307862" lon="6.7484137"><name>Postbank</name><desc>amenity=bank
+name=Postbank
+id=node/8491583682</desc></wpt><wpt lat="49.2515958" lon="6.8525618"><name>Sparda-Bank Südwest</name><desc>amenity=bank
+brand=Sparda-Bank Südwest
+brand:wikidata=Q2307157
+level=0
+name=Sparda-Bank Südwest
+opening_hours=Mo-Th 09:00-12:30,13:30-17:00; Fr 09:00-12:30; PH,Sa-Su closed
+wheelchair=yes
+id=node/8558361625</desc></wpt><wpt lat="49.3332503" lon="6.6552901"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/8586586569</desc></wpt><wpt lat="49.3558706" lon="6.6155894"><name>Kreissparkasse Saarlouis</name><desc>amenity=bank
+atm=yes
+name=Kreissparkasse Saarlouis
+opening_hours=Mo,Tu,Th,Fr 09:00-12:30,13:30-16:00; We 09:00-12:30
+wheelchair=yes
+id=node/8672266265</desc></wpt><wpt lat="49.5149089" lon="6.6051905"><name>Sparkasse</name><desc>amenity=bank
+name=Sparkasse
+id=node/8870653467</desc></wpt><wpt lat="49.2209886" lon="6.9631636"><name>Sparkasse SB-Center Folsterhöhe</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-sb-center-folsterhoehe/174122.html
+level=0
+name=Sparkasse SB-Center Folsterhöhe
+opening_hours=Mo-Su 06:00-23:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+surveillance=indoor
+wheelchair=yes
+id=node/9293757182</desc></wpt><wpt lat="49.2459596" lon="6.9172123"><name>Sparkasse SB-Center Rockershausen</name><desc>amenity=bank
+level=0
+name=Sparkasse SB-Center Rockershausen
+opening_hours=Mo-Su 06:00-23:00
+operator=Sparkasse Saarbrücken
+wheelchair=yes
+id=node/9740401842</desc></wpt><wpt lat="49.2397907" lon="6.9152565"><name>SB Center Ottenhausen</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-sb-center-ottenhausen/168667.html
+level=0
+name=SB Center Ottenhausen
+network:wikidata=Q2307760
+opening_hours=06:00-23:00
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+surveillance=indoor
+surveillance:type=camera
+wheelchair=yes
+id=node/10073463167</desc></wpt><wpt lat="49.238372" lon="6.9892983"><name>Commerzbank</name><desc>amenity=bank
+brand=Commerzbank
+brand:wikidata=Q157617
+level=0
+name=Commerzbank
+opening_hours=Mo 09:30-13:00,14:00-16:00; Tu,Th 09:30-13:00,14:00-18:00; We 09:30-13:00; Fr 09:30-14:00; PH,Sa-Su closed
+wheelchair=yes
+id=node/10080532814</desc></wpt><wpt lat="49.402511" lon="6.7904105"><name>node/10082383826</name><desc>amenity=bank
+id=node/10082383826</desc></wpt><wpt lat="49.4013455" lon="7.163528"><name>Sparkasse Neunkirchen - Geschäftsstelle Ottweiler</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/filialen/o/sparkasse-neunkirchen-geschaeftsstelle-ottweiler/7175.html
+name=Sparkasse Neunkirchen - Geschäftsstelle Ottweiler
+network:wikidata=Q2307760
+operator:wikidata=Q18630944
+wheelchair=yes
+id=node/10181349689</desc></wpt><wpt lat="49.3453323" lon="7.0301288"><name>meine vvb - SB-Filiale Göttelborn</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.meine-vvb.de/meine-vvb/filialen-ansprechpartner/filialen/sb-filialen/quierschied-goettelborn.html
+name=meine vvb - SB-Filiale Göttelborn
+operator:wikidata=Q19310981
+id=node/10200930535</desc></wpt><wpt lat="49.3453421" lon="7.0301881"><name>Sparkasse Saarbrücken - SB Center Göttelborn</name><desc>amenity=bank
+atm=yes
+contact:website=https://www.sparkasse.de/filialen/q/sparkasse-saarbruecken-sb-center-goettelborn/7270.html
+name=Sparkasse Saarbrücken - SB Center Göttelborn
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+id=node/10200930786</desc></wpt><wpt lat="49.2367381" lon="7.2592537"><name>Bank1Saar</name><desc>amenity=bank
+brand:wikidata=Q806608
+name=Bank1Saar
+id=node/10310919904</desc></wpt><wpt lat="49.2370628" lon="6.9304893"><name>Bank 1 Saar</name><desc>amenity=bank
+atm=yes
+branch=Gersweiler
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+contact:website=https://www.bank1saar.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen/7597.html
+level=0
+name=Bank 1 Saar
+opening_hours=Mo 09:00-12:00,14:00-16:00; We 09:00-12:00; Th 09:00-12:00,14:00-17:00; PH,Tu,Fr-Su closed
+operator:wikidata=Q806608
+wheelchair=yes
+id=node/10892392593</desc></wpt><wpt lat="49.2370483" lon="6.9304066"><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+brand=Sparkasse
+brand:wikidata=Q2307655
+level=0
+name=Sparkasse
+opening_hours=Tu 09:00-12:00, 14:00-16:00; PH,We-Mo off
+wheelchair=yes
+id=node/11592511930</desc></wpt><wpt lat="49.2051856" lon="7.1089883"><name>meine VVB</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=60
+addr:postcode=66131
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+name=meine VVB
+operator=VVB
+id=node/11905189556</desc></wpt><wpt lat="49.2497165" lon="6.8558137"><name>Bank 1 Saar</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housenumber=5
+addr:postcode=66333
+addr:street=Karl-Janssen-Straße
+addr:suburb=Völklingen
+amenity=bank
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+level=0
+name=Bank 1 Saar
+wheelchair=yes
+id=node/12102000610</desc></wpt><trk><name>Sparkasse</name><desc>addr:city=Saarwellingen
+addr:country=DE
+addr:housenumber=29
+addr:postcode=66793
+addr:street=Vorstadtstraße
+amenity=bank
+building=yes
+name=Sparkasse
+type=multipolygon
+id=relation/11781201</desc><trkseg><trkpt lat="49.3516102" lon="6.8049641"/><trkpt lat="49.3515248" lon="6.8049217"/><trkpt lat="49.3514767" lon="6.8051418"/><trkpt lat="49.3514464" lon="6.8052819"/><trkpt lat="49.351352" lon="6.805235"/><trkpt lat="49.3513346" lon="6.8053094"/><trkpt lat="49.3513106" lon="6.8054115"/><trkpt lat="49.3512975" lon="6.8054043"/><trkpt lat="49.3512758" lon="6.8055068"/><trkpt lat="49.3514651" lon="6.8055937"/><trkpt lat="49.3514756" lon="6.8055307"/><trkpt lat="49.3514988" lon="6.8055402"/><trkpt lat="49.3516102" lon="6.8049641"/></trkseg><trkseg><trkpt lat="49.3513791" lon="6.8053295"/><trkpt lat="49.351428" lon="6.8053544"/><trkpt lat="49.3514123" lon="6.8054276"/><trkpt lat="49.3513633" lon="6.8054028"/><trkpt lat="49.3513791" lon="6.8053295"/></trkseg></trk><trk><name>Kreissparkasse St. Wendel</name><desc>amenity=bank
+atm=yes
+building=yes
+drive_through=no
+name=Kreissparkasse St. Wendel
+opening_hours=Mo-Fr 08:30-16:00; Th 08:30-16:00
+operator=Kreissparkasse St. Wendel
+wheelchair=yes
+wikidata=Q108103170
+wikimedia_commons=Category:Bahnhofstraße 21-23 (St. Wendel)
+id=way/25920939</desc><trkseg><trkpt lat="49.4666799" lon="7.1675368"/><trkpt lat="49.4666854" lon="7.1673881"/><trkpt lat="49.4666027" lon="7.1673809"/><trkpt lat="49.4666108" lon="7.1671645"/><trkpt lat="49.4664341" lon="7.167149"/><trkpt lat="49.4664322" lon="7.1672007"/><trkpt lat="49.4663206" lon="7.1671908"/><trkpt lat="49.4663019" lon="7.1676937"/><trkpt lat="49.4665573" lon="7.1677162"/><trkpt lat="49.466554" lon="7.1678053"/><trkpt lat="49.4667745" lon="7.1678247"/><trkpt lat="49.4667849" lon="7.167546"/><trkpt lat="49.4666799" lon="7.1675368"/></trkseg></trk><trk><name>Deutsche Bundesbank Filiale Saarbrücken</name><desc>addr:city=Saarbrücken
+addr:housenumber=20-22
+addr:postcode=66111
+addr:street=Hafenstraße
+amenity=bank
+brand=Deutsche Bundesbank
+brand:wikidata=Q162222
+building=yes
+description=Deutsche Bundesbank Filiale Saarbrücken
+fax=+49 681 5802129
+name=Deutsche Bundesbank Filiale Saarbrücken
+opening_hours=Mo-Fr 08:15-12:30
+operator=Deutsche Bundesbank
+operator:wikidata=Q162222
+phone=+49 681 58020
+surveillance=indoor
+website=https://www.bundesbank.de/de/bundesbank/hauptverwaltungen-filialen/rs/filialen/filiale-saarbruecken-606040
+wheelchair=yes
+id=way/28307312</desc><trkseg><trkpt lat="49.2394296" lon="6.9839222"/><trkpt lat="49.2389576" lon="6.983896"/><trkpt lat="49.2389502" lon="6.9841774"/><trkpt lat="49.2389463" lon="6.9842788"/><trkpt lat="49.2389886" lon="6.9842813"/><trkpt lat="49.2389955" lon="6.9842817"/><trkpt lat="49.2389856" lon="6.9845085"/><trkpt lat="49.2391258" lon="6.9845288"/><trkpt lat="49.2394095" lon="6.9845381"/><trkpt lat="49.2394099" lon="6.9845267"/><trkpt lat="49.2394112" lon="6.9844845"/><trkpt lat="49.2394127" lon="6.9844417"/><trkpt lat="49.2394165" lon="6.9843208"/><trkpt lat="49.239418" lon="6.9842748"/><trkpt lat="49.2394279" lon="6.9839635"/><trkpt lat="49.2394296" lon="6.9839222"/></trkseg></trk><trk><name>way/70685580</name><desc>addr:city=Friedrichsthal
+addr:country=DE
+addr:housenumber=2a
+addr:postcode=66299
+addr:street=Illinger Straße
+amenity=bank
+atm=yes
+building=yes
+operator=Sparkasse Saarbrücken
+id=way/70685580</desc><trkseg><trkpt lat="49.3329202" lon="7.0953915"/><trkpt lat="49.3330328" lon="7.0954089"/><trkpt lat="49.3330514" lon="7.0951272"/><trkpt lat="49.3329379" lon="7.0951097"/><trkpt lat="49.3329202" lon="7.0953915"/></trkseg></trk><trk><name>Kreissparkasse Saarlouis</name><desc>addr:city=Überherrn
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66802
+addr:street=Alleestraße
+amenity=bank
+building=yes
+name=Kreissparkasse Saarlouis
+id=way/77766159</desc><trkseg><trkpt lat="49.2431188" lon="6.6983481"/><trkpt lat="49.2431222" lon="6.6985595"/><trkpt lat="49.2431235" lon="6.6986399"/><trkpt lat="49.2432862" lon="6.6986338"/><trkpt lat="49.2432815" lon="6.6983419"/><trkpt lat="49.2431188" lon="6.6983481"/></trkseg></trk><trk><name>Sparkasse Saarbrücken Filiale Burbach</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=167
+addr:postcode=66115
+addr:street=Hochstraße
+amenity=bank
+atm=yes
+building=yes
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-filiale-burbach/7301.html
+level=0
+name=Sparkasse Saarbrücken Filiale Burbach
+network:wikidata=Q2307760
+opening_hours=Mo-Th 09:00-12:30,14:00-17:00; Fr 09:00-12:30,14:00-16:00; PH,Sa-Su closed
+operator:wikidata=Q2307655
+wheelchair=yes
+id=way/87263751</desc><trkseg><trkpt lat="49.2407997" lon="6.9470289"/><trkpt lat="49.2407753" lon="6.9470497"/><trkpt lat="49.2407704" lon="6.9470373"/><trkpt lat="49.2407627" lon="6.9470169"/><trkpt lat="49.2407815" lon="6.9469979"/><trkpt lat="49.2407804" lon="6.9469717"/><trkpt lat="49.240775" lon="6.9469518"/><trkpt lat="49.2407642" lon="6.9469408"/><trkpt lat="49.2407483" lon="6.9469436"/><trkpt lat="49.2407279" lon="6.9469657"/><trkpt lat="49.240697" lon="6.9470387"/><trkpt lat="49.2406818" lon="6.9471325"/><trkpt lat="49.2406917" lon="6.9472754"/><trkpt lat="49.2407071" lon="6.9474039"/><trkpt lat="49.240717" lon="6.9474843"/><trkpt lat="49.2409011" lon="6.9473012"/><trkpt lat="49.2408892" lon="6.9472703"/><trkpt lat="49.2407997" lon="6.9470289"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66117
+addr:street=Zeppelinstraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+network=Sparkassenverbund
+opening_hours=We 09:00-12:00,14:00-16:00; Mo-Fr open "Beratung mit Terminvereinbarung"; PH,Sa-Su closed
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+wheelchair=yes
+id=way/100329552</desc><trkseg><trkpt lat="49.2262482" lon="6.9761747"/><trkpt lat="49.2260903" lon="6.9760581"/><trkpt lat="49.2260814" lon="6.9760858"/><trkpt lat="49.2260542" lon="6.9760781"/><trkpt lat="49.226027" lon="6.9760703"/><trkpt lat="49.2260039" lon="6.9762672"/><trkpt lat="49.2260588" lon="6.9762831"/><trkpt lat="49.2260599" lon="6.9762731"/><trkpt lat="49.2261877" lon="6.9763672"/><trkpt lat="49.2262482" lon="6.9761747"/></trkseg></trk><trk><name>Bank 1 Saar</name><desc>addr:city=Püttlingen
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66346
+addr:street=Pickardstraße
+amenity=bank
+atm=yes
+building=yes
+name=Bank 1 Saar
+id=way/119660901</desc><trkseg><trkpt lat="49.2883418" lon="6.8837368"/><trkpt lat="49.288291" lon="6.8838865"/><trkpt lat="49.2884839" lon="6.8841431"/><trkpt lat="49.2885349" lon="6.884013"/><trkpt lat="49.2884688" lon="6.8838541"/><trkpt lat="49.2884085" lon="6.8837955"/><trkpt lat="49.2883418" lon="6.8837368"/></trkseg></trk><trk><name>Sparkasse Saarbrücken Filiale Rathausplatz</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=9
+addr:postcode=66111
+addr:street=Rathausplatz
+amenity=bank
+architect=Walther Kruspe
+atm=yes
+building=yes
+building:colour=sandybrown
+building:levels=5
+building:material=sandstone
+building:use=commercial
+contact:website=https://www.sparkasse.de/filialen/s/sparkasse-saarbruecken-filiale-rathausplatz/7313.html
+heritage=4
+heritage:operator=lda
+level=0
+name=Sparkasse Saarbrücken Filiale Rathausplatz
+network:wikidata=Q2307760
+opening_hours=Mo-Th 09:00-12:30,14:00-17:00; Fr 09:00-12:30,14:00-16:00; PH,Sa-Su closed
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+roof:shape=flat
+start_date=1928..1929
+wheelchair=yes
+wheelchair:description=lange Rampe
+wikidata=Q98825263
+wikimedia_commons=Category:Rathausplatz 9 (Saarbrücken)
+id=way/125598746</desc><trkseg><trkpt lat="49.2350253" lon="6.9977876"/><trkpt lat="49.2350274" lon="6.9977783"/><trkpt lat="49.2350309" lon="6.997762"/><trkpt lat="49.2350577" lon="6.9976479"/><trkpt lat="49.2350779" lon="6.9975575"/><trkpt lat="49.2351136" lon="6.9975774"/><trkpt lat="49.2351557" lon="6.9974062"/><trkpt lat="49.2351191" lon="6.9973868"/><trkpt lat="49.2349723" lon="6.9973089"/><trkpt lat="49.2349228" lon="6.9972821"/><trkpt lat="49.2349182" lon="6.9973029"/><trkpt lat="49.2349149" lon="6.9973016"/><trkpt lat="49.2349069" lon="6.9972976"/><trkpt lat="49.2348963" lon="6.9972923"/><trkpt lat="49.2348956" lon="6.9972949"/><trkpt lat="49.2348941" lon="6.9973004"/><trkpt lat="49.2348881" lon="6.9972968"/><trkpt lat="49.2348759" lon="6.9973208"/><trkpt lat="49.2348271" lon="6.9974187"/><trkpt lat="49.2347311" lon="6.9976111"/><trkpt lat="49.2348246" lon="6.9976682"/><trkpt lat="49.2349254" lon="6.997732"/><trkpt lat="49.2350253" lon="6.9977876"/></trkseg></trk><trk><name>Sparkasse Saarbrücken</name><desc>addr:housenumber=17
+addr:postcode=66117
+addr:street=Neumarkt
+amenity=bank
+atm=yes
+bic=SAKS DE 55
+contact:fax=+49 681 5042598
+contact:phone=+49 681 5044000
+contact:website=https://www.sparkasse-saarbruecken.de/
+drive_through=no
+name=Sparkasse Saarbrücken
+opening_hours=Mo-Fr 09:00-12:00,14:00-16:00; PH,Sa-Su closed
+opening_hours:counselling=Mo-Fr 08:00-19:00; PH,Sa-Su closed
+operator=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+surveillance=indoor
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/126754001</desc><trkseg><trkpt lat="49.2349494" lon="6.9893223"/><trkpt lat="49.2347913" lon="6.9892417"/><trkpt lat="49.2347052" lon="6.9891994"/><trkpt lat="49.234636" lon="6.9891654"/><trkpt lat="49.2345241" lon="6.989109"/><trkpt lat="49.2343637" lon="6.9890288"/><trkpt lat="49.2342709" lon="6.9894842"/><trkpt lat="49.2342036" lon="6.9898237"/><trkpt lat="49.2341875" lon="6.989923"/><trkpt lat="49.234173" lon="6.990013"/><trkpt lat="49.2342613" lon="6.990046"/><trkpt lat="49.2342905" lon="6.9900565"/><trkpt lat="49.2344014" lon="6.9900962"/><trkpt lat="49.234758" lon="6.9902241"/><trkpt lat="49.2348746" lon="6.9896756"/><trkpt lat="49.2348856" lon="6.9896229"/><trkpt lat="49.2349494" lon="6.9893223"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=60
+addr:postcode=66131
+addr:street=Hauptstraße
+amenity=bank
+building=yes
+name=Sparkasse
+operator=Sparkasse Saarbrücken
+wheelchair=yes
+id=way/130309598</desc><trkseg><trkpt lat="49.2052875" lon="7.108963"/><trkpt lat="49.2050683" lon="7.1089514"/><trkpt lat="49.205036" lon="7.1089497"/><trkpt lat="49.205035" lon="7.1090151"/><trkpt lat="49.2050339" lon="7.1090914"/><trkpt lat="49.2050683" lon="7.1090928"/><trkpt lat="49.2052843" lon="7.1091014"/><trkpt lat="49.2052875" lon="7.108963"/></trkseg></trk><trk><name>Bank 1 Saar</name><desc>addr:city=Riegelsberg
+addr:country=DE
+addr:housenumber=4
+addr:postcode=66292
+addr:street=Walter-Wagner-Platz
+amenity=bank
+building=yes
+name=Bank 1 Saar
+opening_hours=Mo-Fr 08:30-12:30,14:00-16:30
+id=way/139015268</desc><trkseg><trkpt lat="49.3079782" lon="6.9396115"/><trkpt lat="49.3078026" lon="6.9395982"/><trkpt lat="49.3077946" lon="6.9398474"/><trkpt lat="49.3079699" lon="6.9398606"/><trkpt lat="49.3079782" lon="6.9396115"/></trkseg></trk><trk><name>Kreissparkasse</name><desc>addr:city=Bous
+addr:country=DE
+addr:housenumber=82
+addr:postcode=66359
+addr:street=Saarbrücker Straße
+amenity=bank
+atm=yes
+building=yes
+name=Kreissparkasse
+operator=Kreissparkasse Saarlouis
+wheelchair=yes
+id=way/146662664</desc><trkseg><trkpt lat="49.2754147" lon="6.7955971"/><trkpt lat="49.2753005" lon="6.795787"/><trkpt lat="49.2754136" lon="6.7959527"/><trkpt lat="49.27553" lon="6.7957647"/><trkpt lat="49.2754147" lon="6.7955971"/></trkseg></trk><trk><name>way/155089869</name><desc>addr:city=Sankt Wendel
+addr:country=DE
+addr:housenumber=26
+addr:postcode=66606
+addr:street=Kirchstraße
+addr:suburb=Bliesen
+amenity=bank
+atm=yes
+building=yes
+operator=Sparkasse
+source=Bing
+wheelchair=no
+id=way/155089869</desc><trkseg><trkpt lat="49.4962712" lon="7.1117037"/><trkpt lat="49.4961578" lon="7.111941"/><trkpt lat="49.4962413" lon="7.1120334"/><trkpt lat="49.4963453" lon="7.1118146"/><trkpt lat="49.4962712" lon="7.1117037"/></trkseg></trk><trk><name>Volks- und Raiffeisenbank Saarpfalz eG - Geschäftsstelle Gersheim</name><desc>addr:city=Gersheim
+addr:country=DE
+addr:housenumber=11
+addr:postcode=66453
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+building=yes
+name=Volks- und Raiffeisenbank Saarpfalz eG - Geschäftsstelle Gersheim
+id=way/164062285</desc><trkseg><trkpt lat="49.1480773" lon="7.2060564"/><trkpt lat="49.1479963" lon="7.205952"/><trkpt lat="49.1478811" lon="7.2061611"/><trkpt lat="49.1479621" lon="7.2062654"/><trkpt lat="49.1480773" lon="7.2060564"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=12
+addr:postcode=66538
+addr:street=Oberer Markt
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+wheelchair=yes
+id=way/176222777</desc><trkseg><trkpt lat="49.3429843" lon="7.1799218"/><trkpt lat="49.3429183" lon="7.1797159"/><trkpt lat="49.34295" lon="7.179694"/><trkpt lat="49.3429296" lon="7.1796266"/><trkpt lat="49.3428845" lon="7.1796614"/><trkpt lat="49.342865" lon="7.1796018"/><trkpt lat="49.3428201" lon="7.1796301"/><trkpt lat="49.3428021" lon="7.179652"/><trkpt lat="49.3427872" lon="7.1796892"/><trkpt lat="49.342776" lon="7.1797312"/><trkpt lat="49.3427722" lon="7.1797712"/><trkpt lat="49.3428773" lon="7.1801013"/><trkpt lat="49.3429034" lon="7.1801328"/><trkpt lat="49.3429326" lon="7.1801433"/><trkpt lat="49.3429736" lon="7.180149"/><trkpt lat="49.3430327" lon="7.1801201"/><trkpt lat="49.3430749" lon="7.1801011"/><trkpt lat="49.3430334" lon="7.1798896"/><trkpt lat="49.3429843" lon="7.1799218"/></trkseg></trk><trk><name>Kreissparkasse St. Wendel</name><desc>addr:city=Sankt Wendel
+addr:country=DE
+addr:housenumber=11
+addr:postcode=66606
+addr:street=Kuseler Straße
+addr:suburb=Niederkirchen
+amenity=bank
+atm=yes
+building=yes
+name=Kreissparkasse St. Wendel
+id=way/184427927</desc><trkseg><trkpt lat="49.4667472" lon="7.2512786"/><trkpt lat="49.4666381" lon="7.2511553"/><trkpt lat="49.4665822" lon="7.2512724"/><trkpt lat="49.4665758" lon="7.2512859"/><trkpt lat="49.4666607" lon="7.2513819"/><trkpt lat="49.4667011" lon="7.2513753"/><trkpt lat="49.4667472" lon="7.2512786"/></trkseg></trk><trk><name>way/198624203</name><desc>addr:city=Ottweiler
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66564
+addr:street=Hofstraße
+amenity=bank
+atm=yes
+building=yes
+id=way/198624203</desc><trkseg><trkpt lat="49.4030868" lon="7.1697511"/><trkpt lat="49.4030329" lon="7.1699627"/><trkpt lat="49.4031222" lon="7.1700163"/><trkpt lat="49.4031312" lon="7.1700217"/><trkpt lat="49.403185" lon="7.1698101"/><trkpt lat="49.4030868" lon="7.1697511"/></trkseg></trk><trk><name>St. Wendeler Volksbank</name><desc>addr:city=Sankt Wendel
+addr:country=DE
+addr:housenumber=15
+addr:postcode=66606
+addr:street=Kuseler Straße
+addr:suburb=Niederkirchen
+amenity=bank
+atm=yes
+building=yes
+name=St. Wendeler Volksbank
+id=way/200806276</desc><trkseg><trkpt lat="49.4672689" lon="7.2518898"/><trkpt lat="49.4672397" lon="7.252021"/><trkpt lat="49.4672441" lon="7.2520367"/><trkpt lat="49.4673301" lon="7.252082"/><trkpt lat="49.4673265" lon="7.2520985"/><trkpt lat="49.4674252" lon="7.2521506"/><trkpt lat="49.4674607" lon="7.251991"/><trkpt lat="49.467362" lon="7.2519389"/><trkpt lat="49.4672689" lon="7.2518898"/></trkseg></trk><trk><name>PSD Bank</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=68
+addr:postcode=66111
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+brand=PSD Bank RheinNeckarSaar
+brand:wikidata=Q2044656
+building=commercial
+building:levels=7
+contact:website=https://www.psd-rheinneckarsaar.de/
+name=PSD Bank
+opening_hours=Mo,Th 09:30-18:00; Tu-We,Fr 09:30-16:00; PH,Su off; open "und nach Vereinbarung "
+roof:shape=flat
+wheelchair=yes
+id=way/213191645</desc><trkseg><trkpt lat="49.2367394" lon="6.9930113"/><trkpt lat="49.2368193" lon="6.9929313"/><trkpt lat="49.2368034" lon="6.9928942"/><trkpt lat="49.2367495" lon="6.9927682"/><trkpt lat="49.2367252" lon="6.9927104"/><trkpt lat="49.236645" lon="6.9927887"/><trkpt lat="49.2366694" lon="6.9928466"/><trkpt lat="49.2367141" lon="6.9929542"/><trkpt lat="49.2367346" lon="6.9930017"/><trkpt lat="49.2367394" lon="6.9930113"/></trkseg></trk><trk><name>Sparkasse Sbr.</name><desc>addr:city=Großrosseln
+addr:country=DE
+addr:housenumber=32
+addr:postcode=66352
+addr:street=Nassaustraße
+addr:suburb=Naßweiler
+amenity=bank
+building=yes
+name=Sparkasse Sbr.
+id=way/220998706</desc><trkseg><trkpt lat="49.1587142" lon="6.843012"/><trkpt lat="49.1586785" lon="6.8428761"/><trkpt lat="49.1585787" lon="6.8429374"/><trkpt lat="49.1586144" lon="6.8430733"/><trkpt lat="49.1587142" lon="6.843012"/></trkseg></trk><trk><name>Kreissparkasse Saarlouis</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66740
+addr:street=Lisdorfer Straße
+amenity=bank
+atm=yes
+brand:wikidata=Q18628332
+building=yes
+drive_through=no
+name=Kreissparkasse Saarlouis
+operator=Kreissparkasse Saarlouis
+phone=+4968314420
+website=https://www.ksk-saarlouis.de/
+wheelchair=limited
+wikidata=Q18628332
+id=way/222137915</desc><trkseg><trkpt lat="49.3134313" lon="6.7545084"/><trkpt lat="49.3132497" lon="6.7539966"/><trkpt lat="49.31322" lon="6.7539834"/><trkpt lat="49.3131159" lon="6.754066"/><trkpt lat="49.3131722" lon="6.7542507"/><trkpt lat="49.3132038" lon="6.7542268"/><trkpt lat="49.3132216" lon="6.7542772"/><trkpt lat="49.3131959" lon="6.7542995"/><trkpt lat="49.3132309" lon="6.7544025"/><trkpt lat="49.313258" lon="6.7543797"/><trkpt lat="49.3133039" lon="6.7545154"/><trkpt lat="49.3132319" lon="6.7545766"/><trkpt lat="49.3132498" lon="6.7546345"/><trkpt lat="49.3133239" lon="6.7545734"/><trkpt lat="49.3133308" lon="6.7545979"/><trkpt lat="49.3134313" lon="6.7545084"/></trkseg></trk><trk><name>Sparkasse</name><desc>amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+wheelchair=yes
+wikidata=Q2307655
+wikipedia=de:Sparkasse Saarbrücken
+id=way/226704087</desc><trkseg><trkpt lat="49.1563106" lon="7.0352415"/><trkpt lat="49.1562357" lon="7.0352855"/><trkpt lat="49.1562565" lon="7.0353682"/><trkpt lat="49.1561863" lon="7.0354095"/><trkpt lat="49.1562226" lon="7.035554"/><trkpt lat="49.1562256" lon="7.035566"/><trkpt lat="49.1563408" lon="7.0354983"/><trkpt lat="49.1563569" lon="7.0355624"/><trkpt lat="49.1563869" lon="7.0355448"/><trkpt lat="49.1563106" lon="7.0352415"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Ottweiler
+addr:country=DE
+addr:housenumber=21
+addr:postcode=66564
+addr:street=Dörrenbacher Straße
+addr:suburb=Fürth
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+operator=Sparkasse Neunkirchen
+operator:wikidata=Q18630944
+id=way/230945589</desc><trkseg><trkpt lat="49.4232623" lon="7.2365732"/><trkpt lat="49.4232362" lon="7.2368152"/><trkpt lat="49.4233184" lon="7.2368361"/><trkpt lat="49.4233207" lon="7.236815"/><trkpt lat="49.4233494" lon="7.2368223"/><trkpt lat="49.423377" lon="7.2365653"/><trkpt lat="49.4233003" lon="7.2365458"/><trkpt lat="49.4232964" lon="7.2365819"/><trkpt lat="49.4232623" lon="7.2365732"/></trkseg></trk><trk><name>levoBank</name><desc>addr:city=Lebach
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66822
+addr:street=Poststraße
+amenity=bank
+building=yes
+name=levoBank
+wheelchair=yes
+id=way/232352242</desc><trkseg><trkpt lat="49.4094386" lon="6.9096649"/><trkpt lat="49.409465" lon="6.9096621"/><trkpt lat="49.40949" lon="6.9096486"/><trkpt lat="49.4095118" lon="6.9096256"/><trkpt lat="49.4095288" lon="6.9095945"/><trkpt lat="49.4095399" lon="6.9095575"/><trkpt lat="49.4095443" lon="6.9095174"/><trkpt lat="49.4095299" lon="6.9095145"/><trkpt lat="49.4095333" lon="6.9094714"/><trkpt lat="49.4095509" lon="6.9094747"/><trkpt lat="49.4095622" lon="6.909334"/><trkpt lat="49.4094676" lon="6.9093161"/><trkpt lat="49.4094626" lon="6.909379"/><trkpt lat="49.4094395" lon="6.9093747"/><trkpt lat="49.4094448" lon="6.9093085"/><trkpt lat="49.4093246" lon="6.9092858"/><trkpt lat="49.4093183" lon="6.9093644"/><trkpt lat="49.4092682" lon="6.9093549"/><trkpt lat="49.4092536" lon="6.9095381"/><trkpt lat="49.4093058" lon="6.909548"/><trkpt lat="49.4092983" lon="6.9096428"/><trkpt lat="49.4094162" lon="6.9096651"/><trkpt lat="49.4094206" lon="6.9096104"/><trkpt lat="49.4094426" lon="6.9096146"/><trkpt lat="49.4094386" lon="6.9096649"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=22-24
+addr:postcode=66740
+addr:street=Saarwellinger Straße
+addr:suburb=Roden
+amenity=bank
+atm=yes
+building=yes
+drive_through=no
+name=Sparkasse
+website=https://www.ksk-saarlouis.de/
+wheelchair=yes
+id=way/234273369</desc><trkseg><trkpt lat="49.3322498" lon="6.7530341"/><trkpt lat="49.3322699" lon="6.7530334"/><trkpt lat="49.3322695" lon="6.7530682"/><trkpt lat="49.3323022" lon="6.753075"/><trkpt lat="49.3323337" lon="6.7531005"/><trkpt lat="49.3323541" lon="6.7531385"/><trkpt lat="49.3323652" lon="6.7531736"/><trkpt lat="49.3323779" lon="6.7532311"/><trkpt lat="49.3324118" lon="6.7532227"/><trkpt lat="49.3324125" lon="6.753233"/><trkpt lat="49.332463" lon="6.7532245"/><trkpt lat="49.3324661" lon="6.753245"/><trkpt lat="49.332517" lon="6.7532166"/><trkpt lat="49.3324992" lon="6.7531405"/><trkpt lat="49.3324744" lon="6.7530602"/><trkpt lat="49.3324421" lon="6.7529858"/><trkpt lat="49.3324185" lon="6.752949"/><trkpt lat="49.3323777" lon="6.7529051"/><trkpt lat="49.3323184" lon="6.7528732"/><trkpt lat="49.3322676" lon="6.7528713"/><trkpt lat="49.3322671" lon="6.7527985"/><trkpt lat="49.3322378" lon="6.7527978"/><trkpt lat="49.3322377" lon="6.7528701"/><trkpt lat="49.3322375" lon="6.7529143"/><trkpt lat="49.3322384" lon="6.7530337"/><trkpt lat="49.3322498" lon="6.7530341"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=27
+addr:postcode=66539
+addr:street=Bürgermeister-Regitz-Straße
+addr:suburb=Wellesweiler
+amenity=bank
+building=yes
+name=Volksbank
+id=way/235738347</desc><trkseg><trkpt lat="49.3467596" lon="7.220746"/><trkpt lat="49.3467164" lon="7.2208396"/><trkpt lat="49.3466992" lon="7.2208782"/><trkpt lat="49.3467959" lon="7.220982"/><trkpt lat="49.3468562" lon="7.2208498"/><trkpt lat="49.3467596" lon="7.220746"/></trkseg></trk><trk><name>Bank 1 Saar</name><desc>addr:city=Merchweiler
+addr:country=DE
+addr:housenumber=19a
+addr:postcode=66589
+addr:street=Bahnhofstraße
+addr:suburb=Wemmetsweiler
+amenity=bank
+atm=yes
+brand=Bank 1 Saar
+brand:wikidata=Q806608
+building=yes
+name=Bank 1 Saar
+operator=Bank1Saar
+id=way/238320764</desc><trkseg><trkpt lat="49.3706701" lon="7.0860103"/><trkpt lat="49.3707155" lon="7.0858484"/><trkpt lat="49.370721" lon="7.0858231"/><trkpt lat="49.3705865" lon="7.0858648"/><trkpt lat="49.3706039" lon="7.0860269"/><trkpt lat="49.3706701" lon="7.0860103"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Schmelz
+addr:country=DE
+addr:housenumber=2a
+addr:postcode=66839
+addr:street=Trierer Straße
+amenity=bank
+atm=yes
+building=yes
+name=Volksbank
+id=way/247060083</desc><trkseg><trkpt lat="49.4423513" lon="6.8538847"/><trkpt lat="49.442666" lon="6.8540005"/><trkpt lat="49.4426967" lon="6.8538034"/><trkpt lat="49.4425332" lon="6.8537433"/><trkpt lat="49.442543" lon="6.8536803"/><trkpt lat="49.4424176" lon="6.8536342"/><trkpt lat="49.4423917" lon="6.8536246"/><trkpt lat="49.4423513" lon="6.8538847"/></trkseg></trk><trk><name>way/249335209</name><desc>addr:city=Lebach
+addr:country=DE
+addr:housenumber=32
+addr:postcode=66822
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+building=yes
+operator=Volksbank
+operator:wikidata=Q18628527
+id=way/249335209</desc><trkseg><trkpt lat="49.4598583" lon="6.9627833"/><trkpt lat="49.4597327" lon="6.9627548"/><trkpt lat="49.459748" lon="6.9628159"/><trkpt lat="49.4596657" lon="6.9628403"/><trkpt lat="49.4596772" lon="6.9629319"/><trkpt lat="49.4597113" lon="6.9629219"/><trkpt lat="49.4597268" lon="6.9630459"/><trkpt lat="49.4598512" lon="6.9629319"/><trkpt lat="49.4598461" lon="6.962882"/><trkpt lat="49.4598697" lon="6.962875"/><trkpt lat="49.4598583" lon="6.9627833"/></trkseg></trk><trk><name>way/252718453</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=50a
+addr:postcode=66424
+addr:street=Ringstraße
+amenity=bank
+atm=yes
+brand=Sparkasse
+building=commercial
+building:levels=1
+opening_hours=Tu-Th 08:30-12:00,14:00-16:00
+operator=Sparkasse
+smoking=no
+wheelchair=yes
+id=way/252718453</desc><trkseg><trkpt lat="49.3120265" lon="7.3418005"/><trkpt lat="49.3118699" lon="7.3418627"/><trkpt lat="49.3118922" lon="7.3419947"/><trkpt lat="49.3120031" lon="7.3419507"/><trkpt lat="49.3120488" lon="7.3419325"/><trkpt lat="49.3120265" lon="7.3418005"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Spiesen-Elversberg
+addr:country=DE
+addr:housenumber=8
+addr:postcode=66583
+addr:street=St.Ingberter Straße
+amenity=bank
+building=yes
+building:levels=3
+name=Volksbank
+roof:shape=flat
+id=way/260787183</desc><trkseg><trkpt lat="49.3135392" lon="7.1271697"/><trkpt lat="49.3135013" lon="7.1271566"/><trkpt lat="49.3133226" lon="7.127095"/><trkpt lat="49.3133024" lon="7.1272329"/><trkpt lat="49.3133212" lon="7.1272394"/><trkpt lat="49.3133178" lon="7.1272628"/><trkpt lat="49.3133793" lon="7.127284"/><trkpt lat="49.3135155" lon="7.127331"/><trkpt lat="49.3135392" lon="7.1271697"/></trkseg></trk><trk><name>Kreissparkasse Saarlouis</name><desc>addr:city=Nalbach
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66809
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+building=yes
+name=Kreissparkasse Saarlouis
+id=way/261520861</desc><trkseg><trkpt lat="49.3906246" lon="6.8373428"/><trkpt lat="49.3905436" lon="6.8373665"/><trkpt lat="49.3905764" lon="6.8376311"/><trkpt lat="49.3906941" lon="6.8375966"/><trkpt lat="49.3907125" lon="6.8375582"/><trkpt lat="49.3907015" lon="6.8374698"/><trkpt lat="49.3906863" lon="6.8374571"/><trkpt lat="49.3906654" lon="6.8374632"/><trkpt lat="49.3906496" lon="6.8373355"/><trkpt lat="49.3906246" lon="6.8373428"/></trkseg></trk><trk><name>Levo Bank</name><desc>addr:city=Nalbach
+addr:country=DE
+addr:housenumber=4
+addr:postcode=66809
+addr:street=Bahnhofstraße
+amenity=bank
+atm=yes
+building=yes
+name=Levo Bank
+id=way/261525516</desc><trkseg><trkpt lat="49.390925" lon="6.8371001"/><trkpt lat="49.3907789" lon="6.8371325"/><trkpt lat="49.3907602" lon="6.8371366"/><trkpt lat="49.3907709" lon="6.83725"/><trkpt lat="49.3908362" lon="6.8372355"/><trkpt lat="49.3908401" lon="6.8372763"/><trkpt lat="49.3909217" lon="6.8372583"/><trkpt lat="49.3909178" lon="6.837217"/><trkpt lat="49.3910221" lon="6.8371939"/><trkpt lat="49.3910115" lon="6.8370809"/><trkpt lat="49.390925" lon="6.8371001"/></trkseg></trk><trk><name>Stadtsparkasse Völklingen</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housename=ServiceCenter Hermann-Röchling-Höhe
+addr:housenumber=41
+addr:postcode=66333
+addr:street=Trierer Straße
+addr:suburb=Röchling-Höhe
+amenity=bank
+atm=yes
+building=yes
+designation=ServiceCenter Hermann-Röchling-Höhe
+name=Stadtsparkasse Völklingen
+id=way/264112615</desc><trkseg><trkpt lat="49.2721101" lon="6.8357852"/><trkpt lat="49.2720442" lon="6.8357564"/><trkpt lat="49.2720177" lon="6.8358989"/><trkpt lat="49.2720835" lon="6.8359277"/><trkpt lat="49.2721101" lon="6.8357852"/></trkseg></trk><trk><name>Sparkasse Saarbrücken</name><desc>addr:city=Püttlingen
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66346
+addr:street=Fresagrandinariastraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Saarbrücken
+id=way/266079413</desc><trkseg><trkpt lat="49.3015075" lon="6.8961321"/><trkpt lat="49.3016127" lon="6.8959442"/><trkpt lat="49.301547" lon="6.8958543"/><trkpt lat="49.301524" lon="6.8958304"/><trkpt lat="49.3014192" lon="6.8960129"/><trkpt lat="49.3015075" lon="6.8961321"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Püttlingen
+addr:country=DE
+addr:housenumber=16
+addr:postcode=66346
+addr:street=Sprenger Straße
+amenity=bank
+building=yes
+fixme=opening_hours
+name=Volksbank
+id=way/266079414</desc><trkseg><trkpt lat="49.3016325" lon="6.8962469"/><trkpt lat="49.3017766" lon="6.8964601"/><trkpt lat="49.3018761" lon="6.8963019"/><trkpt lat="49.301732" lon="6.8960887"/><trkpt lat="49.3016325" lon="6.8962469"/></trkseg></trk><trk><name>Sparkasse Saarbrücken</name><desc>addr:city=Püttlingen
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66346
+addr:street=Rathausplatz
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Saarbrücken
+opening_hours=Mo-Fr 08:15-12:30,14:00-16:00
+wheelchair=yes
+id=way/266084215</desc><trkseg><trkpt lat="49.2885433" lon="6.8828802"/><trkpt lat="49.2885298" lon="6.8827006"/><trkpt lat="49.2884813" lon="6.8827092"/><trkpt lat="49.2883486" lon="6.8827326"/><trkpt lat="49.2883622" lon="6.8829123"/><trkpt lat="49.2885433" lon="6.8828802"/></trkseg></trk><trk><name>Sparkasse Saarbrücken</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housenumber=4
+addr:postcode=66333
+addr:street=Schaffhauser Straße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Saarbrücken
+operator:wikidata=Q2307655
+id=way/302776308</desc><trkseg><trkpt lat="49.2463738" lon="6.8386527"/><trkpt lat="49.246467" lon="6.8386165"/><trkpt lat="49.2464314" lon="6.838387"/><trkpt lat="49.2463996" lon="6.838352"/><trkpt lat="49.2463356" lon="6.8383792"/><trkpt lat="49.2463511" lon="6.8384622"/><trkpt lat="49.2463415" lon="6.8384676"/><trkpt lat="49.2463738" lon="6.8386527"/></trkseg></trk><trk><name>Stadtsparkasse Völklingen</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housename=ServiceCenter Fürstenhausen
+addr:housenumber=62
+addr:postcode=66333
+addr:street=Saarbrücker Straße
+amenity=bank
+atm=yes
+building=yes
+designation=ServiceCenter Fürstenhausen
+name=Stadtsparkasse Völklingen
+wheelchair=yes
+id=way/303703082</desc><trkseg><trkpt lat="49.2441669" lon="6.8689828"/><trkpt lat="49.2442808" lon="6.868933"/><trkpt lat="49.2442583" lon="6.8688122"/><trkpt lat="49.2441444" lon="6.8688621"/><trkpt lat="49.2441669" lon="6.8689828"/></trkseg></trk><trk><name>Kreissparkasse Saarlouis</name><desc>addr:city=Überherrn
+addr:country=DE
+addr:housenumber=16
+addr:postcode=66802
+addr:street=Auf der Spees
+amenity=bank
+atm=yes
+building=yes
+drive_through=no
+name=Kreissparkasse Saarlouis
+opening_hours=Mo-Fr 09:00-12:00, Mo,Tu,Fr 14:00-16:00, Th 14:00-18:00
+id=way/303968655</desc><trkseg><trkpt lat="49.273167" lon="6.7083454"/><trkpt lat="49.2732701" lon="6.7082107"/><trkpt lat="49.27318" lon="6.7080485"/><trkpt lat="49.2730768" lon="6.7081832"/><trkpt lat="49.273167" lon="6.7083454"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housenumber=54
+addr:postcode=66333
+addr:street=Bismarckstraße
+addr:suburb=Völklingen
+amenity=bank
+brand:wikidata=Q1552301
+building=yes
+contact:website=https://www.meine-vvb.de/wir-fuer-sie/filialen-ansprechpartner/filialen/uebersicht-filialen/voelklingen.html
+level=0
+name=Volksbank
+opening_hours=Mo-Tu,Th-Fr 09:00-12:00,14:00-16:00; We 09:00-12:00; PH,Sa-Su closed
+strapline=meine VVB
+wheelchair=yes
+id=way/306360864</desc><trkseg><trkpt lat="49.2519443" lon="6.8529581"/><trkpt lat="49.2518699" lon="6.8528419"/><trkpt lat="49.2519324" lon="6.8527526"/><trkpt lat="49.2518611" lon="6.852622"/><trkpt lat="49.2517175" lon="6.8528235"/><trkpt lat="49.2517166" lon="6.8528401"/><trkpt lat="49.2517155" lon="6.8528602"/><trkpt lat="49.2518588" lon="6.8530936"/><trkpt lat="49.2519443" lon="6.8529581"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Wallerfangen
+addr:country=DE
+addr:housenumber=26
+addr:postcode=66798
+addr:street=Hauptstraße
+amenity=bank
+building=yes
+name=Sparkasse
+id=way/307802432</desc><trkseg><trkpt lat="49.3299409" lon="6.7165368"/><trkpt lat="49.3298966" lon="6.7164211"/><trkpt lat="49.3297632" lon="6.7165345"/><trkpt lat="49.3297938" lon="6.7166423"/><trkpt lat="49.3298318" lon="6.7166532"/><trkpt lat="49.3299409" lon="6.7165368"/></trkseg></trk><trk><name>Volksbank Lebach</name><desc>addr:city=Saarwellingen
+addr:country=DE
+addr:housenumber=35
+addr:postcode=66793
+addr:street=Kirchenstraße
+amenity=bank
+building=yes
+name=Volksbank Lebach
+id=way/309187225</desc><trkseg><trkpt lat="49.3600602" lon="6.8755723"/><trkpt lat="49.3600375" lon="6.8756303"/><trkpt lat="49.3600581" lon="6.8757066"/><trkpt lat="49.3600896" lon="6.8757072"/><trkpt lat="49.3601005" lon="6.8757389"/><trkpt lat="49.3601507" lon="6.875728"/><trkpt lat="49.3601799" lon="6.8756429"/><trkpt lat="49.3601664" lon="6.8756091"/><trkpt lat="49.3601294" lon="6.8756112"/><trkpt lat="49.3601104" lon="6.8755665"/><trkpt lat="49.3600602" lon="6.8755723"/></trkseg></trk><trk><name>Volksbank Überherrn</name><desc>addr:city=Überherrn
+addr:country=DE
+addr:housenumber=36
+addr:postcode=66802
+addr:street=Breiter Weg
+amenity=bank
+building=yes
+name=Volksbank Überherrn
+id=way/321883610</desc><trkseg><trkpt lat="49.2746454" lon="6.7093532"/><trkpt lat="49.274658" lon="6.7092686"/><trkpt lat="49.2746278" lon="6.7091951"/><trkpt lat="49.2745726" lon="6.7091759"/><trkpt lat="49.2745246" lon="6.7092221"/><trkpt lat="49.2745121" lon="6.7093068"/><trkpt lat="49.2745422" lon="6.7093803"/><trkpt lat="49.2745975" lon="6.7093995"/><trkpt lat="49.2746454" lon="6.7093532"/></trkseg></trk><trk><name>Sparkasse Merzig-Wadern</name><desc>addr:city=Merzig
+addr:country=DE
+addr:housenumber=9
+addr:postcode=66663
+addr:street=Schankstraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Merzig-Wadern
+wheelchair=yes
+wikidata=Q18630932
+id=way/329657909</desc><trkseg><trkpt lat="49.4406227" lon="6.6351191"/><trkpt lat="49.4406114" lon="6.6351058"/><trkpt lat="49.4406195" lon="6.635083"/><trkpt lat="49.4405228" lon="6.635003"/><trkpt lat="49.4404826" lon="6.6351168"/><trkpt lat="49.4404588" lon="6.6352217"/><trkpt lat="49.4404531" lon="6.6353202"/><trkpt lat="49.4404688" lon="6.6354138"/><trkpt lat="49.4404996" lon="6.6355031"/><trkpt lat="49.4405273" lon="6.6355654"/><trkpt lat="49.4405648" lon="6.635612"/><trkpt lat="49.4405929" lon="6.635632"/><trkpt lat="49.4406669" lon="6.6356685"/><trkpt lat="49.4406691" lon="6.6356514"/><trkpt lat="49.4408232" lon="6.6357288"/><trkpt lat="49.4408595" lon="6.6355682"/><trkpt lat="49.4408839" lon="6.6355876"/><trkpt lat="49.4408876" lon="6.6356149"/><trkpt lat="49.4408817" lon="6.63564"/><trkpt lat="49.4409684" lon="6.6356878"/><trkpt lat="49.4409456" lon="6.6357702"/><trkpt lat="49.4410676" lon="6.6358342"/><trkpt lat="49.4410907" lon="6.6357223"/><trkpt lat="49.4410993" lon="6.6356522"/><trkpt lat="49.4410975" lon="6.6355721"/><trkpt lat="49.4410912" lon="6.6355153"/><trkpt lat="49.4410802" lon="6.6354758"/><trkpt lat="49.4410857" lon="6.6354686"/><trkpt lat="49.4410836" lon="6.6354396"/><trkpt lat="49.4410658" lon="6.6354138"/><trkpt lat="49.4410469" lon="6.6354187"/><trkpt lat="49.4410082" lon="6.6353526"/><trkpt lat="49.440959" lon="6.6352962"/><trkpt lat="49.4408898" lon="6.635256"/><trkpt lat="49.4408951" lon="6.6352334"/><trkpt lat="49.4408238" lon="6.635198"/><trkpt lat="49.440805" lon="6.6351448"/><trkpt lat="49.4407809" lon="6.6351046"/><trkpt lat="49.4407442" lon="6.6350788"/><trkpt lat="49.4406961" lon="6.6350723"/><trkpt lat="49.44065" lon="6.6350917"/><trkpt lat="49.4406227" lon="6.6351191"/></trkseg></trk><trk><name>Sparkasse Nennig</name><desc>addr:city=Perl
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66706
+addr:street=Theodor-Heuss-Straße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Nennig
+operator=Sparkasse
+wikidata=Q103186746
+id=way/331802449</desc><trkseg><trkpt lat="49.5319136" lon="6.3823913"/><trkpt lat="49.5318484" lon="6.3822472"/><trkpt lat="49.5317609" lon="6.3823411"/><trkpt lat="49.5318261" lon="6.3824852"/><trkpt lat="49.5319136" lon="6.3823913"/></trkseg></trk><trk><name>Kreissparkasse Saarpfalz</name><desc>addr:city=Sankt Ingbert
+addr:country=DE
+addr:housenumber=88
+addr:postcode=66386
+addr:street=Obere Kaiserstraße
+amenity=bank
+atm=yes
+building=yes
+name=Kreissparkasse Saarpfalz
+id=way/336700800</desc><trkseg><trkpt lat="49.2837286" lon="7.158927"/><trkpt lat="49.2838206" lon="7.1589563"/><trkpt lat="49.2838284" lon="7.1588985"/><trkpt lat="49.2838489" lon="7.158905"/><trkpt lat="49.2838822" lon="7.1586591"/><trkpt lat="49.2837698" lon="7.1586232"/><trkpt lat="49.2837286" lon="7.158927"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Rehlingen-Siersburg
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66780
+addr:street=Rathausstraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse
+toilets:wheelchair=no
+wheelchair=yes
+id=way/341169175</desc><trkseg><trkpt lat="49.3624318" lon="6.667024"/><trkpt lat="49.3625453" lon="6.6669648"/><trkpt lat="49.3625094" lon="6.6668024"/><trkpt lat="49.3625401" lon="6.6667864"/><trkpt lat="49.3625295" lon="6.6667381"/><trkpt lat="49.3625222" lon="6.6667244"/><trkpt lat="49.3625094" lon="6.666711"/><trkpt lat="49.3624912" lon="6.6667054"/><trkpt lat="49.3623536" lon="6.6667772"/><trkpt lat="49.3623725" lon="6.6668628"/><trkpt lat="49.3623937" lon="6.6668518"/><trkpt lat="49.3624318" lon="6.667024"/></trkseg></trk><trk><name>Volksbank Diefflen</name><desc>addr:city=Dillingen/Saar
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66763
+addr:street=Düppenweilerstraße
+amenity=bank
+atm=yes
+building=yes
+name=Volksbank Diefflen
+id=way/344149244</desc><trkseg><trkpt lat="49.3723555" lon="6.7624967"/><trkpt lat="49.3723014" lon="6.7624182"/><trkpt lat="49.372306" lon="6.7624101"/><trkpt lat="49.3722443" lon="6.7623208"/><trkpt lat="49.3722397" lon="6.7623289"/><trkpt lat="49.3721763" lon="6.7624409"/><trkpt lat="49.3721536" lon="6.7624854"/><trkpt lat="49.3722044" lon="6.7625611"/><trkpt lat="49.3722236" lon="6.7625537"/><trkpt lat="49.3722297" lon="6.7625745"/><trkpt lat="49.3723376" lon="6.7625805"/><trkpt lat="49.3723542" lon="6.7625557"/><trkpt lat="49.3723555" lon="6.7624967"/></trkseg></trk><trk><name>way/345931445</name><desc>addr:city=Nohfelden
+addr:country=DE
+addr:housenumber=16
+addr:postcode=66625
+addr:street=Saarbrücker Straße
+addr:suburb=Türkismühle
+amenity=bank
+atm=yes
+building=yes
+operator=Kreissparkasse St. Wendel
+id=way/345931445</desc><trkseg><trkpt lat="49.5809306" lon="7.114033"/><trkpt lat="49.5807732" lon="7.1138699"/><trkpt lat="49.5807027" lon="7.114032"/><trkpt lat="49.5807509" lon="7.1140819"/><trkpt lat="49.5807587" lon="7.1140638"/><trkpt lat="49.5808679" lon="7.1141769"/><trkpt lat="49.5809306" lon="7.114033"/></trkseg></trk><trk><name>Volksbank</name><desc>amenity=bank
+atm=yes
+building=yes
+name=Volksbank
+id=way/346258955</desc><trkseg><trkpt lat="49.4682722" lon="6.6763814"/><trkpt lat="49.4681944" lon="6.6762501"/><trkpt lat="49.468121" lon="6.6763531"/><trkpt lat="49.4681988" lon="6.6764844"/><trkpt lat="49.4682722" lon="6.6763814"/></trkseg></trk><trk><name>Sparkasse Merzig-Wadern</name><desc>addr:city=Merzig
+addr:country=DE
+addr:housenumber=122
+addr:postcode=66663
+addr:street=Bezirkstraße
+amenity=bank
+atm=yes
+building=yes
+name=Sparkasse Merzig-Wadern
+id=way/346342066</desc><trkseg><trkpt lat="49.4762724" lon="6.6043347"/><trkpt lat="49.4763634" lon="6.6044878"/><trkpt lat="49.4764544" lon="6.6043596"/><trkpt lat="49.4763633" lon="6.6042065"/><trkpt lat="49.4762724" lon="6.6043347"/></trkseg></trk><trk><name>levoBank Geschäftsstelle Aschbach</name><desc>addr:city=Lebach
+addr:country=DE
+addr:housenumber=61
+addr:postcode=66822
+addr:street=Koblenzer Straße
+addr:suburb=Aschbach
+amenity=bank
+atm=yes
+building=yes
+name=levoBank Geschäftsstelle Aschbach
+id=way/349810877</desc><trkseg><trkpt lat="49.4333786" lon="6.9491903"/><trkpt lat="49.4332684" lon="6.949154"/><trkpt lat="49.433274" lon="6.9491137"/><trkpt lat="49.4332243" lon="6.9490974"/><trkpt lat="49.4331983" lon="6.9492838"/><trkpt lat="49.4333582" lon="6.9493364"/><trkpt lat="49.4333786" lon="6.9491903"/></trkseg></trk><trk><name>Kreissparkasse Saarlouis</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=40
+addr:postcode=66740
+addr:street=Lebacher Straße
+amenity=bank
+atm=yes
+building=yes
+name=Kreissparkasse Saarlouis
+wheelchair=yes
+id=way/354135243</desc><trkseg><trkpt lat="49.3262731" lon="6.7659595"/><trkpt lat="49.3261732" lon="6.7660666"/><trkpt lat="49.3261949" lon="6.7661141"/><trkpt lat="49.3261214" lon="6.766193"/><trkpt lat="49.3262053" lon="6.766377"/><trkpt lat="49.3262755" lon="6.7663016"/><trkpt lat="49.3263034" lon="6.7663627"/><trkpt lat="49.3264048" lon="6.7662509"/><trkpt lat="49.3262731" lon="6.7659595"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=87b
+addr:postcode=66740
+addr:street=Kreuzbergstraße
+amenity=bank
+building=yes
+name=Sparkasse
+id=way/354135258</desc><trkseg><trkpt lat="49.3321679" lon="6.7819916"/><trkpt lat="49.3321207" lon="6.7818669"/><trkpt lat="49.3320832" lon="6.7818649"/><trkpt lat="49.3320561" lon="6.7819118"/><trkpt lat="49.3320631" lon="6.7819367"/><trkpt lat="49.3320447" lon="6.7819709"/><trkpt lat="49.3320696" lon="6.7820426"/><trkpt lat="49.332143" lon="6.78205"/><trkpt lat="49.3321679" lon="6.7819916"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Freisen
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66629
+addr:street=Hermann-Hörmann-Platz
+amenity=bank
+building=yes
+name=Sparkasse
+id=way/356905469</desc><trkseg><trkpt lat="49.5522042" lon="7.2492245"/><trkpt lat="49.552265" lon="7.2493905"/><trkpt lat="49.5522975" lon="7.2493622"/><trkpt lat="49.5523285" lon="7.2494468"/><trkpt lat="49.5524076" lon="7.2493779"/><trkpt lat="49.5523759" lon="7.2492913"/><trkpt lat="49.5525001" lon="7.2491833"/><trkpt lat="49.5524393" lon="7.2490171"/><trkpt lat="49.5523796" lon="7.249069"/><trkpt lat="49.5523724" lon="7.2490495"/><trkpt lat="49.552248" lon="7.2491577"/><trkpt lat="49.552256" lon="7.2491795"/><trkpt lat="49.5522042" lon="7.2492245"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Freisen
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66629
+addr:street=Hermann-Hörmann-Platz
+amenity=bank
+atm=yes
+building=yes
+name=Volksbank
+id=way/356905470</desc><trkseg><trkpt lat="49.5524342" lon="7.249742"/><trkpt lat="49.5525314" lon="7.2496575"/><trkpt lat="49.5524324" lon="7.2493869"/><trkpt lat="49.5524161" lon="7.2494011"/><trkpt lat="49.5524076" lon="7.2493779"/><trkpt lat="49.5523285" lon="7.2494468"/><trkpt lat="49.5523671" lon="7.2495521"/><trkpt lat="49.5523551" lon="7.2495625"/><trkpt lat="49.5523864" lon="7.249648"/><trkpt lat="49.5523966" lon="7.2496392"/><trkpt lat="49.5524342" lon="7.249742"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=152
+addr:postcode=66424
+addr:street=Dürerstraße
+amenity=bank
+building=yes
+name=Sparkasse
+wheelchair=yes
+id=way/360305169</desc><trkseg><trkpt lat="49.3399263" lon="7.3349084"/><trkpt lat="49.3400669" lon="7.3349156"/><trkpt lat="49.3400693" lon="7.3348049"/><trkpt lat="49.3400942" lon="7.3348062"/><trkpt lat="49.3400981" lon="7.3346254"/><trkpt lat="49.3400158" lon="7.3346212"/><trkpt lat="49.3400151" lon="7.3346515"/><trkpt lat="49.3399319" lon="7.3346473"/><trkpt lat="49.3399263" lon="7.3349084"/></trkseg></trk><trk><name>Commerzbank</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=10
+addr:postcode=66424
+addr:street=Eisenbahnstraße
+amenity=bank
+brand=Commerzbank
+brand:wikidata=Q157617
+brand:wikipedia=en:Commerzbank
+building=yes
+name=Commerzbank
+opening_hours=Mo-Th 08:00-13:00, Fr 09:00-14:00, Mo,Tu,Th 14:00-16:00
+id=way/360776070</desc><trkseg><trkpt lat="49.3225425" lon="7.3407609"/><trkpt lat="49.3225225" lon="7.3406512"/><trkpt lat="49.3224914" lon="7.340661"/><trkpt lat="49.3224839" lon="7.3406181"/><trkpt lat="49.3223823" lon="7.3406574"/><trkpt lat="49.3224028" lon="7.3407183"/><trkpt lat="49.32243" lon="7.3408293"/><trkpt lat="49.3225456" lon="7.3407785"/><trkpt lat="49.3225425" lon="7.3407609"/></trkseg></trk><trk><name>Kreissparkasse Saarpfalz</name><desc>addr:city=Blieskastel
+addr:country=DE
+addr:housenumber=4
+addr:postcode=66440
+addr:street=Paradeplatz
+amenity=bank
+atm=yes
+building=yes
+name=Kreissparkasse Saarpfalz
+wheelchair=yes
+id=way/366182000</desc><trkseg><trkpt lat="49.2376076" lon="7.2602848"/><trkpt lat="49.2376142" lon="7.2602343"/><trkpt lat="49.2376648" lon="7.2602499"/><trkpt lat="49.2376949" lon="7.2600204"/><trkpt lat="49.2376472" lon="7.2600057"/><trkpt lat="49.2376537" lon="7.2599564"/><trkpt lat="49.2375911" lon="7.2599371"/><trkpt lat="49.2375883" lon="7.259958"/><trkpt lat="49.2374492" lon="7.2599152"/><trkpt lat="49.2374087" lon="7.2602236"/><trkpt lat="49.2376076" lon="7.2602848"/></trkseg></trk><trk><name>Kreissparkasse Saarpfalz</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=80
+addr:postcode=66424
+addr:street=Kaiserslauterer Straße
+amenity=bank
+atm=yes
+building=yes
+name=Kreissparkasse Saarpfalz
+id=way/370555047</desc><trkseg><trkpt lat="49.3464265" lon="7.3628601"/><trkpt lat="49.346357" lon="7.3627653"/><trkpt lat="49.3463048" lon="7.3628554"/><trkpt lat="49.3463743" lon="7.3629502"/><trkpt lat="49.3464265" lon="7.3628601"/></trkseg></trk><trk><name>Kreissparkasse</name><desc>addr:city=Rehlingen-Siersburg
+addr:country=DE
+addr:housenumber=21a
+addr:postcode=66780
+addr:street=Mittelstraße
+amenity=bank
+atm=yes
+building=yes
+name=Kreissparkasse
+operator=Kreissparkasse Saarlouis
+wheelchair=yes
+id=way/377119440</desc><trkseg><trkpt lat="49.3812269" lon="6.6859245"/><trkpt lat="49.3811527" lon="6.6861138"/><trkpt lat="49.3812109" lon="6.6861676"/><trkpt lat="49.3813071" lon="6.6862567"/><trkpt lat="49.3813433" lon="6.6862901"/><trkpt lat="49.3814175" lon="6.6861008"/><trkpt lat="49.3812269" lon="6.6859245"/></trkseg></trk><trk><name>Kreissparkasse Saarlouis</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=73
+addr:postcode=66740
+addr:street=Feldstraße
+amenity=bank
+atm=yes
+brand:wikidata=Q18628332
+building=yes
+internet_access:fee=yes
+name=Kreissparkasse Saarlouis
+operator=Kreissparkasse Saarlouis
+wheelchair=yes
+id=way/379348129</desc><trkseg><trkpt lat="49.3027495" lon="6.7600418"/><trkpt lat="49.302762" lon="6.7600918"/><trkpt lat="49.3028151" lon="6.7600653"/><trkpt lat="49.3027923" lon="6.7599687"/><trkpt lat="49.3028068" lon="6.7599412"/><trkpt lat="49.3028094" lon="6.7598916"/><trkpt lat="49.3028011" lon="6.759844"/><trkpt lat="49.3027831" lon="6.759797"/><trkpt lat="49.302753" lon="6.7597742"/><trkpt lat="49.3027267" lon="6.7597709"/><trkpt lat="49.3026979" lon="6.7597816"/><trkpt lat="49.3026577" lon="6.7598198"/><trkpt lat="49.3026465" lon="6.7598445"/><trkpt lat="49.3026395" lon="6.7598736"/><trkpt lat="49.3025791" lon="6.7599057"/><trkpt lat="49.3026038" lon="6.7600186"/><trkpt lat="49.3026629" lon="6.7599895"/><trkpt lat="49.3026703" lon="6.7600062"/><trkpt lat="49.3026826" lon="6.7600217"/><trkpt lat="49.3027136" lon="6.7600398"/><trkpt lat="49.3027495" lon="6.7600418"/></trkseg></trk><trk><name>Sparda-Bank Südwest eG</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66424
+addr:street=Talstraße
+amenity=bank
+atm=yes
+building=yes
+drive_through=no
+name=Sparda-Bank Südwest eG
+opening_hours=Mo 08:30-17:15, Tu-We 08:30-16:00, Th 08:30-18:00, Fr 08:30-12:00, PH off
+operator=Sparda-Bank Südwest eG
+wheelchair=yes
+id=way/389216538</desc><trkseg><trkpt lat="49.3229114" lon="7.3421962"/><trkpt lat="49.3229481" lon="7.3423358"/><trkpt lat="49.3229933" lon="7.3425299"/><trkpt lat="49.323256" lon="7.3423918"/><trkpt lat="49.323249" lon="7.3423609"/><trkpt lat="49.3232095" lon="7.3421877"/><trkpt lat="49.3230395" lon="7.3422827"/><trkpt lat="49.3230119" lon="7.3421693"/><trkpt lat="49.3230073" lon="7.3421504"/><trkpt lat="49.3229114" lon="7.3421962"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Püttlingen
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66346
+addr:street=Rathausplatz
+amenity=bank
+atm=yes
+building=yes
+name=Volksbank
+wheelchair=limited
+id=way/398505398</desc><trkseg><trkpt lat="49.288173" lon="6.8823253"/><trkpt lat="49.2880545" lon="6.88235"/><trkpt lat="49.2880034" lon="6.8824078"/><trkpt lat="49.2880156" lon="6.8826416"/><trkpt lat="49.2882041" lon="6.8826181"/><trkpt lat="49.288173" lon="6.8823253"/></trkseg></trk><trk><name>Volksbank</name><desc>addr:city=Quierschied
+addr:country=DE
+addr:housenumber=115
+addr:postcode=66287
+addr:street=Hauptstraße
+amenity=bank
+atm=yes
+building=yes
+name=Volksbank
+opening_hours=Mo-Fr 09:00-12:30, Mo,Tu,Th 14:00-17:00, Fr 14:00-16:00
+id=way/415149932</desc><trkseg><trkpt lat="49.3449765" lon="7.030558"/><trkpt lat="49.3449928" lon="7.0306718"/><trkpt lat="49.3451162" lon="7.0306302"/><trkpt lat="49.3450931" lon="7.030469"/><trkpt lat="49.3450356" lon="7.0304883"/><trkpt lat="49.3450128" lon="7.0303289"/><trkpt lat="49.3449469" lon="7.0303511"/><trkpt lat="49.3449765" lon="7.030558"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Kleinblittersdorf
+addr:country=DE
+addr:housenumber=37
+addr:postcode=66271
+addr:street=Bahnhofstraße
+amenity=bank
+atm=no
+building=yes
+name=Sparkasse
+operator=Sparkasse-Saarbrücken
+id=way/435835005</desc><trkseg><trkpt lat="49.1174639" lon="7.0487584"/><trkpt lat="49.1173653" lon="7.0488336"/><trkpt lat="49.1173806" lon="7.0488805"/><trkpt lat="49.1174288" lon="7.0490281"/><trkpt lat="49.1174326" lon="7.0490398"/><trkpt lat="49.1174985" lon="7.0489896"/><trkpt lat="49.1175119" lon="7.0490306"/><trkpt lat="49.1175447" lon="7.0490055"/><trkpt lat="49.1174639" lon="7.0487584"/></trkseg></trk><trk><name>Reisebank</name><desc>amenity=bank
+atm=yes
+brand=Reisebank
+brand:wikidata=Q1421107
+contact:website=https://www.reisebank.de/filialen/saarbruecken-hauptbahnhof-gold-kaufen-und-geld-wechseln/
+level=0
+name=Reisebank
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:30-16:00
+operator=Reisebank
+wheelchair=yes
+id=way/682786820</desc><trkseg><trkpt lat="49.2407294" lon="6.9915506"/><trkpt lat="49.2407347" lon="6.9914937"/><trkpt lat="49.240663" lon="6.9914782"/><trkpt lat="49.2406618" lon="6.9914909"/><trkpt lat="49.2406577" lon="6.9915351"/><trkpt lat="49.2407294" lon="6.9915506"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Merzig
+addr:country=DE
+addr:housenumber=5a
+addr:postcode=66663
+addr:street=Hausbacher Straße
+amenity=bank
+atm=yes
+building=yes
+drive_through=no
+name=Sparkasse
+operator=Sparkasse Merzig-Wadern
+wheelchair=yes
+id=way/801409790</desc><trkseg><trkpt lat="49.4666731" lon="6.6787932"/><trkpt lat="49.4665694" lon="6.6787073"/><trkpt lat="49.4664856" lon="6.678947"/><trkpt lat="49.4665893" lon="6.6790329"/><trkpt lat="49.4666731" lon="6.6787932"/></trkseg></trk><trk><name>Sparkasse</name><desc>addr:city=Nohfelden
+addr:country=DE
+addr:housenumber=25
+addr:postcode=66625
+addr:street=Saarbrücker Straße
+amenity=bank
+building=yes
+name=Sparkasse
+id=way/1197512078</desc><trkseg><trkpt lat="49.5844224" lon="7.1180449"/><trkpt lat="49.5844459" lon="7.118336"/><trkpt lat="49.5845564" lon="7.1183147"/><trkpt lat="49.5845329" lon="7.1180237"/><trkpt lat="49.5844224" lon="7.1180449"/></trkseg></trk><trk><name>Geldautomat</name><desc>amenity=bank
+atm=yes
+building=yes
+drive_through=no
+name=Geldautomat
+opening_hours=24/7
+operator=Kreissparkasse Saarlouis
+id=way/1210607131</desc><trkseg><trkpt lat="49.3054915" lon="6.7399005"/><trkpt lat="49.3054852" lon="6.7398878"/><trkpt lat="49.3054732" lon="6.7398841"/><trkpt lat="49.3054631" lon="6.7398989"/><trkpt lat="49.305462" lon="6.7399207"/><trkpt lat="49.3054679" lon="6.7399337"/><trkpt lat="49.3054773" lon="6.7399357"/><trkpt lat="49.3054843" lon="6.7399335"/><trkpt lat="49.3054922" lon="6.7399235"/><trkpt lat="49.3054934" lon="6.7399174"/><trkpt lat="49.3054915" lon="6.7399005"/></trkseg></trk></gpx>

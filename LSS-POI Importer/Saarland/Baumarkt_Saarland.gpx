@@ -1,0 +1,675 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.2266373" lon="7.0336757"><name>Hornbach</name><desc>branch=Drive In
+brand=HORNBACH
+brand:wikidata=Q685926
+brand:wikipedia=en:Hornbach (retailer)
+drive_in=yes
+internet_access=wlan
+internet_access:fee=no
+internet_access:ssid=HORNBACH Kunden
+name=Hornbach
+opening_hours=Mo-Sa 08:00-20:00
+payment:cash=yes
+payment:cryptocurrencies=no
+phone=+49 681 9822990
+shop=doityourself
+website=https://www.hornbach.de/
+wheelchair=yes
+id=node/314874378</desc></wpt><wpt lat="49.1505227" lon="7.1145758"><name>Raiffeisen</name><desc>name=Raiffeisen
+opening_hours=Mo-Sa 08:00-12:00; Mo, Tu, Th, Fr 13:30-17:00
+phone=+496804 6511
+shop=doityourself
+id=node/352950812</desc></wpt><wpt lat="49.2367176" lon="6.958795"><name>Globus Baumarkt</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=16
+addr:postcode=66115
+addr:street=Käthe-Kollwitz-Straße
+brand=Globus Baumarkt
+brand:wikidata=Q457503
+contact:website=https://www.globus-baumarkt.de/info/markt/saarbruecken/
+level=0
+name=Globus Baumarkt
+opening_hours=Mo-Sa 07:00-20:00; PH,Su closed
+self_checkout=yes
+shop=doityourself
+surveillance=yes
+surveillance:type=camera
+toilets=yes
+toilets:wheelchair=designated
+wheelchair=yes
+id=node/383763984</desc></wpt><wpt lat="49.2497646" lon="6.8982152"><name>Niederer</name><desc>name=Niederer
+shop=doityourself
+wheelchair=yes
+id=node/399496797</desc></wpt><wpt lat="49.1829394" lon="7.0355689"><name>Bauelemente Buschmann</name><desc>addr:city=Saarbrücken
+addr:housenumber=3
+addr:postcode=66129
+addr:street=Wiesenstraße
+description=Fenster, Türen, Tore; Schüco Partner
+name=Bauelemente Buschmann
+opening_hours=Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su,PH closed
+phone=+49 6805 21188
+shop=doityourself
+website=https://www.bauelemente-buschmann.de/
+wheelchair=no
+id=node/510757957</desc></wpt><wpt lat="49.2411592" lon="6.9990527"><name>tedox</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=71
+addr:postcode=66111
+addr:street=Ursulinenstraße
+brand=tedox
+brand:wikidata=Q2399946
+level=0
+name=tedox
+opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-19:00; PH,Su off
+operator=tedox KG, Bovenden-Harste
+phone=+49 681 3799720
+shop=doityourself
+website=https://www.tedox.de/index.php?id=25&amp;no_cache=1&amp;tx_tedoxfilialen_pi1[uid]=69
+wheelchair=yes
+id=node/522098882</desc></wpt><wpt lat="49.4688847" lon="7.1679877"><name>colori</name><desc>addr:city=Sankt Wendel
+addr:country=DE
+addr:housenumber=12
+addr:postcode=66606
+addr:street=Brühlstraße
+name=colori
+note=Farben-Geschäft
+shop=doityourself
+website=http://www.malerbetrieb-bick.de
+id=node/857191376</desc></wpt><wpt lat="49.4982971" lon="7.1094897"><name>ZiMMER - Elektro-Sanitär-Heizung</name><desc>addr:city=Sankt Wendel
+addr:housenumber=18
+addr:postcode=66606
+addr:street=Flächenbachstraße
+layer=-1
+name=ZiMMER - Elektro-Sanitär-Heizung
+operator=Arno Scherschel
+phone=+49 (0) 6854 - 354
+shop=doityourself
+website=https://www.zimmerguenther.de/
+wheelchair=limited
+id=node/1675218124</desc></wpt><wpt lat="49.560075" lon="7.1734036"><name>Raiffeisen Markt</name><desc>name=Raiffeisen Markt
+shop=doityourself
+website=https://www.raiffeisen.com/
+id=node/1727242092</desc></wpt><wpt lat="49.4019478" lon="7.1621262"><name>Fußboden-Tapeten Galerie</name><desc>level=0
+name=Fußboden-Tapeten Galerie
+shop=doityourself
+id=node/2091443593</desc></wpt><wpt lat="49.4356314" lon="6.8542731"><name>Baustoffe Germowitz</name><desc>check_date:opening_hours=2022-12-26
+name=Baustoffe Germowitz
+opening_hours:signed=no
+payment:credit_cards=yes
+payment:debit_cards=yes
+shop=doityourself
+wheelchair=limited
+id=node/2570111227</desc></wpt><wpt lat="49.2700705" lon="7.166364"><name>Sanitec - Gebäudetechnik</name><desc>name=Sanitec - Gebäudetechnik
+shop=doityourself
+website=https://www.sanitec-saar.de/
+id=node/2839836257</desc></wpt><wpt lat="49.2448601" lon="6.8388816"><name>Holzhauer KG</name><desc>name=Holzhauer KG
+shop=doityourself
+id=node/3133397426</desc></wpt><wpt lat="49.205023" lon="7.0228591"><name>Tegral</name><desc>name=Tegral
+opening_hours=Mo-Fr 07:30-16:30; PH,Sa,Su closed
+shop=doityourself
+wheelchair=no
+id=node/4017197510</desc></wpt><wpt lat="49.2265193" lon="7.0322404"><name>Hornbach</name><desc>brand=HORNBACH
+brand:wikidata=Q685926
+brand:wikipedia=en:Hornbach (retailer)
+changing_table=yes
+internet_access=wlan
+internet_access:fee=no
+internet_access:ssid=HORNBACH Kunden
+name=Hornbach
+opening_hours=Mo-Sa 08:00-20:00; PH,Su closed
+payment:american_express=yes
+payment:cash=yes
+payment:cryptocurrencies=no
+payment:maestro=yes
+payment:mastercard=yes
+payment:visa=yes
+phone=+49 681 9822990
+shop=doityourself
+surveillance=indoor
+surveillance:type=camera
+surveillance:zone=shop
+toilets=yes
+toilets:wheelchair=yes
+website=https://www.hornbach.de/
+wheelchair=yes
+id=node/4040317809</desc></wpt><wpt lat="49.4436673" lon="6.6412815"><name>H2 Naturstein</name><desc>name=H2 Naturstein
+shop=doityourself
+wheelchair=no
+id=node/4157651590</desc></wpt><wpt lat="49.2384676" lon="7.2742263"><name>Raiffeisen</name><desc>addr:city=Blieskastel
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66440
+addr:street=Raiffeisenstraße
+contact:phone=+49 6842 924619
+name=Raiffeisen
+shop=doityourself
+id=node/4432815384</desc></wpt><wpt lat="49.3587349" lon="7.2462773"><name>Georg Pirrung GmbH</name><desc>name=Georg Pirrung GmbH
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-13:00
+phone=+49 6826 9325-0
+shop=doityourself
+id=node/4944662553</desc></wpt><wpt lat="49.3589934" lon="7.2476023"><name>hagebaumarkt Bexbach GmbH</name><desc>name=hagebaumarkt Bexbach GmbH
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-13:00
+phone=+49 6826 9325-0
+shop=doityourself
+website=https://www.hagebau.de/
+id=node/4944662554</desc></wpt><wpt lat="49.3532158" lon="7.1418133"><name>Wässa &amp; Schuster</name><desc>name=Wässa &amp; Schuster
+shop=doityourself
+id=node/5222315015</desc></wpt><wpt lat="49.5071476" lon="6.7469211"><name>Losheimer Eisenwaren</name><desc>name=Losheimer Eisenwaren
+shop=doityourself
+id=node/5438477800</desc></wpt><wpt lat="49.4929542" lon="6.6039848"><name>Walter</name><desc>name=Walter
+shop=doityourself
+id=node/5446421459</desc></wpt><wpt lat="49.3790637" lon="7.0197661"><name>Werner Six Malerfachgeschäft</name><desc>name=Werner Six Malerfachgeschäft
+shop=doityourself
+id=node/5923884085</desc></wpt><wpt lat="49.4077237" lon="6.9113995"><name>Gebr. Alt Bau- und Brennstoff-Fachhandel GmbH &amp; Co. KG</name><desc>alt_name=Wwe. Alt
+name=Gebr. Alt Bau- und Brennstoff-Fachhandel GmbH &amp; Co. KG
+shop=doityourself
+wheelchair=no
+id=node/7050036858</desc></wpt><wpt lat="49.3303304" lon="6.9917719"><name>Ziehmer</name><desc>level=0
+name=Ziehmer
+shop=doityourself
+id=node/7197034363</desc></wpt><wpt lat="49.3865214" lon="6.7013007"><name>Fliesen Gerecke</name><desc>name=Fliesen Gerecke
+shop=doityourself
+id=node/7291760300</desc></wpt><wpt lat="49.3655371" lon="6.7134136"><name>Farben Brück</name><desc>name=Farben Brück
+shop=doityourself
+id=node/7351949724</desc></wpt><wpt lat="49.2374182" lon="6.967457"><name>Hilti</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=22
+addr:postcode=66115
+addr:street=Im Rotfeld
+check_date:opening_hours=2022-05-15
+name=Hilti
+opening_hours=Mo-Th 07:30-12:30,13:00-16:00; Fr 07:30-12:30,13:00-15:00; Sa,Su,PH closed
+phone=+49 800 8885522
+shop=doityourself
+website=https://www.hilti.de/stores/saarbr%C3%BCcken
+id=node/8659523110</desc></wpt><wpt lat="49.3345101" lon="7.3422707"><name>tedox</name><desc>addr:city=Homburg
+addr:housenumber=1
+addr:postcode=66424
+addr:street=In den Rohrwiesen
+brand=tedox
+brand:wikidata=Q2399946
+contact:phone=+49 6841 934550
+name=tedox
+opening_hours=Mo-Fr 09:00-20:00; Sa 09:00-19:00
+shop=doityourself
+website=https://www.tedox.de/shoplist/index/detail/?id=50
+id=node/12121955470</desc></wpt><trk><name>Bauhaus</name><desc>addr:city=Ensdorf/Saar
+addr:country=DE
+addr:housenumber=7
+addr:postcode=66806
+addr:street=Gustav-Stresemann-Straße
+building=yes
+internet_access=wlan
+internet_access:authentication=no
+internet_access:captive_portal=yes
+internet_access:fee=no
+internet_access:operator:wikidata=Q9396
+internet_access:ssid=BAUHAUS Public WiFi
+level=0
+name=Bauhaus
+shop=doityourself
+id=way/26011057</desc><trkseg><trkpt lat="49.2898018" lon="6.7831305"/><trkpt lat="49.2900344" lon="6.7844264"/><trkpt lat="49.2902856" lon="6.7858474"/><trkpt lat="49.2903913" lon="6.786433"/><trkpt lat="49.2904349" lon="6.786405"/><trkpt lat="49.2905447" lon="6.7869652"/><trkpt lat="49.2910625" lon="6.7867451"/><trkpt lat="49.2908238" lon="6.7854151"/><trkpt lat="49.290887" lon="6.785374"/><trkpt lat="49.290797" lon="6.784901"/><trkpt lat="49.290728" lon="6.7849275"/><trkpt lat="49.2906494" lon="6.7844604"/><trkpt lat="49.2907759" lon="6.7844046"/><trkpt lat="49.2906968" lon="6.7839555"/><trkpt lat="49.290671" lon="6.783968"/><trkpt lat="49.2905651" lon="6.7834"/><trkpt lat="49.2904579" lon="6.7834412"/><trkpt lat="49.2903155" lon="6.782642"/><trkpt lat="49.2898176" lon="6.7829108"/><trkpt lat="49.2898596" lon="6.7831018"/><trkpt lat="49.2898018" lon="6.7831305"/></trkseg></trk><trk><name>tedox</name><desc>addr:city=Ensdorf/Saar
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66806
+addr:street=Mathias-Erzberger-Straße
+brand=tedox
+brand:wikidata=Q2399946
+building=yes
+name=tedox
+shop=doityourself
+id=way/26011803</desc><trkseg><trkpt lat="49.2917251" lon="6.7814486"/><trkpt lat="49.2915531" lon="6.781518"/><trkpt lat="49.2915753" lon="6.7816474"/><trkpt lat="49.2912215" lon="6.7817901"/><trkpt lat="49.2913767" lon="6.7826946"/><trkpt lat="49.2919025" lon="6.7824825"/><trkpt lat="49.2917251" lon="6.7814486"/></trkseg></trk><trk><name>Globus Baumarkt</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=6
+addr:postcode=66424
+addr:street=Am Forum
+brand=Globus Baumarkt
+brand:wikidata=Q457503
+brand:wikipedia=de:Globus Holding
+building=commercial
+name=Globus Baumarkt
+shop=doityourself
+toilets:wheelchair=yes
+website=https://www.globus-baumarkt.de
+wheelchair=yes
+wheelchair:description=Behindertenparkplatz vorhanden
+id=way/27768346</desc><trkseg><trkpt lat="49.3151644" lon="7.3328848"/><trkpt lat="49.3145902" lon="7.3324986"/><trkpt lat="49.3146236" lon="7.332382"/><trkpt lat="49.3145016" lon="7.3322999"/><trkpt lat="49.3144703" lon="7.3324095"/><trkpt lat="49.3143822" lon="7.3323502"/><trkpt lat="49.3141081" lon="7.333309"/><trkpt lat="49.3140668" lon="7.3334535"/><trkpt lat="49.3142608" lon="7.3335841"/><trkpt lat="49.3141856" lon="7.3338473"/><trkpt lat="49.3140332" lon="7.3337448"/><trkpt lat="49.3139328" lon="7.334096"/><trkpt lat="49.3141193" lon="7.3342215"/><trkpt lat="49.3146754" lon="7.3345955"/><trkpt lat="49.3150583" lon="7.333256"/><trkpt lat="49.3151644" lon="7.3328848"/></trkseg></trk><trk><name>Globus Baumarkt</name><desc>addr:city=Heusweiler
+addr:country=DE
+addr:housenumber=13
+addr:postcode=66265
+addr:street=Am Bahnhof
+building=commercial
+name=Globus Baumarkt
+shop=doityourself
+wheelchair=yes
+id=way/58711031</desc><trkseg><trkpt lat="49.3338035" lon="6.9262878"/><trkpt lat="49.3337425" lon="6.9263988"/><trkpt lat="49.3335137" lon="6.9261025"/><trkpt lat="49.3334952" lon="6.926136"/><trkpt lat="49.3334039" lon="6.9260178"/><trkpt lat="49.3330663" lon="6.9266316"/><trkpt lat="49.3332161" lon="6.9268256"/><trkpt lat="49.3333849" lon="6.9265187"/><trkpt lat="49.3342218" lon="6.9276027"/><trkpt lat="49.3343675" lon="6.9273378"/><trkpt lat="49.3344154" lon="6.9273998"/><trkpt lat="49.3344512" lon="6.9273347"/><trkpt lat="49.3344034" lon="6.9272727"/><trkpt lat="49.3344701" lon="6.9271513"/><trkpt lat="49.3338035" lon="6.9262878"/></trkseg></trk><trk><name>Globus Baumarkt</name><desc>addr:city=Sankt Wendel
+addr:country=DE
+addr:housenumber=20
+addr:postcode=66606
+addr:street=Linxweilerstraße
+brand=Globus Baumarkt
+brand:wikidata=Q457503
+brand:wikipedia=de:Globus Holding
+building=retail
+check_date:opening_hours=2021-09-27
+internet_access=wlan
+name=Globus Baumarkt
+opening_hours=Mo-Sa 08:00-20:00
+shop=doityourself
+website=https://www.globus-baumarkt.de/
+wheelchair=yes
+id=way/71006800</desc><trkseg><trkpt lat="49.4625068" lon="7.1603144"/><trkpt lat="49.4625583" lon="7.1604332"/><trkpt lat="49.4626028" lon="7.160499"/><trkpt lat="49.4626574" lon="7.1605157"/><trkpt lat="49.4626633" lon="7.1604697"/><trkpt lat="49.463115" lon="7.160608"/><trkpt lat="49.4631666" lon="7.1606238"/><trkpt lat="49.4632881" lon="7.1596847"/><trkpt lat="49.4633796" lon="7.1597128"/><trkpt lat="49.4634409" lon="7.1592393"/><trkpt lat="49.4634505" lon="7.1590584"/><trkpt lat="49.463444" lon="7.1587878"/><trkpt lat="49.4631656" lon="7.1587026"/><trkpt lat="49.4631915" lon="7.1585023"/><trkpt lat="49.4628634" lon="7.1584018"/><trkpt lat="49.4627831" lon="7.1590224"/><trkpt lat="49.4627089" lon="7.1589996"/><trkpt lat="49.4625579" lon="7.1601675"/><trkpt lat="49.4625272" lon="7.1601581"/><trkpt lat="49.4625068" lon="7.1603144"/></trkseg></trk><trk><name>Globus Baumarkt</name><desc>addr:city=Sankt Wendel
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66606
+addr:street=Ziegeleistraße
+brand=Globus Baumarkt
+brand:wikidata=Q457503
+brand:wikipedia=de:Globus Holding
+building=retail
+check_date:opening_hours=2021-09-27
+internet_access=wlan
+name=Globus Baumarkt
+old_name=Hela Profi-Zentrum
+opening_hours=Mo-Sa 08:00-20:00
+phone=+49 6851 9100
+shop=doityourself
+website=https://www.globus-baumarkt.de/
+wheelchair=yes
+id=way/71008568</desc><trkseg><trkpt lat="49.4635725" lon="7.160679"/><trkpt lat="49.4634713" lon="7.1614706"/><trkpt lat="49.4634674" lon="7.1615011"/><trkpt lat="49.4633816" lon="7.1615888"/><trkpt lat="49.4633966" lon="7.161625"/><trkpt lat="49.4630783" lon="7.1615286"/><trkpt lat="49.4629952" lon="7.1615034"/><trkpt lat="49.4629443" lon="7.161901"/><trkpt lat="49.4628878" lon="7.1618839"/><trkpt lat="49.4628741" lon="7.1619913"/><trkpt lat="49.4629305" lon="7.1620084"/><trkpt lat="49.4628927" lon="7.1623044"/><trkpt lat="49.4629455" lon="7.1623204"/><trkpt lat="49.4629422" lon="7.1623456"/><trkpt lat="49.4630452" lon="7.1623768"/><trkpt lat="49.463042" lon="7.1624019"/><trkpt lat="49.4630851" lon="7.162415"/><trkpt lat="49.4630778" lon="7.1624717"/><trkpt lat="49.4632977" lon="7.1625383"/><trkpt lat="49.4633018" lon="7.1625065"/><trkpt lat="49.4634109" lon="7.1625396"/><trkpt lat="49.4634294" lon="7.1623945"/><trkpt lat="49.4635382" lon="7.1624275"/><trkpt lat="49.4635475" lon="7.1623545"/><trkpt lat="49.4637763" lon="7.1624238"/><trkpt lat="49.463796" lon="7.1622696"/><trkpt lat="49.4638357" lon="7.1622817"/><trkpt lat="49.4638606" lon="7.1620871"/><trkpt lat="49.4638946" lon="7.1620974"/><trkpt lat="49.4639333" lon="7.161795"/><trkpt lat="49.4640646" lon="7.1618348"/><trkpt lat="49.4640802" lon="7.161713"/><trkpt lat="49.4641077" lon="7.1617213"/><trkpt lat="49.4641646" lon="7.1612767"/><trkpt lat="49.4640874" lon="7.1612534"/><trkpt lat="49.4640957" lon="7.1611881"/><trkpt lat="49.4640609" lon="7.1611776"/><trkpt lat="49.4641041" lon="7.16084"/><trkpt lat="49.4635725" lon="7.160679"/></trkseg></trk><trk><name>Obi</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=80
+addr:postcode=66538
+addr:street=Bliesstraße
+brand=OBI
+brand:wikidata=Q300518
+building=yes
+name=Obi
+shop=doityourself
+website=https://www.obi.de/
+wheelchair=yes
+id=way/83618880</desc><trkseg><trkpt lat="49.3510564" lon="7.2061148"/><trkpt lat="49.350956" lon="7.2060394"/><trkpt lat="49.3509673" lon="7.2060036"/><trkpt lat="49.350122" lon="7.2053692"/><trkpt lat="49.3500484" lon="7.2056002"/><trkpt lat="49.3500228" lon="7.205581"/><trkpt lat="49.3500425" lon="7.2055192"/><trkpt lat="49.3498332" lon="7.2053621"/><trkpt lat="49.3498108" lon="7.2054326"/><trkpt lat="49.3497488" lon="7.2054583"/><trkpt lat="49.3496041" lon="7.2059126"/><trkpt lat="49.3498903" lon="7.2061274"/><trkpt lat="49.3498331" lon="7.2063071"/><trkpt lat="49.3507876" lon="7.2070236"/><trkpt lat="49.3509603" lon="7.2064814"/><trkpt lat="49.3509436" lon="7.2064689"/><trkpt lat="49.3510564" lon="7.2061148"/></trkseg></trk><trk><name>Holzhauer KG</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=13
+addr:postcode=66115
+addr:street=Heinrich-Barth-Straße
+building=yes
+name=Holzhauer KG
+opening_hours=Mo-Fr 07:00-16:00; Sa 08:00-11:00; PH,Su closed
+shop=doityourself
+wheelchair=yes
+id=way/87290352</desc><trkseg><trkpt lat="49.239897" lon="6.9534143"/><trkpt lat="49.2395137" lon="6.9533424"/><trkpt lat="49.2395025" lon="6.9534793"/><trkpt lat="49.2394864" lon="6.9536771"/><trkpt lat="49.2398697" lon="6.953749"/><trkpt lat="49.2398721" lon="6.9537192"/><trkpt lat="49.239885" lon="6.9535604"/><trkpt lat="49.239897" lon="6.9534143"/></trkseg></trk><trk><name>Fliesen Boor</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=14
+addr:postcode=66115
+addr:street=Angela-Braun-Straße
+building=commercial
+contact:phone=+49 681 95101150
+contact:website=https://boor.de
+level=0
+name=Fliesen Boor
+opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 14:00-17:00 "Sonntag keine Beratung und kein Verkauf "
+operator=Boor Fliesen und Sanitär KG
+shop=doityourself
+wheelchair=yes
+id=way/87290377</desc><trkseg><trkpt lat="49.2389861" lon="6.9641898"/><trkpt lat="49.238807" lon="6.9641519"/><trkpt lat="49.2387579" lon="6.9646957"/><trkpt lat="49.2388266" lon="6.9647104"/><trkpt lat="49.2389369" lon="6.9647337"/><trkpt lat="49.2389861" lon="6.9641898"/></trkseg></trk><trk><name>Schmeer</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=16
+addr:postcode=66115
+addr:street=Im Rotfeld
+building=yes
+email=schmeer@baeder-sehen-planen-kaufen.de
+fax=+49 681 9484450
+name=Schmeer
+opening_hours=Mo-Fr 07:30-17:00; Sa 08:30-12:30; PH,Su closed
+phone=+49 681 948440
+shop=doityourself
+surveillance=yes
+website=https://schmeer.baeder-sehen-planen-kaufen.de/kontakt
+id=way/89719374</desc><trkseg><trkpt lat="49.2387456" lon="6.9674534"/><trkpt lat="49.238746" lon="6.9674334"/><trkpt lat="49.2387486" lon="6.967131"/><trkpt lat="49.2387487" lon="6.9671133"/><trkpt lat="49.238123" lon="6.9670843"/><trkpt lat="49.2381217" lon="6.9674277"/><trkpt lat="49.2386183" lon="6.9674489"/><trkpt lat="49.2387224" lon="6.9674534"/><trkpt lat="49.2387366" lon="6.9674534"/><trkpt lat="49.2387456" lon="6.9674534"/></trkseg></trk><trk><name>Bauhaus</name><desc>addr:city=Dillingen/Saar
+addr:country=DE
+addr:housenumber=9
+addr:postcode=66763
+addr:street=Uferstraße
+building=yes
+building:use=commercial
+check_date=2022-05-21
+name=Bauhaus
+phone=+49 6831 90830
+shop=doityourself
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/90064343</desc><trkseg><trkpt lat="49.348398" lon="6.7294565"/><trkpt lat="49.3483578" lon="6.7295146"/><trkpt lat="49.3480704" lon="6.7290279"/><trkpt lat="49.3479458" lon="6.7288169"/><trkpt lat="49.3476595" lon="6.7292154"/><trkpt lat="49.3477054" lon="6.7292931"/><trkpt lat="49.3475033" lon="6.7295745"/><trkpt lat="49.3476245" lon="6.7297797"/><trkpt lat="49.3472785" lon="6.7302612"/><trkpt lat="49.3476" lon="6.7308056"/><trkpt lat="49.3476339" lon="6.7307584"/><trkpt lat="49.3477832" lon="6.7310112"/><trkpt lat="49.3478089" lon="6.7309754"/><trkpt lat="49.3479677" lon="6.7312444"/><trkpt lat="49.3481475" lon="6.7309942"/><trkpt lat="49.348164" lon="6.7310222"/><trkpt lat="49.3483219" lon="6.7308023"/><trkpt lat="49.3483637" lon="6.7308585"/><trkpt lat="49.3484497" lon="6.730739"/><trkpt lat="49.3487726" lon="6.7302901"/><trkpt lat="49.3487342" lon="6.7302283"/><trkpt lat="49.348701" lon="6.7299484"/><trkpt lat="49.348398" lon="6.7294565"/></trkseg></trk><trk><name>Ruhland-Kallenborn</name><desc>addr:city=Ensdorf/Saar
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66806
+addr:street=Unten am Mühlenweg
+building=yes
+name=Ruhland-Kallenborn
+shop=doityourself
+id=way/98523558</desc><trkseg><trkpt lat="49.2914259" lon="6.7808646"/><trkpt lat="49.2914102" lon="6.7808116"/><trkpt lat="49.2921128" lon="6.7803226"/><trkpt lat="49.2919642" lon="6.7798209"/><trkpt lat="49.291919" lon="6.7798524"/><trkpt lat="49.2919064" lon="6.77981"/><trkpt lat="49.2918521" lon="6.7798478"/><trkpt lat="49.2918653" lon="6.7798921"/><trkpt lat="49.2918145" lon="6.7799274"/><trkpt lat="49.2917981" lon="6.7798721"/><trkpt lat="49.291232" lon="6.7802662"/><trkpt lat="49.2912503" lon="6.7803282"/><trkpt lat="49.2910954" lon="6.780436"/><trkpt lat="49.2910089" lon="6.7801439"/><trkpt lat="49.2906084" lon="6.7804226"/><trkpt lat="49.2906949" lon="6.7807148"/><trkpt lat="49.2903966" lon="6.7809224"/><trkpt lat="49.2905583" lon="6.7814685"/><trkpt lat="49.2914259" lon="6.7808646"/></trkseg></trk><trk><name>Baustoffe Röhlinger</name><desc>building=yes
+name=Baustoffe Röhlinger
+shop=doityourself
+id=way/118708164</desc><trkseg><trkpt lat="49.3520829" lon="7.1079074"/><trkpt lat="49.3516422" lon="7.1064637"/><trkpt lat="49.3513392" lon="7.1066816"/><trkpt lat="49.351429" lon="7.1069757"/><trkpt lat="49.3515045" lon="7.1072231"/><trkpt lat="49.3514744" lon="7.1072447"/><trkpt lat="49.3517499" lon="7.108147"/><trkpt lat="49.3520829" lon="7.1079074"/></trkseg></trk><trk><name>OBI</name><desc>addr:city=Sankt Ingbert
+addr:country=DE
+addr:housenumber=80
+addr:postcode=66386
+addr:street=Oststraße
+branch=Baumarkt
+brand=OBI
+brand:wikidata=Q300518
+building=yes
+name=OBI
+shop=doityourself
+wheelchair=yes
+id=way/118733889</desc><trkseg><trkpt lat="49.2711414" lon="7.1299556"/><trkpt lat="49.2707452" lon="7.1304343"/><trkpt lat="49.2699099" lon="7.131444"/><trkpt lat="49.2699316" lon="7.131487"/><trkpt lat="49.2698457" lon="7.1315897"/><trkpt lat="49.2699808" lon="7.1318657"/><trkpt lat="49.2699531" lon="7.1318941"/><trkpt lat="49.2701451" lon="7.1322606"/><trkpt lat="49.2711948" lon="7.1309919"/><trkpt lat="49.2711534" lon="7.1309114"/><trkpt lat="49.271262" lon="7.1307811"/><trkpt lat="49.2711286" lon="7.1305216"/><trkpt lat="49.2713157" lon="7.1302945"/><trkpt lat="49.2711414" lon="7.1299556"/></trkseg></trk><trk><name>OBI</name><desc>addr:city=Schmelz
+addr:country=DE
+addr:housenumber=23
+addr:postcode=66839
+addr:street=Franz-Birringer-Straße
+brand=OBI
+brand:wikidata=Q300518
+building=yes
+name=OBI
+shop=doityourself
+wheelchair=yes
+id=way/119046022</desc><trkseg><trkpt lat="49.4384556" lon="6.8696731"/><trkpt lat="49.4384267" lon="6.8692412"/><trkpt lat="49.4379291" lon="6.86932"/><trkpt lat="49.4380565" lon="6.8712226"/><trkpt lat="49.4378325" lon="6.871258"/><trkpt lat="49.4378481" lon="6.8714909"/><trkpt lat="49.4383088" lon="6.871418"/><trkpt lat="49.4382955" lon="6.8712194"/><trkpt lat="49.4385538" lon="6.8711785"/><trkpt lat="49.4385667" lon="6.8713709"/><trkpt lat="49.4387413" lon="6.8713432"/><trkpt lat="49.4386776" lon="6.8703917"/><trkpt lat="49.4386094" lon="6.8704025"/><trkpt lat="49.4385759" lon="6.8699024"/><trkpt lat="49.4386456" lon="6.8698914"/><trkpt lat="49.4386292" lon="6.8696456"/><trkpt lat="49.4384556" lon="6.8696731"/></trkseg></trk><trk><name>Niederer</name><desc>addr:city=Wadgassen
+addr:country=DE
+addr:housenumber=20
+addr:postcode=66787
+addr:street=Saarstraße
+building=yes
+name=Niederer
+shop=doityourself
+id=way/120415206</desc><trkseg><trkpt lat="49.2712113" lon="6.7927247"/><trkpt lat="49.2709259" lon="6.7926836"/><trkpt lat="49.2709062" lon="6.7930047"/><trkpt lat="49.2711917" lon="6.7930457"/><trkpt lat="49.2712113" lon="6.7927247"/></trkseg></trk><trk><name>Raiffeisen Markt</name><desc>addr:city=Eppelborn
+addr:country=DE
+addr:housenumber=14
+addr:postcode=66571
+addr:street=Brühlstraße
+building=yes
+name=Raiffeisen Markt
+shop=doityourself
+id=way/140097470</desc><trkseg><trkpt lat="49.3724219" lon="6.9789672"/><trkpt lat="49.372447" lon="6.9787518"/><trkpt lat="49.3724493" lon="6.9787321"/><trkpt lat="49.3723387" lon="6.9787017"/><trkpt lat="49.3723112" lon="6.9789377"/><trkpt lat="49.3724219" lon="6.9789672"/></trkseg></trk><trk><name>Farben Klein</name><desc>addr:city=Bexbach
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66450
+addr:street=Am Butterhügel
+building=yes
+name=Farben Klein
+shop=doityourself
+id=way/148326618</desc><trkseg><trkpt lat="49.3440956" lon="7.2826747"/><trkpt lat="49.3441829" lon="7.2827745"/><trkpt lat="49.3442243" lon="7.2826892"/><trkpt lat="49.3442642" lon="7.2827349"/><trkpt lat="49.344324" lon="7.2826978"/><trkpt lat="49.344359" lon="7.2826257"/><trkpt lat="49.3443807" lon="7.2826505"/><trkpt lat="49.3444071" lon="7.282639"/><trkpt lat="49.3444095" lon="7.2825911"/><trkpt lat="49.3443254" lon="7.282495"/><trkpt lat="49.3444614" lon="7.2822147"/><trkpt lat="49.3443273" lon="7.2820614"/><trkpt lat="49.3439994" lon="7.2827374"/><trkpt lat="49.3440417" lon="7.2827858"/><trkpt lat="49.3440956" lon="7.2826747"/></trkseg></trk><trk><name>heimdecor</name><desc>building=yes
+name=heimdecor
+shop=doityourself
+id=way/176164062</desc><trkseg><trkpt lat="49.3446214" lon="7.1797196"/><trkpt lat="49.3445696" lon="7.179745"/><trkpt lat="49.3445188" lon="7.1797698"/><trkpt lat="49.3444725" lon="7.1797231"/><trkpt lat="49.3444204" lon="7.1798346"/><trkpt lat="49.3444119" lon="7.1798229"/><trkpt lat="49.3443664" lon="7.1799254"/><trkpt lat="49.3443273" lon="7.1800207"/><trkpt lat="49.3443579" lon="7.1800372"/><trkpt lat="49.3444177" lon="7.180051"/><trkpt lat="49.3444223" lon="7.1800252"/><trkpt lat="49.3445215" lon="7.1799525"/><trkpt lat="49.344516" lon="7.1799274"/><trkpt lat="49.3446214" lon="7.1799037"/><trkpt lat="49.3446214" lon="7.1797196"/></trkseg></trk><trk><name>Farben Huffer</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=5
+addr:postcode=66740
+addr:street=Bahnhofstraße
+building=yes
+name=Farben Huffer
+shop=doityourself
+id=way/183747595</desc><trkseg><trkpt lat="49.3249603" lon="6.7601383"/><trkpt lat="49.3248997" lon="6.7599327"/><trkpt lat="49.324939" lon="6.7599054"/><trkpt lat="49.324956" lon="6.7598562"/><trkpt lat="49.324891" lon="6.7596356"/><trkpt lat="49.3248419" lon="6.7596043"/><trkpt lat="49.3247613" lon="6.7596601"/><trkpt lat="49.3247797" lon="6.7597225"/><trkpt lat="49.3245016" lon="6.7599153"/><trkpt lat="49.3245744" lon="6.7601623"/><trkpt lat="49.3246127" lon="6.7601357"/><trkpt lat="49.3246723" lon="6.760338"/><trkpt lat="49.3249603" lon="6.7601383"/></trkseg></trk><trk><name>Globus Baumarkt</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housenumber=8
+addr:postcode=66333
+addr:street=Zechenstraße
+brand=Globus Baumarkt
+brand:wikidata=Q457503
+building=retail
+name=Globus Baumarkt
+opening_hours=Mo-Sa 07:00-20:00
+shop=doityourself
+wheelchair=yes
+id=way/196280308</desc><trkseg><trkpt lat="49.2483188" lon="6.8722774"/><trkpt lat="49.2483587" lon="6.8726707"/><trkpt lat="49.2484146" lon="6.8726577"/><trkpt lat="49.2484713" lon="6.8726439"/><trkpt lat="49.2484314" lon="6.8722506"/><trkpt lat="49.248625" lon="6.8722046"/><trkpt lat="49.2485587" lon="6.8715512"/><trkpt lat="49.2486919" lon="6.8715195"/><trkpt lat="49.2487761" lon="6.8713474"/><trkpt lat="49.2488569" lon="6.8711774"/><trkpt lat="49.2488102" lon="6.8707168"/><trkpt lat="49.2487404" lon="6.8707334"/><trkpt lat="49.2486977" lon="6.8703012"/><trkpt lat="49.2476922" lon="6.8705363"/><trkpt lat="49.2478846" lon="6.8723807"/><trkpt lat="49.2483188" lon="6.8722774"/></trkseg></trk><trk><name>Fliesen Baustoffe Böcker</name><desc>name=Fliesen Baustoffe Böcker
+shop=doityourself
+website=http://www.fliesen-boecker.de/
+id=way/199555060</desc><trkseg><trkpt lat="49.4076671" lon="7.1719465"/><trkpt lat="49.4077076" lon="7.1720473"/><trkpt lat="49.4078287" lon="7.1722213"/><trkpt lat="49.407942" lon="7.1723591"/><trkpt lat="49.4080364" lon="7.1724051"/><trkpt lat="49.4081544" lon="7.1723833"/><trkpt lat="49.4082708" lon="7.1723664"/><trkpt lat="49.4083825" lon="7.1723666"/><trkpt lat="49.4082644" lon="7.1717554"/><trkpt lat="49.4081124" lon="7.1715158"/><trkpt lat="49.4076671" lon="7.1719465"/></trkseg></trk><trk><name>Hammer</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66538
+addr:street=Flotowstraße
+branch=Heimtex
+brand=Hammer
+brand:wikidata=Q52159668
+building=yes
+name=Hammer
+phone=+49 (0) 6821 - 13699
+shop=doityourself
+website=https://www.hammer-heimtex.de/
+wheelchair=yes
+id=way/207085946</desc><trkseg><trkpt lat="49.3501301" lon="7.1952069"/><trkpt lat="49.3497835" lon="7.1954412"/><trkpt lat="49.349948" lon="7.1960145"/><trkpt lat="49.3501853" lon="7.1958541"/><trkpt lat="49.3501669" lon="7.19579"/><trkpt lat="49.3502762" lon="7.1957161"/><trkpt lat="49.3501301" lon="7.1952069"/></trkseg></trk><trk><name>Holzhauer KG</name><desc>addr:city=Lebach
+addr:country=DE
+addr:housenumber=20
+addr:postcode=66822
+addr:street=Dillinger Straße
+building=yes
+name=Holzhauer KG
+shop=doityourself
+wholesale=yes
+id=way/232633406</desc><trkseg><trkpt lat="49.4070897" lon="6.9089503"/><trkpt lat="49.4071002" lon="6.9089049"/><trkpt lat="49.4069309" lon="6.908811"/><trkpt lat="49.4068576" lon="6.9091033"/><trkpt lat="49.4069431" lon="6.9091597"/><trkpt lat="49.4069483" lon="6.9091328"/><trkpt lat="49.4071962" lon="6.909275"/><trkpt lat="49.4071805" lon="6.9093367"/><trkpt lat="49.407252" lon="6.9093796"/><trkpt lat="49.4072631" lon="6.9093387"/><trkpt lat="49.4073306" lon="6.9090899"/><trkpt lat="49.4070897" lon="6.9089503"/></trkseg></trk><trk><name>Der Fliesenladen</name><desc>addr:city=Nalbach
+addr:country=DE
+addr:housenumber=10
+addr:postcode=66809
+addr:street=Nassauer Straße
+building=yes
+name=Der Fliesenladen
+shop=doityourself
+id=way/241081827</desc><trkseg><trkpt lat="49.3769967" lon="6.790674"/><trkpt lat="49.3771308" lon="6.7905384"/><trkpt lat="49.377018" lon="6.790275"/><trkpt lat="49.3770445" lon="6.7902482"/><trkpt lat="49.3770024" lon="6.79015"/><trkpt lat="49.3769444" lon="6.7902087"/><trkpt lat="49.3768586" lon="6.7900084"/><trkpt lat="49.376756" lon="6.7901121"/><trkpt lat="49.3769967" lon="6.790674"/></trkseg></trk><trk><name>RWZ Raiffeisen</name><desc>addr:city=Marpingen
+addr:country=DE
+addr:housenumber=15
+addr:postcode=66646
+addr:street=Hinten auf der Gaß
+building=yes
+name=RWZ Raiffeisen
+shop=doityourself
+wheelchair=yes
+id=way/241905831</desc><trkseg><trkpt lat="49.461481" lon="7.0645079"/><trkpt lat="49.4612723" lon="7.064631"/><trkpt lat="49.4613191" lon="7.0648188"/><trkpt lat="49.4613426" lon="7.0649129"/><trkpt lat="49.4613049" lon="7.0649352"/><trkpt lat="49.4614009" lon="7.0653203"/><trkpt lat="49.4616473" lon="7.0651749"/><trkpt lat="49.461481" lon="7.0645079"/></trkseg></trk><trk><name>Globus Baumarkt</name><desc>addr:city=Merzig
+addr:country=DE
+addr:housenumber=80
+addr:postcode=66663
+addr:street=Zum Wiesenhof
+brand=Globus Baumarkt
+brand:wikidata=Q457503
+brand:wikipedia=de:Globus Holding
+building=yes
+name=Globus Baumarkt
+shop=doityourself
+id=way/242466268</desc><trkseg><trkpt lat="49.4585567" lon="6.6236213"/><trkpt lat="49.4581582" lon="6.6231661"/><trkpt lat="49.4582581" lon="6.6229604"/><trkpt lat="49.4577101" lon="6.6223437"/><trkpt lat="49.4570543" lon="6.6236222"/><trkpt lat="49.4573094" lon="6.6239311"/><trkpt lat="49.4572691" lon="6.6240175"/><trkpt lat="49.4579229" lon="6.6247614"/><trkpt lat="49.4580923" lon="6.6244162"/><trkpt lat="49.4581387" lon="6.6244704"/><trkpt lat="49.4585567" lon="6.6236213"/></trkseg></trk><trk><name>Union Bauzentrum HORNBACH</name><desc>addr:city=Wadern
+addr:country=DE
+addr:housenumber=5
+addr:postcode=66687
+addr:street=Noswendeler Straße
+building=yes
+name=Union Bauzentrum HORNBACH
+shop=doityourself
+id=way/246200118</desc><trkseg><trkpt lat="49.5274023" lon="6.8937685"/><trkpt lat="49.5273693" lon="6.8936145"/><trkpt lat="49.5272379" lon="6.8936792"/><trkpt lat="49.5272571" lon="6.8937685"/><trkpt lat="49.527207" lon="6.8937685"/><trkpt lat="49.527207" lon="6.8947617"/><trkpt lat="49.5272898" lon="6.8947617"/><trkpt lat="49.5272898" lon="6.894869"/><trkpt lat="49.5272034" lon="6.894869"/><trkpt lat="49.5272034" lon="6.8949984"/><trkpt lat="49.5274963" lon="6.8949984"/><trkpt lat="49.5274963" lon="6.8947524"/><trkpt lat="49.5275443" lon="6.8947524"/><trkpt lat="49.5275443" lon="6.8943807"/><trkpt lat="49.5274831" lon="6.8943807"/><trkpt lat="49.5274831" lon="6.8940089"/><trkpt lat="49.5274531" lon="6.8940089"/><trkpt lat="49.5274531" lon="6.8937685"/><trkpt lat="49.5274023" lon="6.8937685"/></trkseg></trk><trk><name>Isolier-Baustoffe Ewen</name><desc>addr:city=Schmelz
+addr:country=DE
+addr:housenumber=21
+addr:postcode=66839
+addr:street=Franz-Birringer-Straße
+building=yes
+fax=+49 6887 87253
+name=Isolier-Baustoffe Ewen
+operator=Isolier-Baustoffe Ewen GmbH
+phone=+49 6887 3772
+shop=doityourself
+website=https://ewen-bau.de/
+id=way/247882278</desc><trkseg><trkpt lat="49.4385583" lon="6.872244"/><trkpt lat="49.4385085" lon="6.8714729"/><trkpt lat="49.4383222" lon="6.8715014"/><trkpt lat="49.4383355" lon="6.8717077"/><trkpt lat="49.438372" lon="6.8722724"/><trkpt lat="49.4385583" lon="6.872244"/></trkseg></trk><trk><name>Monti Baustoffe</name><desc>landuse=industrial
+name=Monti Baustoffe
+shop=doityourself
+id=way/250318450</desc><trkseg><trkpt lat="49.354102" lon="7.0639976"/><trkpt lat="49.3548028" lon="7.0633144"/><trkpt lat="49.3544694" lon="7.0625259"/><trkpt lat="49.3544118" lon="7.0623985"/><trkpt lat="49.3543969" lon="7.0622724"/><trkpt lat="49.3544301" lon="7.0620297"/><trkpt lat="49.3544511" lon="7.06185"/><trkpt lat="49.354438" lon="7.0617588"/><trkpt lat="49.3539392" lon="7.0610695"/><trkpt lat="49.3539016" lon="7.0610373"/><trkpt lat="49.3538719" lon="7.061044"/><trkpt lat="49.3535076" lon="7.0616314"/><trkpt lat="49.3533189" lon="7.0616287"/><trkpt lat="49.3532508" lon="7.0616904"/><trkpt lat="49.3530053" lon="7.062141"/><trkpt lat="49.3529066" lon="7.0624414"/><trkpt lat="49.352818" lon="7.0625919"/><trkpt lat="49.352685" lon="7.0630553"/><trkpt lat="49.3525943" lon="7.063422"/><trkpt lat="49.3527511" lon="7.0634915"/><trkpt lat="49.3534281" lon="7.0637919"/><trkpt lat="49.3537077" lon="7.0639514"/><trkpt lat="49.3540064" lon="7.064154"/><trkpt lat="49.354102" lon="7.0639976"/></trkseg></trk><trk><name>Klaus Baubeschläge</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=39
+addr:postcode=66119
+addr:street=Koßmannstraße
+building=retail
+building:levels=1
+check_date:opening_hours=2025-03-13
+contact:website=https://klaus.eurofer.de/
+name=Klaus Baubeschläge
+opening_hours=Mo-Th 07:30-17:00, Fr 07:30-15:45; Sa,Su,PH closed
+roof:shape=flat
+shop=doityourself
+wheelchair=limited
+id=way/286614445</desc><trkseg><trkpt lat="49.2213266" lon="7.0128713"/><trkpt lat="49.2213431" lon="7.0128907"/><trkpt lat="49.2215275" lon="7.0131068"/><trkpt lat="49.2215372" lon="7.0130873"/><trkpt lat="49.2215543" lon="7.0130533"/><trkpt lat="49.2215713" lon="7.0130193"/><trkpt lat="49.2215826" lon="7.0129967"/><trkpt lat="49.2215962" lon="7.0129695"/><trkpt lat="49.2217762" lon="7.0126096"/><trkpt lat="49.2215753" lon="7.0123741"/><trkpt lat="49.2213592" lon="7.012806"/><trkpt lat="49.2213266" lon="7.0128713"/></trkseg></trk><trk><name>Motorgeräte Wagner</name><desc>addr:city=Wadgassen
+addr:country=DE
+addr:housenumber=138
+addr:postcode=66787
+addr:street=Provinzialstraße
+building=yes
+name=Motorgeräte Wagner
+shop=doityourself
+id=way/290650535</desc><trkseg><trkpt lat="49.253486" lon="6.816973"/><trkpt lat="49.2535977" lon="6.8168649"/><trkpt lat="49.2534958" lon="6.8166157"/><trkpt lat="49.2535177" lon="6.8165875"/><trkpt lat="49.2534669" lon="6.8164735"/><trkpt lat="49.2534498" lon="6.8164605"/><trkpt lat="49.253382" lon="6.8163944"/><trkpt lat="49.2532796" lon="6.8166022"/><trkpt lat="49.2533521" lon="6.8166759"/><trkpt lat="49.253486" lon="6.816973"/></trkseg></trk><trk><name>Ehrhardt Baustoffe</name><desc>addr:city=Kirkel
+addr:country=DE
+addr:housenumber=8
+addr:postcode=66459
+addr:street=Ringstraße
+building=yes
+name=Ehrhardt Baustoffe
+shop=doityourself
+id=way/315603389</desc><trkseg><trkpt lat="49.3064876" lon="7.2881052"/><trkpt lat="49.3065251" lon="7.2883636"/><trkpt lat="49.3065313" lon="7.2884066"/><trkpt lat="49.3066164" lon="7.2883776"/><trkpt lat="49.3066125" lon="7.2883505"/><trkpt lat="49.3069335" lon="7.288241"/><trkpt lat="49.3069322" lon="7.2882318"/><trkpt lat="49.3070998" lon="7.2881746"/><trkpt lat="49.3070527" lon="7.2878494"/><trkpt lat="49.3068707" lon="7.2879115"/><trkpt lat="49.3066896" lon="7.2879732"/><trkpt lat="49.3066767" lon="7.2878845"/><trkpt lat="49.3065413" lon="7.2879307"/><trkpt lat="49.3065233" lon="7.2878069"/><trkpt lat="49.3064843" lon="7.2878202"/><trkpt lat="49.3065238" lon="7.2880928"/><trkpt lat="49.3064876" lon="7.2881052"/></trkseg></trk><trk><name>Wässa &amp; Schuster Farben</name><desc>addr:city=Perl
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66706
+addr:street=Im Heilenbruch
+building=yes
+name=Wässa &amp; Schuster Farben
+shop=doityourself
+id=way/331823566</desc><trkseg><trkpt lat="49.5167446" lon="6.3697113"/><trkpt lat="49.5163626" lon="6.369774"/><trkpt lat="49.5163927" lon="6.3702086"/><trkpt lat="49.5167746" lon="6.3701459"/><trkpt lat="49.5167446" lon="6.3697113"/></trkseg></trk><trk><name>Beschläge Grün</name><desc>addr:city=Püttlingen
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66346
+addr:street=Am Kirchenpfad
+building=yes
+name=Beschläge Grün
+shop=doityourself
+wheelchair=yes
+id=way/334843386</desc><trkseg><trkpt lat="49.3036761" lon="6.8992882"/><trkpt lat="49.3035133" lon="6.8989985"/><trkpt lat="49.3033065" lon="6.8992412"/><trkpt lat="49.3034027" lon="6.8994212"/><trkpt lat="49.3033592" lon="6.8994751"/><trkpt lat="49.3034004" lon="6.89955"/><trkpt lat="49.3034429" lon="6.8995013"/><trkpt lat="49.3034814" lon="6.8995654"/><trkpt lat="49.3036761" lon="6.8992882"/></trkseg></trk><trk><name>Hell Baustoffe</name><desc>addr:city=Eppelborn
+addr:country=DE
+addr:housenumber=21
+addr:postcode=66571
+addr:street=Zur Alten Mühle
+addr:suburb=Dirmingen
+building=yes
+contact:website=https://www.baustoffe-hell.de/
+description=HELL Baufachmarkt Baustoffe-Holz-Brennstoffe
+name=Hell Baustoffe
+shop=doityourself
+id=way/345777875</desc><trkseg><trkpt lat="49.4146131" lon="7.012889"/><trkpt lat="49.4143893" lon="7.0129986"/><trkpt lat="49.4144353" lon="7.0132207"/><trkpt lat="49.414536" lon="7.0131715"/><trkpt lat="49.4145304" lon="7.0131448"/><trkpt lat="49.4146536" lon="7.0130845"/><trkpt lat="49.4146131" lon="7.012889"/></trkseg></trk><trk><name>Felix Röhlinger</name><desc>addr:city=Sulzbach/Saar
+addr:country=DE
+addr:housenumber=16
+addr:postcode=66280
+addr:street=Am Kreuzgraben
+building=yes
+name=Felix Röhlinger
+shop=doityourself
+id=way/348415536</desc><trkseg><trkpt lat="49.3130954" lon="7.0513182"/><trkpt lat="49.3132426" lon="7.0511939"/><trkpt lat="49.313197" lon="7.0510669"/><trkpt lat="49.3130498" lon="7.0511912"/><trkpt lat="49.3130954" lon="7.0513182"/></trkseg></trk><trk><name>Raab Karcher Baustoffhandel</name><desc>addr:city=Illingen
+addr:country=DE
+addr:housenumber=107
+addr:postcode=66557
+addr:street=Illinger Straße
+brand:wikidata=Q1682043
+building=yes
+name=Raab Karcher Baustoffhandel
+shop=doityourself
+id=way/350439572</desc><trkseg><trkpt lat="49.3867668" lon="7.0437221"/><trkpt lat="49.3869018" lon="7.0435593"/><trkpt lat="49.3868836" lon="7.0435238"/><trkpt lat="49.3869082" lon="7.0434941"/><trkpt lat="49.3867347" lon="7.0431545"/><trkpt lat="49.3867101" lon="7.0431841"/><trkpt lat="49.386676" lon="7.0431174"/><trkpt lat="49.3865341" lon="7.0432885"/><trkpt lat="49.3864527" lon="7.0435426"/><trkpt lat="49.3864671" lon="7.0435708"/><trkpt lat="49.3862347" lon="7.043851"/><trkpt lat="49.3861905" lon="7.0439043"/><trkpt lat="49.3862064" lon="7.0439353"/><trkpt lat="49.3861617" lon="7.0439892"/><trkpt lat="49.3862685" lon="7.0441982"/><trkpt lat="49.386316" lon="7.044141"/><trkpt lat="49.3863554" lon="7.0442182"/><trkpt lat="49.3867668" lon="7.0437221"/></trkseg></trk><trk><name>Baustoffe Müller</name><desc>addr:city=Freisen
+addr:country=DE
+addr:housenumber=28
+addr:postcode=66629
+addr:street=Zum Sparrenberg
+building=yes
+name=Baustoffe Müller
+shop=doityourself
+id=way/356905264</desc><trkseg><trkpt lat="49.552011" lon="7.2399423"/><trkpt lat="49.5520534" lon="7.2399462"/><trkpt lat="49.5520463" lon="7.2401272"/><trkpt lat="49.5521674" lon="7.2401385"/><trkpt lat="49.5521828" lon="7.2397467"/><trkpt lat="49.5521547" lon="7.2397441"/><trkpt lat="49.5520193" lon="7.2397315"/><trkpt lat="49.552011" lon="7.2399423"/></trkseg></trk><trk><name>Sonderpreis Baumarkt</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housename=Freizeitland Simon
+addr:housenumber=21b
+addr:postcode=66424
+addr:street=Kaiserslauterer Straße
+brand=Sonderpreis Baumarkt
+brand:wikidata=Q102247917
+building=commercial
+name=Sonderpreis Baumarkt
+old_name=Mere
+opening_hours=Mo-Fr 09:00-18:00; Sa 08:00-16:00
+shop=doityourself
+id=way/370554268</desc><trkseg><trkpt lat="49.3404115" lon="7.3557731"/><trkpt lat="49.3407095" lon="7.3560821"/><trkpt lat="49.3409642" lon="7.3555034"/><trkpt lat="49.3407507" lon="7.3552822"/><trkpt lat="49.3406238" lon="7.3555705"/><trkpt lat="49.3405392" lon="7.3554828"/><trkpt lat="49.3404115" lon="7.3557731"/></trkseg></trk><trk><name>Globus Baumarkt</name><desc>addr:city=Losheim am See
+addr:country=DE
+addr:housenumber=207
+addr:postcode=66679
+addr:street=Saarbrücker Straße
+brand=Globus Baumarkt
+brand:wikidata=Q457503
+brand:wikipedia=de:Globus Holding
+building=yes
+email=losheim@globus-baumarkt.de
+name=Globus Baumarkt
+opening_hours=Mo-Sa 08:00-20:00; PH off
+phone=+49 6872 921470
+shop=doityourself
+website=https://www.globus-baumarkt.de/info/markt/losheim/
+wheelchair=yes
+id=way/371229917</desc><trkseg><trkpt lat="49.504429" lon="6.7600198"/><trkpt lat="49.5041763" lon="6.7598878"/><trkpt lat="49.5039336" lon="6.759761"/><trkpt lat="49.5039422" lon="6.759722"/><trkpt lat="49.5039507" lon="6.7596835"/><trkpt lat="49.5038122" lon="6.7596112"/><trkpt lat="49.5038037" lon="6.7596497"/><trkpt lat="49.5037951" lon="6.7596887"/><trkpt lat="49.5035586" lon="6.7595651"/><trkpt lat="49.5034959" lon="6.7595324"/><trkpt lat="49.5032911" lon="6.760462"/><trkpt lat="49.5031654" lon="6.7610328"/><trkpt lat="49.5040985" lon="6.7615202"/><trkpt lat="49.504429" lon="6.7600198"/></trkseg></trk><trk><name>HORNBACH</name><desc>addr:city=Losheim am See
+addr:country=DE
+addr:housenumber=200
+addr:postcode=66679
+addr:street=Saarbrücker Straße
+brand=HORNBACH
+brand:wikidata=Q685926
+building=commercial
+name=HORNBACH
+shop=doityourself
+id=way/371230424</desc><trkseg><trkpt lat="49.5026358" lon="6.7566492"/><trkpt lat="49.5027977" lon="6.7560361"/><trkpt lat="49.5024968" lon="6.7558476"/><trkpt lat="49.5024617" lon="6.7559806"/><trkpt lat="49.5023549" lon="6.7559137"/><trkpt lat="49.5022295" lon="6.7563884"/><trkpt lat="49.5023879" lon="6.7564877"/><trkpt lat="49.5022331" lon="6.7570734"/><trkpt lat="49.5022032" lon="6.7571869"/><trkpt lat="49.5025127" lon="6.7573808"/><trkpt lat="49.502696" lon="6.756687"/><trkpt lat="49.5026358" lon="6.7566492"/></trkseg></trk><trk><name>Baustoffe Wagner</name><desc>building=yes
+name=Baustoffe Wagner
+shop=doityourself
+wheelchair=yes
+id=way/376908611</desc><trkseg><trkpt lat="49.3718092" lon="6.6890513"/><trkpt lat="49.3718211" lon="6.6886698"/><trkpt lat="49.3710617" lon="6.6886141"/><trkpt lat="49.3710498" lon="6.6889957"/><trkpt lat="49.3718092" lon="6.6890513"/></trkseg></trk><trk><name>Fliesen Boor</name><desc>building=yes
+name=Fliesen Boor
+shop=doityourself
+id=way/377218217</desc><trkseg><trkpt lat="49.1896244" lon="6.7566238"/><trkpt lat="49.189441" lon="6.7561411"/><trkpt lat="49.1892064" lon="6.7563499"/><trkpt lat="49.1893898" lon="6.7568325"/><trkpt lat="49.1896244" lon="6.7566238"/></trkseg></trk><trk><name>Sinnewe Baustoffe</name><desc>addr:city=Tholey
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66636
+addr:street=Gewerbegebiet Keltenweg
+building=yes
+contact:website=https://www.sinnewe-baustoffe.de
+name=Sinnewe Baustoffe
+shop=doityourself
+id=way/397315420</desc><trkseg><trkpt lat="49.5029982" lon="7.0139095"/><trkpt lat="49.5030808" lon="7.0140638"/><trkpt lat="49.5031835" lon="7.0141494"/><trkpt lat="49.5033341" lon="7.0136599"/><trkpt lat="49.5032705" lon="7.013611"/><trkpt lat="49.5031294" lon="7.0135024"/><trkpt lat="49.5029982" lon="7.0139095"/></trkseg></trk><trk><name>Globus Baumarkt</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=18
+addr:postcode=66740
+addr:street=Schanzenstraße
+brand=Globus Baumarkt
+building=retail
+name=Globus Baumarkt
+shop=doityourself
+wheelchair=yes
+id=way/403469797</desc><trkseg><trkpt lat="49.3226763" lon="6.752545"/><trkpt lat="49.323041" lon="6.7527978"/><trkpt lat="49.3231131" lon="6.7525497"/><trkpt lat="49.323538" lon="6.7528421"/><trkpt lat="49.3238282" lon="6.7525658"/><trkpt lat="49.3241856" lon="6.7513025"/><trkpt lat="49.3233174" lon="6.7506902"/><trkpt lat="49.3230563" lon="6.7515627"/><trkpt lat="49.3229837" lon="6.7515036"/><trkpt lat="49.3226763" lon="6.752545"/></trkseg></trk><trk><name>M. Pauly Baufachmarkt</name><desc>building=yes
+name=M. Pauly Baufachmarkt
+shop=doityourself
+id=way/448219009</desc><trkseg><trkpt lat="49.4732832" lon="6.3702509"/><trkpt lat="49.4732723" lon="6.3701108"/><trkpt lat="49.4729018" lon="6.3701789"/><trkpt lat="49.4729127" lon="6.3703191"/><trkpt lat="49.4732832" lon="6.3702509"/></trkseg></trk><trk><name>Union Bauzentrum</name><desc>addr:city=Merzig
+addr:country=DE
+addr:housenumber=40
+addr:postcode=66663
+addr:street=Rieffstraße
+building=yes
+name=Union Bauzentrum
+shop=doityourself
+toilets:wheelchair=no
+wheelchair=limited
+id=way/462733542</desc><trkseg><trkpt lat="49.4306537" lon="6.6326561"/><trkpt lat="49.4307031" lon="6.6328613"/><trkpt lat="49.4308998" lon="6.6327495"/><trkpt lat="49.4308824" lon="6.6326773"/><trkpt lat="49.4309108" lon="6.6326611"/><trkpt lat="49.4308972" lon="6.6326046"/><trkpt lat="49.4308688" lon="6.6326207"/><trkpt lat="49.4307617" lon="6.632175"/><trkpt lat="49.4302881" lon="6.6324442"/><trkpt lat="49.4303768" lon="6.6328134"/><trkpt lat="49.4306537" lon="6.6326561"/></trkseg></trk><trk><name>Bauhaus</name><desc>brand=Bauhaus
+brand:wikidata=Q672043
+brand:wikipedia=en:Bauhaus (company)
+changing_table=yes
+internet_access=wlan
+internet_access:captive_portal=yes
+internet_access:fee=no
+internet_access:operator:wikidata=Q9396
+internet_access:ssid=BAUHAUS Public WiFi
+name=Bauhaus
+opening_hours=Mo-Sa 07:00-20:00;PH,Su closed
+shop=doityourself
+toilets=yes
+toilets:wheelchair=designated
+wheelchair=yes
+id=way/542947207</desc><trkseg><trkpt lat="49.2478195" lon="7.0050397"/><trkpt lat="49.2477698" lon="7.0044086"/><trkpt lat="49.2474375" lon="7.0042759"/><trkpt lat="49.2473939" lon="7.0045265"/><trkpt lat="49.247133" lon="7.0044182"/><trkpt lat="49.2471763" lon="7.0041686"/><trkpt lat="49.2467592" lon="7.0040055"/><trkpt lat="49.2467727" lon="7.0039269"/><trkpt lat="49.2465723" lon="7.0038477"/><trkpt lat="49.2465562" lon="7.0039294"/><trkpt lat="49.2450376" lon="7.0033214"/><trkpt lat="49.2448859" lon="7.0041719"/><trkpt lat="49.2452315" lon="7.0043162"/><trkpt lat="49.2453511" lon="7.0043661"/><trkpt lat="49.245587" lon="7.0044645"/><trkpt lat="49.2456358" lon="7.0044849"/><trkpt lat="49.2456688" lon="7.0044987"/><trkpt lat="49.2457787" lon="7.0045445"/><trkpt lat="49.2458076" lon="7.0045566"/><trkpt lat="49.2459615" lon="7.0046209"/><trkpt lat="49.2460451" lon="7.0046558"/><trkpt lat="49.2460524" lon="7.004616"/><trkpt lat="49.24606" lon="7.0045758"/><trkpt lat="49.2462102" lon="7.0046379"/><trkpt lat="49.2461948" lon="7.0047183"/><trkpt lat="49.2466072" lon="7.0048904"/><trkpt lat="49.2466198" lon="7.0050358"/><trkpt lat="49.2466285" lon="7.0051711"/><trkpt lat="49.2466331" lon="7.0052409"/><trkpt lat="49.2466897" lon="7.0052313"/><trkpt lat="49.246866" lon="7.0052014"/><trkpt lat="49.2471676" lon="7.0051503"/><trkpt lat="49.2474369" lon="7.0051046"/><trkpt lat="49.2474586" lon="7.0051009"/><trkpt lat="49.2478195" lon="7.0050397"/></trkseg></trk></gpx>

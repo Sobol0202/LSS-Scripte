@@ -1,0 +1,1833 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.1952518" lon="7.0236411"><name>Aral</name><desc>addr:city=Saarbrücken
+addr:housenumber=285
+addr:postcode=66119
+addr:street=Großblittersdorfer Straße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+name=Aral
+opening_hours=Mo-Su 00:00-24:00
+id=node/247314889</desc></wpt><wpt lat="49.2318456" lon="6.8944797"><name>Tankstelle Jürgen Knaul</name><desc>amenity=fuel
+name=Tankstelle Jürgen Knaul
+opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-13:00
+id=node/252138936</desc></wpt><wpt lat="49.4389809" lon="6.8686264"><name>ED Schmelz</name><desc>addr:city=Schmelz
+addr:housenumber=2
+addr:postcode=66839
+addr:street=Franz-Birringer-Straße
+amenity=fuel
+brand=ED
+brand:wikidata=Q118111469
+contact:phone=+49 6887 304516
+fuel:HGV_diesel=yes
+fuel:cng=no
+fuel:lpg=no
+name=ED Schmelz
+opening_hours=Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
+operator=Clever Tanken GmbH
+payment:american_express=yes
+payment:cash=yes
+payment:dkv=yes
+payment:girocard=yes
+payment:mastercard=yes
+payment:uta=yes
+payment:visa=yes
+website=http://www.tankstelle-schmelz.de
+wheelchair=yes
+id=node/259048807</desc></wpt><wpt lat="49.4125837" lon="6.8941306"><name>Total</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+name=Total
+operator=Total
+wheelchair=yes
+id=node/259198374</desc></wpt><wpt lat="49.3733105" lon="6.7792543"><name>Avia</name><desc>addr:city=Nalbach
+addr:housenumber=31
+addr:postcode=66809
+addr:street=Enspfuhlstraße
+amenity=fuel
+brand=Avia
+brand:wikidata=Q300147
+name=Avia
+wheelchair=yes
+id=node/259198404</desc></wpt><wpt lat="49.4186876" lon="6.8449822"><name>Aral Tankstelle</name><desc>addr:city=Schmelz
+addr:country=DE
+addr:housenumber=9
+addr:postcode=66839
+addr:street=Primsweilerstraße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+car_wash=yes
+compressed_air=yes
+contact:phone=+49 6887 7474
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Aral Tankstelle
+opening_hours=Mo-Sa 08:00-21:00; So 09:00-21:00
+operator=Anja Hren
+website=https://tankstelle.aral.de/schmelz/primsweiler-strasse-9/28413600
+wheelchair=yes
+id=node/260952828</desc></wpt><wpt lat="49.2941484" lon="6.8923882"><name>Total</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+brand:wikipedia=fr:Total (entreprise)
+compressed_air=yes
+name=Total
+operator=Total
+wheelchair=yes
+id=node/264064038</desc></wpt><wpt lat="49.4028773" lon="6.9164976"><name>Aral Tankstelle Martin Mansion</name><desc>addr:city=Lebach
+addr:country=DE
+addr:housenumber=51
+addr:postcode=66822
+addr:street=Saarbrücker Straße
+amenity=fuel
+name=Aral Tankstelle Martin Mansion
+shop=yes
+wheelchair=yes
+id=node/265770472</desc></wpt><wpt lat="49.2443833" lon="6.9270915"><name>ReNo Station</name><desc>amenity=fuel
+name=ReNo Station
+id=node/266209517</desc></wpt><wpt lat="49.2161788" lon="6.9674568"><name>Agip</name><desc>amenity=fuel
+name=Agip
+operator=Agip
+self_service=yes
+shop=convenience
+wheelchair=yes
+id=node/267041637</desc></wpt><wpt lat="49.2085323" lon="6.8355367"><name>ED</name><desc>amenity=fuel
+name=ED
+wheelchair=yes
+id=node/268421706</desc></wpt><wpt lat="49.2998229" lon="6.7485988"><name>Total</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+compressed_air=yes
+contact:phone=+49 6831 2060
+fixme=Website wird so auf totalenergies.de offiziell verlinkt, hat aber kein DNS-Eintrag und ist somit nicht auflösbar (2024-11-26)
+fuel:HGV_diesel=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Total
+opening_hours=24/7
+operator=Total
+payment:american_express=yes
+payment:cash=yes
+payment:diners_club=yes
+payment:dkv=yes
+payment:electronic_purses=no
+payment:girocard=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:uta=yes
+payment:visa=yes
+website=https://store.totalenergies.de/de_DE/ND124100
+wheelchair=yes
+id=node/269017612</desc></wpt><wpt lat="49.2975862" lon="6.9478953"><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+name=Aral
+opening_hours=Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00
+wheelchair=yes
+id=node/269589962</desc></wpt><wpt lat="49.2246753" lon="6.8129484"><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+compressed_air=yes
+name=Shell
+operator=Shell
+wheelchair=yes
+id=node/270288800</desc></wpt><wpt lat="49.1975759" lon="7.0194478"><name>access Tankcenter Schönbach</name><desc>amenity=fuel
+name=access Tankcenter Schönbach
+old_name=Tankcenter Schönbach
+opening_hours=Mo-Fr 06:00-19:00; Sa 07:00-18:00; Su 08:00-18:00
+self_service=yes
+surveillance=yes
+surveillance:type=camera
+wheelchair=yes
+id=node/271513356</desc></wpt><wpt lat="49.469944" lon="7.1673174"><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+name=Aral
+operator=Aral
+wheelchair=yes
+id=node/277300987</desc></wpt><wpt lat="49.4610521" lon="7.1564576"><name>node/277300988</name><desc>amenity=fuel
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+kiosk=yes
+opening_hours=24/7
+operator=Shell
+id=node/277300988</desc></wpt><wpt lat="49.328362" lon="7.3242452"><name>Shell</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=74
+addr:postcode=66424
+addr:street=Bexbacher Straße
+amenity=fuel
+brand=Shell
+brand:wikidata=Q154950
+brand:wikipedia=en:Royal Dutch Shell
+name=Shell
+operator=Shell
+toilets:wheelchair=no
+wheelchair=limited
+id=node/277318612</desc></wpt><wpt lat="49.3502398" lon="6.803724"><name>Esso</name><desc>amenity=fuel
+brand=Esso
+fuel:cng=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:lpg=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Esso
+operator=Esso
+id=node/289037884</desc></wpt><wpt lat="49.295231" lon="6.8028638"><name>AVIA</name><desc>amenity=fuel
+name=AVIA
+id=node/290463459</desc></wpt><wpt lat="49.308184" lon="7.274679"><name>Shell</name><desc>amenity=fuel
+brand=Shell
+name=Shell
+operator=Shell
+id=node/302253800</desc></wpt><wpt lat="49.2899426" lon="7.2387567"><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+compressed_air=yes
+name=Aral
+wheelchair=no
+id=node/303788235</desc></wpt><wpt lat="49.4196924" lon="7.0062706"><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+fuel:lpg=yes
+name=Esso
+operator=Esso
+id=node/309763695</desc></wpt><wpt lat="49.231869" lon="6.979401"><name>Tankcenter Saarbrücken</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=34-40
+addr:postcode=66117
+addr:street=Deutschherrnstraße
+amenity=fuel
+check_date=2022-02-22
+compressed_air=yes
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Tankcenter Saarbrücken
+opening_hours=Mo-Fr 06:00-21:00, Sa-Su 08:00-21:00
+ref:mtsk=ce21dd2b-ea91-46de-b319-b830de07b938
+self_service=yes
+shop=convenience
+strapline=Gut und Günstig
+wheelchair=yes
+wheelchair:description=kleine Rampe
+id=node/310785120</desc></wpt><wpt lat="49.5113156" lon="6.7534266"><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+name=Aral
+operator=Aral
+id=node/311735505</desc></wpt><wpt lat="49.2095379" lon="6.9636888"><name>TotalEnergies Metzer Straße</name><desc>amenity=fuel
+brand=TotalEnergies
+brand:wikidata=Q154037
+brand:wikipedia=fr:Total (entreprise)
+fuel:lpg=yes
+name=TotalEnergies Metzer Straße
+operator=Total Deutschland GmbH
+ref:TotalEnergies=ND006056
+id=node/311750798</desc></wpt><wpt lat="49.3466405" lon="6.7984373"><name>JET</name><desc>amenity=fuel
+brand=JET
+fuel:HGV_diesel=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=JET
+id=node/316294101</desc></wpt><wpt lat="49.3446058" lon="7.1743097"><name>Aral</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=32
+addr:postcode=66538
+addr:street=Königstraße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+fuel:GTL_diesel=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_102=yes
+fuel:octane_95=yes
+name=Aral
+opening_hours=24/7
+operator=Patricia Theis-Staab
+phone=+49 6821 140910
+website=https://tankstelle.aral.de/tankstelle/12141800
+wheelchair=yes
+id=node/316631643</desc></wpt><wpt lat="49.5128725" lon="6.7564613"><name>Globus</name><desc>amenity=fuel
+name=Globus
+operator=Globus
+id=node/317522298</desc></wpt><wpt lat="49.3298081" lon="7.1856997"><name>Kaufland</name><desc>amenity=fuel
+brand=Kaufland
+brand:wikidata=Q685967
+name=Kaufland
+website=https://filiale.kaufland.de/service/filiale/neunkirchen-6880.html
+wheelchair=limited
+id=node/318614793</desc></wpt><wpt lat="49.3000458" lon="6.749319"><name>Total</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+brand:wikipedia=fr:Total (entreprise)
+check_date:opening_hours=2025-06-28
+compressed_air=yes
+contact:fax=+49 6831 1586
+contact:phone=+49 6831 1585
+contact:website=https://store.total.de/de_DE/ND124080
+fax=+49 6831 1586
+fuel:HGV_diesel=yes
+fuel:adblue=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Total
+opening_hours=Mo-Su 00:00-24:00
+operator=Total
+payment:girocard=yes
+tenant=Manfred Martini
+id=node/319471702</desc></wpt><wpt lat="49.4479588" lon="6.6558939"><name>ED-Tankstelle Merzig</name><desc>addr:city=Merzig
+addr:housenumber=11a
+addr:postcode=66663
+addr:street=Losheimer Straße
+amenity=fuel
+brand=ED-Mineralölhandels KG
+brand:wikidata=Q118111469
+compressed_air=yes
+contact:phone=+49 6861 9113880
+fuel:diesel=yes
+fuel:e10=yes
+fuel:lpg=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=ED-Tankstelle Merzig
+opening_hours=Mo-Fr 05:30-22:00; Sa 07:00-22:00; Su,PH 08:00-22:00
+operator=Daniel Meiser
+website=https://ed-info.de/tankstelle/tankstellen_sto_merzig/
+wheelchair=yes
+id=node/319560674</desc></wpt><wpt lat="49.2356332" lon="7.2554999"><name>OIL!</name><desc>amenity=fuel
+brand=OIL!
+brand:wikidata=Q2007561
+brand:wikipedia=de:OIL! Tankstellen
+check_date=2023-07-17
+compressed_air=yes
+fuel:adblue=yes
+fuel:cng=no
+fuel:diesel=yes
+fuel:e10=yes
+fuel:electricity=no
+fuel:lpg=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=OIL!
+operator=Oil!
+ref:mtsk=885b5b6b-2cdb-46a0-b700-54658a9e3307
+self_service=yes
+wheelchair=yes
+id=node/320873135</desc></wpt><wpt lat="49.4630462" lon="6.8519549"><name>Aral Tankstelle Jörg Risch</name><desc>addr:city=Schmelz
+addr:country=DE
+addr:housenumber=90
+addr:postcode=66839
+addr:street=Trierer Straße
+amenity=fuel
+name=Aral Tankstelle Jörg Risch
+id=node/321760800</desc></wpt><wpt lat="49.4949632" lon="6.5857713"><name>Tankstelle</name><desc>amenity=fuel
+brand=Aral
+name=Tankstelle
+operator=Disteldorf
+id=node/321884062</desc></wpt><wpt lat="49.2745365" lon="6.7966914"><name>node/335800431</name><desc>addr:city=Bous
+addr:country=DE
+addr:housenumber=67
+addr:postcode=66359
+addr:street=Saarbrücker Straße
+amenity=fuel
+brand=Total
+operator=Total
+wheelchair=yes
+id=node/335800431</desc></wpt><wpt lat="49.2820441" lon="6.7874403"><name>node/335800432</name><desc>amenity=fuel
+brand=Independent
+fuel:cng=yes
+operator=Gas- und Wasserwerke Bous-Schwalbach GmbH
+wheelchair=yes
+id=node/335800432</desc></wpt><wpt lat="49.3176551" lon="7.1218084"><name>ARAL</name><desc>addr:city=Spiesen-Elversberg
+addr:country=DE
+addr:housenumber=7
+addr:postcode=66583
+addr:street=Lindenstraße
+amenity=fuel
+name=ARAL
+id=node/343429172</desc></wpt><wpt lat="49.3503903" lon="7.2218573"><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q154950
+brand:wikipedia=en:Royal Dutch Shell
+name=Shell
+id=node/344730434</desc></wpt><wpt lat="49.2817914" lon="7.0734743"><name>Oil!</name><desc>amenity=fuel
+brand=OIL!
+brand:wikidata=Q2007561
+name=Oil!
+wheelchair=limited
+id=node/378680046</desc></wpt><wpt lat="49.2520751" lon="6.8565435"><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+brand:wikipedia=en:Esso
+fuel:lpg=yes
+name=Esso
+operator=Esso
+wheelchair=no
+id=node/387473457</desc></wpt><wpt lat="49.2415749" lon="6.957828"><name>Shell</name><desc>amenity=fuel
+name=Shell
+operator=Shell
+id=node/408467903</desc></wpt><wpt lat="49.2622383" lon="7.1031653"><name>bft</name><desc>addr:city=Sankt Ingbert
+addr:country=DE
+addr:housenumber=162
+addr:postcode=66386
+addr:street=Ensheimer Straße
+amenity=fuel
+brand=bft
+brand:wikidata=Q1009104
+name=bft
+operator=Bundesverband freier Tankstellen
+wheelchair=yes
+id=node/411105064</desc></wpt><wpt lat="49.2417025" lon="7.2600436"><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q108873166
+brand:wikipedia=de:Echo Tankstellen
+fuel:cng=no
+fuel:lpg=yes
+name=Esso
+opening_hours=Mo-Fr 07:00-19:30; Sa 07:30-17:00
+ref:mtsk=f8b3d44e-dddb-47a0-9eb7-b856e38ac4c5
+source=http://www.gas-tankstellen.de
+id=node/428838337</desc></wpt><wpt lat="49.4419646" lon="6.6226955"><name>Shell</name><desc>addr:city=Merzig
+addr:housenumber=1
+addr:postcode=66663
+addr:street=Merziger Straße
+amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+brand:wikipedia=en:Esso
+fuel:cng=yes
+fuel:diesel=yes
+fuel:lpg=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Shell
+toilets:wheelchair=no
+wheelchair=yes
+id=node/428839212</desc></wpt><wpt lat="49.5513492" lon="6.8269483"><name>Barth</name><desc>amenity=fuel
+brand=Shell
+fuel:diesel=yes
+fuel:e10=yes
+fuel:lpg=yes
+name=Barth
+operator=Shell
+id=node/428839295</desc></wpt><wpt lat="49.4881254" lon="6.839682"><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+name=Shell
+operator=shell
+id=node/431311264</desc></wpt><wpt lat="49.4618003" lon="7.1520415"><name>node/434397340</name><desc>amenity=fuel
+fuel:diesel=no
+fuel:lpg=yes
+fuel:octane_100=no
+fuel:octane_95=no
+fuel:octane_98=no
+id=node/434397340</desc></wpt><wpt lat="49.5201853" lon="7.1497646"><name>Avia Tankstelle Sascha Johann</name><desc>amenity=fuel
+name=Avia Tankstelle Sascha Johann
+opening_hours=Mo-Fr 07:15-19:00; Sa 08:00-15:00
+operator=Avia
+id=node/443697187</desc></wpt><wpt lat="49.473219" lon="7.063421"><name>Auto Schlick</name><desc>amenity=fuel
+fuel:HGV_diesel=yes
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Auto Schlick
+operator=Autohaus Schlick
+id=node/449827021</desc></wpt><wpt lat="49.5418287" lon="6.8925822"><name>Haco Tankstelle</name><desc>amenity=fuel
+name=Haco Tankstelle
+wheelchair=yes
+id=node/460399982</desc></wpt><wpt lat="49.2202616" lon="7.0703814"><name>Freie Tankstelle Quack</name><desc>amenity=fuel
+brand=Freie Tankstelle
+brand:wikidata=Q1009104
+brand:wikipedia=de:Bundesverband freier Tankstellen
+contact:website=https://bischmisheim.de/index.php?id=39&amp;ids=51
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Freie Tankstelle Quack
+operator=Wolfgang Quack
+payment:cash=yes
+payment:girocard=yes
+self_service=yes
+source=https://www.saarbruecker-zeitung.de/saarland/saarbruecken/saarbruecken/der-erste-schritt-in-die-selbststaendigkeit_aid-6979498
+id=node/485792934</desc></wpt><wpt lat="49.2787864" lon="7.1743401"><name>Winkler 24</name><desc>amenity=fuel
+compressed_air=no
+name=Winkler 24
+website=https://www.winkler-energy.de/tankstellen/sankt-ingbert-tankstelle
+id=node/560405546</desc></wpt><wpt lat="49.2085165" lon="6.9675617"><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+name=Shell
+opening_hours=24/7
+id=node/625203641</desc></wpt><wpt lat="49.3513065" lon="7.1833186"><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+fuel:cng=yes
+fuel:lpg=no
+name=Esso
+opening_hours=Mo-Su 06:00-23:00
+source=http://www.gas-tankstellen.de
+id=node/732713497</desc></wpt><wpt lat="49.5036626" lon="6.76674"><name>M. Schulligen GmbH</name><desc>amenity=fuel
+fuel:cng=no
+fuel:lpg=yes
+name=M. Schulligen GmbH
+opening_hours=Mo-Fr 08:00-17:00; Sa 07:00-14:00
+source=http://www.gas-tankstellen.de
+id=node/732713925</desc></wpt><wpt lat="49.3486368" lon="7.2640672"><name>Tankcenter Bexbach</name><desc>amenity=fuel
+brand=Elan
+brand:wikidata=Q57980752
+compressed_air=yes
+fuel:HGV_diesel=yes
+fuel:cng=no
+fuel:diesel=yes
+fuel:e10=yes
+fuel:lpg=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Tankcenter Bexbach
+opening_hours=Mo-Sa 05:00-24:00; Su 06:00-24:00
+source=http://www.gas-tankstellen.de
+wheelchair=limited
+wheelchair:description=Selbstöffnende Schiebetüren, guter Zugang zur Verkaufstheke.
+id=node/732715255</desc></wpt><wpt lat="49.3506783" lon="7.2006051"><name>Autohaus Bäcker GmbH &amp; C...</name><desc>addr:city=Neunkirchen
+addr:housenumber=50
+addr:postcode=66538
+addr:street=Bliesstraße
+amenity=fuel
+fuel:cng=no
+fuel:lpg=yes
+name=Autohaus Bäcker GmbH &amp; C...
+opening_hours=Mo-Fr 08:00-18:00; Sa 09:00-13:00
+source=http://www.gas-tankstellen.de
+id=node/732715941</desc></wpt><wpt lat="49.4740463" lon="6.9938632"><name>Auto Buchholz GmbH</name><desc>amenity=fuel
+fuel:cng=no
+fuel:lpg=yes
+name=Auto Buchholz GmbH
+opening_hours=Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
+source=http://www.gas-tankstellen.de
+id=node/732716458</desc></wpt><wpt lat="49.4077411" lon="7.1670153"><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+compressed_air=yes
+fax=+49 6824 5806
+fuel:GTL_diesel=yes
+fuel:adblue=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_100=yes
+fuel:octane_95=yes
+name=Shell
+opening_hours=Mo-Fr 05:30-22:00; Sa 06:00-22:00; Su 07:00-22:00
+operator=Stefan Kuhn GmbH
+phone=+49 6824 2184
+shop=yes
+website=https://find.shell.com/de/fuel/10024295-ottweiler-bliesstr/de_DE
+wheelchair=yes
+id=node/816353647</desc></wpt><wpt lat="49.2486222" lon="6.6971833"><name>ARAL</name><desc>addr:city=Überherrn
+addr:country=DE
+addr:housenumber=2c
+addr:postcode=66802
+addr:street=Hauptstraße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+name=ARAL
+id=node/845894974</desc></wpt><wpt lat="49.3541592" lon="7.1221632"><name>Agip</name><desc>amenity=fuel
+brand=Agip
+brand:wikidata=Q377915
+compressed_air=yes
+name=Agip
+wheelchair=yes
+id=node/897619394</desc></wpt><wpt lat="49.3556112" lon="7.1294156"><name>ARAL</name><desc>addr:city=Schiffweiler
+addr:housenumber=26
+addr:postcode=66578
+addr:street=Kreisstraße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+compressed_air=yes
+name=ARAL
+opening_hours=24/7
+operator=Patricia Theis-Staab
+website=https://tankstelle.aral.de/tankstelle/schiffweiler/kreisstrasse-26/28416400/
+wheelchair=yes
+id=node/897619395</desc></wpt><wpt lat="49.2663858" lon="7.1495983"><name>Avia</name><desc>amenity=fuel
+brand=Avia
+brand:wikidata=Q300147
+drink:club-mate=bottled
+email=avia-gehring@email.de
+fax=+49 6894 959543
+fuel:adblue=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Avia
+opening_hours=Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
+operator=Michael Gehring
+payment:american_express=yes
+payment:coins=yes
+payment:dkv=yes
+payment:girocard=yes
+payment:mastercard=yes
+payment:notes=yes
+payment:uta=yes
+payment:visa=yes
+phone=+49 6894 959521
+ref=60789
+website=https://www.avia.de/avia-tanken/tankstellen/tankstellen-suche/tankstellen-details.html?facilityID=2016&amp;dataType=Tankstelle
+wheelchair=yes
+id=node/907039216</desc></wpt><wpt lat="49.2740335" lon="6.7128949"><name>Shell</name><desc>addr:city=Überherrn
+addr:country=DE
+addr:housenumber=7
+addr:postcode=66802
+addr:street=Landstraße
+amenity=fuel
+brand=Shell
+fuel:GTL_diesel=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_100=yes
+fuel:octane_95=yes
+name=Shell
+opening_hours=Mo-Sa 06:00-22:00; Su 08:00-22:00
+wheelchair=limited
+id=node/913744017</desc></wpt><wpt lat="49.3186445" lon="7.3276877"><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+fuel:HGV_diesel=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Aral
+operator=Aral
+payment:dkv=yes
+payment:uta=yes
+id=node/915832059</desc></wpt><wpt lat="49.3238837" lon="7.3336814"><name>Shell Station STEFAN KUHN GMBH</name><desc>amenity=fuel
+brand=Shell
+name=Shell Station STEFAN KUHN GMBH
+operator=STEFAN KUHN GMBH
+id=node/933693353</desc></wpt><wpt lat="49.3429225" lon="7.3585475"><name>Total</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+brand:wikipedia=fr:Total (entreprise)
+name=Total
+id=node/937633746</desc></wpt><wpt lat="49.3708648" lon="7.1868613"><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+fuel:lpg=yes
+name=Esso
+id=node/961388890</desc></wpt><wpt lat="49.349791" lon="7.1882907"><name>Jet</name><desc>amenity=fuel
+brand=JET
+brand:wikidata=Q568940
+name=Jet
+id=node/972322970</desc></wpt><wpt lat="49.3170886" lon="7.0876236"><name>Total</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+compressed_air=yes
+fuel:lpg=yes
+name=Total
+wheelchair=limited
+id=node/988321619</desc></wpt><wpt lat="49.2368292" lon="6.9649366"><name>Öl Schneider</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=11
+addr:postcode=66115
+addr:street=Wiesenstraße
+amenity=fuel
+compressed_air=no
+email=info@oelschneider.de
+fuel:HGV_diesel=yes
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Öl Schneider
+name:en=Schneider Oil
+opening_hours=Mo-Su 00:00-24:00
+operator=Oel Schneider GmbH
+phone=+49 6894 52072
+self_service=yes
+website=https://www.oelschneider.de/saarbruecken-malstatt.html
+id=node/988922277</desc></wpt><wpt lat="49.5248506" lon="7.2630584"><name>Total</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+name=Total
+id=node/1007694929</desc></wpt><wpt lat="49.2476045" lon="6.7937183"><name>BFT</name><desc>amenity=fuel
+name=BFT
+id=node/1210146161</desc></wpt><wpt lat="49.4487716" lon="6.9675003"><name>ED</name><desc>amenity=fuel
+name=ED
+id=node/1237604999</desc></wpt><wpt lat="49.3569035" lon="6.7205147"><name>ARAL</name><desc>amenity=fuel
+name=ARAL
+wheelchair=limited
+id=node/1262235521</desc></wpt><wpt lat="49.3938273" lon="7.1127676"><name>Oel Schneider</name><desc>amenity=fuel
+name=Oel Schneider
+wheelchair=limited
+id=node/1272396811</desc></wpt><wpt lat="49.286029" lon="7.1516547"><name>Shell</name><desc>addr:city=Sankt Ingbert
+addr:country=DE
+addr:housenumber=14
+addr:postcode=66386
+addr:street=Obere Kaiserstraße
+amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+name=Shell
+wheelchair=yes
+id=node/1338632346</desc></wpt><wpt lat="49.2092545" lon="6.9669801"><name>Agip</name><desc>amenity=fuel
+brand=Agip
+brand:wikidata=Q377915
+name=Agip
+opening_hours=24/7
+id=node/1385786885</desc></wpt><wpt lat="49.5833236" lon="7.1160253"><name>Auto-Bauer</name><desc>amenity=fuel
+brand=ED
+brand:wikidata=Q118111469
+fuel:diesel=yes
+fuel:e10=yes
+fuel:lpg=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Auto-Bauer
+opening_hours=Mo-Sa 06:00-21:00; Su 08:00-21:00
+operator=ED
+website=http://www.ed-info.de/tankstellen/tankstellen_sto_tuerkismuehle.htm
+id=node/1530961054</desc></wpt><wpt lat="49.5545737" lon="7.2561217"><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+fuel:cng=no
+fuel:lpg=yes
+name=Aral
+opening_hours=Mo-Sa 05:30-22:00; Su 07:00-22:00
+source=http://www.gas-tankstellen.de
+wheelchair=limited
+id=node/1537021178</desc></wpt><wpt lat="49.3125645" lon="6.6718003"><name>node/1620546436</name><desc>amenity=fuel
+fuel:JetA1=yes
+fuel:avgas_100_ll=yes
+fuel:octane_98=yes
+operator=Flugplatz Düren – Untere Saar – Betriebsgesellschaft mbH
+id=node/1620546436</desc></wpt><wpt lat="49.462083" lon="7.1439045"><name>node/2054860244</name><desc>amenity=fuel
+fuel:diesel=yes
+fuel:lpg=no
+fuel:octane_100=no
+fuel:octane_95=no
+fuel:octane_98=yes
+id=node/2054860244</desc></wpt><wpt lat="49.4610326" lon="6.6244958"><name>bft Weissen-Fels</name><desc>amenity=fuel
+brand=bft
+brand:wikidata=Q1009104
+brand:wikipedia=de:Bundesverband freier Tankstellen
+name=bft Weissen-Fels
+wheelchair=yes
+id=node/2352234414</desc></wpt><wpt lat="49.3114881" lon="7.139731"><name>Freie Tankstelle Auto Busch</name><desc>amenity=fuel
+brand=Independent
+compressed_air=no
+name=Freie Tankstelle Auto Busch
+operator=Auto Busch
+id=node/2429450546</desc></wpt><wpt lat="49.3523761" lon="7.2665412"><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+compressed_air=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_100=yes
+fuel:octane_91=no
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Esso
+opening_hours=Mo-Sa 05:00-23:00; Su,PH 07:00-23:00
+wheelchair=limited
+id=node/2482472129</desc></wpt><wpt lat="49.4559105" lon="7.0609151"><name>ARAL</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+compressed_air=yes
+fuel:diesel=yes
+fuel:octane_100=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=ARAL
+opening_hours=Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:30-21:00
+operator=ARAL
+wheelchair=limited
+id=node/2494772103</desc></wpt><wpt lat="49.4960242" lon="7.0343467"><name>Tankstelle Nardi</name><desc>amenity=fuel
+name=Tankstelle Nardi
+id=node/2992899521</desc></wpt><wpt lat="49.2204503" lon="7.0001139"><name>Leitstelle des Rettungsdiensts</name><desc>access=no
+amenity=fuel
+name=Leitstelle des Rettungsdiensts
+id=node/3178695605</desc></wpt><wpt lat="49.3350974" lon="7.1015157"><name>node/3702625323</name><desc>amenity=fuel
+id=node/3702625323</desc></wpt><wpt lat="49.5188337" lon="7.1587998"><name>JET</name><desc>addr:city=Namborn
+addr:housenumber=25
+addr:postcode=66640
+addr:street=Allerburg
+amenity=fuel
+brand=JET
+brand:wikidata=Q568940
+name=JET
+id=node/4226823250</desc></wpt><wpt lat="49.3176643" lon="7.1224026"><name>ARAL</name><desc>addr:city=Spiesen-Elversberg
+addr:country=DE
+addr:housenumber=14
+addr:postcode=66583
+addr:street=Lindenstraße
+amenity=fuel
+compressed_air=yes
+name=ARAL
+id=node/4419487505</desc></wpt><wpt lat="49.345105" lon="7.2787236"><name>Jet</name><desc>amenity=fuel
+brand=Jet
+brand:wikidata=Q568940
+fuel:lpg=yes
+name=Jet
+operator=Jet
+wheelchair=limited
+wheelchair:description=Keine selbstöffnende Tür, trotzdem guter Zugang.
+id=node/4736315995</desc></wpt><wpt lat="49.4876207" lon="6.9845507"><name>Total</name><desc>amenity=fuel
+name=Total
+id=node/4747643514</desc></wpt><wpt lat="49.5047817" lon="7.0114445"><name>node/4757963748</name><desc>amenity=fuel
+fuel:lpg=yes
+operator=Leusch Bosch Service
+id=node/4757963748</desc></wpt><wpt lat="49.2424467" lon="6.9648791"><name>node/5000101631</name><desc>access=private
+amenity=fuel
+id=node/5000101631</desc></wpt><wpt lat="49.2484254" lon="6.9661667"><name>Shell Tankstelle Markus Paul</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=136
+addr:postcode=66113
+addr:street=Lebacher Straße
+amenity=fuel
+brand=Shell
+compressed_air=yes
+name=Shell Tankstelle Markus Paul
+opening_hours=24/7
+ref:mtsk=045eb202-7140-47c9-8e1e-a776e740cc04
+id=node/5006431869</desc></wpt><wpt lat="49.2492107" lon="6.8983886"><name>ARAL Tankstelle Christian Müller</name><desc>amenity=fuel
+brand=ARAL
+brand:wikidata=Q565734
+name=ARAL Tankstelle Christian Müller
+opening_hours=Mo-Fr 05:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
+self_service=yes
+wheelchair=limited
+id=node/5025838588</desc></wpt><wpt lat="49.1970364" lon="7.108594"><name>node/5363588977</name><desc>amenity=fuel
+self_service=no
+id=node/5363588977</desc></wpt><wpt lat="49.3412427" lon="6.9335707"><name>node/5743806482</name><desc>amenity=fuel
+compressed_air=yes
+operator=Aral
+id=node/5743806482</desc></wpt><wpt lat="49.3563746" lon="6.9328693"><name>node/5747710048</name><desc>amenity=fuel
+brand=OIL!
+fuel:1_25=yes
+fuel:1_50=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+id=node/5747710048</desc></wpt><wpt lat="49.3926949" lon="7.0751899"><name>bft</name><desc>amenity=fuel
+brand=bft
+brand:wikidata=Q1009104
+name=bft
+id=node/5775698506</desc></wpt><wpt lat="49.3317379" lon="6.9861045"><name>Avia</name><desc>addr:city=Heusweiler
+addr:country=DE
+addr:housenumber=18
+addr:postcode=66265
+addr:street=Heusweilerstraße
+amenity=fuel
+compressed_air=yes
+fuel:diesel=yes
+fuel:e10=yes
+name=Avia
+opening_hours=Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00
+operator=Avia
+payment:dkv=yes
+payment:uta=yes
+id=node/5811012610</desc></wpt><wpt lat="49.4854261" lon="6.4691589"><name>node/6143855425</name><desc>access=private
+amenity=fuel
+id=node/6143855425</desc></wpt><wpt lat="49.2852948" lon="7.316061"><name>Jet</name><desc>amenity=fuel
+brand=Jet
+brand:wikidata=Q568940
+brand:wikipedia=en:Jet (brand)
+compressed_air=no
+fuel:diesel=yes
+fuel:e10=yes
+name=Jet
+opening_hours=Mo-Sa 06:00-23:00; Su 08:00-23:00
+wheelchair=yes
+id=node/6321154873</desc></wpt><wpt lat="49.4610977" lon="7.1563859"><name>node/6513402272</name><desc>amenity=fuel
+brand=Shell
+id=node/6513402272</desc></wpt><wpt lat="49.1462518" lon="7.2035143"><name>node/6555010556</name><desc>amenity=fuel
+fuel:electricity=yes
+id=node/6555010556</desc></wpt><wpt lat="49.2387433" lon="6.9768173"><name>Aral</name><desc>addr:city=Saarbrücken
+addr:housenumber=105
+addr:postcode=66115
+addr:street=St. Johanner Straße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+contact:fax=+49 681 43726
+contact:phone=+49 681 43798
+contact:website=https://tankstelle.aral.de/saarbruecken/st-johanner-strasse-105/18057400
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Aral
+opening_hours=Mo-Su 00:00-24:00
+operator=Sven Meyer
+self_service=yes
+shop=yes
+surveillance=yes
+surveillance:type=camera
+id=node/7142142456</desc></wpt><wpt lat="49.2454231" lon="6.9867039"><name>Oel Schneider Saarbrücken-Rodenhof</name><desc>amenity=fuel
+brand=Oel Schneider
+compressed_air=no
+contact:website=https://www.oelschneider.de/saarbruecken-rodenhof.html
+name=Oel Schneider Saarbrücken-Rodenhof
+opening_hours=Mo-Su,PH 00:00-00:00
+id=node/8120798835</desc></wpt><wpt lat="49.2850122" lon="7.1551131"><name>SB Tank</name><desc>amenity=fuel
+brand=SB Tank
+brand:wikidata=Q96758296
+name=SB Tank
+id=node/8394303111</desc></wpt><wpt lat="49.2775242" lon="7.1846482"><name>LNG</name><desc>amenity=fuel
+brand=LIQUIND
+fuel:lng=yes
+name=LNG
+operator=Liquind
+payment:dkv=yes
+payment:uta=yes
+shop=no
+id=node/9744812987</desc></wpt><wpt lat="49.3491832" lon="6.7874103"><name>node/10075624013</name><desc>amenity=fuel
+brand=tankpool24
+fuel:adblue=yes
+fuel:diesel=yes
+operator=tankpool24
+payment:dkv=yes
+payment:routex=yes
+payment:uta=yes
+id=node/10075624013</desc></wpt><wpt lat="49.3491002" lon="6.787582"><name>node/10075636119</name><desc>amenity=fuel
+fuel:lng=yes
+operator=tankpool24
+payment:dkv=yes
+payment:uta=yes
+shop=no
+id=node/10075636119</desc></wpt><wpt lat="49.1396804" lon="7.1299872"><name>Tank-Eck</name><desc>amenity=fuel
+compressed_air=yes
+fuel:diesel=yes
+name=Tank-Eck
+opening_hours=Mo-Fr 07:00-21:00; Sa, Su, PH 08:00-21:00
+payment:cards=yes
+payment:cash=yes
+self_service=no
+id=node/10098410599</desc></wpt><wpt lat="49.2908371" lon="7.0274558"><name>Günstig Tanken</name><desc>amenity=fuel
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+name=Günstig Tanken
+opening_hours=Mo-Su 06:00-22:00
+operator=Jet
+payment:apple_pay=yes
+payment:cash=yes
+payment:contactless=yes
+payment:girocard=yes
+payment:google_pay=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:v_pay=yes
+payment:visa=yes
+self_service=yes
+id=node/10133485683</desc></wpt><wpt lat="49.3317941" lon="6.7932788"><name>LNG</name><desc>amenity=fuel
+brand=LIQUIND
+fuel:lng=yes
+name=LNG
+self_service=yes
+id=node/10265164370</desc></wpt><wpt lat="49.245399" lon="6.9398769"><name>node/11778230610</name><desc>access=private
+amenity=fuel
+fuel:h70=yes
+id=node/11778230610</desc></wpt><wpt lat="49.312078" lon="6.8217941"><name>Winkler</name><desc>amenity=fuel
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+name=Winkler
+operator=Winkler GmbH &amp; Co. KG
+payment:american_express=no
+payment:cash=no
+payment:girocard=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:uta=yes
+payment:v_pay=yes
+payment:visa=yes
+self_service=only
+website=https://www.winkler-energy.de/tanken/66773-schwalbach-tankstelle
+id=node/12956469334</desc></wpt><trk><name>Aral</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=44
+addr:postcode=66740
+addr:street=Metzer Straße
+air_conditioning=yes
+amenity=fuel
+automated=yes
+brand=Aral
+brand:wikidata=Q565734
+building=yes;roof
+building:levels=1
+fuel:adblue=yes
+fuel:cng=yes
+fuel:diesel=yes
+layer=1
+name=Aral
+opening_hours=24/7
+operator=Aral
+self_service=no
+type=multipolygon
+id=relation/16376551</desc><trkseg><trkpt lat="49.3054903" lon="6.7398957"/><trkpt lat="49.3055649" lon="6.7400128"/><trkpt lat="49.305611" lon="6.7399437"/><trkpt lat="49.3055364" lon="6.7398266"/><trkpt lat="49.3054903" lon="6.7398957"/></trkseg><trkseg><trkpt lat="49.3055503" lon="6.7401177"/><trkpt lat="49.3054311" lon="6.7399319"/><trkpt lat="49.3053293" lon="6.7400855"/><trkpt lat="49.3054486" lon="6.7402713"/><trkpt lat="49.3055503" lon="6.7401177"/></trkseg><trkseg><trkpt lat="49.3053899" lon="6.7398079"/><trkpt lat="49.305285" lon="6.7396309"/><trkpt lat="49.3051818" lon="6.7397838"/><trkpt lat="49.305271" lon="6.7399313"/><trkpt lat="49.3053147" lon="6.7399286"/><trkpt lat="49.3053899" lon="6.7398079"/></trkseg></trk><trk><name>Aral</name><desc>addr:city=Sankt Ingbert
+addr:country=DE
+addr:housenumber=6a
+addr:postcode=66386
+addr:street=Saarbrücker Straße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+building=yes
+compressed_air=yes
+name=Aral
+opening_hours=24/7
+operator=Aral
+toilets:wheelchair=no
+wheelchair=yes
+id=way/45588063</desc><trkseg><trkpt lat="49.2757117" lon="7.110164"/><trkpt lat="49.2756705" lon="7.1100656"/><trkpt lat="49.2755617" lon="7.1101727"/><trkpt lat="49.2756029" lon="7.1102711"/><trkpt lat="49.2755836" lon="7.1102867"/><trkpt lat="49.2757264" lon="7.1106385"/><trkpt lat="49.2758678" lon="7.1105037"/><trkpt lat="49.2757251" lon="7.1101519"/><trkpt lat="49.2757117" lon="7.110164"/></trkseg></trk><trk><name>Globus Saarbrücken-Güdingen</name><desc>addr:city=Saarbrücken
+addr:housenumber=6
+addr:postcode=66130
+addr:street=Wolfseck
+amenity=fuel
+brand=Globus
+brand:wikidata=Q457503
+building=roof
+changing_table=no
+compressed_air=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+layer=1
+name=Globus Saarbrücken-Güdingen
+opening_hours=24/7
+operator=Globus
+payment:american_express=yes
+payment:apple_pay=yes
+payment:cash=no
+payment:contactless=yes
+payment:dkv=yes
+payment:girocard=yes
+payment:google_pay=yes
+payment:logpay=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:novofleet=yes
+payment:ticket_plus=yes
+payment:v_pay=yes
+payment:visa=yes
+ref:mtsk=8485d9a1-fb9b-476e-9cc3-17d00dcdcee0
+self_service=yes
+vacuum_cleaner=yes
+vending_machine=fuel
+website=https://www.globus.de/guedingen/unsere-tankstelle.php
+wheelchair=limited
+id=way/48627836</desc><trkseg><trkpt lat="49.21068" lon="7.0245421"/><trkpt lat="49.2106646" lon="7.024558"/><trkpt lat="49.2106376" lon="7.0245859"/><trkpt lat="49.2106167" lon="7.0246075"/><trkpt lat="49.2105806" lon="7.0246448"/><trkpt lat="49.2105613" lon="7.0246648"/><trkpt lat="49.210524" lon="7.0247033"/><trkpt lat="49.2105075" lon="7.0247204"/><trkpt lat="49.2104685" lon="7.0247607"/><trkpt lat="49.2104495" lon="7.0247803"/><trkpt lat="49.2104163" lon="7.0248147"/><trkpt lat="49.2104012" lon="7.0248304"/><trkpt lat="49.210372" lon="7.0248611"/><trkpt lat="49.2103471" lon="7.0248869"/><trkpt lat="49.2104036" lon="7.0250144"/><trkpt lat="49.2104286" lon="7.0249885"/><trkpt lat="49.2104557" lon="7.0249601"/><trkpt lat="49.2104709" lon="7.0249442"/><trkpt lat="49.2105052" lon="7.0249088"/><trkpt lat="49.2105243" lon="7.0248891"/><trkpt lat="49.2105611" lon="7.024851"/><trkpt lat="49.2105793" lon="7.0248322"/><trkpt lat="49.2106171" lon="7.0247931"/><trkpt lat="49.2106352" lon="7.0247744"/><trkpt lat="49.2106711" lon="7.0247373"/><trkpt lat="49.2106918" lon="7.0247159"/><trkpt lat="49.2107178" lon="7.0246889"/><trkpt lat="49.2107368" lon="7.0246688"/><trkpt lat="49.21068" lon="7.0245421"/></trkseg></trk><trk><name>ED</name><desc>addr:city=Friedrichsthal
+addr:country=DE
+addr:housenumber=9c
+addr:postcode=66299
+addr:street=Grühlingstraße
+amenity=fuel
+brand=ED
+brand:wikidata=Q118111469
+building=yes
+name=ED
+id=way/50250588</desc><trkseg><trkpt lat="49.3309393" lon="7.0880723"/><trkpt lat="49.3307594" lon="7.0879668"/><trkpt lat="49.3307743" lon="7.0879125"/><trkpt lat="49.3307246" lon="7.0878818"/><trkpt lat="49.3306021" lon="7.0879339"/><trkpt lat="49.3305847" lon="7.0879911"/><trkpt lat="49.3305989" lon="7.0881183"/><trkpt lat="49.3306425" lon="7.0881381"/><trkpt lat="49.3306661" lon="7.0880365"/><trkpt lat="49.3309153" lon="7.0881711"/><trkpt lat="49.3309393" lon="7.0880723"/></trkseg></trk><trk><name>Globus Tankstelle</name><desc>amenity=fuel
+building=yes
+compressed_air=no
+layer=1
+name=Globus Tankstelle
+wheelchair=yes
+id=way/88216059</desc><trkseg><trkpt lat="49.2470344" lon="6.8482071"/><trkpt lat="49.2469426" lon="6.8482954"/><trkpt lat="49.2471329" lon="6.8487597"/><trkpt lat="49.2472247" lon="6.8486714"/><trkpt lat="49.2470344" lon="6.8482071"/></trkseg></trk><trk><name>way/91393252</name><desc>access=private
+amenity=fuel
+building=roof
+building:levels=1
+roof:shape=flat
+id=way/91393252</desc><trkseg><trkpt lat="49.2338842" lon="6.9690079"/><trkpt lat="49.233884" lon="6.9691828"/><trkpt lat="49.2338838" lon="6.9694142"/><trkpt lat="49.2340824" lon="6.9696488"/><trkpt lat="49.2340842" lon="6.9694215"/><trkpt lat="49.2340859" lon="6.9692723"/><trkpt lat="49.2340856" lon="6.9692316"/><trkpt lat="49.2338842" lon="6.9690079"/></trkseg></trk><trk><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+building=roof
+fuel:GTL_diesel=yes
+fuel:diesel=yes
+fuel:octane_100=yes
+fuel:octane_95=yes
+fuel:octane_95_V-Power=yes
+fuel:octane_98=no
+name=Shell
+opening_hours=24/7
+operator=Frank Hillebrand GmbH
+phone=+49 6805 4571
+id=way/91741531</desc><trkseg><trkpt lat="49.1245257" lon="7.0522229"/><trkpt lat="49.1244556" lon="7.0524839"/><trkpt lat="49.1244406" lon="7.0525397"/><trkpt lat="49.1246132" lon="7.052648"/><trkpt lat="49.1246983" lon="7.0523312"/><trkpt lat="49.1245257" lon="7.0522229"/></trkseg></trk><trk><name>Aral</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housenumber=5
+addr:postcode=66333
+addr:street=Karolingerstraße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+building=yes
+name=Aral
+wheelchair=yes
+id=way/93125333</desc><trkseg><trkpt lat="49.2473107" lon="6.8592384"/><trkpt lat="49.2474404" lon="6.8593329"/><trkpt lat="49.2474895" lon="6.8591753"/><trkpt lat="49.2473583" lon="6.8590792"/><trkpt lat="49.2473107" lon="6.8592384"/></trkseg></trk><trk><name>Total</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+building=yes
+compressed_air=yes
+name=Total
+operator=K. H. Scherer
+source=Bing
+wheelchair=limited
+id=way/103000884</desc><trkseg><trkpt lat="49.4933513" lon="7.1140757"/><trkpt lat="49.4933255" lon="7.1140088"/><trkpt lat="49.4932096" lon="7.1141149"/><trkpt lat="49.493194" lon="7.1141292"/><trkpt lat="49.4932601" lon="7.1143002"/><trkpt lat="49.4933035" lon="7.1144127"/><trkpt lat="49.4933772" lon="7.1143452"/><trkpt lat="49.4933324" lon="7.114229"/><trkpt lat="49.4932936" lon="7.1141285"/><trkpt lat="49.4933513" lon="7.1140757"/></trkseg></trk><trk><name>way/110367894</name><desc>addr:city=Blieskastel
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66440
+addr:street=Bliesaue
+addr:suburb=Webenheim
+amenity=fuel
+brand=Aral
+building=yes
+contact:phone=+49 6842 9219763
+fuel:HGV_diesel=yes
+fuel:cng=yes
+fuel:lpg=yes
+opening_hours=Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su 08:00-23:00
+payment:cash=yes
+payment:dkv=yes
+payment:girocard=yes
+payment:mastercard=yes
+payment:visa=yes
+ref:mtsk=21c3db2d-cb5c-46d0-bb97-3b740504aaca
+shop=kiosk
+website=http://www.tankstelle-blieskastel.de
+id=way/110367894</desc><trkseg><trkpt lat="49.2357063" lon="7.269791"/><trkpt lat="49.2355248" lon="7.2697793"/><trkpt lat="49.235519" lon="7.2699901"/><trkpt lat="49.2357005" lon="7.2700018"/><trkpt lat="49.2357063" lon="7.269791"/></trkseg></trk><trk><name>way/110997785</name><desc>amenity=fuel
+brand=DH
+building=yes
+description=nur für Beschäftigte
+operator=Dillinger Hütte
+id=way/110997785</desc><trkseg><trkpt lat="49.365393" lon="6.7502701"/><trkpt lat="49.3654662" lon="6.7504082"/><trkpt lat="49.3655542" lon="6.7502982"/><trkpt lat="49.365481" lon="6.7501601"/><trkpt lat="49.365393" lon="6.7502701"/></trkseg></trk><trk><name>Supermarkt-Tankstelle</name><desc>amenity=fuel
+building=yes
+building:use=commercial
+name=Supermarkt-Tankstelle
+wheelchair=yes
+id=way/115191065</desc><trkseg><trkpt lat="49.2858654" lon="6.7842503"/><trkpt lat="49.2858642" lon="6.7844028"/><trkpt lat="49.2858613" lon="6.7845438"/><trkpt lat="49.2858854" lon="6.7845446"/><trkpt lat="49.2858838" lon="6.7846605"/><trkpt lat="49.28597" lon="6.7846633"/><trkpt lat="49.2859716" lon="6.7845492"/><trkpt lat="49.28599" lon="6.7845498"/><trkpt lat="49.2859921" lon="6.7844034"/><trkpt lat="49.2859942" lon="6.7842545"/><trkpt lat="49.2858654" lon="6.7842503"/></trkseg></trk><trk><name>Shell</name><desc>addr:city=Püttlingen
+addr:country=DE
+addr:housenumber=76
+addr:postcode=66346
+addr:street=Bahnhofstraße
+amenity=fuel
+brand=Shell
+brand:wikidata=Q154950
+brand:wikipedia=en:Royal Dutch Shell
+building=yes
+fuel:diesel=yes
+fuel:octane_91=yes
+fuel:octane_95=yes
+name=Shell
+operator=Shell
+wheelchair=limited
+wheelchair:description=Der Schlüssel muss in der Tankstelle geholt werden und bereits hier gibt es eine Stufe die höher ist als handbreit. Die maße und Ausstattung der Toilette ist nicht vollständig behindertengerecht.
+id=way/119130247</desc><trkseg><trkpt lat="49.2813711" lon="6.8824853"/><trkpt lat="49.2812751" lon="6.882501"/><trkpt lat="49.2812942" lon="6.8827756"/><trkpt lat="49.2813902" lon="6.8827599"/><trkpt lat="49.2813711" lon="6.8824853"/></trkseg></trk><trk><name>ARAL</name><desc>amenity=fuel
+brand=Aral
+compressed_air=yes
+name=ARAL
+opening_hours=Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00
+operator=Aral
+surveillance=yes
+surveillance:type=camera
+wheelchair=yes
+id=way/125590897</desc><trkseg><trkpt lat="49.223572" lon="6.9926701"/><trkpt lat="49.2232405" lon="6.9926861"/><trkpt lat="49.2232458" lon="6.9932201"/><trkpt lat="49.2234323" lon="6.9932003"/><trkpt lat="49.2235487" lon="6.993184"/><trkpt lat="49.2235891" lon="6.9931784"/><trkpt lat="49.2235877" lon="6.9931358"/><trkpt lat="49.2235858" lon="6.9930791"/><trkpt lat="49.2235772" lon="6.9928261"/><trkpt lat="49.223572" lon="6.9926701"/></trkseg></trk><trk><name>Supermarkt-Tankstelle</name><desc>amenity=fuel
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+name=Supermarkt-Tankstelle
+opening_hours=Mo-Fr 06:00-21:00; Sa 06:00-20:00
+payment:cash=yes
+payment:credit_cards=no
+payment:dkv=yes
+payment:girocard=yes
+payment:ikea_card=yes
+payment:logpay=yes
+payment:maestro=yes
+payment:novofleet=yes
+payment:uta=yes
+payment:v_pay=yes
+self_service=yes
+id=way/129096397</desc><trkseg><trkpt lat="49.2875599" lon="7.0262133"/><trkpt lat="49.287479" lon="7.0263638"/><trkpt lat="49.2875615" lon="7.0264614"/><trkpt lat="49.2876424" lon="7.026312"/><trkpt lat="49.2875599" lon="7.0262133"/></trkseg></trk><trk><name>Shell Station</name><desc>addr:city=Eppelborn
+addr:country=DE
+addr:housenumber=114
+addr:postcode=66571
+addr:street=Rathausstraße
+amenity=fuel
+brand=Shell
+building=yes
+name=Shell Station
+operator=Shell
+shop=yes
+wheelchair=yes
+id=way/134520929</desc><trkseg><trkpt lat="49.4066414" lon="6.9546569"/><trkpt lat="49.4065706" lon="6.9544761"/><trkpt lat="49.4066062" lon="6.9544432"/><trkpt lat="49.406551" lon="6.9543024"/><trkpt lat="49.4064206" lon="6.954423"/><trkpt lat="49.4064416" lon="6.9544765"/><trkpt lat="49.4063272" lon="6.9545823"/><trkpt lat="49.4064321" lon="6.9548504"/><trkpt lat="49.4066414" lon="6.9546569"/></trkseg></trk><trk><name>SB Tank</name><desc>amenity=fuel
+brand=SB Tank
+brand:wikidata=Q96758296
+building=roof
+name=SB Tank
+id=way/139856533</desc><trkseg><trkpt lat="49.4145702" lon="6.9232784"/><trkpt lat="49.4145783" lon="6.9230068"/><trkpt lat="49.4145351" lon="6.9230037"/><trkpt lat="49.4145378" lon="6.9229146"/><trkpt lat="49.4144501" lon="6.9229084"/><trkpt lat="49.4144359" lon="6.9233815"/><trkpt lat="49.4145207" lon="6.9233875"/><trkpt lat="49.4145227" lon="6.9233226"/><trkpt lat="49.4145688" lon="6.9233259"/><trkpt lat="49.4145702" lon="6.9232784"/></trkseg></trk><trk><name>Globus</name><desc>amenity=fuel
+compressed_air=no
+fuel:cng=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+layer=1
+name=Globus
+id=way/140061898</desc><trkseg><trkpt lat="49.4684669" lon="7.1389944"/><trkpt lat="49.4685788" lon="7.1390018"/><trkpt lat="49.4685863" lon="7.1387353"/><trkpt lat="49.4685929" lon="7.1385011"/><trkpt lat="49.468481" lon="7.1384937"/><trkpt lat="49.4684746" lon="7.1387199"/><trkpt lat="49.4684669" lon="7.1389944"/></trkseg></trk><trk><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+brand:wikipedia=en:Esso
+building=roof
+compressed_air=yes
+layer=1
+name=Esso
+opening_hours=24/7
+wheelchair=yes
+id=way/184004195</desc><trkseg><trkpt lat="49.4054482" lon="7.1640586"/><trkpt lat="49.4054139" lon="7.1641631"/><trkpt lat="49.4054605" lon="7.1641938"/><trkpt lat="49.4054433" lon="7.1642893"/><trkpt lat="49.4055804" lon="7.1643476"/><trkpt lat="49.4056066" lon="7.1642097"/><trkpt lat="49.4056206" lon="7.1641382"/><trkpt lat="49.4054482" lon="7.1640586"/></trkseg></trk><trk><name>Ed</name><desc>addr:city=Nonnweiler
+addr:country=DE
+addr:housenumber=29
+addr:postcode=66620
+addr:street=Hochwaldstraße
+amenity=fuel
+brand=ED
+brand:wikidata=Q118111469
+building=retail
+name=Ed
+opening_hours=Mo-Sa 06:00-22:00; Su 08:00-22:00
+id=way/201386271</desc><trkseg><trkpt lat="49.6033301" lon="6.9877147"/><trkpt lat="49.6034561" lon="6.9877397"/><trkpt lat="49.6034928" lon="6.9876917"/><trkpt lat="49.6035358" lon="6.9876997"/><trkpt lat="49.6035473" lon="6.9875402"/><trkpt lat="49.6034963" lon="6.9875331"/><trkpt lat="49.6034946" lon="6.9875725"/><trkpt lat="49.6034465" lon="6.9875633"/><trkpt lat="49.6034484" lon="6.9875302"/><trkpt lat="49.6034581" lon="6.9875305"/><trkpt lat="49.6034601" lon="6.9874897"/><trkpt lat="49.6033501" lon="6.9874664"/><trkpt lat="49.603333" lon="6.9876886"/><trkpt lat="49.6033301" lon="6.9877147"/></trkseg></trk><trk><name>TotalEnergies Tankstelle Fürth</name><desc>addr:city=Ottweiler
+addr:housenumber=24
+addr:postcode=66564
+addr:street=Dörrenbacher Straße
+amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+brand:wikipedia=fr:TotalEnergies
+layer=1
+name=TotalEnergies Tankstelle Fürth
+self_service=yes
+id=way/230853410</desc><trkseg><trkpt lat="49.4240101" lon="7.2359134"/><trkpt lat="49.4239981" lon="7.2359867"/><trkpt lat="49.4239954" lon="7.2360131"/><trkpt lat="49.4240873" lon="7.2360371"/><trkpt lat="49.4240904" lon="7.236015"/><trkpt lat="49.4241007" lon="7.2359394"/><trkpt lat="49.4240101" lon="7.2359134"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+building=roof
+name=Aral
+website=https://www.aral.de/
+wheelchair=no
+id=way/240270705</desc><trkseg><trkpt lat="49.3509509" lon="7.0505274"/><trkpt lat="49.3510092" lon="7.0505981"/><trkpt lat="49.3509897" lon="7.0506361"/><trkpt lat="49.3509459" lon="7.0507214"/><trkpt lat="49.3510082" lon="7.0507969"/><trkpt lat="49.3510659" lon="7.0506846"/><trkpt lat="49.3510898" lon="7.0506381"/><trkpt lat="49.3511389" lon="7.0505426"/><trkpt lat="49.3510787" lon="7.0504697"/><trkpt lat="49.3510534" lon="7.050519"/><trkpt lat="49.3509929" lon="7.0504457"/><trkpt lat="49.3509509" lon="7.0505274"/></trkseg></trk><trk><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+brand:wikipedia=en:Esso
+building=yes
+fuel:cng=yes
+name=Esso
+opening_hours=24/7
+id=way/244752892</desc><trkseg><trkpt lat="49.3462698" lon="7.3105246"/><trkpt lat="49.3462041" lon="7.3106052"/><trkpt lat="49.3463298" lon="7.3108464"/><trkpt lat="49.3464084" lon="7.3109971"/><trkpt lat="49.346474" lon="7.3109165"/><trkpt lat="49.3463967" lon="7.3107681"/><trkpt lat="49.3462698" lon="7.3105246"/></trkseg></trk><trk><name>Auto Wahl Sport</name><desc>amenity=fuel
+building=roof
+name=Auto Wahl Sport
+operator=Autosport Wahl
+id=way/252718412</desc><trkseg><trkpt lat="49.3869571" lon="7.0671512"/><trkpt lat="49.3870374" lon="7.0672737"/><trkpt lat="49.3871019" lon="7.067174"/><trkpt lat="49.3870217" lon="7.0670515"/><trkpt lat="49.3869571" lon="7.0671512"/></trkseg></trk><trk><name>Esso</name><desc>amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+building=roof
+fuel:cng=yes
+fuel:lpg=yes
+name=Esso
+opening_hours=Mo-Fr 05:30-24:00; Sa-Su 07:00-24:00
+source=http://www.gas-tankstellen.de
+wheelchair=yes
+id=way/252719019</desc><trkseg><trkpt lat="49.3834218" lon="7.0461665"/><trkpt lat="49.3834528" lon="7.046214"/><trkpt lat="49.3834077" lon="7.0462834"/><trkpt lat="49.3834447" lon="7.0463401"/><trkpt lat="49.3834553" lon="7.0463564"/><trkpt lat="49.3836027" lon="7.0461295"/><trkpt lat="49.3835241" lon="7.046009"/><trkpt lat="49.3834218" lon="7.0461665"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+building=yes
+name=Aral
+wheelchair=yes
+id=way/266422686</desc><trkseg><trkpt lat="49.3297357" lon="7.0569169"/><trkpt lat="49.3296965" lon="7.05703"/><trkpt lat="49.3298142" lon="7.057126"/><trkpt lat="49.3299282" lon="7.057219"/><trkpt lat="49.3299673" lon="7.0571059"/><trkpt lat="49.3299592" lon="7.0570993"/><trkpt lat="49.3298949" lon="7.0570469"/><trkpt lat="49.3298331" lon="7.0569965"/><trkpt lat="49.3297357" lon="7.0569169"/></trkseg></trk><trk><name>way/269482850</name><desc>access=private
+amenity=fuel
+building=roof
+fuel:hgv=yes
+layer=1
+id=way/269482850</desc><trkseg><trkpt lat="49.4963341" lon="6.4331724"/><trkpt lat="49.4962602" lon="6.4330017"/><trkpt lat="49.4961504" lon="6.4331143"/><trkpt lat="49.4962244" lon="6.4332851"/><trkpt lat="49.4963341" lon="6.4331724"/></trkseg></trk><trk><name>Oil</name><desc>amenity=fuel
+brand=OIL!
+brand:wikidata=Q2007561
+building=roof
+compressed_air=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_98=yes
+name=Oil
+id=way/270800479</desc><trkseg><trkpt lat="49.3842943" lon="6.9960382"/><trkpt lat="49.3841631" lon="6.99603"/><trkpt lat="49.3841284" lon="6.996028"/><trkpt lat="49.3841244" lon="6.9961827"/><trkpt lat="49.3841595" lon="6.9961847"/><trkpt lat="49.3842903" lon="6.9961929"/><trkpt lat="49.3842943" lon="6.9960382"/></trkseg></trk><trk><name>Shell</name><desc>amenity=fuel
+brand=Shell
+building=roof
+layer=1
+name=Shell
+opening_hours=Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00
+phone=+49 6843 5890511
+ref:mtsk=eb9fd911-e8cc-4d66-a0a5-503a1d7f921e
+ref:navads=NVDS353_10025258
+wheelchair=yes
+id=way/285418589</desc><trkseg><trkpt lat="49.1703376" lon="7.2316262"/><trkpt lat="49.1702585" lon="7.2317214"/><trkpt lat="49.170316" lon="7.231833"/><trkpt lat="49.1703532" lon="7.2317882"/><trkpt lat="49.1704023" lon="7.2318835"/><trkpt lat="49.1704441" lon="7.231833"/><trkpt lat="49.1703966" lon="7.2317407"/><trkpt lat="49.1703376" lon="7.2316262"/></trkseg></trk><trk><name>Agip</name><desc>addr:city=Quierschied
+addr:country=DE
+addr:housenumber=37
+addr:postcode=66287
+addr:street=Talstraße
+amenity=fuel
+brand=Agip
+brand:wikidata=Q377915
+compressed_air=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Agip
+wheelchair=yes
+id=way/292166747</desc><trkseg><trkpt lat="49.3030687" lon="7.0261506"/><trkpt lat="49.3034448" lon="7.0263437"/><trkpt lat="49.3034675" lon="7.026223"/><trkpt lat="49.3035742" lon="7.0262767"/><trkpt lat="49.3035987" lon="7.0262391"/><trkpt lat="49.3032524" lon="7.0256356"/><trkpt lat="49.3031622" lon="7.0257062"/><trkpt lat="49.3030849" lon="7.0259798"/><trkpt lat="49.3030687" lon="7.0261506"/></trkseg></trk><trk><name>Tankstelle ED</name><desc>addr:city=Großrosseln
+addr:country=DE
+addr:housenumber=42
+addr:postcode=66352
+addr:street=Lothringer Straße
+addr:suburb=Emmersweiler
+amenity=fuel
+brand=ED
+building=yes
+fuel:diesel=yes
+name=Tankstelle ED
+name:fr=Station Service ED
+opening_hours=Mo-Fr 06:00-20:30; Sa 07:00-20:30; Su 08:00-20:00
+id=way/300589331</desc><trkseg><trkpt lat="49.1802542" lon="6.8554756"/><trkpt lat="49.1802906" lon="6.8554139"/><trkpt lat="49.1802693" lon="6.8553846"/><trkpt lat="49.1803497" lon="6.8552481"/><trkpt lat="49.1803342" lon="6.8552267"/><trkpt lat="49.1804069" lon="6.8551033"/><trkpt lat="49.1802808" lon="6.8549293"/><trkpt lat="49.1801595" lon="6.855135"/><trkpt lat="49.1802546" lon="6.8552662"/><trkpt lat="49.1801864" lon="6.855382"/><trkpt lat="49.1802542" lon="6.8554756"/></trkseg></trk><trk><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+building=yes
+name=Shell
+id=way/335381601</desc><trkseg><trkpt lat="49.3255009" lon="6.7248411"/><trkpt lat="49.3255719" lon="6.7247356"/><trkpt lat="49.3254878" lon="6.7246023"/><trkpt lat="49.3254168" lon="6.7247078"/><trkpt lat="49.3255009" lon="6.7248411"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+building=yes
+compressed_air=yes
+name=Aral
+operator=Auto Wilhelm
+id=way/339753706</desc><trkseg><trkpt lat="49.5346836" lon="6.8944442"/><trkpt lat="49.5346417" lon="6.8944222"/><trkpt lat="49.534622" lon="6.8945112"/><trkpt lat="49.5346639" lon="6.8945332"/><trkpt lat="49.5346836" lon="6.8944442"/></trkseg></trk><trk><name>way/355516154</name><desc>amenity=fuel
+building=roof
+fuel:diesel=yes
+opening_hours=24/7
+payment:maestro=yes
+id=way/355516154</desc><trkseg><trkpt lat="49.5399755" lon="6.9752735"/><trkpt lat="49.5400234" lon="6.9752563"/><trkpt lat="49.5400114" lon="6.9751774"/><trkpt lat="49.5399635" lon="6.9751946"/><trkpt lat="49.5399755" lon="6.9752735"/></trkseg></trk><trk><name>Esso</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=65
+addr:postcode=66424
+addr:street=Zweibrücker Straße
+amenity=fuel
+brand=Esso
+brand:wikidata=Q867662
+brand:wikipedia=en:Esso
+building=commercial
+compressed_air=yes
+name=Esso
+wheelchair=no
+id=way/360382276</desc><trkseg><trkpt lat="49.3153983" lon="7.3361135"/><trkpt lat="49.3154306" lon="7.3359608"/><trkpt lat="49.3152286" lon="7.3358603"/><trkpt lat="49.3151963" lon="7.3360129"/><trkpt lat="49.3153263" lon="7.3360769"/><trkpt lat="49.3153983" lon="7.3361135"/></trkseg></trk><trk><name>Oil!</name><desc>amenity=fuel
+brand=OIL!
+brand:wikidata=Q2007561
+building=yes
+name=Oil!
+id=way/367595156</desc><trkseg><trkpt lat="49.3253924" lon="6.751123"/><trkpt lat="49.3252969" lon="6.7511212"/><trkpt lat="49.3252957" lon="6.7512824"/><trkpt lat="49.3252383" lon="6.7513615"/><trkpt lat="49.3252372" lon="6.7515"/><trkpt lat="49.3254262" lon="6.7515036"/><trkpt lat="49.325428" lon="6.7512816"/><trkpt lat="49.3253912" lon="6.7512809"/><trkpt lat="49.3253924" lon="6.751123"/></trkseg></trk><trk><name>Freie Tankstelle Arno Kern</name><desc>addr:city=Nohfelden
+addr:housenumber=95
+addr:postcode=66625
+addr:street=Saarbrücker Straße
+amenity=fuel
+brand=Freie Tankstelle
+brand:wikidata=Q1009104
+building=roof
+fuel:lpg=yes
+layer=1
+name=Freie Tankstelle Arno Kern
+opening_hours=Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00
+phone=+49 6852 374
+id=way/371313743</desc><trkseg><trkpt lat="49.5742388" lon="7.1094038"/><trkpt lat="49.5743482" lon="7.1092715"/><trkpt lat="49.5743348" lon="7.1092452"/><trkpt lat="49.5742971" lon="7.1091711"/><trkpt lat="49.5741877" lon="7.1093035"/><trkpt lat="49.5742388" lon="7.1094038"/></trkseg></trk><trk><name>Esso</name><desc>amenity=fuel
+brand=Avia
+brand:wikidata=Q867662
+compressed_air=no
+name=Esso
+ref:mtsk=7c5527e5-cffd-4408-9d49-7eb5ef07e95f
+id=way/371787849</desc><trkseg><trkpt lat="49.2797338" lon="7.1714467"/><trkpt lat="49.2796485" lon="7.1714104"/><trkpt lat="49.2796194" lon="7.1715716"/><trkpt lat="49.2797047" lon="7.1716078"/><trkpt lat="49.2797338" lon="7.1714467"/></trkseg></trk><trk><name>Esso</name><desc>amenity=fuel
+building=roof
+fuel:cng=yes
+fuel:lpg=no
+name=Esso
+opening_hours=24/7
+source=http://www.gas-tankstellen.de
+id=way/376066163</desc><trkseg><trkpt lat="49.3589451" lon="6.7181424"/><trkpt lat="49.3588407" lon="6.7180079"/><trkpt lat="49.3587496" lon="6.7181747"/><trkpt lat="49.358862" lon="6.7183194"/><trkpt lat="49.3588791" lon="6.7183415"/><trkpt lat="49.3588949" lon="6.7183126"/><trkpt lat="49.3589253" lon="6.718257"/><trkpt lat="49.3589002" lon="6.7182246"/><trkpt lat="49.3589451" lon="6.7181424"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+building=roof
+compressed_air=yes
+layer=1
+name=Aral
+id=way/376908609</desc><trkseg><trkpt lat="49.3654707" lon="6.6872018"/><trkpt lat="49.3654502" lon="6.6869381"/><trkpt lat="49.3652816" lon="6.686969"/><trkpt lat="49.3653021" lon="6.6872327"/><trkpt lat="49.3654707" lon="6.6872018"/></trkseg></trk><trk><name>ED</name><desc>amenity=fuel
+brand=ED
+building=roof
+fuel:diesel=yes
+fuel:e10=yes
+fuel:lpg=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=ED
+opening_hours=Mo-Sa 06:00-22:00; Su 07:00-22:00
+payment:dkv=yes
+payment:uta=yes
+shop=kiosk
+wheelchair=limited
+wheelchair:description=Nebeneingang ebenerdig
+id=way/393592349</desc><trkseg><trkpt lat="49.2674872" lon="6.7969977"/><trkpt lat="49.2675512" lon="6.7970108"/><trkpt lat="49.2675712" lon="6.7967824"/><trkpt lat="49.2675073" lon="6.7967693"/><trkpt lat="49.2674872" lon="6.7969977"/></trkseg></trk><trk><name>Shell</name><desc>addr:city=Sankt Ingbert
+addr:country=DE
+addr:housenumber=64
+addr:postcode=66386
+addr:street=Südstraße
+amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+building=yes
+check_date=2024-11-04
+name=Shell
+wheelchair=limited
+id=way/412731768</desc><trkseg><trkpt lat="49.2694158" lon="7.1370486"/><trkpt lat="49.2693236" lon="7.1368806"/><trkpt lat="49.2692406" lon="7.1369876"/><trkpt lat="49.2693328" lon="7.1371556"/><trkpt lat="49.2693621" lon="7.1371178"/><trkpt lat="49.2694158" lon="7.1370486"/></trkseg></trk><trk><name>Shell</name><desc>addr:city=Neunkirchen
+addr:postcode=66539
+addr:street=Limbacher Straße
+amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+building=yes
+check_date=2025-03-14
+compressed_air=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_98=yes
+fuel:petrol=yes
+name=Shell
+opening_hours=Mo-Fr 06:00-22:00; PH,Sa,Su 07:00-22:00
+operator=Shell
+self_service=yes
+wheelchair=no
+id=way/414635888</desc><trkseg><trkpt lat="49.3222402" lon="7.2169192"/><trkpt lat="49.3221817" lon="7.2168397"/><trkpt lat="49.3221347" lon="7.2167757"/><trkpt lat="49.3220749" lon="7.2168791"/><trkpt lat="49.3221215" lon="7.2169427"/><trkpt lat="49.3221801" lon="7.2170225"/><trkpt lat="49.3222402" lon="7.2169192"/></trkseg></trk><trk><name>Tankstelle Schorr</name><desc>amenity=fuel
+building=yes
+name=Tankstelle Schorr
+id=way/420805680</desc><trkseg><trkpt lat="49.3351621" lon="7.1013256"/><trkpt lat="49.3351297" lon="7.101432"/><trkpt lat="49.3352494" lon="7.1015178"/><trkpt lat="49.3352818" lon="7.1014115"/><trkpt lat="49.3351621" lon="7.1013256"/></trkseg></trk><trk><name>ARAL</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+building=roof
+name=ARAL
+id=way/422653355</desc><trkseg><trkpt lat="49.3832311" lon="7.0119019"/><trkpt lat="49.3832495" lon="7.0119644"/><trkpt lat="49.3832588" lon="7.0119579"/><trkpt lat="49.3833675" lon="7.0118823"/><trkpt lat="49.3833474" lon="7.0118144"/><trkpt lat="49.3833559" lon="7.0118086"/><trkpt lat="49.3832892" lon="7.0115826"/><trkpt lat="49.3831563" lon="7.0116751"/><trkpt lat="49.3832245" lon="7.0119065"/><trkpt lat="49.3832311" lon="7.0119019"/></trkseg></trk><trk><name>way/433014375</name><desc>amenity=fuel
+id=way/433014375</desc><trkseg><trkpt lat="49.324565" lon="6.7485706"/><trkpt lat="49.3245068" lon="6.7485364"/><trkpt lat="49.324375" lon="6.7484588"/><trkpt lat="49.3242479" lon="6.748384"/><trkpt lat="49.3242233" lon="6.7483695"/><trkpt lat="49.3241218" lon="6.7488067"/><trkpt lat="49.3243673" lon="6.7489576"/><trkpt lat="49.3244208" lon="6.7489904"/><trkpt lat="49.3244441" lon="6.7489598"/><trkpt lat="49.324518" lon="6.748863"/><trkpt lat="49.3245816" lon="6.7486709"/><trkpt lat="49.324587" lon="6.7486484"/><trkpt lat="49.324565" lon="6.7485706"/></trkseg></trk><trk><name>Jet</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66424
+addr:street=Robert-Bosch-Straße
+amenity=fuel
+brand=Jet
+brand:wikidata=Q568940
+brand:wikipedia=en:Jet (brand)
+building=commercial
+fuel:diesel=yes
+fuel:octane_95=yes
+name=Jet
+operator=Jana Grunenberg
+website=https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ03157
+wheelchair=yes
+id=way/477530371</desc><trkseg><trkpt lat="49.3315481" lon="7.3397159"/><trkpt lat="49.3313909" lon="7.3397948"/><trkpt lat="49.331441" lon="7.3400294"/><trkpt lat="49.3315806" lon="7.3399593"/><trkpt lat="49.3315654" lon="7.3398881"/><trkpt lat="49.3315873" lon="7.3398771"/><trkpt lat="49.3316064" lon="7.3399668"/><trkpt lat="49.3316583" lon="7.3399407"/><trkpt lat="49.3315928" lon="7.3396331"/><trkpt lat="49.3315365" lon="7.3396614"/><trkpt lat="49.3315481" lon="7.3397159"/></trkseg></trk><trk><name>Hubert Schön</name><desc>amenity=fuel
+brand=Esso
+building=roof
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Hubert Schön
+shop=kiosk
+id=way/584714320</desc><trkseg><trkpt lat="49.4296867" lon="6.9457588"/><trkpt lat="49.4296293" lon="6.9458541"/><trkpt lat="49.4297074" lon="6.9459654"/><trkpt lat="49.4297649" lon="6.9458702"/><trkpt lat="49.4296867" lon="6.9457588"/></trkseg></trk><trk><name>Agip Scheidter Straße</name><desc>addr:city=Saarbrücken
+addr:housenumber=262
+addr:postcode=66125
+addr:street=Scheidter Straße
+amenity=fuel
+brand=Agip
+brand:wikidata=Q377915
+car_wash=yes
+compressed_air=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+landuse=retail
+name=Agip Scheidter Straße
+id=way/626614165</desc><trkseg><trkpt lat="49.26806" lon="7.0492819"/><trkpt lat="49.2677712" lon="7.0491371"/><trkpt lat="49.2676172" lon="7.0495877"/><trkpt lat="49.2676644" lon="7.0496003"/><trkpt lat="49.2678856" lon="7.0496592"/><trkpt lat="49.2679392" lon="7.0496735"/><trkpt lat="49.26806" lon="7.0492819"/></trkseg></trk><trk><name>Dahm</name><desc>amenity=fuel
+building=roof
+name=Dahm
+id=way/653633959</desc><trkseg><trkpt lat="49.357771" lon="6.9779786"/><trkpt lat="49.3577249" lon="6.9780231"/><trkpt lat="49.3577581" lon="6.9781042"/><trkpt lat="49.3578041" lon="6.9780598"/><trkpt lat="49.357771" lon="6.9779786"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+building=roof
+compressed_air=yes
+name=Aral
+id=way/668511608</desc><trkseg><trkpt lat="49.3066858" lon="7.0562057"/><trkpt lat="49.3066169" lon="7.0561214"/><trkpt lat="49.3065372" lon="7.0562746"/><trkpt lat="49.306606" lon="7.0563589"/><trkpt lat="49.3066858" lon="7.0562057"/></trkseg></trk><trk><name>MTB</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=91
+addr:postcode=66115
+addr:street=Breite Straße
+amenity=fuel
+car_wash=yes
+fuel:cng=no
+fuel:diesel=yes
+fuel:lpg=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=MTB
+opening_hours=Mo-Sa 06:00-23:00; Su 08:00-23:00
+operator=MTB
+phone=+49 681 79301733
+ref:mtsk=E8D4F635-88B7-4715-2432-46C312563A5B
+self_service=yes
+shop=yes
+source=http://www.gas-tankstellen.de
+surveillance=yes
+surveillance:type=camera
+website=https://www.wahr-energie.de/mtb-tankstellen/
+id=way/681296673</desc><trkseg><trkpt lat="49.2406921" lon="6.9664261"/><trkpt lat="49.2406737" lon="6.9665982"/><trkpt lat="49.240663" lon="6.9666984"/><trkpt lat="49.2406321" lon="6.9669427"/><trkpt lat="49.2406052" lon="6.9671405"/><trkpt lat="49.240596" lon="6.9672137"/><trkpt lat="49.2405949" lon="6.9672619"/><trkpt lat="49.2406043" lon="6.9673027"/><trkpt lat="49.2406146" lon="6.9673202"/><trkpt lat="49.2406299" lon="6.9673266"/><trkpt lat="49.240643" lon="6.9673318"/><trkpt lat="49.2406603" lon="6.9673228"/><trkpt lat="49.2406779" lon="6.9673081"/><trkpt lat="49.2406959" lon="6.9672802"/><trkpt lat="49.2407564" lon="6.9671897"/><trkpt lat="49.2407607" lon="6.9671829"/><trkpt lat="49.2407653" lon="6.9671756"/><trkpt lat="49.2408393" lon="6.9670579"/><trkpt lat="49.2409153" lon="6.9669377"/><trkpt lat="49.2409254" lon="6.9669004"/><trkpt lat="49.2409195" lon="6.9668616"/><trkpt lat="49.2408474" lon="6.9667178"/><trkpt lat="49.2408362" lon="6.9666963"/><trkpt lat="49.2408093" lon="6.9666416"/><trkpt lat="49.2407552" lon="6.9665342"/><trkpt lat="49.2406921" lon="6.9664261"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+building=yes
+building:colour=white
+building:levels=1
+layer=1
+name=Aral
+opening_hours=24/7
+roof:shape=flat
+wheelchair=yes
+id=way/697134047</desc><trkseg><trkpt lat="49.2255647" lon="7.0299041"/><trkpt lat="49.2255436" lon="7.0298817"/><trkpt lat="49.2255241" lon="7.0298622"/><trkpt lat="49.2254102" lon="7.029885"/><trkpt lat="49.2254378" lon="7.0301401"/><trkpt lat="49.2255791" lon="7.0301121"/><trkpt lat="49.2255729" lon="7.0300455"/><trkpt lat="49.2255814" lon="7.0300428"/><trkpt lat="49.2255647" lon="7.0299041"/></trkseg></trk><trk><name>Spirit</name><desc>amenity=fuel
+brand=Independent
+building=roof
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=no
+name=Spirit
+id=way/705395667</desc><trkseg><trkpt lat="49.1179475" lon="7.0627157"/><trkpt lat="49.1178827" lon="7.0628104"/><trkpt lat="49.1179489" lon="7.0629323"/><trkpt lat="49.1180236" lon="7.0628276"/><trkpt lat="49.1179475" lon="7.0627157"/></trkseg></trk><trk><name>Tankstelle am Saarbasar</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=1a
+addr:postcode=66121
+addr:street=Breslauer Straße
+amenity=fuel
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Tankstelle am Saarbasar
+opening_hours=Mo-Fr 08:00-20:30; Sa 08:00-20:00; PH off
+operator=Petra Wax
+payment:cash=yes
+payment:credit_cards=no
+payment:cryptocurrencies=no
+payment:girocard=yes
+payment:maestro=yes
+ref:mtsk=51D4B6F2-A095-1AA0-E100-80009459E03A
+self_service=yes
+surveillance=outdoor
+surveillance:type=camera
+wheelchair=limited
+id=way/717944664</desc><trkseg><trkpt lat="49.2269346" lon="7.037779"/><trkpt lat="49.2268524" lon="7.0377438"/><trkpt lat="49.2268444" lon="7.037788"/><trkpt lat="49.2268335" lon="7.0377859"/><trkpt lat="49.226772" lon="7.0377596"/><trkpt lat="49.2267408" lon="7.037786"/><trkpt lat="49.2266308" lon="7.0378797"/><trkpt lat="49.2266147" lon="7.0378828"/><trkpt lat="49.2265721" lon="7.0379777"/><trkpt lat="49.2265893" lon="7.0380093"/><trkpt lat="49.2266434" lon="7.038033"/><trkpt lat="49.2266793" lon="7.038045"/><trkpt lat="49.2267381" lon="7.0380627"/><trkpt lat="49.2267718" lon="7.0380726"/><trkpt lat="49.2268704" lon="7.0380798"/><trkpt lat="49.226946" lon="7.0380012"/><trkpt lat="49.2269721" lon="7.0379571"/><trkpt lat="49.2269903" lon="7.0378893"/><trkpt lat="49.2270127" lon="7.0378656"/><trkpt lat="49.2270038" lon="7.0378393"/><trkpt lat="49.2269908" lon="7.0378032"/><trkpt lat="49.226967" lon="7.0377931"/><trkpt lat="49.2269612" lon="7.0377904"/><trkpt lat="49.2269346" lon="7.037779"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+building=roof
+compressed_air=yes
+fuel:biodiesel=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Aral
+opening_hours=Mo-Fr 05:30-22:00; Sa,Su 06:00-22:00
+operator=Becker Theo
+wheelchair=yes
+id=way/779380401</desc><trkseg><trkpt lat="49.4095799" lon="6.7179794"/><trkpt lat="49.4097053" lon="6.7181157"/><trkpt lat="49.409788" lon="6.7179359"/><trkpt lat="49.4096626" lon="6.7177996"/><trkpt lat="49.4095799" lon="6.7179794"/></trkseg></trk><trk><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+fuel:diesel=yes
+name=Shell
+operator=Shell
+id=way/840271504</desc><trkseg><trkpt lat="49.3103302" lon="6.7542884"/><trkpt lat="49.3102289" lon="6.7544567"/><trkpt lat="49.3101764" lon="6.7545184"/><trkpt lat="49.3101642" lon="6.7544808"/><trkpt lat="49.3100597" lon="6.7545693"/><trkpt lat="49.3100689" lon="6.7546076"/><trkpt lat="49.3101469" lon="6.7548263"/><trkpt lat="49.3102345" lon="6.7550718"/><trkpt lat="49.3102664" lon="6.7551092"/><trkpt lat="49.3105982" lon="6.7549825"/><trkpt lat="49.3106695" lon="6.7548846"/><trkpt lat="49.3103302" lon="6.7542884"/></trkseg></trk><trk><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+compressed_air=yes
+fuel:GTL_diesel=yes
+fuel:diesel=yes
+fuel:octane_100=yes
+fuel:octane_95=yes
+fuel:octane_95_V-Power=yes
+fuel:octane_98=no
+name=Shell
+opening_hours=24/7
+operator=Shell Station Dieter Huth GmbH
+id=way/892081090</desc><trkseg><trkpt lat="49.205542" lon="7.0556714"/><trkpt lat="49.2052121" lon="7.0552239"/><trkpt lat="49.2049815" lon="7.0556577"/><trkpt lat="49.2051311" lon="7.0558525"/><trkpt lat="49.2052099" lon="7.0559552"/><trkpt lat="49.2052489" lon="7.0560059"/><trkpt lat="49.2052765" lon="7.0560419"/><trkpt lat="49.205317" lon="7.0560947"/><trkpt lat="49.205542" lon="7.0556714"/></trkseg></trk><trk><name>TotalEnergies Martin-Luther-Straße</name><desc>addr:city=Saarbrücken
+addr:housenumber=21
+addr:postcode=66111
+addr:street=Martin-Luther-Straße
+amenity=fuel
+brand=TotalEnergies
+brand:wikidata=Q154037
+compressed_air=yes
+landuse=commercial
+name=TotalEnergies Martin-Luther-Straße
+opening_hours=24/7
+operator=Herr Galgenmüller
+ref:TotalEnergies=ND002493
+website=https://store.totalenergies.lu/de_LU/ND002493
+wheelchair=limited
+id=way/915533792</desc><trkseg><trkpt lat="49.2379432" lon="7.0048967"/><trkpt lat="49.2379154" lon="7.0048668"/><trkpt lat="49.2378855" lon="7.004834"/><trkpt lat="49.2377748" lon="7.0047014"/><trkpt lat="49.2377452" lon="7.0046787"/><trkpt lat="49.2377147" lon="7.0046686"/><trkpt lat="49.2376848" lon="7.0046683"/><trkpt lat="49.2376472" lon="7.004678"/><trkpt lat="49.2376302" lon="7.0046866"/><trkpt lat="49.2375731" lon="7.0047208"/><trkpt lat="49.2375569" lon="7.0047498"/><trkpt lat="49.2375508" lon="7.0047937"/><trkpt lat="49.2375598" lon="7.0048404"/><trkpt lat="49.2375945" lon="7.0049691"/><trkpt lat="49.2376141" lon="7.0050573"/><trkpt lat="49.2376264" lon="7.0051085"/><trkpt lat="49.237668" lon="7.005298"/><trkpt lat="49.2376784" lon="7.0053452"/><trkpt lat="49.2376944" lon="7.005418"/><trkpt lat="49.2376979" lon="7.0054338"/><trkpt lat="49.2377394" lon="7.0054117"/><trkpt lat="49.2377753" lon="7.0053933"/><trkpt lat="49.2378866" lon="7.0053364"/><trkpt lat="49.2380653" lon="7.0052416"/><trkpt lat="49.2380977" lon="7.0052244"/><trkpt lat="49.2381304" lon="7.0052091"/><trkpt lat="49.2380828" lon="7.0051234"/><trkpt lat="49.2380302" lon="7.0050332"/><trkpt lat="49.2379432" lon="7.0048967"/></trkseg></trk><trk><name>Aral</name><desc>addr:city=Sankt Ingbert
+addr:country=DE
+addr:housenumber=152
+addr:postcode=66386
+addr:street=Ensheimer Straße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+compressed_air=yes
+name=Aral
+opening_hours=Mo-Sa 06:00-22:00; Su 07:00-22:00
+operator=Aral
+wheelchair=yes
+id=way/958598418</desc><trkseg><trkpt lat="49.263292" lon="7.1025504"/><trkpt lat="49.2630519" lon="7.1026357"/><trkpt lat="49.2629485" lon="7.1026724"/><trkpt lat="49.2629912" lon="7.1029106"/><trkpt lat="49.2630455" lon="7.1029884"/><trkpt lat="49.2631038" lon="7.1029784"/><trkpt lat="49.2632762" lon="7.1029172"/><trkpt lat="49.2635437" lon="7.1028222"/><trkpt lat="49.2634919" lon="7.1024795"/><trkpt lat="49.263292" lon="7.1025504"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+contact:website=https://tankstelle.aral.de/tankstelle/12146300
+fuel:diesel=yes
+fuel:octane_91=no
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Aral
+ref=12146300
+id=way/963436200</desc><trkseg><trkpt lat="49.2080259" lon="7.0221701"/><trkpt lat="49.2077884" lon="7.0219717"/><trkpt lat="49.2073514" lon="7.0216266"/><trkpt lat="49.2072" lon="7.0215071"/><trkpt lat="49.2071287" lon="7.0214581"/><trkpt lat="49.2072786" lon="7.0217456"/><trkpt lat="49.2073084" lon="7.0218569"/><trkpt lat="49.2073469" lon="7.0220634"/><trkpt lat="49.2075213" lon="7.0222016"/><trkpt lat="49.2079081" lon="7.0224472"/><trkpt lat="49.2079332" lon="7.0224706"/><trkpt lat="49.2079696" lon="7.0223792"/><trkpt lat="49.2079751" lon="7.0223477"/><trkpt lat="49.2079725" lon="7.022278"/><trkpt lat="49.2080259" lon="7.0221701"/></trkseg></trk><trk><name>way/966485444</name><desc>access=private
+amenity=fuel
+building=roof
+building:levels=1
+name:signed=no
+roof:shape=flat
+id=way/966485444</desc><trkseg><trkpt lat="49.2373863" lon="7.0079488"/><trkpt lat="49.2373586" lon="7.0079659"/><trkpt lat="49.2373377" lon="7.0079789"/><trkpt lat="49.237423" lon="7.0081021"/><trkpt lat="49.2374361" lon="7.0080938"/><trkpt lat="49.2373939" lon="7.0079438"/><trkpt lat="49.2373863" lon="7.0079488"/></trkseg></trk><trk><name>TotalEnergies Sulzbachtalstraße</name><desc>addr:city=Saarbrücken
+addr:housenumber=19
+addr:postcode=66125
+addr:street=Sulzbachtalstraße
+amenity=fuel
+brand=TotalEnergies
+brand:wikidata=Q154037
+compressed_air=yes
+name=TotalEnergies Sulzbachtalstraße
+opening_hours=PH,Mo-Su 06:00-22:00
+operator=Herr Gehrhardt
+phone=+49 681 3908027
+ref:TotalEnergies=ND124210
+self_service=yes
+shop=convenience
+surveillance=yes
+surveillance:type=camera
+toilets=yes
+id=way/975298558</desc><trkseg><trkpt lat="49.2669346" lon="7.0110731"/><trkpt lat="49.2671868" lon="7.0111902"/><trkpt lat="49.2672932" lon="7.0112468"/><trkpt lat="49.2674541" lon="7.0113469"/><trkpt lat="49.2675248" lon="7.0113896"/><trkpt lat="49.2675017" lon="7.011279"/><trkpt lat="49.267542" lon="7.0110288"/><trkpt lat="49.2672961" lon="7.0107727"/><trkpt lat="49.2672699" lon="7.0107062"/><trkpt lat="49.2669925" lon="7.0105462"/><trkpt lat="49.2669135" lon="7.0108633"/><trkpt lat="49.2669346" lon="7.0110731"/></trkseg></trk><trk><name>TotalEnergies Dudweiler Straße</name><desc>amenity=fuel
+brand=TotalEnergies
+brand:wikidata=Q154037
+compressed_air=yes
+fuel:lpg=yes
+name=TotalEnergies Dudweiler Straße
+operator=Herr Hettrich
+ref:TotalEnergies=ND002188
+wheelchair=yes
+id=way/975298730</desc><trkseg><trkpt lat="49.2413817" lon="7.0015498"/><trkpt lat="49.2413605" lon="7.0015419"/><trkpt lat="49.2412992" lon="7.0015179"/><trkpt lat="49.2411442" lon="7.0014573"/><trkpt lat="49.2410329" lon="7.0014138"/><trkpt lat="49.2409756" lon="7.0014448"/><trkpt lat="49.240975" lon="7.0016255"/><trkpt lat="49.2409737" lon="7.0017049"/><trkpt lat="49.2409729" lon="7.001757"/><trkpt lat="49.2409721" lon="7.0018388"/><trkpt lat="49.2409747" lon="7.0019404"/><trkpt lat="49.2409743" lon="7.0019709"/><trkpt lat="49.2409736" lon="7.0020332"/><trkpt lat="49.2411087" lon="7.0020373"/><trkpt lat="49.2411394" lon="7.0020382"/><trkpt lat="49.2411445" lon="7.0020761"/><trkpt lat="49.2411345" lon="7.0021524"/><trkpt lat="49.2411289" lon="7.0021956"/><trkpt lat="49.2411038" lon="7.0023779"/><trkpt lat="49.2411541" lon="7.002397"/><trkpt lat="49.241286" lon="7.0024425"/><trkpt lat="49.2413305" lon="7.0021204"/><trkpt lat="49.2414011" lon="7.0015891"/><trkpt lat="49.2413817" lon="7.0015498"/></trkseg></trk><trk><name>TotalEnergies Willerbach</name><desc>amenity=fuel
+brand=TotalEnergies
+brand:wikidata=Q154037
+compressed_air=yes
+fuel:GTL_diesel=yes
+fuel:LH2=yes
+fuel:diesel=yes
+fuel:e10=yes
+fuel:h70=yes
+fuel:octane_95=yes
+name=TotalEnergies Willerbach
+opening_hours=Mo-Fr 05:00-23:00; Sa 07:00-23:00; PH,Su 08:00-23:00
+payment:dkv=yes
+payment:uta=yes
+ref:TotalEnergies=ND000974
+self_service=yes
+surveillance=yes
+surveillance:type=camera
+wheelchair=yes
+id=way/975366194</desc><trkseg><trkpt lat="49.2365491" lon="6.9419316"/><trkpt lat="49.2364534" lon="6.9425369"/><trkpt lat="49.236461" lon="6.9426067"/><trkpt lat="49.236487" lon="6.9426932"/><trkpt lat="49.2365146" lon="6.9427517"/><trkpt lat="49.2365428" lon="6.9427694"/><trkpt lat="49.2366461" lon="6.9428111"/><trkpt lat="49.2366752" lon="6.9426534"/><trkpt lat="49.2367112" lon="6.9426682"/><trkpt lat="49.2367686" lon="6.9423399"/><trkpt lat="49.2368201" lon="6.9420467"/><trkpt lat="49.236808" lon="6.9420418"/><trkpt lat="49.2367824" lon="6.9420307"/><trkpt lat="49.2365491" lon="6.9419316"/></trkseg></trk><trk><name>Avia</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=205
+addr:postcode=66540
+addr:street=Kuchenbergstraße
+addr:suburb=Wiebelskirchen
+amenity=fuel
+brand=Avia
+brand:wikidata=Q300147
+compressed_air=yes
+fuel:cng=no
+fuel:lpg=yes
+name=Avia
+opening_hours=Mo-Su 06:00-22:00
+source=http://www.gas-tankstellen.de
+wheelchair=limited
+id=way/979446767</desc><trkseg><trkpt lat="49.3565913" lon="7.1795507"/><trkpt lat="49.3565415" lon="7.1794099"/><trkpt lat="49.3564777" lon="7.1793079"/><trkpt lat="49.3562212" lon="7.1792107"/><trkpt lat="49.3560153" lon="7.1790935"/><trkpt lat="49.3559976" lon="7.179549"/><trkpt lat="49.3562532" lon="7.1795963"/><trkpt lat="49.3563615" lon="7.1795882"/><trkpt lat="49.3565913" lon="7.1795507"/></trkseg></trk><trk><name>Shell</name><desc>amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+brand:wikipedia=en:Royal Dutch Shell
+landuse=commercial
+name=Shell
+operator=Shell
+wheelchair=yes
+id=way/1073218267</desc><trkseg><trkpt lat="49.3320103" lon="7.191481"/><trkpt lat="49.3320641" lon="7.1911272"/><trkpt lat="49.3319529" lon="7.190346"/><trkpt lat="49.3317541" lon="7.1901709"/><trkpt lat="49.3317422" lon="7.1902081"/><trkpt lat="49.3315496" lon="7.1907999"/><trkpt lat="49.3315452" lon="7.1908294"/><trkpt lat="49.3315487" lon="7.190879"/><trkpt lat="49.331561" lon="7.1909239"/><trkpt lat="49.3315863" lon="7.1909635"/><trkpt lat="49.3317077" lon="7.1910688"/><trkpt lat="49.3320103" lon="7.191481"/></trkseg></trk><trk><name>Shell</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housenumber=7
+addr:postcode=66333
+addr:street=Karolingerstraße
+amenity=fuel
+brand=Shell
+brand:wikidata=Q110716465
+brand:wikipedia=en:Royal Dutch Shell
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_100=yes
+fuel:octane_95=yes
+fuel:octane_98=no
+name=Shell
+operator=Royal Dutch Shell
+wheelchair=yes
+id=way/1103994331</desc><trkseg><trkpt lat="49.2472418" lon="6.8599084"/><trkpt lat="49.247156" lon="6.8599032"/><trkpt lat="49.2470219" lon="6.8599517"/><trkpt lat="49.246879" lon="6.8600234"/><trkpt lat="49.2467607" lon="6.8601081"/><trkpt lat="49.2468208" lon="6.8602632"/><trkpt lat="49.2469277" lon="6.8604073"/><trkpt lat="49.2470257" lon="6.8604537"/><trkpt lat="49.2473304" lon="6.860299"/><trkpt lat="49.2473163" lon="6.8602057"/><trkpt lat="49.2472975" lon="6.860091"/><trkpt lat="49.2472778" lon="6.8599572"/><trkpt lat="49.2472409" lon="6.8599541"/><trkpt lat="49.2472418" lon="6.8599084"/></trkseg></trk><trk><name>GLOBUS Tankstelle Saarlouis</name><desc>amenity=fuel
+brand=Globus
+compressed_air=no
+contact:website=https://www.globus.de/saarlouis/unsere-tankstelle.php
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=GLOBUS Tankstelle Saarlouis
+opening_hours=24/7
+operator=Globus
+payment:american_express=yes
+payment:cash=no
+payment:contactless=yes
+payment:dkv=yes
+payment:girocard=yes
+payment:logpay=yes
+payment:maestro=yes
+payment:mastercard=yes
+payment:novofleet=yes
+payment:ticket_plus=yes
+payment:v_pay=yes
+payment:visa=yes
+self_service=yes
+shop=no
+id=way/1104531415</desc><trkseg><trkpt lat="49.3245241" lon="6.7484671"/><trkpt lat="49.3242652" lon="6.7483147"/><trkpt lat="49.3242479" lon="6.748384"/><trkpt lat="49.3242233" lon="6.7483695"/><trkpt lat="49.3241218" lon="6.7488067"/><trkpt lat="49.3243673" lon="6.7489576"/><trkpt lat="49.3244208" lon="6.7489904"/><trkpt lat="49.3244441" lon="6.7489598"/><trkpt lat="49.324518" lon="6.748863"/><trkpt lat="49.3245816" lon="6.7486709"/><trkpt lat="49.324587" lon="6.7486484"/><trkpt lat="49.324565" lon="6.7485706"/><trkpt lat="49.3245068" lon="6.7485364"/><trkpt lat="49.3245241" lon="6.7484671"/></trkseg></trk><trk><name>GLOBUS Tankstelle Neunkirchen</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66538
+addr:street=Margarethe-Bacher-Straße
+amenity=fuel
+compressed_air=no
+contact:website=https://www.globus.de/neunkirchen/unsere-tankstelle.php
+fuel:diesel=yes
+fuel:e10=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=GLOBUS Tankstelle Neunkirchen
+opening_hours=24/7
+ref=43b70689-8e74-d079-3137-4b8e45753c85
+shop=no
+id=way/1110354087</desc><trkseg><trkpt lat="49.3460595" lon="7.1672674"/><trkpt lat="49.3457732" lon="7.1673978"/><trkpt lat="49.3458756" lon="7.1679274"/><trkpt lat="49.3461619" lon="7.167797"/><trkpt lat="49.3460595" lon="7.1672674"/></trkseg></trk><trk><name>way/1115388072</name><desc>amenity=fuel
+brand=Total
+brand:wikidata=Q154037
+fuel:diesel=yes
+fuel:octane_91=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+wheelchair=yes
+id=way/1115388072</desc><trkseg><trkpt lat="49.3420379" lon="7.0206298"/><trkpt lat="49.3419129" lon="7.0202637"/><trkpt lat="49.34185" lon="7.0202301"/><trkpt lat="49.3416587" lon="7.0203441"/><trkpt lat="49.3415398" lon="7.0205064"/><trkpt lat="49.3415416" lon="7.0205627"/><trkpt lat="49.3417216" lon="7.0210831"/><trkpt lat="49.3418579" lon="7.0209074"/><trkpt lat="49.3418719" lon="7.0207652"/><trkpt lat="49.3420379" lon="7.0206298"/></trkseg></trk><trk><name>Aral Tankstelle Jürgen Theis</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+name=Aral Tankstelle Jürgen Theis
+opening_hours=Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00
+operator=Patricia Theis
+phone=+49 6803 8433
+wheelchair=yes
+id=way/1176962958</desc><trkseg><trkpt lat="49.2127795" lon="7.1818192"/><trkpt lat="49.2129203" lon="7.1820056"/><trkpt lat="49.2128809" lon="7.1820754"/><trkpt lat="49.2127848" lon="7.1822516"/><trkpt lat="49.2129095" lon="7.1824084"/><trkpt lat="49.2132651" lon="7.1822058"/><trkpt lat="49.2132858" lon="7.1821695"/><trkpt lat="49.2132009" lon="7.1820544"/><trkpt lat="49.2130818" lon="7.1818997"/><trkpt lat="49.2128787" lon="7.1816514"/><trkpt lat="49.2128171" lon="7.1817529"/><trkpt lat="49.2127795" lon="7.1818192"/></trkseg></trk><trk><name>Aral Tankstelle Stefan Kröner</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=95
+addr:postcode=66121
+addr:street=Mainzer Straße
+amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+compressed_air=yes
+contact:email=stefan.kroener@tankstelle.de
+contact:fax=+49 681 638529
+contact:phone=+49 681 61887
+contact:website=https://tankstelle.aral.de/saarbruecken/mainzer-strasse-97/28805300
+fuel:diesel=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=Aral Tankstelle Stefan Kröner
+opening_hours=24/7
+operator=ARAL
+tenant=Stefan Kroener
+wheelchair=limited
+id=way/1177108723</desc><trkseg><trkpt lat="49.2295532" lon="7.0077922"/><trkpt lat="49.2294258" lon="7.0078412"/><trkpt lat="49.2293621" lon="7.0078657"/><trkpt lat="49.2291845" lon="7.008256"/><trkpt lat="49.2293218" lon="7.0083696"/><trkpt lat="49.2293943" lon="7.0084296"/><trkpt lat="49.229432" lon="7.0084608"/><trkpt lat="49.2294625" lon="7.008486"/><trkpt lat="49.2294635" lon="7.008478"/><trkpt lat="49.2294685" lon="7.0084379"/><trkpt lat="49.2294998" lon="7.0081967"/><trkpt lat="49.2295053" lon="7.0081527"/><trkpt lat="49.2295108" lon="7.0081087"/><trkpt lat="49.2295363" lon="7.0079191"/><trkpt lat="49.2295532" lon="7.0077922"/></trkseg></trk><trk><name>HEM</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=36-40
+addr:postcode=66117
+addr:street=Gersweilerstraße
+addr:suburb=Alt-Saarbrücken
+amenity=fuel
+brand=HEM
+brand:wikidata=Q1563517
+brand:wikipedia=de:Deutsche Tamoil
+compressed_air=yes
+contact:phone=+49 681 5895062
+contact:website=https://www.hem-tankstelle.de/partner/HEM/Saarbruecken/Gersweilerstr-36-40
+fuel:diesel=yes
+fuel:octane_91=yes
+fuel:octane_95=yes
+fuel:octane_98=yes
+name=HEM
+opening_hours=Mo-Su,PH 00:00-24:00
+toilets=yes
+id=way/1178159224</desc><trkseg><trkpt lat="49.2326516" lon="6.9714957"/><trkpt lat="49.2326037" lon="6.9720811"/><trkpt lat="49.2326023" lon="6.9721878"/><trkpt lat="49.232612" lon="6.9722669"/><trkpt lat="49.232654" lon="6.9723406"/><trkpt lat="49.2327125" lon="6.9723778"/><trkpt lat="49.2328552" lon="6.9723718"/><trkpt lat="49.2328552" lon="6.9723184"/><trkpt lat="49.2328552" lon="6.9722438"/><trkpt lat="49.2328551" lon="6.9721471"/><trkpt lat="49.2328551" lon="6.972137"/><trkpt lat="49.2328551" lon="6.9719859"/><trkpt lat="49.2328549" lon="6.9714731"/><trkpt lat="49.2328049" lon="6.9714636"/><trkpt lat="49.2327694" lon="6.9714565"/><trkpt lat="49.2327278" lon="6.9714482"/><trkpt lat="49.2327236" lon="6.9714474"/><trkpt lat="49.2326571" lon="6.9714336"/><trkpt lat="49.2326516" lon="6.9714957"/></trkseg></trk><trk><name>Jet</name><desc>amenity=fuel
+brand=JET
+brand:wikidata=Q568940
+brand:wikipedia=en:Jet (brand)
+fuel:lpg=yes
+name=Jet
+wheelchair=yes
+id=way/1182788741</desc><trkseg><trkpt lat="49.2917643" lon="6.7586531"/><trkpt lat="49.2914499" lon="6.758867"/><trkpt lat="49.2916449" lon="6.75938"/><trkpt lat="49.2919161" lon="6.7591821"/><trkpt lat="49.2917643" lon="6.7586531"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+compressed_air=yes
+name=Aral
+wheelchair=yes
+wheelchair:description=Gänge sehr eng, Kasse zu hoch
+id=way/1240618059</desc><trkseg><trkpt lat="49.2437498" lon="6.8399945"/><trkpt lat="49.243644" lon="6.8397175"/><trkpt lat="49.2433095" lon="6.8403294"/><trkpt lat="49.2432562" lon="6.8404269"/><trkpt lat="49.2432728" lon="6.8405034"/><trkpt lat="49.2433043" lon="6.8405128"/><trkpt lat="49.2433299" lon="6.8404995"/><trkpt lat="49.2433585" lon="6.8404847"/><trkpt lat="49.2433744" lon="6.8404765"/><trkpt lat="49.2434094" lon="6.840446"/><trkpt lat="49.2434768" lon="6.840387"/><trkpt lat="49.2436576" lon="6.840229"/><trkpt lat="49.2437716" lon="6.8401355"/><trkpt lat="49.2437921" lon="6.8401188"/><trkpt lat="49.2437591" lon="6.8400219"/><trkpt lat="49.2437498" lon="6.8399945"/></trkseg></trk><trk><name>Aral</name><desc>amenity=fuel
+brand=Aral
+brand:wikidata=Q565734
+brand:wikipedia=en:Aral AG
+fuel:diesel=yes
+fuel:octane_95=yes
+name=Aral
+id=way/1240878636</desc><trkseg><trkpt lat="49.29605" lon="6.9347884"/><trkpt lat="49.2956862" lon="6.934551"/><trkpt lat="49.2955585" lon="6.9345376"/><trkpt lat="49.2957824" lon="6.9348876"/><trkpt lat="49.2958804" lon="6.9350713"/><trkpt lat="49.2959862" lon="6.9351062"/><trkpt lat="49.29605" lon="6.9347884"/></trkseg></trk></gpx>

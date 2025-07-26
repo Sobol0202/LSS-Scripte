@@ -1,0 +1,245 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.3068053" lon="7.3452808"><name>Universitätsklinikum des Saarlandes Innere Medizin</name><desc>amenity=hospital
+healthcare=hospital
+name=Universitätsklinikum des Saarlandes Innere Medizin
+id=node/7623200217</desc></wpt><wpt lat="49.3048428" lon="7.3504722"><name>Liegendeinfahrt Neurochirurgie</name><desc>amenity=hospital
+healthcare=hospital
+name=Liegendeinfahrt Neurochirurgie
+id=node/10588643819</desc></wpt><trk><name>Universitätsklinikum des Saarlandes</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=100
+addr:postcode=66424
+addr:street=Kirrberger Straße
+amenity=hospital
+contact:email=info@uniklinikum-saarland.de
+contact:phone=+49 6841 160
+contact:website=http://www.uniklinikum-saarland.de/
+emergency=yes
+health_facility:type=hospital
+healthcare=hospital
+medical_system:western=yes
+name=Universitätsklinikum des Saarlandes
+short_name=UKS
+type=multipolygon
+wikidata=Q47507885
+id=relation/5764790</desc><trkseg><trkpt lat="49.3118148" lon="7.3433467"/><trkpt lat="49.3122315" lon="7.3431857"/><trkpt lat="49.3122588" lon="7.3430292"/><trkpt lat="49.3122684" lon="7.3429442"/><trkpt lat="49.3122712" lon="7.3428591"/><trkpt lat="49.3122667" lon="7.3427688"/><trkpt lat="49.3122215" lon="7.3425138"/><trkpt lat="49.3121426" lon="7.3419841"/><trkpt lat="49.3121309" lon="7.3419879"/><trkpt lat="49.3118062" lon="7.3421091"/><trkpt lat="49.3115043" lon="7.3422332"/><trkpt lat="49.3116234" lon="7.3428529"/><trkpt lat="49.3117178" lon="7.3428127"/><trkpt lat="49.3117887" lon="7.3432033"/><trkpt lat="49.3118148" lon="7.3433467"/></trkseg><trkseg><trkpt lat="49.3076424" lon="7.3395206"/><trkpt lat="49.3076239" lon="7.3392617"/><trkpt lat="49.3075401" lon="7.3392581"/><trkpt lat="49.3075104" lon="7.3391475"/><trkpt lat="49.3074457" lon="7.3390938"/><trkpt lat="49.307414" lon="7.3390759"/><trkpt lat="49.3072865" lon="7.3390308"/><trkpt lat="49.3071291" lon="7.3389812"/><trkpt lat="49.306956" lon="7.3388739"/><trkpt lat="49.3066098" lon="7.3394606"/><trkpt lat="49.307003" lon="7.3400111"/><trkpt lat="49.3071562" lon="7.3401976"/><trkpt lat="49.3073346" lon="7.3406938"/><trkpt lat="49.3072717" lon="7.3407045"/><trkpt lat="49.3071597" lon="7.3406428"/><trkpt lat="49.3069534" lon="7.3403129"/><trkpt lat="49.3069114" lon="7.3402888"/><trkpt lat="49.3067558" lon="7.3404309"/><trkpt lat="49.3066071" lon="7.3406401"/><trkpt lat="49.3066386" lon="7.3407689"/><trkpt lat="49.3067225" lon="7.3409325"/><trkpt lat="49.3068257" lon="7.3412034"/><trkpt lat="49.3068047" lon="7.3412651"/><trkpt lat="49.3067593" lon="7.3412597"/><trkpt lat="49.3065284" lon="7.3408627"/><trkpt lat="49.3063314" lon="7.3406607"/><trkpt lat="49.3061067" lon="7.3404392"/><trkpt lat="49.3059198" lon="7.3402284"/><trkpt lat="49.3054983" lon="7.3395337"/><trkpt lat="49.3054013" lon="7.3394117"/><trkpt lat="49.3053366" lon="7.3393594"/><trkpt lat="49.3052413" lon="7.3393178"/><trkpt lat="49.3050506" lon="7.3392977"/><trkpt lat="49.3048364" lon="7.3393138"/><trkpt lat="49.3046055" lon="7.3393594"/><trkpt lat="49.3044473" lon="7.3393996"/><trkpt lat="49.3044043" lon="7.3393688"/><trkpt lat="49.3043705" lon="7.3393439"/><trkpt lat="49.3041638" lon="7.3391884"/><trkpt lat="49.3039611" lon="7.3390225"/><trkpt lat="49.3039191" lon="7.3389289"/><trkpt lat="49.3038491" lon="7.3388565"/><trkpt lat="49.3036358" lon="7.338658"/><trkpt lat="49.30354" lon="7.338601"/><trkpt lat="49.3034709" lon="7.3385909"/><trkpt lat="49.3033725" lon="7.3385809"/><trkpt lat="49.303317" lon="7.3385815"/><trkpt lat="49.3032619" lon="7.3385674"/><trkpt lat="49.3032151" lon="7.3385527"/><trkpt lat="49.3031382" lon="7.3385111"/><trkpt lat="49.3030818" lon="7.3384662"/><trkpt lat="49.3030228" lon="7.3384146"/><trkpt lat="49.302972" lon="7.3383589"/><trkpt lat="49.3029204" lon="7.3382865"/><trkpt lat="49.3028741" lon="7.3382007"/><trkpt lat="49.3027516" lon="7.3382045"/><trkpt lat="49.3026039" lon="7.3391354"/><trkpt lat="49.302561" lon="7.339067"/><trkpt lat="49.3023228" lon="7.3386967"/><trkpt lat="49.3016644" lon="7.3392069"/><trkpt lat="49.3020897" lon="7.3404012"/><trkpt lat="49.3021806" lon="7.3403904"/><trkpt lat="49.3022471" lon="7.3404012"/><trkpt lat="49.3023136" lon="7.340428"/><trkpt lat="49.3024022" lon="7.3405659"/><trkpt lat="49.3024753" lon="7.3409016"/><trkpt lat="49.3025374" lon="7.3409687"/><trkpt lat="49.3027534" lon="7.3409647"/><trkpt lat="49.3028155" lon="7.3410317"/><trkpt lat="49.3028846" lon="7.34108"/><trkpt lat="49.3029974" lon="7.3411511"/><trkpt lat="49.3033525" lon="7.3412725"/><trkpt lat="49.3035772" lon="7.3413617"/><trkpt lat="49.3036535" lon="7.3414219"/><trkpt lat="49.3035801" lon="7.3416912"/><trkpt lat="49.3035936" lon="7.3424343"/><trkpt lat="49.3035944" lon="7.3426264"/><trkpt lat="49.3035764" lon="7.3427534"/><trkpt lat="49.303523" lon="7.3429217"/><trkpt lat="49.3034469" lon="7.3430148"/><trkpt lat="49.3031655" lon="7.3431722"/><trkpt lat="49.3030761" lon="7.3432933"/><trkpt lat="49.3029793" lon="7.3434463"/><trkpt lat="49.3028487" lon="7.3436321"/><trkpt lat="49.3026625" lon="7.3436992"/><trkpt lat="49.3025573" lon="7.3437903"/><trkpt lat="49.3022684" lon="7.3441093"/><trkpt lat="49.3019025" lon="7.3445519"/><trkpt lat="49.3018651" lon="7.3444769"/><trkpt lat="49.3018171" lon="7.3443606"/><trkpt lat="49.3016078" lon="7.3438722"/><trkpt lat="49.3015909" lon="7.3438847"/><trkpt lat="49.3014181" lon="7.344092"/><trkpt lat="49.3014217" lon="7.3445618"/><trkpt lat="49.3014424" lon="7.3448549"/><trkpt lat="49.3014479" lon="7.3452973"/><trkpt lat="49.3014761" lon="7.3461351"/><trkpt lat="49.3014845" lon="7.3463438"/><trkpt lat="49.3015221" lon="7.3474663"/><trkpt lat="49.3015309" lon="7.3475321"/><trkpt lat="49.3015492" lon="7.3475991"/><trkpt lat="49.3015947" lon="7.3476407"/><trkpt lat="49.3023153" lon="7.3478915"/><trkpt lat="49.3028434" lon="7.3480805"/><trkpt lat="49.3028444" lon="7.348119"/><trkpt lat="49.3028476" lon="7.3481485"/><trkpt lat="49.3029932" lon="7.3492766"/><trkpt lat="49.3032543" lon="7.3498149"/><trkpt lat="49.3036419" lon="7.3495094"/><trkpt lat="49.3041815" lon="7.3511615"/><trkpt lat="49.3045323" lon="7.3521579"/><trkpt lat="49.3051158" lon="7.3522415"/><trkpt lat="49.3052736" lon="7.3523185"/><trkpt lat="49.3053959" lon="7.3523941"/><trkpt lat="49.3056949" lon="7.3525134"/><trkpt lat="49.3059109" lon="7.3525147"/><trkpt lat="49.3060718" lon="7.3524987"/><trkpt lat="49.3064251" lon="7.3523458"/><trkpt lat="49.3066806" lon="7.3521776"/><trkpt lat="49.3069568" lon="7.3519528"/><trkpt lat="49.307191" lon="7.3517798"/><trkpt lat="49.3074796" lon="7.3516524"/><trkpt lat="49.3076338" lon="7.3516089"/><trkpt lat="49.3086087" lon="7.349987"/><trkpt lat="49.309505" lon="7.348839"/><trkpt lat="49.3094398" lon="7.3486069"/><trkpt lat="49.3088685" lon="7.3478322"/><trkpt lat="49.3088839" lon="7.3473792"/><trkpt lat="49.3092599" lon="7.3471901"/><trkpt lat="49.3100396" lon="7.3476021"/><trkpt lat="49.3103552" lon="7.3467475"/><trkpt lat="49.310056" lon="7.3465016"/><trkpt lat="49.31007" lon="7.3462092"/><trkpt lat="49.3105681" lon="7.3461709"/><trkpt lat="49.3109739" lon="7.3450569"/><trkpt lat="49.310925" lon="7.3447787"/><trkpt lat="49.3109854" lon="7.3447433"/><trkpt lat="49.3107333" lon="7.3432472"/><trkpt lat="49.3106446" lon="7.3426777"/><trkpt lat="49.31052" lon="7.3421406"/><trkpt lat="49.3107351" lon="7.3420013"/><trkpt lat="49.310861" lon="7.3418377"/><trkpt lat="49.3108866" lon="7.3417284"/><trkpt lat="49.3108417" lon="7.3415963"/><trkpt lat="49.3108067" lon="7.3415574"/><trkpt lat="49.3107281" lon="7.3415118"/><trkpt lat="49.3106765" lon="7.3413818"/><trkpt lat="49.310464" lon="7.3404658"/><trkpt lat="49.3104282" lon="7.3402338"/><trkpt lat="49.3103853" lon="7.3401697"/><trkpt lat="49.3102603" lon="7.3402217"/><trkpt lat="49.3102603" lon="7.3402754"/><trkpt lat="49.3096176" lon="7.3405543"/><trkpt lat="49.309332" lon="7.3402526"/><trkpt lat="49.3089776" lon="7.3398704"/><trkpt lat="49.3089444" lon="7.3398529"/><trkpt lat="49.3088797" lon="7.3398556"/><trkpt lat="49.308731" lon="7.3399092"/><trkpt lat="49.3084397" lon="7.3401"/><trkpt lat="49.3082846" lon="7.3393021"/><trkpt lat="49.3077141" lon="7.339527"/><trkpt lat="49.3076424" lon="7.3395206"/></trkseg></trk><trk><name>SHG-Kliniken Völklingen</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housenumber=5-9
+addr:postcode=66333
+addr:street=Richardstraße
+amenity=hospital
+brand:wikidata=Q2209199
+contact:fax=+49 6898 12-2393
+contact:phone=+49 6898 12-0
+contact:website=http://vk.shg-kliniken.de
+emergency=yes
+healthcare=hospital
+healthcare:speciality=cardiology;pulmonology;urology;psychiatry;radiology
+name=SHG-Kliniken Völklingen
+operator=SHG Kliniken
+type=multipolygon
+wikidata=Q1747430
+wikipedia=de:SHG-Kliniken Völklingen
+id=relation/10788747</desc><trkseg><trkpt lat="49.258092" lon="6.8528708"/><trkpt lat="49.25828" lon="6.8520793"/><trkpt lat="49.2585502" lon="6.8511666"/><trkpt lat="49.2581699" lon="6.8508134"/><trkpt lat="49.2574201" lon="6.8496996"/><trkpt lat="49.2571316" lon="6.8502223"/><trkpt lat="49.2570161" lon="6.8504379"/><trkpt lat="49.2568586" lon="6.8502408"/><trkpt lat="49.2563421" lon="6.8512976"/><trkpt lat="49.2564524" lon="6.8514827"/><trkpt lat="49.2559606" lon="6.852381"/><trkpt lat="49.256202" lon="6.8529619"/><trkpt lat="49.2563845" lon="6.8533882"/><trkpt lat="49.2562095" lon="6.8535563"/><trkpt lat="49.2563472" lon="6.8538798"/><trkpt lat="49.2566968" lon="6.8547591"/><trkpt lat="49.2569157" lon="6.8553015"/><trkpt lat="49.2571047" lon="6.8551883"/><trkpt lat="49.2570872" lon="6.8551159"/><trkpt lat="49.2571028" lon="6.8550984"/><trkpt lat="49.257138" lon="6.8550649"/><trkpt lat="49.257173" lon="6.8551588"/><trkpt lat="49.2573445" lon="6.855022"/><trkpt lat="49.2574754" lon="6.8548931"/><trkpt lat="49.2574963" lon="6.8548639"/><trkpt lat="49.2575857" lon="6.8547388"/><trkpt lat="49.2576526" lon="6.8546223"/><trkpt lat="49.2577124" lon="6.8544901"/><trkpt lat="49.2577769" lon="6.854279"/><trkpt lat="49.2578557" lon="6.853992"/><trkpt lat="49.2578686" lon="6.8539306"/><trkpt lat="49.258092" lon="6.8528708"/></trkseg></trk><trk><name>Marienkliniken Sankt Josef Losheim</name><desc>amenity=hospital
+healthcare=hospital
+name=Marienkliniken Sankt Josef Losheim
+wheelchair=yes
+id=way/37590333</desc><trkseg><trkpt lat="49.5094565" lon="6.7386659"/><trkpt lat="49.508561" lon="6.7395571"/><trkpt lat="49.5085915" lon="6.7396939"/><trkpt lat="49.5077729" lon="6.7404999"/><trkpt lat="49.5079479" lon="6.7409411"/><trkpt lat="49.5082574" lon="6.7406575"/><trkpt lat="49.5087465" lon="6.7414132"/><trkpt lat="49.5092725" lon="6.7407869"/><trkpt lat="49.5093405" lon="6.7405368"/><trkpt lat="49.5092076" lon="6.7401401"/><trkpt lat="49.5094547" lon="6.7398046"/><trkpt lat="49.50968" lon="6.7394847"/><trkpt lat="49.5099708" lon="6.7390904"/><trkpt lat="49.5097679" lon="6.7387538"/><trkpt lat="49.5095737" lon="6.7389807"/><trkpt lat="49.5094565" lon="6.7386659"/></trkseg></trk><trk><name>CaritasKlinikum Saarbrücken St. Theresia</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66113
+addr:street=Rheinstraße
+alt_name=Caritas-Klinik St. Theresia
+amenity=hospital
+contact:fax=+49 681 406-2979
+contact:phone=+49 681 406-0
+contact:website=https://www.caritasklinik.de/
+emergency=yes
+healthcare=hospital
+name=CaritasKlinikum Saarbrücken St. Theresia
+old_name=Rastpfuhl-Krankenhaus
+operator=Caritas Trägergesellschaft Saarbrücken mbH (cts)
+operator:wikidata=Q1036345
+wheelchair=yes
+wikidata=Q1036327
+wikipedia=de:CaritasKlinikum Saarbrücken
+id=way/98869131</desc><trkseg><trkpt lat="49.2484426" lon="6.9576"/><trkpt lat="49.2482902" lon="6.9574274"/><trkpt lat="49.2480526" lon="6.9581953"/><trkpt lat="49.2476705" lon="6.9595513"/><trkpt lat="49.2476326" lon="6.9596888"/><trkpt lat="49.2475551" lon="6.9599699"/><trkpt lat="49.2475525" lon="6.9599795"/><trkpt lat="49.2475366" lon="6.9600373"/><trkpt lat="49.2475181" lon="6.9601045"/><trkpt lat="49.2474754" lon="6.9602593"/><trkpt lat="49.2476383" lon="6.9603572"/><trkpt lat="49.2480258" lon="6.9612448"/><trkpt lat="49.2485059" lon="6.9619968"/><trkpt lat="49.2493953" lon="6.9612537"/><trkpt lat="49.2490724" lon="6.9603072"/><trkpt lat="49.249192" lon="6.9599743"/><trkpt lat="49.248859" lon="6.9589939"/><trkpt lat="49.2487752" lon="6.9590573"/><trkpt lat="49.2487626" lon="6.9590218"/><trkpt lat="49.2487271" lon="6.9590498"/><trkpt lat="49.248487" lon="6.9583169"/><trkpt lat="49.2484323" lon="6.9583531"/><trkpt lat="49.2484122" lon="6.9582844"/><trkpt lat="49.248303" lon="6.9579313"/><trkpt lat="49.2485026" lon="6.957797"/><trkpt lat="49.2484426" lon="6.9576"/></trkseg></trk><trk><name>CaritasKlinikum Saarbrücken St. Josef Dudweiler</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=14
+addr:postcode=66125
+addr:street=Klosterstraße
+amenity=hospital
+check_date=2025-05-31
+contact:website=https://www.caritasklinikum.de/
+emergency=yes
+healthcare=hospital
+name=CaritasKlinikum Saarbrücken St. Josef Dudweiler
+operator=Caritas Trägergesellschaft Saarbrücken mbH (cts)
+operator:wikidata=Q1036345
+wheelchair=yes
+wikidata=Q1036327
+wikipedia=de:CaritasKlinikum Saarbrücken
+id=way/117634629</desc><trkseg><trkpt lat="49.2773142" lon="7.040423"/><trkpt lat="49.2771742" lon="7.0405089"/><trkpt lat="49.2769572" lon="7.0405572"/><trkpt lat="49.276824" lon="7.0405149"/><trkpt lat="49.2766632" lon="7.0413243"/><trkpt lat="49.2766492" lon="7.0416247"/><trkpt lat="49.2767367" lon="7.0416354"/><trkpt lat="49.2767192" lon="7.0420753"/><trkpt lat="49.2774472" lon="7.0421343"/><trkpt lat="49.2774118" lon="7.041646"/><trkpt lat="49.2773104" lon="7.0416516"/><trkpt lat="49.2773001" lon="7.0412064"/><trkpt lat="49.2774014" lon="7.0412008"/><trkpt lat="49.2773492" lon="7.0405142"/><trkpt lat="49.2773142" lon="7.040423"/></trkseg></trk><trk><name>Klinikum Winterberg</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66119
+addr:street=Winterberg
+amenity=hospital
+contact:email=info@klinikum-saarbruecken.de
+contact:phone=+49 681 9630
+contact:website=https://www.klinikum-saarbruecken.de/
+healthcare=hospital
+name=Klinikum Winterberg
+wheelchair=yes
+wikidata=Q1774651
+wikimedia_commons=Category:Klinikum Saarbrücken
+id=way/125454242</desc><trkseg><trkpt lat="49.2195793" lon="6.9919072"/><trkpt lat="49.2194497" lon="6.9921812"/><trkpt lat="49.2194696" lon="6.992379"/><trkpt lat="49.2196069" lon="6.9925458"/><trkpt lat="49.2196957" lon="6.9926853"/><trkpt lat="49.2198424" lon="6.9929501"/><trkpt lat="49.2199455" lon="6.9931741"/><trkpt lat="49.2200537" lon="6.9934681"/><trkpt lat="49.2201479" lon="6.9937451"/><trkpt lat="49.2202622" lon="6.9941078"/><trkpt lat="49.2203174" lon="6.994325"/><trkpt lat="49.2203857" lon="6.9946528"/><trkpt lat="49.2204212" lon="6.9948829"/><trkpt lat="49.2204347" lon="6.9950526"/><trkpt lat="49.2204372" lon="6.9953105"/><trkpt lat="49.2204204" lon="6.9956039"/><trkpt lat="49.2203366" lon="6.9967609"/><trkpt lat="49.2202514" lon="6.9973544"/><trkpt lat="49.2202526" lon="6.9979062"/><trkpt lat="49.2203442" lon="6.9981422"/><trkpt lat="49.2203588" lon="6.9982376"/><trkpt lat="49.2203395" lon="6.9987192"/><trkpt lat="49.220358" lon="6.9989055"/><trkpt lat="49.2204077" lon="6.999103"/><trkpt lat="49.2203853" lon="6.9991032"/><trkpt lat="49.2200932" lon="6.9991114"/><trkpt lat="49.2200637" lon="6.9992314"/><trkpt lat="49.2200733" lon="6.9994566"/><trkpt lat="49.2198187" lon="6.9996053"/><trkpt lat="49.2196994" lon="6.9999808"/><trkpt lat="49.2195982" lon="7.0004468"/><trkpt lat="49.2198062" lon="7.0004985"/><trkpt lat="49.2201956" lon="7.0006624"/><trkpt lat="49.2202946" lon="7.0007996"/><trkpt lat="49.2205993" lon="7.0011746"/><trkpt lat="49.2209119" lon="7.0011782"/><trkpt lat="49.2209154" lon="7.0008014"/><trkpt lat="49.2209173" lon="7.0006079"/><trkpt lat="49.2209204" lon="7.0000208"/><trkpt lat="49.220922" lon="6.9998338"/><trkpt lat="49.2209234" lon="6.9996618"/><trkpt lat="49.2211093" lon="6.9996672"/><trkpt lat="49.221219" lon="6.9996681"/><trkpt lat="49.2212216" lon="6.9995727"/><trkpt lat="49.2213055" lon="6.9995735"/><trkpt lat="49.2213131" lon="6.9993206"/><trkpt lat="49.2213189" lon="6.999166"/><trkpt lat="49.2214057" lon="6.9991187"/><trkpt lat="49.2213867" lon="6.9990504"/><trkpt lat="49.2214007" lon="6.9990342"/><trkpt lat="49.2214921" lon="6.9989279"/><trkpt lat="49.2215621" lon="6.9988351"/><trkpt lat="49.2216332" lon="6.9987037"/><trkpt lat="49.2216805" lon="6.9985836"/><trkpt lat="49.2217376" lon="6.9984291"/><trkpt lat="49.2217924" lon="6.998191"/><trkpt lat="49.2218523" lon="6.9982282"/><trkpt lat="49.2219289" lon="6.9982754"/><trkpt lat="49.2219773" lon="6.9980904"/><trkpt lat="49.2220085" lon="6.9979708"/><trkpt lat="49.2220332" lon="6.9978658"/><trkpt lat="49.2220693" lon="6.9976759"/><trkpt lat="49.2220968" lon="6.9974714"/><trkpt lat="49.2221118" lon="6.9972855"/><trkpt lat="49.2221138" lon="6.9970344"/><trkpt lat="49.2221039" lon="6.9968735"/><trkpt lat="49.2220845" lon="6.9967279"/><trkpt lat="49.2220602" lon="6.9965723"/><trkpt lat="49.2220067" lon="6.9963384"/><trkpt lat="49.2219308" lon="6.9960655"/><trkpt lat="49.2218314" lon="6.9957538"/><trkpt lat="49.2217367" lon="6.9954379"/><trkpt lat="49.221659" lon="6.9951274"/><trkpt lat="49.2216065" lon="6.9948414"/><trkpt lat="49.2215575" lon="6.9944807"/><trkpt lat="49.2215301" lon="6.9942506"/><trkpt lat="49.2215057" lon="6.9937538"/><trkpt lat="49.2215273" lon="6.9937199"/><trkpt lat="49.2215558" lon="6.9933466"/><trkpt lat="49.22142" lon="6.992023"/><trkpt lat="49.2211567" lon="6.9921351"/><trkpt lat="49.2210324" lon="6.9921878"/><trkpt lat="49.2209906" lon="6.9920117"/><trkpt lat="49.2209702" lon="6.9919336"/><trkpt lat="49.2209283" lon="6.9918286"/><trkpt lat="49.2208821" lon="6.9917259"/><trkpt lat="49.2208259" lon="6.991648"/><trkpt lat="49.2207984" lon="6.991608"/><trkpt lat="49.2207709" lon="6.9915689"/><trkpt lat="49.2207331" lon="6.9915247"/><trkpt lat="49.2206519" lon="6.9914503"/><trkpt lat="49.2205849" lon="6.9914053"/><trkpt lat="49.2204432" lon="6.9913496"/><trkpt lat="49.2203184" lon="6.9913331"/><trkpt lat="49.2201949" lon="6.991352"/><trkpt lat="49.2200972" lon="6.991381"/><trkpt lat="49.2199657" lon="6.9914583"/><trkpt lat="49.2198506" lon="6.9915593"/><trkpt lat="49.2197066" lon="6.9917056"/><trkpt lat="49.2195793" lon="6.9919072"/></trkseg></trk><trk><name>Kreiskrankenhaus St. Ingbert</name><desc>amenity=hospital
+area=yes
+name=Kreiskrankenhaus St. Ingbert
+wheelchair=yes
+id=way/128995725</desc><trkseg><trkpt lat="49.2915804" lon="7.1144424"/><trkpt lat="49.2906563" lon="7.1128903"/><trkpt lat="49.2895199" lon="7.1136892"/><trkpt lat="49.2896914" lon="7.1142364"/><trkpt lat="49.2902025" lon="7.1149697"/><trkpt lat="49.2908817" lon="7.115806"/><trkpt lat="49.2915804" lon="7.1144424"/></trkseg></trk><trk><name>St. Nikolaus Hospital</name><desc>amenity=hospital
+contact:email=info@sankt-nikolaus-hospital.de
+contact:fax=+49 6831 962-465
+contact:phone=+49 6831 962-0
+contact:website=http://www.sankt-nikolaus-hospital.de
+healthcare=hospital
+healthcare:speciality=geriatrics
+name=St. Nikolaus Hospital
+wheelchair=yes
+id=way/161630222</desc><trkseg><trkpt lat="49.3289538" lon="6.7122169"/><trkpt lat="49.3275784" lon="6.713189"/><trkpt lat="49.3279891" lon="6.7146012"/><trkpt lat="49.3280588" lon="6.7147534"/><trkpt lat="49.3281384" lon="6.7148834"/><trkpt lat="49.3282048" lon="6.7149733"/><trkpt lat="49.3282843" lon="6.7150444"/><trkpt lat="49.3284819" lon="6.7151584"/><trkpt lat="49.3287023" lon="6.7152854"/><trkpt lat="49.3287921" lon="6.7153461"/><trkpt lat="49.3288585" lon="6.7154055"/><trkpt lat="49.3288996" lon="6.7153609"/><trkpt lat="49.3287878" lon="6.7151414"/><trkpt lat="49.329127" lon="6.7148004"/><trkpt lat="49.3291435" lon="6.7148379"/><trkpt lat="49.3293719" lon="6.7146431"/><trkpt lat="49.3293812" lon="6.7145951"/><trkpt lat="49.3293768" lon="6.7145173"/><trkpt lat="49.3293655" lon="6.7143604"/><trkpt lat="49.3293362" lon="6.7142819"/><trkpt lat="49.3290859" lon="6.7136121"/><trkpt lat="49.3295241" lon="6.7131254"/><trkpt lat="49.3298022" lon="6.7137941"/><trkpt lat="49.3306081" lon="6.7129551"/><trkpt lat="49.3299882" lon="6.7105282"/><trkpt lat="49.3286146" lon="6.7112621"/><trkpt lat="49.3289538" lon="6.7122169"/></trkseg></trk><trk><name>Krankenhaus Saarlouis vom DRK</name><desc>amenity=hospital
+contact:email=info@drk-kliniken-saar.de
+contact:website=http://www.drk-kliniken-saar.de.drktg.de/saarlouis/index.php
+emergency=yes
+healthcare=hospital
+name=Krankenhaus Saarlouis vom DRK
+operator=DRK gemeinnützige Krankenhausgesellschaft mbH Saarland
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/161638288</desc><trkseg><trkpt lat="49.3143086" lon="6.7425607"/><trkpt lat="49.3132962" lon="6.7425687"/><trkpt lat="49.3132959" lon="6.7431083"/><trkpt lat="49.3130162" lon="6.7431325"/><trkpt lat="49.3129042" lon="6.7432854"/><trkpt lat="49.3127976" lon="6.7435026"/><trkpt lat="49.3128159" lon="6.7441128"/><trkpt lat="49.3127976" lon="6.7441477"/><trkpt lat="49.3127565" lon="6.7441624"/><trkpt lat="49.3126551" lon="6.7440471"/><trkpt lat="49.3125956" lon="6.7441195"/><trkpt lat="49.3123657" lon="6.7443274"/><trkpt lat="49.3123657" lon="6.7443904"/><trkpt lat="49.3125265" lon="6.744664"/><trkpt lat="49.3125764" lon="6.7446667"/><trkpt lat="49.312628" lon="6.7446654"/><trkpt lat="49.3126675" lon="6.7447662"/><trkpt lat="49.3127451" lon="6.7450127"/><trkpt lat="49.3129071" lon="6.7453881"/><trkpt lat="49.3138277" lon="6.7453582"/><trkpt lat="49.313838" lon="6.7450851"/><trkpt lat="49.3139336" lon="6.7449226"/><trkpt lat="49.3140408" lon="6.7449233"/><trkpt lat="49.3140412" lon="6.7446302"/><trkpt lat="49.3142289" lon="6.74463"/><trkpt lat="49.3142288" lon="6.7443803"/><trkpt lat="49.3143572" lon="6.7443802"/><trkpt lat="49.3143566" lon="6.7442273"/><trkpt lat="49.3142303" lon="6.7442275"/><trkpt lat="49.3142221" lon="6.7426586"/><trkpt lat="49.3143268" lon="6.742651"/><trkpt lat="49.3143086" lon="6.7425607"/></trkseg></trk><trk><name>Marienhaus Klinikum St. Elisabeth Saarlouis</name><desc>amenity=hospital
+contact:phone=+49 6831 16-0
+contact:website=http://www.marienhaus-klinikum-saar.de/
+emergency=yes
+healthcare=hospital
+name=Marienhaus Klinikum St. Elisabeth Saarlouis
+operator=Marienhaus
+operator:wikidata=Q20828783
+wheelchair=yes
+id=way/161641881</desc><trkseg><trkpt lat="49.3148158" lon="6.7572811"/><trkpt lat="49.3148644" lon="6.7576204"/><trkpt lat="49.3150235" lon="6.7584278"/><trkpt lat="49.3151241" lon="6.7588596"/><trkpt lat="49.3151608" lon="6.758936"/><trkpt lat="49.3157902" lon="6.7587657"/><trkpt lat="49.3157802" lon="6.7585844"/><trkpt lat="49.3157293" lon="6.7582013"/><trkpt lat="49.3156977" lon="6.7579374"/><trkpt lat="49.3156371" lon="6.7572752"/><trkpt lat="49.3156596" lon="6.7571666"/><trkpt lat="49.3156218" lon="6.7569005"/><trkpt lat="49.3155424" lon="6.7565768"/><trkpt lat="49.3155194" lon="6.7564961"/><trkpt lat="49.3155121" lon="6.7564699"/><trkpt lat="49.3153696" lon="6.75596"/><trkpt lat="49.3153613" lon="6.7559304"/><trkpt lat="49.3152402" lon="6.7554969"/><trkpt lat="49.3144891" lon="6.7559939"/><trkpt lat="49.3144584" lon="6.7560224"/><trkpt lat="49.3148158" lon="6.7572811"/></trkseg></trk><trk><name>Diakonie-Klinikum Neunkirchen</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=20
+addr:postcode=66538
+addr:street=Brunnenstraße
+amenity=hospital
+brand:wikidata=Q1293073
+emergency=yes
+healthcare=hospital
+name=Diakonie-Klinikum Neunkirchen
+operator=Diakonie Klinikum Neunkirchen gGmbH
+phone=+49 6821 18-0
+website=https://www.kreuznacherdiakonie.de/Krankenhaeuser/Diakonie-Klinikum-Neunkirchen/
+wheelchair=yes
+id=way/196017630</desc><trkseg><trkpt lat="49.3410068" lon="7.1819038"/><trkpt lat="49.3408478" lon="7.1817279"/><trkpt lat="49.3406797" lon="7.1820821"/><trkpt lat="49.3408065" lon="7.182305"/><trkpt lat="49.3408814" lon="7.1825325"/><trkpt lat="49.3403465" lon="7.1829407"/><trkpt lat="49.3402869" lon="7.1826216"/><trkpt lat="49.340108" lon="7.1827624"/><trkpt lat="49.3398237" lon="7.1830861"/><trkpt lat="49.3401142" lon="7.183947"/><trkpt lat="49.340215" lon="7.1842473"/><trkpt lat="49.340293" lon="7.1843575"/><trkpt lat="49.3403709" lon="7.1844091"/><trkpt lat="49.3404703" lon="7.1844115"/><trkpt lat="49.3406476" lon="7.1843482"/><trkpt lat="49.340912" lon="7.184198"/><trkpt lat="49.3410124" lon="7.1841809"/><trkpt lat="49.3410749" lon="7.1841889"/><trkpt lat="49.3411466" lon="7.1842171"/><trkpt lat="49.3412926" lon="7.1843012"/><trkpt lat="49.3416961" lon="7.184001"/><trkpt lat="49.3415921" lon="7.1836374"/><trkpt lat="49.342017" lon="7.1833254"/><trkpt lat="49.3418856" lon="7.182997"/><trkpt lat="49.3416151" lon="7.1825278"/><trkpt lat="49.3415412" lon="7.1824091"/><trkpt lat="49.3414928" lon="7.1823331"/><trkpt lat="49.3413552" lon="7.1821994"/><trkpt lat="49.3410068" lon="7.1819038"/></trkseg></trk><trk><name>Marienkrankenhaus Sankt Wendel</name><desc>amenity=hospital
+email=info.wnd@marienhaus.de
+emergency=yes
+fax=+49 6851 70136
+healthcare=hospital
+healthcare:speciality=geriatrics;psychiatry
+name=Marienkrankenhaus Sankt Wendel
+opening_hours=24/7
+operator=Marienhaus Kliniken GmbH
+phone=+49 6851 5901
+website=https://www.mkh-wnd.de
+id=way/197753991</desc><trkseg><trkpt lat="49.4537839" lon="7.1767254"/><trkpt lat="49.4533686" lon="7.1767345"/><trkpt lat="49.4530588" lon="7.1768255"/><trkpt lat="49.4519249" lon="7.1771739"/><trkpt lat="49.4518686" lon="7.1772131"/><trkpt lat="49.4517084" lon="7.1788734"/><trkpt lat="49.451818" lon="7.1790003"/><trkpt lat="49.452428" lon="7.1793035"/><trkpt lat="49.4526843" lon="7.1792879"/><trkpt lat="49.452936" lon="7.1794024"/><trkpt lat="49.4529856" lon="7.1794733"/><trkpt lat="49.4530178" lon="7.1796216"/><trkpt lat="49.452995" lon="7.1800562"/><trkpt lat="49.453003" lon="7.1802733"/><trkpt lat="49.4530969" lon="7.180312"/><trkpt lat="49.4532227" lon="7.1803046"/><trkpt lat="49.4533259" lon="7.1802094"/><trkpt lat="49.453592" lon="7.1801134"/><trkpt lat="49.4536473" lon="7.1801004"/><trkpt lat="49.4536813" lon="7.180146"/><trkpt lat="49.4537281" lon="7.1802692"/><trkpt lat="49.4541104" lon="7.1803841"/><trkpt lat="49.4541941" lon="7.1803424"/><trkpt lat="49.4543183" lon="7.1804765"/><trkpt lat="49.4544517" lon="7.1806173"/><trkpt lat="49.4546621" lon="7.1802639"/><trkpt lat="49.4547633" lon="7.1793306"/><trkpt lat="49.4547525" lon="7.1792566"/><trkpt lat="49.4546393" lon="7.1792136"/><trkpt lat="49.454527" lon="7.1792484"/><trkpt lat="49.454437" lon="7.1792236"/><trkpt lat="49.454391" lon="7.1791936"/><trkpt lat="49.4543931" lon="7.1791594"/><trkpt lat="49.4544511" lon="7.1791801"/><trkpt lat="49.454546" lon="7.179196"/><trkpt lat="49.4545859" lon="7.1791719"/><trkpt lat="49.4546221" lon="7.1791233"/><trkpt lat="49.4547158" lon="7.1787634"/><trkpt lat="49.4547553" lon="7.1784504"/><trkpt lat="49.454719" lon="7.1783352"/><trkpt lat="49.4547415" lon="7.1782693"/><trkpt lat="49.4549142" lon="7.1783507"/><trkpt lat="49.4550596" lon="7.1774524"/><trkpt lat="49.4551247" lon="7.1771285"/><trkpt lat="49.4550421" lon="7.177112"/><trkpt lat="49.4542895" lon="7.1768242"/><trkpt lat="49.4537839" lon="7.1767254"/></trkseg></trk><trk><name>Fliedner Krankenhaus Neunkirchen</name><desc>amenity=hospital
+emergency=yes
+healthcare=hospital
+name=Fliedner Krankenhaus Neunkirchen
+opening_hours=24/7
+phone=+49 6821 901-0
+website=https://www.kreuznacherdiakonie.de/krankenhaeuser/fliedner-krankenhaus-neunkirchen/
+id=way/219927502</desc><trkseg><trkpt lat="49.3477631" lon="7.1848193"/><trkpt lat="49.3474053" lon="7.1855172"/><trkpt lat="49.3477217" lon="7.1863231"/><trkpt lat="49.3480101" lon="7.1870576"/><trkpt lat="49.3488166" lon="7.1864714"/><trkpt lat="49.3488975" lon="7.1864409"/><trkpt lat="49.348925" lon="7.18638"/><trkpt lat="49.3477631" lon="7.1848193"/></trkseg></trk><trk><name>SHG Kliniken Sonnenberg</name><desc>addr:city=Saarbrücken
+addr:housenumber=10
+addr:postcode=66119
+addr:street=Sonnenbergstraße
+amenity=hospital
+contact:website=https://sb.shg-kliniken.de/
+emergency=no
+name=SHG Kliniken Sonnenberg
+name:fr=Clinique SHG du Sonnenberg
+operator:wikidata=Q2209199
+wheelchair=yes
+wikidata=Q83439062
+id=way/401351805</desc><trkseg><trkpt lat="49.2010269" lon="7.0090043"/><trkpt lat="49.2008409" lon="7.0090934"/><trkpt lat="49.2007691" lon="7.0093171"/><trkpt lat="49.2007078" lon="7.0097699"/><trkpt lat="49.200566" lon="7.0097716"/><trkpt lat="49.2005522" lon="7.0097048"/><trkpt lat="49.2005814" lon="7.0092857"/><trkpt lat="49.2004057" lon="7.0092866"/><trkpt lat="49.2003578" lon="7.0098396"/><trkpt lat="49.2001172" lon="7.0098953"/><trkpt lat="49.200152" lon="7.0101933"/><trkpt lat="49.200083" lon="7.0102847"/><trkpt lat="49.2001532" lon="7.0109703"/><trkpt lat="49.2001399" lon="7.0111741"/><trkpt lat="49.20017" lon="7.0113428"/><trkpt lat="49.2001799" lon="7.0114678"/><trkpt lat="49.2002755" lon="7.0122588"/><trkpt lat="49.2004409" lon="7.0124069"/><trkpt lat="49.200419" lon="7.0124953"/><trkpt lat="49.2002643" lon="7.0124455"/><trkpt lat="49.2002238" lon="7.012414"/><trkpt lat="49.2001607" lon="7.0123449"/><trkpt lat="49.2001222" lon="7.0122728"/><trkpt lat="49.2001089" lon="7.012288"/><trkpt lat="49.2000697" lon="7.0121945"/><trkpt lat="49.2000431" lon="7.0120878"/><trkpt lat="49.2000279" lon="7.0119892"/><trkpt lat="49.2000224" lon="7.0119147"/><trkpt lat="49.1999882" lon="7.0119169"/><trkpt lat="49.1999613" lon="7.011921"/><trkpt lat="49.1999584" lon="7.0119676"/><trkpt lat="49.1999741" lon="7.012104"/><trkpt lat="49.1999975" lon="7.0122185"/><trkpt lat="49.2000068" lon="7.0123475"/><trkpt lat="49.200003" lon="7.0124592"/><trkpt lat="49.2000082" lon="7.0125725"/><trkpt lat="49.2000301" lon="7.0127227"/><trkpt lat="49.1999941" lon="7.0128602"/><trkpt lat="49.2002367" lon="7.013552"/><trkpt lat="49.2003391" lon="7.0136144"/><trkpt lat="49.2005668" lon="7.0134447"/><trkpt lat="49.2005145" lon="7.0132689"/><trkpt lat="49.2005791" lon="7.0133417"/><trkpt lat="49.2006464" lon="7.0133545"/><trkpt lat="49.2007285" lon="7.0133093"/><trkpt lat="49.2007769" lon="7.0132562"/><trkpt lat="49.2008524" lon="7.0132448"/><trkpt lat="49.200944" lon="7.0132843"/><trkpt lat="49.2009931" lon="7.0132523"/><trkpt lat="49.2014334" lon="7.0129361"/><trkpt lat="49.2015202" lon="7.0122193"/><trkpt lat="49.2016179" lon="7.0117903"/><trkpt lat="49.2018307" lon="7.0110521"/><trkpt lat="49.2019966" lon="7.0106288"/><trkpt lat="49.2019067" lon="7.0105112"/><trkpt lat="49.2020807" lon="7.010126"/><trkpt lat="49.2018679" lon="7.0092645"/><trkpt lat="49.2015824" lon="7.0085583"/><trkpt lat="49.2013811" lon="7.0085856"/><trkpt lat="49.2012891" lon="7.0084425"/><trkpt lat="49.2011818" lon="7.0085698"/><trkpt lat="49.2010269" lon="7.0090043"/></trkseg></trk><trk><name>SHG Fachklinik Tiefental</name><desc>amenity=hospital
+healthcare=hospital
+name=SHG Fachklinik Tiefental
+operator:wikidata=Q2209199
+id=way/401637822</desc><trkseg><trkpt lat="49.1988743" lon="7.0150206"/><trkpt lat="49.1980317" lon="7.0153332"/><trkpt lat="49.1979671" lon="7.0153864"/><trkpt lat="49.1979361" lon="7.0154833"/><trkpt lat="49.1979331" lon="7.0156402"/><trkpt lat="49.197974" lon="7.0161804"/><trkpt lat="49.1980063" lon="7.0163847"/><trkpt lat="49.1980537" lon="7.016607"/><trkpt lat="49.1981387" lon="7.0169455"/><trkpt lat="49.1981981" lon="7.0170392"/><trkpt lat="49.19829" lon="7.0174364"/><trkpt lat="49.1983825" lon="7.0173925"/><trkpt lat="49.1984456" lon="7.0173643"/><trkpt lat="49.1984584" lon="7.017359"/><trkpt lat="49.1987024" lon="7.0169223"/><trkpt lat="49.1988357" lon="7.0167704"/><trkpt lat="49.1989448" lon="7.0165966"/><trkpt lat="49.1991376" lon="7.0163766"/><trkpt lat="49.1990184" lon="7.0162318"/><trkpt lat="49.1989834" lon="7.0161781"/><trkpt lat="49.1989448" lon="7.016095"/><trkpt lat="49.1989168" lon="7.015985"/><trkpt lat="49.198888" lon="7.0158215"/><trkpt lat="49.1988723" lon="7.0156424"/><trkpt lat="49.1988743" lon="7.0150206"/></trkseg></trk><trk><name>SHG-Klinik für Kinder- und Jugendpsychiatrie und -psychotherapie</name><desc>amenity=hospital
+name=SHG-Klinik für Kinder- und Jugendpsychiatrie und -psychotherapie
+operator=SHG-Kliniken Sonnenberg
+id=way/402144662</desc><trkseg><trkpt lat="49.152617" lon="7.0482713"/><trkpt lat="49.1526802" lon="7.0485207"/><trkpt lat="49.1526504" lon="7.0485717"/><trkpt lat="49.1527258" lon="7.0488265"/><trkpt lat="49.1532924" lon="7.048451"/><trkpt lat="49.1533837" lon="7.0484456"/><trkpt lat="49.1534486" lon="7.0485717"/><trkpt lat="49.1536731" lon="7.048443"/><trkpt lat="49.1536385" lon="7.0482898"/><trkpt lat="49.1535117" lon="7.0478556"/><trkpt lat="49.15341" lon="7.0476624"/><trkpt lat="49.1531907" lon="7.0477563"/><trkpt lat="49.1526714" lon="7.0481506"/><trkpt lat="49.152617" lon="7.0482713"/></trkseg></trk><trk><name>Marienhaus Klinikum Neunkirchen</name><desc>addr:city=Neunkirchen
+addr:housenumber=1-5
+addr:postcode=66539
+addr:street=Klinikweg
+amenity=hospital
+email=info.koh@marienhaus.de
+emergency=yes
+fax=+49 6821 363-2600
+healthcare=hospital
+name=Marienhaus Klinikum Neunkirchen
+old_name=Marienhausklinik St. Josef Kohlhof
+opening_hours=24/7
+phone=+49 6821 363-0
+website=https://www.marienhausklinik-st-josef-kohlhof.de/
+wheelchair=yes
+id=way/418181424</desc><trkseg><trkpt lat="49.3188238" lon="7.2278919"/><trkpt lat="49.3186041" lon="7.2267557"/><trkpt lat="49.3185156" lon="7.2266916"/><trkpt lat="49.3184221" lon="7.2267398"/><trkpt lat="49.3183514" lon="7.2267313"/><trkpt lat="49.3180929" lon="7.2259459"/><trkpt lat="49.317829" lon="7.2256297"/><trkpt lat="49.3176821" lon="7.2255259"/><trkpt lat="49.3175252" lon="7.2256967"/><trkpt lat="49.3171822" lon="7.2263383"/><trkpt lat="49.3168106" lon="7.2272075"/><trkpt lat="49.3166737" lon="7.2279417"/><trkpt lat="49.3166946" lon="7.2280651"/><trkpt lat="49.3169638" lon="7.2286982"/><trkpt lat="49.3170081" lon="7.2287705"/><trkpt lat="49.3172266" lon="7.2289717"/><trkpt lat="49.3174417" lon="7.2291139"/><trkpt lat="49.3180606" lon="7.2278103"/><trkpt lat="49.3181393" lon="7.2277942"/><trkpt lat="49.3181796" lon="7.227811"/><trkpt lat="49.3185568" lon="7.2279678"/><trkpt lat="49.3188491" lon="7.2280893"/><trkpt lat="49.3188238" lon="7.2278919"/></trkseg></trk><trk><name>Klinik Püttlingen</name><desc>alt_name=Knappschaftskrankenhaus Püttlingen
+amenity=hospital
+emergency=yes
+fax=+49 6898 55-2285
+healthcare=hospital
+name=Klinik Püttlingen
+operator=Knappschaftsklinikum Saar GmbH
+phone=+49 6898 55-0
+toilets:wheelchair=yes
+website=https://www.kksaar.de/krankenhaus-puettlingen.php
+wheelchair=yes
+id=way/692560115</desc><trkseg><trkpt lat="49.2769975" lon="6.8710363"/><trkpt lat="49.2772023" lon="6.8712026"/><trkpt lat="49.2776572" lon="6.8713555"/><trkpt lat="49.2779801" lon="6.8714574"/><trkpt lat="49.2768255" lon="6.8660163"/><trkpt lat="49.2768908" lon="6.8659776"/><trkpt lat="49.2768814" lon="6.8659247"/><trkpt lat="49.2765865" lon="6.8645125"/><trkpt lat="49.2765846" lon="6.8644957"/><trkpt lat="49.2760246" lon="6.8647814"/><trkpt lat="49.2763413" lon="6.8662217"/><trkpt lat="49.2761331" lon="6.8663827"/><trkpt lat="49.2763151" lon="6.8670827"/><trkpt lat="49.2761033" lon="6.8671873"/><trkpt lat="49.2760403" lon="6.8673375"/><trkpt lat="49.276721" lon="6.8702745"/><trkpt lat="49.2768453" lon="6.8707426"/><trkpt lat="49.2769975" lon="6.8710363"/></trkseg></trk><trk><name>Caritas-Krankenhaus Lebach</name><desc>amenity=hospital
+check_date=2023-07-22
+email=info@caritas-krankenhaus-lebach.de
+emergency=yes
+fax=+49 6881 501-142
+healthcare=hospital
+internet_access=no
+name=Caritas-Krankenhaus Lebach
+operator=cusanus trägergesellschaft trier mbH
+phone=+49 6881 501-0
+website=https://www.caritas-krankenhaus-lebach.de/
+wheelchair=yes
+id=way/745392167</desc><trkseg><trkpt lat="49.4188175" lon="6.8906059"/><trkpt lat="49.4193163" lon="6.8908233"/><trkpt lat="49.4194356" lon="6.8908753"/><trkpt lat="49.4196214" lon="6.8898605"/><trkpt lat="49.4195635" lon="6.889823"/><trkpt lat="49.4197236" lon="6.8888327"/><trkpt lat="49.4196682" lon="6.8886556"/><trkpt lat="49.4195141" lon="6.8885209"/><trkpt lat="49.4193595" lon="6.8884643"/><trkpt lat="49.4192938" lon="6.8884757"/><trkpt lat="49.4192434" lon="6.8884931"/><trkpt lat="49.4189976" lon="6.8888911"/><trkpt lat="49.4184648" lon="6.8901749"/><trkpt lat="49.4184947" lon="6.8903058"/><trkpt lat="49.4185943" lon="6.8904754"/><trkpt lat="49.4188175" lon="6.8906059"/></trkseg></trk><trk><name>Klinikum Merzig</name><desc>alt_name=SHG Klinikum Merzig
+amenity=hospital
+email=nfo@mzg.shg-kliniken.de
+emergency=yes
+fax=+49 6861 705-1637
+healthcare=hospital
+name=Klinikum Merzig
+operator=Klinikum Merzig gGmbH
+phone=+49 6861 705-0
+website=https://mzg.shg-kliniken.de/
+wikidata=Q35387541
+id=way/745416991</desc><trkseg><trkpt lat="49.4570019" lon="6.6303456"/><trkpt lat="49.4563124" lon="6.6313702"/><trkpt lat="49.4560281" lon="6.6317524"/><trkpt lat="49.4557134" lon="6.632148"/><trkpt lat="49.4558738" lon="6.6325155"/><trkpt lat="49.4555461" lon="6.6328132"/><trkpt lat="49.4556803" lon="6.6331619"/><trkpt lat="49.4564074" lon="6.6344494"/><trkpt lat="49.4559017" lon="6.6349187"/><trkpt lat="49.4562295" lon="6.63615"/><trkpt lat="49.456692" lon="6.6357187"/><trkpt lat="49.4570054" lon="6.6352567"/><trkpt lat="49.4569352" lon="6.6348948"/><trkpt lat="49.4574051" lon="6.6342216"/><trkpt lat="49.4580096" lon="6.6333282"/><trkpt lat="49.4584542" lon="6.632561"/><trkpt lat="49.4575546" lon="6.6310859"/><trkpt lat="49.4574168" lon="6.6309759"/><trkpt lat="49.4570019" lon="6.6303456"/></trkseg></trk><trk><name>ehemalige Knappschaftsklinik Quierschied</name><desc>amenity=hospital
+emergency=no
+healthcare=hospital
+name=ehemalige Knappschaftsklinik Quierschied
+id=way/785534352</desc><trkseg><trkpt lat="49.3101024" lon="7.0357165"/><trkpt lat="49.3106301" lon="7.0361906"/><trkpt lat="49.3108496" lon="7.0363717"/><trkpt lat="49.311021" lon="7.0365454"/><trkpt lat="49.311169" lon="7.0367602"/><trkpt lat="49.3122756" lon="7.037803"/><trkpt lat="49.3129295" lon="7.038377"/><trkpt lat="49.3132408" lon="7.0385111"/><trkpt lat="49.3136797" lon="7.0369822"/><trkpt lat="49.3137091" lon="7.0364682"/><trkpt lat="49.3132882" lon="7.0371384"/><trkpt lat="49.3127462" lon="7.035952"/><trkpt lat="49.3126465" lon="7.0358125"/><trkpt lat="49.3125416" lon="7.0357052"/><trkpt lat="49.3124064" lon="7.0355769"/><trkpt lat="49.312281" lon="7.035445"/><trkpt lat="49.3121319" lon="7.0353741"/><trkpt lat="49.31237" lon="7.0347882"/><trkpt lat="49.3119188" lon="7.0347774"/><trkpt lat="49.3112753" lon="7.0349491"/><trkpt lat="49.3107787" lon="7.0352602"/><trkpt lat="49.3106089" lon="7.0353747"/><trkpt lat="49.3101024" lon="7.0357165"/></trkseg></trk><trk><name>Klinik für Geriatrie und Neurologie</name><desc>addr:city=Weiskirchen
+addr:country=DE
+addr:housenumber=41
+addr:postcode=66709
+addr:street=Auf der Flachsbach
+amenity=hospital
+building=yes
+healthcare:speciality=geriatrics;neurology
+name=Klinik für Geriatrie und Neurologie
+operator=Hochwald-Kliniken
+operator:type=private
+id=way/846500194</desc><trkseg><trkpt lat="49.5636427" lon="6.8077405"/><trkpt lat="49.5636563" lon="6.8076621"/><trkpt lat="49.5637852" lon="6.8076888"/><trkpt lat="49.5638041" lon="6.8075082"/><trkpt lat="49.5635768" lon="6.8074512"/><trkpt lat="49.5635741" lon="6.8074693"/><trkpt lat="49.5635593" lon="6.8074663"/><trkpt lat="49.5635476" lon="6.8074391"/><trkpt lat="49.5635562" lon="6.8074088"/><trkpt lat="49.5635472" lon="6.8073778"/><trkpt lat="49.5635248" lon="6.8073669"/><trkpt lat="49.5635094" lon="6.8073663"/><trkpt lat="49.5634917" lon="6.8074003"/><trkpt lat="49.563485" lon="6.8073912"/><trkpt lat="49.5634886" lon="6.8073736"/><trkpt lat="49.5634709" lon="6.8073384"/><trkpt lat="49.5634489" lon="6.8073287"/><trkpt lat="49.563408" lon="6.8073881"/><trkpt lat="49.5634308" lon="6.8074348"/><trkpt lat="49.5633982" lon="6.807473"/><trkpt lat="49.5633923" lon="6.8075045"/><trkpt lat="49.5634064" lon="6.8075397"/><trkpt lat="49.5634249" lon="6.8075379"/><trkpt lat="49.5634387" lon="6.8075688"/><trkpt lat="49.5634158" lon="6.8075912"/><trkpt lat="49.5634123" lon="6.8076148"/><trkpt lat="49.5634147" lon="6.807633"/><trkpt lat="49.5634182" lon="6.8076445"/><trkpt lat="49.5634249" lon="6.8076524"/><trkpt lat="49.5634367" lon="6.8076603"/><trkpt lat="49.5634567" lon="6.8076682"/><trkpt lat="49.5634445" lon="6.8077743"/><trkpt lat="49.5632211" lon="6.8077461"/><trkpt lat="49.5632178" lon="6.8078075"/><trkpt lat="49.5631718" lon="6.8078017"/><trkpt lat="49.5631619" lon="6.8079891"/><trkpt lat="49.5634582" lon="6.8080265"/><trkpt lat="49.563461" lon="6.8079738"/><trkpt lat="49.5635091" lon="6.8079791"/><trkpt lat="49.5634945" lon="6.8083334"/><trkpt lat="49.5636387" lon="6.8083475"/><trkpt lat="49.5636425" lon="6.8082553"/><trkpt lat="49.5636099" lon="6.8082521"/><trkpt lat="49.5636178" lon="6.8080593"/><trkpt lat="49.5636207" lon="6.80799"/><trkpt lat="49.5636424" lon="6.807992"/><trkpt lat="49.5636633" lon="6.8078817"/><trkpt lat="49.5636499" lon="6.807875"/><trkpt lat="49.5636731" lon="6.8077538"/><trkpt lat="49.5636427" lon="6.8077405"/></trkseg></trk><trk><name>Knappschaftskrankenhaus Sulzbach</name><desc>amenity=hospital
+name=Knappschaftskrankenhaus Sulzbach
+wikidata=Q1776900
+wikimedia_commons=Category:Klinik Sulzbach
+id=way/959724442</desc><trkseg><trkpt lat="49.2971184" lon="7.0532803"/><trkpt lat="49.2969509" lon="7.0535096"/><trkpt lat="49.2972185" lon="7.0538959"/><trkpt lat="49.2969596" lon="7.0542043"/><trkpt lat="49.2968774" lon="7.0542043"/><trkpt lat="49.2966133" lon="7.0545906"/><trkpt lat="49.2968955" lon="7.05498"/><trkpt lat="49.2970261" lon="7.0551538"/><trkpt lat="49.2972147" lon="7.0555996"/><trkpt lat="49.2974199" lon="7.0560026"/><trkpt lat="49.2974529" lon="7.0560363"/><trkpt lat="49.2978527" lon="7.0567812"/><trkpt lat="49.2984527" lon="7.0558601"/><trkpt lat="49.2984871" lon="7.0558083"/><trkpt lat="49.2985572" lon="7.0557059"/><trkpt lat="49.2989282" lon="7.055175"/><trkpt lat="49.2988323" lon="7.0548536"/><trkpt lat="49.2988251" lon="7.0548293"/><trkpt lat="49.2987411" lon="7.0548936"/><trkpt lat="49.2985456" lon="7.0542387"/><trkpt lat="49.2985272" lon="7.054177"/><trkpt lat="49.2982049" lon="7.0536931"/><trkpt lat="49.2980917" lon="7.0536692"/><trkpt lat="49.2974878" lon="7.0527519"/><trkpt lat="49.2974558" lon="7.05279"/><trkpt lat="49.2971668" lon="7.05321"/><trkpt lat="49.2971184" lon="7.0532803"/></trkseg></trk></gpx>

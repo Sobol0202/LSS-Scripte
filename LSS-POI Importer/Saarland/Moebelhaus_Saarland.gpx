@@ -1,0 +1,724 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.2613946" lon="6.9168099"><name>Saqbamobel</name><desc>level=0
+name=Saqbamobel
+old_name=Zimmer
+shop=furniture
+wheelchair=yes
+id=node/534156629</desc></wpt><wpt lat="49.2384453" lon="6.9601419"><name>Möbel Boss</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66115
+addr:street=Dr.-Tietz-Straße
+check_date=2021-10-08
+level=0
+name=Möbel Boss
+opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH,Su closed
+shop=furniture
+wheelchair=yes
+id=node/602550657</desc></wpt><wpt lat="49.4673402" lon="7.1713627"><name>brandt interior design</name><desc>name=brandt interior design
+shop=furniture
+website=https://www.brandt-einrichtungen.de/
+id=node/853436177</desc></wpt><wpt lat="49.2373168" lon="6.9017899"><name>La Bastide</name><desc>name=La Bastide
+shop=furniture
+id=node/897602296</desc></wpt><wpt lat="49.2430016" lon="7.0582884"><name>Polster Regitz</name><desc>level=0;1;2;3
+name=Polster Regitz
+opening_hours=Mo open "Nur nach Terminabsprache "; Tu-Sa 10:00-18:00; Sa 10:00-16:00; PH,Su closed
+shop=furniture
+wheelchair=limited
+id=node/1085279062</desc></wpt><wpt lat="49.2314636" lon="6.9973103"><name>Schneider Einrichtungen</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:floor=0
+addr:housenumber=14
+addr:postcode=66111
+addr:street=Schillerplatz
+contact:email=info@schneider-einrichtungen.de
+contact:website=https://www.schneider-einrichtungen.de/
+level=0
+name=Schneider Einrichtungen
+old_name=kleidung + kunst
+opening_hours=Mo 09:00-13:00,14:00-19:00; Tu 09:00-13:00,14:00-17:30; We 09:00-13:00,14:00-17:00; Th-Fr 10:00-13:00,14:00-19:00; Sa 10:00-15:00; PH,Su closed
+shop=furniture
+strapline=Arbeiten. Wohnen. Leuchten
+wheelchair=yes
+id=node/1411221670</desc></wpt><wpt lat="49.4005588" lon="7.1652475"><name>Möbel Philippi</name><desc>name=Möbel Philippi
+shop=furniture
+wheelchair=no
+id=node/1944806191</desc></wpt><wpt lat="49.4007899" lon="7.1649167"><name>Möbel Philippi</name><desc>name=Möbel Philippi
+note=zweiter Laden
+shop=furniture
+id=node/1944806197</desc></wpt><wpt lat="49.2754661" lon="7.036394"><name>Studio Nöther</name><desc>check_date:opening_hours=2024-07-29
+contact:email=mail@studio-noether.de
+contact:facebook=https://www.fb.com/StudioNotherRaumausstattung/
+contact:fax=+49 6897 924337
+contact:phone=+49 6897 768888
+contact:website=http://www.studio-noether.de/startseite/
+description=Wohnmanufaktur - Polsterarbeiten, Nähatelier, Gardinen und Dekostoffe, Sonnenschutz und Markisen, Bodenbeläge, Insektenschutz, Montage und Service
+level=0
+name=Studio Nöther
+opening_hours=Mo-Fr 09:00-12:30,13:00-18:00, Sa 09:00-12:00; PH,Su closed
+operator=Studio Nöther GmbH
+shop=furniture
+source=Visitenkarte (Stand: August 2017)
+wheelchair=yes
+id=node/2359278170</desc></wpt><wpt lat="49.2355676" lon="6.9972841"><name>NaWo - Natürlich Wohnen</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66111
+addr:street=Johannisstraße
+check_date=2025-03-16
+check_date:opening_hours=2025-03-16
+level=0
+name=NaWo - Natürlich Wohnen
+opening_hours=Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-16:00; Mo,Su,PH off
+operator=Natürlich Wohnen Muskalla und Polenz GmbH
+phone=+49 681 635561
+shop=furniture
+website=https://www.na-wo.de/
+wheelchair=no
+wheelchair:description=3 Stufen
+id=node/2614984382</desc></wpt><wpt lat="49.3220305" lon="7.3428515"><name>Betten Weirich</name><desc>name=Betten Weirich
+phone=+49 6841 4822
+shop=furniture
+toilets:wheelchair=no
+website=https://betten-weirich.de/
+wheelchair=no
+id=node/3472848093</desc></wpt><wpt lat="49.324032" lon="7.3387599"><name>Küchenstudio Mohrbach</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=9
+addr:postcode=66424
+addr:street=Kaiserstraße
+name=Küchenstudio Mohrbach
+phone=+49 6841 12495
+shop=furniture
+toilets:wheelchair=no
+website=https://kuechen-studio-mohrbach.de/
+wheelchair=yes
+id=node/3472860494</desc></wpt><wpt lat="49.2257624" lon="6.9759283"><name>B/BI Die Büroeinrichter</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66117
+addr:street=Zeppelinstraße
+contact:website=https://bbi-sb.de/
+description:de=Einrichtung von Büroarbeitsplätzen
+name=B/BI Die Büroeinrichter
+opening_hours=Mo-Th 08:15-17:00; Fr 08:15-15:30; Sa 10:00-14:00; Su,PH off
+shop=furniture
+id=node/3697626573</desc></wpt><wpt lat="49.3216722" lon="7.3415541"><name>Rase</name><desc>contact:website=http://www.rase.de/
+name=Rase
+note=Das shop furniture trifft es nicht ganz... der textile Einrichter, Tapeten und Stoffe und so
+shop=furniture
+id=node/4031708893</desc></wpt><wpt lat="49.4524327" lon="7.0572704"><name>möbel mascioni</name><desc>contact:website=http://www.mascioni.de/
+name=möbel mascioni
+shop=furniture
+id=node/4313477326</desc></wpt><wpt lat="49.5792216" lon="7.1117952"><name>Schmidt Küchen</name><desc>name=Schmidt Küchen
+shop=furniture
+id=node/4394528144</desc></wpt><wpt lat="49.5247952" lon="7.2591777"><name>Jung Wohndesign</name><desc>name=Jung Wohndesign
+shop=furniture
+id=node/4806508535</desc></wpt><wpt lat="49.2348495" lon="6.9868737"><name>Wohn-Design Blau</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=28
+addr:postcode=66117
+addr:street=Hohenzollernstraße
+contact:phone=+49 681 53879
+level=0
+name=Wohn-Design Blau
+opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH, Su off
+operator=Rainer Blau
+shop=furniture
+website=https://wohn-design-blau.de/
+wheelchair=yes
+id=node/5087463353</desc></wpt><wpt lat="49.6073242" lon="6.9698824"><name>Raumausstattung Münks</name><desc>name=Raumausstattung Münks
+shop=furniture
+id=node/5196304632</desc></wpt><wpt lat="49.2295062" lon="7.0105958"><name>Exclusiv Polsterei</name><desc>addr:city=Saarbrücken
+addr:housenumber=112
+addr:postcode=66121
+addr:street=Mainzer Straße
+check_date:opening_hours=2023-09-18
+email=exclusivpolsterei@wxcceb.de
+fax=+49 681 67975
+level=0
+name=Exclusiv Polsterei
+opening_hours=Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH,Su closed
+operator=Walter Ehrrei ch GmbH
+phone=+49 681 67975
+shop=furniture
+website=https://www.exclusiv-polsterei-ehrreich.de
+wheelchair=no
+id=node/5226981239</desc></wpt><wpt lat="49.377981" lon="7.0491511"><name>Möbel Dörrenbecher</name><desc>name=Möbel Dörrenbecher
+shop=furniture
+id=node/5864285793</desc></wpt><wpt lat="49.239481" lon="6.9733075"><name>Original Möbel</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=15
+addr:postcode=66115
+addr:street=Breite Straße
+level=0
+name=Original Möbel
+old_name=Möbelparadies Firma Stein;Fundgrube Becker Peter
+opening_hours:signed=no
+shop=furniture
+wheelchair=yes
+wheelchair:description=Eine Rampe führt in den Laden.
+id=node/6300565439</desc></wpt><wpt lat="49.3265769" lon="6.7638868"><name>Lifestyle-Ambiente</name><desc>name=Lifestyle-Ambiente
+opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-13:00
+phone=+4968314997420
+shop=furniture
+website=http://www.humidor-import.de
+id=node/6630583785</desc></wpt><wpt lat="49.309685" lon="7.3348881"><name>C4 Concept</name><desc>name=C4 Concept
+shop=furniture
+id=node/6804063575</desc></wpt><wpt lat="49.3255616" lon="6.7484983"><name>JYSK</name><desc>brand:wikidata=Q138913
+level=0
+name=JYSK
+old_name=Dänisches Bettenlager
+shop=furniture
+id=node/6900206324</desc></wpt><wpt lat="49.5128052" lon="6.7535958"><name>JYSK</name><desc>brand=JYSK
+brand:wikidata=Q138913
+brand:wikipedia=en:Jysk (store)
+name=JYSK
+shop=furniture
+id=node/7156203718</desc></wpt><wpt lat="49.2364329" lon="6.9939892"><name>RIVER nordic design</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=1a
+addr:postcode=66111
+addr:street=Rotenhofstraße
+contact:facebook=https://www.facebook.com/river.nordicdesign/
+contact:instagram=https://www.instagram.com/river_nordicdesign/
+contact:website=https://www.river-nordicdesign.de/
+email=info@river-nordicdesign.de
+level=0
+name=RIVER nordic design
+opening_hours=Tu-Fr 11:00-18:00; Sa 11:00-14:00; Mo,Su closed
+phone=+49 681 95816655
+shop=furniture
+strapline=Nordic Design
+wheelchair=yes
+id=node/7176275348</desc></wpt><wpt lat="49.2249998" lon="7.0136736"><name>Büro Möbel Basar</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=132
+addr:postcode=66121
+addr:street=Bismarckstraße
+name=Büro Möbel Basar
+opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off
+shop=furniture
+id=node/7309896038</desc></wpt><wpt lat="49.331051" lon="6.9326527"><name>Staudt Badmöbel</name><desc>name=Staudt Badmöbel
+shop=furniture
+id=node/7508197829</desc></wpt><wpt lat="49.2295834" lon="7.0072217"><name>Bolz Licht und Wohnen</name><desc>check_date:opening_hours=2023-03-21
+contact:website=http://www.bolz-lichtdesign.de
+name=Bolz Licht und Wohnen
+opening_hours="nur nach Vereinbarung"
+shop=furniture
+wheelchair=limited
+id=node/7627065759</desc></wpt><wpt lat="49.2259235" lon="7.0287446"><name>obbo</name><desc>contact:website=https://www.obbo.de/
+description=Büromöbel, Bürobedarf, etc.
+level=0
+name=obbo
+opening_hours:signed=no
+shop=furniture
+wheelchair=no
+id=node/7788272543</desc></wpt><wpt lat="49.3209428" lon="6.8201105"><name>Möbelhaus Freitag</name><desc>name=Möbelhaus Freitag
+shop=furniture
+id=node/8072371066</desc></wpt><wpt lat="49.3718171" lon="6.7629848"><name>Möbel Schütz</name><desc>name=Möbel Schütz
+shop=furniture
+id=node/8270961736</desc></wpt><wpt lat="49.3123868" lon="6.7545208"><name>Hoffmann Wohnen</name><desc>level=0
+name=Hoffmann Wohnen
+shop=furniture
+id=node/8413202460</desc></wpt><wpt lat="49.2176166" lon="7.0152106"><name>Polster &amp; Antik</name><desc>level=0
+name=Polster &amp; Antik
+opening_hours=Tu-We,Fr 14:00-17:00; Th 14:00-18:00; PH,Su closed; Mo,Sa open "Mo+Sa nach tel. Vereinbarun"
+shop=furniture
+strapline=Wohnaccessoires Raumausstattung
+wheelchair=no
+id=node/8613189065</desc></wpt><wpt lat="49.2811568" lon="7.1168205"><name>Möbel Herzer</name><desc>level=0
+name=Möbel Herzer
+shop=furniture
+id=node/8868977143</desc></wpt><wpt lat="49.2277359" lon="7.016062"><name>W3rkraum</name><desc>level=0
+name=W3rkraum
+opening_hours=Mo-Fr 07:30-16:30; PH,Sa-Su closed
+shop=furniture
+wheelchair=limited
+id=node/8890912961</desc></wpt><wpt lat="49.2250469" lon="7.0411921"><name>JYSK</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=4
+addr:postcode=66121
+addr:street=Am Halberg
+brand=JYSK
+brand:wikidata=Q138913
+level=0
+name=JYSK
+opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH,Su closed
+shop=furniture
+wheelchair=yes
+id=node/9001871612</desc></wpt><wpt lat="49.2385029" lon="6.9592481"><name>JYSK</name><desc>addr:city=Saarbrücken
+addr:housenumber=4
+addr:postcode=66115
+addr:street=Dr.-Tietz-Straße
+contact:website=https://jysk.de/stores-locator?storeId=1656
+level=0
+name=JYSK
+opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH,Su closed
+shop=furniture
+wheelchair=yes
+id=node/9159202569</desc></wpt><wpt lat="49.2806224" lon="7.1056376"><name>JYSK</name><desc>brand=JYSK
+brand:wikidata=Q138913
+name=JYSK
+opening_hours=Mo-Fr 10:00-19:00; Sa 09:30-18:00
+shop=furniture
+id=node/9884259192</desc></wpt><wpt lat="49.1967858" lon="7.021886"><name>Helmut Kallenbach</name><desc>level=0
+name=Helmut Kallenbach
+opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 10:00-12:00; PH,Su closed
+shop=furniture
+strapline=Der Raumausstatter
+wheelchair=no
+id=node/9917599002</desc></wpt><wpt lat="49.236596" lon="6.9941037"><name>RIVER nordic design</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=1a
+addr:postcode=66111
+addr:street=Rotenhofstraße
+contact:facebook=https://www.facebook.com/river.nordicdesign/
+contact:instagram=https://www.instagram.com/river_nordicdesign/
+contact:website=https://www.river-nordicdesign.de/
+email=info@river-nordicdesign.de
+level=0
+name=RIVER nordic design
+opening_hours=Tu-Fr 11:00-18:00; Sa 11:00-16:00; Mo,Su closed
+phone=+49 681 95816655
+shop=furniture
+strapline=Nordic Design
+wheelchair=yes
+id=node/10067670721</desc></wpt><wpt lat="49.4664938" lon="7.1622722"><name>JYSK</name><desc>brand=JYSK
+brand:wikidata=Q138913
+name=JYSK
+shop=furniture
+id=node/10674396593</desc></wpt><wpt lat="49.2395893" lon="6.915018"><name>Malak Wohnstil</name><desc>contact:phone=+49 176 85642602;+33 7 51 47 56 61
+description=Marokkanische Wohnzimmer und Teppiche
+name=Malak Wohnstil
+opening_hours:signed=no
+shop=furniture
+wheelchair=no
+id=node/11591502295</desc></wpt><wpt lat="49.2826264" lon="7.1038361"><name>fischer's LAGERHAUS</name><desc>check_date=2024-04-30
+contact:phone=+49 6894 8959773
+contact:website=https://www.fischers-lagerhaus.de/unsere-standorte/sankt-ingbert/
+email=teamsanktingbert@fischers-lagerhaus.de
+name=fischer's LAGERHAUS
+opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-18:00
+shop=furniture
+id=node/11869234624</desc></wpt><wpt lat="49.2412669" lon="6.9476594"><name>City Möbel</name><desc>level=0
+name=City Möbel
+opening_hours:signed=no
+shop=furniture
+wheelchair=yes
+id=node/11999652217</desc></wpt><trk><name>Möbel Fundgrube</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=10
+addr:postcode=66424
+addr:street=Am Vierherrenwald
+building=yes
+name=Möbel Fundgrube
+phone=+49 6841 7003-0
+shop=furniture
+website=https://moebel-fundgrube.de/homburg.html
+wheelchair=yes
+id=way/28138307</desc><trkseg><trkpt lat="49.3303379" lon="7.3191456"/><trkpt lat="49.3299688" lon="7.3175301"/><trkpt lat="49.329269" lon="7.3179065"/><trkpt lat="49.3293149" lon="7.3181077"/><trkpt lat="49.3293362" lon="7.3180963"/><trkpt lat="49.3296594" lon="7.3195106"/><trkpt lat="49.3303379" lon="7.3191456"/></trkseg></trk><trk><name>Möbelhaus AROP</name><desc>addr:city=Eppelborn
+addr:country=DE
+addr:housenumber=18
+addr:postcode=66571
+addr:street=Juchem-Straße
+building=yes
+name=Möbelhaus AROP
+shop=furniture
+id=way/41376500</desc><trkseg><trkpt lat="49.4084845" lon="6.961949"/><trkpt lat="49.4079411" lon="6.9619463"/><trkpt lat="49.4079402" lon="6.962363"/><trkpt lat="49.4083568" lon="6.9623651"/><trkpt lat="49.4083562" lon="6.9626495"/><trkpt lat="49.408483" lon="6.9626502"/><trkpt lat="49.4084845" lon="6.961949"/></trkseg></trk><trk><name>Möbel Boss</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=6
+addr:postcode=66538
+addr:street=Am Gneisenauflöz
+brand=Möbel Boss
+brand:wikidata=Q99624217
+building:part=retail
+name=Möbel Boss
+shop=furniture
+website=https://moebel-boss.de/
+id=way/51596719</desc><trkseg><trkpt lat="49.3391801" lon="7.1709789"/><trkpt lat="49.339548" lon="7.1712843"/><trkpt lat="49.3397236" lon="7.170786"/><trkpt lat="49.3392445" lon="7.1703883"/><trkpt lat="49.3390689" lon="7.1708866"/><trkpt lat="49.3391801" lon="7.1709789"/></trkseg></trk><trk><name>IKEA</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housename=IKEA
+addr:housenumber=1
+addr:postcode=66740
+addr:street=Im Hader
+alt_name=IKEA Saarlouis
+branch=Saarlouis
+brand=IKEA
+brand:wikidata=Q54078
+brand:wikipedia=en:IKEA
+building:part=yes
+changing_table=yes
+changing_table:location=dedicated_room
+internet_access=wlan
+internet_access:authentication=no
+internet_access:captive_portal=yes
+internet_access:fee=no
+internet_access:operator=YO Wireless
+internet_access:ssid=IKEA WiFi
+level=0
+name=IKEA
+opening_hours=Mo-Sa 10:00-19:00; PH,Su closed
+operator=IKEA
+self_checkout=yes
+shop=furniture
+website=https://www.ikea.com/de/de/store/saarlouis
+wheelchair=yes
+id=way/72071838</desc><trkseg><trkpt lat="49.2950159" lon="6.760146"/><trkpt lat="49.2948371" lon="6.7597195"/><trkpt lat="49.294931" lon="6.7596314"/><trkpt lat="49.2949642" lon="6.7596002"/><trkpt lat="49.2949981" lon="6.7595684"/><trkpt lat="49.2950306" lon="6.759538"/><trkpt lat="49.295062" lon="6.7595085"/><trkpt lat="49.295094" lon="6.7594784"/><trkpt lat="49.295236" lon="6.7593452"/><trkpt lat="49.2952898" lon="6.7594751"/><trkpt lat="49.2955487" lon="6.7592201"/><trkpt lat="49.2951208" lon="6.7581294"/><trkpt lat="49.2949409" lon="6.7583079"/><trkpt lat="49.2947261" lon="6.7585211"/><trkpt lat="49.2947083" lon="6.7585388"/><trkpt lat="49.2946844" lon="6.7584782"/><trkpt lat="49.2945739" lon="6.7582065"/><trkpt lat="49.2944247" lon="6.757825"/><trkpt lat="49.2941867" lon="6.7580473"/><trkpt lat="49.2941596" lon="6.7580726"/><trkpt lat="49.2937449" lon="6.75846"/><trkpt lat="49.2937922" lon="6.7585756"/><trkpt lat="49.2939626" lon="6.758991"/><trkpt lat="49.2939809" lon="6.7590356"/><trkpt lat="49.2940123" lon="6.7591121"/><trkpt lat="49.2940843" lon="6.7592877"/><trkpt lat="49.2939994" lon="6.7593567"/><trkpt lat="49.2939443" lon="6.7592092"/><trkpt lat="49.2936812" lon="6.759581"/><trkpt lat="49.2936145" lon="6.7596872"/><trkpt lat="49.2936175" lon="6.7596945"/><trkpt lat="49.2936339" lon="6.7597353"/><trkpt lat="49.2934069" lon="6.7599446"/><trkpt lat="49.2938331" lon="6.76102"/><trkpt lat="49.2939027" lon="6.761199"/><trkpt lat="49.2943235" lon="6.7608052"/><trkpt lat="49.2942489" lon="6.7606278"/><trkpt lat="49.2942858" lon="6.7605942"/><trkpt lat="49.2943275" lon="6.7607019"/><trkpt lat="49.2944202" lon="6.7606175"/><trkpt lat="49.2943785" lon="6.7605099"/><trkpt lat="49.2944323" lon="6.7604609"/><trkpt lat="49.2945012" lon="6.7606359"/><trkpt lat="49.2950159" lon="6.760146"/></trkseg></trk><trk><name>Möbel Martin</name><desc>addr:city=Ensdorf/Saar
+addr:country=DE
+addr:housenumber=300
+addr:postcode=66806
+addr:street=Provinzialstraße
+branch=Ensdorf
+brand=Möbel Martin
+brand:wikidata=Q15836030
+building=retail
+fax=+49 6831 954-2288
+name=Möbel Martin
+opening_hours=Mo-Fr 10:00-20:00; Sa 09:30-20:00
+operator=Möbel Martin GmbH &amp; Co. KG
+phone=+49 6831 954-0
+shop=furniture
+website=https://www.moebel-martin.de/
+wheelchair=yes
+id=way/82773914</desc><trkseg><trkpt lat="49.2940336" lon="6.7766867"/><trkpt lat="49.2929972" lon="6.776704"/><trkpt lat="49.2930036" lon="6.7776128"/><trkpt lat="49.2925835" lon="6.7776198"/><trkpt lat="49.2925906" lon="6.7786091"/><trkpt lat="49.2931709" lon="6.7785994"/><trkpt lat="49.2931714" lon="6.7786796"/><trkpt lat="49.2933521" lon="6.7786766"/><trkpt lat="49.2933514" lon="6.7785885"/><trkpt lat="49.294047" lon="6.7785768"/><trkpt lat="49.2940336" lon="6.7766867"/></trkseg></trk><trk><name>Wohnen Zimmer</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=43
+addr:postcode=66119
+addr:street=Koßmannstraße
+building=commercial
+building:levels=3
+contact:website=http://www.wohnen-zimmer.de/
+name=Wohnen Zimmer
+shop=furniture
+id=way/87760463</desc><trkseg><trkpt lat="49.2215003" lon="7.0131936"/><trkpt lat="49.2213284" lon="7.0129914"/><trkpt lat="49.2213187" lon="7.0130109"/><trkpt lat="49.2212366" lon="7.0131731"/><trkpt lat="49.2212147" lon="7.0132168"/><trkpt lat="49.2211511" lon="7.0133459"/><trkpt lat="49.2211027" lon="7.0134459"/><trkpt lat="49.2212794" lon="7.0136483"/><trkpt lat="49.2215003" lon="7.0131936"/></trkseg></trk><trk><name>Living Edition</name><desc>addr:city=Saarbrücken
+addr:housenumber=1
+addr:postcode=66121
+addr:street=Am Holzbrunnen
+building=commercial
+contact:website=https://www.living-edition.de/
+name=Living Edition
+official_name=Living-Edition GmbH
+opening_hours=Mo-Fr 11:00-18:00; PH,Sa-Su closed
+shop=furniture
+id=way/92004388</desc><trkseg><trkpt lat="49.2283617" lon="7.0225394"/><trkpt lat="49.2282301" lon="7.0227413"/><trkpt lat="49.2282327" lon="7.0227459"/><trkpt lat="49.2282376" lon="7.0227547"/><trkpt lat="49.2282101" lon="7.0227927"/><trkpt lat="49.2281799" lon="7.0228346"/><trkpt lat="49.2281739" lon="7.0228235"/><trkpt lat="49.2281712" lon="7.0228184"/><trkpt lat="49.2280612" lon="7.0229572"/><trkpt lat="49.2280573" lon="7.0229621"/><trkpt lat="49.2278708" lon="7.023173"/><trkpt lat="49.2278598" lon="7.0231853"/><trkpt lat="49.2278743" lon="7.0232151"/><trkpt lat="49.2279042" lon="7.0232741"/><trkpt lat="49.2279325" lon="7.0233302"/><trkpt lat="49.2279479" lon="7.0233606"/><trkpt lat="49.227961" lon="7.0233865"/><trkpt lat="49.2280323" lon="7.0235273"/><trkpt lat="49.2280421" lon="7.0235486"/><trkpt lat="49.2281619" lon="7.0231256"/><trkpt lat="49.2281303" lon="7.0230698"/><trkpt lat="49.2283018" lon="7.0228506"/><trkpt lat="49.228285" lon="7.0228234"/><trkpt lat="49.228412" lon="7.022612"/><trkpt lat="49.2283721" lon="7.0225545"/><trkpt lat="49.2283617" lon="7.0225394"/></trkseg></trk><trk><name>Die Möbelfundgrube</name><desc>addr:city=Saarbrücken
+addr:housenumber=1
+addr:postcode=66123
+addr:street=Am Kieselhumes
+building=retail
+contact:phone=+49 681 906270
+contact:website=https://moebel-fundgrube.de/filiale-saarbruecken/
+name=Die Möbelfundgrube
+opening_hours=Mo-Sa 10:00-19:00; PH,Su closed
+operator=Martin Eckert GmbH
+shop=furniture
+id=way/93631504</desc><trkseg><trkpt lat="49.2301197" lon="7.0203256"/><trkpt lat="49.2301448" lon="7.0203538"/><trkpt lat="49.2301601" lon="7.0203722"/><trkpt lat="49.2302152" lon="7.0203625"/><trkpt lat="49.2302282" lon="7.0203459"/><trkpt lat="49.230255" lon="7.0202882"/><trkpt lat="49.2302659" lon="7.0202991"/><trkpt lat="49.2303632" lon="7.0204052"/><trkpt lat="49.2305832" lon="7.0199643"/><trkpt lat="49.2307587" lon="7.0196221"/><trkpt lat="49.2307242" lon="7.0195797"/><trkpt lat="49.230727" lon="7.019573"/><trkpt lat="49.2307299" lon="7.0195661"/><trkpt lat="49.2307082" lon="7.0194944"/><trkpt lat="49.230691" lon="7.0194736"/><trkpt lat="49.2306719" lon="7.0194526"/><trkpt lat="49.2306291" lon="7.0194405"/><trkpt lat="49.2306221" lon="7.019457"/><trkpt lat="49.2305819" lon="7.0194148"/><trkpt lat="49.2304475" lon="7.0196796"/><trkpt lat="49.2304421" lon="7.0196738"/><trkpt lat="49.2304368" lon="7.019668"/><trkpt lat="49.2303933" lon="7.0197544"/><trkpt lat="49.2303985" lon="7.0197608"/><trkpt lat="49.2304033" lon="7.0197668"/><trkpt lat="49.2303056" lon="7.0199594"/><trkpt lat="49.2302669" lon="7.0200356"/><trkpt lat="49.2301197" lon="7.0203256"/></trkseg></trk><trk><name>Klein Küche und Bad</name><desc>addr:city=Sankt Wendel
+addr:country=DE
+addr:housenumber=4
+addr:postcode=66606
+addr:street=Schengener Straße
+building=yes
+name=Klein Küche und Bad
+shop=furniture
+website=https://www.baederstudio-klein.de/
+id=way/99597096</desc><trkseg><trkpt lat="49.46077" lon="7.146512"/><trkpt lat="49.460941" lon="7.1465193"/><trkpt lat="49.4609502" lon="7.14601"/><trkpt lat="49.4607792" lon="7.1460027"/><trkpt lat="49.46077" lon="7.146512"/></trkseg></trk><trk><name>Roller</name><desc>addr:city=Bous
+addr:country=DE
+addr:housenumber=205
+addr:postcode=66359
+addr:street=Saarbrücker Straße
+brand=Roller
+brand:wikidata=Q1621286
+brand:wikipedia=de:Roller (Möbelhaus)
+building=yes
+name=Roller
+opening_hours=Mo-Sa 10:00-19:00
+shop=furniture
+wheelchair=yes
+id=way/106152092</desc><trkseg><trkpt lat="49.2837318" lon="6.7811285"/><trkpt lat="49.2832674" lon="6.7818166"/><trkpt lat="49.2841005" lon="6.7831379"/><trkpt lat="49.2843368" lon="6.7827877"/><trkpt lat="49.2845649" lon="6.7824498"/><trkpt lat="49.2837318" lon="6.7811285"/></trkseg></trk><trk><name>AQUA-Saar</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=6
+addr:postcode=66740
+addr:street=Holtzendorffer Straße
+building=yes
+name=AQUA-Saar
+shop=furniture
+id=way/106157812</desc><trkseg><trkpt lat="49.3185385" lon="6.7465771"/><trkpt lat="49.3186069" lon="6.7467043"/><trkpt lat="49.3187428" lon="6.7469606"/><trkpt lat="49.3185808" lon="6.7471586"/><trkpt lat="49.3186556" lon="6.7473076"/><trkpt lat="49.3190238" lon="6.7468448"/><trkpt lat="49.3187839" lon="6.7463955"/><trkpt lat="49.3186927" lon="6.7463803"/><trkpt lat="49.3185385" lon="6.7465771"/></trkseg></trk><trk><name>Möbel Werding</name><desc>addr:city=Beckingen
+addr:country=DE
+addr:housenumber=246
+addr:postcode=66701
+addr:street=Talstraße
+building=yes
+name=Möbel Werding
+shop=furniture
+id=way/107128723</desc><trkseg><trkpt lat="49.3982912" lon="6.7098986"/><trkpt lat="49.3981555" lon="6.7101947"/><trkpt lat="49.3982231" lon="6.7102678"/><trkpt lat="49.3982157" lon="6.7102841"/><trkpt lat="49.3984942" lon="6.7105854"/><trkpt lat="49.3985176" lon="6.7105343"/><trkpt lat="49.3985318" lon="6.7105496"/><trkpt lat="49.3986515" lon="6.7102884"/><trkpt lat="49.3982912" lon="6.7098986"/></trkseg></trk><trk><name>opti Wohnwelt</name><desc>addr:city=Dillingen/Saar
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66763
+addr:street=Am Schützenhof
+building=yes
+name=opti Wohnwelt
+opening_hours=Mo-Fr 10:00-19:00, Sa 09:30-18:00
+shop=furniture
+website=https://www.opti-wohnwelt.de/
+wheelchair=yes
+id=way/115079584</desc><trkseg><trkpt lat="49.3670645" lon="6.7130673"/><trkpt lat="49.366689" lon="6.7131645"/><trkpt lat="49.3667062" lon="6.7133213"/><trkpt lat="49.3663692" lon="6.7134085"/><trkpt lat="49.366355" lon="6.7132785"/><trkpt lat="49.3659879" lon="6.7133734"/><trkpt lat="49.3660568" lon="6.714001"/><trkpt lat="49.3661487" lon="6.7139772"/><trkpt lat="49.3662089" lon="6.7145265"/><trkpt lat="49.366438" lon="6.7144673"/><trkpt lat="49.3663778" lon="6.7139184"/><trkpt lat="49.3665115" lon="6.7138838"/><trkpt lat="49.3665625" lon="6.714348"/><trkpt lat="49.3669504" lon="6.7142476"/><trkpt lat="49.3669814" lon="6.7145308"/><trkpt lat="49.3672183" lon="6.7144695"/><trkpt lat="49.3670645" lon="6.7130673"/></trkseg></trk><trk><name>Tom´s Company</name><desc>addr:city=Schiffweiler
+addr:country=DE
+addr:housenumber=14
+addr:postcode=66578
+addr:street=Kreisstraße
+building=yes
+name=Tom´s Company
+shop=furniture
+id=way/116797079</desc><trkseg><trkpt lat="49.3570822" lon="7.1336299"/><trkpt lat="49.3567922" lon="7.1334207"/><trkpt lat="49.3565336" lon="7.1334851"/><trkpt lat="49.3565712" lon="7.1338271"/><trkpt lat="49.356303" lon="7.1338914"/><trkpt lat="49.3563327" lon="7.1341784"/><trkpt lat="49.3568717" lon="7.1340188"/><trkpt lat="49.3568621" lon="7.1339022"/><trkpt lat="49.3569625" lon="7.1338753"/><trkpt lat="49.3570822" lon="7.1336299"/></trkseg></trk><trk><name>poco</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=24
+addr:postcode=66424
+addr:street=Richard-Wagner-Straße
+building=commercial
+name=poco
+shop=furniture
+source=https://www.poco.de
+wheelchair=limited
+id=way/127603764</desc><trkseg><trkpt lat="49.3249927" lon="7.3344209"/><trkpt lat="49.3251196" lon="7.3341922"/><trkpt lat="49.3248032" lon="7.3337789"/><trkpt lat="49.3246195" lon="7.333539"/><trkpt lat="49.3245266" lon="7.3337064"/><trkpt lat="49.3247103" lon="7.3339463"/><trkpt lat="49.3245986" lon="7.3341477"/><trkpt lat="49.324407" lon="7.3344818"/><trkpt lat="49.324968" lon="7.3352626"/><trkpt lat="49.3250595" lon="7.3353971"/><trkpt lat="49.325084" lon="7.3353991"/><trkpt lat="49.3251312" lon="7.3354655"/><trkpt lat="49.3251696" lon="7.3354729"/><trkpt lat="49.3252129" lon="7.3355379"/><trkpt lat="49.3252496" lon="7.3355459"/><trkpt lat="49.3252933" lon="7.3356003"/><trkpt lat="49.3253278" lon="7.335609"/><trkpt lat="49.3253736" lon="7.3356625"/><trkpt lat="49.3256795" lon="7.335154"/><trkpt lat="49.3255354" lon="7.3349579"/><trkpt lat="49.3254977" lon="7.3350118"/><trkpt lat="49.3253305" lon="7.3347767"/><trkpt lat="49.3253009" lon="7.3348334"/><trkpt lat="49.3252608" lon="7.3347839"/><trkpt lat="49.3249927" lon="7.3344209"/></trkseg></trk><trk><name>POCO</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=75-91
+addr:postcode=66740
+addr:street=Saarbrücker Straße
+brand=POCO
+brand:wikidata=Q1714820
+building=yes
+name=POCO
+shop=furniture
+website=https://www.poco.de/standorte/poco-einrichtungsmarkt-saarlouis
+id=way/127603875</desc><trkseg><trkpt lat="49.3219537" lon="6.7737937"/><trkpt lat="49.322027" lon="6.7737572"/><trkpt lat="49.3220966" lon="6.7740416"/><trkpt lat="49.3222017" lon="6.7739742"/><trkpt lat="49.3222515" lon="6.773949"/><trkpt lat="49.3222729" lon="6.7740484"/><trkpt lat="49.3224036" lon="6.7739846"/><trkpt lat="49.3225158" lon="6.7739165"/><trkpt lat="49.3223251" lon="6.7731826"/><trkpt lat="49.3222869" lon="6.7731781"/><trkpt lat="49.3220903" lon="6.7723721"/><trkpt lat="49.3219914" lon="6.7722637"/><trkpt lat="49.3211341" lon="6.7735962"/><trkpt lat="49.321211" lon="6.7737679"/><trkpt lat="49.321483" lon="6.7736021"/><trkpt lat="49.3217767" lon="6.7734454"/><trkpt lat="49.3218497" lon="6.7734122"/><trkpt lat="49.3219537" lon="6.7737937"/></trkseg></trk><trk><name>Besser Schlafen</name><desc>addr:city=Eppelborn
+addr:country=DE
+addr:housenumber=101
+addr:postcode=66571
+addr:street=Rathausstraße
+building=yes
+contact:website=http://www.besserschlafen-online.de/
+name=Besser Schlafen
+shop=furniture
+id=way/134869555</desc><trkseg><trkpt lat="49.4058697" lon="6.9560618"/><trkpt lat="49.4056972" lon="6.9560219"/><trkpt lat="49.4057057" lon="6.9559085"/><trkpt lat="49.4055816" lon="6.9558808"/><trkpt lat="49.4055732" lon="6.956226"/><trkpt lat="49.4058471" lon="6.9563006"/><trkpt lat="49.4059091" lon="6.9562658"/><trkpt lat="49.4058697" lon="6.9560618"/></trkseg></trk><trk><name>JYSK</name><desc>addr:city=Homburg
+addr:housenumber=6
+addr:postcode=66424
+addr:street=In den Rohrwiesen
+brand=JYSK
+brand:wikidata=Q138913
+building=yes
+name=JYSK
+old_name=Spezi Fliesen Bad und mehr
+shop=furniture
+id=way/135805251</desc><trkseg><trkpt lat="49.3349616" lon="7.3433465"/><trkpt lat="49.3347401" lon="7.3433421"/><trkpt lat="49.3347374" lon="7.3436688"/><trkpt lat="49.3347354" lon="7.3439069"/><trkpt lat="49.3349568" lon="7.3439113"/><trkpt lat="49.3349616" lon="7.3433465"/></trkseg></trk><trk><name>Küche &amp; Design</name><desc>addr:city=Bexbach
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66450
+addr:street=Am Butterhügel
+building=yes
+furniture=kitchen
+name=Küche &amp; Design
+shop=furniture
+id=way/148326712</desc><trkseg><trkpt lat="49.3447864" lon="7.2816245"/><trkpt lat="49.3447043" lon="7.2815711"/><trkpt lat="49.3446975" lon="7.2815957"/><trkpt lat="49.344644" lon="7.2815609"/><trkpt lat="49.3446508" lon="7.2815363"/><trkpt lat="49.3445669" lon="7.2814816"/><trkpt lat="49.3445082" lon="7.2816942"/><trkpt lat="49.3447277" lon="7.2818371"/><trkpt lat="49.3447864" lon="7.2816245"/></trkseg></trk><trk><name>Sozialkaufhaus Möbel Börse</name><desc>building=yes
+name=Sozialkaufhaus Möbel Börse
+operator=GSE des ASB mbH
+phone=+49 6825 403 68 63
+shop=furniture
+wheelchair=yes
+id=way/196535744</desc><trkseg><trkpt lat="49.4698895" lon="7.164471"/><trkpt lat="49.4699186" lon="7.1648446"/><trkpt lat="49.4700941" lon="7.1648223"/><trkpt lat="49.4700814" lon="7.1646037"/><trkpt lat="49.4700378" lon="7.1646093"/><trkpt lat="49.470027" lon="7.1644245"/><trkpt lat="49.4700048" lon="7.1642693"/><trkpt lat="49.4699111" lon="7.1643004"/><trkpt lat="49.4699159" lon="7.1643339"/><trkpt lat="49.469872" lon="7.1643488"/><trkpt lat="49.4698895" lon="7.164471"/></trkseg></trk><trk><name>Tischlerei Lauer</name><desc>addr:city=Wadern
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66687
+addr:street=Kirchenweg
+addr:suburb=Steinberg
+building=yes
+craft=carpenter
+name=Tischlerei Lauer
+shop=furniture
+website=https://www.tischler-unikate.de
+id=way/201759310</desc><trkseg><trkpt lat="49.5692487" lon="6.8486319"/><trkpt lat="49.5690412" lon="6.8485254"/><trkpt lat="49.5690536" lon="6.8484681"/><trkpt lat="49.5687033" lon="6.8482883"/><trkpt lat="49.5686608" lon="6.848485"/><trkpt lat="49.5690309" lon="6.848675"/><trkpt lat="49.569024" lon="6.848707"/><trkpt lat="49.5692116" lon="6.8488034"/><trkpt lat="49.5692417" lon="6.8486642"/><trkpt lat="49.5692487" lon="6.8486319"/></trkseg></trk><trk><name>Möbel Martin</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=83
+addr:postcode=66539
+addr:street=Rombachstraße
+addr:suburb=Wellesweiler
+brand=Möbel Martin
+brand:wikidata=Q15836030
+building=yes
+name=Möbel Martin
+shop=furniture
+website=https://www.moebel-martin.de/
+id=way/213210422</desc><trkseg><trkpt lat="49.3549977" lon="7.2233214"/><trkpt lat="49.3547524" lon="7.2230941"/><trkpt lat="49.3545707" lon="7.2235561"/><trkpt lat="49.3544334" lon="7.2234288"/><trkpt lat="49.3543086" lon="7.2237462"/><trkpt lat="49.3544459" lon="7.2238734"/><trkpt lat="49.354283" lon="7.2242878"/><trkpt lat="49.3545283" lon="7.2245151"/><trkpt lat="49.3547073" lon="7.2240597"/><trkpt lat="49.3547234" lon="7.2240189"/><trkpt lat="49.3547478" lon="7.2240415"/><trkpt lat="49.3547973" lon="7.2239156"/><trkpt lat="49.3547729" lon="7.223893"/><trkpt lat="49.3547879" lon="7.2238549"/><trkpt lat="49.3549358" lon="7.2234788"/><trkpt lat="49.3549977" lon="7.2233214"/></trkseg></trk><trk><name>Schmidt Küchenstudio</name><desc>name=Schmidt Küchenstudio
+shop=furniture
+website=https://www.schmidt-kuechen-saarland.de/
+id=way/218493166</desc><trkseg><trkpt lat="49.3409679" lon="7.1743977"/><trkpt lat="49.3408437" lon="7.1743742"/><trkpt lat="49.3408194" lon="7.1746765"/><trkpt lat="49.3407575" lon="7.1746647"/><trkpt lat="49.3407435" lon="7.1748379"/><trkpt lat="49.3409295" lon="7.1748732"/><trkpt lat="49.3409679" lon="7.1743977"/></trkseg></trk><trk><name>JYSK</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=6
+addr:postcode=66538
+addr:street=Am Gneisenauflöz
+brand=JYSK
+brand:wikidata=Q138913
+building:part=retail
+name=JYSK
+shop=furniture
+website=https://www.jysk.de/
+id=way/236948497</desc><trkseg><trkpt lat="49.339548" lon="7.1712843"/><trkpt lat="49.3391801" lon="7.1709789"/><trkpt lat="49.3391477" lon="7.1710709"/><trkpt lat="49.3391365" lon="7.1710615"/><trkpt lat="49.339" lon="7.1714486"/><trkpt lat="49.3390113" lon="7.1714579"/><trkpt lat="49.3389724" lon="7.1715682"/><trkpt lat="49.3393403" lon="7.1718736"/><trkpt lat="49.339548" lon="7.1712843"/></trkseg></trk><trk><name>Möbel Morschet</name><desc>addr:city=Wadgassen
+addr:country=DE
+addr:housenumber=16
+addr:postcode=66787
+addr:street=Denkmalstraße
+addr:suburb=Differten
+building=yes
+name=Möbel Morschet
+shop=furniture
+id=way/250937391</desc><trkseg><trkpt lat="49.243735" lon="6.7788188"/><trkpt lat="49.2436503" lon="6.7787766"/><trkpt lat="49.243647" lon="6.7787926"/><trkpt lat="49.2435605" lon="6.7787495"/><trkpt lat="49.2435043" lon="6.7790143"/><trkpt lat="49.2435843" lon="6.7790541"/><trkpt lat="49.2436754" lon="6.7790995"/><trkpt lat="49.243735" lon="6.7788188"/></trkseg></trk><trk><name>Möbel Fundgrube</name><desc>addr:city=Lebach
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66822
+addr:street=Tholeyer Straße
+building=yes
+name=Möbel Fundgrube
+shop=furniture
+wheelchair=yes
+id=way/263677234</desc><trkseg><trkpt lat="49.4108841" lon="6.9123163"/><trkpt lat="49.4109304" lon="6.9124649"/><trkpt lat="49.4109942" lon="6.912702"/><trkpt lat="49.4110711" lon="6.9127024"/><trkpt lat="49.4110849" lon="6.9127996"/><trkpt lat="49.4110823" lon="6.9128661"/><trkpt lat="49.4108016" lon="6.9129171"/><trkpt lat="49.4108088" lon="6.9130447"/><trkpt lat="49.4112509" lon="6.9129871"/><trkpt lat="49.411279" lon="6.9130533"/><trkpt lat="49.4112929" lon="6.9131943"/><trkpt lat="49.4114626" lon="6.9131052"/><trkpt lat="49.411457" lon="6.9129612"/><trkpt lat="49.4114195" lon="6.9129785"/><trkpt lat="49.4114476" lon="6.9125868"/><trkpt lat="49.411412" lon="6.9125868"/><trkpt lat="49.4113903" lon="6.9123577"/><trkpt lat="49.41137" lon="6.912307"/><trkpt lat="49.4113819" lon="6.9122957"/><trkpt lat="49.4112852" lon="6.912054"/><trkpt lat="49.4112732" lon="6.9120653"/><trkpt lat="49.4112341" lon="6.9119677"/><trkpt lat="49.4111359" lon="6.9120479"/><trkpt lat="49.4110561" lon="6.9121491"/><trkpt lat="49.4110638" lon="6.9121687"/><trkpt lat="49.4108841" lon="6.9123163"/></trkseg></trk><trk><name>Möbel Grub</name><desc>building=yes
+name=Möbel Grub
+shop=furniture
+id=way/315580768</desc><trkseg><trkpt lat="49.3123932" lon="7.2834332"/><trkpt lat="49.3126163" lon="7.2839201"/><trkpt lat="49.3128165" lon="7.283743"/><trkpt lat="49.3128043" lon="7.2837117"/><trkpt lat="49.313017" lon="7.2835168"/><trkpt lat="49.3130371" lon="7.2833963"/><trkpt lat="49.3127513" lon="7.2826602"/><trkpt lat="49.3126766" lon="7.2827468"/><trkpt lat="49.3126351" lon="7.2827184"/><trkpt lat="49.3123932" lon="7.2834332"/></trkseg></trk><trk><name>way/318931262</name><desc>addr:city=Wadgassen
+addr:country=DE
+addr:housenumber=96
+addr:postcode=66787
+addr:street=Provinzialstraße
+building=yes
+shop=furniture
+id=way/318931262</desc><trkseg><trkpt lat="49.2668069" lon="6.8024487"/><trkpt lat="49.2668438" lon="6.802298"/><trkpt lat="49.2666323" lon="6.8021764"/><trkpt lat="49.2665954" lon="6.8023272"/><trkpt lat="49.2668069" lon="6.8024487"/></trkseg></trk><trk><name>Sozialer Kaufladen</name><desc>addr:city=Püttlingen
+addr:country=DE
+addr:housenumber=14
+addr:postcode=66346
+addr:street=Sprenger Straße
+building=yes
+name=Sozialer Kaufladen
+shop=furniture
+id=way/321998227</desc><trkseg><trkpt lat="49.3013128" lon="6.8968063"/><trkpt lat="49.3013607" lon="6.8968543"/><trkpt lat="49.3014489" lon="6.8966388"/><trkpt lat="49.3016365" lon="6.8968416"/><trkpt lat="49.3016837" lon="6.8967389"/><trkpt lat="49.301496" lon="6.8965361"/><trkpt lat="49.3014481" lon="6.8964882"/><trkpt lat="49.3013128" lon="6.8968063"/></trkseg></trk><trk><name>Möbel Heinz</name><desc>addr:city=Losheim am See
+addr:country=DE
+addr:housenumber=5
+addr:postcode=66679
+addr:street=Wiesenstraße
+building=yes
+name=Möbel Heinz
+shop=furniture
+wheelchair=no
+id=way/332298674</desc><trkseg><trkpt lat="49.5124478" lon="6.7399421"/><trkpt lat="49.5123709" lon="6.7400751"/><trkpt lat="49.5124253" lon="6.7401497"/><trkpt lat="49.5121513" lon="6.7406237"/><trkpt lat="49.5122471" lon="6.740755"/><trkpt lat="49.5123378" lon="6.740598"/><trkpt lat="49.5124129" lon="6.740701"/><trkpt lat="49.5125315" lon="6.7404958"/><trkpt lat="49.5125917" lon="6.7405783"/><trkpt lat="49.5130189" lon="6.7398391"/><trkpt lat="49.5129438" lon="6.7397361"/><trkpt lat="49.5129796" lon="6.7396741"/><trkpt lat="49.5128318" lon="6.7394715"/><trkpt lat="49.5127975" lon="6.7395308"/><trkpt lat="49.5127583" lon="6.739477"/><trkpt lat="49.5127422" lon="6.7395047"/><trkpt lat="49.5127189" lon="6.7394728"/><trkpt lat="49.5124478" lon="6.7399421"/></trkseg></trk><trk><name>M. Emmerich Möbel</name><desc>addr:city=Nohfelden
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66625
+addr:street=Kladenfloß
+building=yes
+name=M. Emmerich Möbel
+shop=furniture
+id=way/355780535</desc><trkseg><trkpt lat="49.6052" lon="7.047021"/><trkpt lat="49.6053675" lon="7.0470846"/><trkpt lat="49.6054597" lon="7.0465068"/><trkpt lat="49.6052922" lon="7.0464432"/><trkpt lat="49.6052" lon="7.047021"/></trkseg></trk><trk><name>Braun Möbel-Center</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66424
+addr:street=Theo-Greiner-Straße
+building=yes
+name=Braun Möbel-Center
+opening_hours=Mo-Fr 09:30-19:00; Sa 09:30-18:00
+phone=+49 6848 70060
+shop=furniture
+website=https://www.braun-moebel.de/standorte/haus-homburg/
+wheelchair=limited
+id=way/364971992</desc><trkseg><trkpt lat="49.2736073" lon="7.3138169"/><trkpt lat="49.2739447" lon="7.3136296"/><trkpt lat="49.2741003" lon="7.3135432"/><trkpt lat="49.2740864" lon="7.3134842"/><trkpt lat="49.2740227" lon="7.3132149"/><trkpt lat="49.2735297" lon="7.3134887"/><trkpt lat="49.2736073" lon="7.3138169"/></trkseg></trk><trk><name>Möbelpark</name><desc>addr:city=Losheim am See
+addr:country=DE
+addr:housenumber=205
+addr:postcode=66679
+addr:street=Saarbrücker Straße
+building=yes
+name=Möbelpark
+shop=furniture
+id=way/371229194</desc><trkseg><trkpt lat="49.5040216" lon="6.7584979"/><trkpt lat="49.5044567" lon="6.7590092"/><trkpt lat="49.5044842" lon="6.7589537"/><trkpt lat="49.5045675" lon="6.7590516"/><trkpt lat="49.504559" lon="6.7590689"/><trkpt lat="49.5046812" lon="6.7592125"/><trkpt lat="49.5047967" lon="6.7589794"/><trkpt lat="49.5044566" lon="6.7585797"/><trkpt lat="49.5044937" lon="6.7585049"/><trkpt lat="49.5041932" lon="6.7581517"/><trkpt lat="49.5040216" lon="6.7584979"/></trkseg></trk><trk><name>Küchenstudio Müller</name><desc>addr:city=Tholey
+addr:country=DE
+addr:housenumber=13
+addr:postcode=66636
+addr:street=Gewerbegebiet Primstalstraße
+building=yes
+contact:website=http://www.kuechenstudiomueller.de/
+name=Küchenstudio Müller
+shop=furniture
+type=kitchen
+id=way/397315152</desc><trkseg><trkpt lat="49.5054031" lon="7.0102595"/><trkpt lat="49.5051463" lon="7.009857"/><trkpt lat="49.505158" lon="7.0098392"/><trkpt lat="49.5050402" lon="7.0096545"/><trkpt lat="49.5049073" lon="7.0098556"/><trkpt lat="49.505282" lon="7.0104428"/><trkpt lat="49.5054031" lon="7.0102595"/></trkseg></trk><trk><name>Roller Warenausgabe</name><desc>building=yes
+name=Roller Warenausgabe
+shop=furniture
+wheelchair=no
+id=way/430533259</desc><trkseg><trkpt lat="49.3482864" lon="6.7542662"/><trkpt lat="49.3486429" lon="6.754572"/><trkpt lat="49.3487232" lon="6.7543354"/><trkpt lat="49.3484855" lon="6.7537413"/><trkpt lat="49.3482804" lon="6.7532121"/><trkpt lat="49.3480837" lon="6.7537915"/><trkpt lat="49.3483766" lon="6.7540285"/><trkpt lat="49.3482864" lon="6.7542662"/></trkseg></trk><trk><name>Mömax</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=68
+addr:postcode=66117
+addr:street=Gersweilerstraße
+brand=Mömax
+brand:wikidata=Q56388481
+building=commercial
+contact:email=fil.ds@moemax.de
+contact:phone=+49 681 3839410
+contact:website=https://www.moemax.de/filiale/moemax-saarbruecken/DS
+name=Mömax
+opening_hours=Mo-Fr 10:00-20:00; Sa 09:00-19:00
+payment:cash=yes
+payment:cryptocurrencies=no
+payment:mastercard=yes
+payment:paypal=yes
+payment:visa=yes
+roof:shape=flat
+shop=furniture
+wheelchair=yes
+id=way/454674212</desc><trkseg><trkpt lat="49.2326548" lon="6.9654054"/><trkpt lat="49.2326572" lon="6.9654052"/><trkpt lat="49.2326673" lon="6.9654042"/><trkpt lat="49.2327375" lon="6.9653971"/><trkpt lat="49.2328522" lon="6.9653855"/><trkpt lat="49.2328951" lon="6.9653812"/><trkpt lat="49.2330306" lon="6.9653675"/><trkpt lat="49.2330198" lon="6.965116"/><trkpt lat="49.2334001" lon="6.9650776"/><trkpt lat="49.2333665" lon="6.9642971"/><trkpt lat="49.2333562" lon="6.9642981"/><trkpt lat="49.2329317" lon="6.9643409"/><trkpt lat="49.2329286" lon="6.9643413"/><trkpt lat="49.2327778" lon="6.9643565"/><trkpt lat="49.2326715" lon="6.9643672"/><trkpt lat="49.2326104" lon="6.9643734"/><trkpt lat="49.2326244" lon="6.9647004"/><trkpt lat="49.2326265" lon="6.964748"/><trkpt lat="49.2326548" lon="6.9654054"/></trkseg></trk><trk><name>Maurer</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=94
+addr:postcode=66111
+addr:street=Dudweilerstraße
+building=yes
+level=0
+name=Maurer
+opening_hours=Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH,Su closed
+shop=furniture
+wheelchair=no
+id=way/457492945</desc><trkseg><trkpt lat="49.2409413" lon="7.0009503"/><trkpt lat="49.2411101" lon="7.0010929"/><trkpt lat="49.241123" lon="7.0010593"/><trkpt lat="49.2411396" lon="7.0010132"/><trkpt lat="49.2412258" lon="7.000774"/><trkpt lat="49.2411955" lon="7.00075"/><trkpt lat="49.2411735" lon="7.00073"/><trkpt lat="49.2411478" lon="7.0008011"/><trkpt lat="49.2410966" lon="7.0007577"/><trkpt lat="49.2410314" lon="7.0007026"/><trkpt lat="49.2409413" lon="7.0009503"/></trkseg></trk><trk><name>Saar Möbel</name><desc>building=commercial
+building:levels=1
+contact:phone=+49 1573 5598171
+level=0
+name=Saar Möbel
+opening_hours:signed=no
+roof:shape=flat
+shop=furniture
+website=https://www.facebook.com/saar.mobel/
+wheelchair=yes
+id=way/499015487</desc><trkseg><trkpt lat="49.251933" lon="6.9627818"/><trkpt lat="49.2519048" lon="6.9626482"/><trkpt lat="49.2518894" lon="6.9626555"/><trkpt lat="49.2518377" lon="6.9626808"/><trkpt lat="49.2518678" lon="6.9628251"/><trkpt lat="49.2518444" lon="6.9628393"/><trkpt lat="49.2518811" lon="6.9630062"/><trkpt lat="49.2519407" lon="6.9630106"/><trkpt lat="49.2519315" lon="6.9629615"/><trkpt lat="49.2519425" lon="6.9629567"/><trkpt lat="49.2519388" lon="6.9629364"/><trkpt lat="49.2519647" lon="6.9629256"/><trkpt lat="49.251933" lon="6.9627818"/></trkseg></trk><trk><name>Kraus</name><desc>addr:city=Wadgassen
+addr:country=DE
+addr:housenumber=94a
+addr:postcode=66787
+addr:street=Provinzialstraße
+building=yes
+name=Kraus
+shop=furniture
+id=way/525137725</desc><trkseg><trkpt lat="49.2668734" lon="6.8020955"/><trkpt lat="49.2669052" lon="6.801949"/><trkpt lat="49.2667457" lon="6.8018993"/><trkpt lat="49.2666897" lon="6.8018749"/><trkpt lat="49.2666717" lon="6.8019657"/><trkpt lat="49.2666637" lon="6.8020026"/><trkpt lat="49.2666944" lon="6.8020162"/><trkpt lat="49.2668734" lon="6.8020955"/></trkseg></trk><trk><name>Matratzen Concord</name><desc>building=yes
+furniture=martrace
+name=Matratzen Concord
+shop=furniture
+id=way/702699261</desc><trkseg><trkpt lat="49.2972048" lon="6.7782897"/><trkpt lat="49.2972067" lon="6.7781302"/><trkpt lat="49.297207" lon="6.7779842"/><trkpt lat="49.2970653" lon="6.7779824"/><trkpt lat="49.2970632" lon="6.7783562"/><trkpt lat="49.2972049" lon="6.778358"/><trkpt lat="49.2972048" lon="6.7782897"/></trkseg></trk><trk><name>Möbel Martin</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=8
+addr:postcode=66121
+addr:street=An der Römerbrücke
+building=yes
+name=Möbel Martin
+opening_hours=Mo-Fr 10:00-20:00; Sa 09:30-20:00
+shop=furniture
+id=way/749107173</desc><trkseg><trkpt lat="49.225295" lon="7.0227059"/><trkpt lat="49.2251912" lon="7.0224146"/><trkpt lat="49.2251679" lon="7.0223493"/><trkpt lat="49.2250675" lon="7.0220677"/><trkpt lat="49.2250599" lon="7.0220464"/><trkpt lat="49.2250539" lon="7.0220296"/><trkpt lat="49.2250323" lon="7.0219691"/><trkpt lat="49.2250262" lon="7.0219517"/><trkpt lat="49.2250207" lon="7.0219363"/><trkpt lat="49.2250149" lon="7.0219199"/><trkpt lat="49.2249044" lon="7.0220122"/><trkpt lat="49.2248746" lon="7.0220371"/><trkpt lat="49.2247518" lon="7.0221397"/><trkpt lat="49.2247251" lon="7.022162"/><trkpt lat="49.224643" lon="7.0222298"/><trkpt lat="49.2246131" lon="7.0222546"/><trkpt lat="49.2246614" lon="7.0223902"/><trkpt lat="49.2245437" lon="7.0224896"/><trkpt lat="49.2240946" lon="7.0228579"/><trkpt lat="49.2241219" lon="7.0229335"/><trkpt lat="49.224138" lon="7.0229787"/><trkpt lat="49.2240352" lon="7.0230643"/><trkpt lat="49.224024" lon="7.023074"/><trkpt lat="49.2239096" lon="7.0231706"/><trkpt lat="49.2239043" lon="7.0231746"/><trkpt lat="49.223992" lon="7.0234207"/><trkpt lat="49.2240204" lon="7.0235004"/><trkpt lat="49.2240601" lon="7.0236116"/><trkpt lat="49.2240827" lon="7.0236751"/><trkpt lat="49.2241025" lon="7.0236585"/><trkpt lat="49.2241959" lon="7.0235805"/><trkpt lat="49.2243297" lon="7.0234687"/><trkpt lat="49.224438" lon="7.0237725"/><trkpt lat="49.2244526" lon="7.0238134"/><trkpt lat="49.2244672" lon="7.0238544"/><trkpt lat="49.2244818" lon="7.0238954"/><trkpt lat="49.2244935" lon="7.0239283"/><trkpt lat="49.2245923" lon="7.0238429"/><trkpt lat="49.2246096" lon="7.0238285"/><trkpt lat="49.2246732" lon="7.0237756"/><trkpt lat="49.2252627" lon="7.0232856"/><trkpt lat="49.2252884" lon="7.0232641"/><trkpt lat="49.2251367" lon="7.0228383"/><trkpt lat="49.225295" lon="7.0227059"/></trkseg></trk><trk><name>Roller</name><desc>addr:city=Sankt Ingbert
+addr:country=DE
+addr:housenumber=78
+addr:postcode=66386
+addr:street=Oststraße
+brand=Roller
+brand:wikidata=Q1621286
+building=commercial
+name=Roller
+shop=furniture
+wheelchair=limited
+id=way/814275200</desc><trkseg><trkpt lat="49.2709639" lon="7.1292159"/><trkpt lat="49.2712718" lon="7.1297996"/><trkpt lat="49.2713382" lon="7.1297174"/><trkpt lat="49.2713658" lon="7.1297698"/><trkpt lat="49.2716436" lon="7.1294256"/><trkpt lat="49.2716215" lon="7.1293836"/><trkpt lat="49.2719529" lon="7.1289729"/><trkpt lat="49.2717987" lon="7.1286805"/><trkpt lat="49.2716101" lon="7.1289142"/><trkpt lat="49.2714509" lon="7.1286124"/><trkpt lat="49.2709639" lon="7.1292159"/></trkseg></trk></gpx>

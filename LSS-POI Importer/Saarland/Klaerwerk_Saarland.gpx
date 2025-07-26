@@ -1,0 +1,515 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.4036793" lon="7.2414533"><name>Kläranlage Eichelthalermühle</name><desc>man_made=wastewater_plant
+name=Kläranlage Eichelthalermühle
+operator=EVS
+operator:wikidata=Q1345464
+id=node/3239130490</desc></wpt><wpt lat="49.3151573" lon="7.2543246"><name>node/7540439818</name><desc>man_made=wastewater_plant
+id=node/7540439818</desc></wpt><trk><name>Kläranlage Asweiler-Eitzweiler</name><desc>man_made=wastewater_plant
+name=Kläranlage Asweiler-Eitzweiler
+operator=EVS
+operator:wikidata=Q1345464
+type=multipolygon
+id=relation/3425009</desc><trkseg><trkpt lat="49.5528232" lon="7.1786367"/><trkpt lat="49.5526191" lon="7.1790587"/><trkpt lat="49.5526389" lon="7.1791374"/><trkpt lat="49.5525223" lon="7.1793717"/><trkpt lat="49.552567" lon="7.1794359"/><trkpt lat="49.5524785" lon="7.1796445"/><trkpt lat="49.5526722" lon="7.1798628"/><trkpt lat="49.5527074" lon="7.1798602"/><trkpt lat="49.5528721" lon="7.1798483"/><trkpt lat="49.5529127" lon="7.1797761"/><trkpt lat="49.5529241" lon="7.1796638"/><trkpt lat="49.5530064" lon="7.1795129"/><trkpt lat="49.5529241" lon="7.17894"/><trkpt lat="49.5529772" lon="7.1788276"/><trkpt lat="49.5529475" lon="7.1787926"/><trkpt lat="49.5528232" lon="7.1786367"/></trkseg><trkseg><trkpt lat="49.5527034" lon="7.1793396"/><trkpt lat="49.552706" lon="7.1793613"/><trkpt lat="49.5527039" lon="7.1793952"/><trkpt lat="49.5526946" lon="7.1794262"/><trkpt lat="49.5526792" lon="7.1794507"/><trkpt lat="49.5526595" lon="7.1794659"/><trkpt lat="49.5526375" lon="7.1794703"/><trkpt lat="49.5526159" lon="7.1794632"/><trkpt lat="49.552597" lon="7.1794455"/><trkpt lat="49.552583" lon="7.1794191"/><trkpt lat="49.5525754" lon="7.1793871"/><trkpt lat="49.5525751" lon="7.179353"/><trkpt lat="49.5525821" lon="7.1793207"/><trkpt lat="49.5525957" lon="7.1792938"/><trkpt lat="49.5526143" lon="7.1792753"/><trkpt lat="49.5526358" lon="7.1792673"/><trkpt lat="49.5526578" lon="7.1792707"/><trkpt lat="49.5526778" lon="7.1792852"/><trkpt lat="49.5526936" lon="7.179309"/><trkpt lat="49.5527034" lon="7.1793396"/></trkseg><trkseg><trkpt lat="49.5529064" lon="7.1796269"/><trkpt lat="49.5529085" lon="7.179667"/><trkpt lat="49.5529011" lon="7.1797203"/><trkpt lat="49.5528827" lon="7.1797668"/><trkpt lat="49.5528554" lon="7.1798014"/><trkpt lat="49.5528223" lon="7.1798203"/><trkpt lat="49.5527869" lon="7.1798213"/><trkpt lat="49.5527533" lon="7.1798043"/><trkpt lat="49.5527253" lon="7.1797712"/><trkpt lat="49.5527058" lon="7.1797257"/><trkpt lat="49.5526971" lon="7.1796729"/><trkpt lat="49.5527002" lon="7.1796186"/><trkpt lat="49.5527148" lon="7.1795689"/><trkpt lat="49.5527391" lon="7.1795294"/><trkpt lat="49.5527705" lon="7.1795043"/><trkpt lat="49.5528055" lon="7.1794966"/><trkpt lat="49.5528402" lon="7.1795071"/><trkpt lat="49.5528707" lon="7.1795346"/><trkpt lat="49.5528936" lon="7.1795761"/><trkpt lat="49.5529064" lon="7.1796269"/></trkseg></trk><trk><name>Kläranlage Mosberg-Richweiler</name><desc>man_made=wastewater_plant
+name=Kläranlage Mosberg-Richweiler
+operator=EVS
+operator:wikidata=Q1345464
+type=multipolygon
+id=relation/3438281</desc><trkseg><trkpt lat="49.5537954" lon="7.1663604"/><trkpt lat="49.5538255" lon="7.1662888"/><trkpt lat="49.5538042" lon="7.1661988"/><trkpt lat="49.5537772" lon="7.1662085"/><trkpt lat="49.5536868" lon="7.1662481"/><trkpt lat="49.5536442" lon="7.1661998"/><trkpt lat="49.5534396" lon="7.1663207"/><trkpt lat="49.553417" lon="7.166402"/><trkpt lat="49.5534885" lon="7.1667783"/><trkpt lat="49.5535381" lon="7.166788"/><trkpt lat="49.553717" lon="7.166698"/><trkpt lat="49.5537659" lon="7.1665626"/><trkpt lat="49.5538124" lon="7.1664368"/><trkpt lat="49.5538048" lon="7.1664026"/><trkpt lat="49.5537954" lon="7.1663604"/></trkseg><trkseg><trkpt lat="49.5536804" lon="7.1662847"/><trkpt lat="49.5536954" lon="7.1663331"/><trkpt lat="49.5536854" lon="7.1664095"/><trkpt lat="49.5535417" lon="7.1664937"/><trkpt lat="49.5534632" lon="7.1664995"/><trkpt lat="49.5534325" lon="7.1664163"/><trkpt lat="49.5534594" lon="7.1663447"/><trkpt lat="49.5536427" lon="7.1662373"/><trkpt lat="49.5536804" lon="7.1662847"/></trkseg></trk><trk><name>Kläranlage Steinbach</name><desc>man_made=wastewater_plant
+name=Kläranlage Steinbach
+operator=EVS
+operator:wikidata=Q1345464
+type=multipolygon
+id=relation/4242298</desc><trkseg><trkpt lat="49.402523" lon="7.2170415"/><trkpt lat="49.4025294" lon="7.2169638"/><trkpt lat="49.4023681" lon="7.2169473"/><trkpt lat="49.4021746" lon="7.2169952"/><trkpt lat="49.4021757" lon="7.217215"/><trkpt lat="49.402524" lon="7.2172166"/><trkpt lat="49.402523" lon="7.2170415"/></trkseg><trkseg><trkpt lat="49.4022914" lon="7.2171128"/><trkpt lat="49.4022937" lon="7.2171444"/><trkpt lat="49.4022894" lon="7.2171651"/><trkpt lat="49.4022808" lon="7.2171825"/><trkpt lat="49.402269" lon="7.2171944"/><trkpt lat="49.4022552" lon="7.2171996"/><trkpt lat="49.4022411" lon="7.2171975"/><trkpt lat="49.4022283" lon="7.2171882"/><trkpt lat="49.4022182" lon="7.2171729"/><trkpt lat="49.402212" lon="7.2171533"/><trkpt lat="49.4022105" lon="7.2171317"/><trkpt lat="49.4022137" lon="7.2171105"/><trkpt lat="49.4022213" lon="7.2170922"/><trkpt lat="49.4022325" lon="7.2170788"/><trkpt lat="49.402246" lon="7.217072"/><trkpt lat="49.4022601" lon="7.2170724"/><trkpt lat="49.4022734" lon="7.21708"/><trkpt lat="49.4022842" lon="7.2170941"/><trkpt lat="49.4022914" lon="7.2171128"/></trkseg></trk><trk><name>Kläranlage Bliesen</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Bliesen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/25837011</desc><trkseg><trkpt lat="49.4905299" lon="7.1267362"/><trkpt lat="49.4900938" lon="7.1258389"/><trkpt lat="49.489873" lon="7.1253615"/><trkpt lat="49.4897323" lon="7.1253103"/><trkpt lat="49.4895958" lon="7.1254243"/><trkpt lat="49.4895659" lon="7.1256292"/><trkpt lat="49.4895307" lon="7.1269987"/><trkpt lat="49.4896555" lon="7.1273102"/><trkpt lat="49.489757" lon="7.1274084"/><trkpt lat="49.4902599" lon="7.1271157"/><trkpt lat="49.4905299" lon="7.1267362"/></trkseg></trk><trk><name>Kläranlage Grügelborn</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Grügelborn
+operator=EVS
+operator:wikidata=Q1345464
+id=way/25929892</desc><trkseg><trkpt lat="49.5117485" lon="7.2155854"/><trkpt lat="49.511618" lon="7.2156428"/><trkpt lat="49.5115833" lon="7.2156369"/><trkpt lat="49.5115466" lon="7.2156306"/><trkpt lat="49.5115172" lon="7.2157863"/><trkpt lat="49.5115436" lon="7.2159833"/><trkpt lat="49.5116377" lon="7.2161192"/><trkpt lat="49.5117742" lon="7.2160045"/><trkpt lat="49.511805" lon="7.2159148"/><trkpt lat="49.5117904" lon="7.2157499"/><trkpt lat="49.5117485" lon="7.2155854"/></trkseg></trk><trk><name>Kläranlage Eschringen</name><desc>man_made=wastewater_plant
+name=Kläranlage Eschringen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/26505014</desc><trkseg><trkpt lat="49.187831" lon="7.0857561"/><trkpt lat="49.1875788" lon="7.0860707"/><trkpt lat="49.1880793" lon="7.0873104"/><trkpt lat="49.1884962" lon="7.0879138"/><trkpt lat="49.1886749" lon="7.0880234"/><trkpt lat="49.1888081" lon="7.0882272"/><trkpt lat="49.18881" lon="7.0884869"/><trkpt lat="49.1889317" lon="7.0889439"/><trkpt lat="49.1891466" lon="7.0887887"/><trkpt lat="49.1885034" lon="7.0868712"/><trkpt lat="49.1885656" lon="7.0865252"/><trkpt lat="49.1881121" lon="7.0857262"/><trkpt lat="49.1881946" lon="7.0855864"/><trkpt lat="49.1881637" lon="7.0855296"/><trkpt lat="49.1881539" lon="7.0854371"/><trkpt lat="49.1880013" lon="7.0856003"/><trkpt lat="49.187831" lon="7.0857561"/></trkseg></trk><trk><name>Kläranlage Bubach-Calmesweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Bubach-Calmesweiler
+id=way/27280947</desc><trkseg><trkpt lat="49.4130768" lon="6.9320379"/><trkpt lat="49.4132719" lon="6.9330358"/><trkpt lat="49.4133592" lon="6.9333027"/><trkpt lat="49.4134222" lon="6.9335011"/><trkpt lat="49.4135682" lon="6.9335043"/><trkpt lat="49.4138151" lon="6.9335734"/><trkpt lat="49.4140015" lon="6.9335894"/><trkpt lat="49.4140911" lon="6.9335738"/><trkpt lat="49.414411" lon="6.9334567"/><trkpt lat="49.4145314" lon="6.9333413"/><trkpt lat="49.414568" lon="6.9331858"/><trkpt lat="49.4143236" lon="6.9325264"/><trkpt lat="49.4141545" lon="6.9321826"/><trkpt lat="49.4140093" lon="6.9320283"/><trkpt lat="49.413748" lon="6.9319538"/><trkpt lat="49.4133804" lon="6.93198"/><trkpt lat="49.4133451" lon="6.9320038"/><trkpt lat="49.4133152" lon="6.932024"/><trkpt lat="49.4131493" lon="6.9320337"/><trkpt lat="49.4130768" lon="6.9320379"/></trkseg></trk><trk><name>Kläranlage Püttlingen</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Püttlingen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/28957914</desc><trkseg><trkpt lat="49.2795878" lon="6.8809508"/><trkpt lat="49.2794803" lon="6.8806746"/><trkpt lat="49.2793257" lon="6.8802272"/><trkpt lat="49.2788751" lon="6.8793408"/><trkpt lat="49.2787873" lon="6.879454"/><trkpt lat="49.2786823" lon="6.879623"/><trkpt lat="49.2786175" lon="6.8801917"/><trkpt lat="49.2785281" lon="6.8804606"/><trkpt lat="49.2784547" lon="6.8817793"/><trkpt lat="49.2792125" lon="6.881761"/><trkpt lat="49.2801018" lon="6.8817705"/><trkpt lat="49.2801716" lon="6.8815974"/><trkpt lat="49.2801963" lon="6.8813953"/><trkpt lat="49.2800368" lon="6.8813238"/><trkpt lat="49.2798513" lon="6.8812084"/><trkpt lat="49.2797235" lon="6.8810835"/><trkpt lat="49.2795878" lon="6.8809508"/></trkseg></trk><trk><name>Kläranlage Ommersheim</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Ommersheim
+operator=EVS
+operator:wikidata=Q1345464
+id=way/31409820</desc><trkseg><trkpt lat="49.2144572" lon="7.1427783"/><trkpt lat="49.2140629" lon="7.1429751"/><trkpt lat="49.214089" lon="7.1430978"/><trkpt lat="49.2142985" lon="7.1440811"/><trkpt lat="49.2144682" lon="7.1439964"/><trkpt lat="49.2145118" lon="7.144201"/><trkpt lat="49.2147363" lon="7.1440889"/><trkpt lat="49.2144572" lon="7.1427783"/></trkseg></trk><trk><name>Kläranlage Aßweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Aßweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/35547693</desc><trkseg><trkpt lat="49.2080954" lon="7.1889003"/><trkpt lat="49.2081997" lon="7.1886843"/><trkpt lat="49.2082181" lon="7.1886434"/><trkpt lat="49.2078781" lon="7.1880729"/><trkpt lat="49.2077434" lon="7.1874779"/><trkpt lat="49.2076123" lon="7.1872795"/><trkpt lat="49.2072177" lon="7.1877956"/><trkpt lat="49.207723" lon="7.1887315"/><trkpt lat="49.2080954" lon="7.1889003"/></trkseg></trk><trk><name>Kläranlage Thailen</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Thailen
+operator=Entsorgungsverband Saar
+operator:short=EVS
+operator:wikidata=Q1345464
+id=way/36991788</desc><trkseg><trkpt lat="49.5310875" lon="6.8338678"/><trkpt lat="49.5310601" lon="6.8338189"/><trkpt lat="49.5308656" lon="6.8341574"/><trkpt lat="49.5306817" lon="6.8339474"/><trkpt lat="49.5304192" lon="6.8342793"/><trkpt lat="49.530219" lon="6.8345324"/><trkpt lat="49.5307979" lon="6.8354609"/><trkpt lat="49.5313919" lon="6.834527"/><trkpt lat="49.5313335" lon="6.8343245"/><trkpt lat="49.5310875" lon="6.8338678"/></trkseg></trk><trk><name>Pumpstation</name><desc>man_made=wastewater_plant
+name=Pumpstation
+id=way/39398334</desc><trkseg><trkpt lat="49.4170885" lon="6.6422831"/><trkpt lat="49.4170465" lon="6.6423002"/><trkpt lat="49.4170569" lon="6.6423606"/><trkpt lat="49.4170988" lon="6.6423436"/><trkpt lat="49.4170885" lon="6.6422831"/></trkseg></trk><trk><name>Kläranlage Brebach</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Brebach
+name:fr=Station d'épuration de Brebach
+operator=EVS
+operator:wikidata=Q1345464
+id=way/48627838</desc><trkseg><trkpt lat="49.2108582" lon="7.0266724"/><trkpt lat="49.2103238" lon="7.0269836"/><trkpt lat="49.2098874" lon="7.0279067"/><trkpt lat="49.2098556" lon="7.027979"/><trkpt lat="49.2100209" lon="7.0285"/><trkpt lat="49.2100593" lon="7.028959"/><trkpt lat="49.2098262" lon="7.0293913"/><trkpt lat="49.2098366" lon="7.029452"/><trkpt lat="49.2098619" lon="7.0295061"/><trkpt lat="49.2098996" lon="7.029548"/><trkpt lat="49.2099603" lon="7.0295839"/><trkpt lat="49.2100741" lon="7.0296076"/><trkpt lat="49.2101751" lon="7.0296038"/><trkpt lat="49.210217" lon="7.0295768"/><trkpt lat="49.2102191" lon="7.0295275"/><trkpt lat="49.2102576" lon="7.0295231"/><trkpt lat="49.2102925" lon="7.0295167"/><trkpt lat="49.2102999" lon="7.0295506"/><trkpt lat="49.2110179" lon="7.029487"/><trkpt lat="49.2111868" lon="7.0294474"/><trkpt lat="49.2112328" lon="7.0281071"/><trkpt lat="49.2112489" lon="7.0273121"/><trkpt lat="49.2111415" lon="7.0271799"/><trkpt lat="49.2110918" lon="7.0269268"/><trkpt lat="49.2109808" lon="7.0267339"/><trkpt lat="49.2108582" lon="7.0266724"/></trkseg></trk><trk><name>Kläranlage Lautenbach</name><desc>man_made=wastewater_plant
+name=Kläranlage Lautenbach
+operator=EVS
+operator:wikidata=Q1345464
+id=way/49336629</desc><trkseg><trkpt lat="49.4150972" lon="7.2585936"/><trkpt lat="49.4149434" lon="7.2583108"/><trkpt lat="49.4145283" lon="7.2578345"/><trkpt lat="49.4144123" lon="7.2579719"/><trkpt lat="49.4142037" lon="7.2583951"/><trkpt lat="49.4146767" lon="7.2588558"/><trkpt lat="49.4148782" lon="7.2590845"/><trkpt lat="49.4150972" lon="7.2585936"/></trkseg></trk><trk><name>Kläranlage Wittersheim</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Wittersheim
+operator=EVS
+operator:wikidata=Q1345464
+id=way/50950498</desc><trkseg><trkpt lat="49.1776896" lon="7.1608582"/><trkpt lat="49.1776309" lon="7.1607262"/><trkpt lat="49.1774947" lon="7.1605633"/><trkpt lat="49.1774198" lon="7.1605332"/><trkpt lat="49.177283" lon="7.1605341"/><trkpt lat="49.1769706" lon="7.1604292"/><trkpt lat="49.1769" lon="7.1603197"/><trkpt lat="49.1767926" lon="7.1602609"/><trkpt lat="49.1766066" lon="7.1603134"/><trkpt lat="49.1765673" lon="7.1604524"/><trkpt lat="49.1767504" lon="7.1607481"/><trkpt lat="49.1767135" lon="7.1610144"/><trkpt lat="49.1777598" lon="7.1613385"/><trkpt lat="49.1776896" lon="7.1608582"/></trkseg></trk><trk><name>Kläranlage Dagstuhl</name><desc>man_made=wastewater_plant
+name=Kläranlage Dagstuhl
+operator=EVS
+operator:wikidata=Q1345464
+id=way/51817256</desc><trkseg><trkpt lat="49.5248937" lon="6.8908321"/><trkpt lat="49.5248125" lon="6.8901586"/><trkpt lat="49.5248128" lon="6.8890782"/><trkpt lat="49.5235953" lon="6.8891551"/><trkpt lat="49.5235742" lon="6.8891929"/><trkpt lat="49.5237503" lon="6.8908729"/><trkpt lat="49.5245969" lon="6.8908827"/><trkpt lat="49.5246525" lon="6.8907428"/><trkpt lat="49.5247132" lon="6.8908821"/><trkpt lat="49.5248937" lon="6.8908321"/></trkseg></trk><trk><name>Kläranlage Erfweiler-Ehlingen</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Erfweiler-Ehlingen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/52008233</desc><trkseg><trkpt lat="49.1914994" lon="7.1688474"/><trkpt lat="49.1914001" lon="7.1688722"/><trkpt lat="49.1913599" lon="7.1688862"/><trkpt lat="49.1914396" lon="7.1693355"/><trkpt lat="49.1913635" lon="7.1695657"/><trkpt lat="49.1914505" lon="7.1699428"/><trkpt lat="49.1915212" lon="7.1702756"/><trkpt lat="49.1915465" lon="7.1705168"/><trkpt lat="49.1916209" lon="7.1705557"/><trkpt lat="49.191726" lon="7.1705141"/><trkpt lat="49.1918583" lon="7.1703837"/><trkpt lat="49.1921081" lon="7.1701634"/><trkpt lat="49.1921513" lon="7.1698823"/><trkpt lat="49.1914994" lon="7.1688474"/></trkseg></trk><trk><name>Kläranlage Büschfeld</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Büschfeld
+operator=EVS
+operator:wikidata=Q1345464
+id=way/58951005</desc><trkseg><trkpt lat="49.4813519" lon="6.8761252"/><trkpt lat="49.4813993" lon="6.8761817"/><trkpt lat="49.4814488" lon="6.8760873"/><trkpt lat="49.4814598" lon="6.8760688"/><trkpt lat="49.4816073" lon="6.875806"/><trkpt lat="49.4818038" lon="6.8752311"/><trkpt lat="49.4811169" lon="6.8749086"/><trkpt lat="49.4808846" lon="6.8755513"/><trkpt lat="49.4813519" lon="6.8761252"/></trkseg></trk><trk><name>Kläranlage Düppenweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Düppenweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/70560993</desc><trkseg><trkpt lat="49.4096627" lon="6.7575785"/><trkpt lat="49.4096993" lon="6.757527"/><trkpt lat="49.409907" lon="6.7572526"/><trkpt lat="49.4093797" lon="6.756295"/><trkpt lat="49.4091509" lon="6.7566185"/><trkpt lat="49.4096627" lon="6.7575785"/></trkseg></trk><trk><name>Kläranlage Quierschied</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Quierschied
+operator=EVS
+operator:wikidata=Q1345464
+id=way/71911508</desc><trkseg><trkpt lat="49.3102007" lon="7.0392415"/><trkpt lat="49.3104641" lon="7.0396174"/><trkpt lat="49.3105312" lon="7.0395107"/><trkpt lat="49.3107517" lon="7.0397973"/><trkpt lat="49.3108079" lon="7.0397188"/><trkpt lat="49.3108283" lon="7.0398801"/><trkpt lat="49.3109649" lon="7.0399861"/><trkpt lat="49.3111105" lon="7.0398261"/><trkpt lat="49.3111307" lon="7.0397234"/><trkpt lat="49.311138" lon="7.0396482"/><trkpt lat="49.3110959" lon="7.0394975"/><trkpt lat="49.3110196" lon="7.0394475"/><trkpt lat="49.3109968" lon="7.0394259"/><trkpt lat="49.3109459" lon="7.0393833"/><trkpt lat="49.3109283" lon="7.0392384"/><trkpt lat="49.3108527" lon="7.039129"/><trkpt lat="49.3107844" lon="7.0391145"/><trkpt lat="49.3107076" lon="7.0390286"/><trkpt lat="49.3106816" lon="7.038936"/><trkpt lat="49.3106471" lon="7.0388644"/><trkpt lat="49.3104999" lon="7.0387641"/><trkpt lat="49.3104285" lon="7.0386893"/><trkpt lat="49.3101096" lon="7.038279"/><trkpt lat="49.3100151" lon="7.0381191"/><trkpt lat="49.3098995" lon="7.0379662"/><trkpt lat="49.3098349" lon="7.0380688"/><trkpt lat="49.3098067" lon="7.0381139"/><trkpt lat="49.3102007" lon="7.0392415"/></trkseg></trk><trk><name>Kläranlage Nohfelden</name><desc>man_made=wastewater_plant
+name=Kläranlage Nohfelden
+operator=EVS
+operator:wikidata=Q1345464
+id=way/72519527</desc><trkseg><trkpt lat="49.5901661" lon="7.1398992"/><trkpt lat="49.5916426" lon="7.1399844"/><trkpt lat="49.5916549" lon="7.1398304"/><trkpt lat="49.5920753" lon="7.1398552"/><trkpt lat="49.5921003" lon="7.13944"/><trkpt lat="49.5918724" lon="7.1392678"/><trkpt lat="49.5917872" lon="7.1392034"/><trkpt lat="49.5914479" lon="7.1392312"/><trkpt lat="49.5912198" lon="7.1392673"/><trkpt lat="49.5909055" lon="7.139317"/><trkpt lat="49.5908707" lon="7.1393213"/><trkpt lat="49.5908446" lon="7.1393088"/><trkpt lat="49.5908087" lon="7.1392776"/><trkpt lat="49.5906875" lon="7.1392461"/><trkpt lat="49.5905117" lon="7.1393428"/><trkpt lat="49.5903452" lon="7.1395312"/><trkpt lat="49.590213" lon="7.1397481"/><trkpt lat="49.5901661" lon="7.1398992"/></trkseg></trk><trk><name>Kläranlage Gehweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Gehweiler
+operator=Entsorgungsverband Saar
+id=way/73904823</desc><trkseg><trkpt lat="49.5669583" lon="6.8986655"/><trkpt lat="49.5669478" lon="6.9000456"/><trkpt lat="49.5671218" lon="6.9002173"/><trkpt lat="49.5674558" lon="6.9002119"/><trkpt lat="49.5674523" lon="6.9004855"/><trkpt lat="49.567675" lon="6.9004909"/><trkpt lat="49.5677703" lon="6.8987149"/><trkpt lat="49.5677529" lon="6.8986508"/><trkpt lat="49.5676999" lon="6.8986195"/><trkpt lat="49.5669583" lon="6.8986655"/></trkseg></trk><trk><name>Kläranlage Wellesweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Wellesweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/84051696</desc><trkseg><trkpt lat="49.3442624" lon="7.227694"/><trkpt lat="49.3443943" lon="7.2274942"/><trkpt lat="49.3440271" lon="7.2268668"/><trkpt lat="49.3439458" lon="7.2269171"/><trkpt lat="49.3437689" lon="7.2271301"/><trkpt lat="49.3436047" lon="7.2273263"/><trkpt lat="49.3434043" lon="7.227494"/><trkpt lat="49.3433567" lon="7.2275021"/><trkpt lat="49.3431438" lon="7.2275082"/><trkpt lat="49.3428515" lon="7.227228"/><trkpt lat="49.3422671" lon="7.2286919"/><trkpt lat="49.3426658" lon="7.22921"/><trkpt lat="49.3434145" lon="7.2297655"/><trkpt lat="49.3440301" lon="7.2299057"/><trkpt lat="49.3441272" lon="7.2298032"/><trkpt lat="49.3442659" lon="7.2298748"/><trkpt lat="49.3443327" lon="7.2297684"/><trkpt lat="49.3442797" lon="7.2296774"/><trkpt lat="49.3445473" lon="7.2292833"/><trkpt lat="49.3448747" lon="7.2298187"/><trkpt lat="49.344994" lon="7.2295267"/><trkpt lat="49.3450115" lon="7.229414"/><trkpt lat="49.3450163" lon="7.2293353"/><trkpt lat="49.3449545" lon="7.2292061"/><trkpt lat="49.3449755" lon="7.2291749"/><trkpt lat="49.3450044" lon="7.229132"/><trkpt lat="49.3450245" lon="7.2291278"/><trkpt lat="49.3450639" lon="7.2290447"/><trkpt lat="49.344927" lon="7.2288455"/><trkpt lat="49.344838" lon="7.2288031"/><trkpt lat="49.3442624" lon="7.227694"/></trkseg></trk><trk><name>Kläranlage Primsweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Primsweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/89215120</desc><trkseg><trkpt lat="49.4009879" lon="6.849589"/><trkpt lat="49.400724" lon="6.8496014"/><trkpt lat="49.4005162" lon="6.8497458"/><trkpt lat="49.4003052" lon="6.8500105"/><trkpt lat="49.4002008" lon="6.8503892"/><trkpt lat="49.4002386" lon="6.8505673"/><trkpt lat="49.4003569" lon="6.8507083"/><trkpt lat="49.4005967" lon="6.8511853"/><trkpt lat="49.4008742" lon="6.8507719"/><trkpt lat="49.4011216" lon="6.850433"/><trkpt lat="49.4011156" lon="6.8503935"/><trkpt lat="49.4011105" lon="6.8503592"/><trkpt lat="49.4011583" lon="6.8503202"/><trkpt lat="49.4011568" lon="6.8501593"/><trkpt lat="49.4011244" lon="6.8500246"/><trkpt lat="49.4009879" lon="6.849589"/></trkseg></trk><trk><name>Kläranlage Walpershofen</name><desc>man_made=wastewater_plant
+name=Kläranlage Walpershofen
+operator=EVS
+operator:wikidata=Q1345464
+wikidata=Q104414729
+wikimedia_commons=Category:Kläranlage Walpershofen
+id=way/89429452</desc><trkseg><trkpt lat="49.3178546" lon="6.9150098"/><trkpt lat="49.3183483" lon="6.9151542"/><trkpt lat="49.3192088" lon="6.9154401"/><trkpt lat="49.3192938" lon="6.9153121"/><trkpt lat="49.3192794" lon="6.914974"/><trkpt lat="49.3185122" lon="6.9138006"/><trkpt lat="49.3182644" lon="6.9135811"/><trkpt lat="49.3181983" lon="6.9136378"/><trkpt lat="49.3181341" lon="6.9137538"/><trkpt lat="49.3180695" lon="6.9138882"/><trkpt lat="49.3178546" lon="6.9150098"/></trkseg></trk><trk><name>Kläranlage Merzig</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Merzig
+operator=EVS
+operator:wikidata=Q1345464
+id=way/89614512</desc><trkseg><trkpt lat="49.4571775" lon="6.6253679"/><trkpt lat="49.4568927" lon="6.6250212"/><trkpt lat="49.4566892" lon="6.6251607"/><trkpt lat="49.4565776" lon="6.6250226"/><trkpt lat="49.4563845" lon="6.6250575"/><trkpt lat="49.4556433" lon="6.6266496"/><trkpt lat="49.4556341" lon="6.6271413"/><trkpt lat="49.455704" lon="6.6272356"/><trkpt lat="49.455844" lon="6.6274244"/><trkpt lat="49.4559227" lon="6.6275305"/><trkpt lat="49.4561629" lon="6.627139"/><trkpt lat="49.4564439" lon="6.626681"/><trkpt lat="49.4568607" lon="6.626631"/><trkpt lat="49.4570099" lon="6.6264315"/><trkpt lat="49.4571775" lon="6.6253679"/></trkseg></trk><trk><name>Kläranlage Niederlosheim</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Niederlosheim
+operator=EVS
+operator:wikidata=Q1345464
+id=way/90707978</desc><trkseg><trkpt lat="49.5017623" lon="6.7851599"/><trkpt lat="49.5015487" lon="6.7855726"/><trkpt lat="49.5014878" lon="6.785812"/><trkpt lat="49.5014088" lon="6.7859754"/><trkpt lat="49.5013308" lon="6.7861538"/><trkpt lat="49.5012675" lon="6.7863749"/><trkpt lat="49.5012178" lon="6.7865107"/><trkpt lat="49.5012244" lon="6.7867135"/><trkpt lat="49.5016646" lon="6.7870137"/><trkpt lat="49.501692" lon="6.7869189"/><trkpt lat="49.5017053" lon="6.7868726"/><trkpt lat="49.5018328" lon="6.7869798"/><trkpt lat="49.5019944" lon="6.7864673"/><trkpt lat="49.5019393" lon="6.7863846"/><trkpt lat="49.5019503" lon="6.7863575"/><trkpt lat="49.5019617" lon="6.7863246"/><trkpt lat="49.5020323" lon="6.7863931"/><trkpt lat="49.5022605" lon="6.7857321"/><trkpt lat="49.5017623" lon="6.7851599"/></trkseg></trk><trk><name>Kläranlage Saarhölzbach</name><desc>man_made=wastewater_plant
+name=Kläranlage Saarhölzbach
+operator=EVS
+operator:wikidata=Q1345464
+id=way/90830833</desc><trkseg><trkpt lat="49.506082" lon="6.5924365"/><trkpt lat="49.5059629" lon="6.5922263"/><trkpt lat="49.5056834" lon="6.5916733"/><trkpt lat="49.5053737" lon="6.5913087"/><trkpt lat="49.5052703" lon="6.5914265"/><trkpt lat="49.5050926" lon="6.591714"/><trkpt lat="49.505428" lon="6.5921062"/><trkpt lat="49.5058497" lon="6.5927141"/><trkpt lat="49.506082" lon="6.5924365"/></trkseg></trk><trk><name>Kläranlage Lummerschied</name><desc>man_made=wastewater_plant
+name=Kläranlage Lummerschied
+operator=EVS
+operator:wikidata=Q1345464
+id=way/90883064</desc><trkseg><trkpt lat="49.3502604" lon="6.9994339"/><trkpt lat="49.3501778" lon="6.9993869"/><trkpt lat="49.3500167" lon="6.9993733"/><trkpt lat="49.3499677" lon="6.9996803"/><trkpt lat="49.3502261" lon="6.9997962"/><trkpt lat="49.3502628" lon="6.9995498"/><trkpt lat="49.3502604" lon="6.9994339"/></trkseg></trk><trk><name>Kläranlage Sotzweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Sotzweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/91306182</desc><trkseg><trkpt lat="49.4549906" lon="6.9790139"/><trkpt lat="49.454942" lon="6.9790085"/><trkpt lat="49.4549098" lon="6.9790049"/><trkpt lat="49.454882" lon="6.9789924"/><trkpt lat="49.4548511" lon="6.9789622"/><trkpt lat="49.4548944" lon="6.9788892"/><trkpt lat="49.4544484" lon="6.9784147"/><trkpt lat="49.454307" lon="6.9782807"/><trkpt lat="49.4542649" lon="6.978275"/><trkpt lat="49.4540687" lon="6.9781122"/><trkpt lat="49.4538609" lon="6.9786091"/><trkpt lat="49.4539015" lon="6.9788527"/><trkpt lat="49.4540176" lon="6.9791077"/><trkpt lat="49.4541379" lon="6.9792507"/><trkpt lat="49.4543782" lon="6.979416"/><trkpt lat="49.4546945" lon="6.9795664"/><trkpt lat="49.4549906" lon="6.9790139"/></trkseg></trk><trk><name>Kläranlage Holz</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Holz
+operator=Entsorgungsverband Saar
+id=way/92030534</desc><trkseg><trkpt lat="49.3346522" lon="6.9819818"/><trkpt lat="49.3345537" lon="6.9819532"/><trkpt lat="49.3344551" lon="6.981976"/><trkpt lat="49.3343993" lon="6.9821187"/><trkpt lat="49.3343307" lon="6.9825724"/><trkpt lat="49.3343268" lon="6.9825982"/><trkpt lat="49.3343417" lon="6.9830091"/><trkpt lat="49.3344161" lon="6.9831689"/><trkpt lat="49.3348419" lon="6.982952"/><trkpt lat="49.3348791" lon="6.9828607"/><trkpt lat="49.3350046" lon="6.9825233"/><trkpt lat="49.3350249" lon="6.982301"/><trkpt lat="49.3350076" lon="6.9821596"/><trkpt lat="49.3349682" lon="6.9820757"/><trkpt lat="49.3349094" lon="6.982028"/><trkpt lat="49.3347488" lon="6.9820362"/><trkpt lat="49.3346785" lon="6.9819966"/><trkpt lat="49.3346522" lon="6.9819818"/></trkseg></trk><trk><name>way/92678119</name><desc>man_made=wastewater_plant
+id=way/92678119</desc><trkseg><trkpt lat="49.551199" lon="6.8672167"/><trkpt lat="49.5511154" lon="6.8669807"/><trkpt lat="49.5506143" lon="6.8669024"/><trkpt lat="49.5498254" lon="6.8677697"/><trkpt lat="49.5500505" lon="6.8683279"/><trkpt lat="49.551199" lon="6.8672167"/></trkseg></trk><trk><name>Kläranlage Bliesdalheim</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Bliesdalheim
+operator=EVS
+operator:wikidata=Q1345464
+id=way/97373614</desc><trkseg><trkpt lat="49.1813534" lon="7.2424162"/><trkpt lat="49.1808166" lon="7.2419464"/><trkpt lat="49.1807167" lon="7.2418519"/><trkpt lat="49.1806908" lon="7.2418882"/><trkpt lat="49.1802954" lon="7.2415781"/><trkpt lat="49.1801159" lon="7.2414209"/><trkpt lat="49.179869" lon="7.2417331"/><trkpt lat="49.1795454" lon="7.2423901"/><trkpt lat="49.1801836" lon="7.2428974"/><trkpt lat="49.1803797" lon="7.2427247"/><trkpt lat="49.1810164" lon="7.2431807"/><trkpt lat="49.1811045" lon="7.2432066"/><trkpt lat="49.1813534" lon="7.2424162"/></trkseg></trk><trk><name>Kläranlage Burbach</name><desc>man_made=wastewater_plant
+name=Kläranlage Burbach
+operator=Entsorgungsverband Saar
+operator:short=EVS
+operator:wikidata=Q1345464
+id=way/99234184</desc><trkseg><trkpt lat="49.2408412" lon="6.9384758"/><trkpt lat="49.2410163" lon="6.9377864"/><trkpt lat="49.2410416" lon="6.9376828"/><trkpt lat="49.2418454" lon="6.9350692"/><trkpt lat="49.2405625" lon="6.9343142"/><trkpt lat="49.240566" lon="6.9345149"/><trkpt lat="49.2405782" lon="6.9347625"/><trkpt lat="49.2402213" lon="6.9362974"/><trkpt lat="49.2402987" lon="6.9364743"/><trkpt lat="49.239937" lon="6.937984"/><trkpt lat="49.2398319" lon="6.9383541"/><trkpt lat="49.2403167" lon="6.9386429"/><trkpt lat="49.2407025" lon="6.9388621"/><trkpt lat="49.2408412" lon="6.9384758"/></trkseg></trk><trk><name>Kläranlage Steinberg-Deckenhardt</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Steinberg-Deckenhardt
+operator=EVS
+operator:wikidata=Q1345464
+id=way/99942033</desc><trkseg><trkpt lat="49.5332889" lon="7.1175663"/><trkpt lat="49.5332164" lon="7.1174258"/><trkpt lat="49.5331857" lon="7.1174059"/><trkpt lat="49.533154" lon="7.1173854"/><trkpt lat="49.5329812" lon="7.1174914"/><trkpt lat="49.5329548" lon="7.117542"/><trkpt lat="49.5329623" lon="7.1178846"/><trkpt lat="49.5329825" lon="7.1178994"/><trkpt lat="49.5330832" lon="7.1178972"/><trkpt lat="49.5332889" lon="7.1175663"/></trkseg></trk><trk><name>Kläranlage Lauterbach</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Lauterbach
+id=way/103976896</desc><trkseg><trkpt lat="49.1885661" lon="6.7576729"/><trkpt lat="49.1880859" lon="6.7576774"/><trkpt lat="49.1880858" lon="6.7582432"/><trkpt lat="49.1885653" lon="6.7582325"/><trkpt lat="49.1885661" lon="6.7576729"/></trkseg></trk><trk><name>Kläranlage Saarlouis</name><desc>man_made=wastewater_plant
+name=Kläranlage Saarlouis
+operator=Entsorgungsverband Saar
+operator:short=EVS
+operator:wikidata=Q1345464
+id=way/106157827</desc><trkseg><trkpt lat="49.3257926" lon="6.7344805"/><trkpt lat="49.3258041" lon="6.7361277"/><trkpt lat="49.3258069" lon="6.7365375"/><trkpt lat="49.3266017" lon="6.7367432"/><trkpt lat="49.3276646" lon="6.7374043"/><trkpt lat="49.3279184" lon="6.7370664"/><trkpt lat="49.3277125" lon="6.736655"/><trkpt lat="49.3277508" lon="6.7345907"/><trkpt lat="49.3274452" lon="6.7345735"/><trkpt lat="49.3257926" lon="6.7344805"/></trkseg></trk><trk><name>way/110687845</name><desc>man_made=wastewater_plant
+id=way/110687845</desc><trkseg><trkpt lat="49.1978625" lon="7.1115598"/><trkpt lat="49.1978519" lon="7.1116594"/><trkpt lat="49.1978853" lon="7.1117805"/><trkpt lat="49.1979258" lon="7.1118317"/><trkpt lat="49.1980331" lon="7.1118317"/><trkpt lat="49.1982355" lon="7.1117563"/><trkpt lat="49.1983762" lon="7.1117859"/><trkpt lat="49.1984642" lon="7.1118613"/><trkpt lat="49.1986648" lon="7.1119825"/><trkpt lat="49.1987879" lon="7.1120283"/><trkpt lat="49.1988759" lon="7.1119744"/><trkpt lat="49.1989199" lon="7.1118209"/><trkpt lat="49.198853" lon="7.1116917"/><trkpt lat="49.1987967" lon="7.111619"/><trkpt lat="49.1987281" lon="7.1115813"/><trkpt lat="49.1984484" lon="7.1114628"/><trkpt lat="49.1981844" lon="7.1113874"/><trkpt lat="49.1981264" lon="7.1113928"/><trkpt lat="49.1979504" lon="7.1114709"/><trkpt lat="49.1978625" lon="7.1115598"/></trkseg></trk><trk><name>Kläranlage Rehlingen</name><desc>man_made=wastewater_plant
+name=Kläranlage Rehlingen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/115665532</desc><trkseg><trkpt lat="49.3874045" lon="6.6695965"/><trkpt lat="49.3864618" lon="6.6693676"/><trkpt lat="49.3865165" lon="6.6704228"/><trkpt lat="49.3866188" lon="6.6706053"/><trkpt lat="49.3865499" lon="6.6706854"/><trkpt lat="49.3864822" lon="6.6707643"/><trkpt lat="49.3866476" lon="6.6712265"/><trkpt lat="49.3872143" lon="6.6717008"/><trkpt lat="49.3876126" lon="6.6707709"/><trkpt lat="49.3874045" lon="6.6695965"/></trkseg></trk><trk><name>Kläranlage Rammelfangen</name><desc>man_made=wastewater_plant
+name=Kläranlage Rammelfangen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/120118356</desc><trkseg><trkpt lat="49.3270633" lon="6.6221367"/><trkpt lat="49.3269012" lon="6.6223073"/><trkpt lat="49.3271148" lon="6.6227849"/><trkpt lat="49.3272769" lon="6.6226143"/><trkpt lat="49.3270633" lon="6.6221367"/></trkseg></trk><trk><name>Kläranlage Dorf im Warndt</name><desc>man_made=wastewater_plant
+name=Kläranlage Dorf im Warndt
+id=way/123206829</desc><trkseg><trkpt lat="49.1832614" lon="6.8176384"/><trkpt lat="49.1825158" lon="6.818182"/><trkpt lat="49.1826392" lon="6.8186703"/><trkpt lat="49.1829456" lon="6.8186769"/><trkpt lat="49.1830848" lon="6.8184849"/><trkpt lat="49.1831022" lon="6.818417"/><trkpt lat="49.1830476" lon="6.8182183"/><trkpt lat="49.1831133" lon="6.8181299"/><trkpt lat="49.183199" lon="6.8180017"/><trkpt lat="49.1833353" lon="6.8178147"/><trkpt lat="49.1832614" lon="6.8176384"/></trkseg></trk><trk><name>Kläranlage Primstal</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Primstal
+operator=EVS
+operator:wikidata=Q1345464
+id=way/127092271</desc><trkseg><trkpt lat="49.5290413" lon="6.9584315"/><trkpt lat="49.5285322" lon="6.9580976"/><trkpt lat="49.5283995" lon="6.9606073"/><trkpt lat="49.5285346" lon="6.9605433"/><trkpt lat="49.5290059" lon="6.9602303"/><trkpt lat="49.5290124" lon="6.9599494"/><trkpt lat="49.5290041" lon="6.9593233"/><trkpt lat="49.5290413" lon="6.9584315"/></trkseg></trk><trk><name>Kläranlage Völklingen</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Völklingen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/131199194</desc><trkseg><trkpt lat="49.2543797" lon="6.8388011"/><trkpt lat="49.2544787" lon="6.8387897"/><trkpt lat="49.255561" lon="6.8376512"/><trkpt lat="49.2556003" lon="6.8375709"/><trkpt lat="49.2555989" lon="6.8375056"/><trkpt lat="49.2555838" lon="6.8374298"/><trkpt lat="49.2556111" lon="6.8374041"/><trkpt lat="49.2556443" lon="6.8373729"/><trkpt lat="49.2556883" lon="6.8374445"/><trkpt lat="49.2557968" lon="6.8374214"/><trkpt lat="49.2571918" lon="6.8359489"/><trkpt lat="49.2572381" lon="6.8357725"/><trkpt lat="49.2570259" lon="6.8351259"/><trkpt lat="49.2564046" lon="6.8354104"/><trkpt lat="49.2558328" lon="6.8355924"/><trkpt lat="49.2554689" lon="6.8355735"/><trkpt lat="49.2548698" lon="6.8367758"/><trkpt lat="49.2547906" lon="6.8371171"/><trkpt lat="49.2548005" lon="6.8374964"/><trkpt lat="49.2543178" lon="6.838528"/><trkpt lat="49.2543797" lon="6.8388011"/></trkseg></trk><trk><name>Kläranlage Saarwellingen</name><desc>barrier=fence
+landuse=industrial
+man_made=wastewater_plant
+name=Kläranlage Saarwellingen
+id=way/131584537</desc><trkseg><trkpt lat="49.3455534" lon="6.7876048"/><trkpt lat="49.345331" lon="6.7879082"/><trkpt lat="49.3451985" lon="6.7877215"/><trkpt lat="49.3450103" lon="6.7880068"/><trkpt lat="49.3452886" lon="6.788524"/><trkpt lat="49.3454606" lon="6.7888219"/><trkpt lat="49.3456348" lon="6.78909"/><trkpt lat="49.345945" lon="6.7885755"/><trkpt lat="49.3459443" lon="6.7884435"/><trkpt lat="49.345944" lon="6.7883886"/><trkpt lat="49.3459962" lon="6.7882176"/><trkpt lat="49.3455534" lon="6.7876048"/></trkseg></trk><trk><name>Kläranlage Ensdorf</name><desc>man_made=wastewater_plant
+name=Kläranlage Ensdorf
+operator=EVS
+operator:wikidata=Q1345464
+source=http://www.evs.de/fileadmin/evs_web/images/Abwasserreinigung/klaeranlagen_broschueren/Ensdorf_Flyer.pdf
+id=way/133502802</desc><trkseg><trkpt lat="49.2816343" lon="6.7727718"/><trkpt lat="49.2799262" lon="6.774576"/><trkpt lat="49.2803484" lon="6.7754414"/><trkpt lat="49.2806309" lon="6.7751782"/><trkpt lat="49.2808583" lon="6.7754995"/><trkpt lat="49.2815541" lon="6.774768"/><trkpt lat="49.2816745" lon="6.7742348"/><trkpt lat="49.2821071" lon="6.7737152"/><trkpt lat="49.2822186" lon="6.7734623"/><trkpt lat="49.2821708" lon="6.7731098"/><trkpt lat="49.2821695" lon="6.7731"/><trkpt lat="49.2820045" lon="6.7728812"/><trkpt lat="49.2817592" lon="6.772765"/><trkpt lat="49.2816343" lon="6.7727718"/></trkseg></trk><trk><name>Kläranlage Wustweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Wustweiler
+operator=Entsorgungsverband Saar
+id=way/134886767</desc><trkseg><trkpt lat="49.4010895" lon="7.0276395"/><trkpt lat="49.4011947" lon="7.0273361"/><trkpt lat="49.4012769" lon="7.0270333"/><trkpt lat="49.4013101" lon="7.0265686"/><trkpt lat="49.4011356" lon="7.02616"/><trkpt lat="49.401023" lon="7.0260385"/><trkpt lat="49.4008964" lon="7.0260821"/><trkpt lat="49.4008906" lon="7.026042"/><trkpt lat="49.4008837" lon="7.0259944"/><trkpt lat="49.4007743" lon="7.0258753"/><trkpt lat="49.4006786" lon="7.0260547"/><trkpt lat="49.4006593" lon="7.0261082"/><trkpt lat="49.4006179" lon="7.0261684"/><trkpt lat="49.4004937" lon="7.0262537"/><trkpt lat="49.4004638" lon="7.02641"/><trkpt lat="49.4003675" lon="7.0273117"/><trkpt lat="49.4002982" lon="7.0281588"/><trkpt lat="49.400481" lon="7.0281804"/><trkpt lat="49.4005211" lon="7.0279576"/><trkpt lat="49.4009119" lon="7.0277758"/><trkpt lat="49.4010895" lon="7.0276395"/></trkseg></trk><trk><name>Kläranlage Falscheid</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Falscheid
+operator=EVS
+operator:wikidata=Q1345464
+id=way/135165243</desc><trkseg><trkpt lat="49.3752572" lon="6.878574"/><trkpt lat="49.3747785" lon="6.8784605"/><trkpt lat="49.3751634" lon="6.8805714"/><trkpt lat="49.3756885" lon="6.8808413"/><trkpt lat="49.3752572" lon="6.878574"/></trkseg></trk><trk><name>EVS Osterbrücken</name><desc>building=yes
+man_made=wastewater_plant
+name=EVS Osterbrücken
+id=way/135961144</desc><trkseg><trkpt lat="49.4890389" lon="7.2621517"/><trkpt lat="49.4891171" lon="7.262424"/><trkpt lat="49.4891983" lon="7.2623687"/><trkpt lat="49.4891201" lon="7.2620964"/><trkpt lat="49.4890389" lon="7.2621517"/></trkseg></trk><trk><name>Kläranlage Hangard</name><desc>man_made=wastewater_plant
+name=Kläranlage Hangard
+operator=EVS
+operator:wikidata=Q1345464
+id=way/139443713</desc><trkseg><trkpt lat="49.3759319" lon="7.2098868"/><trkpt lat="49.3759285" lon="7.2096371"/><trkpt lat="49.3759034" lon="7.2095711"/><trkpt lat="49.3757847" lon="7.2094837"/><trkpt lat="49.375264" lon="7.2099269"/><trkpt lat="49.3753707" lon="7.2103221"/><trkpt lat="49.3757091" lon="7.2100596"/><trkpt lat="49.3759319" lon="7.2098868"/></trkseg></trk><trk><name>Kläranlage Münchwies</name><desc>man_made=wastewater_plant
+name=Kläranlage Münchwies
+operator=EVS
+operator:wikidata=Q1345464
+id=way/139519876</desc><trkseg><trkpt lat="49.3954946" lon="7.218442"/><trkpt lat="49.3954766" lon="7.2180648"/><trkpt lat="49.3954653" lon="7.2178277"/><trkpt lat="49.3952401" lon="7.2181254"/><trkpt lat="49.3952118" lon="7.2181845"/><trkpt lat="49.3952226" lon="7.2182762"/><trkpt lat="49.3952584" lon="7.2183518"/><trkpt lat="49.3952591" lon="7.2183748"/><trkpt lat="49.3952418" lon="7.2183993"/><trkpt lat="49.3953018" lon="7.2185763"/><trkpt lat="49.395397" lon="7.218523"/><trkpt lat="49.3954946" lon="7.218442"/></trkseg></trk><trk><name>Kläranlage Sinnerthal</name><desc>man_made=wastewater_plant
+name=Kläranlage Sinnerthal
+operator=Entsorgungsverband Saar
+operator:short=EVS
+operator:wikidata=Q1345464
+id=way/139907392</desc><trkseg><trkpt lat="49.3501485" lon="7.1566611"/><trkpt lat="49.3501328" lon="7.1567044"/><trkpt lat="49.3501117" lon="7.1567627"/><trkpt lat="49.3504246" lon="7.1579635"/><trkpt lat="49.3502316" lon="7.1590609"/><trkpt lat="49.3503617" lon="7.1595192"/><trkpt lat="49.3506802" lon="7.1599108"/><trkpt lat="49.3508179" lon="7.1598724"/><trkpt lat="49.3509239" lon="7.1597651"/><trkpt lat="49.3509618" lon="7.1595036"/><trkpt lat="49.3508525" lon="7.1590058"/><trkpt lat="49.3507898" lon="7.1584899"/><trkpt lat="49.3504201" lon="7.1568907"/><trkpt lat="49.3502221" lon="7.1568939"/><trkpt lat="49.3501485" lon="7.1566611"/></trkseg></trk><trk><name>Kläranlage Lebach</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Lebach
+operator=Entsorgungsverband Saar
+operator:short=EVS
+operator:wikidata=Q1345464
+id=way/155571549</desc><trkseg><trkpt lat="49.4107858" lon="6.8918954"/><trkpt lat="49.4105945" lon="6.8918918"/><trkpt lat="49.4105622" lon="6.8919196"/><trkpt lat="49.4104956" lon="6.8927156"/><trkpt lat="49.4101856" lon="6.8926883"/><trkpt lat="49.4101746" lon="6.8930936"/><trkpt lat="49.4101669" lon="6.8933749"/><trkpt lat="49.4101744" lon="6.8934099"/><trkpt lat="49.4101875" lon="6.8934394"/><trkpt lat="49.4102015" lon="6.8934563"/><trkpt lat="49.4104449" lon="6.8934694"/><trkpt lat="49.4104134" lon="6.8942443"/><trkpt lat="49.4108673" lon="6.8942854"/><trkpt lat="49.4108776" lon="6.8940607"/><trkpt lat="49.4109049" lon="6.8940625"/><trkpt lat="49.410951" lon="6.8940655"/><trkpt lat="49.4110287" lon="6.8931911"/><trkpt lat="49.4111919" lon="6.8929866"/><trkpt lat="49.4112112" lon="6.8922665"/><trkpt lat="49.4110848" lon="6.8921345"/><trkpt lat="49.4107858" lon="6.8918954"/></trkseg></trk><trk><name>way/161592044</name><desc>barrier=fence
+man_made=wastewater_plant
+source=survey/extrapolation
+id=way/161592044</desc><trkseg><trkpt lat="49.5027697" lon="6.8076253"/><trkpt lat="49.5022823" lon="6.8089684"/><trkpt lat="49.5029418" lon="6.8096691"/><trkpt lat="49.5033107" lon="6.8089061"/><trkpt lat="49.5029839" lon="6.8085516"/><trkpt lat="49.503116" lon="6.8079338"/><trkpt lat="49.5028202" lon="6.8076561"/><trkpt lat="49.5027697" lon="6.8076253"/></trkseg></trk><trk><name>Kläranlage Vogelsbüsch</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Vogelsbüsch
+operator=EVS
+operator:wikidata=Q1345464
+id=way/164371394</desc><trkseg><trkpt lat="49.4988462" lon="6.899107"/><trkpt lat="49.498715" lon="6.8990184"/><trkpt lat="49.4986954" lon="6.8990052"/><trkpt lat="49.4986314" lon="6.8991651"/><trkpt lat="49.4985221" lon="6.8991822"/><trkpt lat="49.4984727" lon="6.899284"/><trkpt lat="49.4986795" lon="6.8994815"/><trkpt lat="49.4988462" lon="6.899107"/></trkseg></trk><trk><name>Kläranlage Tettingen-Butzdorf</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Tettingen-Butzdorf
+operator=EVS
+operator:wikidata=Q1345464
+id=way/169351104</desc><trkseg><trkpt lat="49.5188868" lon="6.4111908"/><trkpt lat="49.5190637" lon="6.4095531"/><trkpt lat="49.5190142" lon="6.4088981"/><trkpt lat="49.5186988" lon="6.4088029"/><trkpt lat="49.5187292" lon="6.4093413"/><trkpt lat="49.5186752" lon="6.4098916"/><trkpt lat="49.5185515" lon="6.4109693"/><trkpt lat="49.5186899" lon="6.4111141"/><trkpt lat="49.5188531" lon="6.4111777"/><trkpt lat="49.5188868" lon="6.4111908"/></trkseg></trk><trk><name>Kläranlage Kastel</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Kastel
+operator=EVS
+operator:wikidata=Q1345464
+id=way/175642376</desc><trkseg><trkpt lat="49.5639818" lon="6.9695059"/><trkpt lat="49.5639661" lon="6.9694065"/><trkpt lat="49.5639542" lon="6.9693397"/><trkpt lat="49.5635152" lon="6.9693674"/><trkpt lat="49.562919" lon="6.9693763"/><trkpt lat="49.5622824" lon="6.9694519"/><trkpt lat="49.5621603" lon="6.969618"/><trkpt lat="49.5621454" lon="6.9696672"/><trkpt lat="49.5627361" lon="6.9697803"/><trkpt lat="49.5629867" lon="6.9698512"/><trkpt lat="49.5634712" lon="6.9698641"/><trkpt lat="49.563566" lon="6.9698505"/><trkpt lat="49.5636738" lon="6.9698351"/><trkpt lat="49.5638409" lon="6.9697159"/><trkpt lat="49.5639818" lon="6.9695059"/></trkseg></trk><trk><name>Kläranlage Niederlinxweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Niederlinxweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/193500193</desc><trkseg><trkpt lat="49.4268271" lon="7.1662985"/><trkpt lat="49.4268134" lon="7.166349"/><trkpt lat="49.42679" lon="7.1664348"/><trkpt lat="49.4268757" lon="7.1665582"/><trkpt lat="49.4270585" lon="7.1667007"/><trkpt lat="49.4273472" lon="7.1667468"/><trkpt lat="49.4274146" lon="7.1666963"/><trkpt lat="49.4274155" lon="7.1664817"/><trkpt lat="49.4273673" lon="7.1663097"/><trkpt lat="49.4268271" lon="7.1662985"/></trkseg></trk><trk><name>Kläranlage St. Wendel</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage St. Wendel
+operator=EVS
+operator:wikidata=Q1345464
+id=way/195324466</desc><trkseg><trkpt lat="49.4591444" lon="7.1577902"/><trkpt lat="49.4591391" lon="7.1578619"/><trkpt lat="49.4598332" lon="7.1588007"/><trkpt lat="49.4599172" lon="7.1588581"/><trkpt lat="49.4603195" lon="7.1588478"/><trkpt lat="49.4603555" lon="7.158856"/><trkpt lat="49.4604239" lon="7.1588987"/><trkpt lat="49.4604985" lon="7.1588875"/><trkpt lat="49.4605821" lon="7.1590879"/><trkpt lat="49.4605742" lon="7.1591475"/><trkpt lat="49.4605126" lon="7.1591786"/><trkpt lat="49.4604581" lon="7.1592531"/><trkpt lat="49.4605777" lon="7.1594385"/><trkpt lat="49.4606709" lon="7.1592713"/><trkpt lat="49.4607262" lon="7.159209"/><trkpt lat="49.4605487" lon="7.1587747"/><trkpt lat="49.4605544" lon="7.1585632"/><trkpt lat="49.4605087" lon="7.1585063"/><trkpt lat="49.4604848" lon="7.1584764"/><trkpt lat="49.4603467" lon="7.1583377"/><trkpt lat="49.4601836" lon="7.1580874"/><trkpt lat="49.460205" lon="7.1580279"/><trkpt lat="49.4601517" lon="7.1577922"/><trkpt lat="49.4600691" lon="7.1577225"/><trkpt lat="49.4593256" lon="7.1576528"/><trkpt lat="49.4592337" lon="7.1576467"/><trkpt lat="49.4591444" lon="7.1577902"/></trkseg></trk><trk><name>Kläranlage Mainzweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Mainzweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/199200038</desc><trkseg><trkpt lat="49.4228062" lon="7.1267372"/><trkpt lat="49.4228224" lon="7.1268651"/><trkpt lat="49.422992" lon="7.1271346"/><trkpt lat="49.4230568" lon="7.1271343"/><trkpt lat="49.4231391" lon="7.1271146"/><trkpt lat="49.4231594" lon="7.1270202"/><trkpt lat="49.4231543" lon="7.1268563"/><trkpt lat="49.4231926" lon="7.1268418"/><trkpt lat="49.4231878" lon="7.1267592"/><trkpt lat="49.4231851" lon="7.126727"/><trkpt lat="49.4231333" lon="7.1266191"/><trkpt lat="49.4230753" lon="7.1266376"/><trkpt lat="49.4229987" lon="7.1267075"/><trkpt lat="49.4229219" lon="7.1265825"/><trkpt lat="49.4228062" lon="7.1267372"/></trkseg></trk><trk><name>Kläranlage Ottweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Ottweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/199541595</desc><trkseg><trkpt lat="49.3911317" lon="7.1738554"/><trkpt lat="49.3911626" lon="7.1741239"/><trkpt lat="49.3911657" lon="7.1741505"/><trkpt lat="49.3907406" lon="7.1742715"/><trkpt lat="49.3907428" lon="7.1743115"/><trkpt lat="49.390745" lon="7.1743537"/><trkpt lat="49.3908148" lon="7.1744583"/><trkpt lat="49.3909621" lon="7.1745714"/><trkpt lat="49.3911657" lon="7.1746524"/><trkpt lat="49.3914032" lon="7.1747137"/><trkpt lat="49.3914577" lon="7.1747278"/><trkpt lat="49.3916392" lon="7.1746788"/><trkpt lat="49.3917447" lon="7.1746336"/><trkpt lat="49.3918453" lon="7.1745205"/><trkpt lat="49.392168" lon="7.1741398"/><trkpt lat="49.3919962" lon="7.1737458"/><trkpt lat="49.3916662" lon="7.1740173"/><trkpt lat="49.3915264" lon="7.1739758"/><trkpt lat="49.3914798" lon="7.1738344"/><trkpt lat="49.3914465" lon="7.1737469"/><trkpt lat="49.3911317" lon="7.1738554"/></trkseg></trk><trk><name>Kläranlage Dillingen</name><desc>man_made=wastewater_plant
+name=Kläranlage Dillingen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/202631536</desc><trkseg><trkpt lat="49.3661699" lon="6.7015479"/><trkpt lat="49.3663652" lon="6.7016665"/><trkpt lat="49.3664158" lon="6.7015768"/><trkpt lat="49.3663504" lon="6.700315"/><trkpt lat="49.3662174" lon="6.7002012"/><trkpt lat="49.36609" lon="6.7001263"/><trkpt lat="49.3660455" lon="6.7000429"/><trkpt lat="49.3659667" lon="6.7000284"/><trkpt lat="49.3659423" lon="6.6998349"/><trkpt lat="49.3659234" lon="6.699832"/><trkpt lat="49.3659016" lon="6.6998286"/><trkpt lat="49.3658854" lon="6.700068"/><trkpt lat="49.3653589" lon="6.7001433"/><trkpt lat="49.365371" lon="6.7013973"/><trkpt lat="49.3654512" lon="6.7014234"/><trkpt lat="49.3655022" lon="6.7027594"/><trkpt lat="49.3656398" lon="6.702823"/><trkpt lat="49.3657226" lon="6.7028573"/><trkpt lat="49.3659328" lon="6.7022993"/><trkpt lat="49.3661699" lon="6.7015479"/></trkseg></trk><trk><name>Kläranlage Werschweiler</name><desc>man_made=wastewater_plant
+name=Kläranlage Werschweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/203024340</desc><trkseg><trkpt lat="49.4485484" lon="7.2283801"/><trkpt lat="49.4480103" lon="7.2279195"/><trkpt lat="49.4479028" lon="7.2282127"/><trkpt lat="49.4482208" lon="7.2288647"/><trkpt lat="49.4483062" lon="7.2286934"/><trkpt lat="49.4484549" lon="7.2285832"/><trkpt lat="49.4485175" lon="7.2285453"/><trkpt lat="49.4485484" lon="7.2283801"/></trkseg></trk><trk><name>EVS Kläranlage</name><desc>man_made=wastewater_plant
+name=EVS Kläranlage
+id=way/203570470</desc><trkseg><trkpt lat="49.3700422" lon="7.1757973"/><trkpt lat="49.3699473" lon="7.1760891"/><trkpt lat="49.3698844" lon="7.1761696"/><trkpt lat="49.3698181" lon="7.176175"/><trkpt lat="49.3693" lon="7.1757633"/><trkpt lat="49.3692357" lon="7.1757712"/><trkpt lat="49.3689133" lon="7.17669"/><trkpt lat="49.3689133" lon="7.1768241"/><trkpt lat="49.3689785" lon="7.1769724"/><trkpt lat="49.3691628" lon="7.1770819"/><trkpt lat="49.3691912" lon="7.1770607"/><trkpt lat="49.3692024" lon="7.1769717"/><trkpt lat="49.3693155" lon="7.1766559"/><trkpt lat="49.3693992" lon="7.1764405"/><trkpt lat="49.3694405" lon="7.176367"/><trkpt lat="49.3695426" lon="7.1763537"/><trkpt lat="49.3697578" lon="7.1763871"/><trkpt lat="49.3698903" lon="7.176337"/><trkpt lat="49.3699751" lon="7.1762436"/><trkpt lat="49.370112" lon="7.1758431"/><trkpt lat="49.3700422" lon="7.1757973"/></trkseg></trk><trk><name>ehem. Kläranlage</name><desc>man_made=wastewater_plant
+name=ehem. Kläranlage
+id=way/220422569</desc><trkseg><trkpt lat="49.1734082" lon="6.8137018"/><trkpt lat="49.1730764" lon="6.8138556"/><trkpt lat="49.1731784" lon="6.8143706"/><trkpt lat="49.1735102" lon="6.8142169"/><trkpt lat="49.1734082" lon="6.8137018"/></trkseg></trk><trk><name>way/222031639</name><desc>barrier=fence
+man_made=wastewater_plant
+id=way/222031639</desc><trkseg><trkpt lat="49.4858688" lon="7.0267667"/><trkpt lat="49.4857224" lon="7.0267097"/><trkpt lat="49.4856919" lon="7.0268955"/><trkpt lat="49.4858383" lon="7.0269525"/><trkpt lat="49.4858688" lon="7.0267667"/></trkseg></trk><trk><name>Kläranlage Altland</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Altland
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222274688</desc><trkseg><trkpt lat="49.5101016" lon="6.9195867"/><trkpt lat="49.5100804" lon="6.9196033"/><trkpt lat="49.5100588" lon="6.9196203"/><trkpt lat="49.5097929" lon="6.9197802"/><trkpt lat="49.5099021" lon="6.920518"/><trkpt lat="49.510097" lon="6.9205152"/><trkpt lat="49.5101808" lon="6.9202431"/><trkpt lat="49.5102837" lon="6.9202459"/><trkpt lat="49.5102801" lon="6.9196147"/><trkpt lat="49.5102182" lon="6.9195446"/><trkpt lat="49.5101016" lon="6.9195867"/></trkseg></trk><trk><name>Kläranlage Haupersweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Haupersweiler
+id=way/222308870</desc><trkseg><trkpt lat="49.5037568" lon="7.2672096"/><trkpt lat="49.5036635" lon="7.267081"/><trkpt lat="49.5035338" lon="7.2670933"/><trkpt lat="49.5033996" lon="7.267408"/><trkpt lat="49.5035347" lon="7.2675585"/><trkpt lat="49.5036813" lon="7.2677158"/><trkpt lat="49.5038021" lon="7.2677733"/><trkpt lat="49.5038581" lon="7.2677076"/><trkpt lat="49.503923" lon="7.2678308"/><trkpt lat="49.504094" lon="7.2676157"/><trkpt lat="49.5041176" lon="7.2675859"/><trkpt lat="49.5040536" lon="7.2674709"/><trkpt lat="49.5040092" lon="7.2674956"/><trkpt lat="49.5039896" lon="7.2674573"/><trkpt lat="49.503969" lon="7.2674248"/><trkpt lat="49.5039487" lon="7.2673929"/><trkpt lat="49.503963" lon="7.2672903"/><trkpt lat="49.5038395" lon="7.2670892"/><trkpt lat="49.5037568" lon="7.2672096"/></trkseg></trk><trk><name>Kläranlage Hoof</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Hoof
+id=way/222310381</desc><trkseg><trkpt lat="49.4841683" lon="7.2478613"/><trkpt lat="49.4839929" lon="7.2480639"/><trkpt lat="49.4840367" lon="7.2482267"/><trkpt lat="49.4841206" lon="7.2484213"/><trkpt lat="49.4843837" lon="7.2482446"/><trkpt lat="49.4843503" lon="7.2481479"/><trkpt lat="49.4842973" lon="7.2479944"/><trkpt lat="49.4842418" lon="7.2478931"/><trkpt lat="49.4841941" lon="7.247909"/><trkpt lat="49.4841683" lon="7.2478613"/></trkseg></trk><trk><name>Kläranlage Heinitz</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Heinitz
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222317799</desc><trkseg><trkpt lat="49.3400735" lon="7.157405"/><trkpt lat="49.3397257" lon="7.1577993"/><trkpt lat="49.3396905" lon="7.1578392"/><trkpt lat="49.3403379" lon="7.1591841"/><trkpt lat="49.3407209" lon="7.1587498"/><trkpt lat="49.3401326" lon="7.1575277"/><trkpt lat="49.3401077" lon="7.1574759"/><trkpt lat="49.3400735" lon="7.157405"/></trkseg></trk><trk><name>Kläranlage Orscholz</name><desc>barrier=fence
+landuse=industrial
+man_made=wastewater_plant
+name=Kläranlage Orscholz
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222345101</desc><trkseg><trkpt lat="49.4955883" lon="6.53377"/><trkpt lat="49.4951972" lon="6.5339926"/><trkpt lat="49.4954102" lon="6.5348961"/><trkpt lat="49.4955657" lon="6.5348221"/><trkpt lat="49.4957329" lon="6.5347476"/><trkpt lat="49.4957268" lon="6.5345035"/><trkpt lat="49.4956825" lon="6.5342045"/><trkpt lat="49.4956754" lon="6.5341569"/><trkpt lat="49.4955883" lon="6.53377"/></trkseg></trk><trk><name>Kläranlage Überherrn</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Überherrn
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222346309</desc><trkseg><trkpt lat="49.249335" lon="6.7117971"/><trkpt lat="49.2493442" lon="6.7118409"/><trkpt lat="49.2493692" lon="6.7119793"/><trkpt lat="49.2497205" lon="6.7118623"/><trkpt lat="49.250335" lon="6.7116664"/><trkpt lat="49.2502192" lon="6.7108904"/><trkpt lat="49.2500134" lon="6.7107035"/><trkpt lat="49.2496218" lon="6.7108289"/><trkpt lat="49.2495485" lon="6.7107133"/><trkpt lat="49.2494989" lon="6.710297"/><trkpt lat="49.2497038" lon="6.710031"/><trkpt lat="49.2497484" lon="6.7098955"/><trkpt lat="49.2497084" lon="6.7098344"/><trkpt lat="49.2496639" lon="6.7096873"/><trkpt lat="49.2496272" lon="6.7096923"/><trkpt lat="49.249267" lon="6.7099698"/><trkpt lat="49.249198" lon="6.7101169"/><trkpt lat="49.2491527" lon="6.7103333"/><trkpt lat="49.2492865" lon="6.7113494"/><trkpt lat="49.2491783" lon="6.7117025"/><trkpt lat="49.2492703" lon="6.7118086"/><trkpt lat="49.249335" lon="6.7117971"/></trkseg></trk><trk><name>Kläranlage Gersheim</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Gersheim
+operator=Entsorgungsverband Saar
+operator:short=EVS
+operator:wikidata=Q1345464
+id=way/222350157</desc><trkseg><trkpt lat="49.1406213" lon="7.1975647"/><trkpt lat="49.1403933" lon="7.197689"/><trkpt lat="49.1405523" lon="7.1983519"/><trkpt lat="49.1406274" lon="7.1984103"/><trkpt lat="49.1408535" lon="7.198309"/><trkpt lat="49.1408445" lon="7.1982727"/><trkpt lat="49.1411202" lon="7.1981278"/><trkpt lat="49.1410759" lon="7.197932"/><trkpt lat="49.1409973" lon="7.1979675"/><trkpt lat="49.1409859" lon="7.197915"/><trkpt lat="49.1409009" lon="7.1979527"/><trkpt lat="49.1408936" lon="7.1979173"/><trkpt lat="49.1408874" lon="7.1978872"/><trkpt lat="49.1408492" lon="7.1977022"/><trkpt lat="49.1406755" lon="7.1977813"/><trkpt lat="49.1406213" lon="7.1975647"/></trkseg></trk><trk><name>Kläranlage Fürweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Fürweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222536937</desc><trkseg><trkpt lat="49.3759964" lon="6.5877381"/><trkpt lat="49.3759487" lon="6.5877381"/><trkpt lat="49.3758746" lon="6.587754"/><trkpt lat="49.3758353" lon="6.5877864"/><trkpt lat="49.375805" lon="6.5878114"/><trkpt lat="49.3757682" lon="6.5878945"/><trkpt lat="49.375776" lon="6.5880391"/><trkpt lat="49.3758772" lon="6.588349"/><trkpt lat="49.3759197" lon="6.5883371"/><trkpt lat="49.3759577" lon="6.588341"/><trkpt lat="49.375979" lon="6.5883717"/><trkpt lat="49.3760351" lon="6.5883163"/><trkpt lat="49.376037" lon="6.5882727"/><trkpt lat="49.3760274" lon="6.58815"/><trkpt lat="49.3760467" lon="6.5881312"/><trkpt lat="49.3760415" lon="6.58785"/><trkpt lat="49.3759964" lon="6.5877381"/></trkseg></trk><trk><name>Kläranlage Oberesch</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Oberesch
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222537357</desc><trkseg><trkpt lat="49.3930792" lon="6.5657815"/><trkpt lat="49.3928146" lon="6.5660005"/><trkpt lat="49.3930141" lon="6.5665384"/><trkpt lat="49.3930643" lon="6.5665864"/><trkpt lat="49.3931607" lon="6.5666051"/><trkpt lat="49.3932326" lon="6.5665968"/><trkpt lat="49.3932441" lon="6.5665832"/><trkpt lat="49.393236" lon="6.5665134"/><trkpt lat="49.3932367" lon="6.5664686"/><trkpt lat="49.3932523" lon="6.5663737"/><trkpt lat="49.3932475" lon="6.5662955"/><trkpt lat="49.39312" lon="6.5659379"/><trkpt lat="49.3931301" lon="6.5657847"/><trkpt lat="49.3931043" lon="6.5657831"/><trkpt lat="49.3930792" lon="6.5657815"/></trkseg></trk><trk><name>Kläranlage Homburg</name><desc>man_made=wastewater_plant
+name=Kläranlage Homburg
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222541247</desc><trkseg><trkpt lat="49.2997351" lon="7.3152283"/><trkpt lat="49.2997561" lon="7.3151899"/><trkpt lat="49.2997774" lon="7.3151596"/><trkpt lat="49.2999653" lon="7.315368"/><trkpt lat="49.3002035" lon="7.3155127"/><trkpt lat="49.3004322" lon="7.3155323"/><trkpt lat="49.3006016" lon="7.3155519"/><trkpt lat="49.30064" lon="7.3152307"/><trkpt lat="49.3005585" lon="7.3149071"/><trkpt lat="49.3002003" lon="7.314505"/><trkpt lat="49.3001572" lon="7.3144265"/><trkpt lat="49.3002339" lon="7.314299"/><trkpt lat="49.3002573" lon="7.3142603"/><trkpt lat="49.300114" lon="7.3140318"/><trkpt lat="49.2997639" lon="7.3135243"/><trkpt lat="49.2996855" lon="7.3134017"/><trkpt lat="49.2997958" lon="7.3131369"/><trkpt lat="49.2991301" lon="7.3121324"/><trkpt lat="49.2988765" lon="7.3118766"/><trkpt lat="49.2985727" lon="7.312313"/><trkpt lat="49.2983569" lon="7.3128279"/><trkpt lat="49.2982002" lon="7.3134213"/><trkpt lat="49.2983648" lon="7.3140931"/><trkpt lat="49.2985151" lon="7.3146153"/><trkpt lat="49.2987182" lon="7.3148752"/><trkpt lat="49.2989564" lon="7.3149831"/><trkpt lat="49.2990955" lon="7.3148556"/><trkpt lat="49.2993897" lon="7.3149267"/><trkpt lat="49.2996168" lon="7.3150665"/><trkpt lat="49.2997351" lon="7.3152283"/></trkseg></trk><trk><name>Kläranlage Scheiden</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Scheiden
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222547933</desc><trkseg><trkpt lat="49.5469399" lon="6.7357962"/><trkpt lat="49.5468298" lon="6.7358763"/><trkpt lat="49.5467328" lon="6.7359502"/><trkpt lat="49.5467273" lon="6.7360137"/><trkpt lat="49.5467483" lon="6.7360801"/><trkpt lat="49.5467562" lon="6.7361096"/><trkpt lat="49.5467676" lon="6.7361479"/><trkpt lat="49.5469133" lon="6.7361889"/><trkpt lat="49.5471168" lon="6.7360349"/><trkpt lat="49.5470361" lon="6.7358471"/><trkpt lat="49.5469399" lon="6.7357962"/></trkseg></trk><trk><name>Kläranlage Baltersweiler</name><desc>man_made=wastewater_plant
+name=Kläranlage Baltersweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222550365</desc><trkseg><trkpt lat="49.4895274" lon="7.1655866"/><trkpt lat="49.4895242" lon="7.1658722"/><trkpt lat="49.4897097" lon="7.1664134"/><trkpt lat="49.4896121" lon="7.1664785"/><trkpt lat="49.4896606" lon="7.166581"/><trkpt lat="49.4897986" lon="7.1665837"/><trkpt lat="49.4898941" lon="7.1665674"/><trkpt lat="49.4900108" lon="7.1664966"/><trkpt lat="49.4905309" lon="7.1660772"/><trkpt lat="49.4905146" lon="7.1657928"/><trkpt lat="49.4903281" lon="7.1655365"/><trkpt lat="49.4901231" lon="7.1654162"/><trkpt lat="49.4895274" lon="7.1655866"/></trkseg></trk><trk><name>Kläranlage Limbach</name><desc>man_made=wastewater_plant
+name=Kläranlage Limbach
+operator=Entsorgungsverband Saar
+operator:short=EVS
+operator:wikidata=Q1345464
+id=way/222929544</desc><trkseg><trkpt lat="49.314433" lon="7.2849748"/><trkpt lat="49.3143911" lon="7.2847912"/><trkpt lat="49.3141323" lon="7.284193"/><trkpt lat="49.313755" lon="7.2845946"/><trkpt lat="49.313733" lon="7.2848164"/><trkpt lat="49.3137398" lon="7.285197"/><trkpt lat="49.3139757" lon="7.2857202"/><trkpt lat="49.3142283" lon="7.2862541"/><trkpt lat="49.3142434" lon="7.2862859"/><trkpt lat="49.3145059" lon="7.2860451"/><trkpt lat="49.3147439" lon="7.2858038"/><trkpt lat="49.314433" lon="7.2849748"/></trkseg></trk><trk><name>Kläranlage Perl-Besch</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Perl-Besch
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222932546</desc><trkseg><trkpt lat="49.5168465" lon="6.3673849"/><trkpt lat="49.5169023" lon="6.3673777"/><trkpt lat="49.5169034" lon="6.3672662"/><trkpt lat="49.5170109" lon="6.3672646"/><trkpt lat="49.5170876" lon="6.3672219"/><trkpt lat="49.5172813" lon="6.3671219"/><trkpt lat="49.5174942" lon="6.3669727"/><trkpt lat="49.5175048" lon="6.3665711"/><trkpt lat="49.5174431" lon="6.3665088"/><trkpt lat="49.5173047" lon="6.3664579"/><trkpt lat="49.5171035" lon="6.366371"/><trkpt lat="49.5170365" lon="6.3663333"/><trkpt lat="49.5169215" lon="6.3662317"/><trkpt lat="49.5167288" lon="6.3660759"/><trkpt lat="49.5166671" lon="6.3660792"/><trkpt lat="49.5164627" lon="6.3661143"/><trkpt lat="49.5164958" lon="6.3666615"/><trkpt lat="49.5164596" lon="6.366833"/><trkpt lat="49.5165259" lon="6.3676191"/><trkpt lat="49.5166629" lon="6.3675866"/><trkpt lat="49.5166493" lon="6.367415"/><trkpt lat="49.5167975" lon="6.3673924"/><trkpt lat="49.5168465" lon="6.3673849"/></trkseg></trk><trk><name>Kläranlage Sötern</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Sötern
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222982475</desc><trkseg><trkpt lat="49.593856" lon="7.0715666"/><trkpt lat="49.5935148" lon="7.0715615"/><trkpt lat="49.593512" lon="7.072005"/><trkpt lat="49.5938547" lon="7.0720102"/><trkpt lat="49.5938553" lon="7.0719212"/><trkpt lat="49.5938861" lon="7.0719217"/><trkpt lat="49.5938864" lon="7.0718716"/><trkpt lat="49.5938867" lon="7.0718253"/><trkpt lat="49.5938544" lon="7.0718248"/><trkpt lat="49.593856" lon="7.0715666"/></trkseg></trk><trk><name>Kläranlage Vogelsbüsch</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Vogelsbüsch
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222983398</desc><trkseg><trkpt lat="49.4988584" lon="6.8985862"/><trkpt lat="49.4987333" lon="6.8985289"/><trkpt lat="49.4987028" lon="6.8984716"/><trkpt lat="49.4985136" lon="6.898412"/><trkpt lat="49.498466" lon="6.8986722"/><trkpt lat="49.4986321" lon="6.898752"/><trkpt lat="49.4987593" lon="6.8988132"/><trkpt lat="49.4987943" lon="6.8988041"/><trkpt lat="49.4988584" lon="6.8985862"/></trkseg></trk><trk><name>Kläranlage Bedersdorf</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Bedersdorf
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222985007</desc><trkseg><trkpt lat="49.3005374" lon="6.6356395"/><trkpt lat="49.300372" lon="6.6356645"/><trkpt lat="49.3001087" lon="6.6357896"/><trkpt lat="49.3001273" lon="6.6360665"/><trkpt lat="49.3002159" lon="6.6364739"/><trkpt lat="49.3004477" lon="6.6368472"/><trkpt lat="49.3005991" lon="6.6368258"/><trkpt lat="49.3006784" lon="6.636699"/><trkpt lat="49.3005106" lon="6.635811"/><trkpt lat="49.3005409" lon="6.6357539"/><trkpt lat="49.3005595" lon="6.6357253"/><trkpt lat="49.3005492" lon="6.6356853"/><trkpt lat="49.3005374" lon="6.6356395"/></trkseg></trk><trk><name>Kläranlage Kerlingen</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Kerlingen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222985194</desc><trkseg><trkpt lat="49.3130581" lon="6.648171"/><trkpt lat="49.31303" lon="6.6480903"/><trkpt lat="49.3129673" lon="6.6480601"/><trkpt lat="49.3129075" lon="6.6480858"/><trkpt lat="49.31284" lon="6.6482123"/><trkpt lat="49.3126721" lon="6.6485569"/><trkpt lat="49.312708" lon="6.6486762"/><trkpt lat="49.3127339" lon="6.648693"/><trkpt lat="49.3127689" lon="6.6487004"/><trkpt lat="49.3127972" lon="6.6487297"/><trkpt lat="49.3128197" lon="6.6487549"/><trkpt lat="49.3129189" lon="6.6485276"/><trkpt lat="49.3130581" lon="6.6482086"/><trkpt lat="49.3130581" lon="6.648171"/></trkseg></trk><trk><name>Kläranlage Ihn</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Ihn
+operator=EVS
+operator:wikidata=Q1345464
+id=way/222985271</desc><trkseg><trkpt lat="49.3168613" lon="6.6081399"/><trkpt lat="49.3168012" lon="6.6084033"/><trkpt lat="49.3167865" lon="6.6085162"/><trkpt lat="49.3169287" lon="6.6087908"/><trkpt lat="49.3170464" lon="6.6090128"/><trkpt lat="49.3170391" lon="6.6093044"/><trkpt lat="49.3170668" lon="6.6093061"/><trkpt lat="49.3171016" lon="6.6093082"/><trkpt lat="49.3171378" lon="6.6093064"/><trkpt lat="49.317167" lon="6.6092908"/><trkpt lat="49.3172176" lon="6.6092423"/><trkpt lat="49.3172899" lon="6.6090206"/><trkpt lat="49.3173825" lon="6.608738"/><trkpt lat="49.3173692" lon="6.6086224"/><trkpt lat="49.3172623" lon="6.6084917"/><trkpt lat="49.3169778" lon="6.608187"/><trkpt lat="49.3168613" lon="6.6081399"/></trkseg></trk><trk><name>Kläranlage Dirmingen</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Dirmingen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/223003995</desc><trkseg><trkpt lat="49.4157808" lon="6.9992901"/><trkpt lat="49.4157818" lon="6.9996027"/><trkpt lat="49.4158989" lon="6.9996013"/><trkpt lat="49.4159261" lon="6.9997785"/><trkpt lat="49.415947" lon="6.9997979"/><trkpt lat="49.4159711" lon="6.9998203"/><trkpt lat="49.4159205" lon="6.9999327"/><trkpt lat="49.4159139" lon="7.0000407"/><trkpt lat="49.4160095" lon="7.0001689"/><trkpt lat="49.416226" lon="7.0003922"/><trkpt lat="49.4162954" lon="7.0005622"/><trkpt lat="49.416466" lon="7.0002813"/><trkpt lat="49.4165841" lon="6.9999989"/><trkpt lat="49.4167415" lon="6.999646"/><trkpt lat="49.4164191" lon="6.9992887"/><trkpt lat="49.4163854" lon="6.9993463"/><trkpt lat="49.4163291" lon="6.9992872"/><trkpt lat="49.4162963" lon="6.999342"/><trkpt lat="49.4161126" lon="6.9993045"/><trkpt lat="49.4159102" lon="6.9992887"/><trkpt lat="49.4157808" lon="6.9992901"/></trkseg></trk><trk><name>Kläranlage Kleinottweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Kleinottweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/223102546</desc><trkseg><trkpt lat="49.3394906" lon="7.2862057"/><trkpt lat="49.3392155" lon="7.2872564"/><trkpt lat="49.3394661" lon="7.2873502"/><trkpt lat="49.3399694" lon="7.2874002"/><trkpt lat="49.3401955" lon="7.2868718"/><trkpt lat="49.3402118" lon="7.2867436"/><trkpt lat="49.3401466" lon="7.2866717"/><trkpt lat="49.3401625" lon="7.2866264"/><trkpt lat="49.3401751" lon="7.2865904"/><trkpt lat="49.3402587" lon="7.2865778"/><trkpt lat="49.3402729" lon="7.2864903"/><trkpt lat="49.3396128" lon="7.2860775"/><trkpt lat="49.3394906" lon="7.2862057"/></trkseg></trk><trk><name>Kläranlage Oberlöstern</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Oberlöstern
+operator=EVS
+operator:wikidata=Q1345464
+id=way/223109286</desc><trkseg><trkpt lat="49.5611977" lon="6.9205174"/><trkpt lat="49.5611366" lon="6.9205074"/><trkpt lat="49.5610338" lon="6.9200979"/><trkpt lat="49.5609616" lon="6.9200208"/><trkpt lat="49.5608709" lon="6.9199994"/><trkpt lat="49.5607496" lon="6.9200151"/><trkpt lat="49.5606497" lon="6.9199937"/><trkpt lat="49.5605117" lon="6.9200222"/><trkpt lat="49.5604488" lon="6.9200907"/><trkpt lat="49.5604543" lon="6.9203362"/><trkpt lat="49.560484" lon="6.92078"/><trkpt lat="49.560459" lon="6.9208499"/><trkpt lat="49.5604627" lon="6.9210084"/><trkpt lat="49.5605025" lon="6.9210683"/><trkpt lat="49.5605219" lon="6.9215221"/><trkpt lat="49.5606025" lon="6.9215592"/><trkpt lat="49.560708" lon="6.9214964"/><trkpt lat="49.5607274" lon="6.9213551"/><trkpt lat="49.5607441" lon="6.9212766"/><trkpt lat="49.5607719" lon="6.9212966"/><trkpt lat="49.5608033" lon="6.9212096"/><trkpt lat="49.560845" lon="6.9211439"/><trkpt lat="49.5609903" lon="6.9209142"/><trkpt lat="49.561106" lon="6.9206487"/><trkpt lat="49.5611958" lon="6.9205816"/><trkpt lat="49.5611967" lon="6.9205517"/><trkpt lat="49.5611977" lon="6.9205174"/></trkseg></trk><trk><name>Kläranlage Niedaltdorf</name><desc>man_made=wastewater_plant
+name=Kläranlage Niedaltdorf
+operator=EVS
+operator:wikidata=Q1345464
+id=way/223110994</desc><trkseg><trkpt lat="49.3435134" lon="6.5805345"/><trkpt lat="49.3432212" lon="6.5808401"/><trkpt lat="49.3430475" lon="6.5816789"/><trkpt lat="49.342986" lon="6.5818772"/><trkpt lat="49.3430078" lon="6.5819201"/><trkpt lat="49.3432529" lon="6.5819357"/><trkpt lat="49.3434647" lon="6.581926"/><trkpt lat="49.3438926" lon="6.5818935"/><trkpt lat="49.3435134" lon="6.5805345"/></trkseg></trk><trk><name>Kläranlage Heisterberg</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Heisterberg
+operator=EVS
+operator:wikidata=Q1345464
+id=way/226620657</desc><trkseg><trkpt lat="49.5351349" lon="7.1419018"/><trkpt lat="49.5346509" lon="7.1421646"/><trkpt lat="49.5345533" lon="7.1423275"/><trkpt lat="49.5345848" lon="7.1427386"/><trkpt lat="49.5351347" lon="7.1423972"/><trkpt lat="49.5352846" lon="7.1421217"/><trkpt lat="49.5352356" lon="7.14185"/><trkpt lat="49.5351349" lon="7.1419018"/></trkseg></trk><trk><name>Kläranlage Güdesweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Güdesweiler
+operator=EVS
+operator:wikidata=Q1345464
+id=way/226620659</desc><trkseg><trkpt lat="49.5143751" lon="7.1091674"/><trkpt lat="49.5143422" lon="7.1091952"/><trkpt lat="49.514232" lon="7.1092886"/><trkpt lat="49.5140434" lon="7.1094484"/><trkpt lat="49.5138485" lon="7.1096134"/><trkpt lat="49.5139229" lon="7.109891"/><trkpt lat="49.5140314" lon="7.1102961"/><trkpt lat="49.5140823" lon="7.1103718"/><trkpt lat="49.5144316" lon="7.1100324"/><trkpt lat="49.5146968" lon="7.1097233"/><trkpt lat="49.5148293" lon="7.1094032"/><trkpt lat="49.5148705" lon="7.1090583"/><trkpt lat="49.514824" lon="7.1089507"/><trkpt lat="49.5147702" lon="7.1089755"/><trkpt lat="49.5145445" lon="7.1092515"/><trkpt lat="49.5144585" lon="7.1093674"/><trkpt lat="49.5144334" lon="7.1093149"/><trkpt lat="49.5143751" lon="7.1091674"/></trkseg></trk><trk><name>Klärwerk Leitersweiler</name><desc>man_made=wastewater_plant
+name=Klärwerk Leitersweiler
+id=way/227759868</desc><trkseg><trkpt lat="49.4940741" lon="7.2166681"/><trkpt lat="49.4940422" lon="7.2166877"/><trkpt lat="49.4939955" lon="7.2167728"/><trkpt lat="49.4940242" lon="7.2168823"/><trkpt lat="49.4942706" lon="7.2173092"/><trkpt lat="49.4943291" lon="7.2173501"/><trkpt lat="49.494362" lon="7.2173289"/><trkpt lat="49.4943971" lon="7.2172013"/><trkpt lat="49.4941357" lon="7.2167335"/><trkpt lat="49.4940741" lon="7.2166681"/></trkseg></trk><trk><name>Kläranlage Saal</name><desc>man_made=wastewater_plant
+name=Kläranlage Saal
+website=https://www.entsorgungsverband.de/
+id=way/231595058</desc><trkseg><trkpt lat="49.45826" lon="7.2402133"/><trkpt lat="49.4585909" lon="7.2409706"/><trkpt lat="49.458762" lon="7.2410414"/><trkpt lat="49.458823" lon="7.2410268"/><trkpt lat="49.4589316" lon="7.2409535"/><trkpt lat="49.4591279" lon="7.2406866"/><trkpt lat="49.4589183" lon="7.2401852"/><trkpt lat="49.4588439" lon="7.2401412"/><trkpt lat="49.4587563" lon="7.2401236"/><trkpt lat="49.4586476" lon="7.2399447"/><trkpt lat="49.4585847" lon="7.2399154"/><trkpt lat="49.4585218" lon="7.2399242"/><trkpt lat="49.45826" lon="7.2402133"/></trkseg></trk><trk><name>Kläranlage</name><desc>building=yes
+man_made=wastewater_plant
+name=Kläranlage
+id=way/233087087</desc><trkseg><trkpt lat="49.3819886" lon="6.8619211"/><trkpt lat="49.3819237" lon="6.861997"/><trkpt lat="49.3819924" lon="6.8621356"/><trkpt lat="49.3820573" lon="6.8620597"/><trkpt lat="49.3819886" lon="6.8619211"/></trkseg></trk><trk><name>Kläranlage Rathen</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Rathen
+operator=EVS
+operator:wikidata=Q1345464
+id=way/233948926</desc><trkseg><trkpt lat="49.5476425" lon="6.9172982"/><trkpt lat="49.5474841" lon="6.9170981"/><trkpt lat="49.5473696" lon="6.9171148"/><trkpt lat="49.5473064" lon="6.9171553"/><trkpt lat="49.5472103" lon="6.9172992"/><trkpt lat="49.5472419" lon="6.9174819"/><trkpt lat="49.5473848" lon="6.9176346"/><trkpt lat="49.5475134" lon="6.917637"/><trkpt lat="49.5475138" lon="6.9175733"/><trkpt lat="49.5475761" lon="6.9174575"/><trkpt lat="49.5476141" lon="6.917398"/><trkpt lat="49.5476425" lon="6.9172982"/></trkseg></trk><trk><name>way/242317131</name><desc>man_made=wastewater_plant
+id=way/242317131</desc><trkseg><trkpt lat="49.4086351" lon="6.5463841"/><trkpt lat="49.407535" lon="6.5471343"/><trkpt lat="49.4077588" lon="6.5479286"/><trkpt lat="49.4089555" lon="6.5470201"/><trkpt lat="49.4086351" lon="6.5463841"/></trkseg></trk><trk><name>Kläranlage Winterbach</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Winterbach
+operator=EVS
+operator:wikidata=Q1345464
+id=way/267128964</desc><trkseg><trkpt lat="49.4744627" lon="7.1158348"/><trkpt lat="49.4743337" lon="7.115824"/><trkpt lat="49.4742954" lon="7.1162264"/><trkpt lat="49.4741978" lon="7.1162049"/><trkpt lat="49.4741559" lon="7.1166072"/><trkpt lat="49.4742222" lon="7.116677"/><trkpt lat="49.4742047" lon="7.1171115"/><trkpt lat="49.4743825" lon="7.1171276"/><trkpt lat="49.4744209" lon="7.1169452"/><trkpt lat="49.4744627" lon="7.1158348"/></trkseg></trk><trk><name>Kläranlage</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage
+id=way/268240393</desc><trkseg><trkpt lat="49.1597923" lon="7.2774793"/><trkpt lat="49.159425" lon="7.2775209"/><trkpt lat="49.1593387" lon="7.2780714"/><trkpt lat="49.1593657" lon="7.2780714"/><trkpt lat="49.1593867" lon="7.2780714"/><trkpt lat="49.1593858" lon="7.2781154"/><trkpt lat="49.159412" lon="7.278118"/><trkpt lat="49.1594115" lon="7.2781465"/><trkpt lat="49.1594571" lon="7.2782125"/><trkpt lat="49.1597973" lon="7.2783162"/><trkpt lat="49.1597923" lon="7.2774793"/></trkseg></trk><trk><name>way/269487482</name><desc>barrier=fence
+landuse=industrial
+man_made=wastewater_plant
+id=way/269487482</desc><trkseg><trkpt lat="49.4751635" lon="6.4838299"/><trkpt lat="49.4751713" lon="6.4840834"/><trkpt lat="49.4752079" lon="6.4841699"/><trkpt lat="49.475231" lon="6.4841692"/><trkpt lat="49.4752388" lon="6.4842913"/><trkpt lat="49.4752162" lon="6.484298"/><trkpt lat="49.4751983" lon="6.4843529"/><trkpt lat="49.4752184" lon="6.484705"/><trkpt lat="49.4752445" lon="6.4847814"/><trkpt lat="49.4752741" lon="6.4848002"/><trkpt lat="49.4753046" lon="6.4847955"/><trkpt lat="49.4753147" lon="6.4848981"/><trkpt lat="49.4752842" lon="6.4849075"/><trkpt lat="49.4752611" lon="6.484937"/><trkpt lat="49.4752445" lon="6.4850959"/><trkpt lat="49.4752763" lon="6.4853883"/><trkpt lat="49.4755351" lon="6.4853185"/><trkpt lat="49.4756075" lon="6.4851958"/><trkpt lat="49.4757146" lon="6.4849846"/><trkpt lat="49.4757464" lon="6.4848914"/><trkpt lat="49.4756826" lon="6.4842635"/><trkpt lat="49.4754419" lon="6.4841625"/><trkpt lat="49.4754314" lon="6.483905"/><trkpt lat="49.4753836" lon="6.483826"/><trkpt lat="49.4751635" lon="6.4838299"/></trkseg></trk><trk><name>Kläranlage Ruhbachtal</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Ruhbachtal
+operator=EVS
+operator:wikidata=Q1345464
+id=way/270062217</desc><trkseg><trkpt lat="49.3122627" lon="7.1177651"/><trkpt lat="49.3119618" lon="7.1173"/><trkpt lat="49.3116584" lon="7.1179332"/><trkpt lat="49.3116324" lon="7.1184375"/><trkpt lat="49.3121279" lon="7.1185881"/><trkpt lat="49.3122627" lon="7.1177651"/></trkseg></trk><trk><name>Kläranlage Auschet</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Auschet
+operator=EVS
+operator:wikidata=Q1345464
+id=way/270062755</desc><trkseg><trkpt lat="49.4773366" lon="6.8533474"/><trkpt lat="49.4772117" lon="6.8531871"/><trkpt lat="49.4771732" lon="6.8533104"/><trkpt lat="49.4771007" lon="6.8535093"/><trkpt lat="49.4771556" lon="6.8538447"/><trkpt lat="49.4772485" lon="6.8538404"/><trkpt lat="49.4773062" lon="6.8537294"/><trkpt lat="49.4773366" lon="6.8533474"/></trkseg></trk><trk><name>Kläranlage Sinz</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Sinz
+operator=EVS
+operator:wikidata=Q1345464
+id=way/270063253</desc><trkseg><trkpt lat="49.5373941" lon="6.4190465"/><trkpt lat="49.5373171" lon="6.4188839"/><trkpt lat="49.5371588" lon="6.4188586"/><trkpt lat="49.5370957" lon="6.4189025"/><trkpt lat="49.5370438" lon="6.4189985"/><trkpt lat="49.5371009" lon="6.4190679"/><trkpt lat="49.5371588" lon="6.4191292"/><trkpt lat="49.5371978" lon="6.4190879"/><trkpt lat="49.5372172" lon="6.4191173"/><trkpt lat="49.5372294" lon="6.4191358"/><trkpt lat="49.5372358" lon="6.4192358"/><trkpt lat="49.5374097" lon="6.4194691"/><trkpt lat="49.5375438" lon="6.4192412"/><trkpt lat="49.5374564" lon="6.4191292"/><trkpt lat="49.5373941" lon="6.4190465"/></trkseg></trk><trk><name>Kläranlage Mechern</name><desc>man_made=wastewater_plant
+name=Kläranlage Mechern
+operator=EVS
+operator:wikidata=Q1345464
+id=way/270064211</desc><trkseg><trkpt lat="49.4194361" lon="6.6339709"/><trkpt lat="49.4191178" lon="6.6340354"/><trkpt lat="49.4189597" lon="6.6342943"/><trkpt lat="49.4189679" lon="6.6349761"/><trkpt lat="49.4190083" lon="6.6351547"/><trkpt lat="49.4195018" lon="6.634812"/><trkpt lat="49.419596" lon="6.6347156"/><trkpt lat="49.4194361" lon="6.6339709"/></trkseg></trk><trk><name>way/271997865</name><desc>man_made=wastewater_plant
+id=way/271997865</desc><trkseg><trkpt lat="49.15052" lon="7.3524358"/><trkpt lat="49.1503798" lon="7.3518613"/><trkpt lat="49.1502349" lon="7.351726"/><trkpt lat="49.1501511" lon="7.3517576"/><trkpt lat="49.1501131" lon="7.3518595"/><trkpt lat="49.1503257" lon="7.3525746"/><trkpt lat="49.15052" lon="7.3524358"/></trkseg></trk><trk><name>Kläranlage</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage
+id=way/284777553</desc><trkseg><trkpt lat="49.3394631" lon="6.9752063"/><trkpt lat="49.3393318" lon="6.9747889"/><trkpt lat="49.3390805" lon="6.9749587"/><trkpt lat="49.3392193" lon="6.9753761"/><trkpt lat="49.3394631" lon="6.9752063"/></trkseg></trk><trk><name>Kläranlage Medelsheim</name><desc>man_made=wastewater_plant
+name=Kläranlage Medelsheim
+id=way/299962230</desc><trkseg><trkpt lat="49.1456382" lon="7.2772333"/><trkpt lat="49.1450975" lon="7.2772902"/><trkpt lat="49.1451555" lon="7.2786623"/><trkpt lat="49.145739" lon="7.2785222"/><trkpt lat="49.1457553" lon="7.2776951"/><trkpt lat="49.1456382" lon="7.2772333"/></trkseg></trk><trk><name>Kläranlage Utweiler</name><desc>man_made=wastewater_plant
+name=Kläranlage Utweiler
+name:fr=Station d'épuration d'Utwiller
+id=way/301208803</desc><trkseg><trkpt lat="49.1260142" lon="7.2948251"/><trkpt lat="49.1257537" lon="7.294475"/><trkpt lat="49.1255361" lon="7.294853"/><trkpt lat="49.1257967" lon="7.2952032"/><trkpt lat="49.1260142" lon="7.2948251"/></trkseg></trk><trk><name>Kläranlage Tünsdorf</name><desc>man_made=wastewater_plant
+name=Kläranlage Tünsdorf
+operator=EVS
+operator:wikidata=Q1345464
+id=way/309444567</desc><trkseg><trkpt lat="49.4773218" lon="6.5152388"/><trkpt lat="49.4774994" lon="6.51594"/><trkpt lat="49.4776893" lon="6.5158043"/><trkpt lat="49.4777334" lon="6.5156177"/><trkpt lat="49.4778313" lon="6.5155404"/><trkpt lat="49.477655" lon="6.5150409"/><trkpt lat="49.4775607" lon="6.5150314"/><trkpt lat="49.4773218" lon="6.5152388"/></trkseg></trk><trk><name>way/309445270</name><desc>man_made=wastewater_plant
+id=way/309445270</desc><trkseg><trkpt lat="49.4607254" lon="6.540164"/><trkpt lat="49.4605412" lon="6.5402332"/><trkpt lat="49.4605808" lon="6.5405313"/><trkpt lat="49.4606831" lon="6.5410329"/><trkpt lat="49.460754" lon="6.5410938"/><trkpt lat="49.4608427" lon="6.5410686"/><trkpt lat="49.4608986" lon="6.5409826"/><trkpt lat="49.4609123" lon="6.5408566"/><trkpt lat="49.4608386" lon="6.5404914"/><trkpt lat="49.4607704" lon="6.5404179"/><trkpt lat="49.4607254" lon="6.540164"/></trkseg></trk><trk><name>way/337656967</name><desc>man_made=wastewater_plant
+operator=EVS
+id=way/337656967</desc><trkseg><trkpt lat="49.5007018" lon="6.5370024"/><trkpt lat="49.5006092" lon="6.5370543"/><trkpt lat="49.5006588" lon="6.5372641"/><trkpt lat="49.5007515" lon="6.5372122"/><trkpt lat="49.5007018" lon="6.5370024"/></trkseg></trk><trk><name>way/358527466</name><desc>barrier=fence
+man_made=wastewater_plant
+id=way/358527466</desc><trkseg><trkpt lat="49.1652848" lon="7.2913158"/><trkpt lat="49.1650412" lon="7.2910497"/><trkpt lat="49.1648474" lon="7.2914015"/><trkpt lat="49.1647733" lon="7.2916954"/><trkpt lat="49.164746" lon="7.2919246"/><trkpt lat="49.1647718" lon="7.2920172"/><trkpt lat="49.1650018" lon="7.2921722"/><trkpt lat="49.1652046" lon="7.2916191"/><trkpt lat="49.1652447" lon="7.2914987"/><trkpt lat="49.1652523" lon="7.2913656"/><trkpt lat="49.1652848" lon="7.2913158"/></trkseg></trk><trk><name>way/363979243</name><desc>barrier=fence
+man_made=wastewater_plant
+name:fr=Station d'épuration
+id=way/363979243</desc><trkseg><trkpt lat="49.175331" lon="7.3191351"/><trkpt lat="49.1751147" lon="7.3189266"/><trkpt lat="49.1747136" lon="7.3199267"/><trkpt lat="49.1747126" lon="7.3201086"/><trkpt lat="49.174813" lon="7.3202309"/><trkpt lat="49.1749594" lon="7.320132"/><trkpt lat="49.175331" lon="7.3191351"/></trkseg></trk><trk><name>way/363979245</name><desc>man_made=wastewater_plant
+id=way/363979245</desc><trkseg><trkpt lat="49.1835469" lon="7.2974582"/><trkpt lat="49.1833878" lon="7.2972896"/><trkpt lat="49.1831981" lon="7.2980269"/><trkpt lat="49.1830818" lon="7.2980995"/><trkpt lat="49.1831767" lon="7.2984669"/><trkpt lat="49.1833434" lon="7.2985208"/><trkpt lat="49.1835469" lon="7.2974582"/></trkseg></trk><trk><name>way/364552515</name><desc>man_made=wastewater_plant
+id=way/364552515</desc><trkseg><trkpt lat="49.1492962" lon="7.2909511"/><trkpt lat="49.1488027" lon="7.2906231"/><trkpt lat="49.1486537" lon="7.2911348"/><trkpt lat="49.1490209" lon="7.291391"/><trkpt lat="49.1492172" lon="7.2912067"/><trkpt lat="49.1492962" lon="7.2909511"/></trkseg></trk><trk><name>Sickerwasserbehandlung</name><desc>man_made=wastewater_plant
+name=Sickerwasserbehandlung
+id=way/402363632</desc><trkseg><trkpt lat="49.1820939" lon="7.1228893"/><trkpt lat="49.1815473" lon="7.1234111"/><trkpt lat="49.1813807" lon="7.1236967"/><trkpt lat="49.1816816" lon="7.1243213"/><trkpt lat="49.1822859" lon="7.1235796"/><trkpt lat="49.1820939" lon="7.1228893"/></trkseg></trk><trk><name>way/405486899</name><desc>man_made=wastewater_plant
+id=way/405486899</desc><trkseg><trkpt lat="49.3117322" lon="7.154591"/><trkpt lat="49.3112862" lon="7.1551681"/><trkpt lat="49.3114188" lon="7.1554092"/><trkpt lat="49.3118648" lon="7.1548321"/><trkpt lat="49.3117322" lon="7.154591"/></trkseg></trk><trk><name>way/422822086</name><desc>man_made=wastewater_plant
+id=way/422822086</desc><trkseg><trkpt lat="49.5126293" lon="7.2898471"/><trkpt lat="49.5126607" lon="7.2897801"/><trkpt lat="49.5125512" lon="7.288104"/><trkpt lat="49.5125307" lon="7.2880316"/><trkpt lat="49.512269" lon="7.2868403"/><trkpt lat="49.5122061" lon="7.2868404"/><trkpt lat="49.5117119" lon="7.2867844"/><trkpt lat="49.5118411" lon="7.2870639"/><trkpt lat="49.5120641" lon="7.2876774"/><trkpt lat="49.5121764" lon="7.2879711"/><trkpt lat="49.5122149" lon="7.288215"/><trkpt lat="49.512281" lon="7.2886631"/><trkpt lat="49.5124639" lon="7.2897536"/><trkpt lat="49.5125237" lon="7.2898886"/><trkpt lat="49.5126293" lon="7.2898471"/></trkseg></trk><trk><name>Kläranlage ZKS</name><desc>man_made=wastewater_plant
+name=Kläranlage ZKS
+id=way/498394542</desc><trkseg><trkpt lat="49.3474675" lon="6.7389238"/><trkpt lat="49.3473987" lon="6.7386987"/><trkpt lat="49.3466427" lon="6.7377812"/><trkpt lat="49.3463072" lon="6.7381272"/><trkpt lat="49.3464173" lon="6.7385108"/><trkpt lat="49.3469887" lon="6.7394093"/><trkpt lat="49.3474675" lon="6.7389238"/></trkseg></trk><trk><name>way/523522624</name><desc>man_made=wastewater_plant
+id=way/523522624</desc><trkseg><trkpt lat="49.260695" lon="6.8369305"/><trkpt lat="49.2603845" lon="6.8357813"/><trkpt lat="49.2601502" lon="6.8359163"/><trkpt lat="49.2603219" lon="6.8366296"/><trkpt lat="49.2603756" lon="6.8365991"/><trkpt lat="49.2604426" lon="6.8368542"/><trkpt lat="49.2601293" lon="6.8370554"/><trkpt lat="49.2601591" lon="6.8371814"/><trkpt lat="49.2604794" lon="6.8370178"/><trkpt lat="49.2604916" lon="6.8370798"/><trkpt lat="49.260695" lon="6.8369305"/></trkseg></trk><trk><name>Pflanzenkläranlage Sankt Gangolf</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Pflanzenkläranlage Sankt Gangolf
+id=way/529138603</desc><trkseg><trkpt lat="49.4820664" lon="6.5841186"/><trkpt lat="49.481958" lon="6.5837618"/><trkpt lat="49.4818287" lon="6.5838533"/><trkpt lat="49.4819357" lon="6.5842055"/><trkpt lat="49.4820664" lon="6.5841186"/></trkseg></trk><trk><name>Kläranlage Hellendorf</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Hellendorf
+operator=EVS
+operator:wikidata=Q1345464
+id=way/530504560</desc><trkseg><trkpt lat="49.4871418" lon="6.4554441"/><trkpt lat="49.4870694" lon="6.4553614"/><trkpt lat="49.4868038" lon="6.4550578"/><trkpt lat="49.4866191" lon="6.4555326"/><trkpt lat="49.4869833" lon="6.4558813"/><trkpt lat="49.4871418" lon="6.4554441"/></trkseg></trk><trk><name>way/539815356</name><desc>barrier=fence
+fence_type=wire
+man_made=wastewater_plant
+id=way/539815356</desc><trkseg><trkpt lat="49.514531" lon="6.4883226"/><trkpt lat="49.5145754" lon="6.4884527"/><trkpt lat="49.5147321" lon="6.4887089"/><trkpt lat="49.5151074" lon="6.4881174"/><trkpt lat="49.5149124" lon="6.4877821"/><trkpt lat="49.514531" lon="6.4883226"/></trkseg></trk><trk><name>way/539815366</name><desc>barrier=fence
+fence_type=wire
+man_made=wastewater_plant
+id=way/539815366</desc><trkseg><trkpt lat="49.511055" lon="6.4703371"/><trkpt lat="49.5104071" lon="6.4711176"/><trkpt lat="49.5106997" lon="6.4716232"/><trkpt lat="49.5108447" lon="6.4720798"/><trkpt lat="49.5110293" lon="6.4724426"/><trkpt lat="49.5113319" lon="6.4727571"/><trkpt lat="49.5115504" lon="6.4722548"/><trkpt lat="49.511518" lon="6.4719135"/><trkpt lat="49.5114277" lon="6.4716527"/><trkpt lat="49.5114277" lon="6.4714569"/><trkpt lat="49.511412" lon="6.471253"/><trkpt lat="49.5112779" lon="6.4709124"/><trkpt lat="49.511055" lon="6.4703371"/></trkseg></trk><trk><name>way/539815376</name><desc>barrier=fence
+fence_type=wire
+man_made=wastewater_plant
+id=way/539815376</desc><trkseg><trkpt lat="49.5191421" lon="6.490746"/><trkpt lat="49.5190472" lon="6.4907393"/><trkpt lat="49.5188252" lon="6.4910799"/><trkpt lat="49.5198012" lon="6.4923057"/><trkpt lat="49.520234" lon="6.4919236"/><trkpt lat="49.5199176" lon="6.4916593"/><trkpt lat="49.5193062" lon="6.4909445"/><trkpt lat="49.5191421" lon="6.490746"/></trkseg></trk><trk><name>Kläranlage Rappweiler</name><desc>barrier=fence
+man_made=wastewater_plant
+name=Kläranlage Rappweiler
+id=way/598557657</desc><trkseg><trkpt lat="49.5363292" lon="6.7997645"/><trkpt lat="49.5357038" lon="6.8004532"/><trkpt lat="49.5356141" lon="6.8005201"/><trkpt lat="49.535686" lon="6.8011459"/><trkpt lat="49.5360017" lon="6.8011892"/><trkpt lat="49.5364908" lon="6.8004988"/><trkpt lat="49.5363292" lon="6.7997645"/></trkseg></trk><trk><name>Kläranlage Borg</name><desc>landuse=industrial
+man_made=wastewater_plant
+name=Kläranlage Borg
+operator=EVS
+operator:wikidata=Q1345464
+id=way/673472631</desc><trkseg><trkpt lat="49.5010483" lon="6.4502411"/><trkpt lat="49.5010513" lon="6.4501756"/><trkpt lat="49.5011541" lon="6.4500502"/><trkpt lat="49.5011197" lon="6.4499804"/><trkpt lat="49.501148" lon="6.4499442"/><trkpt lat="49.5011798" lon="6.4499476"/><trkpt lat="49.5012107" lon="6.4499147"/><trkpt lat="49.501246" lon="6.4499851"/><trkpt lat="49.5015255" lon="6.4496619"/><trkpt lat="49.5015329" lon="6.4496264"/><trkpt lat="49.5015247" lon="6.4495895"/><trkpt lat="49.5015734" lon="6.4495446"/><trkpt lat="49.5013915" lon="6.4492574"/><trkpt lat="49.5013096" lon="6.4491618"/><trkpt lat="49.5012319" lon="6.4490509"/><trkpt lat="49.5010738" lon="6.449227"/><trkpt lat="49.5007504" lon="6.4495967"/><trkpt lat="49.5007461" lon="6.4496837"/><trkpt lat="49.5009559" lon="6.4501219"/><trkpt lat="49.5009982" lon="6.4501756"/><trkpt lat="49.5009951" lon="6.4502238"/><trkpt lat="49.5010197" lon="6.4502697"/><trkpt lat="49.5010483" lon="6.4502411"/></trkseg></trk><trk><name>way/807387759</name><desc>man_made=wastewater_plant
+id=way/807387759</desc><trkseg><trkpt lat="49.528492" lon="6.5242032"/><trkpt lat="49.5287" lon="6.5248126"/><trkpt lat="49.5287825" lon="6.5248117"/><trkpt lat="49.529002" lon="6.5245753"/><trkpt lat="49.5292248" lon="6.5243554"/><trkpt lat="49.5292264" lon="6.5241641"/><trkpt lat="49.5289294" lon="6.523875"/><trkpt lat="49.528492" lon="6.5242032"/></trkseg></trk><trk><name>way/999879386</name><desc>landuse=industrial
+man_made=wastewater_plant
+id=way/999879386</desc><trkseg><trkpt lat="49.4819797" lon="6.5430692"/><trkpt lat="49.4820799" lon="6.5430638"/><trkpt lat="49.4820956" lon="6.5432355"/><trkpt lat="49.4821757" lon="6.543332"/><trkpt lat="49.4822106" lon="6.5432797"/><trkpt lat="49.4821757" lon="6.5430853"/><trkpt lat="49.4821679" lon="6.5428224"/><trkpt lat="49.4821592" lon="6.5427688"/><trkpt lat="49.4819797" lon="6.5427755"/><trkpt lat="49.481971" lon="6.5428305"/><trkpt lat="49.4819797" lon="6.5430692"/></trkseg></trk><trk><name>way/1105449432</name><desc>man_made=wastewater_plant
+id=way/1105449432</desc><trkseg><trkpt lat="49.1401383" lon="7.3029304"/><trkpt lat="49.1402006" lon="7.3028841"/><trkpt lat="49.1402093" lon="7.3027685"/><trkpt lat="49.1401437" lon="7.3026996"/><trkpt lat="49.1401252" lon="7.3026811"/><trkpt lat="49.1401027" lon="7.3026725"/><trkpt lat="49.1400797" lon="7.3026758"/><trkpt lat="49.1400587" lon="7.3026906"/><trkpt lat="49.140042" lon="7.3027152"/><trkpt lat="49.1400317" lon="7.3027468"/><trkpt lat="49.1400288" lon="7.3027819"/><trkpt lat="49.1400337" lon="7.3028165"/><trkpt lat="49.1400458" lon="7.3028466"/><trkpt lat="49.1400638" lon="7.3028689"/><trkpt lat="49.1401383" lon="7.3029304"/></trkseg></trk><trk><name>Kläranlage Jägersfreude</name><desc>man_made=wastewater_plant
+name=Kläranlage Jägersfreude
+operator=EVS
+operator:wikidata=Q1345464
+id=way/1415273127</desc><trkseg><trkpt lat="49.2603093" lon="6.9990295"/><trkpt lat="49.2595001" lon="6.9988222"/><trkpt lat="49.2590994" lon="6.9984929"/><trkpt lat="49.2582424" lon="6.9984156"/><trkpt lat="49.2582106" lon="6.9993791"/><trkpt lat="49.259516" lon="6.9994442"/><trkpt lat="49.260033" lon="6.999478"/><trkpt lat="49.2605892" lon="6.9994889"/><trkpt lat="49.2606744" lon="6.9994149"/><trkpt lat="49.260678" lon="6.9992659"/><trkpt lat="49.2603093" lon="6.9990295"/></trkseg></trk></gpx>

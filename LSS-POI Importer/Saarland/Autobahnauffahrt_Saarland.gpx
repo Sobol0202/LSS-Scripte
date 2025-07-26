@@ -1,0 +1,1411 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.3437126" lon="7.3042399"><name>Homburg (Saar)</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11856
+TMC:cid_58:tabcd_1:NextLocationCode=11857
+TMC:cid_58:tabcd_1:PrevLocationCode=41530
+highway=motorway_junction
+name=Homburg (Saar)
+ref=9
+id=node/470595</desc></wpt><wpt lat="49.270412" lon="7.3097505"><name>Homburg-Einöd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12506
+TMC:cid_58:tabcd_1:NextLocationCode=12507
+TMC:cid_58:tabcd_1:PrevLocationCode=41581
+highway=motorway_junction
+name=Homburg-Einöd
+ref=30
+id=node/489104</desc></wpt><wpt lat="49.3431383" lon="6.793789"><name>Saarwellingen-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12489
+TMC:cid_58:tabcd_1:NextLocationCode=12490
+TMC:cid_58:tabcd_1:PrevLocationCode=12488
+highway=motorway_junction
+name=Saarwellingen-Mitte
+ref=13
+id=node/619736</desc></wpt><wpt lat="49.3177745" lon="7.0773054"><name>Dreieck Friedrichsthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12080
+TMC:cid_58:tabcd_1:PrevLocationCode=12079
+highway=motorway_junction
+name=Dreieck Friedrichsthal
+ref=1
+id=node/619814</desc></wpt><wpt lat="49.3706375" lon="7.3622016"><name>Waldmohr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11858
+TMC:cid_58:tabcd_1:NextLocationCode=11859
+TMC:cid_58:tabcd_1:PrevLocationCode=11857
+highway=motorway_junction
+name=Waldmohr
+ref=10
+id=node/8024798</desc></wpt><wpt lat="49.2112619" lon="6.9754553"><name>Saarbrücken-Goldene Bremm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11849
+TMC:cid_58:tabcd_1:NextLocationCode=11850
+TMC:cid_58:tabcd_1:PrevLocationCode=11848
+highway=motorway_junction
+name=Saarbrücken-Goldene Bremm
+ref=2
+id=node/10469395</desc></wpt><wpt lat="49.3386096" lon="7.2945299"><name>Homburg (Saar)</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11856
+TMC:cid_58:tabcd_1:NextLocationCode=11857
+TMC:cid_58:tabcd_1:PrevLocationCode=41530
+highway=motorway_junction
+name=Homburg (Saar)
+ref=9
+id=node/10535561</desc></wpt><wpt lat="49.3194613" lon="7.1119928"><name>Elversberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12497
+TMC:cid_58:tabcd_1:NextLocationCode=12498
+TMC:cid_58:tabcd_1:PrevLocationCode=12496
+highway=motorway_junction
+name=Elversberg
+ref=21
+id=node/21520076</desc></wpt><wpt lat="49.2751375" lon="6.96216"><name>Saarbrücken-Von-der-Heydt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41504
+TMC:cid_58:tabcd_1:NextLocationCode=22302
+TMC:cid_58:tabcd_1:PrevLocationCode=41503
+highway=motorway_junction
+name=Saarbrücken-Von-der-Heydt
+ref=148
+id=node/31108194</desc></wpt><wpt lat="49.4716767" lon="7.1489996"><name>St. Wendel-Winterbach</name><desc>highway=motorway_junction
+name=St. Wendel-Winterbach
+id=node/33743172</desc></wpt><wpt lat="49.4837048" lon="7.1467668"><name>Sankt Wendel-Alsfassen</name><desc>highway=motorway_junction
+name=Sankt Wendel-Alsfassen
+id=node/33743190</desc></wpt><wpt lat="49.3373189" lon="6.7191649"><name>Dreieck Saarlouis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12485
+TMC:cid_58:tabcd_1:NextLocationCode=12486
+TMC:cid_58:tabcd_1:PrevLocationCode=12484
+TMC:cid_58:tabcd_1:TypeName=motorway triangle
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahndreieck
+highway=motorway_junction
+name=Dreieck Saarlouis
+ref=9
+id=node/34592441</desc></wpt><wpt lat="49.3487645" lon="6.7012122"><name>Dillingen-Mitte</name><desc>highway=motorway_junction
+name=Dillingen-Mitte
+ref=8
+id=node/34592756</desc></wpt><wpt lat="49.486326" lon="6.3771838"><name>Perl</name><desc>TMC:cid_58:tabcd_1:LocationCode=12478
+highway=motorway_junction
+name=Perl
+ref=2
+id=node/34595182</desc></wpt><wpt lat="49.5515377" lon="7.2573236"><name>Freisen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12036
+TMC:cid_58:tabcd_1:NextLocationCode=12037
+TMC:cid_58:tabcd_1:PrevLocationCode=41592
+highway=motorway_junction
+name=Freisen
+ref=5
+id=node/36160286</desc></wpt><wpt lat="49.5849582" lon="7.0856457"><name>Nohfelden-Türkismühle</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12034
+TMC:cid_58:tabcd_1:NextLocationCode=12035
+TMC:cid_58:tabcd_1:PrevLocationCode=41591
+highway=motorway_junction
+name=Nohfelden-Türkismühle
+ref=3
+id=node/36160407</desc></wpt><wpt lat="49.5974897" lon="6.9937544"><name>Otzenhausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12033
+TMC:cid_58:tabcd_1:NextLocationCode=41591
+TMC:cid_58:tabcd_1:PrevLocationCode=12032
+highway=motorway_junction
+name=Otzenhausen
+old_name=Nonnweiler-Otzenhausen
+ref=2
+id=node/36163171</desc></wpt><wpt lat="49.3124134" lon="7.2572949"><name>Kreuz Neunkirchen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11855
+TMC:cid_58:tabcd_1:NextLocationCode=41530
+TMC:cid_58:tabcd_1:PrevLocationCode=11854
+highway=motorway_junction
+name=Kreuz Neunkirchen
+ref=8
+id=node/50061252</desc></wpt><wpt lat="49.3095043" lon="7.2547483"><name>Kreuz Neunkirchen</name><desc>highway=motorway_junction
+name=Kreuz Neunkirchen
+ref=27
+id=node/50061304</desc></wpt><wpt lat="49.597983" lon="6.9781301"><name>Dreieck Nonnweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10015
+TMC:cid_58:tabcd_1:NextLocationCode=10016
+TMC:cid_58:tabcd_1:PrevLocationCode=10014
+highway=motorway_junction
+name=Dreieck Nonnweiler
+ref=135
+id=node/50595216</desc></wpt><wpt lat="49.6091623" lon="6.9596413"><name>Nonnweiler-Bierfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10016
+TMC:cid_58:tabcd_1:NextLocationCode=55245
+TMC:cid_58:tabcd_1:PrevLocationCode=10015
+highway=motorway_junction
+name=Nonnweiler-Bierfeld
+ref=134
+id=node/50609370</desc></wpt><wpt lat="49.5972974" lon="6.9859555"><name>Dreieck Nonnweiler</name><desc>highway=motorway_junction
+name=Dreieck Nonnweiler
+ref=135
+id=node/59649099</desc></wpt><wpt lat="49.5777935" lon="6.9821113"><name>Braunshausen</name><desc>highway=motorway_junction
+name=Braunshausen
+ref=137
+id=node/59656548</desc></wpt><wpt lat="49.5766784" lon="6.9813079"><name>Braunshausen</name><desc>highway=motorway_junction
+name=Braunshausen
+ref=137
+id=node/62644816</desc></wpt><wpt lat="49.3260256" lon="7.0747623"><name>Friedrichsthal-Bildstock</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12495
+TMC:cid_58:tabcd_1:NextLocationCode=12496
+TMC:cid_58:tabcd_1:PrevLocationCode=12494
+highway=motorway_junction
+name=Friedrichsthal-Bildstock
+ref=19
+id=node/62669976</desc></wpt><wpt lat="49.2644984" lon="7.3138835"><name>Homburg-Einöd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12506
+TMC:cid_58:tabcd_1:NextLocationCode=12507
+TMC:cid_58:tabcd_1:PrevLocationCode=41581
+highway=motorway_junction
+name=Homburg-Einöd
+ref=30
+id=node/62696762</desc></wpt><wpt lat="49.3417195" lon="6.7544956"><name>Saarlouis-Steinrausch</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12487
+TMC:cid_58:tabcd_1:NextLocationCode=12488
+TMC:cid_58:tabcd_1:PrevLocationCode=12486
+highway=motorway_junction
+name=Saarlouis-Steinrausch
+ref=11
+id=node/84744580</desc></wpt><wpt lat="49.2906471" lon="6.756516"><name>Saarlouis-Lisdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12051
+TMC:cid_58:tabcd_1:NextLocationCode=41532
+TMC:cid_58:tabcd_1:PrevLocationCode=12050
+highway=motorway_junction
+name=Saarlouis-Lisdorf
+ref=4a
+id=node/96947961</desc></wpt><wpt lat="49.2289463" lon="6.9968271"><name>Saarbrücken-Bismarckbrücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12068
+TMC:cid_58:tabcd_1:NextLocationCode=12069
+TMC:cid_58:tabcd_1:PrevLocationCode=12067
+highway=motorway_junction
+name=Saarbrücken-Bismarckbrücke
+ref=18
+id=node/104580589</desc></wpt><wpt lat="49.2228953" lon="7.0112758"><name>Saarbrücken-St. Arnual</name><desc>highway=motorway_junction
+name=Saarbrücken-St. Arnual
+name:fr=Sarrebruck - St-Arnual
+ref=19
+id=node/104580839</desc></wpt><wpt lat="49.2051665" lon="7.040546"><name>Dreieck Saarbrücken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11850
+TMC:cid_58:tabcd_1:NextLocationCode=11851
+TMC:cid_58:tabcd_1:PrevLocationCode=11849
+highway=motorway_junction
+name=Dreieck Saarbrücken
+ref=3
+wikidata=Q785602
+id=node/108006215</desc></wpt><wpt lat="49.2173796" lon="7.0198125"><name>Saarbrücken-St. Arnual</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12069
+TMC:cid_58:tabcd_1:NextLocationCode=12070
+TMC:cid_58:tabcd_1:PrevLocationCode=12068
+highway=motorway_junction
+name=Saarbrücken-St. Arnual
+name:fr=Sarrebruck - St-Arnual
+ref=19
+id=node/108006884</desc></wpt><wpt lat="49.2128673" lon="7.0212412"><name>Saarbrücken-Schönbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12070
+TMC:cid_58:tabcd_1:NextLocationCode=12071
+TMC:cid_58:tabcd_1:PrevLocationCode=12069
+highway=motorway_junction
+name=Saarbrücken-Schönbach
+ref=20
+id=node/108008406</desc></wpt><wpt lat="49.2041787" lon="7.0456003"><name>Saarbrücken-Fechingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11851
+TMC:cid_58:tabcd_1:NextLocationCode=41580
+TMC:cid_58:tabcd_1:PrevLocationCode=11850
+highway=motorway_junction
+name=Saarbrücken-Fechingen
+ref=4
+id=node/108009059</desc></wpt><wpt lat="49.2074894" lon="7.0272956"><name>Saarbrücken-Güdingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12071
+TMC:cid_58:tabcd_1:NextLocationCode=12072
+TMC:cid_58:tabcd_1:PrevLocationCode=12070
+highway=motorway_junction
+name=Saarbrücken-Güdingen
+name:fr=Sarrebruck - Güdingen
+ref=21
+id=node/108170729</desc></wpt><wpt lat="49.2361595" lon="6.975504"><name>Saarbrücken-Malstatter Brücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12064
+TMC:cid_58:tabcd_1:NextLocationCode=12065
+TMC:cid_58:tabcd_1:PrevLocationCode=12062
+highway=motorway_junction
+name=Saarbrücken-Malstatter Brücke
+ref=14
+id=node/119721227</desc></wpt><wpt lat="49.3417718" lon="6.7415702"><name>Dillingen-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12486
+TMC:cid_58:tabcd_1:NextLocationCode=12487
+TMC:cid_58:tabcd_1:PrevLocationCode=12485
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Dillingen-Süd
+ref=10
+id=node/122415276</desc></wpt><wpt lat="49.2084964" lon="7.0246166"><name>Saarbrücken-Güdingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12071
+TMC:cid_58:tabcd_1:NextLocationCode=12072
+TMC:cid_58:tabcd_1:PrevLocationCode=12070
+highway=motorway_junction
+name=Saarbrücken-Güdingen
+name:fr=Sarrebruck - Güdingen
+ref=21
+wikidata=Q785602
+id=node/130245473</desc></wpt><wpt lat="49.2426864" lon="6.8601036"><name>Völklingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12056
+TMC:cid_58:tabcd_1:NextLocationCode=12057
+TMC:cid_58:tabcd_1:PrevLocationCode=12055
+highway=motorway_junction
+name=Völklingen
+ref=9
+id=node/132198957</desc></wpt><wpt lat="49.2340635" lon="6.9676946"><name>Saarbrücken-Malstatter Brücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12064
+TMC:cid_58:tabcd_1:NextLocationCode=12065
+TMC:cid_58:tabcd_1:PrevLocationCode=12062
+highway=motorway_junction
+name=Saarbrücken-Malstatter Brücke
+ref=14
+id=node/132201100</desc></wpt><wpt lat="49.236216" lon="6.9856372"><name>Saarbrücken-Luisenbrücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12066
+TMC:cid_58:tabcd_1:NextLocationCode=12067
+TMC:cid_58:tabcd_1:PrevLocationCode=12065
+highway=motorway_junction
+name=Saarbrücken-Luisenbrücke
+ref=16
+id=node/132201549</desc></wpt><wpt lat="49.235623" lon="6.9907731"><name>Saarbrücken - Wilhelm-Heinrich-Brücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12067
+TMC:cid_58:tabcd_1:NextLocationCode=12068
+TMC:cid_58:tabcd_1:PrevLocationCode=12066
+highway=motorway_junction
+name=Saarbrücken - Wilhelm-Heinrich-Brücke
+ref=17
+id=node/132201646</desc></wpt><wpt lat="49.2253177" lon="7.0053421"><name>Saarbrücken-Bismarckbrücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12068
+TMC:cid_58:tabcd_1:NextLocationCode=12069
+TMC:cid_58:tabcd_1:PrevLocationCode=12067
+highway=motorway_junction
+name=Saarbrücken-Bismarckbrücke
+name:fr=Sarrebruck - Pont Bismarck
+ref=18
+id=node/132529762</desc></wpt><wpt lat="49.2309195" lon="6.993071"><name>Saarbrücken - Wilhelm-Heinrich-Brücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12067
+TMC:cid_58:tabcd_1:NextLocationCode=12068
+TMC:cid_58:tabcd_1:PrevLocationCode=12066
+highway=motorway_junction
+name=Saarbrücken - Wilhelm-Heinrich-Brücke
+ref=17
+id=node/132530069</desc></wpt><wpt lat="49.2815097" lon="7.1800322"><name>Rohrbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11854
+TMC:cid_58:tabcd_1:NextLocationCode=11855
+TMC:cid_58:tabcd_1:PrevLocationCode=41579
+highway=motorway_junction
+name=Rohrbach
+ref=7
+id=node/247681373</desc></wpt><wpt lat="49.2429038" lon="6.9178685"><name>Saarbrücken-Klarenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12059
+TMC:cid_58:tabcd_1:NextLocationCode=12061
+TMC:cid_58:tabcd_1:PrevLocationCode=12057
+highway=motorway_junction
+name=Saarbrücken-Klarenthal
+ref=11
+id=node/251784791</desc></wpt><wpt lat="49.2615261" lon="6.9575824"><name>Saarbrücken-Burbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41503
+TMC:cid_58:tabcd_1:NextLocationCode=41504
+TMC:cid_58:tabcd_1:PrevLocationCode=22301
+highway=motorway_junction
+name=Saarbrücken-Burbach
+ref=150
+id=node/252627627</desc></wpt><wpt lat="49.2455685" lon="6.9070401"><name>Saarbrücken-Klarenthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12059
+TMC:cid_58:tabcd_1:NextLocationCode=12061
+TMC:cid_58:tabcd_1:PrevLocationCode=12057
+highway=motorway_junction
+name=Saarbrücken-Klarenthal
+ref=11
+id=node/253976183</desc></wpt><wpt lat="49.2470888" lon="6.8640289"><name>Völklingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12056
+TMC:cid_58:tabcd_1:NextLocationCode=12057
+TMC:cid_58:tabcd_1:PrevLocationCode=12055
+highway=motorway_junction
+name=Völklingen
+ref=9
+id=node/253977216</desc></wpt><wpt lat="49.2368858" lon="6.9826829"><name>Saarbrücken-Westspangenbrücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=22297
+TMC:cid_58:tabcd_1:NextLocationCode=22298
+highway=motorway_junction
+name=Saarbrücken-Westspangenbrücke
+wikidata=Q13485823
+id=node/254401463</desc></wpt><wpt lat="49.2360671" lon="6.9796146"><name>Saarbrücken-Westspangenbrücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12065
+TMC:cid_58:tabcd_1:NextLocationCode=12066
+TMC:cid_58:tabcd_1:PrevLocationCode=12064
+highway=motorway_junction
+name=Saarbrücken-Westspangenbrücke
+ref=15
+wikidata=Q13485823
+id=node/256914799</desc></wpt><wpt lat="49.2703741" lon="7.1406615"><name>Sankt Ingbert-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11853
+TMC:cid_58:tabcd_1:NextLocationCode=41579
+TMC:cid_58:tabcd_1:PrevLocationCode=11852
+highway=motorway_junction
+name=Sankt Ingbert-Mitte
+ref=6
+id=node/258382402</desc></wpt><wpt lat="49.3366509" lon="7.0118608"><name>Quierschied</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10006
+TMC:cid_58:tabcd_1:NextLocationCode=10007
+TMC:cid_58:tabcd_1:PrevLocationCode=10005
+highway=motorway_junction
+name=Quierschied
+ref=144
+id=node/258876979</desc></wpt><wpt lat="49.3411975" lon="7.0136051"><name>Quierschied</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10006
+TMC:cid_58:tabcd_1:NextLocationCode=10007
+TMC:cid_58:tabcd_1:PrevLocationCode=10005
+highway=motorway_junction
+name=Quierschied
+ref=144
+id=node/258876993</desc></wpt><wpt lat="49.4562212" lon="6.6088792"><name>Merzig-Schwemlingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12481
+TMC:cid_58:tabcd_1:NextLocationCode=12482
+TMC:cid_58:tabcd_1:PrevLocationCode=41597
+highway=motorway_junction
+name=Merzig-Schwemlingen
+ref=5
+id=node/259818712</desc></wpt><wpt lat="49.2418086" lon="6.8471296"><name>Völklingen-Geislautern</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12055
+TMC:cid_58:tabcd_1:NextLocationCode=12056
+TMC:cid_58:tabcd_1:PrevLocationCode=12054
+highway=motorway_junction
+name=Völklingen-Geislautern
+ref=8
+id=node/260047415</desc></wpt><wpt lat="49.3492019" lon="6.9367763"><name>Heusweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12492
+TMC:cid_58:tabcd_1:NextLocationCode=41583
+TMC:cid_58:tabcd_1:PrevLocationCode=12491
+highway=motorway_junction
+name=Heusweiler
+ref=16
+id=node/260284314</desc></wpt><wpt lat="49.3205695" lon="7.1158197"><name>Elversberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12497
+TMC:cid_58:tabcd_1:NextLocationCode=12498
+TMC:cid_58:tabcd_1:PrevLocationCode=12496
+highway=motorway_junction
+name=Elversberg
+ref=21
+id=node/261063889</desc></wpt><wpt lat="49.4872065" lon="6.3796"><name>Perl</name><desc>TMC:cid_58:tabcd_1:LocationCode=12478
+highway=motorway_junction
+name=Perl
+ref=2
+id=node/261068457</desc></wpt><wpt lat="49.2759854" lon="7.17454"><name>Rohrbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11854
+TMC:cid_58:tabcd_1:NextLocationCode=11855
+TMC:cid_58:tabcd_1:PrevLocationCode=41579
+highway=motorway_junction
+name=Rohrbach
+ref=7
+id=node/262293328</desc></wpt><wpt lat="49.2844276" lon="6.9584659"><name>Saarbrücken-Neuhaus</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=22302
+TMC:cid_58:tabcd_1:NextLocationCode=22303
+TMC:cid_58:tabcd_1:PrevLocationCode=41504
+highway=motorway_junction
+name=Saarbrücken-Neuhaus
+ref=147
+id=node/262498749</desc></wpt><wpt lat="49.300836" lon="7.0405914"><name>Sulzbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12077
+TMC:cid_58:tabcd_1:NextLocationCode=12079
+TMC:cid_58:tabcd_1:PrevLocationCode=12076
+highway=motorway_junction
+name=Sulzbach
+ref=3
+id=node/262803697</desc></wpt><wpt lat="49.3035648" lon="6.7432641"><name>Saarlouis-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12049
+TMC:cid_58:tabcd_1:NextLocationCode=12050
+TMC:cid_58:tabcd_1:PrevLocationCode=12048
+highway=motorway_junction
+name=Saarlouis-Mitte
+ref=3
+id=node/266883269</desc></wpt><wpt lat="49.3098633" lon="7.253944"><name>Kreuz Neunkirchen</name><desc>highway=motorway_junction
+name=Kreuz Neunkirchen
+ref=27
+id=node/267103889</desc></wpt><wpt lat="49.3224847" lon="7.2353905"><name>Neunkirchen-Wellesweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12501
+TMC:cid_58:tabcd_1:NextLocationCode=12502
+TMC:cid_58:tabcd_1:PrevLocationCode=41582
+highway=motorway_junction
+name=Neunkirchen-Wellesweiler
+ref=25
+wikidata=Q14848836
+id=node/267104019</desc></wpt><wpt lat="49.3070253" lon="7.2512792"><name>Kreuz Neunkirchen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11855
+TMC:cid_58:tabcd_1:NextLocationCode=41530
+TMC:cid_58:tabcd_1:PrevLocationCode=11854
+highway=motorway_junction
+name=Kreuz Neunkirchen
+ref=8
+id=node/267634288</desc></wpt><wpt lat="49.3088184" lon="7.2573003"><name>Kreuz Neunkirchen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12503
+TMC:cid_58:tabcd_1:NextLocationCode=12504
+TMC:cid_58:tabcd_1:PrevLocationCode=12502
+TMC:cid_58:tabcd_1:TypeName=motorway intersection
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnkreuz
+highway=motorway_junction
+name=Kreuz Neunkirchen
+ref=27
+id=node/267634861</desc></wpt><wpt lat="49.2499074" lon="6.8712478"><name>Völklingen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12057
+TMC:cid_58:tabcd_1:NextLocationCode=12059
+TMC:cid_58:tabcd_1:PrevLocationCode=12056
+highway=motorway_junction
+name=Völklingen-Ost
+ref=10
+id=node/268099554</desc></wpt><wpt lat="49.2385587" lon="6.9388372"><name>Saarbrücken-Gersweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12061
+TMC:cid_58:tabcd_1:NextLocationCode=12062
+TMC:cid_58:tabcd_1:PrevLocationCode=12059
+highway=motorway_junction
+name=Saarbrücken-Gersweiler
+ref=12
+id=node/268623845</desc></wpt><wpt lat="49.2335693" lon="6.9612152"><name>Saarbrücken-Messegelände</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12062
+TMC:cid_58:tabcd_1:NextLocationCode=12064
+TMC:cid_58:tabcd_1:PrevLocationCode=12061
+highway=motorway_junction
+name=Saarbrücken-Messegelände
+ref=13
+id=node/268640236</desc></wpt><wpt lat="49.2364425" lon="6.9870648"><name>Saarbrücken-Westspangenbrücke</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12065
+TMC:cid_58:tabcd_1:NextLocationCode=12066
+TMC:cid_58:tabcd_1:PrevLocationCode=12064
+highway=motorway_junction
+name=Saarbrücken-Westspangenbrücke
+ref=15
+wikidata=Q13485823
+id=node/268641371</desc></wpt><wpt lat="49.4390991" lon="6.6254258"><name>Merzig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12482
+TMC:cid_58:tabcd_1:NextLocationCode=41598
+TMC:cid_58:tabcd_1:PrevLocationCode=12481
+highway=motorway_junction
+name=Merzig
+ref=6
+id=node/269014374</desc></wpt><wpt lat="49.2867308" lon="6.7615937"><name>Saarlouis-Lisdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12051
+TMC:cid_58:tabcd_1:NextLocationCode=41532
+TMC:cid_58:tabcd_1:PrevLocationCode=12050
+highway=motorway_junction
+name=Saarlouis-Lisdorf
+ref=4a
+id=node/269108948</desc></wpt><wpt lat="49.4594653" lon="6.6022416"><name>Merzig-Schwemlingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12481
+TMC:cid_58:tabcd_1:NextLocationCode=12482
+TMC:cid_58:tabcd_1:PrevLocationCode=41597
+highway=motorway_junction
+name=Merzig-Schwemlingen
+ref=5
+id=node/269182526</desc></wpt><wpt lat="49.4224361" lon="7.1615208"><name>Sankt Wendel-Niederlinxweiler</name><desc>highway=motorway_junction
+name=Sankt Wendel-Niederlinxweiler
+id=node/270318373</desc></wpt><wpt lat="49.3412539" lon="6.758665"><name>Saarlouis-Steinrausch</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12487
+TMC:cid_58:tabcd_1:NextLocationCode=12488
+TMC:cid_58:tabcd_1:PrevLocationCode=12486
+highway=motorway_junction
+name=Saarlouis-Steinrausch
+ref=11
+id=node/273103659</desc></wpt><wpt lat="49.3440102" lon="6.7703683"><name>Nalbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12488
+TMC:cid_58:tabcd_1:NextLocationCode=12489
+TMC:cid_58:tabcd_1:PrevLocationCode=12487
+highway=motorway_junction
+name=Nalbach
+ref=12
+id=node/273115702</desc></wpt><wpt lat="49.3421345" lon="6.7975183"><name>Saarwellingen-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12489
+TMC:cid_58:tabcd_1:NextLocationCode=12490
+TMC:cid_58:tabcd_1:PrevLocationCode=12488
+highway=motorway_junction
+name=Saarwellingen-Mitte
+ref=13
+id=node/273119669</desc></wpt><wpt lat="49.3180604" lon="7.2391215"><name>Neunkirchen-Kohlhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12502
+TMC:cid_58:tabcd_1:NextLocationCode=12503
+TMC:cid_58:tabcd_1:PrevLocationCode=12501
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Neunkirchen-Kohlhof
+ref=26
+id=node/276213851</desc></wpt><wpt lat="49.3203314" lon="6.8697257"><name>Schwalbach/Schwarzenholz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12491
+TMC:cid_58:tabcd_1:NextLocationCode=12492
+TMC:cid_58:tabcd_1:PrevLocationCode=12490
+highway=motorway_junction
+name=Schwalbach/Schwarzenholz
+ref=15
+id=node/276673959</desc></wpt><wpt lat="49.2530617" lon="6.8332404"><name>Völklingen-Wehrden</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12054
+TMC:cid_58:tabcd_1:NextLocationCode=12055
+TMC:cid_58:tabcd_1:PrevLocationCode=12052
+highway=motorway_junction
+name=Völklingen-Wehrden
+ref=7
+id=node/278238145</desc></wpt><wpt lat="49.2549684" lon="6.8331439"><name>Völklingen-Wehrden</name><desc>highway=motorway_junction
+name=Völklingen-Wehrden
+ref=7
+id=node/278238379</desc></wpt><wpt lat="49.3305696" lon="6.7294442"><name>Dreieck Saarlouis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12047
+TMC:cid_58:tabcd_1:NextLocationCode=12048
+highway=motorway_junction
+name=Dreieck Saarlouis
+ref=1
+id=node/278238397</desc></wpt><wpt lat="49.2532552" lon="6.833338"><name>Völklingen-Wehrden</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12054
+TMC:cid_58:tabcd_1:NextLocationCode=12055
+TMC:cid_58:tabcd_1:PrevLocationCode=12052
+highway=motorway_junction
+name=Völklingen-Wehrden
+ref=7
+id=node/278238879</desc></wpt><wpt lat="49.501289" lon="7.1485995"><name>Hofeld-Mauschbach</name><desc>highway=motorway_junction
+name=Hofeld-Mauschbach
+id=node/278799852</desc></wpt><wpt lat="49.2674686" lon="7.1357978"><name>Sankt Ingbert-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11853
+TMC:cid_58:tabcd_1:NextLocationCode=41579
+TMC:cid_58:tabcd_1:PrevLocationCode=11852
+highway=motorway_junction
+name=Sankt Ingbert-Mitte
+ref=6
+id=node/286473002</desc></wpt><wpt lat="49.3424626" lon="6.7065378"><name>Dillingen-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12484
+TMC:cid_58:tabcd_1:NextLocationCode=12485
+TMC:cid_58:tabcd_1:PrevLocationCode=12483
+highway=motorway_junction
+name=Dillingen-Mitte
+ref=8
+id=node/288545335</desc></wpt><wpt lat="49.3638363" lon="6.6944893"><name>Rehlingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12483
+TMC:cid_58:tabcd_1:NextLocationCode=12484
+TMC:cid_58:tabcd_1:PrevLocationCode=41598
+highway=motorway_junction
+name=Rehlingen
+ref=7
+id=node/290363274</desc></wpt><wpt lat="49.3056076" lon="7.2676164"><name>Kirkel-Limbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12504
+TMC:cid_58:tabcd_1:NextLocationCode=41581
+TMC:cid_58:tabcd_1:PrevLocationCode=12503
+highway=motorway_junction
+name=Kirkel-Limbach
+ref=28
+id=node/290412942</desc></wpt><wpt lat="49.3051796" lon="7.2686243"><name>Kirkel-Limbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12504
+TMC:cid_58:tabcd_1:NextLocationCode=41581
+TMC:cid_58:tabcd_1:PrevLocationCode=12503
+highway=motorway_junction
+name=Kirkel-Limbach
+ref=28
+id=node/290469238</desc></wpt><wpt lat="49.5584307" lon="7.2601248"><name>Freisen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12036
+TMC:cid_58:tabcd_1:NextLocationCode=12037
+TMC:cid_58:tabcd_1:PrevLocationCode=41592
+highway=motorway_junction
+name=Freisen
+ref=5
+id=node/295098557</desc></wpt><wpt lat="49.2485067" lon="6.8667917"><name>Völklingen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12057
+TMC:cid_58:tabcd_1:NextLocationCode=12059
+TMC:cid_58:tabcd_1:PrevLocationCode=12056
+highway=motorway_junction
+name=Völklingen-Ost
+ref=10
+id=node/296336919</desc></wpt><wpt lat="49.4698114" lon="7.1492071"><name>St. Wendel-Winterbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=23384
+TMC:cid_58:tabcd_1:NextLocationCode=29865
+TMC:cid_58:tabcd_1:PrevLocationCode=41607
+highway=motorway_junction
+name=St. Wendel-Winterbach
+id=node/298856959</desc></wpt><wpt lat="49.5075888" lon="7.1462166"><name>Hofeld-Mauschbach</name><desc>highway=motorway_junction
+name=Hofeld-Mauschbach
+id=node/299040402</desc></wpt><wpt lat="49.4532013" lon="6.5245369"><name>Merzig-Wellingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12480
+TMC:cid_58:tabcd_1:NextLocationCode=41597
+TMC:cid_58:tabcd_1:PrevLocationCode=41501
+highway=motorway_junction
+name=Merzig-Wellingen
+ref=4
+id=node/301393035</desc></wpt><wpt lat="49.3249378" lon="7.1611655"><name>Dreieck Neunkirchen-Spiesen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12499
+TMC:cid_58:tabcd_1:NextLocationCode=12500
+TMC:cid_58:tabcd_1:PrevLocationCode=12498
+highway=motorway_junction
+name=Dreieck Neunkirchen-Spiesen
+ref=23
+id=node/304067766</desc></wpt><wpt lat="49.4876637" lon="6.9876872"><name>Tholey-Hasborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10011
+TMC:cid_58:tabcd_1:NextLocationCode=41587
+TMC:cid_58:tabcd_1:PrevLocationCode=41588
+highway=motorway_junction
+name=Tholey-Hasborn
+ref=139
+id=node/306016140</desc></wpt><wpt lat="49.4568342" lon="6.9817771"><name>Tholey</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10010
+TMC:cid_58:tabcd_1:NextLocationCode=41588
+TMC:cid_58:tabcd_1:PrevLocationCode=41589
+highway=motorway_junction
+name=Tholey
+ref=140
+id=node/313176433</desc></wpt><wpt lat="49.3212091" lon="6.8721474"><name>Schwalbach/Schwarzenholz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12491
+TMC:cid_58:tabcd_1:NextLocationCode=12492
+TMC:cid_58:tabcd_1:PrevLocationCode=12490
+highway=motorway_junction
+name=Schwalbach/Schwarzenholz
+ref=15
+id=node/315031590</desc></wpt><wpt lat="49.3307683" lon="6.8092484"><name>Schwalbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12490
+TMC:cid_58:tabcd_1:NextLocationCode=12491
+TMC:cid_58:tabcd_1:PrevLocationCode=12489
+highway=motorway_junction
+name=Schwalbach
+ref=14
+id=node/315098329</desc></wpt><wpt lat="49.4893797" lon="6.9873179"><name>Tholey-Hasborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10011
+TMC:cid_58:tabcd_1:NextLocationCode=41587
+TMC:cid_58:tabcd_1:PrevLocationCode=41588
+highway=motorway_junction
+name=Tholey-Hasborn
+ref=139
+id=node/315895634</desc></wpt><wpt lat="49.3614673" lon="6.6949183"><name>Rehlingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12483
+TMC:cid_58:tabcd_1:NextLocationCode=12484
+TMC:cid_58:tabcd_1:PrevLocationCode=41598
+highway=motorway_junction
+name=Rehlingen
+ref=7
+id=node/316846411</desc></wpt><wpt lat="49.4449991" lon="6.6233869"><name>Merzig</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12482
+TMC:cid_58:tabcd_1:NextLocationCode=41598
+TMC:cid_58:tabcd_1:PrevLocationCode=12481
+highway=motorway_junction
+name=Merzig
+ref=6
+id=node/317791519</desc></wpt><wpt lat="49.3291227" lon="6.8154991"><name>Schwalbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12490
+TMC:cid_58:tabcd_1:NextLocationCode=12491
+TMC:cid_58:tabcd_1:PrevLocationCode=12489
+highway=motorway_junction
+name=Schwalbach
+ref=14
+id=node/318113666</desc></wpt><wpt lat="49.2839616" lon="6.7648973"><name>Ensdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41532
+TMC:cid_58:tabcd_1:NextLocationCode=12052
+TMC:cid_58:tabcd_1:PrevLocationCode=12051
+highway=motorway_junction
+name=Ensdorf
+ref=4b
+id=node/318306434</desc></wpt><wpt lat="49.3463143" lon="6.7809483"><name>Nalbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12488
+TMC:cid_58:tabcd_1:NextLocationCode=12489
+TMC:cid_58:tabcd_1:PrevLocationCode=12487
+highway=motorway_junction
+name=Nalbach
+ref=12
+id=node/340305774</desc></wpt><wpt lat="49.2806312" lon="6.7695612"><name>Ensdorf;Saarlouis-Lisdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41532
+TMC:cid_58:tabcd_1:NextLocationCode=12052
+TMC:cid_58:tabcd_1:PrevLocationCode=12051
+highway=motorway_junction
+name=Ensdorf;Saarlouis-Lisdorf
+ref=4b;4a
+id=node/348027860</desc></wpt><wpt lat="49.2830958" lon="6.766581"><name>Ensdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41532
+TMC:cid_58:tabcd_1:NextLocationCode=12052
+TMC:cid_58:tabcd_1:PrevLocationCode=12051
+highway=motorway_junction
+name=Ensdorf
+ref=4b
+id=node/348027868</desc></wpt><wpt lat="49.2923067" lon="7.0279439"><name>Saarbrücken-Dudweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12076
+TMC:cid_58:tabcd_1:NextLocationCode=12077
+TMC:cid_58:tabcd_1:PrevLocationCode=12075
+highway=motorway_junction
+name=Saarbrücken-Dudweiler
+ref=4
+id=node/365064476</desc></wpt><wpt lat="49.2077485" lon="6.965286"><name>Saarbrücken-Goldene Bremm</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11848
+TMC:cid_58:tabcd_1:NextLocationCode=11849
+TMC:cid_58:tabcd_1:PrevLocationCode=11847
+highway=motorway_junction
+name=Saarbrücken-Goldene Bremm
+ref=2
+id=node/368695725</desc></wpt><wpt lat="49.3174835" lon="6.7307248"><name>Wallerfangen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12048
+TMC:cid_58:tabcd_1:NextLocationCode=12049
+TMC:cid_58:tabcd_1:PrevLocationCode=12047
+highway=motorway_junction
+name=Wallerfangen
+ref=2
+id=node/379021085</desc></wpt><wpt lat="49.5977562" lon="6.9897175"><name>Otzenhausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12033
+TMC:cid_58:tabcd_1:NextLocationCode=41591
+TMC:cid_58:tabcd_1:PrevLocationCode=12032
+highway=motorway_junction
+name=Otzenhausen
+old_name=Nonnweiler-Otzenhausen
+ref=2
+id=node/413890054</desc></wpt><wpt lat="49.4505141" lon="7.1505115"><name>Sankt Wendel-Oberlinxweiler</name><desc>highway=motorway_junction
+name=Sankt Wendel-Oberlinxweiler
+id=node/443196505</desc></wpt><wpt lat="49.3228103" lon="6.7331951"><name>Wallerfangen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12048
+TMC:cid_58:tabcd_1:NextLocationCode=12049
+TMC:cid_58:tabcd_1:PrevLocationCode=12047
+highway=motorway_junction
+name=Wallerfangen
+ref=2
+id=node/446095911</desc></wpt><wpt lat="49.3060974" lon="6.7356766"><name>Saarlouis-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12049
+TMC:cid_58:tabcd_1:NextLocationCode=12050
+TMC:cid_58:tabcd_1:PrevLocationCode=12048
+highway=motorway_junction
+name=Saarlouis-Mitte
+ref=3
+id=node/446095912</desc></wpt><wpt lat="49.2727504" lon="6.7787441"><name>Wadgassen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12052
+TMC:cid_58:tabcd_1:NextLocationCode=12054
+TMC:cid_58:tabcd_1:PrevLocationCode=41532
+highway=motorway_junction
+name=Wadgassen
+ref=5
+id=node/566573310</desc></wpt><wpt lat="49.321893" lon="7.1499303"><name>Dreieck Neunkirchen-Spiesen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12499
+TMC:cid_58:tabcd_1:NextLocationCode=12500
+TMC:cid_58:tabcd_1:PrevLocationCode=12498
+highway=motorway_junction
+name=Dreieck Neunkirchen-Spiesen
+ref=23
+id=node/735145189</desc></wpt><wpt lat="49.5855272" lon="7.0831789"><name>Nohfelden-Türkismühle</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12034
+TMC:cid_58:tabcd_1:NextLocationCode=12035
+TMC:cid_58:tabcd_1:PrevLocationCode=41591
+highway=motorway_junction
+name=Nohfelden-Türkismühle
+ref=3
+id=node/767546682</desc></wpt><wpt lat="49.5932412" lon="6.9893989"><name>Otzenhausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10013
+TMC:cid_58:tabcd_1:NextLocationCode=10014
+TMC:cid_58:tabcd_1:PrevLocationCode=41585
+highway=motorway_junction
+name=Otzenhausen
+old_name=Nonnweiler-Otzenhausen
+ref=136
+id=node/767557419</desc></wpt><wpt lat="49.4573629" lon="6.9817905"><name>Tholey</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10010
+TMC:cid_58:tabcd_1:NextLocationCode=41588
+TMC:cid_58:tabcd_1:PrevLocationCode=41589
+highway=motorway_junction
+name=Tholey
+ref=140
+id=node/1173069477</desc></wpt><wpt lat="49.4134017" lon="6.9900666"><name>Eppelborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10009
+TMC:cid_58:tabcd_1:NextLocationCode=41589
+TMC:cid_58:tabcd_1:PrevLocationCode=10008
+highway=motorway_junction
+name=Eppelborn
+ref=141
+id=node/1173295721</desc></wpt><wpt lat="49.4147847" lon="6.9837094"><name>Eppelborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10009
+TMC:cid_58:tabcd_1:NextLocationCode=41589
+TMC:cid_58:tabcd_1:PrevLocationCode=10008
+highway=motorway_junction
+name=Eppelborn
+ref=141
+id=node/1173296051</desc></wpt><wpt lat="49.2781604" lon="6.9625963"><name>Saarbrücken-Von-der-Heydt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41504
+TMC:cid_58:tabcd_1:NextLocationCode=22302
+TMC:cid_58:tabcd_1:PrevLocationCode=41503
+highway=motorway_junction
+name=Saarbrücken-Von-der-Heydt
+ref=148
+id=node/1271062558</desc></wpt><wpt lat="49.3417509" lon="6.7409416"><name>Dillingen-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12486
+TMC:cid_58:tabcd_1:NextLocationCode=12487
+TMC:cid_58:tabcd_1:PrevLocationCode=12485
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Dillingen-Süd
+ref=10
+id=node/1301157328</desc></wpt><wpt lat="49.4459975" lon="7.1459246"><name>Sankt Wendel-Oberlinxweiler</name><desc>highway=motorway_junction
+name=Sankt Wendel-Oberlinxweiler
+id=node/1484593866</desc></wpt><wpt lat="49.4288591" lon="7.165044"><name>Sankt Wendel-Niederlinxweiler</name><desc>highway=motorway_junction
+name=Sankt Wendel-Niederlinxweiler
+id=node/1484648358</desc></wpt><wpt lat="49.3809941" lon="7.001854"><name>Illingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10008
+TMC:cid_58:tabcd_1:NextLocationCode=10009
+TMC:cid_58:tabcd_1:PrevLocationCode=10007
+highway=motorway_junction
+name=Illingen
+ref=142
+id=node/1519388249</desc></wpt><wpt lat="49.3822367" lon="7.0023942"><name>Illingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10008
+TMC:cid_58:tabcd_1:NextLocationCode=10009
+TMC:cid_58:tabcd_1:PrevLocationCode=10007
+highway=motorway_junction
+name=Illingen
+ref=142
+id=node/1519388260</desc></wpt><wpt lat="49.3593467" lon="7.0170576"><name>Kreuz Saarbrücken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10007
+TMC:cid_58:tabcd_1:NextLocationCode=10008
+TMC:cid_58:tabcd_1:PrevLocationCode=10006
+highway=motorway_junction
+name=Kreuz Saarbrücken
+ref=143
+wikidata=Q785906
+id=node/1519388272</desc></wpt><wpt lat="49.3498732" lon="7.0167692"><name>Kreuz Saarbrücken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10007
+TMC:cid_58:tabcd_1:NextLocationCode=10008
+TMC:cid_58:tabcd_1:PrevLocationCode=10006
+highway=motorway_junction
+name=Kreuz Saarbrücken
+ref=143
+wikidata=Q785906
+id=node/1519388287</desc></wpt><wpt lat="49.352467" lon="7.0256239"><name>Kreuz Saarbrücken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12493
+TMC:cid_58:tabcd_1:NextLocationCode=12494
+TMC:cid_58:tabcd_1:PrevLocationCode=41583
+highway=motorway_junction
+name=Kreuz Saarbrücken
+ref=17
+wikidata=Q785906
+id=node/1519431410</desc></wpt><wpt lat="49.3550415" lon="7.0124749"><name>Kreuz Saarbrücken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12493
+TMC:cid_58:tabcd_1:NextLocationCode=12494
+TMC:cid_58:tabcd_1:PrevLocationCode=41583
+highway=motorway_junction
+name=Kreuz Saarbrücken
+ref=17
+wikidata=Q785906
+id=node/1519431413</desc></wpt><wpt lat="49.339023" lon="7.0550923"><name>Merchweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12494
+TMC:cid_58:tabcd_1:NextLocationCode=12495
+TMC:cid_58:tabcd_1:PrevLocationCode=12493
+highway=motorway_junction
+name=Merchweiler
+ref=18
+id=node/1519431416</desc></wpt><wpt lat="49.3430048" lon="7.0490977"><name>Merchweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12494
+TMC:cid_58:tabcd_1:NextLocationCode=12495
+TMC:cid_58:tabcd_1:PrevLocationCode=12493
+highway=motorway_junction
+name=Merchweiler
+ref=18
+id=node/1519431422</desc></wpt><wpt lat="49.3177857" lon="6.9777626"><name>Holz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10005
+TMC:cid_58:tabcd_1:NextLocationCode=10006
+TMC:cid_58:tabcd_1:PrevLocationCode=41590
+highway=motorway_junction
+name=Holz
+ref=145
+id=node/1520262802</desc></wpt><wpt lat="49.2936201" lon="6.958454"><name>Riegelsberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10004
+TMC:cid_58:tabcd_1:NextLocationCode=41590
+TMC:cid_58:tabcd_1:PrevLocationCode=10003
+highway=motorway_junction
+name=Riegelsberg
+ref=146
+id=node/1520343144</desc></wpt><wpt lat="49.2988156" lon="6.9616124"><name>Riegelsberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10004
+TMC:cid_58:tabcd_1:NextLocationCode=41590
+TMC:cid_58:tabcd_1:PrevLocationCode=10003
+highway=motorway_junction
+name=Riegelsberg
+ref=146
+id=node/1520343372</desc></wpt><wpt lat="49.3218933" lon="7.0782274"><name>Dreieck Friedrichsthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12496
+TMC:cid_58:tabcd_1:NextLocationCode=12497
+TMC:cid_58:tabcd_1:PrevLocationCode=12495
+highway=motorway_junction
+name=Dreieck Friedrichsthal
+ref=20
+id=node/1521685618</desc></wpt><wpt lat="49.3315051" lon="7.0709954"><name>Friedrichsthal-Bildstock</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12495
+TMC:cid_58:tabcd_1:NextLocationCode=12496
+TMC:cid_58:tabcd_1:PrevLocationCode=12494
+highway=motorway_junction
+name=Friedrichsthal-Bildstock
+ref=19
+id=node/1521685628</desc></wpt><wpt lat="49.3182013" lon="7.0830404"><name>Dreieck Friedrichsthal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12496
+TMC:cid_58:tabcd_1:NextLocationCode=12497
+TMC:cid_58:tabcd_1:PrevLocationCode=12495
+highway=motorway_junction
+name=Dreieck Friedrichsthal
+ref=20
+id=node/1521705620</desc></wpt><wpt lat="49.258757" lon="6.993354"><name>Saarbrücken-Ludwigsberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41601
+TMC:cid_58:tabcd_1:NextLocationCode=12075
+TMC:cid_58:tabcd_1:PrevLocationCode=41602
+highway=motorway_junction
+maxspeed=60
+name=Saarbrücken-Ludwigsberg
+ref=7
+traffic_sign=maxspeed
+id=node/1521815699</desc></wpt><wpt lat="49.2504109" lon="7.0049348"><name>B 41/Saarbrücken-Güterbahnhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12074
+TMC:cid_58:tabcd_1:NextLocationCode=41602
+highway=motorway_junction
+name=B 41/Saarbrücken-Güterbahnhof
+id=node/1521938267</desc></wpt><wpt lat="49.254924" lon="6.9949438"><name>Saarbrücken-Rodenhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41602
+TMC:cid_58:tabcd_1:NextLocationCode=41601
+TMC:cid_58:tabcd_1:PrevLocationCode=12074
+highway=motorway_junction
+name=Saarbrücken-Rodenhof
+ref=8
+vehicle=destination
+id=node/1521973564</desc></wpt><wpt lat="49.254181" lon="6.9955118"><name>Saarbrücken-Rodenhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=41602
+TMC:cid_58:tabcd_1:NextLocationCode=41601
+TMC:cid_58:tabcd_1:PrevLocationCode=12074
+highway=motorway_junction
+name=Saarbrücken-Rodenhof
+ref=8
+id=node/1522037631</desc></wpt><wpt lat="49.6073294" lon="6.9605497"><name>Nonnweiler-Bierfeld</name><desc>highway=motorway_junction
+name=Nonnweiler-Bierfeld
+ref=134
+id=node/1523992770</desc></wpt><wpt lat="49.2830564" lon="7.0142205"><name>Saarbrücken-Herrensohr</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12075
+TMC:cid_58:tabcd_1:NextLocationCode=12076
+TMC:cid_58:tabcd_1:PrevLocationCode=41601
+highway=motorway_junction
+name=Saarbrücken-Herrensohr
+ref=5
+id=node/1529430193</desc></wpt><wpt lat="49.2925045" lon="7.0280353"><name>Saarbrücken-Dudweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12076
+TMC:cid_58:tabcd_1:NextLocationCode=12077
+TMC:cid_58:tabcd_1:PrevLocationCode=12075
+highway=motorway_junction
+name=Saarbrücken-Dudweiler
+ref=4
+id=node/1530688878</desc></wpt><wpt lat="49.3040352" lon="7.0559015"><name>Sulzbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12077
+TMC:cid_58:tabcd_1:NextLocationCode=12079
+TMC:cid_58:tabcd_1:PrevLocationCode=12076
+highway=motorway_junction
+name=Sulzbach
+ref=3
+id=node/1530722345</desc></wpt><wpt lat="49.3138025" lon="7.0685731"><name>Sulzbach-Altenwald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12079
+TMC:cid_58:tabcd_1:NextLocationCode=12080
+TMC:cid_58:tabcd_1:PrevLocationCode=12077
+highway=motorway_junction
+name=Sulzbach-Altenwald
+ref=2
+id=node/1530751194</desc></wpt><wpt lat="49.3168074" lon="7.0754549"><name>Sulzbach-Altenwald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12079
+TMC:cid_58:tabcd_1:NextLocationCode=12080
+TMC:cid_58:tabcd_1:PrevLocationCode=12077
+highway=motorway_junction
+name=Sulzbach-Altenwald
+ref=2
+id=node/1530751200</desc></wpt><wpt lat="49.3238078" lon="7.1284419"><name>Neunkirchen-Heinitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12498
+TMC:cid_58:tabcd_1:NextLocationCode=12499
+TMC:cid_58:tabcd_1:PrevLocationCode=12497
+highway=motorway_junction
+name=Neunkirchen-Heinitz
+ref=22
+id=node/1531630120</desc></wpt><wpt lat="49.3242679" lon="7.1575368"><name>Neunkirchen-Spiesen</name><desc>highway=motorway_junction
+name=Neunkirchen-Spiesen
+ref=23
+wikidata=Q14848834
+id=node/1531743787</desc></wpt><wpt lat="49.3234162" lon="7.154941"><name>Dreieck Neunkirchen-Spiesen</name><desc>highway=motorway_junction
+name=Dreieck Neunkirchen-Spiesen
+ref=23
+id=node/1531769920</desc></wpt><wpt lat="49.459501" lon="7.1573817"><name>St. Wendel-City</name><desc>highway=motorway_junction
+name=St. Wendel-City
+id=node/1534497555</desc></wpt><wpt lat="49.4635923" lon="7.154503"><name>St. Wendel-City</name><desc>highway=motorway_junction
+name=St. Wendel-City
+id=node/1534497556</desc></wpt><wpt lat="49.4816738" lon="7.1451059"><name>Sankt Wendel-Alsfassen</name><desc>highway=motorway_junction
+name=Sankt Wendel-Alsfassen
+id=node/1534689070</desc></wpt><wpt lat="49.3294545" lon="7.1949329"><name>Neunkirchen-Oberstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12500
+TMC:cid_58:tabcd_1:NextLocationCode=41582
+TMC:cid_58:tabcd_1:PrevLocationCode=12499
+highway=motorway_junction
+name=Neunkirchen-Oberstadt
+ref=24
+id=node/1538096042</desc></wpt><wpt lat="49.3294018" lon="7.1923271"><name>Neunkirchen-Oberstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12500
+TMC:cid_58:tabcd_1:NextLocationCode=41582
+TMC:cid_58:tabcd_1:PrevLocationCode=12499
+highway=motorway_junction
+name=Neunkirchen-Oberstadt
+ref=24
+id=node/1538484995</desc></wpt><wpt lat="49.3106862" lon="7.2509596"><name>Kreuz Neunkirchen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12503
+TMC:cid_58:tabcd_1:NextLocationCode=12504
+TMC:cid_58:tabcd_1:PrevLocationCode=12502
+TMC:cid_58:tabcd_1:TypeName=motorway intersection
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnkreuz
+highway=motorway_junction
+name=Kreuz Neunkirchen
+ref=27
+id=node/1538781725</desc></wpt><wpt lat="49.3489084" lon="6.935074"><name>Heusweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12492
+TMC:cid_58:tabcd_1:NextLocationCode=41583
+TMC:cid_58:tabcd_1:PrevLocationCode=12491
+highway=motorway_junction
+name=Heusweiler
+ref=16
+id=node/1555494142</desc></wpt><wpt lat="49.5195271" lon="6.9955984"><name>Nonnweiler-Primstal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10012
+TMC:cid_58:tabcd_1:NextLocationCode=41586
+TMC:cid_58:tabcd_1:PrevLocationCode=41587
+highway=motorway_junction
+name=Nonnweiler-Primstal
+ref=138
+id=node/1555494161</desc></wpt><wpt lat="49.2716093" lon="6.7815793"><name>Wadgassen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12052
+TMC:cid_58:tabcd_1:NextLocationCode=12054
+TMC:cid_58:tabcd_1:PrevLocationCode=41532
+highway=motorway_junction
+name=Wadgassen
+ref=5
+id=node/1555522926</desc></wpt><wpt lat="49.2363721" lon="6.9465111"><name>Saarbrücken-Gersweiler</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12061
+TMC:cid_58:tabcd_1:NextLocationCode=12062
+TMC:cid_58:tabcd_1:PrevLocationCode=12059
+highway=motorway_junction
+name=Saarbrücken-Gersweiler
+ref=12
+id=node/1555553275</desc></wpt><wpt lat="49.3179105" lon="7.239034"><name>Neunkirchen-Kohlhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12502
+TMC:cid_58:tabcd_1:NextLocationCode=12503
+TMC:cid_58:tabcd_1:PrevLocationCode=12501
+TMC:cid_58:tabcd_1:TypeName=motorway junction
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahnanschlussstelle
+highway=motorway_junction
+name=Neunkirchen-Kohlhof
+ref=26
+id=node/2457903756</desc></wpt><wpt lat="49.5162235" lon="6.9964127"><name>Nonnweiler-Primstal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10012
+TMC:cid_58:tabcd_1:NextLocationCode=41586
+TMC:cid_58:tabcd_1:PrevLocationCode=41587
+highway=motorway_junction
+name=Nonnweiler-Primstal
+ref=138
+id=node/2533989016</desc></wpt><wpt lat="49.2601417" lon="7.1043764"><name>St. Ingbert-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11852
+TMC:cid_58:tabcd_1:NextLocationCode=11853
+TMC:cid_58:tabcd_1:PrevLocationCode=41580
+highway=motorway_junction
+name=St. Ingbert-West
+ref=5
+id=node/2711561401</desc></wpt><wpt lat="49.2106083" lon="6.9715165"><name>node/2711643734</name><desc>highway=motorway_junction
+noref=yes
+id=node/2711643734</desc></wpt><wpt lat="49.4855962" lon="6.4172103"><name>Perl-Borg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12479
+TMC:cid_58:tabcd_1:NextLocationCode=41501
+TMC:cid_58:tabcd_1:PrevLocationCode=12478
+highway=motorway_junction
+name=Perl-Borg
+ref=3
+id=node/3123245575</desc></wpt><wpt lat="49.2584366" lon="7.1010539"><name>St. Ingbert-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11852
+TMC:cid_58:tabcd_1:NextLocationCode=11853
+TMC:cid_58:tabcd_1:PrevLocationCode=41580
+highway=motorway_junction
+name=St. Ingbert-West
+ref=5
+id=node/3670322258</desc></wpt><wpt lat="49.4860219" lon="6.4166098"><name>Perl-Borg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12479
+TMC:cid_58:tabcd_1:NextLocationCode=41501
+TMC:cid_58:tabcd_1:PrevLocationCode=12478
+highway=motorway_junction
+name=Perl-Borg
+ref=3
+id=node/4429213075</desc></wpt><wpt lat="49.334095" lon="6.7277292"><name>Dreieck Saarlouis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12485
+TMC:cid_58:tabcd_1:NextLocationCode=12486
+TMC:cid_58:tabcd_1:PrevLocationCode=12484
+TMC:cid_58:tabcd_1:TypeName=motorway triangle
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahndreieck
+highway=motorway_junction
+name=Dreieck Saarlouis
+ref=9
+id=node/7823829526</desc></wpt></gpx>

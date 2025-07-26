@@ -1,0 +1,265 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.4890753" lon="7.2699169"><name>Am Pflanzgarten</name><desc>access=customers
+caravans=no
+description=Frühzeitig Anmeldung bei Jörg Becker (06856/ 8651)
+drinking_water=no
+name=Am Pflanzgarten
+operator=Trapper Staffel Osterbrücken
+phone=+49 6856 8651
+shower=yes
+static_caravans=no
+tents=yes
+toilets=yes
+tourism=camp_site
+website=https://osterbruecken.de/wiki/index.php/Zeltplatz
+id=node/3446800764</desc></wpt><wpt lat="49.4951752" lon="7.2692334"><name>Osterbrücken am Dorfgemeinschaftshaus</name><desc>access=customers
+addr:city=Sankt Wendel
+addr:housenumber=9
+addr:postcode=66606
+addr:street=Selchenbacher Weg
+caravans=yes
+name=Osterbrücken am Dorfgemeinschaftshaus
+operator=Gemeinde
+static_caravans=no
+tents=yes
+tourism=camp_site
+id=node/3446803662</desc></wpt><wpt lat="49.5920872" lon="6.8740859"><name>node/4404248991</name><desc>tourism=camp_site
+id=node/4404248991</desc></wpt><wpt lat="49.6285758" lon="7.009201"><name>Trekkingcamp Keltenlager</name><desc>access=customers
+backcountry=yes
+capacity:persons=8
+capacity:tents=4
+caravans=no
+fee=yes
+name=Trekkingcamp Keltenlager
+openfire=no
+operator=Nationalparkamt Hunsrück-Hochwald
+shower=no
+tents=yes
+toilets=yes
+tourism=camp_site
+website=https://www.nlphh.de/essen-trinken-uebernachten/trekking-camps/
+id=node/12729427631</desc></wpt><trk><name>Wellnester Losheim am See</name><desc>addr:city=Losheim am See
+addr:housenumber=210
+addr:postcode=66679
+addr:street=Zum Stausee
+caravans=yes
+name=Wellnester Losheim am See
+operator=wellnester Losheim am See GmbH
+tents=yes
+tourism=camp_site
+type=multipolygon
+website=https://camping-losheimamsee.de/
+wheelchair=no
+id=relation/7383910</desc><trkseg><trkpt lat="49.521436" lon="6.7279407"/><trkpt lat="49.5210357" lon="6.7287206"/><trkpt lat="49.5208623" lon="6.7290585"/><trkpt lat="49.5206606" lon="6.7298109"/><trkpt lat="49.5207924" lon="6.7304884"/><trkpt lat="49.5210467" lon="6.7306022"/><trkpt lat="49.5214621" lon="6.730788"/><trkpt lat="49.5218728" lon="6.7318555"/><trkpt lat="49.5220999" lon="6.7317564"/><trkpt lat="49.5240555" lon="6.730198"/><trkpt lat="49.5245752" lon="6.7299678"/><trkpt lat="49.5258475" lon="6.7310921"/><trkpt lat="49.5256767" lon="6.7304993"/><trkpt lat="49.5253407" lon="6.7294049"/><trkpt lat="49.5251692" lon="6.7293942"/><trkpt lat="49.5250718" lon="6.7290401"/><trkpt lat="49.5252275" lon="6.7287344"/><trkpt lat="49.5248997" lon="6.7276595"/><trkpt lat="49.5247537" lon="6.7273871"/><trkpt lat="49.524632" lon="6.7267133"/><trkpt lat="49.5245428" lon="6.7266288"/><trkpt lat="49.5244798" lon="6.7264573"/><trkpt lat="49.5242196" lon="6.726601"/><trkpt lat="49.5241643" lon="6.7259729"/><trkpt lat="49.5232489" lon="6.7264495"/><trkpt lat="49.5230417" lon="6.7259373"/><trkpt lat="49.5230587" lon="6.7256641"/><trkpt lat="49.5229672" lon="6.7258601"/><trkpt lat="49.5228903" lon="6.7259764"/><trkpt lat="49.5225562" lon="6.7262805"/><trkpt lat="49.522161" lon="6.7266497"/><trkpt lat="49.5219235" lon="6.726895"/><trkpt lat="49.5217749" lon="6.7271432"/><trkpt lat="49.5220333" lon="6.7274466"/><trkpt lat="49.5219131" lon="6.7275461"/><trkpt lat="49.521436" lon="6.7279407"/></trkseg><trkseg><trkpt lat="49.5230535" lon="6.7256897"/><trkpt lat="49.5230361" lon="6.7259422"/><trkpt lat="49.5231493" lon="6.726251"/><trkpt lat="49.5231243" lon="6.7263492"/><trkpt lat="49.5230098" lon="6.7263546"/><trkpt lat="49.5229658" lon="6.7264478"/><trkpt lat="49.5228378" lon="6.7264679"/><trkpt lat="49.5227577" lon="6.7264726"/><trkpt lat="49.5226289" lon="6.726653"/><trkpt lat="49.5224857" lon="6.7267743"/><trkpt lat="49.5224173" lon="6.7268461"/><trkpt lat="49.5224992" lon="6.7269507"/><trkpt lat="49.5228021" lon="6.7269024"/><trkpt lat="49.5229501" lon="6.7269909"/><trkpt lat="49.5231155" lon="6.7269319"/><trkpt lat="49.523264" lon="6.7268267"/><trkpt lat="49.5232583" lon="6.7267482"/><trkpt lat="49.5233184" lon="6.7266476"/><trkpt lat="49.5233854" lon="6.7268984"/><trkpt lat="49.5234616" lon="6.7271968"/><trkpt lat="49.5236257" lon="6.7270955"/><trkpt lat="49.5239182" lon="6.7268944"/><trkpt lat="49.5240784" lon="6.7268005"/><trkpt lat="49.5241271" lon="6.7266731"/><trkpt lat="49.5240914" lon="6.7262252"/><trkpt lat="49.524074" lon="6.7260374"/><trkpt lat="49.5241572" lon="6.7259965"/><trkpt lat="49.5242177" lon="6.7268246"/><trkpt lat="49.5242451" lon="6.7270976"/><trkpt lat="49.5242873" lon="6.7274187"/><trkpt lat="49.5243221" lon="6.7275596"/><trkpt lat="49.5242168" lon="6.7276119"/><trkpt lat="49.5241306" lon="6.7269199"/><trkpt lat="49.5239009" lon="6.7271314"/><trkpt lat="49.5236936" lon="6.7272659"/><trkpt lat="49.5236379" lon="6.7273302"/><trkpt lat="49.5236475" lon="6.727526"/><trkpt lat="49.5235587" lon="6.7278667"/><trkpt lat="49.5234969" lon="6.7279659"/><trkpt lat="49.5233297" lon="6.7280344"/><trkpt lat="49.5231369" lon="6.7276735"/><trkpt lat="49.5228666" lon="6.7277393"/><trkpt lat="49.5226681" lon="6.7276749"/><trkpt lat="49.5225183" lon="6.7276964"/><trkpt lat="49.5224731" lon="6.7276481"/><trkpt lat="49.5223111" lon="6.7275354"/><trkpt lat="49.5221806" lon="6.727345"/><trkpt lat="49.5221248" lon="6.7271948"/><trkpt lat="49.5221579" lon="6.7269972"/><trkpt lat="49.5221952" lon="6.7269348"/><trkpt lat="49.5222003" lon="6.726766"/><trkpt lat="49.5222628" lon="6.7265775"/><trkpt lat="49.5227274" lon="6.7261373"/><trkpt lat="49.5228997" lon="6.7259793"/><trkpt lat="49.5229698" lon="6.7258654"/><trkpt lat="49.5230535" lon="6.7256897"/></trkseg><trkseg><trkpt lat="49.5244477" lon="6.729337"/><trkpt lat="49.5245695" lon="6.7299628"/><trkpt lat="49.524416" lon="6.7300336"/><trkpt lat="49.5242943" lon="6.7294078"/><trkpt lat="49.5244477" lon="6.729337"/></trkseg><trkseg><trkpt lat="49.5242711" lon="6.729431"/><trkpt lat="49.5244074" lon="6.7300343"/><trkpt lat="49.5242352" lon="6.7301126"/><trkpt lat="49.5241208" lon="6.7295"/><trkpt lat="49.5242711" lon="6.729431"/></trkseg></trk><trk><name>Mosel-Camping Dreiländereck</name><desc>caravans=yes
+email=info@mosel-camping.de
+fax=+49 6866 1005
+name=Mosel-Camping Dreiländereck
+name:da=ved mosell
+operator=Reinhold Ollinger
+phone=+49 6866 322
+tents=yes
+tourism=camp_site
+website=https://mosel-camping.de/
+id=way/33831707</desc><trkseg><trkpt lat="49.5396032" lon="6.369968"/><trkpt lat="49.5398394" lon="6.3701158"/><trkpt lat="49.5397811" lon="6.3702944"/><trkpt lat="49.5407963" lon="6.3708329"/><trkpt lat="49.541748" lon="6.3714418"/><trkpt lat="49.541858" lon="6.3711204"/><trkpt lat="49.5422103" lon="6.3713803"/><trkpt lat="49.5423883" lon="6.3709077"/><trkpt lat="49.5423932" lon="6.3708567"/><trkpt lat="49.5423745" lon="6.370786"/><trkpt lat="49.5422535" lon="6.3706172"/><trkpt lat="49.5421298" lon="6.3704709"/><trkpt lat="49.5420566" lon="6.3703957"/><trkpt lat="49.5411821" lon="6.3695574"/><trkpt lat="49.5410041" lon="6.3693887"/><trkpt lat="49.540839" lon="6.369254"/><trkpt lat="49.540583" lon="6.3692248"/><trkpt lat="49.5403239" lon="6.3689143"/><trkpt lat="49.5400452" lon="6.3685392"/><trkpt lat="49.5398314" lon="6.3692233"/><trkpt lat="49.5396032" lon="6.369968"/></trkseg></trk><trk><name>Campingplatz Weierweiler Mühle</name><desc>addr:city=Weiskirchen
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66709
+addr:street=Dorfstraße
+area=yes
+name=Campingplatz Weierweiler Mühle
+phone=+49 6874 845
+tourism=camp_site
+website=http://www.camping-weierweiler.de/
+id=way/36990472</desc><trkseg><trkpt lat="49.53116" lon="6.8196337"/><trkpt lat="49.5312758" lon="6.8199382"/><trkpt lat="49.5312175" lon="6.8199932"/><trkpt lat="49.5309792" lon="6.8201275"/><trkpt lat="49.5311125" lon="6.8202709"/><trkpt lat="49.5313112" lon="6.8203479"/><trkpt lat="49.5315247" lon="6.820362"/><trkpt lat="49.5318564" lon="6.8205902"/><trkpt lat="49.5322551" lon="6.8206139"/><trkpt lat="49.5324673" lon="6.820127"/><trkpt lat="49.532342" lon="6.8194201"/><trkpt lat="49.5324772" lon="6.819176"/><trkpt lat="49.5323357" lon="6.8182984"/><trkpt lat="49.5321559" lon="6.8171031"/><trkpt lat="49.531801" lon="6.8172587"/><trkpt lat="49.5287553" lon="6.8190114"/><trkpt lat="49.5287659" lon="6.8190575"/><trkpt lat="49.5285119" lon="6.8192495"/><trkpt lat="49.5286103" lon="6.8196237"/><trkpt lat="49.5286216" lon="6.8198249"/><trkpt lat="49.5286155" lon="6.8200073"/><trkpt lat="49.5285006" lon="6.8206966"/><trkpt lat="49.5285484" lon="6.8207543"/><trkpt lat="49.5286764" lon="6.8207878"/><trkpt lat="49.5287342" lon="6.8207537"/><trkpt lat="49.5291396" lon="6.8204119"/><trkpt lat="49.5295048" lon="6.8199708"/><trkpt lat="49.5294086" lon="6.8197661"/><trkpt lat="49.5291231" lon="6.8200536"/><trkpt lat="49.5289195" lon="6.8191816"/><trkpt lat="49.5294178" lon="6.8189701"/><trkpt lat="49.5296709" lon="6.8188431"/><trkpt lat="49.5303997" lon="6.8189823"/><trkpt lat="49.5308275" lon="6.81899"/><trkpt lat="49.53116" lon="6.8196337"/></trkseg></trk><trk><name>Schwarzwälder Hochwald</name><desc>area=yes
+caravans=yes
+email=Anfrage-Camping-Weiskirchen@web.de
+motorhome=yes
+name=Schwarzwälder Hochwald
+phone=+49 6876 366
+shower=yes
+tents=yes
+toilets=yes
+tourism=camp_site
+website=http://www.camping-weiskirchen.de/
+id=way/37734745</desc><trkseg><trkpt lat="49.5655032" lon="6.809055"/><trkpt lat="49.564739" lon="6.8094996"/><trkpt lat="49.564552" lon="6.809579"/><trkpt lat="49.5642645" lon="6.809701"/><trkpt lat="49.5642108" lon="6.8098718"/><trkpt lat="49.5644383" lon="6.8122225"/><trkpt lat="49.5645926" lon="6.8137841"/><trkpt lat="49.5653038" lon="6.8135103"/><trkpt lat="49.5653889" lon="6.8133156"/><trkpt lat="49.565535" lon="6.8128256"/><trkpt lat="49.5658174" lon="6.8126133"/><trkpt lat="49.5655032" lon="6.809055"/></trkseg></trk><trk><name>Volkssonnengarten</name><desc>name=Volkssonnengarten
+tourism=camp_site
+website=https://www.volkssonnengarten.de/
+id=way/41270579</desc><trkseg><trkpt lat="49.3275261" lon="7.1936296"/><trkpt lat="49.3269967" lon="7.1941415"/><trkpt lat="49.3264686" lon="7.194573"/><trkpt lat="49.3263648" lon="7.1947624"/><trkpt lat="49.326428" lon="7.1950314"/><trkpt lat="49.32652" lon="7.1951945"/><trkpt lat="49.3266895" lon="7.1952959"/><trkpt lat="49.3268993" lon="7.1955737"/><trkpt lat="49.3271866" lon="7.1960808"/><trkpt lat="49.327382" lon="7.1962174"/><trkpt lat="49.3275487" lon="7.1963541"/><trkpt lat="49.3276522" lon="7.1966319"/><trkpt lat="49.3277384" lon="7.1969582"/><trkpt lat="49.3278806" lon="7.1969714"/><trkpt lat="49.3281786" lon="7.1968329"/><trkpt lat="49.3283274" lon="7.1965437"/><trkpt lat="49.3284912" lon="7.1962439"/><trkpt lat="49.3285027" lon="7.195997"/><trkpt lat="49.3284309" lon="7.1954414"/><trkpt lat="49.3283332" lon="7.1943039"/><trkpt lat="49.3281608" lon="7.1936249"/><trkpt lat="49.3278291" lon="7.1938545"/><trkpt lat="49.3276625" lon="7.1934092"/><trkpt lat="49.3275883" lon="7.1935292"/><trkpt lat="49.3275261" lon="7.1936296"/></trkseg></trk><trk><name>Campinpark Wallerfangen</name><desc>capacity=290
+caravans=yes
+charge=10 EUR
+fee=yes
+laundry=yes
+name=Campinpark Wallerfangen
+opening_hours=Apr-Sep
+permanent_camping=yes
+power_supply=yes
+sanitary_dump_station=yes
+seasonal=yes
+tents=yes
+toilets=yes
+tourism=camp_site
+water_point=yes
+website=https://campingpark-wallerfangen.de/
+id=way/45851330</desc><trkseg><trkpt lat="49.3267657" lon="6.6899446"/><trkpt lat="49.3275057" lon="6.6898675"/><trkpt lat="49.3276872" lon="6.6879577"/><trkpt lat="49.3275133" lon="6.6877219"/><trkpt lat="49.327005" lon="6.6887973"/><trkpt lat="49.3268731" lon="6.6891852"/><trkpt lat="49.3267679" lon="6.6893783"/><trkpt lat="49.3262854" lon="6.6884865"/><trkpt lat="49.3261097" lon="6.6881083"/><trkpt lat="49.3259209" lon="6.6876215"/><trkpt lat="49.3254432" lon="6.6880747"/><trkpt lat="49.325832" lon="6.6894195"/><trkpt lat="49.324932" lon="6.6901625"/><trkpt lat="49.3249317" lon="6.6904603"/><trkpt lat="49.3251568" lon="6.6916233"/><trkpt lat="49.3253708" lon="6.6921137"/><trkpt lat="49.3257164" lon="6.6919358"/><trkpt lat="49.3260741" lon="6.6917392"/><trkpt lat="49.3260201" lon="6.6906919"/><trkpt lat="49.3262925" lon="6.6901692"/><trkpt lat="49.3267661" lon="6.6901012"/><trkpt lat="49.3267657" lon="6.6899446"/></trkseg></trk><trk><name>Campingplatz Walsheim</name><desc>addr:city=Gersheim
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66453
+addr:street=Heuweg
+email=info@campingwalsheim.de
+name=Campingplatz Walsheim
+phone=+49 68 43 800 180
+stars=4
+tourism=camp_site
+website=https://www.campingwalsheim.de/
+id=way/49753804</desc><trkseg><trkpt lat="49.1596225" lon="7.243099"/><trkpt lat="49.1595551" lon="7.2431637"/><trkpt lat="49.1594988" lon="7.2432223"/><trkpt lat="49.1594119" lon="7.243314"/><trkpt lat="49.1593958" lon="7.2433308"/><trkpt lat="49.1593876" lon="7.2433394"/><trkpt lat="49.159371" lon="7.2433578"/><trkpt lat="49.1592637" lon="7.2434843"/><trkpt lat="49.1591877" lon="7.2435675"/><trkpt lat="49.1591653" lon="7.243598"/><trkpt lat="49.1590359" lon="7.2437718"/><trkpt lat="49.1589627" lon="7.2438666"/><trkpt lat="49.1588067" lon="7.2440618"/><trkpt lat="49.1587336" lon="7.2441587"/><trkpt lat="49.1587291" lon="7.2441959"/><trkpt lat="49.1587313" lon="7.2442599"/><trkpt lat="49.1588642" lon="7.2444906"/><trkpt lat="49.1604193" lon="7.2472159"/><trkpt lat="49.160619" lon="7.247173"/><trkpt lat="49.1612589" lon="7.246714"/><trkpt lat="49.1596225" lon="7.243099"/></trkseg></trk><trk><name>Campingplatz Burbach</name><desc>area=yes
+camp_site=reception
+caravans=yes
+drinking_water=no
+fee=yes
+name=Campingplatz Burbach
+operator=Kanu-Wanderer Saarbrücken e. V.
+scout=yes
+shower=yes
+tents=yes
+tourism=camp_site
+website=https://www.kanuwanderer.de/camping/kontakt-camping/
+id=way/51102183</desc><trkseg><trkpt lat="49.2400963" lon="6.9402915"/><trkpt lat="49.2404722" lon="6.9393922"/><trkpt lat="49.2405174" lon="6.9392799"/><trkpt lat="49.2404985" lon="6.9392614"/><trkpt lat="49.2402342" lon="6.9389903"/><trkpt lat="49.2402657" lon="6.9388461"/><trkpt lat="49.2398424" lon="6.9385679"/><trkpt lat="49.239707" lon="6.9390616"/><trkpt lat="49.2396663" lon="6.9392715"/><trkpt lat="49.2396294" lon="6.9395563"/><trkpt lat="49.2396385" lon="6.9396533"/><trkpt lat="49.2396933" lon="6.9397996"/><trkpt lat="49.2397354" lon="6.9399679"/><trkpt lat="49.2400963" lon="6.9402915"/></trkseg></trk><trk><name>Kapellenwiese</name><desc>name=Kapellenwiese
+tourism=camp_site
+website=https://www.oberthal.de/kultur-tourismus/waldzeltplatz-kapellenwiese/
+id=way/51789397</desc><trkseg><trkpt lat="49.5217074" lon="7.0639554"/><trkpt lat="49.5216817" lon="7.0640892"/><trkpt lat="49.5216672" lon="7.0647357"/><trkpt lat="49.5217155" lon="7.0648051"/><trkpt lat="49.5219004" lon="7.0647258"/><trkpt lat="49.5223668" lon="7.0645697"/><trkpt lat="49.5224761" lon="7.06454"/><trkpt lat="49.5224954" lon="7.0643815"/><trkpt lat="49.5224263" lon="7.0639802"/><trkpt lat="49.5223941" lon="7.0637869"/><trkpt lat="49.522251" lon="7.0637696"/><trkpt lat="49.5217074" lon="7.0639554"/></trkseg></trk><trk><name>Campingplatz Bostalsee</name><desc>contact:email=campingplatz@bostalsee.de
+contact:fax=+49 6852 92393
+contact:phone=+49 6852 92333
+internet_access=wlan
+internet_access:fee=yes
+name=Campingplatz Bostalsee
+sanitary_dump_station=yes
+smoking=yes
+stars=5
+tourism=camp_site
+website=https://www.bostalsee.de/campingplatz
+wheelchair=yes
+id=way/51795817</desc><trkseg><trkpt lat="49.5633071" lon="7.0611482"/><trkpt lat="49.5633894" lon="7.0610335"/><trkpt lat="49.5636298" lon="7.061031"/><trkpt lat="49.5637349" lon="7.0610267"/><trkpt lat="49.5638157" lon="7.0610123"/><trkpt lat="49.5638867" lon="7.0609513"/><trkpt lat="49.5639296" lon="7.0608461"/><trkpt lat="49.5639301" lon="7.0606969"/><trkpt lat="49.5639054" lon="7.0605891"/><trkpt lat="49.5638625" lon="7.0605188"/><trkpt lat="49.5638021" lon="7.0604589"/><trkpt lat="49.563472" lon="7.0604279"/><trkpt lat="49.5634011" lon="7.0603726"/><trkpt lat="49.5629037" lon="7.0600438"/><trkpt lat="49.5632266" lon="7.0589066"/><trkpt lat="49.5628744" lon="7.0585089"/><trkpt lat="49.5628737" lon="7.0583143"/><trkpt lat="49.5615961" lon="7.0563687"/><trkpt lat="49.5610209" lon="7.0590588"/><trkpt lat="49.5602516" lon="7.0587115"/><trkpt lat="49.5603484" lon="7.0580827"/><trkpt lat="49.5592357" lon="7.0578436"/><trkpt lat="49.5582873" lon="7.0572588"/><trkpt lat="49.5581951" lon="7.0578155"/><trkpt lat="49.5574457" lon="7.0580495"/><trkpt lat="49.5573374" lon="7.0580994"/><trkpt lat="49.5573114" lon="7.0588779"/><trkpt lat="49.5573463" lon="7.0601582"/><trkpt lat="49.5576263" lon="7.0608826"/><trkpt lat="49.5578183" lon="7.0613978"/><trkpt lat="49.5582901" lon="7.0610536"/><trkpt lat="49.5585726" lon="7.0608585"/><trkpt lat="49.5589018" lon="7.0607679"/><trkpt lat="49.5591761" lon="7.0607585"/><trkpt lat="49.5594515" lon="7.0607369"/><trkpt lat="49.559631" lon="7.0606558"/><trkpt lat="49.559767" lon="7.0606866"/><trkpt lat="49.5598373" lon="7.0607273"/><trkpt lat="49.559818" lon="7.0608944"/><trkpt lat="49.5598356" lon="7.0610403"/><trkpt lat="49.5598994" lon="7.0610946"/><trkpt lat="49.560982" lon="7.0612947"/><trkpt lat="49.5614198" lon="7.0613117"/><trkpt lat="49.5618471" lon="7.0612841"/><trkpt lat="49.5623813" lon="7.0611586"/><trkpt lat="49.562603" lon="7.0611478"/><trkpt lat="49.5633071" lon="7.0611482"/></trkseg></trk><trk><name>Campingplatz Schmelz</name><desc>barrier=fence
+name=Campingplatz Schmelz
+tourism=camp_site
+id=way/57710257</desc><trkseg><trkpt lat="49.4548656" lon="6.8521265"/><trkpt lat="49.4537704" lon="6.8493455"/><trkpt lat="49.4529966" lon="6.8500732"/><trkpt lat="49.4525052" lon="6.8508092"/><trkpt lat="49.4525151" lon="6.8512751"/><trkpt lat="49.4526717" lon="6.8517448"/><trkpt lat="49.4528054" lon="6.8521456"/><trkpt lat="49.4533004" lon="6.8536303"/><trkpt lat="49.4538149" lon="6.8531407"/><trkpt lat="49.4548656" lon="6.8521265"/></trkseg></trk><trk><name>Campingplatz Ensdorf</name><desc>addr:city=Ensdorf/Saar
+addr:country=DE
+addr:housenumber=100
+addr:postcode=66806
+addr:street=Prälat-Anheier-Straße
+email=campingplatzensdorf@web.de
+name=Campingplatz Ensdorf
+phone=+49 6831 53912
+source=Landsat,knowledge
+tourism=camp_site
+id=way/65710637</desc><trkseg><trkpt lat="49.3119277" lon="6.789973"/><trkpt lat="49.3117437" lon="6.7900012"/><trkpt lat="49.31114" lon="6.7900887"/><trkpt lat="49.3111578" lon="6.7904498"/><trkpt lat="49.311246" lon="6.7924489"/><trkpt lat="49.3113258" lon="6.7924405"/><trkpt lat="49.311558" lon="6.7921188"/><trkpt lat="49.3119577" lon="6.7918375"/><trkpt lat="49.3120382" lon="6.7916979"/><trkpt lat="49.3119888" lon="6.7911784"/><trkpt lat="49.3119489" lon="6.7902755"/><trkpt lat="49.3119277" lon="6.789973"/></trkseg></trk><trk><name>Campingplatz „Am Spicherer Berg“</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=10
+addr:postcode=66119
+addr:street=Spicherer Weg
+contact:phone=+49 681 51780
+contact:website=http://www.camping-saarbruecken.de/
+name=Campingplatz „Am Spicherer Berg“
+opening_hours:reception=07:00-13:00,15:00-22:00
+operator=Campingplatz Am Spicherer Berg e. V.
+tourism=camp_site
+wheelchair=yes
+id=way/83630546</desc><trkseg><trkpt lat="49.2102338" lon="6.9718947"/><trkpt lat="49.2099401" lon="6.9717896"/><trkpt lat="49.209574" lon="6.9716792"/><trkpt lat="49.2094471" lon="6.9721613"/><trkpt lat="49.2095099" lon="6.9724336"/><trkpt lat="49.2095672" lon="6.9726339"/><trkpt lat="49.2095563" lon="6.9730933"/><trkpt lat="49.2094466" lon="6.9745195"/><trkpt lat="49.209839" lon="6.9748471"/><trkpt lat="49.2106721" lon="6.9753539"/><trkpt lat="49.2106618" lon="6.9754"/><trkpt lat="49.2107634" lon="6.9754498"/><trkpt lat="49.2107746" lon="6.9753935"/><trkpt lat="49.210788" lon="6.9753044"/><trkpt lat="49.2107873" lon="6.9751937"/><trkpt lat="49.2107382" lon="6.9747669"/><trkpt lat="49.2105888" lon="6.9736054"/><trkpt lat="49.2104404" lon="6.9727845"/><trkpt lat="49.2102338" lon="6.9718947"/></trkseg></trk><trk><name>Camping Girtenmühle</name><desc>backcountry=no
+caravans=limited
+description=zu Wohnmobilen steht auf der Website, dass nur "kleine" erlaubt seien
+group_only=no
+name=Camping Girtenmühle
+permanent_camping=no
+phone=+49 6872 4089581
+tents=yes
+tourism=camp_site
+website=https://landgutgirtenmuehle.de/de/
+id=way/92670033</desc><trkseg><trkpt lat="49.5334534" lon="6.6886357"/><trkpt lat="49.5331819" lon="6.6877989"/><trkpt lat="49.5330851" lon="6.6876958"/><trkpt lat="49.5325896" lon="6.6872472"/><trkpt lat="49.5324561" lon="6.6871157"/><trkpt lat="49.5323151" lon="6.6870004"/><trkpt lat="49.5321273" lon="6.6869729"/><trkpt lat="49.5321026" lon="6.687068"/><trkpt lat="49.5317562" lon="6.6870542"/><trkpt lat="49.5317358" lon="6.687498"/><trkpt lat="49.5320729" lon="6.6875499"/><trkpt lat="49.5319678" lon="6.6876682"/><trkpt lat="49.5319185" lon="6.6879843"/><trkpt lat="49.5316861" lon="6.6880934"/><trkpt lat="49.5315921" lon="6.6887881"/><trkpt lat="49.5317638" lon="6.6890037"/><trkpt lat="49.532372" lon="6.6889866"/><trkpt lat="49.5324264" lon="6.68914"/><trkpt lat="49.5328197" lon="6.6895329"/><trkpt lat="49.5330814" lon="6.689288"/><trkpt lat="49.5333795" lon="6.688944"/><trkpt lat="49.5334534" lon="6.6886357"/></trkseg></trk><trk><name>way/96406188</name><desc>tourism=camp_site
+id=way/96406188</desc><trkseg><trkpt lat="49.4512344" lon="7.0485234"/><trkpt lat="49.4515204" lon="7.0485985"/><trkpt lat="49.4517601" lon="7.046626"/><trkpt lat="49.4517859" lon="7.0463894"/><trkpt lat="49.4514667" lon="7.0463185"/><trkpt lat="49.4514401" lon="7.0465627"/><trkpt lat="49.4513285" lon="7.0472281"/><trkpt lat="49.4512065" lon="7.0484646"/><trkpt lat="49.4512344" lon="7.0485234"/></trkseg></trk><trk><name>Campingplatz Dr. Ernst Dadder</name><desc>contact:email=info@campingplatz-saarlouis.de
+contact:website=http://www.campingplatz-saarlouis.de/
+name=Campingplatz Dr. Ernst Dadder
+operator=Stadt Saarlouis
+tourism=camp_site
+id=way/114160274</desc><trkseg><trkpt lat="49.318592" lon="6.7395238"/><trkpt lat="49.3184671" lon="6.7393658"/><trkpt lat="49.3183439" lon="6.7392203"/><trkpt lat="49.3179248" lon="6.7395002"/><trkpt lat="49.3160744" lon="6.7404262"/><trkpt lat="49.3162188" lon="6.7409047"/><trkpt lat="49.3167152" lon="6.7418648"/><trkpt lat="49.3177961" lon="6.7405181"/><trkpt lat="49.318592" lon="6.7395238"/></trkseg></trk><trk><name>Pfadfinder-/Jugendzeltplatz Herrgottshübel</name><desc>capacity:persons=350
+caravans=no
+charge=5,50€ p.P.
+description=Das Zeltplatzgelände umfasst ca. 40.000 m² und teilt sich in 3 eigenständige Lagerplätze mit Küchenhäusern auf. Darüber hinaus bietet zusätzlich eine 1.600 m² große Spielwiese und einen Bolzplatz mit Toren Platz zum Toben.
+email=buchung@jugendzeltplatz-herrgottshuebel.de
+fee=yes
+group_only=yes
+image=https://jugendzeltplatz-herrgottshuebel.de/wp-content/uploads/2021/03/cropped-HeHue-Zeichen-Bunt-2-2.png
+internet_access=no
+name=Pfadfinder-/Jugendzeltplatz Herrgottshübel
+opening_hours=May-Sep: 00:00-24:00
+operator=Jägersburger Pfadfinder e.V.
+power_supply=yes
+scout=yes
+static_caravans=no
+tents=yes
+tourism=camp_site
+website=https://www.jugendzeltplatz-herrgottshuebel.de/
+id=way/117609535</desc><trkseg><trkpt lat="49.3776847" lon="7.3174913"/><trkpt lat="49.3781509" lon="7.3166669"/><trkpt lat="49.3779733" lon="7.3163153"/><trkpt lat="49.3773872" lon="7.3151257"/><trkpt lat="49.3769196" lon="7.3156296"/><trkpt lat="49.376605" lon="7.3161399"/><trkpt lat="49.3764887" lon="7.3164336"/><trkpt lat="49.3761781" lon="7.3168405"/><trkpt lat="49.3763525" lon="7.3172408"/><trkpt lat="49.3764776" lon="7.3175273"/><trkpt lat="49.3772599" lon="7.3181174"/><trkpt lat="49.3773165" lon="7.3180451"/><trkpt lat="49.3774709" lon="7.3182661"/><trkpt lat="49.3775829" lon="7.3181448"/><trkpt lat="49.3775931" lon="7.3181338"/><trkpt lat="49.3776576" lon="7.3180639"/><trkpt lat="49.3777761" lon="7.3179451"/><trkpt lat="49.3778681" lon="7.3178462"/><trkpt lat="49.3776847" lon="7.3174913"/></trkseg></trk><trk><name>Campingplatz Siersburg an der Nied</name><desc>caravans=yes
+email=info@campingplatz-siersburg.de
+fee=yes
+name=Campingplatz Siersburg an der Nied
+power_supply=yes
+sanitary_dump_station=yes
+shower=yes
+tents=yes
+toilets=yes
+tourism=camp_site
+website=https://www.campingplatz-siersburg.de/
+id=way/165637411</desc><trkseg><trkpt lat="49.3655755" lon="6.6605142"/><trkpt lat="49.3661991" lon="6.6625667"/><trkpt lat="49.3663057" lon="6.6628338"/><trkpt lat="49.3663755" lon="6.6629361"/><trkpt lat="49.3664018" lon="6.6629747"/><trkpt lat="49.3664751" lon="6.6629961"/><trkpt lat="49.3665568" lon="6.6629589"/><trkpt lat="49.3665721" lon="6.6629519"/><trkpt lat="49.3666769" lon="6.6628057"/><trkpt lat="49.3669563" lon="6.6622183"/><trkpt lat="49.3671633" lon="6.6615584"/><trkpt lat="49.3672707" lon="6.6611212"/><trkpt lat="49.3673546" lon="6.6608798"/><trkpt lat="49.3674445" lon="6.6607779"/><trkpt lat="49.3675947" lon="6.6607162"/><trkpt lat="49.3677222" lon="6.6604024"/><trkpt lat="49.3675161" lon="6.6601503"/><trkpt lat="49.3673415" lon="6.6600242"/><trkpt lat="49.3671913" lon="6.6600296"/><trkpt lat="49.3668681" lon="6.6598016"/><trkpt lat="49.366821" lon="6.6598552"/><trkpt lat="49.3667231" lon="6.6598123"/><trkpt lat="49.3662442" lon="6.6594166"/><trkpt lat="49.3661178" lon="6.6596989"/><trkpt lat="49.3660294" lon="6.6597821"/><trkpt lat="49.3659673" lon="6.659885"/><trkpt lat="49.3659013" lon="6.6599894"/><trkpt lat="49.3658455" lon="6.6601024"/><trkpt lat="49.3657132" lon="6.6603206"/><trkpt lat="49.3655755" lon="6.6605142"/></trkseg></trk><trk><name>DPSG Friedrichsthal</name><desc>area=yes
+barrier=fence
+name=DPSG Friedrichsthal
+tourism=camp_site
+website=https://dpsg-friedrichsthal.de/
+id=way/171230215</desc><trkseg><trkpt lat="49.3277599" lon="7.0910268"/><trkpt lat="49.3278393" lon="7.0919997"/><trkpt lat="49.3281198" lon="7.0918638"/><trkpt lat="49.3284727" lon="7.0921309"/><trkpt lat="49.3288315" lon="7.0920912"/><trkpt lat="49.3287019" lon="7.091855"/><trkpt lat="49.3284952" lon="7.0914295"/><trkpt lat="49.3282328" lon="7.0906501"/><trkpt lat="49.3277599" lon="7.0910268"/></trkseg></trk><trk><name>Campingplatz Dirmingen</name><desc>internet_access=no
+name=Campingplatz Dirmingen
+smoking=yes
+stars=3
+tourism=camp_site
+wheelchair=yes
+id=way/171521075</desc><trkseg><trkpt lat="49.4270676" lon="6.9961295"/><trkpt lat="49.4264879" lon="6.9965186"/><trkpt lat="49.425593" lon="6.9971192"/><trkpt lat="49.4252837" lon="6.9973268"/><trkpt lat="49.4251856" lon="6.9974432"/><trkpt lat="49.4251747" lon="6.9976875"/><trkpt lat="49.4251707" lon="6.9982333"/><trkpt lat="49.4252253" lon="6.9983608"/><trkpt lat="49.4252855" lon="6.9983554"/><trkpt lat="49.4256355" lon="6.9981123"/><trkpt lat="49.4262641" lon="6.9977349"/><trkpt lat="49.4265212" lon="6.9985314"/><trkpt lat="49.4266207" lon="6.9988398"/><trkpt lat="49.4266716" lon="6.9989374"/><trkpt lat="49.4267256" lon="6.9989428"/><trkpt lat="49.4271845" lon="6.9987443"/><trkpt lat="49.4275453" lon="6.9984671"/><trkpt lat="49.4273057" lon="6.9976706"/><trkpt lat="49.427169" lon="6.9972161"/><trkpt lat="49.4272189" lon="6.9970342"/><trkpt lat="49.4272618" lon="6.9969613"/><trkpt lat="49.4272454" lon="6.9968912"/><trkpt lat="49.4270676" lon="6.9961295"/></trkseg></trk><trk><name>Campingplatz Mosella</name><desc>name=Campingplatz Mosella
+tourism=camp_site
+id=way/199330041</desc><trkseg><trkpt lat="49.5442029" lon="6.3736312"/><trkpt lat="49.543914" lon="6.3731887"/><trkpt lat="49.5438404" lon="6.3733021"/><trkpt lat="49.5433337" lon="6.3726563"/><trkpt lat="49.5435602" lon="6.3722668"/><trkpt lat="49.5430196" lon="6.3715766"/><trkpt lat="49.5429554" lon="6.3715548"/><trkpt lat="49.5426831" lon="6.3722667"/><trkpt lat="49.5424975" lon="6.3728909"/><trkpt lat="49.5421997" lon="6.3734748"/><trkpt lat="49.5422937" lon="6.3738356"/><trkpt lat="49.5424011" lon="6.3739297"/><trkpt lat="49.5423652" lon="6.3740764"/><trkpt lat="49.5426158" lon="6.3743232"/><trkpt lat="49.5423234" lon="6.3750313"/><trkpt lat="49.5418232" lon="6.3765583"/><trkpt lat="49.5421111" lon="6.3766728"/><trkpt lat="49.5427828" lon="6.3748428"/><trkpt lat="49.5428169" lon="6.3747499"/><trkpt lat="49.5432715" lon="6.3751531"/><trkpt lat="49.5434975" lon="6.3747129"/><trkpt lat="49.5442029" lon="6.3736312"/></trkseg></trk><trk><name>Campingplatz Göbelborn</name><desc>name=Campingplatz Göbelborn
+tourism=camp_site
+id=way/213144070</desc><trkseg><trkpt lat="49.4129102" lon="6.8193433"/><trkpt lat="49.4123669" lon="6.8177494"/><trkpt lat="49.4120075" lon="6.8169588"/><trkpt lat="49.4118092" lon="6.8171783"/><trkpt lat="49.4117769" lon="6.8177997"/><trkpt lat="49.4116156" lon="6.8178726"/><trkpt lat="49.4114713" lon="6.8178347"/><trkpt lat="49.4114372" lon="6.8176888"/><trkpt lat="49.4110605" lon="6.8178528"/><trkpt lat="49.4114126" lon="6.819737"/><trkpt lat="49.4129102" lon="6.8193433"/></trkseg></trk><trk><name>way/313992973</name><desc>tourism=camp_site
+id=way/313992973</desc><trkseg><trkpt lat="49.5451607" lon="6.3781622"/><trkpt lat="49.5454705" lon="6.3784036"/><trkpt lat="49.5476876" lon="6.3795086"/><trkpt lat="49.5478408" lon="6.3795247"/><trkpt lat="49.5483833" lon="6.379559"/><trkpt lat="49.5486343" lon="6.3796428"/><trkpt lat="49.5479835" lon="6.3788864"/><trkpt lat="49.5472595" lon="6.377733"/><trkpt lat="49.5470437" lon="6.3781783"/><trkpt lat="49.546633" lon="6.3778242"/><trkpt lat="49.5463685" lon="6.377497"/><trkpt lat="49.5460378" lon="6.3765904"/><trkpt lat="49.5451607" lon="6.3781622"/></trkseg></trk><trk><name>Campingplatz Überherrn</name><desc>barrier=fence
+capacity=55
+fee=yes
+name=Campingplatz Überherrn
+operator=Freizeit- und Bäderbetriebes, Eigenbetrieb der Gemeinde Überherrn
+power_supply=yes
+tents=yes
+tourism=camp_site
+website=https://www.kdue.de/parkbad-und-campingplatz/
+id=way/320964158</desc><trkseg><trkpt lat="49.2380631" lon="6.6915268"/><trkpt lat="49.2366089" lon="6.6922112"/><trkpt lat="49.2366128" lon="6.6927328"/><trkpt lat="49.2366564" lon="6.6930476"/><trkpt lat="49.2368757" lon="6.6930051"/><trkpt lat="49.2381231" lon="6.6926018"/><trkpt lat="49.2382443" lon="6.6925825"/><trkpt lat="49.2382676" lon="6.6925788"/><trkpt lat="49.2382501" lon="6.6923269"/><trkpt lat="49.2382548" lon="6.6922926"/><trkpt lat="49.2382859" lon="6.6922482"/><trkpt lat="49.2382369" lon="6.6917367"/><trkpt lat="49.2381403" lon="6.6917615"/><trkpt lat="49.2381184" lon="6.6916084"/><trkpt lat="49.2380631" lon="6.6915268"/></trkseg></trk><trk><name>Campingplatz Kanu-Club Merzig</name><desc>name=Campingplatz Kanu-Club Merzig
+operator=Kanu Club Merzig e.V.
+toilets:wheelchair=no
+tourism=camp_site
+website=https://www.kanuclub-merzig.de/camping
+wheelchair=no
+id=way/430963104</desc><trkseg><trkpt lat="49.445267" lon="6.6334529"/><trkpt lat="49.4448995" lon="6.6333592"/><trkpt lat="49.4447919" lon="6.6334888"/><trkpt lat="49.4444817" lon="6.6334116"/><trkpt lat="49.4444907" lon="6.6333619"/><trkpt lat="49.4443849" lon="6.6333095"/><trkpt lat="49.4442594" lon="6.6332764"/><trkpt lat="49.4441088" lon="6.6340596"/><trkpt lat="49.4443132" lon="6.6342085"/><trkpt lat="49.4446538" lon="6.634123"/><trkpt lat="49.4451326" lon="6.6343685"/><trkpt lat="49.445267" lon="6.6334529"/></trkseg></trk><trk><name>Campingplatz Habkirchen</name><desc>access=customers
+addr:city=Mandelbachtal
+addr:country=DE
+addr:housenumber=24
+addr:postcode=66399
+addr:street=Grenzlandstraße
+caravans=yes
+name=Campingplatz Habkirchen
+phone=+49160 935 346 96
+tents=yes
+tourism=camp_site
+website=http://www.campingplatz-saarland.de/
+id=way/519558848</desc><trkseg><trkpt lat="49.1412321" lon="7.1267474"/><trkpt lat="49.1411412" lon="7.1269469"/><trkpt lat="49.1410215" lon="7.1268171"/><trkpt lat="49.1409373" lon="7.1269673"/><trkpt lat="49.140811" lon="7.1268332"/><trkpt lat="49.1405216" lon="7.1269919"/><trkpt lat="49.1406471" lon="7.1273415"/><trkpt lat="49.141004" lon="7.1275467"/><trkpt lat="49.1410816" lon="7.1276121"/><trkpt lat="49.141204" lon="7.1276808"/><trkpt lat="49.1413093" lon="7.1277237"/><trkpt lat="49.1414462" lon="7.1278202"/><trkpt lat="49.1415585" lon="7.1279812"/><trkpt lat="49.1417589" lon="7.1277248"/><trkpt lat="49.1417959" lon="7.1276459"/><trkpt lat="49.1418287" lon="7.1272985"/><trkpt lat="49.141661" lon="7.1271437"/><trkpt lat="49.1412321" lon="7.1267474"/></trkseg></trk><trk><name>way/605056159</name><desc>tourism=camp_site
+id=way/605056159</desc><trkseg><trkpt lat="49.5089659" lon="6.6194994"/><trkpt lat="49.5086193" lon="6.6202846"/><trkpt lat="49.508763" lon="6.6215694"/><trkpt lat="49.5092263" lon="6.6226383"/><trkpt lat="49.5090282" lon="6.6197931"/><trkpt lat="49.5089659" lon="6.6194994"/></trkseg></trk><trk><name>Theel-Tal-Camping</name><desc>name=Theel-Tal-Camping
+tourism=camp_site
+id=way/757671107</desc><trkseg><trkpt lat="49.4021258" lon="6.8860704"/><trkpt lat="49.4022574" lon="6.8868452"/><trkpt lat="49.4022678" lon="6.8871052"/><trkpt lat="49.4021875" lon="6.8871805"/><trkpt lat="49.4015946" lon="6.8874397"/><trkpt lat="49.4008629" lon="6.8878041"/><trkpt lat="49.4009307" lon="6.8882078"/><trkpt lat="49.4010826" lon="6.8886101"/><trkpt lat="49.40121" lon="6.8887639"/><trkpt lat="49.4014649" lon="6.8887979"/><trkpt lat="49.4029415" lon="6.8885028"/><trkpt lat="49.4030503" lon="6.8884295"/><trkpt lat="49.4032301" lon="6.8881317"/><trkpt lat="49.4031889" lon="6.8879842"/><trkpt lat="49.4030011" lon="6.8873122"/><trkpt lat="49.4032541" lon="6.886381"/><trkpt lat="49.4029765" lon="6.88534"/><trkpt lat="49.4021258" lon="6.8860704"/></trkseg></trk><trk><name>Glamping Resorts</name><desc>cabins=yes
+caravans=no
+contact:email=info@glamping-resorts.de
+contact:phone=+4968193271800
+fee=yes
+name=Glamping Resorts
+tents=no
+tourism=camp_site
+website=https://www.glamping-resorts.de/
+id=way/1264437374</desc><trkseg><trkpt lat="49.1296977" lon="7.0511407"/><trkpt lat="49.129519" lon="7.0523125"/><trkpt lat="49.1295617" lon="7.0523295"/><trkpt lat="49.1300418" lon="7.0525276"/><trkpt lat="49.1301415" lon="7.0527981"/><trkpt lat="49.1301833" lon="7.0530585"/><trkpt lat="49.1303122" lon="7.0530653"/><trkpt lat="49.1303231" lon="7.0526544"/><trkpt lat="49.1302401" lon="7.0515161"/><trkpt lat="49.1296977" lon="7.0511407"/></trkseg></trk></gpx>

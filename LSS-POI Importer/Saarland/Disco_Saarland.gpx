@@ -1,0 +1,185 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.2229827" lon="7.0241582"><name>Silodom</name><desc>addr:housenumber=3
+addr:postcode=66121
+addr:street=An der Römerbrücke
+amenity=nightclub
+contact:email=info@silo-saar.de
+contact:facebook=https://www.facebook.com/silodom.sb
+name=Silodom
+opening_hours:signed=no
+operator=Sibille Strauch Ortleb;Wilfried Voigt
+outdoor_seating=yes
+id=node/498385368</desc></wpt><wpt lat="49.35249" lon="7.2024321"><name>Caesars Club</name><desc>amenity=nightclub
+name=Caesars Club
+id=node/664474922</desc></wpt><wpt lat="49.2361858" lon="6.9945445"><name>Havana</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=5-7
+addr:postcode=66111
+addr:street=Futterstraße
+amenity=nightclub
+name=Havana
+opening_hours:signed=no
+wheelchair=no
+id=node/741548175</desc></wpt><wpt lat="49.2360617" lon="6.9947302"><name>Club Seven</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=5-7
+addr:postcode=66111
+addr:street=Futterstraße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/sevensb
+contact:instagram=https://www.instagram.com/clubsevensb/
+contact:website=https://www.clubseven.de/
+name=Club Seven
+opening_hours=We,Fr-Sa 23:00-05:00
+wheelchair=limited
+id=node/822169656</desc></wpt><wpt lat="49.4655023" lon="7.1700486"><name>Lindenau</name><desc>amenity=nightclub
+name=Lindenau
+website=https://www.lindenau-wnd.de/
+wheelchair=no
+id=node/857422094</desc></wpt><wpt lat="49.462543" lon="7.1623419"><name>Flash St. Wendel</name><desc>addr:city=Sankt Wendel
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66606
+addr:street=Eisenbahnstraße
+amenity=nightclub
+layer=-1
+name=Flash St. Wendel
+toilets:wheelchair=no
+website=https://www.flash-disco.de/
+wheelchair=limited
+wifi=no
+id=node/1657884837</desc></wpt><wpt lat="49.234847" lon="6.9941072"><name>Apartment Number ONE</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=37
+addr:postcode=66111
+addr:street=Bahnhofstraße
+addr:suburb=St. Johann
+amenity=nightclub
+contact:facebook=https://www.facebook.com/ApartmentNumber1/
+contact:phone=+49 172 6886223
+contact:website=https://apartmentclub.de/
+level=1
+name=Apartment Number ONE
+opening_hours:signed=no
+operator=Club Apartment Event GmbH
+wheelchair=no
+wheelchair:description=Treppe nach der Eingangstür
+id=node/1860703423</desc></wpt><wpt lat="49.2311652" lon="7.0018887"><name>Studio 30</name><desc>amenity=nightclub
+contact:email=info@studio-30.de
+contact:website=http://studio-30.de/
+name=Studio 30
+old_name=the secret
+opening_hours=Fr,Sa 19:00-03:00; Su-Th off
+start_date=2017-12-01
+id=node/2234039951</desc></wpt><wpt lat="49.4733398" lon="7.2563379"><name>C1</name><desc>amenity=nightclub
+name=C1
+id=node/2419224033</desc></wpt><wpt lat="49.3502571" lon="7.1869639"><name>Club 7 Even</name><desc>amenity=nightclub
+name=Club 7 Even
+id=node/2440687089</desc></wpt><wpt lat="49.3527592" lon="6.7244466"><name>Diskothek Sound Dillingen/Saar</name><desc>amenity=nightclub
+name=Diskothek Sound Dillingen/Saar
+toilets:wheelchair=yes
+website=https://sound-dillingen.com/
+wheelchair=limited
+wheelchair:description=Rollstuhlfahrer können sich anmelden und werden über einen seperaten Aufzug in die Diskothek gebracht
+id=node/2479030966</desc></wpt><wpt lat="49.3557065" lon="7.0550971"><name>Kuckucksnest</name><desc>amenity=nightclub
+name=Kuckucksnest
+website=http://www.partynest.de/
+id=node/2504244262</desc></wpt><wpt lat="49.2355663" lon="6.9928143"><name>Blau</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=3
+addr:postcode=66111
+addr:street=Am Steg
+amenity=nightclub
+name=Blau
+opening_hours=Tu-Th 11:30-18:00; Fr 11:30-20:00; Sa 10:00-20:00; Su 10:00-18:00
+toilets:wheelchair=no
+website=https://blau-nachtclub.de/
+wheelchair=no
+wikidata=Q104798099
+id=node/2946457703</desc></wpt><wpt lat="49.2507898" lon="6.98658"><name>Discoplex A8</name><desc>amenity=nightclub
+contact:website=https://www.a8-sb.de/
+name=Discoplex A8
+id=node/4050294281</desc></wpt><wpt lat="49.5590554" lon="7.1298385"><name>Dance Flair</name><desc>amenity=nightclub
+contact:website=http://dance-flair.de/
+name=Dance Flair
+id=node/4088967018</desc></wpt><wpt lat="49.2406055" lon="6.9852708"><name>Gloria Stages</name><desc>addr:city=Saarbrücken
+addr:housenumber=38
+addr:postcode=66111
+addr:street=St. Johanner Straße
+amenity=nightclub
+contact:facebook=https://de-de.facebook.com/gloriastages/
+contact:website=http://gloria-stages.de/
+name=Gloria Stages
+opening_hours=off
+id=node/4706591499</desc></wpt><wpt lat="49.3137263" lon="7.3292222"><name>Musikpark</name><desc>amenity=nightclub
+name=Musikpark
+opening_hours="bei Veranstaltungen"
+wheelchair=yes
+id=node/5100078402</desc></wpt><wpt lat="49.2366734" lon="6.9950474"><name>loose</name><desc>amenity=nightclub
+check_date:opening_hours=2023-12-12
+contact:facebook=looseclubsb
+contact:instagram=loose_club
+contact:website=https://loose-club.de/
+level=0
+name=loose
+old_name=SOHO
+opening_hours:signed=no
+wheelchair=yes
+id=node/5534825387</desc></wpt><wpt lat="49.3652856" lon="7.0646241"><name>Gasthaus Bellevue</name><desc>amenity=nightclub
+name=Gasthaus Bellevue
+id=node/5844682703</desc></wpt><wpt lat="49.2429509" lon="6.9808283"><name>Mauerpfeiffer</name><desc>addr:city=Saarbrücken
+addr:housenumber=7a
+addr:postcode=66113
+addr:street=Lebacher Straße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/mauerpfeiffer/
+contact:website=http://mauerpfeiffer.de/
+name=Mauerpfeiffer
+opening_hours:signed=no
+wheelchair=limited
+id=node/5931384618</desc></wpt><wpt lat="49.3285194" lon="7.3198235"><name>Happy Night</name><desc>amenity=nightclub
+name=Happy Night
+id=node/6733539128</desc></wpt><wpt lat="49.4510998" lon="6.7675124"><name>Fun House</name><desc>amenity=nightclub
+name=Fun House
+id=node/8200166393</desc></wpt><wpt lat="49.2419972" lon="6.952519"><name>Oscar</name><desc>amenity=nightclub
+level=0
+name=Oscar
+old_name=A-Galaxy
+opening_hours:signed=no
+strapline=Orientalische Musik
+wheelchair=no
+id=node/8484118894</desc></wpt><wpt lat="49.2429435" lon="6.981249"><name>Mauerpfeiffer Club Unsichtbar</name><desc>amenity=nightclub
+name=Mauerpfeiffer Club Unsichtbar
+opening_hours:signed=no
+wheelchair=limited
+id=node/8565758996</desc></wpt><wpt lat="49.3438554" lon="7.1806615"><name>Tanzlokal Zum Goldenen Drachen</name><desc>amenity=nightclub
+level=0
+name=Tanzlokal Zum Goldenen Drachen
+id=node/9063087262</desc></wpt><wpt lat="49.2305669" lon="7.0030504"><name>Hunter Thompson Saloon</name><desc>addr:housenumber=43
+addr:street=Mainzer Straße
+amenity=nightclub
+name=Hunter Thompson Saloon
+opening_hours=Th-Sa 22:00-6:00
+id=node/12699231301</desc></wpt><trk><name>99GRAD</name><desc>addr:city=Merzig
+addr:country=DE
+addr:housenumber=5
+addr:postcode=66663
+addr:street=Saarwiesenring
+amenity=nightclub
+building=yes
+contact:website=www.99grad-merzig.de
+name=99GRAD
+toilets:wheelchair=no
+wheelchair=limited
+id=way/201083541</desc><trkseg><trkpt lat="49.4448605" lon="6.6246784"/><trkpt lat="49.4449282" lon="6.6249049"/><trkpt lat="49.445198" lon="6.6247142"/><trkpt lat="49.4451303" lon="6.6244877"/><trkpt lat="49.4448605" lon="6.6246784"/></trkseg></trk><trk><name>Blaue Lagune</name><desc>addr:city=Neunkirchen
+addr:country=DE
+addr:housenumber=73
+addr:postcode=66538
+addr:street=Wellesweilerstraße
+amenity=nightclub
+building=yes
+name=Blaue Lagune
+id=way/220168722</desc><trkseg><trkpt lat="49.3509304" lon="7.1931915"/><trkpt lat="49.3508558" lon="7.1934869"/><trkpt lat="49.3509201" lon="7.1935251"/><trkpt lat="49.3509487" lon="7.1934119"/><trkpt lat="49.3509788" lon="7.1934298"/><trkpt lat="49.3509849" lon="7.1934055"/><trkpt lat="49.3510081" lon="7.1934193"/><trkpt lat="49.3510479" lon="7.1932613"/><trkpt lat="49.3509304" lon="7.1931915"/></trkseg></trk><trk><name>Jugendtreff Scheiden</name><desc>amenity=nightclub
+building=yes
+name=Jugendtreff Scheiden
+wifi=no
+id=way/512359690</desc><trkseg><trkpt lat="49.5493758" lon="6.7286413"/><trkpt lat="49.5493116" lon="6.7286891"/><trkpt lat="49.5493436" lon="6.7287911"/><trkpt lat="49.5493516" lon="6.7288166"/><trkpt lat="49.5493757" lon="6.7287986"/><trkpt lat="49.5493953" lon="6.728861"/><trkpt lat="49.5494353" lon="6.7288312"/><trkpt lat="49.5493758" lon="6.7286413"/></trkseg></trk></gpx>

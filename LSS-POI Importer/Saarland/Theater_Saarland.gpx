@@ -1,0 +1,249 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="49.1640889" lon="7.1207067"><name>Naturbühne Gräfinthal</name><desc>amenity=theatre
+check_date=2024-07-28
+name=Naturbühne Gräfinthal
+payment:cash=yes
+payment:coins=yes
+payment:credit_cards=yes
+payment:debit_cards=yes
+payment:visa=yes
+theatre:type=open_air
+website=https://www.naturbuehne-graefinthal.de/
+wheelchair=yes
+wheelchair:description=Barrierefreie Plätze während Öffnungszeiten über Aufzug und Rampe zu erreichen.
+wikidata=Q1970234
+wikipedia=de:Naturbühne Gräfinthal
+id=node/339128186</desc></wpt><wpt lat="49.2332711" lon="6.9884921"><name>sparte4</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=22
+addr:postcode=66117
+addr:street=Eisenbahnstraße
+amenity=theatre
+contact:facebook=https://de-de.facebook.com/pg/sparte4/
+contact:instagram=https://www.instagram.com/sparte4/
+contact:website=https://www.staatstheater.saarland/sparte4/
+level=0;1
+name=sparte4
+operator=Saarländisches Staatstheater GmbH
+wheelchair=limited
+wheelchair:description=Der Zugang zum Saal erfolgt durch die Seitentür links vom Haupteingang über einen Aufzug: bitte an der Abendkasse melden.
+id=node/418118635</desc></wpt><wpt lat="49.3019" lon="7.0724778"><name>Sulzbacher Kellertheater</name><desc>addr:city=Sulzbach/Saar
+addr:housenumber=30
+addr:postcode=66280
+addr:street=Schnappacher Weg
+amenity=theatre
+name=Sulzbacher Kellertheater
+wheelchair=no
+id=node/433581731</desc></wpt><wpt lat="49.5048755" lon="6.5340013"><name>node/454930433</name><desc>amenity=theatre
+wheelchair=yes
+id=node/454930433</desc></wpt><wpt lat="49.4466989" lon="6.6239611"><name>Zirkuszelt</name><desc>amenity=theatre
+name=Zirkuszelt
+toilets:wheelchair=no
+wheelchair=no
+id=node/463536575</desc></wpt><wpt lat="49.3547619" lon="6.721006"><name>node/496387971</name><desc>amenity=theatre
+wheelchair=yes
+id=node/496387971</desc></wpt><wpt lat="49.2342173" lon="7.0006138"><name>Theater im Viertel – Studiotheater</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=2
+addr:postcode=66111
+addr:street=Landwehrplatz
+amenity=theatre
+contact:email=info@dastiv.de
+contact:phone=+49 681 3904602
+contact:website=http://www.dastiv.de/
+name=Theater im Viertel – Studiotheater
+operator=Theater im Viertel – Studiotheater e.V.
+toilets:wheelchair=yes
+wheelchair=limited
+wheelchair:description=Lifter im Hof
+id=node/837484887</desc></wpt><wpt lat="49.2323127" lon="6.9932624"><name>Theaterschiff Maria-Helena</name><desc>amenity=theatre
+contact:fax=+49 681 6850404
+contact:phone=+49 681 65817
+contact:website=https://www.theaterschiff-maria-helena.com/
+name=Theaterschiff Maria-Helena
+tenant=Frank Lion
+wheelchair=no
+wikidata=Q2416271
+wikipedia=de:Theaterschiff Maria-Helena
+id=node/1278480032</desc></wpt><wpt lat="49.2371872" lon="7.0034247"><name>Die Winzer – Kunst- und Kulturclub</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=5
+addr:postcode=66111
+addr:street=Martin-Luther-Straße
+amenity=theatre
+contact:email=info@kunstundkulturclub.de
+contact:phone=+49 172 3474047
+contact:website=https://www.diewinzer.com/
+level=0
+name=Die Winzer – Kunst- und Kulturclub
+opening_hours=Tu-Th 17:00-24:00; Fr,Sa 17:00-02:00; Mo,Su closed
+operator=Wolfgang Reeb
+toilets=yes
+toilets:wheelchair=yes
+url=http://www.kunstundkulturclub.de/
+wheelchair=yes
+id=node/1319989312</desc></wpt><wpt lat="49.2348269" lon="6.9962362"><name>Kleines Theater im Rathaus</name><desc>amenity=theatre
+contact:phone=+49 681 9054903
+contact:website=http://www.saarbruecken.de/de/kultur/theater/kleines_theater_im_rathaus/
+name=Kleines Theater im Rathaus
+theatre:genre=puppet
+wheelchair=no
+id=node/1375775429</desc></wpt><wpt lat="49.3188614" lon="7.3386875"><name>Städtische Galerie im Kulturzentrum Saalbau</name><desc>addr:city=Homburg
+addr:country=DE
+addr:housenumber=22
+addr:postcode=66424
+addr:street=Zweibrücker Straße
+amenity=theatre
+name=Städtische Galerie im Kulturzentrum Saalbau
+phone=+49 6841 9930130
+toilets:wheelchair=yes
+wheelchair=yes
+wheelchair:description=Aufzug vorhanden
+id=node/3417241701</desc></wpt><wpt lat="49.3176672" lon="6.7420059"><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+theatre:type=open_air
+id=node/5750232438</desc></wpt><wpt lat="49.2405225" lon="6.9699227"><name>BREITE63</name><desc>amenity=theatre
+check_date:opening_hours=2021-08-06
+contact:email=breite63@zbb-saar.de
+contact:fax=+49 681 59097898
+contact:phone=+49 681 59 09 78 99
+contact:website=https://www.breite63.de/index.php/kontakt/so-kommen-wir-ins-gespraech
+image=https://www.breite63.de/images/BREITE63/pics-layout-logo/logobreite63.png
+name=BREITE63
+opening_hours=Mo-Th 08:00-14:00
+operator=Armin Beyer
+strapline=Das soziokulturelle Zentrum in Saarbrücken-Malstatt
+toilets:wheelchair=yes
+wheelchair=yes
+id=node/6313116505</desc></wpt><wpt lat="49.2164602" lon="7.0177277"><name>Kettenfabrik</name><desc>amenity=theatre
+contact:facebook=https://www.facebook.com/pages/Kettenfabrik/262450183845065
+name=Kettenfabrik
+theatre:genre=variety
+id=node/7083413623</desc></wpt><trk><name>Saarländisches Staatstheater</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66111
+addr:street=Schillerplatz
+amenity=theatre
+architect=Paul Otto August Baumgarten
+building=theatre
+contact:website=https://www.staatstheater.saarland/
+historic=building
+image=File:20110214Staatstheater_Saarbrücken.jpg
+name=Saarländisches Staatstheater
+old_name=Gautheater Saarpfalz
+operator=Saarländisches Staatstheater GmbH
+start_date=1937..1938
+toilets:wheelchair=yes
+tourism=attraction
+wheelchair=limited
+wikidata=Q208805
+wikimedia_commons=Category:Staatstheater Saarbrücken
+wikipedia=de:Saarländisches Staatstheater#Das Gebäude
+id=way/47939038</desc><trkseg><trkpt lat="49.2308491" lon="6.9957158"/><trkpt lat="49.2307846" lon="6.9956408"/><trkpt lat="49.2306585" lon="6.9958942"/><trkpt lat="49.2306687" lon="6.9959058"/><trkpt lat="49.2305994" lon="6.9960458"/><trkpt lat="49.2305925" lon="6.9960608"/><trkpt lat="49.2305582" lon="6.9961296"/><trkpt lat="49.2305667" lon="6.9961398"/><trkpt lat="49.2306604" lon="6.9962493"/><trkpt lat="49.230666" lon="6.9962554"/><trkpt lat="49.2306827" lon="6.9962219"/><trkpt lat="49.2308607" lon="6.9964321"/><trkpt lat="49.2308805" lon="6.996397"/><trkpt lat="49.2309957" lon="6.9965391"/><trkpt lat="49.2310961" lon="6.9966606"/><trkpt lat="49.2311968" lon="6.9964606"/><trkpt lat="49.2313059" lon="6.9962385"/><trkpt lat="49.2311473" lon="6.996057"/><trkpt lat="49.2312564" lon="6.9958233"/><trkpt lat="49.2312671" lon="6.9957783"/><trkpt lat="49.2312761" lon="6.995718"/><trkpt lat="49.2312767" lon="6.9956742"/><trkpt lat="49.231274" lon="6.9956248"/><trkpt lat="49.2312646" lon="6.9955691"/><trkpt lat="49.2312456" lon="6.995525"/><trkpt lat="49.2312209" lon="6.9954843"/><trkpt lat="49.2311921" lon="6.9954497"/><trkpt lat="49.2311575" lon="6.9954274"/><trkpt lat="49.2311292" lon="6.995417"/><trkpt lat="49.2310974" lon="6.9954147"/><trkpt lat="49.2310653" lon="6.9954186"/><trkpt lat="49.2310328" lon="6.9954283"/><trkpt lat="49.2310042" lon="6.9954465"/><trkpt lat="49.2309766" lon="6.9954743"/><trkpt lat="49.2309113" lon="6.9955954"/><trkpt lat="49.2308574" lon="6.9957"/><trkpt lat="49.2308491" lon="6.9957158"/></trkseg></trk><trk><name>Theater am Ring</name><desc>addr:city=Saarlouis
+addr:country=DE
+addr:housenumber=26
+addr:postcode=66740
+addr:street=Kaiser-Friedrich-Ring
+amenity=theatre
+building=yes
+name=Theater am Ring
+operator=Stadt Saarlouis
+website=https://theater-am-ring.saarlouis.de
+wheelchair=yes
+wikidata=Q60737334
+wikimedia_commons=Category:Theater am Ring (Saarlouis)
+id=way/71934476</desc><trkseg><trkpt lat="49.3129707" lon="6.7507382"/><trkpt lat="49.3131021" lon="6.7500176"/><trkpt lat="49.312998" lon="6.7499572"/><trkpt lat="49.3129053" lon="6.7499068"/><trkpt lat="49.3128187" lon="6.7498605"/><trkpt lat="49.3127537" lon="6.7501086"/><trkpt lat="49.312771" lon="6.750121"/><trkpt lat="49.3126458" lon="6.7506095"/><trkpt lat="49.3126558" lon="6.7506196"/><trkpt lat="49.3125808" lon="6.750843"/><trkpt lat="49.3127155" lon="6.7509533"/><trkpt lat="49.3127282" lon="6.7509196"/><trkpt lat="49.3129143" lon="6.7510356"/><trkpt lat="49.3129307" lon="6.7509531"/><trkpt lat="49.3129707" lon="6.7507382"/></trkseg></trk><trk><name>Kulturscheune</name><desc>amenity=theatre
+building=yes
+name=Kulturscheune
+id=way/93703468</desc><trkseg><trkpt lat="49.5817678" lon="6.8875293"/><trkpt lat="49.581656" lon="6.8873477"/><trkpt lat="49.581575" lon="6.8874663"/><trkpt lat="49.5816867" lon="6.8876479"/><trkpt lat="49.5817678" lon="6.8875293"/></trkseg></trk><trk><name>Amphitheater</name><desc>amenity=theatre
+name=Amphitheater
+wheelchair=no
+id=way/128896783</desc><trkseg><trkpt lat="49.2905134" lon="7.326064"/><trkpt lat="49.2904283" lon="7.3260303"/><trkpt lat="49.2904105" lon="7.326075"/><trkpt lat="49.2904126" lon="7.3261642"/><trkpt lat="49.2904475" lon="7.3261934"/><trkpt lat="49.2904824" lon="7.3261982"/><trkpt lat="49.2905134" lon="7.326064"/></trkseg></trk><trk><name>Kulturforum Illipse</name><desc>addr:city=Illingen
+addr:country=DE
+addr:housename=Illipse
+addr:housenumber=4
+addr:postcode=66557
+addr:street=Burgweg
+amenity=theatre
+building=yes
+designation=Kulturforum Illingen
+name=Kulturforum Illipse
+website=https://www.illipse.de/
+wheelchair=yes
+id=way/160904827</desc><trkseg><trkpt lat="49.3768157" lon="7.053001"/><trkpt lat="49.3768324" lon="7.0531154"/><trkpt lat="49.3768567" lon="7.0531901"/><trkpt lat="49.3768834" lon="7.0532541"/><trkpt lat="49.376913" lon="7.0533045"/><trkpt lat="49.3769403" lon="7.0533399"/><trkpt lat="49.3769799" lon="7.0533629"/><trkpt lat="49.37702" lon="7.0533686"/><trkpt lat="49.3770552" lon="7.0533461"/><trkpt lat="49.3770765" lon="7.0533112"/><trkpt lat="49.3770893" lon="7.0532485"/><trkpt lat="49.3770889" lon="7.0531388"/><trkpt lat="49.3770747" lon="7.0530295"/><trkpt lat="49.3770437" lon="7.0529333"/><trkpt lat="49.3770011" lon="7.0528399"/><trkpt lat="49.3769734" lon="7.0528002"/><trkpt lat="49.3769286" lon="7.0527674"/><trkpt lat="49.376885" lon="7.0527551"/><trkpt lat="49.3768552" lon="7.0527675"/><trkpt lat="49.3768391" lon="7.0527873"/><trkpt lat="49.3768211" lon="7.0528417"/><trkpt lat="49.3768141" lon="7.0529239"/><trkpt lat="49.3768157" lon="7.053001"/></trkseg></trk><trk><name>Schloß-Theater</name><desc>addr:city=Ottweiler
+addr:country=DE
+addr:housenumber=6
+addr:postcode=66564
+addr:street=Schloßhof
+amenity=theatre
+building=yes
+name=Schloß-Theater
+wheelchair=yes
+id=way/199025062</desc><trkseg><trkpt lat="49.4037843" lon="7.1618888"/><trkpt lat="49.4037272" lon="7.1620849"/><trkpt lat="49.4036712" lon="7.1620463"/><trkpt lat="49.4036436" lon="7.1620274"/><trkpt lat="49.4036316" lon="7.1620685"/><trkpt lat="49.4035298" lon="7.1624185"/><trkpt lat="49.4035794" lon="7.1624526"/><trkpt lat="49.4035867" lon="7.1624274"/><trkpt lat="49.4036173" lon="7.1624484"/><trkpt lat="49.4035979" lon="7.1625149"/><trkpt lat="49.4037781" lon="7.1626388"/><trkpt lat="49.4039611" lon="7.1620103"/><trkpt lat="49.4038866" lon="7.1619591"/><trkpt lat="49.4037843" lon="7.1618888"/></trkseg></trk><trk><name>way/263399754</name><desc>amenity=theatre
+building=yes
+id=way/263399754</desc><trkseg><trkpt lat="49.5256726" lon="6.8687141"/><trkpt lat="49.5256986" lon="6.8689322"/><trkpt lat="49.5258142" lon="6.8687818"/><trkpt lat="49.5256726" lon="6.8687141"/></trkseg></trk><trk><name>Waldbühne Homburg</name><desc>amenity=theatre
+description=Wird zurzeit nicht genutzt.
+name=Waldbühne Homburg
+wheelchair=limited
+id=way/279808731</desc><trkseg><trkpt lat="49.311038" lon="7.3567365"/><trkpt lat="49.3109229" lon="7.3568848"/><trkpt lat="49.3109612" lon="7.357097"/><trkpt lat="49.3110971" lon="7.3571399"/><trkpt lat="49.3112709" lon="7.3571664"/><trkpt lat="49.3112921" lon="7.357046"/><trkpt lat="49.3112907" lon="7.3569307"/><trkpt lat="49.3112662" lon="7.3567901"/><trkpt lat="49.3112267" lon="7.3566657"/><trkpt lat="49.3111698" lon="7.3565691"/><trkpt lat="49.311038" lon="7.3567365"/></trkseg></trk><trk><name>Kath. Pfarrheim</name><desc>addr:city=Völklingen
+addr:country=DE
+addr:housenumber=160
+addr:postcode=66333
+addr:street=Hauptstraße
+amenity=theatre
+building=yes
+name=Kath. Pfarrheim
+id=way/301772146</desc><trkseg><trkpt lat="49.1835237" lon="6.7434027"/><trkpt lat="49.1835752" lon="6.7433103"/><trkpt lat="49.1834856" lon="6.743154"/><trkpt lat="49.1834264" lon="6.7432415"/><trkpt lat="49.1833775" lon="6.7431558"/><trkpt lat="49.1832947" lon="6.7432705"/><trkpt lat="49.1834427" lon="6.7435205"/><trkpt lat="49.1835237" lon="6.7434027"/></trkseg></trk><trk><name>Waldbühne</name><desc>amenity=theatre
+description=Freilichtbühne
+name=Waldbühne
+theatre:type=open_air
+wheelchair=no
+id=way/366013892</desc><trkseg><trkpt lat="49.2275464" lon="6.9644486"/><trkpt lat="49.2274258" lon="6.9643902"/><trkpt lat="49.2273689" lon="6.9643627"/><trkpt lat="49.2273519" lon="6.9643545"/><trkpt lat="49.2272361" lon="6.9641752"/><trkpt lat="49.2271287" lon="6.9643527"/><trkpt lat="49.2272412" lon="6.9645236"/><trkpt lat="49.2272427" lon="6.9645451"/><trkpt lat="49.2272502" lon="6.9646484"/><trkpt lat="49.2272605" lon="6.964791"/><trkpt lat="49.2274566" lon="6.9647076"/><trkpt lat="49.2275464" lon="6.9644486"/></trkseg></trk><trk><name>E-Werk</name><desc>amenity=theatre
+name=E-Werk
+operator=GIU Gesellschaft für Innovation und Unternehmensförderung mbH
+operator:wikidata=Q86744708
+toilets:wheelchair=yes
+website=https://www.ewerk-sb.de/
+wheelchair=yes
+wikidata=Q46162669
+wikimedia_commons=Category:E-Werk (Saarbrücken-Burbach)
+wikipedia=de:E-Werk (Saarbrücken)
+id=way/686980196</desc><trkseg><trkpt lat="49.2386376" lon="6.9562768"/><trkpt lat="49.2385958" lon="6.9562686"/><trkpt lat="49.2385539" lon="6.9562603"/><trkpt lat="49.238525" lon="6.9562551"/><trkpt lat="49.2384801" lon="6.9562458"/><trkpt lat="49.2382009" lon="6.9561875"/><trkpt lat="49.2381878" lon="6.9563355"/><trkpt lat="49.2381841" lon="6.956382"/><trkpt lat="49.2381551" lon="6.9563778"/><trkpt lat="49.2381261" lon="6.9563736"/><trkpt lat="49.2380878" lon="6.956799"/><trkpt lat="49.2380642" lon="6.9570892"/><trkpt lat="49.2381202" lon="6.957099"/><trkpt lat="49.2381061" lon="6.9572586"/><trkpt lat="49.2381652" lon="6.9572699"/><trkpt lat="49.2383032" lon="6.9572985"/><trkpt lat="49.2383219" lon="6.9573014"/><trkpt lat="49.2383434" lon="6.9573057"/><trkpt lat="49.2383864" lon="6.9573142"/><trkpt lat="49.2384637" lon="6.9564474"/><trkpt lat="49.2384919" lon="6.9564529"/><trkpt lat="49.2385093" lon="6.9564563"/><trkpt lat="49.2385271" lon="6.9564591"/><trkpt lat="49.2385368" lon="6.9564606"/><trkpt lat="49.2385298" lon="6.9565532"/><trkpt lat="49.2385346" lon="6.9565544"/><trkpt lat="49.2385469" lon="6.9565567"/><trkpt lat="49.2386108" lon="6.9565697"/><trkpt lat="49.2386376" lon="6.9562768"/></trkseg></trk><trk><name>Theater Überzwerg</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66119
+addr:street=Erich-Kästner-Platz
+addr:suburb=St. Arnual
+amenity=theatre
+contact:website=https://www.ueberzwerg.de/
+name=Theater Überzwerg
+wheelchair=limited
+wikidata=Q2416158
+wikipedia=de:Theater Überzwerg
+id=way/762974293</desc><trkseg><trkpt lat="49.2204285" lon="7.0099534"/><trkpt lat="49.2204052" lon="7.0099967"/><trkpt lat="49.2203685" lon="7.0099463"/><trkpt lat="49.2201982" lon="7.0102197"/><trkpt lat="49.2201637" lon="7.0102755"/><trkpt lat="49.2204493" lon="7.0107042"/><trkpt lat="49.2206581" lon="7.010375"/><trkpt lat="49.220588" lon="7.0102709"/><trkpt lat="49.2204472" lon="7.0105013"/><trkpt lat="49.220297" lon="7.0102753"/><trkpt lat="49.2203389" lon="7.010206"/><trkpt lat="49.2203886" lon="7.0101265"/><trkpt lat="49.2204343" lon="7.0101783"/><trkpt lat="49.220445" lon="7.0101564"/><trkpt lat="49.2204679" lon="7.0101097"/><trkpt lat="49.2204782" lon="7.0100887"/><trkpt lat="49.2204876" lon="7.0101006"/><trkpt lat="49.2204993" lon="7.0100789"/><trkpt lat="49.2205109" lon="7.0100573"/><trkpt lat="49.2204593" lon="7.0099923"/><trkpt lat="49.2204285" lon="7.0099534"/></trkseg></trk><trk><name>way/788244518</name><desc>amenity=theatre
+theatre:type=open_air
+id=way/788244518</desc><trkseg><trkpt lat="49.3043024" lon="7.3240204"/><trkpt lat="49.3042434" lon="7.3239321"/><trkpt lat="49.3041649" lon="7.3240554"/><trkpt lat="49.304224" lon="7.3241437"/><trkpt lat="49.3043024" lon="7.3240204"/></trkseg></trk><trk><name>Alte Feuerwache</name><desc>addr:city=Saarbrücken
+addr:country=DE
+addr:housenumber=1
+addr:postcode=66111
+addr:street=Landwehrplatz
+amenity=theatre
+architect=Wilhelm Franz
+building=fire_station
+building:levels=3
+building:use=theatre
+contact:phone=+49 681 3092-286
+contact:website=https://www.staatstheater.saarland/spielstaetten/alte-feuerwache
+heritage=4
+heritage:operator=lda
+historic=building
+image=File:Staatstheater_Alte_Feuerwache_Saarbrücken.jpg
+name=Alte Feuerwache
+operator=Saarländisches Staatstheater GmbH
+wheelchair=limited
+wheelchair:description=Für Rollstuhlfahrer Eingang im Hof.
+wikidata=Q30340485
+wikimedia_commons=Category:Alte Feuerwache (Saarbrücken)
+wikipedia=de:Alte Feuerwache (Saarbrücken)
+year_of_construction=1896..1897
+id=way/865453428</desc><trkseg><trkpt lat="49.2342278" lon="7.0002018"/><trkpt lat="49.2342148" lon="7.0001951"/><trkpt lat="49.2342068" lon="7.0001902"/><trkpt lat="49.2341758" lon="7.0001743"/><trkpt lat="49.2341611" lon="7.0001667"/><trkpt lat="49.2341396" lon="7.0002649"/><trkpt lat="49.2341208" lon="7.0002553"/><trkpt lat="49.2341156" lon="7.0002791"/><trkpt lat="49.2340165" lon="7.0002283"/><trkpt lat="49.2339845" lon="7.0002119"/><trkpt lat="49.2339721" lon="7.0002062"/><trkpt lat="49.2339177" lon="7.0001784"/><trkpt lat="49.2338877" lon="7.0003158"/><trkpt lat="49.2338595" lon="7.0004447"/><trkpt lat="49.2338482" lon="7.0004966"/><trkpt lat="49.2338573" lon="7.0005013"/><trkpt lat="49.2338772" lon="7.0005115"/><trkpt lat="49.2339026" lon="7.0005245"/><trkpt lat="49.2339072" lon="7.0005269"/><trkpt lat="49.233931" lon="7.0005391"/><trkpt lat="49.2339743" lon="7.0005614"/><trkpt lat="49.2340178" lon="7.0005838"/><trkpt lat="49.2340459" lon="7.0005983"/><trkpt lat="49.2340807" lon="7.0006162"/><trkpt lat="49.2341298" lon="7.0006415"/><trkpt lat="49.2341662" lon="7.0004748"/><trkpt lat="49.2341705" lon="7.0004557"/><trkpt lat="49.2342028" lon="7.0003128"/><trkpt lat="49.2342278" lon="7.0002018"/></trkseg></trk></gpx>

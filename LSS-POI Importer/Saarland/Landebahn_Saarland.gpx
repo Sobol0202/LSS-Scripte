@@ -1,0 +1,53 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><trk><name>08/26</name><desc>aeroway=runway
+centerline=yes
+length=1990
+ref=08/26
+surface=asphalt
+width=45
+id=way/28116177</desc><trkseg><trkpt lat="49.2142003" lon="7.0971293"/><trkpt lat="49.2142283" lon="7.0983522"/><trkpt lat="49.2145293" lon="7.1084503"/><trkpt lat="49.2145647" lon="7.1098671"/><trkpt lat="49.2145976" lon="7.1109835"/><trkpt lat="49.2149212" lon="7.121919"/><trkpt lat="49.2149331" lon="7.1223457"/></trkseg></trk><trk><name>way/28355684</name><desc>aeroway=runway
+heading=060:240
+surface=grass
+width=30
+id=way/28355684</desc><trkseg><trkpt lat="49.3388249" lon="7.2499897"/><trkpt lat="49.3410087" lon="7.2559119"/></trkseg></trk><trk><name>07/25</name><desc>aeroway=runway
+centerline=yes
+length=794
+ref=07/25
+surface=asphalt
+width=18
+id=way/48736117</desc><trkseg><trkpt lat="49.3114569" lon="6.6689969"/><trkpt lat="49.3115332" lon="6.6694211"/><trkpt lat="49.3120837" lon="6.6724811"/><trkpt lat="49.3127064" lon="6.6759424"/><trkpt lat="49.3133164" lon="6.6793336"/><trkpt lat="49.3133578" lon="6.6795634"/></trkseg></trk><trk><name>10-28</name><desc>aeroway=runway
+ref=10-28
+id=way/96621379</desc><trkseg><trkpt lat="49.4536983" lon="7.0326314"/><trkpt lat="49.4523928" lon="7.0436221"/><trkpt lat="49.4521175" lon="7.0459394"/></trkseg></trk><trk><name>way/267035746</name><desc>aeroway=runway
+heading=040:220
+surface=grass
+width=30
+id=way/267035746</desc><trkseg><trkpt lat="49.3402343" lon="7.2533635"/><trkpt lat="49.3370781" lon="7.2476988"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+ele=239
+heading=060;240
+length=686
+ref=06/24
+surface=grass
+url=http://lsc-dillingen.de/wp-content/uploads/2011/03/Flugplatz-Dillingen-Anflugkarte-Rev-3-110303.pdf
+width=30
+id=way/896643982</desc><trkseg><trkpt lat="49.3874555" lon="6.7523485"/><trkpt lat="49.3845458" lon="6.7454204"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+ele=239
+ref=06/24
+surface=grass_paver
+id=way/896643983</desc><trkseg><trkpt lat="49.3839024" lon="6.7426725"/><trkpt lat="49.3845577" lon="6.7442403"/><trkpt lat="49.3882133" lon="6.7529869"/></trkseg></trk><trk><name>04/22</name><desc>aeroway=runway
+length=380
+ref=04/22
+surface=grass
+width=60
+id=way/896644974</desc><trkseg><trkpt lat="49.5910308" lon="7.0293228"/><trkpt lat="49.5935145" lon="7.0340797"/></trkseg></trk><trk><name>way/1241272359</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=45
+id=way/1241272359</desc><trkseg><trkpt lat="49.2149331" lon="7.1223457"/><trkpt lat="49.2149517" lon="7.1229866"/><trkpt lat="49.2149737" lon="7.1237432"/></trkseg></trk><trk><name>way/1241272360</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=45
+id=way/1241272360</desc><trkseg><trkpt lat="49.2141794" lon="7.0964105"/><trkpt lat="49.2141978" lon="7.0970443"/><trkpt lat="49.2142003" lon="7.0971293"/></trkseg></trk><trk><name>way/1332536654</name><desc>aeroway=runway
+surface=grass
+width=10
+wikidata=Q126891305
+wikipedia=de:Ultraleichtfluggelände Lebach-La Motte
+id=way/1332536654</desc><trkseg><trkpt lat="49.4088903" lon="6.8847117"/><trkpt lat="49.4092958" lon="6.886488"/></trkseg></trk></gpx>
