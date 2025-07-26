@@ -1,0 +1,1527 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="52.3003708" lon="13.0714009"><name>Dreieck Nuthetal</name><desc>highway=motorway_junction
+name=Dreieck Nuthetal
+ref=16
+id=node/483967</desc></wpt><wpt lat="52.1295552" lon="12.7489515"><name>Fläming</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=34005
+TMC:cid_58:tabcd_1:NextLocationCode=12811
+TMC:cid_58:tabcd_1:PrevLocationCode=12810
+highway=motorway_junction
+name=Fläming
+id=node/508522</desc></wpt><wpt lat="52.1355262" lon="12.7554808"><name>Fläming</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12811
+TMC:cid_58:tabcd_1:NextLocationCode=12812
+TMC:cid_58:tabcd_1:PrevLocationCode=34005
+highway=motorway_junction
+name=Fläming
+id=node/508537</desc></wpt><wpt lat="52.0944398" lon="12.6881333"><name>Niemegk</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12810
+TMC:cid_58:tabcd_1:NextLocationCode=34005
+TMC:cid_58:tabcd_1:PrevLocationCode=33731
+highway=motorway_junction
+name=Niemegk
+ref=5
+id=node/509475</desc></wpt><wpt lat="52.1990963" lon="12.8815257"><name>node/509550</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33729
+TMC:cid_58:tabcd_1:NextLocationCode=33728
+TMC:cid_58:tabcd_1:PrevLocationCode=12812
+highway=motorway_junction
+noref=yes
+id=node/509550</desc></wpt><wpt lat="52.2170167" lon="12.9012869"><name>Beelitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12813
+TMC:cid_58:tabcd_1:NextLocationCode=12814
+TMC:cid_58:tabcd_1:PrevLocationCode=33728
+highway=motorway_junction
+name=Beelitz
+ref=3
+id=node/509559</desc></wpt><wpt lat="52.2036092" lon="12.8865415"><name>node/509642</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33728
+TMC:cid_58:tabcd_1:NextLocationCode=12813
+TMC:cid_58:tabcd_1:PrevLocationCode=33729
+highway=motorway_junction
+noref=yes
+id=node/509642</desc></wpt><wpt lat="52.1576391" lon="12.7807809"><name>Brück</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12812
+TMC:cid_58:tabcd_1:NextLocationCode=33729
+TMC:cid_58:tabcd_1:PrevLocationCode=12811
+highway=motorway_junction
+name=Brück
+ref=4
+id=node/509678</desc></wpt><wpt lat="51.6955825" lon="13.9016832"><name>node/9568822</name><desc>highway=motorway_junction
+noref=yes
+id=node/9568822</desc></wpt><wpt lat="52.313439" lon="13.6011669"><name>Königs Wusterhausen</name><desc>highway=motorway_junction
+name=Königs Wusterhausen
+ref=10
+id=node/9671124</desc></wpt><wpt lat="52.3238197" lon="13.7095642"><name>Parkplatz Uckleysee</name><desc>highway=motorway_junction
+name=Parkplatz Uckleysee
+noref=yes
+id=node/9671136</desc></wpt><wpt lat="52.7056384" lon="13.188597"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+old_name=Dreieck Oranienburg
+ref=31
+id=node/9679651</desc></wpt><wpt lat="52.3434964" lon="12.8156244"><name>Dreieck Werder</name><desc>highway=motorway_junction
+name=Dreieck Werder
+ref=21
+id=node/12456377</desc></wpt><wpt lat="51.8530263" lon="13.9079388"><name>Lübbenau</name><desc>highway=motorway_junction
+name=Lübbenau
+name:de=Lübbenau
+name:dsb=Lubnjow
+ref=9
+id=node/21271602</desc></wpt><wpt lat="52.5411477" lon="13.6945866"><name>Rasthof Seeberg Ost</name><desc>highway=motorway_junction
+name=Rasthof Seeberg Ost
+noref=yes
+id=node/21360449</desc></wpt><wpt lat="53.2301673" lon="12.2125413"><name>Meyenburg</name><desc>highway=motorway_junction
+name=Meyenburg
+ref=18
+id=node/21369233</desc></wpt><wpt lat="53.2789857" lon="12.0857246"><name>Putlitz</name><desc>highway=motorway_junction
+name=Putlitz
+ref=17
+id=node/21379671</desc></wpt><wpt lat="53.2351194" lon="12.1986772"><name>Meyenburg</name><desc>highway=motorway_junction
+name=Meyenburg
+ref=18
+id=node/21379685</desc></wpt><wpt lat="52.3234471" lon="13.7566363"><name>Dreieck Spreeau</name><desc>highway=motorway_junction
+name=Dreieck Spreeau
+ref=1
+id=node/21441776</desc></wpt><wpt lat="52.323921" lon="13.7366354"><name>Dreieck Spreeau</name><desc>highway=motorway_junction
+name=Dreieck Spreeau
+ref=8
+id=node/21469307</desc></wpt><wpt lat="52.3216867" lon="13.7013776"><name>Parkplatz Lankensee</name><desc>highway=motorway_junction
+name=Parkplatz Lankensee
+noref=yes
+id=node/21469318</desc></wpt><wpt lat="52.3131733" lon="13.6649658"><name>Niederlehme</name><desc>highway=motorway_junction
+name=Niederlehme
+ref=9
+id=node/21469386</desc></wpt><wpt lat="52.3065403" lon="13.3129066"><name>Genshagen</name><desc>highway=motorway_junction
+name=Genshagen
+ref=13
+id=node/21483106</desc></wpt><wpt lat="52.3075229" lon="13.2955163"><name>Ludwigsfelde-Ost</name><desc>highway=motorway_junction
+name=Ludwigsfelde-Ost
+note=Kreuz-Symbol auf den Vorwegweisern steht nicht für "Kreuz" im Knotenname!
+ref=14
+id=node/21483112</desc></wpt><wpt lat="52.3016852" lon="13.2142948"><name>Ludwigsfelde-West</name><desc>highway=motorway_junction
+name=Ludwigsfelde-West
+ref=15
+id=node/21483139</desc></wpt><wpt lat="52.7387375" lon="13.2076322"><name>Oranienburg-Zentrum Süd</name><desc>highway=motorway_junction
+name=Oranienburg-Zentrum Süd
+toll:name=Oranienburg Leegebruch
+id=node/21508714</desc></wpt><wpt lat="52.395189" lon="12.8410696"><name>Groß Kreutz</name><desc>highway=motorway_junction
+name=Groß Kreutz
+ref=22
+id=node/24557100</desc></wpt><wpt lat="52.5577373" lon="12.9654721"><name>Berlin-Spandau</name><desc>highway=motorway_junction
+name=Berlin-Spandau
+ref=26
+id=node/24557201</desc></wpt><wpt lat="52.5755347" lon="12.9727463"><name>Brieselang</name><desc>highway=motorway_junction
+name=Brieselang
+ref=27
+id=node/24557216</desc></wpt><wpt lat="52.2895221" lon="12.4584358"><name>Wollin</name><desc>highway=motorway_junction
+name=Wollin
+ref=77
+id=node/26305467</desc></wpt><wpt lat="52.2487716" lon="12.2614782"><name>Ziesar</name><desc>highway=motorway_junction
+name=Ziesar
+ref=76
+id=node/26305473</desc></wpt><wpt lat="52.341188" lon="12.7570511"><name>Lehnin</name><desc>highway=motorway_junction
+name=Lehnin
+ref=80
+id=node/26305562</desc></wpt><wpt lat="52.6957011" lon="13.2007232"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+ref=1
+id=node/27084958</desc></wpt><wpt lat="52.7071657" lon="13.1037043"><name>Oberkrämer</name><desc>highway=motorway_junction
+name=Oberkrämer
+ref=30
+id=node/27085941</desc></wpt><wpt lat="51.896858" lon="13.8170996"><name>Duben</name><desc>highway=motorway_junction
+name=Duben
+name:hsb=Dubin
+ref=8
+id=node/27121031</desc></wpt><wpt lat="52.7076096" lon="13.2072395"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+noref=yes
+id=node/27144127</desc></wpt><wpt lat="52.6186389" lon="12.9777708"><name>Falkensee</name><desc>highway=motorway_junction
+name=Falkensee
+ref=28
+id=node/27219550</desc></wpt><wpt lat="52.618044" lon="12.9771505"><name>Falkensee</name><desc>highway=motorway_junction
+name=Falkensee
+ref=28
+id=node/27219560</desc></wpt><wpt lat="52.552424" lon="12.9640231"><name>Berlin-Spandau</name><desc>highway=motorway_junction
+name=Berlin-Spandau
+ref=26
+id=node/27220382</desc></wpt><wpt lat="52.529313" lon="13.1096158"><name>Seeburg/Falkensee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=29888
+TMC:cid_58:tabcd_1:NextLocationCode=24073
+TMC:cid_58:tabcd_1:PrevLocationCode=24072
+highway=motorway_junction
+name=Seeburg/Falkensee
+toll:name=Seeburg
+id=node/27239448</desc></wpt><wpt lat="52.5338817" lon="12.9998824"><name>Elstal Olympisches Dorf</name><desc>highway=motorway_junction
+name=Elstal Olympisches Dorf
+toll:name=Elstal Zur Döberitzer Heide
+id=node/27239623</desc></wpt><wpt lat="52.5342358" lon="12.9987463"><name>Elstal Olympisches Dorf</name><desc>highway=motorway_junction
+name=Elstal Olympisches Dorf
+toll:name=Elstal Zur Döberitzer Heide
+id=node/27239638</desc></wpt><wpt lat="52.5384756" lon="12.9653329"><name>Berlin-Spandau</name><desc>highway=motorway_junction
+name=Berlin-Spandau
+ref=26
+id=node/27239990</desc></wpt><wpt lat="52.4745703" lon="12.9536796"><name>Potsdam-Nord</name><desc>highway=motorway_junction
+name=Potsdam-Nord
+ref=25
+id=node/27240300</desc></wpt><wpt lat="52.4201175" lon="12.9220508"><name>node/27240971</name><desc>highway=motorway_junction
+noref=yes
+id=node/27240971</desc></wpt><wpt lat="52.5516982" lon="12.9692206"><name>GVZ Wustermark</name><desc>highway=motorway_junction
+name=GVZ Wustermark
+toll:name=Elstal Leipziger Straße
+id=node/27241137</desc></wpt><wpt lat="52.5744715" lon="12.9727668"><name>Brieselang</name><desc>highway=motorway_junction
+name=Brieselang
+ref=27
+id=node/27241955</desc></wpt><wpt lat="52.4764267" lon="12.9560578"><name>Potsdam-Nord</name><desc>highway=motorway_junction
+name=Potsdam-Nord
+ref=25
+id=node/27243037</desc></wpt><wpt lat="52.3195364" lon="14.5126462"><name>Frankfurt (Oder)-Mitte</name><desc>highway=motorway_junction
+name=Frankfurt (Oder)-Mitte
+ref=9
+id=node/27263075</desc></wpt><wpt lat="52.5566076" lon="12.9521037"><name>Wustermark Nord</name><desc>highway=motorway_junction
+name=Wustermark Nord
+id=node/27292018</desc></wpt><wpt lat="52.5565086" lon="12.9496232"><name>Wustermark Nord</name><desc>highway=motorway_junction
+name=Wustermark Nord
+id=node/27292040</desc></wpt><wpt lat="52.5580274" lon="12.9295065"><name>Wustermark West</name><desc>highway=motorway_junction
+name=Wustermark West
+id=node/27292062</desc></wpt><wpt lat="52.5291555" lon="13.1112535"><name>Seeburg/Falkensee</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=29888
+TMC:cid_58:tabcd_1:NextLocationCode=24073
+TMC:cid_58:tabcd_1:PrevLocationCode=24072
+highway=motorway_junction
+name=Seeburg/Falkensee
+toll:name=Seeburg
+id=node/27324021</desc></wpt><wpt lat="52.3966058" lon="13.0816826"><name>Babelsberg</name><desc>highway=motorway_junction
+name=Babelsberg
+id=node/27370836</desc></wpt><wpt lat="52.3893147" lon="13.0847926"><name>Friedrich-List-Straße</name><desc>highway=motorway_junction
+name=Friedrich-List-Straße
+id=node/27370935</desc></wpt><wpt lat="52.3835077" lon="13.095894"><name>Horstweg</name><desc>highway=motorway_junction
+name=Horstweg
+id=node/27371030</desc></wpt><wpt lat="52.3837228" lon="13.0952357"><name>Horstweg</name><desc>highway=motorway_junction
+name=Horstweg
+postal_code=14478
+id=node/27371031</desc></wpt><wpt lat="52.3760436" lon="13.1096499"><name>Medienstadt/Filmpark</name><desc>highway=motorway_junction
+name=Medienstadt/Filmpark
+id=node/27371044</desc></wpt><wpt lat="52.3721952" lon="13.1250535"><name>Neuendorfer Straße</name><desc>highway=motorway_junction
+name=Neuendorfer Straße
+id=node/27371067</desc></wpt><wpt lat="52.3723181" lon="13.1263087"><name>Neuendorfer Straße</name><desc>highway=motorway_junction
+name=Neuendorfer Straße
+name:etymology:wikidata=Q705038
+id=node/27371070</desc></wpt><wpt lat="52.3735199" lon="13.1568288"><name>Potsdam-Babelsberg</name><desc>highway=motorway_junction
+name=Potsdam-Babelsberg
+id=node/27371261</desc></wpt><wpt lat="52.5526611" lon="13.6737305"><name>Berlin-Marzahn</name><desc>highway=motorway_junction
+name=Berlin-Marzahn
+ref=3
+id=node/27472708</desc></wpt><wpt lat="52.5444417" lon="13.6885982"><name>Rasthof Seeberg West</name><desc>highway=motorway_junction
+name=Rasthof Seeberg West
+noref=yes
+id=node/27472715</desc></wpt><wpt lat="52.4941431" lon="13.7532688"><name>Berlin-Hellersdorf</name><desc>highway=motorway_junction
+name=Berlin-Hellersdorf
+ref=4
+wikidata=Q13427687
+id=node/27472971</desc></wpt><wpt lat="52.4776976" lon="13.7581786"><name>Rüdersdorf</name><desc>highway=motorway_junction
+name=Rüdersdorf
+ref=5
+id=node/27472981</desc></wpt><wpt lat="52.5025855" lon="13.7440314"><name>Berlin-Hellersdorf</name><desc>highway=motorway_junction
+name=Berlin-Hellersdorf
+ref=4
+id=node/27473042</desc></wpt><wpt lat="52.4391383" lon="13.7985421"><name>Parkplatz Kranichberge</name><desc>highway=motorway_junction
+name=Parkplatz Kranichberge
+noref=yes
+id=node/27473236</desc></wpt><wpt lat="52.4233627" lon="13.7858881"><name>Erkner</name><desc>highway=motorway_junction
+name=Erkner
+ref=6a
+id=node/27473241</desc></wpt><wpt lat="52.3884152" lon="13.7862284"><name>Freienbrink</name><desc>highway=motorway_junction
+name=Freienbrink
+ref=7
+id=node/27473453</desc></wpt><wpt lat="52.4204349" lon="13.7854492"><name>Erkner</name><desc>highway=motorway_junction
+name=Erkner
+ref=6a
+id=node/27473466</desc></wpt><wpt lat="52.4529793" lon="13.7994677"><name>Parkplatz Kalkberge</name><desc>highway=motorway_junction
+name=Parkplatz Kalkberge
+noref=yes
+id=node/27473474</desc></wpt><wpt lat="52.3308094" lon="13.7509612"><name>Dreieck Spreeau</name><desc>highway=motorway_junction
+name=Dreieck Spreeau
+ref=8
+id=node/27473862</desc></wpt><wpt lat="52.3864662" lon="13.7855075"><name>Freienbrink</name><desc>highway=motorway_junction
+name=Freienbrink
+ref=7
+id=node/27473896</desc></wpt><wpt lat="52.3127709" lon="13.6619556"><name>Niederlehme</name><desc>highway=motorway_junction
+name=Niederlehme
+ref=9
+id=node/27474205</desc></wpt><wpt lat="52.3067414" lon="13.4460405"><name>Rangsdorf</name><desc>highway=motorway_junction
+name=Rangsdorf
+ref=12
+id=node/27487359</desc></wpt><wpt lat="52.3186424" lon="13.5441367"><name>Schönefelder Kreuz</name><desc>highway=motorway_junction
+name=Schönefelder Kreuz
+ref=11
+id=node/27487378</desc></wpt><wpt lat="53.2487738" lon="14.0165252"><name>Kreuz Uckermark</name><desc>highway=motorway_junction
+name=Kreuz Uckermark
+ref=5
+id=node/28115118</desc></wpt><wpt lat="52.5387171" lon="12.9776288"><name>Elstal/Priort/Wustermark</name><desc>highway=motorway_junction
+name=Elstal/Priort/Wustermark
+toll:name=Elstal Gewerbegebiet Nauener Str.
+id=node/28317570</desc></wpt><wpt lat="52.5382881" lon="12.9797823"><name>Elstal/Priort/Wustermark</name><desc>highway=motorway_junction
+name=Elstal/Priort/Wustermark
+toll:name=Elstal Gewerbegebiet Nauener Str.
+id=node/28317573</desc></wpt><wpt lat="52.8508834" lon="13.667242"><name>Finowfurt</name><desc>highway=motorway_junction
+name=Finowfurt
+ref=12
+id=node/29340912</desc></wpt><wpt lat="52.8492685" lon="13.6665828"><name>Finowfurt</name><desc>highway=motorway_junction
+name=Finowfurt
+ref=12
+id=node/29340915</desc></wpt><wpt lat="52.8917687" lon="13.7177831"><name>Werbellin</name><desc>highway=motorway_junction
+name=Werbellin
+ref=11
+id=node/29363963</desc></wpt><wpt lat="52.1562079" lon="12.7794564"><name>Brück</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12812
+TMC:cid_58:tabcd_1:NextLocationCode=33729
+TMC:cid_58:tabcd_1:PrevLocationCode=12811
+highway=motorway_junction
+name=Brück
+ref=4
+id=node/29406840</desc></wpt><wpt lat="52.3788554" lon="13.3118857"><name>node/29533783</name><desc>highway=motorway_junction
+toll:name=Großbeeren-Gewerbegebiet
+id=node/29533783</desc></wpt><wpt lat="52.3318931" lon="13.2839621"><name>node/29553311</name><desc>highway=motorway_junction
+toll:name=Ludwigsfelde Industriepark Nord
+id=node/29553311</desc></wpt><wpt lat="52.3222594" lon="13.2869631"><name>node/29553315</name><desc>highway=motorway_junction
+toll:name=Ludwigsfelde Industriepark Süd
+id=node/29553315</desc></wpt><wpt lat="52.3132844" lon="13.2876103"><name>Ludwigsfelde-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33774
+TMC:cid_58:tabcd_1:NextLocationCode=33775
+TMC:cid_58:tabcd_1:PrevLocationCode=34043
+highway=motorway_junction
+name=Ludwigsfelde-Ost
+id=node/29553317</desc></wpt><wpt lat="52.9392767" lon="13.7934948"><name>Chorin</name><desc>highway=motorway_junction
+name=Chorin
+ref=10
+id=node/29736408</desc></wpt><wpt lat="52.9539489" lon="13.8076322"><name>Joachimsthal</name><desc>highway=motorway_junction
+name=Joachimsthal
+ref=9
+id=node/29750650</desc></wpt><wpt lat="52.774389" lon="13.5656604"><name>Lanke</name><desc>highway=motorway_junction
+name=Lanke
+ref=13
+id=node/29753525</desc></wpt><wpt lat="52.690519" lon="13.5583764"><name>Bernau-Nord</name><desc>highway=motorway_junction
+name=Bernau-Nord
+ref=15
+id=node/29768509</desc></wpt><wpt lat="52.3549263" lon="13.1405413"><name>Potsdam-Drewitz</name><desc>highway=motorway_junction
+name=Potsdam-Drewitz
+ref=7
+id=node/29905180</desc></wpt><wpt lat="52.2917824" lon="12.4611119"><name>Wollin</name><desc>highway=motorway_junction
+name=Wollin
+ref=77
+id=node/30042847</desc></wpt><wpt lat="52.350678" lon="12.5940728"><name>Brandenburg</name><desc>highway=motorway_junction
+name=Brandenburg
+ref=78
+id=node/30043637</desc></wpt><wpt lat="52.3511059" lon="13.2887981"><name>node/30063344</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33775
+TMC:cid_58:tabcd_1:NextLocationCode=33772
+TMC:cid_58:tabcd_1:PrevLocationCode=33774
+highway=motorway_junction
+loc_name=Kreuz Großbeeren-Süd
+toll:name=Großbeeren-Süd
+id=node/30063344</desc></wpt><wpt lat="52.3489611" lon="13.284244"><name>node/30063393</name><desc>highway=motorway_junction
+loc_name=Kreuz Großbeeren-Süd
+note=AS hat keinen ausgeschilderten Namen
+toll:name=Großbeeren-Süd
+id=node/30063393</desc></wpt><wpt lat="52.2981527" lon="13.2833708"><name>Preußenpark</name><desc>highway=motorway_junction
+name=Preußenpark
+toll:name=Ludwigsfelde Preußenpark
+id=node/30063868</desc></wpt><wpt lat="52.3754294" lon="13.1111111"><name>Medienstadt/Filmpark</name><desc>check_date=2024-03-22
+highway=motorway_junction
+name=Medienstadt/Filmpark
+id=node/30622817</desc></wpt><wpt lat="52.3722426" lon="13.1415933"><name>Drewitz</name><desc>highway=motorway_junction
+name=Drewitz
+id=node/30623092</desc></wpt><wpt lat="52.6785517" lon="13.2249587"><name>Hennigsdorf</name><desc>highway=motorway_junction
+name=Hennigsdorf
+ref=2a
+id=node/30741851</desc></wpt><wpt lat="52.6777142" lon="13.2266403"><name>Hennigsdorf</name><desc>highway=motorway_junction
+name=Hennigsdorf
+ref=2a
+id=node/30741852</desc></wpt><wpt lat="52.4112844" lon="12.8986046"><name>Phöben</name><desc>highway=motorway_junction
+name=Phöben
+ref=23
+id=node/30819408</desc></wpt><wpt lat="52.4100539" lon="12.896099"><name>Phöben</name><desc>highway=motorway_junction
+name=Phöben
+ref=23
+id=node/30819415</desc></wpt><wpt lat="52.3944868" lon="12.8385559"><name>Groß Kreutz</name><desc>highway=motorway_junction
+name=Groß Kreutz
+ref=22
+id=node/31019831</desc></wpt><wpt lat="52.5340042" lon="13.0562895"><name>Dallgow-Döberitz</name><desc>highway=motorway_junction
+name=Dallgow-Döberitz
+toll:name=Dallgow-Döberitz-Mitte
+id=node/31252425</desc></wpt><wpt lat="52.5316114" lon="13.0916269"><name>Dallgow/Falkensee</name><desc>highway=motorway_junction
+name=Dallgow/Falkensee
+toll:name=Dallgow
+id=node/31367264</desc></wpt><wpt lat="52.3320458" lon="13.1175759"><name>Saarmund</name><desc>highway=motorway_junction
+name=Saarmund
+ref=8
+id=node/31450590</desc></wpt><wpt lat="52.4768452" lon="13.7591607"><name>Rüdersdorf</name><desc>highway=motorway_junction
+name=Rüdersdorf
+ref=5
+id=node/31562274</desc></wpt><wpt lat="52.3762108" lon="13.561596"><name>Waldeck</name><desc>highway=motorway_junction
+name=Waldeck
+id=node/32135253</desc></wpt><wpt lat="52.3694711" lon="13.5560095"><name>Waltersdorf</name><desc>highway=motorway_junction
+name=Waltersdorf
+ref=2
+id=node/32143951</desc></wpt><wpt lat="52.365268" lon="13.5517101"><name>Waltersdorfer Dreieck</name><desc>highway=motorway_junction
+name=Waltersdorfer Dreieck
+ref=3
+id=node/32144256</desc></wpt><wpt lat="52.7368741" lon="13.2090384"><name>Oranienburg-Zentrum Süd</name><desc>highway=motorway_junction
+name=Oranienburg-Zentrum Süd
+toll:name=Oranienburg Leegebruch
+id=node/32560358</desc></wpt><wpt lat="52.7481064" lon="13.1959158"><name>Oranienburg-Zentrum</name><desc>highway=motorway_junction
+name=Oranienburg-Zentrum
+toll:name=Oranienburg Mitte
+id=node/32560631</desc></wpt><wpt lat="52.7948707" lon="13.2330221"><name>Oranienburg-Nord</name><desc>highway=motorway_junction
+name=Oranienburg-Nord
+toll:name=Oranienburg-Nord
+id=node/32561595</desc></wpt><wpt lat="52.7510371" lon="13.1964538"><name>Oranienburg-Zentrum</name><desc>highway=motorway_junction
+name=Oranienburg-Zentrum
+toll:name=Oranienburg Mitte
+id=node/32561744</desc></wpt><wpt lat="52.556488" lon="12.960465"><name>Berlin-Spandau</name><desc>highway=motorway_junction
+name=Berlin-Spandau
+ref=26
+toll:name=Berlin-Spandau (b)
+id=node/32685402</desc></wpt><wpt lat="51.8272479" lon="13.9994388"><name>node/32837893</name><desc>highway=motorway_junction
+noref=yes
+id=node/32837893</desc></wpt><wpt lat="52.4325978" lon="12.9301316"><name>Leest</name><desc>highway=motorway_junction
+name=Leest
+ref=24
+id=node/32913889</desc></wpt><wpt lat="52.4340976" lon="12.9300142"><name>Leest</name><desc>highway=motorway_junction
+name=Leest
+ref=24
+id=node/32914082</desc></wpt><wpt lat="52.534059" lon="13.0414959"><name>Dallgow-Döberitz/Rohrbeck</name><desc>highway=motorway_junction
+name=Dallgow-Döberitz/Rohrbeck
+toll:name=Dallgow-Döberitz West
+id=node/33546286</desc></wpt><wpt lat="52.3194551" lon="13.5661525"><name>Schönefelder Kreuz</name><desc>highway=motorway_junction
+name=Schönefelder Kreuz
+ref=11
+id=node/34159275</desc></wpt><wpt lat="52.3143078" lon="13.5987352"><name>Königs Wusterhausen</name><desc>highway=motorway_junction
+name=Königs Wusterhausen
+ref=10
+id=node/34160979</desc></wpt><wpt lat="52.3348017" lon="14.0786845"><name>Fürstenwalde-West</name><desc>highway=motorway_junction
+name=Fürstenwalde-West
+ref=4
+id=node/36265415</desc></wpt><wpt lat="52.3166487" lon="13.2875873"><name>node/36297630</name><desc>highway=motorway_junction
+toll:name=Ludwigsfelde Industriepark Süd
+id=node/36297630</desc></wpt><wpt lat="52.302504" lon="13.286505"><name>Ludwigsfelde-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33774
+TMC:cid_58:tabcd_1:NextLocationCode=33775
+TMC:cid_58:tabcd_1:PrevLocationCode=34043
+highway=motorway_junction
+name=Ludwigsfelde-Ost
+id=node/36297817</desc></wpt><wpt lat="52.2963337" lon="13.2827886"><name>Preußenpark</name><desc>highway=motorway_junction
+name=Preußenpark
+toll:name=Ludwigsfelde Preußenpark
+id=node/36297847</desc></wpt><wpt lat="52.3256456" lon="13.2867494"><name>node/36311488</name><desc>highway=motorway_junction
+toll:name=Ludwigsfelde Industriepark Nord
+id=node/36311488</desc></wpt><wpt lat="52.3459266" lon="13.2842745"><name>node/36311507</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33775
+TMC:cid_58:tabcd_1:NextLocationCode=33772
+TMC:cid_58:tabcd_1:PrevLocationCode=33774
+highway=motorway_junction
+loc_name=Kreuz Großbeeren-Süd
+toll:name=Großbeeren-Süd
+id=node/36311507</desc></wpt><wpt lat="52.3496565" lon="13.287196"><name>node/36311517</name><desc>highway=motorway_junction
+toll:name=Großbeeren-Süd
+id=node/36311517</desc></wpt><wpt lat="52.3755893" lon="13.3080089"><name>node/36311553</name><desc>highway=motorway_junction
+toll:name=Großbeeren-Gewerbegebiet
+id=node/36311553</desc></wpt><wpt lat="52.644794" lon="13.5672961"><name>Bernau-Süd</name><desc>highway=motorway_junction
+name=Bernau-Süd
+ref=16
+id=node/39933927</desc></wpt><wpt lat="52.3618367" lon="13.5482018"><name>Waltersdorfer Dreieck</name><desc>highway=motorway_junction
+name=Waltersdorfer Dreieck
+ref=9
+id=node/39960257</desc></wpt><wpt lat="53.1562182" lon="12.4480755"><name>Wittstock</name><desc>highway=motorway_junction
+name=Wittstock
+ref=20
+id=node/40143364</desc></wpt><wpt lat="52.6013117" lon="13.6063992"><name>Berlin-Hohenschönhausen</name><desc>highway=motorway_junction
+name=Berlin-Hohenschönhausen
+ref=2
+id=node/40446866</desc></wpt><wpt lat="52.5611994" lon="12.9253769"><name>Wustermark West</name><desc>highway=motorway_junction
+name=Wustermark West
+id=node/46996576</desc></wpt><wpt lat="52.6540657" lon="13.2439165"><name>Stolpe</name><desc>highway=motorway_junction
+name=Stolpe
+ref=2b
+id=node/48012434</desc></wpt><wpt lat="52.6495199" lon="13.5682995"><name>Bernau-Süd</name><desc>highway=motorway_junction
+name=Bernau-Süd
+ref=16
+id=node/49395182</desc></wpt><wpt lat="52.2305438" lon="13.2337936"><name>node/50735778</name><desc>destination=Trebbin
+highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/50735778</desc></wpt><wpt lat="52.3016612" lon="13.2108959"><name>Ludwigsfelde-West</name><desc>highway=motorway_junction
+name=Ludwigsfelde-West
+ref=15
+id=node/51310599</desc></wpt><wpt lat="52.317175" lon="13.4490956"><name>B.-M.-Dahlewitz</name><desc>highway=motorway_junction
+name=B.-M.-Dahlewitz
+toll:name=Dahlewitz
+id=node/58789285</desc></wpt><wpt lat="52.7001124" lon="13.2739965"><name>Birkenwerder</name><desc>highway=motorway_junction
+name=Birkenwerder
+ref=33
+id=node/59316768</desc></wpt><wpt lat="52.3221444" lon="14.3475919"><name>Müllrose</name><desc>highway=motorway_junction
+name=Müllrose
+ref=7
+id=node/60075292</desc></wpt><wpt lat="52.2710732" lon="12.9096925"><name>Beelitz-Heilstätten</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12814
+TMC:cid_58:tabcd_1:NextLocationCode=12815
+TMC:cid_58:tabcd_1:PrevLocationCode=12813
+highway=motorway_junction
+name=Beelitz-Heilstätten
+ref=2
+id=node/60373164</desc></wpt><wpt lat="52.6895754" lon="13.5591261"><name>Bernau-Nord</name><desc>highway=motorway_junction
+name=Bernau-Nord
+ref=15
+id=node/60635477</desc></wpt><wpt lat="51.642494" lon="14.2358794"><name>node/60662936</name><desc>highway=motorway_junction
+id=node/60662936</desc></wpt><wpt lat="52.2112372" lon="13.2584401"><name>node/60882397</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20378
+TMC:cid_58:tabcd_1:NextLocationCode=34267
+TMC:cid_58:tabcd_1:PrevLocationCode=34263
+exit_to=Zossen;Beelitz;Industriegebiet Trebbin
+highway=motorway_junction
+id=node/60882397</desc></wpt><wpt lat="52.3452267" lon="13.4459443"><name>B.-M.-Blankenfelde</name><desc>highway=motorway_junction
+name=B.-M.-Blankenfelde
+toll:name=Blankenfelde
+id=node/66616613</desc></wpt><wpt lat="52.3675778" lon="13.4241931"><name>Teltow</name><desc>highway=motorway_junction
+name=Teltow
+toll:name=Mahlow Nord
+id=node/66616882</desc></wpt><wpt lat="52.3482086" lon="13.4422329"><name>B.-M.-Blankenfelde</name><desc>highway=motorway_junction
+name=B.-M.-Blankenfelde
+toll:name=Blankenfelde
+id=node/66617006</desc></wpt><wpt lat="52.3163848" lon="13.4481384"><name>B.-M.-Dahlewitz</name><desc>highway=motorway_junction
+name=B.-M.-Dahlewitz
+toll:name=Dahlewitz
+id=node/66617258</desc></wpt><wpt lat="52.3588581" lon="13.2651221"><name>node/75441542</name><desc>highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/75441542</desc></wpt><wpt lat="52.3579072" lon="13.2736767"><name>node/75441602</name><desc>highway=motorway_junction
+id=node/75441602</desc></wpt><wpt lat="52.1228363" lon="13.6463162"><name>Teupitz</name><desc>highway=motorway_junction
+name=Teupitz
+ref=5a
+id=node/85489957</desc></wpt><wpt lat="52.1569812" lon="13.6478273"><name>Groß Köris</name><desc>highway=motorway_junction
+name=Groß Köris
+ref=4
+id=node/94710666</desc></wpt><wpt lat="52.1559952" lon="13.6484116"><name>Groß Köris</name><desc>highway=motorway_junction
+name=Groß Köris
+ref=4
+id=node/94711141</desc></wpt><wpt lat="52.1216585" lon="13.6465278"><name>Teupitz</name><desc>highway=motorway_junction
+name=Teupitz
+ref=5a
+id=node/94712675</desc></wpt><wpt lat="52.2102665" lon="13.6065871"><name>Raststätte Am Kahlberg</name><desc>highway=motorway_junction
+name=Raststätte Am Kahlberg
+noref=yes
+id=node/94722504</desc></wpt><wpt lat="52.2644392" lon="13.5772656"><name>Mittenwalde</name><desc>highway=motorway_junction
+name=Mittenwalde
+ref=3a
+id=node/94724879</desc></wpt><wpt lat="52.2632912" lon="13.5782185"><name>Mittenwalde</name><desc>highway=motorway_junction
+name=Mittenwalde
+ref=3a
+id=node/94726897</desc></wpt><wpt lat="52.0954346" lon="12.6897492"><name>Niemegk</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12810
+TMC:cid_58:tabcd_1:NextLocationCode=34005
+TMC:cid_58:tabcd_1:PrevLocationCode=33731
+highway=motorway_junction
+name=Niemegk
+ref=5
+id=node/95633887</desc></wpt><wpt lat="52.8902131" lon="13.7153147"><name>Werbellin</name><desc>highway=motorway_junction
+name=Werbellin
+ref=11
+id=node/96504495</desc></wpt><wpt lat="52.9529387" lon="13.806986"><name>Joachimsthal</name><desc>highway=motorway_junction
+name=Joachimsthal
+ref=9
+id=node/96504515</desc></wpt><wpt lat="53.2152804" lon="13.9648152"><name>Parkplatz Rathsburgseen Süd</name><desc>highway=motorway_junction
+name=Parkplatz Rathsburgseen Süd
+noref=yes
+id=node/96504569</desc></wpt><wpt lat="53.2422847" lon="14.0070833"><name>Kreuz Uckermark</name><desc>highway=motorway_junction
+name=Kreuz Uckermark
+ref=5
+id=node/96504573</desc></wpt><wpt lat="52.2940139" lon="13.5582444"><name>Ragow</name><desc>highway=motorway_junction
+name=Ragow
+ref=2
+id=node/98169359</desc></wpt><wpt lat="52.3182187" lon="13.5016929"><name>Rasthof Am Fichtenplan</name><desc>highway=motorway_junction
+name=Rasthof Am Fichtenplan
+noref=yes
+id=node/128057183</desc></wpt><wpt lat="52.3722474" lon="13.1304433"><name>Drewitz</name><desc>highway=motorway_junction
+name=Drewitz
+id=node/132477724</desc></wpt><wpt lat="52.3221697" lon="14.3502806"><name>Müllrose</name><desc>highway=motorway_junction
+name=Müllrose
+ref=7
+id=node/134731106</desc></wpt><wpt lat="52.0147434" lon="13.6975524"><name>Staakow</name><desc>highway=motorway_junction
+name=Staakow
+name:hsb=Stoki
+ref=6
+id=node/158581776</desc></wpt><wpt lat="51.8461578" lon="13.919212"><name>Dreieck Spreewald</name><desc>highway=motorway_junction
+name=Dreieck Spreewald
+name:hsb=Błośański tśirožk
+ref=10
+id=node/158585033</desc></wpt><wpt lat="51.956473" lon="13.7668039"><name>Freiwalde</name><desc>highway=motorway_junction
+name=Freiwalde
+name:hsb=Briwałd
+ref=7
+id=node/158596260</desc></wpt><wpt lat="51.955074" lon="13.7670099"><name>Freiwalde</name><desc>highway=motorway_junction
+name=Freiwalde
+name:hsb=Briwałd
+ref=7
+id=node/158596372</desc></wpt><wpt lat="51.9924769" lon="13.7265519"><name>Parkplatz Krausnicker Berge</name><desc>highway=motorway_junction
+name=Parkplatz Krausnicker Berge
+noref=yes
+id=node/158596445</desc></wpt><wpt lat="52.8506769" lon="12.7762379"><name>Neuruppin-Süd</name><desc>highway=motorway_junction
+name=Neuruppin-Süd
+ref=23
+id=node/186901681</desc></wpt><wpt lat="51.5567539" lon="13.9164796"><name>Raststätte Freienhufener Eck</name><desc>highway=motorway_junction
+name=Raststätte Freienhufener Eck
+noref=yes
+id=node/205478778</desc></wpt><wpt lat="52.0137236" lon="13.7001102"><name>Staakow</name><desc>highway=motorway_junction
+name=Staakow
+name:hsb=Stoki
+ref=6
+id=node/205497480</desc></wpt><wpt lat="52.292561" lon="13.5593918"><name>Ragow</name><desc>highway=motorway_junction
+name=Ragow
+ref=2
+id=node/205498346</desc></wpt><wpt lat="52.3650525" lon="13.5514897"><name>Waltersdorf</name><desc>highway=motorway_junction
+name=Waltersdorf
+ref=2
+id=node/206187755</desc></wpt><wpt lat="52.3206286" lon="14.4727404"><name>Frankfurt (Oder)-West</name><desc>highway=motorway_junction
+name=Frankfurt (Oder)-West
+ref=8
+id=node/241774696</desc></wpt><wpt lat="53.152101" lon="12.4021667"><name>Pritzwalk</name><desc>highway=motorway_junction
+name=Pritzwalk
+ref=19
+id=node/243066228</desc></wpt><wpt lat="53.1493255" lon="12.4063597"><name>Pritzwalk</name><desc>highway=motorway_junction
+name=Pritzwalk
+ref=19
+id=node/243067885</desc></wpt><wpt lat="52.7139112" lon="13.5458764"><name>Parkplatz Probstheide</name><desc>highway=motorway_junction
+name=Parkplatz Probstheide
+noref=yes
+id=node/246765558</desc></wpt><wpt lat="53.2480227" lon="14.0098321"><name>Kreuz Uckermark</name><desc>highway=motorway_junction
+name=Kreuz Uckermark
+ref=39
+zone:traffic=DE:rural
+id=node/249790911</desc></wpt><wpt lat="51.9013217" lon="13.810506"><name>Duben</name><desc>highway=motorway_junction
+name=Duben
+name:hsb=Dubin
+ref=8
+id=node/249791953</desc></wpt><wpt lat="52.1157299" lon="13.1391799"><name>node/253783908</name><desc>highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/253783908</desc></wpt><wpt lat="52.1158155" lon="13.1409522"><name>node/253787444</name><desc>highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/253787444</desc></wpt><wpt lat="52.0645454" lon="13.6523951"><name>Baruth/Mark</name><desc>highway=motorway_junction
+name=Baruth/Mark
+name:hsb=Želm
+ref=5b
+id=node/254136495</desc></wpt><wpt lat="52.3280486" lon="14.2717247"><name>Briesen</name><desc>highway=motorway_junction
+name=Briesen
+ref=6
+id=node/254448310</desc></wpt><wpt lat="52.3274987" lon="14.2747771"><name>Briesen</name><desc>highway=motorway_junction
+name=Briesen
+ref=6
+id=node/254448357</desc></wpt><wpt lat="52.5322968" lon="13.0873689"><name>Dallgow/Falkensee</name><desc>highway=motorway_junction
+name=Dallgow/Falkensee
+toll:name=Dallgow
+id=node/257885407</desc></wpt><wpt lat="52.3996548" lon="13.5191407"><name>Schönefeld-Nord</name><desc>highway=motorway_junction
+name=Schönefeld-Nord
+ref=6
+id=node/260994516</desc></wpt><wpt lat="52.2700222" lon="12.9095662"><name>Beelitz-Heilstätten</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12814
+TMC:cid_58:tabcd_1:NextLocationCode=12815
+TMC:cid_58:tabcd_1:PrevLocationCode=12813
+highway=motorway_junction
+name=Beelitz-Heilstätten
+ref=2
+id=node/262267792</desc></wpt><wpt lat="52.7065313" lon="13.2047983"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+id=node/263696632</desc></wpt><wpt lat="52.7037736" lon="13.2001665"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+id=node/263696638</desc></wpt><wpt lat="52.6846803" lon="13.0083889"><name>Tankstelle Wolfslake</name><desc>highway=motorway_junction
+name=Tankstelle Wolfslake
+noref=yes
+id=node/267522785</desc></wpt><wpt lat="52.6666759" lon="13.0054099"><name>Tankstelle Wolfslake</name><desc>highway=motorway_junction
+name=Tankstelle Wolfslake
+noref=yes
+id=node/267525614</desc></wpt><wpt lat="52.6297593" lon="12.9846797"><name>node/267565202</name><desc>highway=motorway_junction
+noref=yes
+id=node/267565202</desc></wpt><wpt lat="52.5543359" lon="12.9675739"><name>Berlin-Spandau</name><desc>highway=motorway_junction
+name=Berlin-Spandau
+ref=26
+toll:name=Berlin-Spandau (b)
+id=node/267576555</desc></wpt><wpt lat="52.5555304" lon="12.9646001"><name>Berlin-Spandau</name><desc>highway=motorway_junction
+name=Berlin-Spandau
+noref=yes
+id=node/267577037</desc></wpt><wpt lat="52.554793" lon="12.9667396"><name>Berlin-Spandau</name><desc>highway=motorway_junction
+name=Berlin-Spandau
+ref=26
+toll:name=Berlin-Spandau (b)
+id=node/267577442</desc></wpt><wpt lat="52.5208652" lon="12.9646997"><name>node/267583058</name><desc>highway=motorway_junction
+noref=yes
+id=node/267583058</desc></wpt><wpt lat="52.3283805" lon="12.8268993"><name>Dreieck Werder</name><desc>highway=motorway_junction
+name=Dreieck Werder
+ref=21
+id=node/267633762</desc></wpt><wpt lat="52.3218651" lon="12.8488433"><name>Parkplatz Schwielowsee</name><desc>highway=motorway_junction
+name=Parkplatz Schwielowsee
+noref=yes
+id=node/267638096</desc></wpt><wpt lat="52.2928894" lon="12.9109099"><name>Dreieck Potsdam</name><desc>highway=motorway_junction
+name=Dreieck Potsdam
+ref=19
+id=node/267639801</desc></wpt><wpt lat="52.2913181" lon="12.9215163"><name>Dreieck Potsdam</name><desc>highway=motorway_junction
+name=Dreieck Potsdam
+ref=19
+id=node/267643149</desc></wpt><wpt lat="52.303182" lon="12.9745769"><name>Ferch</name><desc>highway=motorway_junction
+name=Ferch
+ref=18
+id=node/267718354</desc></wpt><wpt lat="52.2985576" lon="13.0353014"><name>Michendorf</name><desc>highway=motorway_junction
+name=Michendorf
+ref=17
+id=node/267730694</desc></wpt><wpt lat="52.3018353" lon="13.092854"><name>Dreieck Nuthetal</name><desc>highway=motorway_junction
+name=Dreieck Nuthetal
+ref=16
+id=node/267737051</desc></wpt><wpt lat="52.2999084" lon="13.1880991"><name>Parkplatz Siethener Elsbruch</name><desc>highway=motorway_junction
+name=Parkplatz Siethener Elsbruch
+noref=yes
+id=node/267742140</desc></wpt><wpt lat="52.3007331" lon="13.1921303"><name>Parkplatz Schieferberg</name><desc>highway=motorway_junction
+name=Parkplatz Schieferberg
+noref=yes
+id=node/267742983</desc></wpt><wpt lat="52.3086165" lon="13.2801925"><name>Ludwigsfelde-Ost</name><desc>highway=motorway_junction
+name=Ludwigsfelde-Ost
+ref=14
+id=node/267758040</desc></wpt><wpt lat="52.3077615" lon="13.3725789"><name>Parkplatz Jühnsdorfer Heide</name><desc>highway=motorway_junction
+name=Parkplatz Jühnsdorfer Heide
+noref=yes
+id=node/267767450</desc></wpt><wpt lat="52.33134" lon="13.1156364"><name>Saarmund</name><desc>highway=motorway_junction
+name=Saarmund
+ref=8
+id=node/268017113</desc></wpt><wpt lat="52.3501317" lon="13.140917"><name>Potsdam-Drewitz</name><desc>highway=motorway_junction
+name=Potsdam-Drewitz
+ref=7
+id=node/268018596</desc></wpt><wpt lat="52.3721992" lon="13.144798"><name>Potsdam-Babelsberg</name><desc>highway=motorway_junction
+name=Potsdam-Babelsberg
+id=node/268021513</desc></wpt><wpt lat="52.2805687" lon="12.913154"><name>Dreieck Potsdam</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12815
+TMC:cid_58:tabcd_1:PrevLocationCode=12814
+highway=motorway_junction
+name=Dreieck Potsdam
+ref=1
+surface=asphalt
+id=node/268124939</desc></wpt><wpt lat="52.2144057" lon="12.8981678"><name>Beelitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12813
+TMC:cid_58:tabcd_1:NextLocationCode=12814
+TMC:cid_58:tabcd_1:PrevLocationCode=33728
+highway=motorway_junction
+name=Beelitz
+ref=3
+id=node/268199987</desc></wpt><wpt lat="52.5511184" lon="13.676873"><name>Berlin-Marzahn</name><desc>highway=motorway_junction
+name=Berlin-Marzahn
+ref=3
+id=node/268831893</desc></wpt><wpt lat="52.3794747" lon="13.5623992"><name>Waldeck</name><desc>highway=motorway_junction
+name=Waldeck
+id=node/271671873</desc></wpt><wpt lat="52.5343139" lon="13.0634897"><name>Dallgow-Döberitz</name><desc>highway=motorway_junction
+name=Dallgow-Döberitz
+toll:name=Dallgow-Döberitz-Mitte
+id=node/272414848</desc></wpt><wpt lat="52.2074622" lon="13.6090415"><name>Raststätte Am Kahlberg</name><desc>highway=motorway_junction
+name=Raststätte Am Kahlberg
+noref=yes
+id=node/278392575</desc></wpt><wpt lat="52.0177344" lon="12.5833182"><name>Klein Marzehns</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12807
+TMC:cid_58:tabcd_1:NextLocationCode=33732
+TMC:cid_58:tabcd_1:PrevLocationCode=12806
+highway=motorway_junction
+name=Klein Marzehns
+ref=6
+id=node/279181341</desc></wpt><wpt lat="52.0150526" lon="12.5772423"><name>Klein Marzehns</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12807
+TMC:cid_58:tabcd_1:NextLocationCode=33732
+TMC:cid_58:tabcd_1:PrevLocationCode=12806
+highway=motorway_junction
+name=Klein Marzehns
+ref=6
+id=node/279181360</desc></wpt><wpt lat="52.0447981" lon="12.6329122"><name>Rastplatz Hagen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33731
+TMC:cid_58:tabcd_1:NextLocationCode=12810
+TMC:cid_58:tabcd_1:PrevLocationCode=33732
+highway=motorway_junction
+name=Rastplatz Hagen
+noref=yes
+id=node/279182755</desc></wpt><wpt lat="52.3808076" lon="13.3180683"><name>node/279829852</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33772
+TMC:cid_58:tabcd_1:NextLocationCode=29691
+TMC:cid_58:tabcd_1:PrevLocationCode=33775
+highway=motorway_junction
+toll:name=Großbeeren-Nord
+id=node/279829852</desc></wpt><wpt lat="53.230038" lon="13.9879337"><name>Gramzow</name><desc>highway=motorway_junction
+name=Gramzow
+ref=6
+id=node/280577787</desc></wpt><wpt lat="53.2778948" lon="12.0886783"><name>Putlitz</name><desc>highway=motorway_junction
+name=Putlitz
+ref=17
+id=node/280679741</desc></wpt><wpt lat="52.3811066" lon="13.319376"><name>node/281196665</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33772
+TMC:cid_58:tabcd_1:NextLocationCode=29691
+TMC:cid_58:tabcd_1:PrevLocationCode=33775
+highway=motorway_junction
+toll:name=Großbeeren-Nord
+id=node/281196665</desc></wpt><wpt lat="53.228676" lon="13.9860604"><name>Gramzow</name><desc>highway=motorway_junction
+name=Gramzow
+ref=6
+id=node/281677287</desc></wpt><wpt lat="52.2490353" lon="12.2568627"><name>Ziesar</name><desc>highway=motorway_junction
+name=Ziesar
+ref=76
+id=node/281725550</desc></wpt><wpt lat="52.3382281" lon="12.6954553"><name>Netzen</name><desc>highway=motorway_junction
+name=Netzen
+ref=79
+id=node/281726387</desc></wpt><wpt lat="52.3584646" lon="13.4300609"><name>B.-M.-Mahlow</name><desc>highway=motorway_junction
+name=B.-M.-Mahlow
+toll:name=Mahlow Zentrum
+id=node/281902959</desc></wpt><wpt lat="52.0995768" lon="13.1183607"><name>node/282240284</name><desc>highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/282240284</desc></wpt><wpt lat="52.3354538" lon="14.1086712"><name>Fürstenwalde-Ost</name><desc>highway=motorway_junction
+name=Fürstenwalde-Ost
+ref=5
+id=node/293218124</desc></wpt><wpt lat="53.0677008" lon="12.5297415"><name>Herzsprung</name><desc>highway=motorway_junction
+name=Herzsprung
+ref=21
+id=node/294564137</desc></wpt><wpt lat="52.5080839" lon="14.3813683"><name>node/296121385</name><desc>highway=motorway_junction
+id=node/296121385</desc></wpt><wpt lat="51.8171398" lon="13.8959368"><name>Rastplatz Lichtenauer See - Wótpócywanišćo Lichtnojski jazor</name><desc>highway=motorway_junction
+name=Rastplatz Lichtenauer See - Wótpócywanišćo Lichtnojski jazor
+name:de=Rastplatz Lichtenauer See
+name:dsb=Wótpócywanišćo Lichtnojski jazor
+noref=yes
+id=node/297085798</desc></wpt><wpt lat="51.7016568" lon="13.8991867"><name>node/297087847</name><desc>highway=motorway_junction
+noref=yes
+id=node/297087847</desc></wpt><wpt lat="52.326159" lon="13.5539474"><name>Schönefelder Kreuz</name><desc>highway=motorway_junction
+name=Schönefelder Kreuz
+ref=10
+id=node/297212986</desc></wpt><wpt lat="52.0633372" lon="13.6528774"><name>Baruth/Mark</name><desc>highway=motorway_junction
+name=Baruth/Mark
+name:hsb=Želm
+ref=5b
+id=node/299343748</desc></wpt><wpt lat="52.342645" lon="12.5185663"><name>Rastplatz Wendgräben</name><desc>highway=motorway_junction
+name=Rastplatz Wendgräben
+noref=yes
+id=node/301671813</desc></wpt><wpt lat="52.3404821" lon="12.5134391"><name>Rastplatz Temnitz</name><desc>highway=motorway_junction
+name=Rastplatz Temnitz
+noref=yes
+id=node/301671825</desc></wpt><wpt lat="52.3394299" lon="12.6421572"><name>Rastplatz Grebser Heide</name><desc>highway=motorway_junction
+name=Rastplatz Grebser Heide
+noref=yes
+id=node/302568707</desc></wpt><wpt lat="52.3386732" lon="12.6454418"><name>Rastplatz Rietzer See</name><desc>highway=motorway_junction
+name=Rastplatz Rietzer See
+noref=yes
+id=node/302568717</desc></wpt><wpt lat="51.5012273" lon="13.9564337"><name>node/303161527</name><desc>highway=motorway_junction
+id=node/303161527</desc></wpt><wpt lat="51.5000409" lon="13.955413"><name>node/303161559</name><desc>highway=motorway_junction
+id=node/303161559</desc></wpt><wpt lat="52.3408011" lon="12.7534434"><name>Lehnin</name><desc>highway=motorway_junction
+name=Lehnin
+ref=80
+id=node/303525076</desc></wpt><wpt lat="52.7075237" lon="14.1190741"><name>node/303823939</name><desc>highway=motorway_junction
+id=node/303823939</desc></wpt><wpt lat="52.7039651" lon="14.1246025"><name>node/303823994</name><desc>highway=motorway_junction
+id=node/303823994</desc></wpt><wpt lat="52.8820564" lon="13.7015967"><name>Raststätte Buckowsee-Ost</name><desc>highway=motorway_junction
+name=Raststätte Buckowsee-Ost
+noref=yes
+id=node/313171091</desc></wpt><wpt lat="52.3354292" lon="14.1130866"><name>Fürstenwalde-Ost</name><desc>highway=motorway_junction
+name=Fürstenwalde-Ost
+ref=5
+id=node/317807436</desc></wpt><wpt lat="52.5340578" lon="13.0481915"><name>Dallgow-Döberitz/Rohrbeck</name><desc>highway=motorway_junction
+name=Dallgow-Döberitz/Rohrbeck
+toll:name=Dallgow-Döberitz West
+id=node/320572117</desc></wpt><wpt lat="52.2491855" lon="12.3034006"><name>Rasthof Buckautal</name><desc>highway=motorway_junction
+name=Rasthof Buckautal
+noref=yes
+id=node/325656137</desc></wpt><wpt lat="52.1267667" lon="13.2142645"><name>node/332775432</name><desc>highway=motorway_junction
+id=node/332775432</desc></wpt><wpt lat="53.2970538" lon="11.9764694"><name>Suckow</name><desc>highway=motorway_junction
+name=Suckow
+ref=16
+id=node/339984255</desc></wpt><wpt lat="53.3576933" lon="13.974361"><name>Prenzlau-Ost</name><desc>highway=motorway_junction
+name=Prenzlau-Ost
+ref=37
+zone:traffic=DE:rural
+id=node/342446343</desc></wpt><wpt lat="53.3551425" lon="13.974182"><name>Prenzlau-Ost</name><desc>highway=motorway_junction
+name=Prenzlau-Ost
+ref=37
+zone:traffic=DE:rural
+id=node/342446433</desc></wpt><wpt lat="52.509393" lon="14.3778386"><name>node/360369528</name><desc>highway=motorway_junction
+id=node/360369528</desc></wpt><wpt lat="52.3573024" lon="13.431075"><name>B.-M.-Mahlow</name><desc>highway=motorway_junction
+name=B.-M.-Mahlow
+toll:name=Mahlow Zentrum
+id=node/361488946</desc></wpt><wpt lat="53.307403" lon="13.9919356"><name>Prenzlau-Süd</name><desc>highway=motorway_junction
+name=Prenzlau-Süd
+ref=38
+zone:traffic=DE:rural
+id=node/370127115</desc></wpt><wpt lat="52.773569" lon="13.5646577"><name>Lanke</name><desc>highway=motorway_junction
+name=Lanke
+ref=13
+id=node/378280963</desc></wpt><wpt lat="52.3071265" lon="13.0880993"><name>Dreieck Nuthetal</name><desc>highway=motorway_junction
+name=Dreieck Nuthetal
+ref=9
+id=node/390039422</desc></wpt><wpt lat="53.3057431" lon="13.9904459"><name>Prenzlau-Süd</name><desc>highway=motorway_junction
+name=Prenzlau-Süd
+ref=38
+zone:traffic=DE:rural
+id=node/393815278</desc></wpt><wpt lat="53.5193386" lon="13.7817588"><name>Rastplatz Ravensmühle</name><desc>highway=motorway_junction
+name=Rastplatz Ravensmühle
+noref=yes
+id=node/393956844</desc></wpt><wpt lat="52.5784075" lon="12.9066886"><name>Bredow/Niederhof</name><desc>highway=motorway_junction
+name=Bredow/Niederhof
+toll:name=Bredow
+id=node/403100713</desc></wpt><wpt lat="52.5792656" lon="12.9054743"><name>Bredow/Niederhof</name><desc>highway=motorway_junction
+name=Bredow/Niederhof
+toll:name=Bredow
+id=node/403103457</desc></wpt><wpt lat="53.2938823" lon="14.1168976"><name>Schmölln</name><desc>highway=motorway_junction
+name=Schmölln
+ref=4
+id=node/417330348</desc></wpt><wpt lat="53.2444086" lon="14.0125389"><name>Kreuz Uckermark</name><desc>highway=motorway_junction
+name=Kreuz Uckermark
+ref=39
+zone:traffic=DE:rural
+id=node/417332570</desc></wpt><wpt lat="53.2427842" lon="14.0133801"><name>Kreuz Uckermark</name><desc>highway=motorway_junction
+name=Kreuz Uckermark
+ref=39
+id=node/417332586</desc></wpt><wpt lat="53.293465" lon="14.1132236"><name>Schmölln</name><desc>highway=motorway_junction
+name=Schmölln
+ref=4
+id=node/417336906</desc></wpt><wpt lat="53.1267813" lon="13.8789074"><name>Pfingstberg</name><desc>highway=motorway_junction
+name=Pfingstberg
+ref=8
+id=node/417385491</desc></wpt><wpt lat="52.8843966" lon="13.7049035"><name>Raststätte Buckowsee-West</name><desc>highway=motorway_junction
+name=Raststätte Buckowsee-West
+noref=yes
+id=node/417395596</desc></wpt><wpt lat="52.3158063" lon="13.4906028"><name>Rasthof Am Fichtenplan</name><desc>highway=motorway_junction
+name=Rasthof Am Fichtenplan
+noref=yes
+id=node/442533922</desc></wpt><wpt lat="52.7083137" lon="13.5490746"><name>Parkplatz Ladeburger Heide</name><desc>highway=motorway_junction
+name=Parkplatz Ladeburger Heide
+noref=yes
+id=node/463290348</desc></wpt><wpt lat="52.2123298" lon="13.2582834"><name>node/468527369</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20378
+TMC:cid_58:tabcd_1:NextLocationCode=34267
+TMC:cid_58:tabcd_1:PrevLocationCode=34263
+exit_to=Zossen;Beelitz;Industriegebiet Trebbin
+highway=motorway_junction
+id=node/468527369</desc></wpt><wpt lat="52.1854109" lon="13.2508878"><name>node/493965704</name><desc>destination=Wiesenhagen;Industriegebiet Klein Schulzendorf
+highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/493965704</desc></wpt><wpt lat="52.1846099" lon="13.2503394"><name>node/493965719</name><desc>exit_to=Wiesenhagen;Industriegebiet Klein Schulzendorf
+highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/493965719</desc></wpt><wpt lat="53.2466513" lon="14.0112595"><name>Kreuz Uckermark</name><desc>highway=motorway_junction
+name=Kreuz Uckermark
+ref=39
+zone:traffic=DE:rural
+id=node/581947145</desc></wpt><wpt lat="52.3193508" lon="14.517776"><name>Frankfurt (Oder)-Mitte</name><desc>highway=motorway_junction
+name=Frankfurt (Oder)-Mitte
+ref=9
+id=node/630644209</desc></wpt><wpt lat="52.3204561" lon="14.4757718"><name>Frankfurt (Oder)-West</name><desc>highway=motorway_junction
+name=Frankfurt (Oder)-West
+ref=8
+id=node/656139575</desc></wpt><wpt lat="53.1282054" lon="13.8801436"><name>Pfingstberg</name><desc>highway=motorway_junction
+name=Pfingstberg
+ref=8
+id=node/663076844</desc></wpt><wpt lat="53.1844948" lon="13.9306504"><name>Warnitz</name><desc>highway=motorway_junction
+name=Warnitz
+ref=7
+id=node/677325015</desc></wpt><wpt lat="53.1836779" lon="13.9302101"><name>Warnitz</name><desc>highway=motorway_junction
+name=Warnitz
+ref=7
+id=node/677325056</desc></wpt><wpt lat="52.3390647" lon="12.7020468"><name>Netzen</name><desc>highway=motorway_junction
+name=Netzen
+ref=79
+id=node/685239209</desc></wpt><wpt lat="53.2843315" lon="12.0749748"><name>node/691119726</name><desc>highway=motorway_junction
+noref=yes
+id=node/691119726</desc></wpt><wpt lat="53.2632034" lon="12.1458726"><name>node/691119780</name><desc>highway=motorway_junction
+noref=yes
+id=node/691119780</desc></wpt><wpt lat="53.264458" lon="12.1413812"><name>node/691120190</name><desc>highway=motorway_junction
+noref=yes
+id=node/691120190</desc></wpt><wpt lat="53.1963264" lon="12.2763675"><name>Parkplatz Blesenberg</name><desc>highway=motorway_junction
+name=Parkplatz Blesenberg
+noref=yes
+id=node/691124331</desc></wpt><wpt lat="52.3737873" lon="13.5477249"><name>node/741519081</name><desc>highway=motorway_junction
+id=node/741519081</desc></wpt><wpt lat="52.3716343" lon="13.5421337"><name>node/754121736</name><desc>highway=motorway_junction
+id=node/754121736</desc></wpt><wpt lat="52.9380323" lon="13.7924365"><name>Chorin</name><desc>highway=motorway_junction
+name=Chorin
+ref=10
+id=node/766150478</desc></wpt><wpt lat="52.3684098" lon="13.5287743"><name>node/766981378</name><desc>highway=motorway_junction
+id=node/766981378</desc></wpt><wpt lat="52.3674801" lon="13.5279022"><name>node/822491203</name><desc>highway=motorway_junction
+id=node/822491203</desc></wpt><wpt lat="52.3682758" lon="13.5298341"><name>node/822491238</name><desc>highway=motorway_junction
+id=node/822491238</desc></wpt><wpt lat="51.7539876" lon="14.1288626"><name>Rastplatz Dubje</name><desc>highway=motorway_junction
+name=Rastplatz Dubje
+name:dsb=Wótpócywanišćo Dubje
+noref=yes
+id=node/824796370</desc></wpt><wpt lat="52.6178819" lon="13.5605552"><name>node/866613611</name><desc>highway=motorway_junction
+id=node/866613611</desc></wpt><wpt lat="52.6144673" lon="13.5563469"><name>node/866614316</name><desc>highway=motorway_junction
+id=node/866614316</desc></wpt><wpt lat="52.6126007" lon="13.5551853"><name>Dreieck Barnim</name><desc>highway=motorway_junction
+name=Dreieck Barnim
+old_name=Dreieck Schwanebeck
+id=node/866614756</desc></wpt><wpt lat="51.9962715" lon="13.7243192"><name>Parkplatz Bugkgraben</name><desc>highway=motorway_junction
+name=Parkplatz Bugkgraben
+noref=yes
+id=node/876230193</desc></wpt><wpt lat="52.3712718" lon="13.5327411"><name>node/966891646</name><desc>highway=motorway_junction
+id=node/966891646</desc></wpt><wpt lat="52.3346447" lon="14.0767739"><name>Fürstenwalde-West</name><desc>highway=motorway_junction
+name=Fürstenwalde-West
+ref=4
+id=node/1054378105</desc></wpt><wpt lat="53.2234276" lon="11.611999"><name>Groß Warnow</name><desc>highway=motorway_junction
+name=Groß Warnow
+ref=10
+id=node/1088135034</desc></wpt><wpt lat="53.2860002" lon="12.0707448"><name>node/1141072771</name><desc>highway=motorway_junction
+noref=yes
+id=node/1141072771</desc></wpt><wpt lat="52.3909473" lon="13.5253734"><name>Schönefeld-Süd</name><desc>highway=motorway_junction
+name=Schönefeld-Süd
+ref=7
+id=node/1236032061</desc></wpt><wpt lat="52.6135888" lon="13.5627536"><name>Dreieck Barnim</name><desc>highway=motorway_junction
+name=Dreieck Barnim
+ref=1
+id=node/1313885412</desc></wpt><wpt lat="52.6234733" lon="13.5633519"><name>Dreieck Barnim</name><desc>highway=motorway_junction
+name=Dreieck Barnim
+old_name=Dreieck Schwanebeck
+ref=17
+id=node/1313885463</desc></wpt><wpt lat="52.6144349" lon="13.5534298"><name>Dreieck Barnim</name><desc>highway=motorway_junction
+name=Dreieck Barnim
+ref=1
+id=node/1313885544</desc></wpt><wpt lat="51.5247215" lon="13.9651198"><name>node/1363837824</name><desc>highway=motorway_junction
+id=node/1363837824</desc></wpt><wpt lat="52.7246854" lon="13.5412108"><name>Wandlitz</name><desc>highway=motorway_junction
+name=Wandlitz
+ref=14
+id=node/1364709011</desc></wpt><wpt lat="52.730578" lon="13.5400964"><name>Wandlitz</name><desc>highway=motorway_junction
+name=Wandlitz
+ref=14
+id=node/1364709027</desc></wpt><wpt lat="52.5300279" lon="14.3549249"><name>node/1371891355</name><desc>highway=motorway_junction
+id=node/1371891355</desc></wpt><wpt lat="52.6542827" lon="13.2441273"><name>Stolpe</name><desc>highway=motorway_junction
+name=Stolpe
+ref=2b
+id=node/1380684581</desc></wpt><wpt lat="52.2331522" lon="13.2301092"><name>node/1388818547</name><desc>destination=Trebbin
+highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/1388818547</desc></wpt><wpt lat="51.7245961" lon="14.2989294"><name>Cottbus-West</name><desc>highway=motorway_junction
+name=Cottbus-West
+name:de=Cottbus-West
+name:dsb=Chóśebuz-pódwjacor
+ref=4
+id=node/1451009984</desc></wpt><wpt lat="51.8287836" lon="13.9930606"><name>node/1490661789</name><desc>highway=motorway_junction
+noref=yes
+id=node/1490661789</desc></wpt><wpt lat="52.7042253" lon="13.2019766"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+id=node/1521399344</desc></wpt><wpt lat="52.790024" lon="13.2330063"><name>Oranienburg-Nord</name><desc>highway=motorway_junction
+name=Oranienburg-Nord
+toll:name=Oranienburg-Nord
+id=node/1521414678</desc></wpt><wpt lat="52.1256964" lon="13.2129945"><name>node/1524672033</name><desc>highway=motorway_junction
+id=node/1524672033</desc></wpt><wpt lat="51.7115462" lon="14.4598451"><name>Roggosen</name><desc>highway=motorway_junction
+name=Roggosen
+name:hsb=Rogozno
+ref=6
+id=node/1557744322</desc></wpt><wpt lat="51.8328236" lon="13.9774432"><name>Boblitz</name><desc>highway=motorway_junction
+name=Boblitz
+name:de=Boblitz
+name:dsb=Bobolce
+ref=2
+id=node/1561042774</desc></wpt><wpt lat="51.7874595" lon="14.0625314"><name>Vetschau</name><desc>highway=motorway_junction
+name=Vetschau
+name:de=Vetschau
+name:dsb=Wětošow
+ref=3
+id=node/1561067538</desc></wpt><wpt lat="51.7248056" lon="14.2958987"><name>Cottbus-West</name><desc>highway=motorway_junction
+name=Cottbus-West
+name:de=Cottbus-West
+name:dsb=Chóśebuz-pódwjacor
+ref=4
+id=node/1561083344</desc></wpt><wpt lat="51.7168632" lon="14.3440906"><name>Cottbus-Süd</name><desc>highway=motorway_junction
+name=Cottbus-Süd
+name:de=Cottbus-Süd
+name:dsb=Chóśebuz-pódpołdnjo
+ref=5
+id=node/1561949657</desc></wpt><wpt lat="51.7124486" lon="14.6068904"><name>Forst</name><desc>highway=motorway_junction
+name=Forst
+name:de=Forst
+name:dsb=Baršć
+name:hsb=Baršć
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=7
+id=node/1562072549</desc></wpt><wpt lat="51.7121711" lon="14.4628917"><name>Roggosen</name><desc>highway=motorway_junction
+name=Roggosen
+name:hsb=Rogozno
+ref=6
+id=node/1564391498</desc></wpt><wpt lat="51.7169657" lon="14.3462455"><name>Cottbus-Süd</name><desc>highway=motorway_junction
+name=Cottbus-Süd
+name:de=Cottbus-Süd
+name:dsb=Chóśebuz-pódpołdnjo
+ref=5
+id=node/1564475706</desc></wpt><wpt lat="52.3707761" lon="13.195849"><name>node/1567724883</name><desc>highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/1567724883</desc></wpt><wpt lat="52.3709267" lon="13.1995691"><name>node/1567724926</name><desc>destination=Berlin-Zehlendorf;Stahnsdorf;Güterfelde
+highway=motorway_junction
+id=node/1567724926</desc></wpt><wpt lat="51.755964" lon="14.123543"><name>Rastplatz Eichower Fließ</name><desc>highway=motorway_junction
+name=Rastplatz Eichower Fließ
+name:dsb=Wótpócywanišćo Dubjańska tšuga
+noref=yes
+id=node/1583560838</desc></wpt><wpt lat="52.6499705" lon="13.418427"><name>Dreieck Pankow</name><desc>highway=motorway_junction
+name=Dreieck Pankow
+ref=35
+id=node/1594541219</desc></wpt><wpt lat="51.6439172" lon="14.2369791"><name>node/1598397360</name><desc>highway=motorway_junction
+id=node/1598397360</desc></wpt><wpt lat="51.5889235" lon="13.94214"><name>Großräschen</name><desc>highway=motorway_junction
+name=Großräschen
+name:hsb=Rań
+ref=14
+id=node/1607014736</desc></wpt><wpt lat="51.5904056" lon="13.9443023"><name>Großräschen</name><desc>highway=motorway_junction
+name=Großräschen
+name:hsb=Rań
+ref=14
+id=node/1607014737</desc></wpt><wpt lat="51.5719937" lon="13.9307055"><name>Raststätte Freienhufener Eck</name><desc>highway=motorway_junction
+name=Raststätte Freienhufener Eck
+noref=yes
+id=node/1607040104</desc></wpt><wpt lat="51.5336366" lon="13.9078507"><name>Klettwitz</name><desc>highway=motorway_junction
+name=Klettwitz
+name:hsb=Klěśišća
+ref=15
+id=node/1607087425</desc></wpt><wpt lat="51.5355999" lon="13.9084667"><name>Klettwitz</name><desc>highway=motorway_junction
+name=Klettwitz
+name:hsb=Klěśišća
+ref=15
+id=node/1607087475</desc></wpt><wpt lat="51.531289" lon="14.0227704"><name>node/1608081846</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=25518
+TMC:cid_58:tabcd_1:NextLocationCode=33696
+TMC:cid_58:tabcd_1:PrevLocationCode=25517
+highway=motorway_junction
+id=node/1608081846</desc></wpt><wpt lat="51.5308563" lon="14.015884"><name>node/1608098183</name><desc>highway=motorway_junction
+id=node/1608098183</desc></wpt><wpt lat="51.5259832" lon="13.966008"><name>node/1608106386</name><desc>highway=motorway_junction
+id=node/1608106386</desc></wpt><wpt lat="52.67575" lon="13.3954316"><name>node/1610205068</name><desc>highway=motorway_junction
+noref=yes
+id=node/1610205068</desc></wpt><wpt lat="51.4683678" lon="13.8630618"><name>Ruhland</name><desc>highway=motorway_junction
+name=Ruhland
+name:hsb=Rólany
+ref=17
+id=node/1611207716</desc></wpt><wpt lat="51.4699846" lon="13.8645987"><name>Ruhland</name><desc>highway=motorway_junction
+name=Ruhland
+name:hsb=Rólany
+ref=17
+id=node/1611207809</desc></wpt><wpt lat="51.4927093" lon="13.8947502"><name>Schwarzheide</name><desc>highway=motorway_junction
+name=Schwarzheide
+name:dsb=Carny Gózd
+name:hsb=Čorny Gózd
+ref=16
+id=node/1624647743</desc></wpt><wpt lat="52.4007295" lon="13.1856848"><name>Kleinmachnow</name><desc>highway=motorway_junction
+layer=2
+name=Kleinmachnow
+ref=5
+id=node/1624946268</desc></wpt><wpt lat="51.4566574" lon="13.8503501"><name>Rastplatz Ruhlander Heide</name><desc>highway=motorway_junction
+name=Rastplatz Ruhlander Heide
+noref=yes
+id=node/1626309344</desc></wpt><wpt lat="51.8409843" lon="13.9213789"><name>Dreieck Spreewald</name><desc>highway=motorway_junction
+name=Dreieck Spreewald
+name:hsb=Błośański tśirožk
+ref=10
+id=node/1629935966</desc></wpt><wpt lat="51.8449946" lon="13.9227627"><name>Dreieck Spreewald</name><desc>highway=motorway_junction
+name=Dreieck Spreewald
+name:hsb=Błośański tśirožk
+ref=1
+id=node/1629935995</desc></wpt><wpt lat="51.8291172" lon="13.9099386"><name>Kittlitz</name><desc>highway=motorway_junction
+name=Kittlitz
+name:de=Kittlitz
+name:dsb=Dłopje
+ref=11
+id=node/1629936054</desc></wpt><wpt lat="51.8327614" lon="13.9132981"><name>Kittlitz</name><desc>highway=motorway_junction
+name=Kittlitz
+name:de=Kittlitz
+name:hsb=Dłopje
+ref=11
+id=node/1629936069</desc></wpt><wpt lat="51.8506631" lon="13.9112391"><name>Lübbenau</name><desc>highway=motorway_junction
+name=Lübbenau
+name:de=Lübbenau
+name:dsb=Lubnjow
+ref=9
+id=node/1629936087</desc></wpt><wpt lat="51.6629908" lon="13.9136462"><name>Bronkow</name><desc>highway=motorway_junction
+name=Bronkow
+ref=13
+id=node/1630975295</desc></wpt><wpt lat="51.831972" lon="13.9812145"><name>Boblitz</name><desc>highway=motorway_junction
+name=Boblitz
+name:de=Boblitz
+name:dsb=Bobolce
+ref=2
+id=node/1630985202</desc></wpt><wpt lat="51.7855538" lon="13.8770097"><name>Calau</name><desc>highway=motorway_junction
+name=Calau
+name:de=Calau
+name:dsb=Kalawa
+ref=12
+id=node/1630985223</desc></wpt><wpt lat="51.7870522" lon="13.8778348"><name>Calau</name><desc>highway=motorway_junction
+name=Calau
+name:de=Calau
+name:dsb=Kalawa
+ref=12
+id=node/1630985233</desc></wpt><wpt lat="51.7859897" lon="14.0642509"><name>Vetschau</name><desc>highway=motorway_junction
+name=Vetschau
+name:de=Vetschau
+name:dsb=Wětošow
+ref=3
+id=node/1630985306</desc></wpt><wpt lat="51.3838302" lon="13.7483895"><name>Ortrand</name><desc>highway=motorway_junction
+name=Ortrand
+name:hsb=Wótrań
+ref=18
+id=node/1630989524</desc></wpt><wpt lat="51.3854613" lon="13.7494742"><name>Ortrand</name><desc>highway=motorway_junction
+name=Ortrand
+name:hsb=Wótrań
+ref=18
+id=node/1630989528</desc></wpt><wpt lat="51.4881773" lon="13.8865234"><name>Schwarzheide</name><desc>highway=motorway_junction
+name=Schwarzheide
+name:dsb=Carny Gózd
+name:hsb=Čorny Gózd
+ref=16
+id=node/1630989543</desc></wpt><wpt lat="51.6635504" lon="13.9120241"><name>Bronkow</name><desc>highway=motorway_junction
+name=Bronkow
+ref=13
+id=node/1631047927</desc></wpt><wpt lat="52.3182568" lon="13.5545793"><name>Schönefelder Kreuz</name><desc>highway=motorway_junction
+name=Schönefelder Kreuz
+ref=10
+id=node/1643085345</desc></wpt><wpt lat="52.3086025" lon="13.4543599"><name>Rangsdorf</name><desc>highway=motorway_junction
+name=Rangsdorf
+ref=12
+id=node/1643085529</desc></wpt><wpt lat="52.312477" lon="13.5553079"><name>Schönefelder Kreuz</name><desc>highway=motorway_junction
+name=Schönefelder Kreuz
+ref=1
+id=node/1643090674</desc></wpt><wpt lat="52.3160232" lon="13.905644"><name>Storkow</name><desc>highway=motorway_junction
+name=Storkow
+ref=3
+id=node/1645279797</desc></wpt><wpt lat="52.3161532" lon="13.9035376"><name>Storkow</name><desc>highway=motorway_junction
+name=Storkow
+ref=3
+id=node/1645279799</desc></wpt><wpt lat="52.2444762" lon="13.5900042"><name>Bestensee</name><desc>highway=motorway_junction
+name=Bestensee
+ref=3b
+id=node/1649736857</desc></wpt><wpt lat="52.2482855" lon="13.5878819"><name>Bestensee</name><desc>highway=motorway_junction
+name=Bestensee
+ref=3b
+id=node/1649736858</desc></wpt><wpt lat="52.2597027" lon="13.2550762"><name>node/1651415849</name><desc>exit_to=Thyrow
+highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/1651415849</desc></wpt><wpt lat="52.7101024" lon="13.0293158"><name>Dreieck Havelland</name><desc>highway=motorway_junction
+name=Dreieck Havelland
+ref=29
+id=node/1654644694</desc></wpt><wpt lat="52.6783279" lon="13.3888782"><name>node/1655292243</name><desc>highway=motorway_junction
+noref=yes
+id=node/1655292243</desc></wpt><wpt lat="52.6812251" lon="13.3691785"><name>Mühlenbeck</name><desc>highway=motorway_junction
+name=Mühlenbeck
+ref=34
+id=node/1655303233</desc></wpt><wpt lat="52.3034946" lon="12.9752851"><name>Ferch</name><desc>ele=49.16
+highway=motorway_junction
+name=Ferch
+ref=18
+id=node/1655838251</desc></wpt><wpt lat="52.7050952" lon="13.1964844"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+ref=31
+id=node/1657848780</desc></wpt><wpt lat="52.3012192" lon="13.0210553"><name>Michendorf</name><desc>highway=motorway_junction
+name=Michendorf
+ref=17
+id=node/1657851646</desc></wpt><wpt lat="52.7030419" lon="13.2109904"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+ref=31
+id=node/1657863214</desc></wpt><wpt lat="52.7039121" lon="13.2065899"><name>Kreuz Oranienburg</name><desc>highway=motorway_junction
+name=Kreuz Oranienburg
+id=node/1657863436</desc></wpt><wpt lat="52.6999968" lon="13.2699176"><name>Birkenwerder</name><desc>highway=motorway_junction
+name=Birkenwerder
+ref=33
+id=node/1659735515</desc></wpt><wpt lat="52.3738256" lon="13.1706373"><name>node/1727354221</name><desc>highway=motorway_junction
+id=node/1727354221</desc></wpt><wpt lat="53.0904337" lon="13.8500208"><name>Parkplatz Wilmersdorfer Forst</name><desc>highway=motorway_junction
+name=Parkplatz Wilmersdorfer Forst
+noref=yes
+id=node/1757595123</desc></wpt><wpt lat="52.7049207" lon="13.0113939"><name>Dreieck Havelland</name><desc>highway=motorway_junction
+name=Dreieck Havelland
+ref=29
+id=node/1779370518</desc></wpt><wpt lat="52.7141993" lon="13.0035016"><name>Dreieck Havelland</name><desc>highway=motorway_junction
+name=Dreieck Havelland
+ref=26
+wikidata=Q785538
+wikipedia=de:Autobahndreieck Havelland
+id=node/1779370637</desc></wpt><wpt lat="52.7172758" lon="12.9782768"><name>Kremmen</name><desc>highway=motorway_junction
+name=Kremmen
+ref=25
+id=node/1779504014</desc></wpt><wpt lat="52.3940673" lon="13.5220225"><name>Schönefeld-Nord</name><desc>highway=motorway_junction
+name=Schönefeld-Nord
+ref=6
+id=node/1803700352</desc></wpt><wpt lat="52.3960921" lon="13.5195654"><name>Schönefeld-Süd</name><desc>highway=motorway_junction
+name=Schönefeld-Süd
+ref=7
+id=node/1803700353</desc></wpt><wpt lat="53.2122217" lon="13.9597009"><name>Parkplatz Rathsburgseen Nord</name><desc>highway=motorway_junction
+name=Parkplatz Rathsburgseen Nord
+noref=yes
+id=node/1842856284</desc></wpt><wpt lat="51.460859" lon="13.8546894"><name>Rastplatz Elsteraue</name><desc>highway=motorway_junction
+name=Rastplatz Elsteraue
+noref=yes
+id=node/1874153938</desc></wpt><wpt lat="52.0979882" lon="13.1185043"><name>node/1892964644</name><desc>highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/1892964644</desc></wpt><wpt lat="52.3754983" lon="13.1637382"><name>node/1920752830</name><desc>highway=motorway_junction
+id=node/1920752830</desc></wpt><wpt lat="52.3198321" lon="13.554676"><name>Schönefelder Kreuz</name><desc>highway=motorway_junction
+name=Schönefelder Kreuz
+ref=1
+id=node/1939445282</desc></wpt><wpt lat="52.3750283" lon="13.1498321"><name>Potsdam-Babelsberg</name><desc>highway=motorway_junction
+name=Potsdam-Babelsberg
+ref=6
+id=node/1940719410</desc></wpt><wpt lat="52.3685181" lon="13.1494169"><name>Potsdam-Babelsberg</name><desc>highway=motorway_junction
+name=Potsdam-Babelsberg
+ref=6
+id=node/1940728489</desc></wpt><wpt lat="52.4020169" lon="13.1868249"><name>Kleinmachnow</name><desc>highway=motorway_junction
+name=Kleinmachnow
+ref=5
+id=node/1940748551</desc></wpt><wpt lat="51.6666102" lon="14.7332542"><name>Bademeusel - Bóžemysle</name><desc>highway=motorway_junction
+name=Bademeusel - Bóžemysle
+ref=8
+id=node/1946341596</desc></wpt><wpt lat="51.6665074" lon="14.7362657"><name>Bademeusel</name><desc>highway=motorway_junction
+name=Bademeusel
+name:de=Bademeusel
+name:dsb=Bóžemysle
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=8
+id=node/1946341643</desc></wpt><wpt lat="52.3762184" lon="13.5448232"><name>Flughafen Berlin Brandenburg</name><desc>destination=Flughafen Berlin-Brandenburg
+highway=motorway_junction
+name=Flughafen Berlin Brandenburg
+ref=8
+id=node/1959933943</desc></wpt><wpt lat="52.7046632" lon="13.0701767"><name>Parkplatz Ziethener Luch</name><desc>highway=motorway_junction
+name=Parkplatz Ziethener Luch
+id=node/2002737970</desc></wpt><wpt lat="52.7048256" lon="13.0629638"><name>Parkplatz Krämer Forst</name><desc>highway=motorway_junction
+name=Parkplatz Krämer Forst
+id=node/2002737980</desc></wpt><wpt lat="51.909426" lon="13.797895"><name>Raststätte Berstetal</name><desc>highway=motorway_junction
+name=Raststätte Berstetal
+noref=yes
+id=node/2008410255</desc></wpt><wpt lat="52.2595685" lon="13.2491085"><name>node/2016795543</name><desc>exit_to=Thyrow
+highway=motorway_junction
+note=AS hat keinen ausgeschilderten Namen
+id=node/2016795543</desc></wpt><wpt lat="52.6119546" lon="13.5746887"><name>Dreieck Barnim</name><desc>highway=motorway_junction
+name=Dreieck Barnim
+old_name=Dreieck Schwanebeck
+ref=1
+id=node/2026362778</desc></wpt><wpt lat="52.6153646" lon="13.5392462"><name>Dreieck Barnim</name><desc>highway=motorway_junction
+name=Dreieck Barnim
+old_name=Dreieck Schwanebeck
+ref=1
+id=node/2026362779</desc></wpt><wpt lat="52.3941687" lon="13.0834511"><name>Babelsberg</name><desc>highway=motorway_junction
+name=Babelsberg
+id=node/2045860904</desc></wpt><wpt lat="52.7181807" lon="13.2178016"><name>Oranienburg-Süd</name><desc>highway=motorway_junction
+name=Oranienburg-Süd
+toll:name=Oranienburg Süd
+id=node/2054407907</desc></wpt><wpt lat="52.7198499" lon="13.2178576"><name>Oranienburg-Süd</name><desc>highway=motorway_junction
+name=Oranienburg-Süd
+toll:name=Oranienburg Süd
+id=node/2054407921</desc></wpt><wpt lat="51.8898491" lon="13.8346449"><name>Raststätte Rüblingsheide</name><desc>highway=motorway_junction
+name=Raststätte Rüblingsheide
+noref=yes
+id=node/2080190574</desc></wpt><wpt lat="53.3923784" lon="13.992641"><name>Parkplatz Klockow-Ost</name><desc>highway=motorway_junction
+name=Parkplatz Klockow-Ost
+noref=yes
+id=node/2163898418</desc></wpt><wpt lat="53.3963489" lon="13.9937534"><name>Parkplatz Klockow-West</name><desc>highway=motorway_junction
+name=Parkplatz Klockow-West
+noref=yes
+id=node/2163898493</desc></wpt><wpt lat="53.0933481" lon="13.8508518"><name>Parkplatz Suckower Forst</name><desc>highway=motorway_junction
+name=Parkplatz Suckower Forst
+noref=yes
+id=node/2166569201</desc></wpt><wpt lat="52.9935395" lon="12.6079441"><name>node/2210094585</name><desc>highway=motorway_junction
+noref=yes
+id=node/2210094585</desc></wpt><wpt lat="52.3104296" lon="13.4482812"><name>Rangsdorf</name><desc>highway=motorway_junction
+name=Rangsdorf
+ref=12
+id=node/2235206894</desc></wpt><wpt lat="52.0340491" lon="12.6177072"><name>Rastplatz Rabenstein</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=33732
+TMC:cid_58:tabcd_1:NextLocationCode=33731
+TMC:cid_58:tabcd_1:PrevLocationCode=12807
+highway=motorway_junction
+name=Rastplatz Rabenstein
+noref=yes
+id=node/2385571823</desc></wpt><wpt lat="52.9462129" lon="12.6672089"><name>Rastplatz Walsleben</name><desc>highway=motorway_junction
+name=Rastplatz Walsleben
+noref=yes
+id=node/2468530035</desc></wpt><wpt lat="52.9544632" lon="12.6561503"><name>Rastplatz Walsleben</name><desc>highway=motorway_junction
+name=Rastplatz Walsleben
+noref=yes
+id=node/2469785767</desc></wpt><wpt lat="52.6021012" lon="13.6049038"><name>Berlin-Hohenschönhausen</name><desc>highway=motorway_junction
+name=Berlin-Hohenschönhausen
+ref=2
+id=node/2506722833</desc></wpt><wpt lat="52.338231" lon="12.8002689"><name>Dreieck Werder</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=10548
+TMC:cid_58:tabcd_1:PrevLocationCode=10547
+TMC:cid_58:tabcd_1:TypeName=motorway triangle
+TMC:cid_58:tabcd_1:TypeName:loc=Autobahndreieck
+highway=motorway_junction
+name=Dreieck Werder
+ref=81
+id=node/2528455945</desc></wpt><wpt lat="52.3066401" lon="13.309706"><name>Genshagen</name><desc>highway=motorway_junction
+name=Genshagen
+ref=13
+id=node/2552084809</desc></wpt><wpt lat="52.2997208" lon="13.0269716"><name>Rasthof Michendorf</name><desc>highway=motorway_junction
+name=Rasthof Michendorf
+noref=yes
+id=node/2649699470</desc></wpt><wpt lat="52.3090988" lon="12.8786837"><name>Glindow</name><desc>highway=motorway_junction
+name=Glindow
+ref=20
+id=node/2682164574</desc></wpt><wpt lat="52.3095121" lon="12.8774218"><name>Glindow</name><desc>highway=motorway_junction
+name=Glindow
+ref=20
+id=node/2682164579</desc></wpt><wpt lat="52.3172141" lon="12.8622387"><name>Parkplatz Caputh</name><desc>highway=motorway_junction
+name=Parkplatz Caputh
+noref=yes
+id=node/2685717557</desc></wpt><wpt lat="51.7120408" lon="14.6095941"><name>Forst</name><desc>highway=motorway_junction
+name=Forst
+name:de=Forst
+name:dsb=Baršć
+name:hsb=Baršć
+note=In den name= Tag gehört nur der offizielle Name - der sorbische Name somit nicht
+ref=7
+id=node/2702467889</desc></wpt><wpt lat="53.1354215" lon="12.449839"><name>Dreieck Wittstock/Dosse</name><desc>highway=motorway_junction
+name=Dreieck Wittstock/Dosse
+ref=20
+id=node/2711302100</desc></wpt><wpt lat="53.1232044" lon="12.4624524"><name>Dreieck Wittstock/Dosse</name><desc>highway=motorway_junction
+name=Dreieck Wittstock/Dosse
+ref=20
+id=node/2711347152</desc></wpt><wpt lat="53.1165711" lon="12.4666141"><name>Raststätte Prignitz</name><desc>highway=motorway_junction
+name=Raststätte Prignitz
+noref=yes
+id=node/2711357098</desc></wpt><wpt lat="52.8465037" lon="12.7809421"><name>Neuruppin-Süd</name><desc>highway=motorway_junction
+name=Neuruppin-Süd
+ref=23
+id=node/2721299977</desc></wpt><wpt lat="52.7177057" lon="12.9752892"><name>Kremmen</name><desc>highway=motorway_junction
+name=Kremmen
+ref=25
+id=node/2721340034</desc></wpt><wpt lat="52.8039227" lon="12.7944607"><name>Fehrbellin</name><desc>highway=motorway_junction
+name=Fehrbellin
+ref=24
+id=node/2721340091</desc></wpt><wpt lat="52.8067652" lon="12.7941436"><name>Fehrbellin</name><desc>highway=motorway_junction
+name=Fehrbellin
+ref=24
+id=node/2721340148</desc></wpt><wpt lat="53.0435279" lon="12.5514408"><name>node/2895957864</name><desc>highway=motorway_junction
+noref=yes
+id=node/2895957864</desc></wpt><wpt lat="53.0439021" lon="12.5505781"><name>node/2895957868</name><desc>highway=motorway_junction
+noref=yes
+id=node/2895957868</desc></wpt><wpt lat="53.1974209" lon="12.2746527"><name>Parkplatz Kiebitzberg</name><desc>highway=motorway_junction
+name=Parkplatz Kiebitzberg
+noref=yes
+id=node/2898305766</desc></wpt><wpt lat="52.7067828" lon="13.1007233"><name>Oberkrämer</name><desc>highway=motorway_junction
+name=Oberkrämer
+ref=30
+id=node/2911358801</desc></wpt><wpt lat="52.5338097" lon="12.9663731"><name>node/3035492084</name><desc>highway=motorway_junction
+noref=yes
+id=node/3035492084</desc></wpt><wpt lat="53.1574133" lon="11.7300531"><name>Karstädt</name><desc>highway=motorway_junction
+name=Karstädt
+ref=11
+id=node/3152539258</desc></wpt><wpt lat="53.1549725" lon="11.7319636"><name>Karstädt</name><desc>highway=motorway_junction
+name=Karstädt
+ref=11
+id=node/3152542448</desc></wpt><wpt lat="52.2538478" lon="12.3141893"><name>Rasthof Buckautal</name><desc>highway=motorway_junction
+name=Rasthof Buckautal
+noref=yes
+id=node/3257855969</desc></wpt><wpt lat="52.3499941" lon="12.6039272"><name>Brandenburg</name><desc>highway=motorway_junction
+name=Brandenburg
+ref=78
+id=node/3257910161</desc></wpt><wpt lat="52.3196711" lon="13.7810689"><name>Friedersdorf</name><desc>highway=motorway_junction
+name=Friedersdorf
+ref=2
+id=node/3290324783</desc></wpt><wpt lat="52.3195325" lon="13.7811451"><name>Friedersdorf</name><desc>highway=motorway_junction
+name=Friedersdorf
+ref=2
+id=node/3290324784</desc></wpt><wpt lat="52.5400685" lon="12.9731732"><name>26</name><desc>highway=motorway_junction
+ref=26
+toll:name=Berlin-Spandau (a)
+id=node/3400759450</desc></wpt><wpt lat="53.1534521" lon="12.4488936"><name>Wittstock</name><desc>highway=motorway_junction
+name=Wittstock
+ref=20
+id=node/3426510332</desc></wpt><wpt lat="53.1387274" lon="12.4561061"><name>Dreieck Wittstock/Dosse</name><desc>highway=motorway_junction
+name=Dreieck Wittstock/Dosse
+ref=21
+id=node/3426510344</desc></wpt><wpt lat="53.1139071" lon="12.4693537"><name>Raststätte Prignitz</name><desc>highway=motorway_junction
+name=Raststätte Prignitz
+noref=yes
+id=node/3426550061</desc></wpt><wpt lat="53.0750949" lon="12.5262213"><name>Herzsprung</name><desc>highway=motorway_junction
+name=Herzsprung
+ref=21
+id=node/3426565652</desc></wpt><wpt lat="53.0078317" lon="12.5905866"><name>Parkplatz Rossower Heide</name><desc>highway=motorway_junction
+name=Parkplatz Rossower Heide
+noref=yes
+id=node/3426594597</desc></wpt><wpt lat="52.7658207" lon="12.8221105"><name>node/3428239467</name><desc>highway=motorway_junction
+noref=yes
+id=node/3428239467</desc></wpt><wpt lat="52.7546832" lon="12.85044"><name>Linumer Bruch</name><desc>highway=motorway_junction
+name=Linumer Bruch
+noref=yes
+id=node/3428246693</desc></wpt><wpt lat="52.753281" lon="12.8573799"><name>Linumer Bruch</name><desc>highway=motorway_junction
+name=Linumer Bruch
+noref=yes
+id=node/3428246696</desc></wpt><wpt lat="52.2856363" lon="13.2797042"><name>Ludwigsfelde</name><desc>highway=motorway_junction
+name=Ludwigsfelde
+id=node/3640784428</desc></wpt><wpt lat="52.2893084" lon="13.2811381"><name>Ludwigsfelde</name><desc>highway=motorway_junction
+name=Ludwigsfelde
+id=node/3640856682</desc></wpt><wpt lat="52.3697777" lon="13.4224389"><name>Teltow</name><desc>highway=motorway_junction
+name=Teltow
+toll:name=Mahlow Nord
+id=node/3869622341</desc></wpt><wpt lat="53.2233058" lon="11.6151707"><name>Groß Warnow</name><desc>destination=Groß Warnow;Grabow-Süd
+highway=motorway_junction
+name=Groß Warnow
+ref=10
+id=node/3916174304</desc></wpt><wpt lat="52.3701309" lon="13.5355601"><name>node/4549414387</name><desc>highway=motorway_junction
+id=node/4549414387</desc></wpt><wpt lat="52.3700689" lon="13.5352659"><name>node/4549415292</name><desc>highway=motorway_junction
+id=node/4549415292</desc></wpt><wpt lat="52.3033605" lon="13.0098798"><name>Raststätte Michendorf</name><desc>highway=motorway_junction
+name=Raststätte Michendorf
+noref=yes
+id=node/4965266084</desc></wpt><wpt lat="52.9082928" lon="12.7342871"><name>Neuruppin</name><desc>highway=motorway_junction
+name=Neuruppin
+ref=22
+id=node/7353238045</desc></wpt><wpt lat="52.6811588" lon="13.3733883"><name>Mühlenbeck</name><desc>highway=motorway_junction
+name=Mühlenbeck
+ref=34
+id=node/7934455668</desc></wpt><wpt lat="52.6188546" lon="13.5084646"><name>Kappgraben-Süd</name><desc>highway=motorway_junction
+name=Kappgraben-Süd
+id=node/8503980195</desc></wpt><wpt lat="52.9036544" lon="12.7413287"><name>Neuruppin</name><desc>highway=motorway_junction
+name=Neuruppin
+ref=22
+id=node/8505191727</desc></wpt><wpt lat="51.730314" lon="14.430011"><name>node/8866679439</name><desc>highway=motorway_junction
+id=node/8866679439</desc></wpt><wpt lat="51.7296969" lon="14.4402773"><name>node/8866679459</name><desc>highway=motorway_junction
+id=node/8866679459</desc></wpt><wpt lat="52.4041596" lon="13.7864012"><name>Freienbrink-Nord</name><desc>highway=motorway_junction
+name=Freienbrink-Nord
+ref=6b
+id=node/9196296292</desc></wpt><wpt lat="52.6180222" lon="13.5133258"><name>Kappgraben-Nord</name><desc>highway=motorway_junction
+name=Kappgraben-Nord
+id=node/9743105271</desc></wpt><wpt lat="52.3784961" lon="13.5425348"><name>Flughafen Berlin Brandenburg</name><desc>highway=motorway_junction
+name=Flughafen Berlin Brandenburg
+ref=8
+id=node/12348848087</desc></wpt></gpx>

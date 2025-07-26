@@ -1,0 +1,2848 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="52.3978677" lon="13.0788209"><name>Humboldtring/Nuthestraße</name><desc>name=Humboldtring/Nuthestraße
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+id=node/30563544</desc></wpt><wpt lat="52.396281" lon="13.0424573"><name>Feuerbachstraße</name><desc>name=Feuerbachstraße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+id=node/30566661</desc></wpt><wpt lat="52.3991454" lon="13.0529334"><name>Dortustraße</name><desc>name=Dortustraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30566668</desc></wpt><wpt lat="52.4186584" lon="13.0503933"><name>Volkspark</name><desc>name=Volkspark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30621962</desc></wpt><wpt lat="52.4129461" lon="13.0547365"><name>Am Schragen</name><desc>name=Am Schragen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30621974</desc></wpt><wpt lat="52.4135011" lon="13.038618"><name>Johan-Bouman-Platz</name><desc>name=Johan-Bouman-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30621983</desc></wpt><wpt lat="52.4153444" lon="13.0403509"><name>Hannes-Meyer-Straße</name><desc>name=Hannes-Meyer-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30622009</desc></wpt><wpt lat="52.3740737" lon="13.0111531"><name>Bahnhof Pirschheide</name><desc>exit=only
+name=Bahnhof Pirschheide
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30622103</desc></wpt><wpt lat="52.3747181" lon="13.0122018"><name>Bahnhof Pirschheide</name><desc>name=Bahnhof Pirschheide
+note=entrance only
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30622107</desc></wpt><wpt lat="52.4112358" lon="13.0845469"><name>Glienicker Brücke</name><desc>name=Glienicker Brücke
+note=exit only
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30622121</desc></wpt><wpt lat="52.377522" lon="13.0829446"><name>Waldstraße/Horstweg</name><desc>name=Waldstraße/Horstweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30622461</desc></wpt><wpt lat="52.3749267" lon="13.0919953"><name>Magnus-Zeller-Platz</name><desc>name=Magnus-Zeller-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30622561</desc></wpt><wpt lat="52.3746899" lon="13.1232704"><name>Turmstraße</name><desc>name=Turmstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30622931</desc></wpt><wpt lat="52.3754658" lon="13.1295158"><name>Johannes-Kepler-Platz</name><desc>name=Johannes-Kepler-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30622937</desc></wpt><wpt lat="52.3745624" lon="13.1418691"><name>Gaußstraße</name><desc>name=Gaußstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30623689</desc></wpt><wpt lat="52.369744" lon="13.1406268"><name>Hans-Albers-Straße</name><desc>name=Hans-Albers-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30623714</desc></wpt><wpt lat="52.3669744" lon="13.1363025"><name>Robert-Baberske-Straße</name><desc>name=Robert-Baberske-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30623716</desc></wpt><wpt lat="52.3649859" lon="13.1348818"><name>Priesterweg</name><desc>name=Priesterweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/30623728</desc></wpt><wpt lat="52.5327622" lon="13.8359863"><name>S Strausberg</name><desc>name=S Strausberg
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Strausberger Eisenbahn GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q68081746
+wikipedia=de:Strausberger Eisenbahn
+id=node/31012780</desc></wpt><wpt lat="52.571323" lon="13.8759285"><name>Elisabethstraße</name><desc>name=Elisabethstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q68082436
+wikipedia=de:Strausberger Eisenbahn
+id=node/251193469</desc></wpt><wpt lat="52.4555855" lon="13.72639"><name>Goethestraße</name><desc>name=Goethestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66980872
+id=node/252280408</desc></wpt><wpt lat="52.4557144" lon="13.73096"><name>Eichendamm</name><desc>name=Eichendamm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66980691
+id=node/252280409</desc></wpt><wpt lat="52.4551646" lon="13.7346111"><name>Lerchenstraße</name><desc>name=Lerchenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66980682
+id=node/252280413</desc></wpt><wpt lat="52.4530562" lon="13.7442783"><name>Fasanenstraße</name><desc>name=Fasanenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66980261
+id=node/252280415</desc></wpt><wpt lat="52.4506347" lon="13.7524268"><name>Thälmannplatz</name><desc>name=Thälmannplatz
+note=Halt von S Rahnsdorf nach Woltersdorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252280425</desc></wpt><wpt lat="52.4494518" lon="13.759453"><name>Blumenstraße</name><desc>name=Blumenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66977546
+id=node/252280437</desc></wpt><wpt lat="52.4472929" lon="13.7614934"><name>Krankenhaus</name><desc>name=Krankenhaus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252280440</desc></wpt><wpt lat="52.3582571" lon="13.1372236"><name>Marie-Juchacz-Straße</name><desc>name=Marie-Juchacz-Straße
+note=exit only
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252413764</desc></wpt><wpt lat="52.3619684" lon="13.1370913"><name>Am Hirtengraben</name><desc>name=Am Hirtengraben
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252448808</desc></wpt><wpt lat="52.3755464" lon="13.1378846"><name>Max-Born-Straße</name><desc>name=Max-Born-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252448809</desc></wpt><wpt lat="52.3931434" lon="13.1086908"><name>Fontanestraße</name><desc>name=Fontanestraße
+note=entrance only
+postal_code=14482
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/252492499</desc></wpt><wpt lat="52.3805657" lon="13.0784618"><name>Kunersdorfer Straße</name><desc>name=Kunersdorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252492572</desc></wpt><wpt lat="52.3828006" lon="13.0751884"><name>Sporthalle</name><desc>name=Sporthalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252492577</desc></wpt><wpt lat="52.3860868" lon="13.0715218"><name>Friedhöfe</name><desc>name=Friedhöfe
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252492582</desc></wpt><wpt lat="52.3910046" lon="13.0652694"><name>S Potsdam Hauptbahnhof</name><desc>local_ref=2
+name=S Potsdam Hauptbahnhof
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref=2
+tram=yes
+id=node/252492586</desc></wpt><wpt lat="52.3920044" lon="13.0637419"><name>Lange Brücke</name><desc>name=Lange Brücke
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/252492590</desc></wpt><wpt lat="52.3984529" lon="13.0580226"><name>Platz der Einheit/West</name><desc>name=Platz der Einheit/West
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/252492600</desc></wpt><wpt lat="52.405221" lon="13.0580803"><name>Rathaus</name><desc>name=Rathaus
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252492603</desc></wpt><wpt lat="52.408691" lon="13.0586425"><name>Reiterweg/Alleestraße</name><desc>name=Reiterweg/Alleestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252492610</desc></wpt><wpt lat="52.411488" lon="13.0589723"><name>Puschkinallee</name><desc>name=Puschkinallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252492615</desc></wpt><wpt lat="52.4140129" lon="13.051071"><name>Campus Fachhochschule</name><desc>name=Campus Fachhochschule
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/252492617</desc></wpt><wpt lat="52.4136139" lon="13.0333963"><name>Kirschallee</name><desc>name=Kirschallee
+note=exit only
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+id=node/252492621</desc></wpt><wpt lat="52.467602" lon="13.6816379"><name>Waldstraße</name><desc>name=Waldstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair:description=Achtung: Generell in Schöneiche viele Kopfsteinpflasterstraßen, Schlaglöcher und unbefestigte Gehwege!
+id=node/253943361</desc></wpt><wpt lat="52.4785253" lon="13.6950292"><name>Dorfstraße</name><desc>name=Dorfstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q66564222
+id=node/253943372</desc></wpt><wpt lat="52.4787702" lon="13.7004022"><name>Dorfaue</name><desc>name=Dorfaue
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/253943382</desc></wpt><wpt lat="52.4769477" lon="13.7093222"><name>Schillerstraße</name><desc>name=Schillerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/253943389</desc></wpt><wpt lat="52.473898" lon="13.7134123"><name>Grätzwalde</name><desc>name=Grätzwalde
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/253943393</desc></wpt><wpt lat="52.4727253" lon="13.7302613"><name>Jägerstraße</name><desc>name=Jägerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/253943401</desc></wpt><wpt lat="52.4722971" lon="13.7377538"><name>Kalkberger Straße</name><desc>name=Kalkberger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+wikidata=Q66551067
+id=node/253943403</desc></wpt><wpt lat="52.4733358" lon="13.7520266"><name>Berghof-Weiche</name><desc>name=Berghof-Weiche
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/253943407</desc></wpt><wpt lat="52.4735812" lon="13.7609947"><name>Berghof</name><desc>name=Berghof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/253943410</desc></wpt><wpt lat="52.4742525" lon="13.7710103"><name>Torellplatz</name><desc>name=Torellplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/253943428</desc></wpt><wpt lat="52.4730861" lon="13.7765532"><name>Museumspark</name><desc>name=Museumspark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66542834
+id=node/253943441</desc></wpt><wpt lat="52.4716509" lon="13.7817487"><name>Marktplatz</name><desc>name=Marktplatz
+public_transport=stop_position
+railway=tram_stop
+source:name=survey 20110626
+tram=yes
+id=node/253943443</desc></wpt><wpt lat="52.4702804" lon="13.7867307"><name>Rathaus</name><desc>name=Rathaus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66534836
+id=node/253943451</desc></wpt><wpt lat="52.4686356" lon="13.7920927"><name>Breitscheidstraße</name><desc>name=Breitscheidstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/253943456</desc></wpt><wpt lat="52.4683496" lon="13.8014544"><name>Marienstraße</name><desc>name=Marienstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/253943462</desc></wpt><wpt lat="52.4664199" lon="13.8054918"><name>Alt-Rüdersdorf</name><desc>name=Alt-Rüdersdorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66528564
+id=node/253943463</desc></wpt><wpt lat="52.5659501" lon="13.8691734"><name>Käthe-Kollwitz-Straße</name><desc>alt_name=Kollwitz Straße
+name=Käthe-Kollwitz-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q68096148
+wikipedia=de:Strausberger Eisenbahn
+id=node/256050052</desc></wpt><wpt lat="52.5559834" lon="13.8654967"><name>Hegermühle</name><desc>name=Hegermühle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q68096431
+wikipedia=de:Strausberger Eisenbahn
+id=node/256050056</desc></wpt><wpt lat="52.5371006" lon="13.8442935"><name>Landhausstraße</name><desc>name=Landhausstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q68097216
+wikipedia=de:Strausberger Eisenbahn
+id=node/256050058</desc></wpt><wpt lat="52.5759269" lon="13.8805877"><name>Lustgarten</name><desc>name=Lustgarten
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q68082249
+wikipedia=de:Strausberger Eisenbahn
+id=node/256947233</desc></wpt><wpt lat="52.5459255" lon="13.8564273"><name>Schlagmühle</name><desc>name=Schlagmühle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q68097070
+wikipedia=de:Strausberger Eisenbahn
+id=node/270326781</desc></wpt><wpt lat="52.5504068" lon="13.8607462"><name>Am Stadtwald</name><desc>name=Am Stadtwald
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q68096886
+wikipedia=de:Strausberger Eisenbahn
+id=node/270326782</desc></wpt><wpt lat="52.3912775" lon="13.033065"><name>Schillerplatz/Schafgraben</name><desc>name=Schillerplatz/Schafgraben
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/273507034</desc></wpt><wpt lat="52.3992958" lon="13.0539248"><name>Dortustraße</name><desc>name=Dortustraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/273507041</desc></wpt><wpt lat="52.3988767" lon="13.057961"><name>Platz der Einheit/West</name><desc>name=Platz der Einheit/West
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/273507046</desc></wpt><wpt lat="52.3983425" lon="13.0646683"><name>Burgstraße/Klinikum</name><desc>name=Burgstraße/Klinikum
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/276956591</desc></wpt><wpt lat="52.3936206" lon="13.0285991"><name>Schloss Charlottenhof</name><desc>name=Schloss Charlottenhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/276956598</desc></wpt><wpt lat="52.3936426" lon="13.0346093"><name>Bahnhof Charlottenhof/Geschwister-Scholl-Straße</name><desc>bus=yes
+name=Bahnhof Charlottenhof/Geschwister-Scholl-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/276956619</desc></wpt><wpt lat="52.3921466" lon="13.0911937"><name>Rathaus Babelsberg</name><desc>name=Rathaus Babelsberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/282489549</desc></wpt><wpt lat="52.4014385" lon="12.5652094"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/286640003</desc></wpt><wpt lat="52.403657" lon="12.5680283"><name>Geschwister-Scholl-Straße</name><desc>name=Geschwister-Scholl-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/286640009</desc></wpt><wpt lat="52.3923981" lon="13.103264"><name>Plantagenstraße</name><desc>name=Plantagenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/288588445</desc></wpt><wpt lat="52.3920755" lon="13.0995665"><name>Anhaltstraße</name><desc>name=Anhaltstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/288588448</desc></wpt><wpt lat="52.3974967" lon="13.0588871"><name>Platz der Einheit/Bildungsforum</name><desc>name=Platz der Einheit/Bildungsforum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/288588452</desc></wpt><wpt lat="52.3991779" lon="13.0586149"><name>Platz der Einheit/Nord</name><desc>name=Platz der Einheit/Nord
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/288588455</desc></wpt><wpt lat="52.4012687" lon="13.0688025"><name>Holzmarktstraße</name><desc>name=Holzmarktstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/294248940</desc></wpt><wpt lat="52.3920027" lon="13.0917965"><name>Rathaus Babelsberg</name><desc>name=Rathaus Babelsberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/297802621</desc></wpt><wpt lat="52.4015108" lon="13.0717475"><name>Schiffbauergasse/Uferweg</name><desc>name=Schiffbauergasse/Uferweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/318540951</desc></wpt><wpt lat="52.3658201" lon="13.0935246"><name>Friedrich-Wolf-Straße</name><desc>name=Friedrich-Wolf-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/349113607</desc></wpt><wpt lat="52.359294" lon="13.0974061"><name>Bahnhof Rehbrücke</name><desc>name=Bahnhof Rehbrücke
+note=exit only
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/349113615</desc></wpt><wpt lat="52.360269" lon="13.097445"><name>Bahnhof Rehbrücke</name><desc>name=Bahnhof Rehbrücke
+note=entrance only
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/349113757</desc></wpt><wpt lat="52.3473297" lon="14.504884"><name>Westkreuz</name><desc>name=Westkreuz
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wikidata=Q109564381
+id=node/386527973</desc></wpt><wpt lat="52.4128707" lon="13.0867153"><name>Glienicker Brücke</name><desc>name=Glienicker Brücke
+note=entrance only
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/404580863</desc></wpt><wpt lat="52.4099188" lon="13.0798647"><name>Leonardo-da-Vinci-Straße</name><desc>name=Leonardo-da-Vinci-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/404580864</desc></wpt><wpt lat="52.4054539" lon="13.0731194"><name>Schiffbauergasse/Berliner Straße</name><desc>bus=yes
+disused:ref:BVG=107563
+name=Schiffbauergasse/Berliner Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/404580866</desc></wpt><wpt lat="52.4045771" lon="13.0721823"><name>Schiffbauergasse/Berliner Straße</name><desc>bus=yes
+disused:ref:BVG=107551
+name=Schiffbauergasse/Berliner Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/404580867</desc></wpt><wpt lat="52.4139898" lon="13.0335487"><name>Kirschallee</name><desc>name=Kirschallee
+note=entrance only
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+id=node/419751740</desc></wpt><wpt lat="52.4272445" lon="12.5027193"><name>Bahnhof Görden</name><desc>name=Bahnhof Görden
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/428601259</desc></wpt><wpt lat="52.427876" lon="12.4969135"><name>Waldcafé Görden</name><desc>name=Waldcafé Görden
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/428601261</desc></wpt><wpt lat="52.4264057" lon="12.5086405"><name>Geranienweg</name><desc>name=Geranienweg
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/428601263</desc></wpt><wpt lat="52.4238611" lon="12.5265358"><name>Am Silokanal</name><desc>name=Am Silokanal
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/428601266</desc></wpt><wpt lat="52.4245322" lon="12.5217848"><name>Rotdornweg</name><desc>name=Rotdornweg
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/428601268</desc></wpt><wpt lat="52.3805913" lon="13.0166315"><name>Luftschiffhafen</name><desc>name=Luftschiffhafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/430866204</desc></wpt><wpt lat="52.4084643" lon="12.5638264"><name>Neustädtischer Markt</name><desc>bus=yes
+highway=bus_stop
+name=Neustädtischer Markt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/435223571</desc></wpt><wpt lat="52.3366985" lon="14.5428975"><name>Dresdener Platz</name><desc>name=Dresdener Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109560590
+id=node/462010903</desc></wpt><wpt lat="52.2977057" lon="14.4728861"><name>Frankfurt (Oder), Fuchsweg</name><desc>bench=no
+bin=yes
+name=Frankfurt (Oder), Fuchsweg
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tram=yes
+wheelchair=yes
+id=node/462010912</desc></wpt><wpt lat="52.3029179" lon="14.4818016"><name>Frankfurt (Oder), Klinikum</name><desc>bench=no
+bin=yes
+name=Frankfurt (Oder), Klinikum
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tram=yes
+id=node/462010929</desc></wpt><wpt lat="52.3112354" lon="14.488985"><name>Frankfurt (Oder), Markendorf Siedlung</name><desc>name=Frankfurt (Oder), Markendorf Siedlung
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109562257
+id=node/462010951</desc></wpt><wpt lat="52.3178818" lon="14.5003012"><name>Frankfurt (Oder), Technologiepark</name><desc>bin=yes
+lit=yes
+name=Frankfurt (Oder), Technologiepark
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109562256
+id=node/462010976</desc></wpt><wpt lat="52.3219726" lon="14.5022058"><name>Frankfurt (Oder), Friedenshöhe</name><desc>name=Frankfurt (Oder), Friedenshöhe
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft mbH Ffo.
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+website=http://www.svf-ffo.de/images/haltestellen/CONR.pdf
+id=node/462010988</desc></wpt><wpt lat="52.326576" lon="14.5054085"><name>Frankfurt (Oder), Gartenstadt</name><desc>name=Frankfurt (Oder), Gartenstadt
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/462011002</desc></wpt><wpt lat="52.3270422" lon="14.5117808"><name>Frankfurt (Oder), Kopernikusstraße</name><desc>name=Frankfurt (Oder), Kopernikusstraße
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/462011019</desc></wpt><wpt lat="52.327578" lon="14.5196284"><name>Frankfurt (Oder), Südring</name><desc>name=Frankfurt (Oder), Südring
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/462011033</desc></wpt><wpt lat="52.3293463" lon="14.5231416"><name>Frankfurt (Oder), Kräuterweg</name><desc>name=Frankfurt (Oder), Kräuterweg
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/462011051</desc></wpt><wpt lat="52.3228902" lon="14.5355131"><name>Frankfurt (Oder), Neuberesinchen</name><desc>name=Frankfurt (Oder), Neuberesinchen
+network=Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109558722
+id=node/462011096</desc></wpt><wpt lat="52.3223408" lon="14.5402509"><name>Frankfurt (Oder), Mühlenweg</name><desc>name=Frankfurt (Oder), Mühlenweg
+network=Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109558754
+id=node/462011105</desc></wpt><wpt lat="52.3254807" lon="14.5446752"><name>Frankfurt (Oder), Wintergarten</name><desc>name=Frankfurt (Oder), Wintergarten
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109559260
+id=node/462011116</desc></wpt><wpt lat="52.3282884" lon="14.5391289"><name>Frankfurt (Oder), Birkenallee</name><desc>name=Frankfurt (Oder), Birkenallee
+network=Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109559817
+id=node/462011129</desc></wpt><wpt lat="52.3325622" lon="14.5389368"><name>Johann-Eichorn-Straße</name><desc>name=Johann-Eichorn-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/462011152</desc></wpt><wpt lat="52.3630596" lon="14.5409603"><name>Lebuser Vorstadt</name><desc>name=Lebuser Vorstadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109560866
+id=node/462011167</desc></wpt><wpt lat="52.3602856" lon="14.5434216"><name>Neue Welt</name><desc>name=Neue Welt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109567840
+id=node/462011177</desc></wpt><wpt lat="52.3497046" lon="14.5496354"><name>Topfmarkt/Konzerthalle</name><desc>name=Topfmarkt/Konzerthalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109567837
+id=node/462011186</desc></wpt><wpt lat="52.3460101" lon="14.5508666"><name>Magistrale</name><desc>name=Magistrale
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/462011191</desc></wpt><wpt lat="52.3410863" lon="14.5568519"><name>Frankfurt (Oder), Europa-Universität</name><desc>name=Frankfurt (Oder), Europa-Universität
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/462011237</desc></wpt><wpt lat="52.2937469" lon="14.4692077"><name>Frankfurt (Oder), Markendorf Ort</name><desc>bench=yes
+bin=yes
+name=Frankfurt (Oder), Markendorf Ort
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/462011238</desc></wpt><wpt lat="52.3323905" lon="14.5292567"><name>Friedhof</name><desc>name=Friedhof
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109562249
+id=node/462011264</desc></wpt><wpt lat="52.3337083" lon="14.5345301"><name>Heinrich-Hildebrand-Straße</name><desc>name=Heinrich-Hildebrand-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/462011266</desc></wpt><wpt lat="52.3386977" lon="14.5457664"><name>Frankfurt (Oder), Bahnhof</name><desc>name=Frankfurt (Oder), Bahnhof
+operator=SVF
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109568087
+id=node/462011304</desc></wpt><wpt lat="52.3418771" lon="14.5486604"><name>Zentrum</name><desc>name=Zentrum
+network=VBB
+operator=SVF
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/462011311</desc></wpt><wpt lat="52.3429558" lon="14.5510674"><name>Brunnenplatz</name><desc>name=Brunnenplatz
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/462011317</desc></wpt><wpt lat="52.3562532" lon="14.5468206"><name>Am Winterhafen</name><desc>name=Am Winterhafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/462011318</desc></wpt><wpt lat="52.341775" lon="14.5513964"><name>Oderturm</name><desc>name=Oderturm
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/462011356</desc></wpt><wpt lat="52.4069892" lon="12.5668607"><name>Sankt-Annen-Straße</name><desc>bus=yes
+name=Sankt-Annen-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469414765</desc></wpt><wpt lat="52.4091203" lon="12.5623779"><name>Neustädtischer Markt</name><desc>name=Neustädtischer Markt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/469414766</desc></wpt><wpt lat="52.4126841" lon="12.553679"><name>Ritterstraße/Museum</name><desc>name=Ritterstraße/Museum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/469414780</desc></wpt><wpt lat="52.4088509" lon="12.5483455"><name>Luckenberger Straße</name><desc>name=Luckenberger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469414803</desc></wpt><wpt lat="52.4029367" lon="12.5615119"><name>Blumenstraße</name><desc>name=Blumenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/469414830</desc></wpt><wpt lat="52.4045742" lon="12.5580408"><name>Große Gartenstraße</name><desc>name=Große Gartenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469414831</desc></wpt><wpt lat="52.4073046" lon="12.5507299"><name>Kanalstraße</name><desc>name=Kanalstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469414832</desc></wpt><wpt lat="52.4071976" lon="12.5604124"><name>Steinstraße/Kino</name><desc>bus=yes
+name=Steinstraße/Kino
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469414838</desc></wpt><wpt lat="52.4119856" lon="12.5438434"><name>Magdeburger Straße/OLG</name><desc>name=Magdeburger Straße/OLG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469418652</desc></wpt><wpt lat="52.413184" lon="12.5241158"><name>Dreifertstraße</name><desc>name=Dreifertstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469418657</desc></wpt><wpt lat="52.4136226" lon="12.5161495"><name>Südtor</name><desc>name=Südtor
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469418658</desc></wpt><wpt lat="52.4139719" lon="12.5112208"><name>Frankenstraße</name><desc>name=Frankenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469418659</desc></wpt><wpt lat="52.4143802" lon="12.5071034"><name>Hessenweg</name><desc>name=Hessenweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469418661</desc></wpt><wpt lat="52.4147815" lon="12.5029704"><name>Am Stadion/Industriemuseum</name><desc>name=Am Stadion/Industriemuseum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469418662</desc></wpt><wpt lat="52.4148667" lon="12.4991064"><name>Quenzbrücke</name><desc>name=Quenzbrücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469418664</desc></wpt><wpt lat="52.4146725" lon="12.5378127"><name>Karl-Marx-Straße</name><desc>name=Karl-Marx-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/469441544</desc></wpt><wpt lat="52.4181898" lon="12.535984"><name>Fontanestraße</name><desc>name=Fontanestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469441588</desc></wpt><wpt lat="52.4221198" lon="12.5325241"><name>August-Bebel-Straße</name><desc>name=August-Bebel-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469441620</desc></wpt><wpt lat="52.4271417" lon="12.5312844"><name>Hohenstücken Betriebshof</name><desc>name=Hohenstücken Betriebshof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469441667</desc></wpt><wpt lat="52.4314271" lon="12.5298125"><name>Willibald-Alexis-Straße</name><desc>name=Willibald-Alexis-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469441717</desc></wpt><wpt lat="52.4316051" lon="12.5237076"><name>Rosa-Luxemburg-Allee</name><desc>name=Rosa-Luxemburg-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469441729</desc></wpt><wpt lat="52.4342375" lon="12.521564"><name>Tschirchdamm</name><desc>name=Tschirchdamm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/469441744</desc></wpt><wpt lat="52.4371938" lon="12.5182096"><name>Hohenstücken Nord</name><desc>name=Hohenstücken Nord
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469441774</desc></wpt><wpt lat="52.423371" lon="12.4676426"><name>Anton-Saefkow-Allee</name><desc>name=Anton-Saefkow-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469461774</desc></wpt><wpt lat="52.4250483" lon="12.4731655"><name>Kaltenhausener Weg</name><desc>name=Kaltenhausener Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469461782</desc></wpt><wpt lat="52.4272424" lon="12.4800396"><name>Asklepios Klinik</name><desc>name=Asklepios Klinik
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469461794</desc></wpt><wpt lat="52.4256813" lon="12.5138293"><name>Gördenallee</name><desc>name=Gördenallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469461827</desc></wpt><wpt lat="52.405294" lon="12.557631"><name>Jacobstraße</name><desc>name=Jacobstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/469477837</desc></wpt><wpt lat="52.4084" lon="13.0585619"><name>Reiterweg/Alleestraße</name><desc>name=Reiterweg/Alleestraße
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/473713857</desc></wpt><wpt lat="52.3428374" lon="14.5328374"><name>Kantstraße</name><desc>name=Kantstraße
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wikidata=Q109564386
+id=node/484799398</desc></wpt><wpt lat="52.3440885" lon="14.5258167"><name>Frankfurt (Oder), Kießlingplatz</name><desc>name=Frankfurt (Oder), Kießlingplatz
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109564385
+id=node/484799412</desc></wpt><wpt lat="52.3471927" lon="14.51511"><name>Frankfurt (Oder), Gerhart-Hauptmann-Straße</name><desc>name=Frankfurt (Oder), Gerhart-Hauptmann-Straße
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109564383
+id=node/484799425</desc></wpt><wpt lat="52.3478101" lon="14.5086148"><name>Immenweg</name><desc>name=Immenweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109564382
+id=node/484799432</desc></wpt><wpt lat="52.3468228" lon="14.5003854"><name>Messegelände</name><desc>name=Messegelände
+network=VBB
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109559102
+id=node/484799436</desc></wpt><wpt lat="52.3421063" lon="14.5436969"><name>Kleist-Forum</name><desc>name=Kleist-Forum
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109564388
+id=node/484799486</desc></wpt><wpt lat="52.3923948" lon="13.0635833"><name>Lange Brücke</name><desc>name=Lange Brücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/490087548</desc></wpt><wpt lat="52.3934867" lon="13.0845507"><name>Alt Nowawes</name><desc>name=Alt Nowawes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/535697187</desc></wpt><wpt lat="52.3917197" lon="13.0954835"><name>S Babelsberg/Wattstraße</name><desc>name=S Babelsberg/Wattstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/617362138</desc></wpt><wpt lat="52.3915896" lon="13.094171"><name>S Babelsberg/Wattstraße</name><desc>name=S Babelsberg/Wattstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/617362180</desc></wpt><wpt lat="52.3884835" lon="13.0282616"><name>Kastanienallee/Zeppelinstraße</name><desc>name=Kastanienallee/Zeppelinstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/989058725</desc></wpt><wpt lat="52.3891012" lon="13.0282804"><name>Kastanienallee/Zeppelinstraße</name><desc>name=Kastanienallee/Zeppelinstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/989060346</desc></wpt><wpt lat="52.3373602" lon="14.5527311"><name>Anger</name><desc>name=Anger
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wikidata=Q109567940
+id=node/1011236743</desc></wpt><wpt lat="52.3733116" lon="13.1115649"><name>Abzweig Betriebshof ViP</name><desc>name=Abzweig Betriebshof ViP
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1024786267</desc></wpt><wpt lat="52.3945936" lon="13.0381588"><name>Auf dem Kiewitt</name><desc>bus=yes
+highway=bus_stop
+name=Auf dem Kiewitt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1137840534</desc></wpt><wpt lat="52.3950197" lon="13.0398982"><name>Auf dem Kiewitt</name><desc>name=Auf dem Kiewitt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1137840548</desc></wpt><wpt lat="52.3965725" lon="13.0430709"><name>Feuerbachstraße</name><desc>name=Feuerbachstraße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+id=node/1137852451</desc></wpt><wpt lat="52.3780762" lon="13.0820805"><name>Waldstraße/Horstweg</name><desc>name=Waldstraße/Horstweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1139573471</desc></wpt><wpt lat="52.3730978" lon="13.088157"><name>Eduard-Claudius-Straße/Heinrich-Mann-Allee</name><desc>name=Eduard-Claudius-Straße/Heinrich-Mann-Allee
+official_name=E.-Claudius-Str./H.-Mann-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1142818669</desc></wpt><wpt lat="52.3737014" lon="13.0877277"><name>Eduard-Claudius-Straße/Heinrich-Mann-Allee</name><desc>name=Eduard-Claudius-Straße/Heinrich-Mann-Allee
+official_name=E.-Claudius-Str./H.-Mann-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1142818808</desc></wpt><wpt lat="52.3688384" lon="13.0912542"><name>Zum Kahleberg</name><desc>name=Zum Kahleberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1149196889</desc></wpt><wpt lat="52.368211" lon="13.0917917"><name>Zum Kahleberg</name><desc>name=Zum Kahleberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1149196891</desc></wpt><wpt lat="52.363764" lon="13.0948138"><name>Am Moosfenn</name><desc>name=Am Moosfenn
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1149221130</desc></wpt><wpt lat="52.37335" lon="13.1008404"><name>Bisamkiez</name><desc>name=Bisamkiez
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1193433542</desc></wpt><wpt lat="52.3692386" lon="13.1399499"><name>Hans-Albers-Straße</name><desc>name=Hans-Albers-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikimedia_commons=File:20230729 xl 1558-Hans-Albers-Str..jpg
+id=node/1209385188</desc></wpt><wpt lat="52.3643766" lon="13.1359042"><name>Priesterweg</name><desc>name=Priesterweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1209764598</desc></wpt><wpt lat="51.7380493" lon="14.3362589"><name>Cottbus, Hermann-Löns-Straße</name><desc>name=Cottbus, Hermann-Löns-Straße
+name:hsb=H. Lönsowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1218043829</desc></wpt><wpt lat="51.7384423" lon="14.3359673"><name>Cottbus, Hermann-Löns-Straße</name><desc>name=Cottbus, Hermann-Löns-Straße
+name:hsb=H. Lönsowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1218043831</desc></wpt><wpt lat="52.3931897" lon="13.1093678"><name>Fontanestraße</name><desc>name=Fontanestraße
+note=exit only
+postal_code=14482
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1219939592</desc></wpt><wpt lat="51.7213617" lon="14.3474292"><name>Cottbus, Madlow</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470201
+name=Cottbus, Madlow
+name:dsb=Chóśebuz, Módłej
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref=Tram 3
+ref:IFOPT=de:12052:900470201
+towards=Ströbitz
+tram=yes
+id=node/1280826786</desc></wpt><wpt lat="51.74736" lon="14.3080394"><name>Jessener Straße</name><desc>name=Jessener Straße
+name:hsb=Jaseńska droga
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1324775128</desc></wpt><wpt lat="51.7481524" lon="14.3321617"><name>Cottbus, Weinbergstraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470332
+name=Cottbus, Weinbergstraße
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+old_name:-2022-12-10=Cottbus, Görlitzer Straße (Süd)
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470332
+tram=yes
+id=node/1325054614</desc></wpt><wpt lat="51.7578745" lon="14.3323276"><name>Cottbus, Stadtpromenade</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470269
+local_ref=A
+name=Cottbus, Stadtpromenade
+name:hsb=Měsćańska promenada, pśistupnišćo A
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470269
+tram=yes
+wikidata=Q113573293
+id=node/1325523722</desc></wpt><wpt lat="51.738295" lon="14.3245596"><name>Schleife Thiemstraße</name><desc>name=Schleife Thiemstraße
+name:hsb=Kokula Thiemowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1325812213</desc></wpt><wpt lat="51.7384337" lon="14.3249186"><name>Schleife Thiemstraße</name><desc>name=Schleife Thiemstraße
+name:hsb=Kokula Thiemowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1325812215</desc></wpt><wpt lat="51.7811527" lon="14.3453477"><name>Neue Straße</name><desc>name=Neue Straße
+name:hsb=Nowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1328047478</desc></wpt><wpt lat="51.7749156" lon="14.3461007"><name>Gewerbegebiet TKC</name><desc>name=Gewerbegebiet TKC
+name:hsb=přemysłowa přestrjeń TKC
+old_name=Sportpalast
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1328047516</desc></wpt><wpt lat="51.72936" lon="14.3407805"><name>Cottbus, Spreestraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470321
+name=Cottbus, Spreestraße
+name:hsb=Sprjewina droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470321
+tram=yes
+id=node/1328062787</desc></wpt><wpt lat="51.75519" lon="14.3045409"><name>Ströbitz</name><desc>name=Ströbitz
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+old_name=Ströbitz Hans-Sachs-Str.
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573308
+id=node/1420854381</desc></wpt><wpt lat="51.7588439" lon="14.3148131"><name>Waisenstraße</name><desc>bus=yes
+highway=bus_stop
+name=Waisenstraße
+name:hsb=Syrotowa droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573310
+id=node/1420905579</desc></wpt><wpt lat="51.7851029" lon="14.3441621"><name>Cottbus, Neu Schmellwitz Zuschka</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470215
+name=Cottbus, Neu Schmellwitz Zuschka
+name:hsb=Nowy Chmjelow-Cuška
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470215
+tram=yes
+id=node/1424284079</desc></wpt><wpt lat="51.7877053" lon="14.3433766"><name>Neu Schmellwitz</name><desc>name=Neu Schmellwitz
+name:hsb=Nowy Chmjelow
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1424284083</desc></wpt><wpt lat="51.7825189" lon="14.3364763"><name>Schmellwitz Anger</name><desc>name=Schmellwitz Anger
+name:hsb=Chmjelow-najs
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1424311603</desc></wpt><wpt lat="51.7481585" lon="14.3168692"><name>Friedrich-List-Straße</name><desc>name=Friedrich-List-Straße
+name:hsb=F. Listowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1428361733</desc></wpt><wpt lat="51.7475322" lon="14.3067692"><name>Jessener Straße</name><desc>bus=yes
+highway=bus_stop
+name=Jessener Straße
+name:hsb=Jaseńska droga
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1428361734</desc></wpt><wpt lat="51.7626098" lon="14.3450886"><name>Am Doll</name><desc>name=Am Doll
+name:hsb=Pśi dole
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1439759931</desc></wpt><wpt lat="51.7593535" lon="14.3511509"><name>Hermann-Hammerschmidt-Straße</name><desc>name=Hermann-Hammerschmidt-Straße
+name:hsb=H. Hammerschmidtowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573306
+id=node/1439759933</desc></wpt><wpt lat="51.7564233" lon="14.3530599"><name>Sandow</name><desc>bus=yes
+exit=only
+highway=bus_stop
+name=Sandow
+name:hsb=Žandow
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573307
+id=node/1439760169</desc></wpt><wpt lat="51.7566268" lon="14.3536698"><name>Sandow</name><desc>bus=yes
+exit=no
+highway=bus_stop
+name=Sandow
+name:hsb=Žandow
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573307
+id=node/1439760170</desc></wpt><wpt lat="52.3747162" lon="13.1232491"><name>Turmstraße</name><desc>name=Turmstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1448886230</desc></wpt><wpt lat="52.3619712" lon="13.1371367"><name>Am Hirtengraben</name><desc>name=Am Hirtengraben
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1448895666</desc></wpt><wpt lat="52.3587359" lon="13.1372498"><name>Marie-Juchacz-Straße</name><desc>name=Marie-Juchacz-Straße
+note=entrance only
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1448895667</desc></wpt><wpt lat="52.3672437" lon="13.1368006"><name>Robert-Baberske-Straße</name><desc>name=Robert-Baberske-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1448895772</desc></wpt><wpt lat="52.3751684" lon="13.0912547"><name>Magnus-Zeller-Platz</name><desc>name=Magnus-Zeller-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1455234394</desc></wpt><wpt lat="52.4132186" lon="13.054274"><name>Am Schragen</name><desc>name=Am Schragen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456233143</desc></wpt><wpt lat="52.4141454" lon="13.0504691"><name>Campus Fachhochschule</name><desc>name=Campus Fachhochschule
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456233254</desc></wpt><wpt lat="52.4190918" lon="13.0504537"><name>Volkspark</name><desc>name=Volkspark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456233339</desc></wpt><wpt lat="52.4153523" lon="13.0403094"><name>Hannes-Meyer-Straße</name><desc>name=Hannes-Meyer-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456243178</desc></wpt><wpt lat="52.4134988" lon="13.038552"><name>Johan-Bouman-Platz</name><desc>name=Johan-Bouman-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456243225</desc></wpt><wpt lat="52.3741241" lon="13.0111805"><name>Bahnhof Pirschheide</name><desc>exit=only
+name=Bahnhof Pirschheide
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456251122</desc></wpt><wpt lat="52.3809474" lon="13.0172284"><name>Luftschiffhafen</name><desc>name=Luftschiffhafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456251123</desc></wpt><wpt lat="52.3920511" lon="13.0995775"><name>Anhaltstraße</name><desc>name=Anhaltstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456258882</desc></wpt><wpt lat="52.3923595" lon="13.1032624"><name>Plantagenstraße</name><desc>name=Plantagenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456258884</desc></wpt><wpt lat="52.3978408" lon="13.0787904"><name>Humboldtring/Nuthestraße</name><desc>name=Humboldtring/Nuthestraße
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+id=node/1456265497</desc></wpt><wpt lat="52.4014991" lon="13.0716928"><name>Schiffbauergasse/Uferweg</name><desc>name=Schiffbauergasse/Uferweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456265543</desc></wpt><wpt lat="52.4085192" lon="13.0766986"><name>Mangerstraße</name><desc>name=Mangerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456269467</desc></wpt><wpt lat="52.3984138" lon="13.0652995"><name>Burgstraße/Klinikum</name><desc>name=Burgstraße/Klinikum
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456277744</desc></wpt><wpt lat="52.4017735" lon="13.0693612"><name>Holzmarktstraße</name><desc>name=Holzmarktstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1456277746</desc></wpt><wpt lat="52.3975673" lon="13.059502"><name>Platz der Einheit/Bildungsforum</name><desc>name=Platz der Einheit/Bildungsforum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1456277747</desc></wpt><wpt lat="52.3857579" lon="13.071955"><name>Friedhöfe</name><desc>name=Friedhöfe
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1458149146</desc></wpt><wpt lat="52.3805485" lon="13.0784388"><name>Kunersdorfer Straße</name><desc>name=Kunersdorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1458149147</desc></wpt><wpt lat="52.3824837" lon="13.0756035"><name>Sporthalle</name><desc>name=Sporthalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1458149174</desc></wpt><wpt lat="52.4313957" lon="12.5298115"><name>Willibald-Alexis-Straße</name><desc>name=Willibald-Alexis-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506604712</desc></wpt><wpt lat="52.4315738" lon="12.5237088"><name>Rosa-Luxemburg-Allee</name><desc>name=Rosa-Luxemburg-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506604759</desc></wpt><wpt lat="52.4372086" lon="12.5182672"><name>Hohenstücken Nord</name><desc>name=Hohenstücken Nord
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506612336</desc></wpt><wpt lat="52.4342152" lon="12.5215229"><name>Tschirchdamm</name><desc>name=Tschirchdamm
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1506612362</desc></wpt><wpt lat="52.4271449" lon="12.5312258"><name>Hohenstücken Betriebshof</name><desc>name=Hohenstücken Betriebshof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506617628</desc></wpt><wpt lat="52.4238953" lon="12.5265604"><name>Am Silokanal</name><desc>name=Am Silokanal
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/1506619321</desc></wpt><wpt lat="52.4245689" lon="12.5217942"><name>Rotdornweg</name><desc>name=Rotdornweg
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/1506619387</desc></wpt><wpt lat="52.4263765" lon="12.5086333"><name>Geranienweg</name><desc>name=Geranienweg
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/1506667352</desc></wpt><wpt lat="52.4271809" lon="12.5029132"><name>Bahnhof Görden</name><desc>name=Bahnhof Görden
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/1506667370</desc></wpt><wpt lat="52.4256528" lon="12.5138147"><name>Gördenallee</name><desc>name=Gördenallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506667372</desc></wpt><wpt lat="52.4278538" lon="12.4971445"><name>Waldcafé Görden</name><desc>name=Waldcafé Görden
+public_transport=stop_position
+railway=tram_stop
+route_ref=1
+tram=yes
+id=node/1506667488</desc></wpt><wpt lat="52.4273201" lon="12.4803928"><name>Asklepios Klinik</name><desc>name=Asklepios Klinik
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506675877</desc></wpt><wpt lat="52.4233512" lon="12.4676707"><name>Anton-Saefkow-Allee</name><desc>name=Anton-Saefkow-Allee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506678725</desc></wpt><wpt lat="52.4147593" lon="12.5029772"><name>Am Stadion/Industriemuseum</name><desc>name=Am Stadion/Industriemuseum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506775093</desc></wpt><wpt lat="52.4132188" lon="12.5230108"><name>Dreifertstraße</name><desc>name=Dreifertstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506775096</desc></wpt><wpt lat="52.4139756" lon="12.5109114"><name>Frankenstraße</name><desc>name=Frankenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506775104</desc></wpt><wpt lat="52.4143531" lon="12.5070953"><name>Hessenweg</name><desc>name=Hessenweg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506775109</desc></wpt><wpt lat="52.4148224" lon="12.499132"><name>Quenzbrücke</name><desc>name=Quenzbrücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506775404</desc></wpt><wpt lat="52.4135994" lon="12.5161296"><name>Südtor</name><desc>name=Südtor
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1506775407</desc></wpt><wpt lat="52.4224461" lon="12.5322644"><name>August-Bebel-Straße</name><desc>name=August-Bebel-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1507720604</desc></wpt><wpt lat="52.4181795" lon="12.5359499"><name>Fontanestraße</name><desc>name=Fontanestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1507730643</desc></wpt><wpt lat="52.4146518" lon="12.5377904"><name>Karl-Marx-Straße</name><desc>name=Karl-Marx-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1507730650</desc></wpt><wpt lat="52.4029221" lon="12.5614802"><name>Blumenstraße</name><desc>name=Blumenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1507777784</desc></wpt><wpt lat="52.4044677" lon="12.5582242"><name>Große Gartenstraße</name><desc>name=Große Gartenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1507777787</desc></wpt><wpt lat="52.401407" lon="12.5652745"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+ref=2
+tram=yes
+id=node/1507777840</desc></wpt><wpt lat="52.403662" lon="12.5680689"><name>Geschwister-Scholl-Straße</name><desc>name=Geschwister-Scholl-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1507777914</desc></wpt><wpt lat="51.7319437" lon="14.3393043"><name>Cottbus, Ringstraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470408
+name=Cottbus, Ringstraße
+name:hsb=Wokolica
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470408
+tram=yes
+id=node/1596894812</desc></wpt><wpt lat="51.7252952" lon="14.3431805"><name>Priorstraße</name><desc>bus=yes
+highway=bus_stop
+name=Priorstraße
+name:hsb=Pśerojska droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1596894829</desc></wpt><wpt lat="51.7405432" lon="14.3341629"><name>Cottbus, Sportzentrum</name><desc>gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470265
+name=Cottbus, Sportzentrum
+name:hsb=Sportowy centrum
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470265
+tram=yes
+id=node/1596894840</desc></wpt><wpt lat="51.7371892" lon="14.3361323"><name>Cottbus, Südfriedhof</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470279
+name=Cottbus, Südfriedhof
+name:hsb=Pódpołdnjowy kjarchob
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470279
+tram=yes
+id=node/1596894842</desc></wpt><wpt lat="51.7439515" lon="14.3266503"><name>Cottbus, Thiemstraße/Klinikum</name><desc>bus=yes
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470282
+highway=bus_stop
+name=Cottbus, Thiemstraße/Klinikum
+name:hsb=Thiemowa droga/Klinikum
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470282
+tram=yes
+wikidata=Q113573335
+id=node/1616681940</desc></wpt><wpt lat="51.7281355" lon="14.3265511"><name>Cottbus, Gelsenkirchener Platz</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470326
+name=Cottbus, Gelsenkirchener Platz
+name:hsb=Gelsenkirchenske naměsto
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470326
+tram=yes
+id=node/1629123682</desc></wpt><wpt lat="51.7365656" lon="14.3243709"><name>Cottbus, Saarbrücker Straße</name><desc>bus=yes
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470230
+highway=bus_stop
+name=Cottbus, Saarbrücker Straße
+name:hsb=Saarbrückska droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470230
+tram=yes
+wikidata=Q113573337
+id=node/1629123683</desc></wpt><wpt lat="51.7242292" lon="14.3259453"><name>Schwarzheider Straße</name><desc>name=Schwarzheider Straße
+name:hsb=Carnogozdźańska droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1629123685</desc></wpt><wpt lat="51.7311128" lon="14.3276027"><name>Thierbacher Straße</name><desc>name=Thierbacher Straße
+name:hsb=Thierbachska droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1629123686</desc></wpt><wpt lat="51.744948" lon="14.331475"><name>Cottbus, Ottilienstraße</name><desc>bus=yes
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470223
+highway=bus_stop
+name=Cottbus, Ottilienstraße
+name:hsb=Droga Ottilije
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470223
+tram=yes
+id=node/1632037435</desc></wpt><wpt lat="51.749788" lon="14.3328149"><name>Görlitzer Straße</name><desc>bus=yes
+highway=bus_stop
+name=Görlitzer Straße
+name:hsb=Zgorjelska droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+old_name:-2022-12-10=Cottbus, Görlitzer Straße (Nord)
+operator=Cottbusverkehr
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1633231783</desc></wpt><wpt lat="51.7409695" lon="14.3245252"><name>Hufelandstraße</name><desc>bus=yes
+highway=bus_stop
+name=Hufelandstraße
+name:hsb=Hufelandowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573336
+id=node/1637081538</desc></wpt><wpt lat="51.7475311" lon="14.3124418"><name>Vetschauer Straße/Leipziger Straße</name><desc>name=Vetschauer Straße/Leipziger Straße
+name:hsb=Wětošojska/Lipsčańska
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1648512233</desc></wpt><wpt lat="51.7569936" lon="14.3098831"><name>Ewald-Müller-Straße</name><desc>bus=yes
+highway=bus_stop
+name=Ewald-Müller-Straße
+name:hsb=E. Müllerowa droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573309
+id=node/1648535329</desc></wpt><wpt lat="51.7603986" lon="14.3196659"><name>Ströbitzer Weg</name><desc>bus=yes
+highway=bus_stop
+name=Ströbitzer Weg
+name:hsb=Strobicański puś
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573311
+id=node/1648541334</desc></wpt><wpt lat="51.7716238" lon="14.3401923"><name>Cottbus, Nordring/Am TKC</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470222
+name=Cottbus, Nordring/Am TKC
+name:hsb=Połnocna wokolica
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470222
+tram=yes
+id=node/1648551905</desc></wpt><wpt lat="51.7715518" lon="14.3411782"><name>Cottbus, Nordring/Am TKC</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470222
+name=Cottbus, Nordring/Am TKC
+name:hsb=Połnocna wokolica
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470222
+tram=yes
+wikidata=Q113573334
+id=node/1691717681</desc></wpt><wpt lat="51.7850975" lon="14.3441124"><name>Cottbus, Neu Schmellwitz Zuschka</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470215
+name=Cottbus, Neu Schmellwitz Zuschka
+name:hsb=Nowy Chmjelow-Cuška
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470215
+tram=yes
+id=node/1699458434</desc></wpt><wpt lat="51.787216" lon="14.343477"><name>Neu Schmellwitz</name><desc>name=Neu Schmellwitz
+name:hsb=Nowy Chmjelow
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1699458435</desc></wpt><wpt lat="51.7803671" lon="14.3455506"><name>Neue Straße</name><desc>name=Neue Straße
+name:hsb=Nowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1699458440</desc></wpt><wpt lat="51.7751049" lon="14.3461346"><name>Gewerbegebiet TKC</name><desc>name=Gewerbegebiet TKC
+name:hsb=přemysłowa přestrjeń TKC
+old_name=Sportpalast
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1699458642</desc></wpt><wpt lat="52.3283096" lon="14.539174"><name>Frankfurt (Oder), Birkenallee</name><desc>name=Frankfurt (Oder), Birkenallee
+network=Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109559817
+id=node/1705087206</desc></wpt><wpt lat="52.3325552" lon="14.5389766"><name>Johann-Eichorn-Straße</name><desc>name=Johann-Eichorn-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109559986
+id=node/1705087208</desc></wpt><wpt lat="52.322697" lon="14.5410929"><name>Frankfurt (Oder), Mühlenweg</name><desc>name=Frankfurt (Oder), Mühlenweg
+network=Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109558754
+id=node/1705087213</desc></wpt><wpt lat="52.3228664" lon="14.5354789"><name>Frankfurt (Oder), Neuberesinchen</name><desc>name=Frankfurt (Oder), Neuberesinchen
+network=Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109558722
+id=node/1705087230</desc></wpt><wpt lat="52.3254778" lon="14.5447247"><name>Frankfurt (Oder), Wintergarten</name><desc>name=Frankfurt (Oder), Wintergarten
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109559260
+id=node/1705087723</desc></wpt><wpt lat="52.3323677" lon="14.5292737"><name>Friedhof</name><desc>name=Friedhof
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109562249
+id=node/1705107039</desc></wpt><wpt lat="52.3336855" lon="14.5345447"><name>Heinrich-Hildebrand-Straße</name><desc>name=Heinrich-Hildebrand-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109562248
+id=node/1705107058</desc></wpt><wpt lat="52.3270268" lon="14.5117498"><name>Frankfurt (Oder), Kopernikusstraße</name><desc>name=Frankfurt (Oder), Kopernikusstraße
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109562253
+id=node/1705107060</desc></wpt><wpt lat="52.3293224" lon="14.5231705"><name>Frankfurt (Oder), Kräuterweg</name><desc>name=Frankfurt (Oder), Kräuterweg
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109562250
+id=node/1705107066</desc></wpt><wpt lat="52.3275527" lon="14.5196609"><name>Frankfurt (Oder), Südring</name><desc>bench=yes
+name=Frankfurt (Oder), Südring
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+wikidata=Q109562251
+id=node/1705107320</desc></wpt><wpt lat="52.3219721" lon="14.502245"><name>Frankfurt (Oder), Friedenshöhe</name><desc>name=Frankfurt (Oder), Friedenshöhe
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft mbH Ffo.
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+website=http://www.svf-ffo.de/images/haltestellen/CONR.pdf
+wikidata=Q109562255
+id=node/1705117708</desc></wpt><wpt lat="52.3265486" lon="14.5054218"><name>Frankfurt (Oder), Gartenstadt</name><desc>name=Frankfurt (Oder), Gartenstadt
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109562254
+id=node/1705117710</desc></wpt><wpt lat="52.3178616" lon="14.5003209"><name>Frankfurt (Oder), Technologiepark</name><desc>bench=yes
+bin=yes
+lit=yes
+name=Frankfurt (Oder), Technologiepark
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wikidata=Q109562256
+id=node/1705117856</desc></wpt><wpt lat="52.3029015" lon="14.4818342"><name>Frankfurt (Oder), Klinikum</name><desc>bench=yes
+bin=yes
+name=Frankfurt (Oder), Klinikum
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+wikidata=Q109562260
+id=node/1705128136</desc></wpt><wpt lat="52.3112187" lon="14.4890232"><name>Frankfurt (Oder), Markendorf Siedlung</name><desc>name=Frankfurt (Oder), Markendorf Siedlung
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109562257
+id=node/1705128138</desc></wpt><wpt lat="52.2976899" lon="14.4729294"><name>Frankfurt (Oder), Fuchsweg</name><desc>bench=no
+bin=yes
+name=Frankfurt (Oder), Fuchsweg
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tram=yes
+wheelchair=yes
+wikidata=Q109560794
+id=node/1705141054</desc></wpt><wpt lat="52.293711" lon="14.4693109"><name>Frankfurt (Oder), Markendorf Ort</name><desc>bench=yes
+bin=yes
+name=Frankfurt (Oder), Markendorf Ort
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+wikidata=Q109560722
+id=node/1705141059</desc></wpt><wpt lat="52.3562511" lon="14.5467783"><name>Am Winterhafen</name><desc>name=Am Winterhafen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109567839
+id=node/1705534571</desc></wpt><wpt lat="52.337325" lon="14.5526693"><name>Anger</name><desc>name=Anger
+network=Verkehrsverbund Berlin-Brandenburg
+operator=Stadtverkehrsgesellschaft Frankfurt (Oder)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wikidata=Q109567940
+id=node/1705534582</desc></wpt><wpt lat="52.3387018" lon="14.5457169"><name>Frankfurt (Oder), Bahnhof</name><desc>name=Frankfurt (Oder), Bahnhof
+operator=SVF
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109568087
+id=node/1705534586</desc></wpt><wpt lat="52.3429604" lon="14.5510225"><name>Brunnenplatz</name><desc>name=Brunnenplatz
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1705534591</desc></wpt><wpt lat="52.3366622" lon="14.5425272"><name>Dresdener Platz</name><desc>name=Dresdener Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1705534594</desc></wpt><wpt lat="52.3410806" lon="14.5568048"><name>Frankfurt (Oder), Europa-Universität</name><desc>name=Frankfurt (Oder), Europa-Universität
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1705534605</desc></wpt><wpt lat="52.3471018" lon="14.5154661"><name>Frankfurt (Oder), Gerhart-Hauptmann-Straße</name><desc>name=Frankfurt (Oder), Gerhart-Hauptmann-Straße
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1705534610</desc></wpt><wpt lat="52.3428849" lon="14.5325558"><name>Kantstraße</name><desc>name=Kantstraße
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1705534629</desc></wpt><wpt lat="52.3443145" lon="14.525467"><name>Frankfurt (Oder), Kießlingplatz</name><desc>name=Frankfurt (Oder), Kießlingplatz
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1705534637</desc></wpt><wpt lat="52.3421349" lon="14.5436978"><name>Kleist-Forum</name><desc>name=Kleist-Forum
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1705534649</desc></wpt><wpt lat="52.3630501" lon="14.5409192"><name>Lebuser Vorstadt</name><desc>name=Lebuser Vorstadt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109560866
+id=node/1705534674</desc></wpt><wpt lat="52.3460135" lon="14.5508244"><name>Magistrale</name><desc>name=Magistrale
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1705534675</desc></wpt><wpt lat="52.3602758" lon="14.5433814"><name>Neue Welt</name><desc>name=Neue Welt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109567840
+id=node/1705534690</desc></wpt><wpt lat="52.3417978" lon="14.551395"><name>Oderturm</name><desc>name=Oderturm
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109567972
+id=node/1705534696</desc></wpt><wpt lat="52.3496967" lon="14.5495957"><name>Topfmarkt/Konzerthalle</name><desc>name=Topfmarkt/Konzerthalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109567837
+id=node/1705536110</desc></wpt><wpt lat="52.3474078" lon="14.5052764"><name>Westkreuz</name><desc>name=Westkreuz
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1705536121</desc></wpt><wpt lat="52.3457946" lon="14.5218847"><name>Frankfurt (Oder), Witzlebenstraße</name><desc>name=Frankfurt (Oder), Witzlebenstraße
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1705536122</desc></wpt><wpt lat="52.3419273" lon="14.5480271"><name>Zentrum</name><desc>name=Zentrum
+network=VBB
+operator=SVF
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109567834
+id=node/1705536126</desc></wpt><wpt lat="52.3735087" lon="13.1111327"><name>Abzweig Betriebshof ViP</name><desc>name=Abzweig Betriebshof ViP
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1760009267</desc></wpt><wpt lat="52.4676368" lon="13.6817998"><name>Waldstraße</name><desc>name=Waldstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1821850705</desc></wpt><wpt lat="51.7482289" lon="14.3174226"><name>Friedrich-List-Straße</name><desc>name=Friedrich-List-Straße
+name:hsb=F. Listowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1884144419</desc></wpt><wpt lat="51.7474946" lon="14.3124648"><name>Vetschauer Straße/Leipziger Straße</name><desc>name=Vetschauer Straße/Leipziger Straße
+name:hsb=Wětošojska/Lipsčańska
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1884144621</desc></wpt><wpt lat="51.7281347" lon="14.3266076"><name>Cottbus, Gelsenkirchener Platz</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470326
+name=Cottbus, Gelsenkirchener Platz
+name:hsb=Gelsenkirchenske naměsto
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470326
+tram=yes
+id=node/1886252094</desc></wpt><wpt lat="51.7212653" lon="14.325926"><name>Cottbus, Sachsendorf</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470304
+name=Cottbus, Sachsendorf
+name:hsb=Knorawa
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470304
+tram=yes
+id=node/1886252219</desc></wpt><wpt lat="51.7242298" lon="14.3259992"><name>Schwarzheider Straße</name><desc>name=Schwarzheider Straße
+name:hsb=Carnogozdźańska droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1886252220</desc></wpt><wpt lat="51.7311032" lon="14.3276551"><name>Thierbacher Straße</name><desc>name=Thierbacher Straße
+name:hsb=Thierbachska droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1886252221</desc></wpt><wpt lat="51.737458" lon="14.3360176"><name>Cottbus, Südfriedhof</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470279
+name=Cottbus, Südfriedhof
+name:hsb=Pódpołdnjowy kjarchob
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470279
+tram=yes
+id=node/1886897764</desc></wpt><wpt lat="52.3521321" lon="14.5484877"><name>Klingestraße</name><desc>name=Klingestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q109567838
+id=node/1887011404</desc></wpt><wpt lat="52.3521381" lon="14.5485244"><name>Klingestraße</name><desc>name=Klingestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1887011405</desc></wpt><wpt lat="51.7319552" lon="14.3393519"><name>Cottbus, Ringstraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470408
+name=Cottbus, Ringstraße
+name:hsb=Wokolica
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470408
+tram=yes
+id=node/1889538704</desc></wpt><wpt lat="51.7405522" lon="14.3341995"><name>Cottbus, Sportzentrum</name><desc>gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470265
+name=Cottbus, Sportzentrum
+name:hsb=Sportowy centrum
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470265
+tram=yes
+id=node/1889538725</desc></wpt><wpt lat="51.7293687" lon="14.3408333"><name>Cottbus, Spreestraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470321
+name=Cottbus, Spreestraße
+name:hsb=Sprjewina droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470321
+tram=yes
+id=node/1889538727</desc></wpt><wpt lat="52.5627568" lon="13.8671157"><name>Heinrich-Heine-Straße</name><desc>name=Heinrich-Heine-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q68096295
+wikipedia=de:Strausberger Eisenbahn
+id=node/1962444660</desc></wpt><wpt lat="52.407715" lon="13.0754265"><name>Mangerstraße</name><desc>name=Mangerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2016714619</desc></wpt><wpt lat="52.3733498" lon="13.1011966"><name>Bisamkiez</name><desc>name=Bisamkiez
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2047980868</desc></wpt><wpt lat="51.7473545" lon="14.3287808"><name>Lutherstraße</name><desc>name=Lutherstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2083522092</desc></wpt><wpt lat="51.756973" lon="14.3099156"><name>Ewald-Müller-Straße</name><desc>bus=yes
+highway=bus_stop
+name=Ewald-Müller-Straße
+name:hsb=E. Müllerowa droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573309
+id=node/2141796027</desc></wpt><wpt lat="51.7603706" lon="14.3196942"><name>Ströbitzer Weg</name><desc>bus=yes
+highway=bus_stop
+name=Ströbitzer Weg
+name:hsb=Strobicański puś
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573311
+id=node/2141796050</desc></wpt><wpt lat="51.758826" lon="14.3148496"><name>Waisenstraße</name><desc>bus=yes
+highway=bus_stop
+name=Waisenstraße
+name:hsb=Syrotowa droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573310
+id=node/2141796056</desc></wpt><wpt lat="52.3635709" lon="13.0949834"><name>Am Moosfenn</name><desc>name=Am Moosfenn
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2255903955</desc></wpt><wpt lat="52.3658321" lon="13.0935775"><name>Friedrich-Wolf-Straße</name><desc>name=Friedrich-Wolf-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2255903956</desc></wpt><wpt lat="52.375035" lon="13.1419188"><name>Gaußstraße</name><desc>name=Gaußstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2256012261</desc></wpt><wpt lat="52.37549" lon="13.1286919"><name>Johannes-Kepler-Platz</name><desc>name=Johannes-Kepler-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2256012262</desc></wpt><wpt lat="52.3755718" lon="13.1371773"><name>Max-Born-Straße</name><desc>name=Max-Born-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2256012263</desc></wpt><wpt lat="52.3947793" lon="13.0592664"><name>Alter Markt/Landtag</name><desc>name=Alter Markt/Landtag
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2261350036</desc></wpt><wpt lat="52.3951453" lon="13.0592313"><name>Alter Markt/Landtag</name><desc>name=Alter Markt/Landtag
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2298551699</desc></wpt><wpt lat="52.3934487" lon="13.0845282"><name>Alt Nowawes</name><desc>name=Alt Nowawes
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2357280938</desc></wpt><wpt lat="52.411063" lon="12.5487156"><name>Nicolaiplatz</name><desc>bus=yes
+name=Nicolaiplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2606821029</desc></wpt><wpt lat="52.4733444" lon="13.7522731"><name>Berghof-Weiche</name><desc>name=Berghof-Weiche
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2706073988</desc></wpt><wpt lat="52.4735431" lon="13.7613062"><name>Berghof</name><desc>name=Berghof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2706073999</desc></wpt><wpt lat="52.4737542" lon="13.7135347"><name>Grätzwalde</name><desc>name=Grätzwalde
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/2706074009</desc></wpt><wpt lat="52.4740886" lon="13.7714263"><name>Torellplatz</name><desc>name=Torellplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2706074048</desc></wpt><wpt lat="52.4746968" lon="13.6922707"><name>Rahnsdorfer Straße</name><desc>name=Rahnsdorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3022831712</desc></wpt><wpt lat="52.4069366" lon="12.5668621"><name>Sankt-Annen-Straße</name><desc>bus=yes
+name=Sankt-Annen-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3094839539</desc></wpt><wpt lat="51.7447328" lon="14.331495"><name>Cottbus, Ottilienstraße</name><desc>gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470223
+name=Cottbus, Ottilienstraße
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470223
+tram=yes
+wikidata=Q113573315
+id=node/3201719181</desc></wpt><wpt lat="51.7363602" lon="14.324463"><name>Cottbus, Saarbrücker Straße</name><desc>bus=yes
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470230
+highway=bus_stop
+name=Cottbus, Saarbrücker Straße
+name:hsb=Saarbrückska droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470230
+tram=yes
+wikidata=Q113573337
+id=node/3201957663</desc></wpt><wpt lat="51.7438188" lon="14.3264847"><name>Cottbus, Thiemstraße/Klinikum</name><desc>bus=yes
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470282
+highway=bus_stop
+name=Cottbus, Thiemstraße/Klinikum
+name:hsb=Thiemowa droga/Klinikum
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470282
+tram=yes
+wikidata=Q113573335
+id=node/3201958076</desc></wpt><wpt lat="51.7490795" lon="14.3314724"><name>Cottbus, Stadtring</name><desc>bus=yes
+gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470193
+highway=bus_stop
+name=Cottbus, Stadtring
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+old_name:-2022-12-10=Cottbus, Görlitzer Straße (West)
+operator=Cottbusverkehr
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470193
+tram=yes
+id=node/3202160061</desc></wpt><wpt lat="51.7535424" lon="14.3333154"><name>Cottbus, Marienstraße/Glad House</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470205
+name=Cottbus, Marienstraße/Glad House
+name:hsb=Marijina droga/Glad House
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470205
+tram=yes
+wikidata=Q113573294
+id=node/3202160371</desc></wpt><wpt lat="51.7539002" lon="14.3333854"><name>Cottbus, Marienstraße/Glad House</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470205
+name=Cottbus, Marienstraße/Glad House
+name:hsb=Marijina droga/Glad House
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470205
+tram=yes
+id=node/3202207362</desc></wpt><wpt lat="51.7585184" lon="14.3319197"><name>Cottbus, Stadtpromenade</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470269
+local_ref=B
+name=Cottbus, Stadtpromenade
+name:hsb=Měsćańska promenada, pśistupnišćo B
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470269
+tram=yes
+id=node/3202233164</desc></wpt><wpt lat="51.7612672" lon="14.3292789"><name>Stadthalle/Post</name><desc>local_ref=B
+name=Stadthalle/Post
+name:hsb=Měsćańska hala
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3202368266</desc></wpt><wpt lat="51.7612229" lon="14.3251096"><name>Schillerstraße</name><desc>name=Schillerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3213124661</desc></wpt><wpt lat="51.7612575" lon="14.324905"><name>Schillerstraße</name><desc>name=Schillerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3213124763</desc></wpt><wpt lat="51.7710222" lon="14.3350359"><name>Cottbus, Beuchstraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470117
+name=Cottbus, Beuchstraße
+name:hsb=Beuchowa droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470117
+tram=yes
+wikidata=Q113573289
+id=node/3213270318</desc></wpt><wpt lat="51.762628" lon="14.3453884"><name>Am Doll</name><desc>name=Am Doll
+name:hsb=Pśi dole
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573305
+id=node/3213270755</desc></wpt><wpt lat="51.7649994" lon="14.3325871"><name>Cottbus, Zimmerstraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470303
+name=Cottbus, Zimmerstraße
+name:hsb=Zimmerowa droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470303
+tram=yes
+wikidata=Q113573291
+id=node/3213270760</desc></wpt><wpt lat="51.7739878" lon="14.3352117"><name>Nordfriedhof</name><desc>name=Nordfriedhof
+name:hsb=Pódpołnocny kjarchob
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Cottbusverkehr
+operator:wikidata=Q1136706
+operator:wikipedia=de:Cottbusverkehr
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573288
+id=node/3213271914</desc></wpt><wpt lat="51.7623219" lon="14.3396672"><name>Cottbus, Goethestraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470237
+name=Cottbus, Goethestraße
+name:hsb=Droga Goethego
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+old_name=Cottbus, Sandower Brücke
+old_name:hsb=Žandojski móst
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470237
+tram=yes
+id=node/3213271987</desc></wpt><wpt lat="51.7710226" lon="14.3349894"><name>Cottbus, Beuchstraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470117
+name=Cottbus, Beuchstraße
+name:hsb=Beuchowa droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470117
+tram=yes
+wikidata=Q113573289
+id=node/3213273290</desc></wpt><wpt lat="51.7654169" lon="14.3329237"><name>Cottbus, Zimmerstraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470303
+name=Cottbus, Zimmerstraße
+name:hsb=Zimmerowa droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+operator=Cottbusverkehr GmbH
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470303
+tram=yes
+id=node/3366126094</desc></wpt><wpt lat="51.7583186" lon="14.3278208"><name>August-Bebel-Straße</name><desc>name=August-Bebel-Straße
+name:hsb=A. Bebelowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3366211493</desc></wpt><wpt lat="51.7587033" lon="14.327854"><name>August-Bebel-Straße</name><desc>name=August-Bebel-Straße
+name:hsb=A. Bebelowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573302
+id=node/3366211494</desc></wpt><wpt lat="51.773801" lon="14.3351466"><name>Nordfriedhof</name><desc>name=Nordfriedhof
+name:hsb=Pódpołnocny kjarchob
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Cottbusverkehr
+operator:wikidata=Q1136706
+operator:wikipedia=de:Cottbusverkehr
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573288
+id=node/3366211495</desc></wpt><wpt lat="51.7552194" lon="14.3282018"><name>Cottbus, Stadtmuseum</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470294
+name=Cottbus, Stadtmuseum
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470294
+tram=yes
+id=node/3366212404</desc></wpt><wpt lat="51.7555067" lon="14.3282415"><name>Cottbus, Stadtmuseum</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470294
+name=Cottbus, Stadtmuseum
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470294
+tram=yes
+wikidata=Q113573301
+id=node/3366212405</desc></wpt><wpt lat="51.7615568" lon="14.33097"><name>Cottbus, Stadthalle/Puschkinpromenade</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470268
+local_ref=C
+name=Cottbus, Stadthalle/Puschkinpromenade
+name:hsb=Měsćańska hala
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470268
+tram=yes
+wikidata=Q113573292
+id=node/3366504494</desc></wpt><wpt lat="51.7619189" lon="14.3310665"><name>Cottbus, Stadthalle/Puschkinpromenade</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470268
+local_ref=D
+name=Cottbus, Stadthalle/Puschkinpromenade
+name:hsb=Měsćańska hala
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470268
+tram=yes
+wikidata=Q113573292
+id=node/3366504495</desc></wpt><wpt lat="51.760834" lon="14.3360395"><name>Cottbus, Altmarkt</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470102
+name=Cottbus, Altmarkt
+name:hsb=Stare wiki
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470102
+tram=yes
+wikidata=Q113573303
+id=node/3366507393</desc></wpt><wpt lat="51.7608621" lon="14.3358369"><name>Cottbus, Altmarkt</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470102
+name=Cottbus, Altmarkt
+name:hsb=Stare wiki
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470102
+tram=yes
+id=node/3366507493</desc></wpt><wpt lat="51.7674937" lon="14.3344623"><name>Cottbus, Bonnaskenplatz</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470119
+name=Cottbus, Bonnaskenplatz
+name:hsb=Bonarske naměsto
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470119
+tram=yes
+id=node/3366507494</desc></wpt><wpt lat="51.7677219" lon="14.3346757"><name>Cottbus, Bonnaskenplatz</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470119
+name=Cottbus, Bonnaskenplatz
+name:hsb=Bonarske naměsto
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470119
+tram=yes
+wikidata=Q113573290
+id=node/3366507593</desc></wpt><wpt lat="51.7408027" lon="14.3243996"><name>Hufelandstraße</name><desc>name=Hufelandstraße
+name:hsb=Hufelandowa droga
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573336
+id=node/3366507693</desc></wpt><wpt lat="51.7622872" lon="14.3397294"><name>Cottbus, Goethestraße</name><desc>gtfs:feed=DE-BE-VBB
+gtfs:release_date=2022-06-03
+gtfs:stop_id=de:12052:900470237
+name=Cottbus, Goethestraße
+name:hsb=Droga Goethego
+network=Verkehrsverbund Berlin-Brandenburg
+network:guid=DE-BE-VBB
+network:short=VBB
+network:wikidata=Q315451
+network:wikipedia=de:Verkehrsverbund Berlin-Brandenburg
+old_name=Cottbus, Sandower Brücke
+old_name:hsb=Žandojski móst
+operator=Cottbusverkehr
+public_transport=stop_position
+railway=tram_stop
+ref:IFOPT=de:12052:900470237
+tram=yes
+id=node/3366507894</desc></wpt><wpt lat="51.7611495" lon="14.3301561"><name>Stadthalle/Post</name><desc>local_ref=A
+name=Stadthalle/Post
+name:hsb=Měsćańska hala
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3366507895</desc></wpt><wpt lat="52.3909268" lon="13.0663907"><name>S Potsdam Hauptbahnhof</name><desc>local_ref=1
+name=S Potsdam Hauptbahnhof
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+ref=1
+tram=yes
+id=node/3816936618</desc></wpt><wpt lat="52.3984463" lon="13.047011"><name>Luisenplatz-Süd/Park Sanssouci</name><desc>name=Luisenplatz-Süd/Park Sanssouci
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3829594188</desc></wpt><wpt lat="52.3985874" lon="13.0477608"><name>Luisenplatz-Süd/Park Sanssouci</name><desc>name=Luisenplatz-Süd/Park Sanssouci
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3829594189</desc></wpt><wpt lat="51.7888514" lon="14.3316811"><name>Betriebshof Schmellwitz</name><desc>bus=yes
+highway=bus_stop
+name=Betriebshof Schmellwitz
+name:hsb=Zawodny dwór Chmjelow
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3910321052</desc></wpt><wpt lat="52.4541282" lon="13.7396344"><name>Berliner Platz</name><desc>name=Berliner Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3986104459</desc></wpt><wpt lat="52.4542832" lon="13.7385887"><name>Berliner Platz</name><desc>name=Berliner Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3986104460</desc></wpt><wpt lat="52.443332" lon="13.7639998"><name>Woltersdorf, Schleuse</name><desc>name=Woltersdorf, Schleuse
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q66977223
+id=node/3986104463</desc></wpt><wpt lat="52.4685122" lon="13.7928238"><name>Breitscheidstraße</name><desc>name=Breitscheidstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3986514158</desc></wpt><wpt lat="52.4717288" lon="13.7813575"><name>Marktplatz</name><desc>name=Marktplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3986514161</desc></wpt><wpt lat="52.4707861" lon="13.6883319"><name>Goethepark</name><desc>name=Goethepark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3986514164</desc></wpt><wpt lat="52.470862" lon="13.6885591"><name>Goethepark</name><desc>name=Goethepark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wheelchair:description=Achtung: Generell in Schöneiche viele Kopfsteinpflasterstraßen, Schlaglöcher und unbefestigte Gehwege.
+id=node/3986514165</desc></wpt><wpt lat="52.4726824" lon="13.7305145"><name>Jägerstraße</name><desc>name=Jägerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3986514168</desc></wpt><wpt lat="52.4748298" lon="13.6924057"><name>Rahnsdorfer Straße</name><desc>name=Rahnsdorfer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3986514169</desc></wpt><wpt lat="52.476835" lon="13.7094042"><name>Schillerstraße</name><desc>name=Schillerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3986514170</desc></wpt><wpt lat="52.55593" lon="13.865515"><name>Hegermühle</name><desc>name=Hegermühle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q68096431
+wikipedia=de:Strausberger Eisenbahn
+id=node/3988126582</desc></wpt><wpt lat="52.4006321" lon="13.0577771"><name>Brandenburger Straße</name><desc>name=Brandenburger Straße
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/4073068921</desc></wpt><wpt lat="52.4009287" lon="13.0577435"><name>Brandenburger Straße</name><desc>name=Brandenburger Straße
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/4073068922</desc></wpt><wpt lat="52.4119175" lon="13.0591654"><name>Puschkinallee</name><desc>name=Puschkinallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4087857522</desc></wpt><wpt lat="52.405456" lon="13.0581413"><name>Rathaus</name><desc>name=Rathaus
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4089867620</desc></wpt><wpt lat="51.7783831" lon="14.3353912"><name>Am Nordrand</name><desc>bench=yes
+covered=no
+description=No platform. Trams have to be un-/boarded at street level.
+name=Am Nordrand
+name:hsb=Na połnocnej kšomje
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573287
+id=node/4097202155</desc></wpt><wpt lat="52.4028209" lon="13.0578542"><name>Nauener Tor</name><desc>name=Nauener Tor
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/4100164858</desc></wpt><wpt lat="52.4029996" lon="13.0579146"><name>Nauener Tor</name><desc>name=Nauener Tor
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/4100164860</desc></wpt><wpt lat="52.3932339" lon="13.0366232"><name>Bahnhof Charlottenhof</name><desc>name=Bahnhof Charlottenhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4374164299</desc></wpt><wpt lat="52.4054255" lon="12.5578107"><name>Jacobstraße</name><desc>name=Jacobstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4828485548</desc></wpt><wpt lat="52.406708" lon="12.5596629"><name>Steinstraße/Kino</name><desc>name=Steinstraße/Kino
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/4828485550</desc></wpt><wpt lat="52.4093324" lon="12.5483753"><name>Luckenberger Straße</name><desc>name=Luckenberger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4828485556</desc></wpt><wpt lat="52.4110465" lon="12.5487115"><name>Nicolaiplatz</name><desc>name=Nicolaiplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4828722839</desc></wpt><wpt lat="52.4122718" lon="12.5390562"><name>Technische Hochschule/THB</name><desc>description=für Fahrten in westlicher Richtung
+name=Technische Hochschule/THB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/4828722840</desc></wpt><wpt lat="52.412252" lon="12.5389753"><name>Technische Hochschule/THB</name><desc>description=nur für Fahrten in Richtung Nicolaiplatz, d.h. stadteinwärts
+name=Technische Hochschule/THB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4828722841</desc></wpt><wpt lat="52.4122442" lon="12.5391165"><name>Technische Hochschule/THB</name><desc>name=Technische Hochschule/THB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/4828722842</desc></wpt><wpt lat="52.4120079" lon="12.5438521"><name>Magdeburger Straße/OLG</name><desc>name=Magdeburger Straße/OLG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4828722855</desc></wpt><wpt lat="52.4110278" lon="12.5576209"><name>Jahrtausendbrücke</name><desc>name=Jahrtausendbrücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/4829017439</desc></wpt><wpt lat="52.4099839" lon="12.5600836"><name>Hauptstraße</name><desc>name=Hauptstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/4829017440</desc></wpt><wpt lat="52.4127647" lon="12.5534941"><name>Ritterstraße/Museum</name><desc>name=Ritterstraße/Museum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/4829017441</desc></wpt><wpt lat="52.4081841" lon="12.5620499"><name>Neustädtischer Markt</name><desc>name=Neustädtischer Markt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/4829017446</desc></wpt><wpt lat="52.4069567" lon="12.551092"><name>Kanalstraße</name><desc>name=Kanalstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4829017448</desc></wpt><wpt lat="52.401648" lon="12.5660363"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+ref=3
+tram=yes
+id=node/4829017452</desc></wpt><wpt lat="52.401708" lon="12.5659667"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+public_transport=stop_position
+railway=tram_stop
+ref=1
+tram=yes
+id=node/4829017453</desc></wpt><wpt lat="52.4101191" lon="12.5597735"><name>Hauptstraße</name><desc>name=Hauptstraße
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+operator=Verkehrsbetriebe Brandenburg GmbH
+operator:short=VBBr
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4829017493</desc></wpt><wpt lat="52.4110403" lon="12.5575237"><name>Jahrtausendbrücke</name><desc>name=Jahrtausendbrücke
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/4829017499</desc></wpt><wpt lat="52.347295" lon="14.4985788"><name>Messegelände</name><desc>name=Messegelände
+network=VBB
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5247794851</desc></wpt><wpt lat="52.3411943" lon="14.554937"><name>Gartenstraße</name><desc>name=Gartenstraße
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wikidata=Q109567980
+id=node/5247794852</desc></wpt><wpt lat="52.3480222" lon="14.5104071"><name>Immenweg</name><desc>name=Immenweg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/5247828563</desc></wpt><wpt lat="52.3459358" lon="14.5212751"><name>Frankfurt (Oder), Witzlebenstraße</name><desc>name=Frankfurt (Oder), Witzlebenstraße
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF (Stadtverkehrsgesellschaft mbH Ffo.)
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109564384
+id=node/5247828564</desc></wpt><wpt lat="52.3428901" lon="14.5394138"><name>Kleistpark</name><desc>name=Kleistpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109564387
+id=node/5247828566</desc></wpt><wpt lat="52.3428529" lon="14.5385129"><name>Kleistpark</name><desc>name=Kleistpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5247828567</desc></wpt><wpt lat="52.4318526" lon="13.0548499"><name>Campus Jungfernsee</name><desc>name=Campus Jungfernsee
+note=entry only
+public_transport=stop_position
+railway=tram_stop
+start_date=2017-12-09
+tram=yes
+id=node/5274083835</desc></wpt><wpt lat="52.4324879" lon="13.0545937"><name>Campus Jungfernsee</name><desc>name=Campus Jungfernsee
+note=exit only
+public_transport=stop_position
+railway=tram_stop
+start_date=2017-12-09
+tram=yes
+id=node/5274083836</desc></wpt><wpt lat="52.384361" lon="13.0220337"><name>Im Bogen/Zeppelinstraße</name><desc>name=Im Bogen/Zeppelinstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5274403188</desc></wpt><wpt lat="52.3846189" lon="13.0224679"><name>Im Bogen/Zeppelinstraße</name><desc>name=Im Bogen/Zeppelinstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/5274403189</desc></wpt><wpt lat="52.4227221" lon="13.0506001"><name>Erich-Arendt-Straße</name><desc>name=Erich-Arendt-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5275063197</desc></wpt><wpt lat="52.4223669" lon="13.0505428"><name>Erich-Arendt-Straße</name><desc>name=Erich-Arendt-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/5275063198</desc></wpt><wpt lat="52.4249585" lon="13.0536135"><name>Rote Kaserne</name><desc>name=Rote Kaserne
+public_transport=stop_position
+railway=tram_stop
+start_date=2017-12-09
+tram=yes
+id=node/5721020191</desc></wpt><wpt lat="52.4249228" lon="13.0536159"><name>Rote Kaserne</name><desc>name=Rote Kaserne
+public_transport=stop_position
+railway=tram_stop
+start_date=2017-12-09
+tram=yes
+id=node/5721020192</desc></wpt><wpt lat="52.3394176" lon="14.5518341"><name>Gertraudenkirche</name><desc>name=Gertraudenkirche
+network=VBB
+operator=SVF
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109567938
+id=node/5822661694</desc></wpt><wpt lat="52.3395172" lon="14.5517805"><name>Gertraudenkirche</name><desc>name=Gertraudenkirche
+network=VBB
+operator=SVF
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109567938
+id=node/5822661695</desc></wpt><wpt lat="51.7500456" lon="14.326585"><name>Cottbus, Hauptbahnhof</name><desc>local_ref=A
+name=Cottbus, Hauptbahnhof
+name:dsb=Głowne dwórnišćo
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/6904008246</desc></wpt><wpt lat="51.7500512" lon="14.3274511"><name>Cottbus, Hauptbahnhof</name><desc>local_ref=B
+name=Cottbus, Hauptbahnhof
+name:dsb=Głowne dwórnišćo
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q113573297
+id=node/6904008247</desc></wpt><wpt lat="52.3339723" lon="14.5547054"><name>Frankfurt (Oder), Stadion</name><desc>name=Frankfurt (Oder), Stadion
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109558740
+id=node/7071737643</desc></wpt><wpt lat="52.3339449" lon="14.5547654"><name>Frankfurt (Oder), Stadion</name><desc>name=Frankfurt (Oder), Stadion
+network=Verkehrsverbund Berlin-Brandenburg
+operator=SVF
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q109558740
+id=node/7071737657</desc></wpt><wpt lat="51.7494061" lon="14.3326298"><name>Görlitzer Straße</name><desc>bus=yes
+highway=bus_stop
+name=Görlitzer Straße
+name:hsb=Zgorjelska droga
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+old_name:-2022-12-10=Cottbus, Görlitzer Straße (Nord)
+operator=Cottbusverkehr
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7566668816</desc></wpt><wpt lat="52.4054354" lon="12.5537543"><name>Bauhofstraße</name><desc>name=Bauhofstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7875139943</desc></wpt><wpt lat="52.4054782" lon="12.5537375"><name>Bauhofstraße</name><desc>name=Bauhofstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7875139945</desc></wpt><wpt lat="52.390378" lon="13.0659347"><name>S Potsdam Hauptbahnhof/Friedrich-Engels-Straße</name><desc>name=S Potsdam Hauptbahnhof/Friedrich-Engels-Straße
+network=Verkehrsverbund Berlin-Brandenburg
+network:short=VBB
+network:wikidata=Q315451
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/9802947785</desc></wpt><wpt lat="52.4228967" lon="13.0504515"><name>Erich-Arendt-Straße</name><desc>name=Erich-Arendt-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/10799785703</desc></wpt><wpt lat="52.4229113" lon="13.0506957"><name>Erich-Arendt-Straße</name><desc>name=Erich-Arendt-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/10799785704</desc></wpt><wpt lat="52.4205616" lon="12.4584677"><name>Am Fliegerhorst</name><desc>name=Am Fliegerhorst
+operator=VBBr
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11469196502</desc></wpt><wpt lat="52.4202084" lon="12.4575775"><name>Am Fliegerhorst</name><desc>name=Am Fliegerhorst
+operator=VBBr
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11469196503</desc></wpt><wpt lat="52.5404877" lon="13.8478951"><name>Märchenwald</name><desc>image=https://w.wiki/ApkZ
+name=Märchenwald
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q125102875
+wikimedia_commons=Category: Märchenwald (tram stop)
+wikipedia=de: Strausberger Eisenbahn
+id=node/11789279066</desc></wpt><wpt lat="52.4149464" lon="13.0458971"><name>Wiesenpark</name><desc>name=Wiesenpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11836618700</desc></wpt><wpt lat="52.4149712" lon="13.045908"><name>Wiesenpark</name><desc>name=Wiesenpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11836618701</desc></wpt><trk><name>Hans-Albers-Straße</name><desc>bench=yes
+bin=yes
+lit=yes
+name=Hans-Albers-Straße
+passenger_information_display=yes
+public_transport=platform
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+wikimedia_commons=File:20230729 xl 1558-Hans-Albers-Str..jpg
+id=way/104869244</desc><trkseg><trkpt lat="52.3689772" lon="13.1395908"/><trkpt lat="52.3693837" lon="13.1402417"/></trkseg></trk></gpx>
