@@ -1,0 +1,536 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="50.6665294" lon="11.094084"><name>Waldhaus</name><desc>amenity=nightclub
+name=Waldhaus
+wheelchair=no
+id=node/73783136</desc></wpt><wpt lat="50.9819678" lon="11.0355283"><name>Museumskeller</name><desc>amenity=nightclub
+check_date=2025-06-30
+check_date:smoking=2025-06-30
+name=Museumskeller
+smoking=no
+website=https://hsd-erfurt.de/
+wheelchair=no
+id=node/393669181</desc></wpt><wpt lat="50.8469053" lon="10.1223788"><name>Canyon</name><desc>amenity=nightclub
+name=Canyon
+wheelchair=no
+id=node/440666211</desc></wpt><wpt lat="50.9786768" lon="10.3428442"><name>Bühne Schlachthof Eisenach</name><desc>addr:city=Eisenach
+addr:country=DE
+addr:housename=Alter Schlachthof
+addr:housenumber=43
+addr:postcode=99817
+addr:street=Langensalzaer Straße
+alt_name=BSE
+amenity=nightclub
+name=Bühne Schlachthof Eisenach
+operator=Bühne Schlachthof Eisenach e.V.
+short_name=BSE
+website=http://www.schlachthof-eisenach.de
+id=node/527940160</desc></wpt><wpt lat="50.7315268" lon="11.7445126"><name>Wotufa-Saal</name><desc>addr:city=Neustadt an der Orla
+addr:country=DE
+addr:housenumber=6
+addr:postcode=07806
+addr:street=Ziegenrücker Straße
+alt_name=Wotufa
+amenity=nightclub
+fax=+49 (0)3663 404011
+name=Wotufa-Saal
+phone=+49 (0)171 7457815
+website=http://www.wotufa.de
+wheelchair=no
+id=node/597374695</desc></wpt><wpt lat="50.9297289" lon="11.5831415"><name>med-club Jena e.V.</name><desc>addr:city=Jena
+addr:country=DE
+addr:housenumber=20
+addr:postcode=07743
+addr:street=Johannisplatz
+amenity=nightclub
+check_date:opening_hours=2023-10-25
+name=med-club Jena e.V.
+opening_hours=Fr,Sa 19:00+
+wheelchair=no
+id=node/621212992</desc></wpt><wpt lat="50.9293485" lon="11.5848647"><name>Rosenkeller</name><desc>addr:city=Jena
+addr:housenumber=14
+addr:postcode=07743
+addr:street=Johannisstraße
+amenity=nightclub
+check_date=2023-05-27
+contact:website=https://rosenkeller.org
+drink:club-mate=served
+name=Rosenkeller
+opening_hours=Mo-Fr 11:00-22:00
+smoking=outside
+wheelchair=no
+id=node/911666034</desc></wpt><wpt lat="50.9715818" lon="11.0245997"><name>Presseklub</name><desc>addr:city=Erfurt
+addr:housenumber=1
+addr:postcode=99084
+addr:street=Dalbergsweg
+amenity=nightclub
+check_date=2025-06-30
+check_date:smoking=2025-06-30
+email=kontakt@presseklub.net
+entrance=main
+fax=+49 361 7894566
+name=Presseklub
+phone=+49 361 7894565
+smoking=no
+website=https://www.presseklub.net/
+wheelchair=no
+id=node/914810526</desc></wpt><wpt lat="50.6808647" lon="10.9332801"><name>bc-Studentenclub</name><desc>alt_name=bc-Club
+amenity=nightclub
+contact:website=http://www.bc-club.de
+drink:club-mate=retail
+entrance=yes
+name=bc-Studentenclub
+opening_hours=We,Sa 21:00-24:00; Th,Su 00:00-01:00, Fr 22:00-24:00, Sa 00:00-03:00
+opening_hours:covid19=closed
+operator=Ilmenauer Studentenclub e.V.
+smoking=no
+toilets:wheelchair=no
+wheelchair=limited
+wikidata=Q1658982
+wikipedia=de:Ilmenauer Studentenclub
+id=node/1388207634</desc></wpt><wpt lat="50.6826129" lon="10.9314787"><name>bi-Club</name><desc>amenity=nightclub
+contact:website=http://www.bi-club.de/
+entrance=yes
+name=bi-Club
+opening_hours="Programm siehe bi-club.de"
+operator=Ilmenauer Studentenclub e.V.
+smoking=no
+wheelchair=limited
+wikidata=Q1658982
+wikipedia=de:Ilmenauer Studentenclub
+id=node/1388207653</desc></wpt><wpt lat="50.9771121" lon="11.0347915"><name>Cosmopolar</name><desc>amenity=nightclub
+indoor_seating=yes
+name=Cosmopolar
+outdoor_seating=no
+smoking=no
+website=https://cosmopolar.com/
+wheelchair=no
+id=node/1925113878</desc></wpt><wpt lat="50.8821348" lon="12.3494402"><name>Eventhaus Schmölln</name><desc>amenity=nightclub
+name=Eventhaus Schmölln
+website=http://www.sax-clubzone.com/schmoelln/
+wheelchair=yes
+wifi=no
+id=node/2131068880</desc></wpt><wpt lat="50.9827006" lon="11.0349098"><name>HsD</name><desc>amenity=nightclub
+check_date=2025-06-30
+check_date:smoking=2025-06-30
+email=info@museumskeller.de
+name=HsD
+name:de=Haus der sozialen Dienste
+phone=+49 361 5624994
+smoking=no
+website=https://hsd-erfurt.de/
+wheelchair=yes
+id=node/2142326210</desc></wpt><wpt lat="50.6808142" lon="10.933965"><name>BD Club</name><desc>addr:city=Ilmenau
+addr:housenumber=18
+addr:postcode=98693
+addr:street=Max-Planck-Ring
+alt_name=BD Studentenclub
+amenity=nightclub
+contact:phone=+49 3677 69-1934
+contact:website=http://www.bd-club.de/
+drink:club-mate=retail
+level=-1
+name=BD Club
+opening_hours=Tu,Th 21:00-03:00, Sa 22:00-03:00
+operator=Ilmenauer Studentenclub e.V.
+smoking=no
+wheelchair=no
+wifi=no
+wikidata=Q1658982
+wikipedia=de:Ilmenauer Studentenclub
+id=node/2691068713</desc></wpt><wpt lat="50.6604891" lon="10.100576"><name>node/2759639117</name><desc>amenity=nightclub
+toilets:wheelchair=no
+wheelchair=no
+id=node/2759639117</desc></wpt><wpt lat="50.9764522" lon="11.0292856"><name>Predigerkeller</name><desc>addr:city=Erfurt
+addr:housenumber=1
+addr:postcode=99084
+addr:street=Meister-Eckehart-Straße
+amenity=nightclub
+name=Predigerkeller
+smoking=outside
+wheelchair=no
+id=node/2900798612</desc></wpt><wpt lat="50.9734203" lon="11.0378182"><name>Musikpark</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=1
+addr:postcode=99084
+addr:street=Willy-Brandt-Platz
+amenity=nightclub
+check_date=2025-06-30
+check_date:opening_hours=2022-11-16
+check_date:smoking=2025-06-30
+name=Musikpark
+opening_hours=Fr-Sa,Ph 23:00-05:00
+smoking=no
+website=https://musikparkerfurt.de
+id=node/3125004604</desc></wpt><wpt lat="50.9862816" lon="11.8999808"><name>AMBASSADOR</name><desc>amenity=nightclub
+name=AMBASSADOR
+id=node/3335096111</desc></wpt><wpt lat="50.8713677" lon="12.0750802"><name>Music Hall Gera</name><desc>amenity=nightclub
+name=Music Hall Gera
+id=node/3448821567</desc></wpt><wpt lat="50.979067" lon="11.0324725"><name>Club Palais</name><desc>addr:city=Erfurt
+addr:housenumber=13
+addr:postcode=99084
+addr:street=Futterstraße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/clubpalais13/
+name=Club Palais
+smoking=no
+id=node/3500755094</desc></wpt><wpt lat="50.9884359" lon="11.3288379"><name>Beatclub</name><desc>addr:city=Weimar
+addr:housenumber=42
+addr:street=Carl-von-Ossietzky-Straße
+amenity=nightclub
+name=Beatclub
+toilets:wheelchair=no
+website=http://www.beatclub-weimar.de/
+wheelchair=no
+id=node/3711936139</desc></wpt><wpt lat="50.6826284" lon="10.9323948"><name>BH-Club</name><desc>amenity=nightclub
+contact:website=http://www.bh-club.de/
+entrance=yes
+lgbtq=welcome
+name=BH-Club
+opening_hours=Tu,Th 21:00-02:00, Sa 22:00-03:00
+opening_hours:covid19=off
+operator=Ilmenauer Studentenclub e.V.
+smoking=no
+toilets:wheelchair=no
+wheelchair=limited
+wikidata=Q1658982
+wikipedia=de:Ilmenauer Studentenclub
+id=node/3781905657</desc></wpt><wpt lat="50.6842958" lon="10.9189848"><name>Schneider Cordula Spielautomaten</name><desc>addr:city=Ilmenau
+addr:housenumber=13
+addr:postcode=98693
+addr:street=Paul-Löbe-Straße
+amenity=nightclub
+name=Schneider Cordula Spielautomaten
+opening_hours=Mo-Sa 09:00-01:00, Su,PH 10:00-01:00
+operator=Cordula Schneider
+id=node/3781954241</desc></wpt><wpt lat="50.9294809" lon="11.5823232"><name>F-Haus</name><desc>addr:city=Jena
+addr:housenumber=14
+addr:postcode=07743
+addr:street=Johannisplatz
+amenity=nightclub
+drink:club-mate=yes
+name=F-Haus
+opening_hours="Nach Veranstaltungskalender"
+toilets:wheelchair=yes
+wheelchair=limited
+id=node/3808199179</desc></wpt><wpt lat="50.9745832" lon="11.0485309"><name>Kalif Storch</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=20
+addr:postcode=99085
+addr:street=Zum Güterbahnhof
+amenity=nightclub
+contact:facebook=https://www.facebook.com/kalifstorcherfurt
+contact:phone=+49 361 4304014
+contact:website=http://kalifstorch.com
+name=Kalif Storch
+operator=Langrock, Faber, Rudovsky GbR
+toilets:wheelchair=no
+wheelchair=no
+id=node/4423406287</desc></wpt><wpt lat="51.5056356" lon="10.7974106"><name>Jugendclubhaus Nordhausen</name><desc>addr:city=Nordhausen
+addr:housenumber=10
+addr:postcode=99734
+addr:street=Käthe-Kollwitz-Straße
+amenity=nightclub
+name=Jugendclubhaus Nordhausen
+toilets:wheelchair=no
+website=http://www.jugendclubhaus.de/#!/jugendclubhaus-willkommen.html
+wheelchair=yes
+id=node/4533658805</desc></wpt><wpt lat="50.7178778" lon="10.8416953"><name>Beat Geraberg</name><desc>addr:city=Geratal
+addr:country=DE
+addr:housenumber=33
+addr:postcode=99331
+addr:street=Ohrdrufer Straße
+addr:suburb=Geraberg
+amenity=nightclub
+contact:phone=+49 171 786 2550
+name=Beat Geraberg
+opening_hours=Fr 22:00+
+operator=Mario Tode
+wheelchair=no
+id=node/4543222793</desc></wpt><wpt lat="50.8790555" lon="12.0782611"><name>Qui</name><desc>amenity=nightclub
+name=Qui
+id=node/4900617644</desc></wpt><wpt lat="50.8788099" lon="12.0825493"><name>Kaiserwerke</name><desc>addr:city=Gera
+addr:housenumber=4
+addr:postcode=07545
+addr:street=Rudolf-Diener-Straße
+amenity=nightclub
+name=Kaiserwerke
+id=node/4900641875</desc></wpt><wpt lat="50.883505" lon="12.0779947"><name>Seven Gera</name><desc>addr:city=Gera
+addr:country=DE
+addr:housenumber=6
+addr:postcode=07545
+addr:street=Bahnhofsplatz
+amenity=nightclub
+contact:facebook=https://www.facebook.com/sevengera/
+contact:phone=+49 365 83508751
+contact:website=http://www.seven-gera.de/
+name=Seven Gera
+phone=+49 365 25762400
+id=node/4933507037</desc></wpt><wpt lat="50.8831453" lon="11.597415"><name>M-Pire</name><desc>addr:city=Jena
+addr:housenumber=18
+addr:postcode=07745
+addr:street=Prüssingstraße
+amenity=nightclub
+name=M-Pire
+opening_hours="eventabhängig. siehe web"
+toilets:wheelchair=no
+wheelchair=limited
+id=node/5180039599</desc></wpt><wpt lat="51.113519" lon="10.9471946"><name>Heizhaus Club</name><desc>addr:city=Gebesee
+addr:country=DE
+addr:housenumber=1
+addr:postcode=99189
+addr:street=Flur
+alt_name=Klangkino
+amenity=nightclub
+contact:facebook=https://www.facebook.com/heizhausclub;https://www.facebook.com/klangkino
+contact:phone=+49 36201 62006
+contact:ra=https://de.ra.co/clubs/20348;https://de.ra.co/clubs/48006
+contact:website=https://www.heizhaus-club.de;http://www.klangkino.com
+name=Heizhaus Club
+opening_hours="Veranstaltungsabhängig"
+wheelchair=no
+id=node/5409969540</desc></wpt><wpt lat="50.938948" lon="11.5970384"><name>Mikro Club</name><desc>addr:city=Jena
+addr:country=DE
+addr:housenumber=40
+addr:postcode=07749
+addr:street=Löbstedter Straße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/mikroclub
+contact:instagram=https://www.instagram.com/mikro_club
+contact:phone=+49 3641 5646569
+contact:ra=https://ra.co/clubs/71952
+level=-1
+name=Mikro Club
+operator=CLF Projekt- und Eventmanagement GmbH
+id=node/5562181042</desc></wpt><wpt lat="50.9209273" lon="11.5778812"><name>Kassablanca</name><desc>addr:city=Jena
+addr:country=DE
+addr:housenumber=13a
+addr:postcode=07745
+addr:street=Felsenkellerstraße
+amenity=nightclub
+check_date=2023-07-24
+contact:facebook=https://www.facebook.com/kassablancajena/events
+contact:instagram=https://www.instagram.com/kassablancajena
+contact:phone=+49 3641 28260
+contact:ra=https://ra.co/clubs/19046
+contact:website=https://www.kassablanca.de
+drink:club-mate=yes
+loc_name=Kassa
+name=Kassablanca
+operator=Kassablanca Gleis 1 e.V.
+start_date=1997-04
+toilets:wheelchair=yes
+wheelchair=yes
+id=node/6341236311</desc></wpt><wpt lat="50.7313113" lon="11.9013557"><name>Bassin</name><desc>addr:city=Triptis
+addr:postcode=07819
+addr:street=Braunsdorfer Straße
+amenity=nightclub
+name=Bassin
+was:contact:facebook=https://de-de.facebook.com/Bassin-Club-549759875061460/events
+id=node/6379022058</desc></wpt><wpt lat="51.0429103" lon="11.5139824"><name>Klubhaus</name><desc>amenity=nightclub
+name=Klubhaus
+operator=Andre Wiesinger
+website=http://www.klubhaus-apolda.de/
+id=node/6807550698</desc></wpt><wpt lat="50.9790468" lon="11.070896"><name>CENTRAL ERFURT</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=8-10
+addr:postcode=99085
+addr:street=Am Wasserturm
+amenity=nightclub
+contact:email=info@centralerfurt.de
+contact:facebook=https://www.facebook.com/centralcluberfurt/
+contact:website=https://centralerfurt.de/
+name=CENTRAL ERFURT
+operator=C.C. Centrum GmbH
+id=node/7321810030</desc></wpt><wpt lat="50.9771964" lon="12.4738143"><name>Alwo Club</name><desc>addr:city=Nobitz
+addr:country=DE
+addr:housenumber=30
+addr:postcode=04603
+addr:street=Werksiedlung
+addr:suburb=Kotteritz
+amenity=nightclub
+contact:email=info@matzke-gastro.de
+contact:facebook=https://www.facebook.com/alwoclub/
+contact:fax=+49 3447 51509949
+contact:instagram=https://www.instagram.com/alwoclub/
+contact:phone=+49 3447 51509940
+contact:website=https://www.alwo-club.de/
+name=Alwo Club
+operator=Matzke GmbH &amp; Co. KG
+id=node/7700378294</desc></wpt><wpt lat="50.9842538" lon="11.3037982"><name>Gaswerk</name><desc>amenity=nightclub
+name=Gaswerk
+opening_hours="Kulturzentrum mit unterschiedlichen Veranstaltungsangeboten"
+id=node/8302553575</desc></wpt><wpt lat="50.9034718" lon="12.3637256"><name>STAK reloaded</name><desc>addr:city=Schmölln
+addr:country=DE
+addr:housenumber=5
+addr:postcode=04626
+addr:street=An der Sprotte
+amenity=nightclub
+name=STAK reloaded
+website=https://stak-reloaded.de/
+id=node/8423891103</desc></wpt><wpt lat="50.7192296" lon="11.3482914"><name>Saalgärten</name><desc>addr:city=Rudolstadt
+addr:country=DE
+addr:housenumber=1b
+addr:postcode=07407
+addr:street=Saalgärten
+amenity=nightclub
+contact:facebook=https://www.facebook.com/saalgaerten.rudolstadt
+contact:phone=+49 3672 486450
+contact:website=https://www.saalgaerten.de
+name=Saalgärten
+operator=Stadt Rudolstadt - Soziokulturelles Zentrum Saalgärten
+id=node/9454938990</desc></wpt><wpt lat="50.6597382" lon="11.3812264"><name>Panorama Box</name><desc>addr:city=Saalfeld/Saale
+addr:country=DE
+addr:housenumber=21
+addr:postcode=07318
+addr:street=Paul-Auerbach-Straße
+amenity=nightclub
+contact:facebook=https://www.facebook.com/Panorama.Deep/events
+contact:ra=https://ra.co/clubs/129111
+name=Panorama Box
+operator=Panorama Deep e.V.
+id=node/11088903497</desc></wpt><wpt lat="51.3778418" lon="10.8552859"><name>STOCKSEN 2.0</name><desc>amenity=nightclub
+name=STOCKSEN 2.0
+old_name=Klubhaus Stock'sen
+phone=+49 3632 602685
+id=node/11202203277</desc></wpt><wpt lat="50.9819008" lon="11.0353644"><name>Jazzkeller</name><desc>amenity=nightclub
+check_date=2025-06-30
+check_date:smoking=2025-06-30
+music=jazz
+name=Jazzkeller
+smoking=no
+website=https://www.jazzclub-erfurt.de/
+id=node/11248609901</desc></wpt><wpt lat="50.9252754" lon="11.5790959"><name>MVZ Wagner</name><desc>addr:city=Jena
+addr:housenumber=2a
+addr:postcode=07745
+addr:street=Kochstraße
+alt_name=MusikalischesVersorgungsZentrum Wagner
+amenity=nightclub
+contact:email=info@cafewagner.de
+contact:facebook=https://www.facebook.com/cafewagner
+contact:instagram=https://www.instagram.com/cafewagnerjena
+contact:phone=+49 3641 472153
+contact:ra=https://ra.co/clubs/225229
+contact:website=https://cafewagner.de
+name=MVZ Wagner
+operator=Wagner e.V.
+id=node/12264842001</desc></wpt><wpt lat="50.9875035" lon="11.0277338"><name>OX's Vereinsheim des Thüringer Lederclub e.V. TLC</name><desc>addr:housenumber=6
+addr:postcode=99086
+addr:street=Magdeburger Allee
+amenity=nightclub
+name=OX's Vereinsheim des Thüringer Lederclub e.V. TLC
+smoking=no
+website=https://www.tlc-erfurt.de/
+id=node/12833085801</desc></wpt><trk><name>Time Club</name><desc>addr:city=Bad Blankenburg
+addr:housenumber=240
+addr:postcode=07422
+addr:street=Dittersdorfer Weg
+amenity=nightclub
+building=yes
+building:colour=white
+contact:facebook=https://de-de.facebook.com/TimeClub.Official/
+name=Time Club
+roof:colour=red
+wheelchair=no
+id=way/35848306</desc><trkseg><trkpt lat="50.6736013" lon="11.267282"/><trkpt lat="50.6735411" lon="11.2673581"/><trkpt lat="50.6735252" lon="11.2673782"/><trkpt lat="50.6735093" lon="11.2673983"/><trkpt lat="50.6734548" lon="11.2674671"/><trkpt lat="50.6736126" lon="11.2677778"/><trkpt lat="50.673759" lon="11.2675927"/><trkpt lat="50.6736148" lon="11.2673087"/><trkpt lat="50.6736013" lon="11.267282"/></trkseg></trk><trk><name>Gollup</name><desc>addr:city=Saalfeld/Saale
+addr:housename=Gollup
+addr:housenumber=4
+addr:postcode=07318
+addr:street=Saalfelder Straße
+addr:suburb=Reichmannsdorf
+amenity=nightclub
+building=yes
+name=Gollup
+url=http://www.gollup.de/
+id=way/46150786</desc><trkseg><trkpt lat="50.544357" lon="11.2492193"/><trkpt lat="50.5441353" lon="11.2493332"/><trkpt lat="50.5441923" lon="11.2496083"/><trkpt lat="50.5442603" lon="11.2495734"/><trkpt lat="50.5442992" lon="11.2497608"/><trkpt lat="50.5444529" lon="11.2496819"/><trkpt lat="50.544357" lon="11.2492193"/></trkseg></trk><trk><name>Lokschuppen</name><desc>amenity=nightclub
+building=yes
+name=Lokschuppen
+id=way/74137796</desc><trkseg><trkpt lat="50.8599174" lon="12.1812013"/><trkpt lat="50.8600254" lon="12.1811221"/><trkpt lat="50.8599333" lon="12.1808071"/><trkpt lat="50.8598254" lon="12.1808862"/><trkpt lat="50.8599174" lon="12.1812013"/></trkseg></trk><trk><name>Salt Club</name><desc>addr:city=Nordhausen
+addr:country=DE
+addr:housenumber=11
+addr:postcode=99734
+addr:street=Salzaquellweg
+amenity=nightclub
+building=yes
+building:levels=1
+name=Salt Club
+wheelchair=no
+id=way/93208378</desc><trkseg><trkpt lat="51.5242881" lon="10.765664"/><trkpt lat="51.5238604" lon="10.7653957"/><trkpt lat="51.5237699" lon="10.765792"/><trkpt lat="51.5240728" lon="10.7659708"/><trkpt lat="51.5240414" lon="10.7661086"/><trkpt lat="51.5241693" lon="10.7661841"/><trkpt lat="51.5242881" lon="10.765664"/></trkseg></trk><trk><name>Pressenwerk</name><desc>addr:city=Bad Salzungen
+addr:country=DE
+addr:housename=Pressenwerk
+addr:housenumber=15
+addr:postcode=36433
+addr:street=Bahnhofstraße
+amenity=nightclub
+building=civic
+email=pressenwerk@online.de
+fax=+49 (0) 3695 62 14 36
+name=Pressenwerk
+opening_hours="bei Veranstaltungen"
+phone=+49 (0) 3695 87 37 33
+website=https://www.pressenwerk.com/
+wheelchair=yes
+id=way/136194402</desc><trkseg><trkpt lat="50.8140356" lon="10.2273776"/><trkpt lat="50.8138763" lon="10.2274414"/><trkpt lat="50.813923" lon="10.2277333"/><trkpt lat="50.8136047" lon="10.2278609"/><trkpt lat="50.8136335" lon="10.2280408"/><trkpt lat="50.8138615" lon="10.2279494"/><trkpt lat="50.8139894" lon="10.2278982"/><trkpt lat="50.8141111" lon="10.2278494"/><trkpt lat="50.8140356" lon="10.2273776"/></trkseg></trk><trk><name>Glashauscenter</name><desc>addr:city=Leinefelde-Worbis
+addr:country=DE
+addr:housenumber=36
+addr:postcode=37339
+addr:street=Duderstädter Allee
+amenity=nightclub
+building=yes
+name=Glashauscenter
+wheelchair=no
+wikidata=Q99891922
+id=way/145017981</desc><trkseg><trkpt lat="51.4271055" lon="10.3498485"/><trkpt lat="51.4269628" lon="10.3503452"/><trkpt lat="51.4269179" lon="10.350312"/><trkpt lat="51.4268601" lon="10.3505133"/><trkpt lat="51.4269034" lon="10.3505454"/><trkpt lat="51.4268041" lon="10.3508908"/><trkpt lat="51.4269903" lon="10.3510284"/><trkpt lat="51.4271608" lon="10.3504352"/><trkpt lat="51.4271807" lon="10.350366"/><trkpt lat="51.4272544" lon="10.3504205"/><trkpt lat="51.4272962" lon="10.3502749"/><trkpt lat="51.4272254" lon="10.3502226"/><trkpt lat="51.4272931" lon="10.3499871"/><trkpt lat="51.4271055" lon="10.3498485"/></trkseg></trk><trk><name>Muna</name><desc>addr:city=Bad Klosterlausnitz
+addr:country=DE
+addr:housenumber=23
+addr:postcode=07639
+addr:street=Jugendwaldheim
+amenity=nightclub
+building=yes
+check_date=2023-07-04
+contact:email=info@muna.de
+contact:facebook=https://www.facebook.com/munarockt/events
+contact:fax=+49 36601 44584
+contact:instagram=https://www.instagram.com/munarockt
+contact:phone=+49 36601 44583
+contact:ra=https://ra.co/clubs/5798
+contact:website=https://www.muna.de
+name=Muna
+operator=Moonray Spirit e.V.
+id=way/189189067</desc><trkseg><trkpt lat="50.8994622" lon="11.8996993"/><trkpt lat="50.8993399" lon="11.8995933"/><trkpt lat="50.8991294" lon="11.900204"/><trkpt lat="50.8992517" lon="11.90031"/><trkpt lat="50.8994622" lon="11.8996993"/></trkseg></trk><trk><name>Klanggerüst</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=175
+addr:postcode=99086
+addr:street=Magdeburger Allee
+amenity=nightclub
+building=yes
+building:levels=2
+contact:website=https://www.klanggeruest.de/
+name=Klanggerüst
+operator=Klanggerüst e.V.
+roof:colour=brown
+roof:shape=hipped
+smoking=no
+source=Bing
+wheelchair=no
+id=way/194115351</desc><trkseg><trkpt lat="51.0011321" lon="11.0279058"/><trkpt lat="51.0010757" lon="11.0280875"/><trkpt lat="51.0011647" lon="11.0281573"/><trkpt lat="51.0012211" lon="11.0279756"/><trkpt lat="51.0011321" lon="11.0279058"/></trkseg></trk><trk><name>Stahlpakt MC Schmölln</name><desc>amenity=nightclub
+building:part=yes
+level=1
+name=Stahlpakt MC Schmölln
+opening_hours=Aller 2 Wochen ab 19:00 - 1:00
+payment:cash=yes
+smoking=yes
+id=way/485912815</desc><trkseg><trkpt lat="50.8859384" lon="12.3373753"/><trkpt lat="50.8858106" lon="12.3372955"/><trkpt lat="50.8856674" lon="12.337206"/><trkpt lat="50.8855652" lon="12.337602"/><trkpt lat="50.8858375" lon="12.3377812"/><trkpt lat="50.8859384" lon="12.3373753"/></trkseg></trk><trk><name>Danceclub MEETS</name><desc>addr:city=Eisenach
+addr:country=DE
+addr:housenumber=3
+addr:postcode=99817
+addr:street=Adam-Opel-Straße
+amenity=nightclub
+building=yes
+name=Danceclub MEETS
+id=way/777151794</desc><trkseg><trkpt lat="50.9807321" lon="10.2988675"/><trkpt lat="50.9806366" lon="10.2986601"/><trkpt lat="50.9805687" lon="10.2986463"/><trkpt lat="50.9805115" lon="10.2987092"/><trkpt lat="50.9804992" lon="10.2988192"/><trkpt lat="50.9805563" lon="10.2989297"/><trkpt lat="50.9805208" lon="10.2989698"/><trkpt lat="50.9805403" lon="10.2991424"/><trkpt lat="50.9807252" lon="10.2989202"/><trkpt lat="50.9807321" lon="10.2988675"/></trkseg></trk><trk><name>F-Gebiet</name><desc>addr:city=Kleinfurra
+addr:housenumber=3
+addr:postcode=99735
+addr:street=Straße der Jugend
+amenity=nightclub
+building=yes
+name=F-Gebiet
+id=way/821905930</desc><trkseg><trkpt lat="51.4101359" lon="10.7556692"/><trkpt lat="51.4100768" lon="10.7555664"/><trkpt lat="51.4099442" lon="10.7557626"/><trkpt lat="51.4101676" lon="10.7561506"/><trkpt lat="51.4102622" lon="10.7560105"/><trkpt lat="51.410098" lon="10.7557253"/><trkpt lat="51.4101359" lon="10.7556692"/></trkseg></trk></gpx>

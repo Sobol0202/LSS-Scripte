@@ -1,0 +1,218 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><trk><name>10/28</name><desc>aeroway=runway
+length=1720
+ref=10/28
+surface=concrete
+width=55
+id=way/4775554</desc><trkseg><trkpt lat="50.994069" lon="10.4646387"/><trkpt lat="50.9914847" lon="10.4803645"/><trkpt lat="50.9907188" lon="10.4850661"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+description=RWY 750mx 24 m, Asphalt
+length=750
+ref=06/24
+surface=asphalt
+width=24
+id=way/18633359</desc><trkseg><trkpt lat="50.8798961" lon="12.1305959"/><trkpt lat="50.8800028" lon="12.1309361"/><trkpt lat="50.8828577" lon="12.1401437"/></trkseg></trk><trk><name>way/24429087</name><desc>aeroway=runway
+length=895
+source=http://fcnndh3631.homepage.t-online.de/cms/index.php/nav
+surface=grass
+width=30
+id=way/24429087</desc><trkseg><trkpt lat="51.4941003" lon="10.8313987"/><trkpt lat="51.492959" lon="10.8441884"/></trkseg></trk><trk><name>11/29</name><desc>aeroway=runway
+length=1450
+ref=11/29
+surface=asphalt
+width=30
+id=way/25398191</desc><trkseg><trkpt lat="51.2698924" lon="10.6250165"/><trkpt lat="51.269794" lon="10.6254545"/><trkpt lat="51.2677464" lon="10.6345712"/><trkpt lat="51.2676497" lon="10.635002"/><trkpt lat="51.2656013" lon="10.6441217"/><trkpt lat="51.2654971" lon="10.6445858"/></trkseg></trk><trk><name>09/27</name><desc>aeroway=runway
+ref=09/27
+surface=grass
+width=40
+id=way/25522324</desc><trkseg><trkpt lat="51.1290835" lon="10.6167411"/><trkpt lat="51.1293285" lon="10.6274959"/><trkpt lat="51.1293372" lon="10.6278781"/></trkseg></trk><trk><name>09/27</name><desc>aeroway=runway
+ele=349
+length=870
+ref=09/27
+surface=asphalt
+width=23
+id=way/27233856</desc><trkseg><trkpt lat="50.8417596" lon="11.0761599"/><trkpt lat="50.8417711" lon="11.0754926"/><trkpt lat="50.8418139" lon="11.0729988"/><trkpt lat="50.8418967" lon="11.0681852"/><trkpt lat="50.8419661" lon="11.0637955"/></trkseg></trk><trk><name>way/27756377</name><desc>aeroway=runway
+length=300
+id=way/27756377</desc><trkseg><trkpt lat="51.0059383" lon="11.5316533"/><trkpt lat="51.0060571" lon="11.5322674"/><trkpt lat="51.0066048" lon="11.534994"/><trkpt lat="51.0067416" lon="11.5356796"/></trkseg></trk><trk><name>Weimar-Umpferstedt</name><desc>aeroway=runway
+length=555
+name=Weimar-Umpferstedt
+ref=10/28
+surface=concrete
+width=9
+id=way/27787589</desc><trkseg><trkpt lat="50.9656193" lon="11.3952796"/><trkpt lat="50.964734" lon="11.4030618"/></trkseg></trk><trk><name>04/22</name><desc>aeroway=runway
+length=2435
+ref=04/22
+surface=asphalt
+width=45
+id=way/28054424</desc><trkseg><trkpt lat="50.9760372" lon="12.4988214"/><trkpt lat="50.9765377" lon="12.4994742"/><trkpt lat="50.9771496" lon="12.5002723"/><trkpt lat="50.9823207" lon="12.5070175"/><trkpt lat="50.9829503" lon="12.5078387"/><trkpt lat="50.9859055" lon="12.5116939"/><trkpt lat="50.9865317" lon="12.5125109"/><trkpt lat="50.9876456" lon="12.5139641"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+ele=459
+length=900
+ref=06/24
+surface=grass
+width=30
+id=way/28181388</desc><trkseg><trkpt lat="50.6714424" lon="11.0556045"/><trkpt lat="50.6679299" lon="11.0464829"/></trkseg></trk><trk><name>Ultraleichtflugplatz Westhausen</name><desc>aeroway=runway
+name=Ultraleichtflugplatz Westhausen
+ref=14/32
+surface=grass
+id=way/28593690</desc><trkseg><trkpt lat="50.3021153" lon="10.6821487"/><trkpt lat="50.3058334" lon="10.678006"/></trkseg></trk><trk><name>way/37113734</name><desc>aeroway=runway
+id=way/37113734</desc><trkseg><trkpt lat="51.088753" lon="11.4321334"/><trkpt lat="51.0888292" lon="11.4328724"/><trkpt lat="51.0892446" lon="11.4370616"/><trkpt lat="51.0893113" lon="11.4377505"/></trkseg></trk><trk><name>way/100853127</name><desc>aeroway=runway
+disused=yes
+surface=grass
+type=ULG, UL
+id=way/100853127</desc><trkseg><trkpt lat="50.6120299" lon="10.0831743"/><trkpt lat="50.6086536" lon="10.0889679"/></trkseg></trk><trk><name>way/100853129</name><desc>aeroway=runway
+disused=yes
+surface=grass
+type=ULG, UL
+id=way/100853129</desc><trkseg><trkpt lat="50.6079864" lon="10.0852772"/><trkpt lat="50.6094298" lon="10.0888177"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+length=500
+ref=06/24
+surface=asphalt
+width=10
+id=way/141641682</desc><trkseg><trkpt lat="50.7323067" lon="11.2347377"/><trkpt lat="50.7331457" lon="11.2375011"/><trkpt lat="50.734062" lon="11.2405195"/><trkpt lat="50.7342194" lon="11.2410378"/><trkpt lat="50.7342548" lon="11.2411543"/></trkseg></trk><trk><name>07/25</name><desc>aeroway=runway
+length=800
+ref=07/25
+surface=grass
+id=way/141643151</desc><trkseg><trkpt lat="50.9052402" lon="11.2637213"/><trkpt lat="50.9028127" lon="11.253709"/></trkseg></trk><trk><name>way/147426691</name><desc>aeroway=runway
+id=way/147426691</desc><trkseg><trkpt lat="51.1560675" lon="10.5824618"/><trkpt lat="51.1560629" lon="10.5824791"/><trkpt lat="51.1549797" lon="10.5866047"/><trkpt lat="51.1547886" lon="10.5873325"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+ele=363
+length=610
+ref=06/24
+surface=paved
+width=15
+id=way/151395498</desc><trkseg><trkpt lat="51.4061427" lon="10.1406842"/><trkpt lat="51.4089149" lon="10.1497706"/></trkseg></trk><trk><name>02/20</name><desc>aeroway=runway
+description=RWY 02/20 1170 m x 23 m, Asphalt
+length=1170
+ref=02/20
+surface=asphalt
+width=23
+id=way/156367387</desc><trkseg><trkpt lat="50.9204969" lon="11.7172169"/><trkpt lat="50.9148514" lon="11.7138095"/><trkpt lat="50.9134868" lon="11.712986"/><trkpt lat="50.9106723" lon="11.7112875"/></trkseg></trk><trk><name>way/196974460</name><desc>aeroway=runway
+runway=displaced_threshold
+width=55
+id=way/196974460</desc><trkseg><trkpt lat="50.9907188" lon="10.4850661"/><trkpt lat="50.9902426" lon="10.4879419"/></trkseg></trk><trk><name>08/26</name><desc>aeroway=runway
+length=810
+ref=08/26
+surface=grass
+width=30
+id=way/196974716</desc><trkseg><trkpt lat="50.9695693" lon="10.7230119"/><trkpt lat="50.9704451" lon="10.7291285"/><trkpt lat="50.9710946" lon="10.7336651"/></trkseg></trk><trk><name>way/202923358</name><desc>aeroway=runway
+source=bing
+id=way/202923358</desc><trkseg><trkpt lat="50.3761148" lon="10.657721"/><trkpt lat="50.3761453" lon="10.6575666"/><trkpt lat="50.3766201" lon="10.655161"/></trkseg></trk><trk><name>way/202923359</name><desc>aeroway=runway
+source=bing
+id=way/202923359</desc><trkseg><trkpt lat="50.3774155" lon="10.651323"/><trkpt lat="50.3779014" lon="10.6488626"/><trkpt lat="50.3779264" lon="10.6487363"/></trkseg></trk><trk><name>Göpfersdorf</name><desc>aeroway=runway
+ele=291.3
+name=Göpfersdorf
+ref=25/07
+surface=grass
+id=way/204435103</desc><trkseg><trkpt lat="50.9131842" lon="12.6103215"/><trkpt lat="50.9146163" lon="12.6155436"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+contact:phone=+49 3677 894137
+contact:vhf=120.975
+ele=404
+length=350
+ref=06/24
+short_name=N-Will
+surface=grass
+width=30
+id=way/205039401</desc><trkseg><trkpt lat="50.7809129" lon="11.0533323"/><trkpt lat="50.7803668" lon="11.0519022"/><trkpt lat="50.7792985" lon="11.0491043"/></trkseg></trk><trk><name>07/25</name><desc>aeroway=runway
+length=925
+ref=07/25
+surface=grass
+width=40
+id=way/211365321</desc><trkseg><trkpt lat="51.1970417" lon="11.185417"/><trkpt lat="51.1996643" lon="11.1979992"/></trkseg></trk><trk><name>04/22</name><desc>aeroway=runway
+length=410 m
+ref=04/22
+source=bing sat
+surface=grass
+id=way/245531656</desc><trkseg><trkpt lat="50.6140256" lon="10.4747511"/><trkpt lat="50.6110849" lon="10.4717577"/></trkseg></trk><trk><name>08/26</name><desc>aeroway=runway
+ref=08/26
+surface=grass
+id=way/263494535</desc><trkseg><trkpt lat="51.3723802" lon="11.1386306"/><trkpt lat="51.3733402" lon="11.1478591"/></trkseg></trk><trk><name>50/230</name><desc>aeroway=runway
+ele=472
+length=500
+ref=50/230
+surface=grass
+width=30
+id=way/289349745</desc><trkseg><trkpt lat="50.7767534" lon="10.8141906"/><trkpt lat="50.7787869" lon="10.817379"/><trkpt lat="50.780253" lon="10.8196777"/></trkseg></trk><trk><name>10/28</name><desc>aeroway=runway
+ele=586
+length=570
+ref=10/28
+surface=grass
+width=30
+id=way/291752757</desc><trkseg><trkpt lat="50.6325682" lon="10.7219863"/><trkpt lat="50.6315759" lon="10.7300328"/></trkseg></trk><trk><name>09/27</name><desc>aeroway=runway
+ele=349
+length=1060
+ref=09/27
+surface=grass
+width=30
+id=way/293398752</desc><trkseg><trkpt lat="50.8410683" lon="11.0762287"/><trkpt lat="50.8410812" lon="11.0754783"/><trkpt lat="50.8412075" lon="11.0681429"/><trkpt lat="50.8412863" lon="11.0635671"/><trkpt lat="50.8413273" lon="11.0611836"/></trkseg></trk><trk><name>08/26</name><desc>aeroway=runway
+length=620
+ref=08/26
+surface=grass
+width=30
+id=way/351595492</desc><trkseg><trkpt lat="50.9160021" lon="11.7169931"/><trkpt lat="50.9145093" lon="11.7084379"/></trkseg></trk><trk><name>02/20</name><desc>aeroway=runway
+length=1100
+ref=02/20
+surface=grass
+id=way/351597426</desc><trkseg><trkpt lat="50.9199039" lon="11.7159854"/><trkpt lat="50.9107482" lon="11.7104246"/></trkseg></trk><trk><name>08/26</name><desc>aeroway=runway
+length=900
+ref=08/26
+surface=grass
+width=30
+id=way/351745156</desc><trkseg><trkpt lat="51.2124603" lon="10.5436161"/><trkpt lat="51.2139126" lon="10.556286"/></trkseg></trk><trk><name>06/24</name><desc>aeroway=runway
+length=300
+ref=06/24
+surface=grass
+width=30
+id=way/357002297</desc><trkseg><trkpt lat="50.7311465" lon="11.2309164"/><trkpt lat="50.7322752" lon="11.2346342"/><trkpt lat="50.7323067" lon="11.2347377"/></trkseg></trk><trk><name>09/27</name><desc>aeroway=runway
+centerline=yes
+length=2600
+ref=09/27
+surface=asphalt
+width=50
+id=way/382688015</desc><trkseg><trkpt lat="50.9812729" lon="10.9397299"/><trkpt lat="50.9811641" lon="10.9411145"/><trkpt lat="50.9806584" lon="10.9474555"/><trkpt lat="50.9805124" lon="10.9492872"/><trkpt lat="50.9802046" lon="10.9531469"/><trkpt lat="50.9800844" lon="10.9546257"/><trkpt lat="50.9794786" lon="10.9622505"/><trkpt lat="50.979356" lon="10.963766"/><trkpt lat="50.9788522" lon="10.9701054"/><trkpt lat="50.978588" lon="10.9734185"/></trkseg></trk><trk><name>05/23</name><desc>aeroway=runway
+ele=390
+length=752
+ref=05/23
+surface=asphalt
+width=18
+id=way/449001423</desc><trkseg><trkpt lat="50.6461031" lon="12.1787684"/><trkpt lat="50.6446379" lon="12.1758715"/><trkpt lat="50.6418974" lon="12.1704536"/></trkseg></trk><trk><name>way/889163112</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=45
+id=way/889163112</desc><trkseg><trkpt lat="50.9911165" lon="12.5184923"/><trkpt lat="50.9908452" lon="12.5181384"/><trkpt lat="50.9894378" lon="12.5163022"/><trkpt lat="50.9876456" lon="12.5139641"/></trkseg></trk><trk><name>way/889163113</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=45
+id=way/889163113</desc><trkseg><trkpt lat="50.9742363" lon="12.4964726"/><trkpt lat="50.9743862" lon="12.4966681"/><trkpt lat="50.9746169" lon="12.4969689"/><trkpt lat="50.9748726" lon="12.4973024"/><trkpt lat="50.9760372" lon="12.4988214"/></trkseg></trk><trk><name>way/890861519</name><desc>aeroway=runway
+surface=grass
+id=way/890861519</desc><trkseg><trkpt lat="51.5339884" lon="10.57661"/><trkpt lat="51.5339642" lon="10.5767656"/><trkpt lat="51.5332623" lon="10.5812742"/></trkseg></trk><trk><name>way/890863708</name><desc>aeroway=runway
+id=way/890863708</desc><trkseg><trkpt lat="50.3982737" lon="11.5225446"/><trkpt lat="50.3907664" lon="11.5209728"/></trkseg></trk><trk><name>way/890863709</name><desc>aeroway=runway
+id=way/890863709</desc><trkseg><trkpt lat="50.4012529" lon="11.5258357"/><trkpt lat="50.3976727" lon="11.5227874"/></trkseg></trk><trk><name>09/27</name><desc>aeroway=runway
+length=240
+ref=09/27
+surface=grass
+id=way/1046479091</desc><trkseg><trkpt lat="51.332568" lon="10.2534814"/><trkpt lat="51.3326836" lon="10.2570645"/></trkseg></trk><trk><name>way/1148738192</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=50
+id=way/1148738192</desc><trkseg><trkpt lat="50.978588" lon="10.9734185"/><trkpt lat="50.9784487" lon="10.9751202"/><trkpt lat="50.9783417" lon="10.9765153"/></trkseg></trk><trk><name>way/1226431552</name><desc>aeroway=runway
+surface=grass
+id=way/1226431552</desc><trkseg><trkpt lat="51.472927" lon="10.5673683"/><trkpt lat="51.4728078" lon="10.5745355"/></trkseg></trk><trk><name>way/1242741092</name><desc>aeroway=runway
+ele=349
+runway=displaced_threshold
+surface=asphalt
+width=23
+id=way/1242741092</desc><trkseg><trkpt lat="50.8417524" lon="11.0765774"/><trkpt lat="50.8417596" lon="11.0761599"/></trkseg></trk><trk><name>way/1242741093</name><desc>aeroway=runway
+ele=349
+runway=displaced_threshold
+surface=asphalt
+width=23
+id=way/1242741093</desc><trkseg><trkpt lat="50.8419794" lon="11.0633703"/><trkpt lat="50.8419686" lon="11.063638"/><trkpt lat="50.8419661" lon="11.0637955"/></trkseg></trk><trk><name>way/1242741719</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=23
+id=way/1242741719</desc><trkseg><trkpt lat="50.9106723" lon="11.7112875"/><trkpt lat="50.9104224" lon="11.7111255"/></trkseg></trk><trk><name>way/1242742306</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=24
+id=way/1242742306</desc><trkseg><trkpt lat="50.8828577" lon="12.1401437"/><trkpt lat="50.883339" lon="12.1416962"/></trkseg></trk><trk><name>way/1242742307</name><desc>aeroway=runway
+runway=displaced_threshold
+surface=asphalt
+width=24
+id=way/1242742307</desc><trkseg><trkpt lat="50.8796627" lon="12.1298521"/><trkpt lat="50.8798961" lon="12.1305959"/></trkseg></trk></gpx>

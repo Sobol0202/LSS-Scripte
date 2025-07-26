@@ -1,0 +1,3244 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="50.8494592" lon="12.0736763"><name>Gleisdreieck Lusan</name><desc>name=Gleisdreieck Lusan
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=GLEI
+tram=yes
+wheelchair=limited
+id=node/21991043</desc></wpt><wpt lat="50.8544363" lon="12.0727267"><name>Keplerstraße</name><desc>name=Keplerstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/21991067</desc></wpt><wpt lat="50.8493047" lon="12.0720543"><name>Fußgängerbrücke</name><desc>name=Fußgängerbrücke
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=FUSB
+start_date=1977-10-05
+tram=yes
+wheelchair=yes
+id=node/21991111</desc></wpt><wpt lat="50.8461841" lon="12.0637542"><name>Lusan/Laune</name><desc>name=Lusan/Laune
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbH
+public_transport=stop_position
+railway=tram_stop
+ref=LAUN
+start_date=1977-10-05
+tram=yes
+wheelchair=yes
+id=node/21991161</desc></wpt><wpt lat="50.8493426" lon="12.0788144"><name>Betriebshof GVB</name><desc>name=Betriebshof GVB
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=AHOF
+tram=yes
+id=node/21991162</desc></wpt><wpt lat="50.9737177" lon="11.0271487"><name>Lange Brücke</name><desc>from=Ringelberg
+name=Lange Brücke
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=P+R-Platz Messe
+tram=yes
+wheelchair=yes
+id=node/30685996</desc></wpt><wpt lat="50.9729075" lon="11.021584"><name>Brühler Garten</name><desc>from=P+R-Platz Messe
+name=Brühler Garten
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=Ringelberg
+tram=yes
+wheelchair=yes
+id=node/196135266</desc></wpt><wpt lat="50.9720795" lon="11.0182946"><name>Gorkistraße</name><desc>from=P+R-Platz Messe; Ringelberg
+name=Gorkistraße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=P+R-Platz Messe; Ringelberg
+tram=yes
+wheelchair=yes
+id=node/196135820</desc></wpt><wpt lat="50.9712474" lon="11.0153049"><name>Sparkassen-Finanzzentrum</name><desc>from=Bindersleben; P+R-Platz Messe; Ringelberg; Wiesenhügel
+name=Sparkassen-Finanzzentrum
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=Bindersleben; P+R-Platz Messe; Ringelberg; Wiesenhügel
+tram=yes
+wheelchair=yes
+id=node/196138704</desc></wpt><wpt lat="51.0027694" lon="11.0031615"><name>Warschauer Straße</name><desc>name=Warschauer Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/254315216</desc></wpt><wpt lat="50.9989012" lon="11.0062561"><name>Riethstraße</name><desc>name=Riethstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/254315283</desc></wpt><wpt lat="51.0085057" lon="10.995146"><name>Thüringen-Park</name><desc>name=Thüringen-Park
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=yes
+tram=yes
+wheelchair=yes
+id=node/254737752</desc></wpt><wpt lat="51.0127095" lon="11.03241"><name>Bunsenstraße</name><desc>name=Bunsenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/254737959</desc></wpt><wpt lat="50.8933866" lon="12.0803111"><name>Straße des Bergmanns</name><desc>name=Straße des Bergmanns
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/254992343</desc></wpt><wpt lat="50.8965751" lon="12.0770045"><name>Grüner Weg</name><desc>name=Grüner Weg
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/255152715</desc></wpt><wpt lat="50.9281964" lon="11.581382"><name>Ernst-Abbe Platz</name><desc>name=Ernst-Abbe Platz
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=EAP
+tram=yes
+wheelchair=yes
+id=node/255680285</desc></wpt><wpt lat="50.8800344" lon="12.0843728"><name>Leipziger Straße/Metropol</name><desc>name=Leipziger Straße/Metropol
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/255856498</desc></wpt><wpt lat="50.8795853" lon="11.6346616"><name>Lobeda-Ost</name><desc>name=Lobeda-Ost
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+operator=JNV
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOO
+tram=yes
+id=node/257707968</desc></wpt><wpt lat="50.8811847" lon="11.6303693"><name>Schlegelstraße</name><desc>bench=yes
+name=Schlegelstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+public_transport=stop_position
+railway=tram_stop
+ref=1
+ref:JNV=SLS
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/257707976</desc></wpt><wpt lat="50.8994247" lon="11.5880589"><name>Sparkassen-Arena</name><desc>name=Sparkassen-Arena
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SPA
+tram=yes
+wheelchair=yes
+id=node/257708047</desc></wpt><wpt lat="50.9251692" lon="11.5879013"><name>Paradiesbahnhof</name><desc>name=Paradiesbahnhof
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=PBF
+tram=yes
+wheelchair=yes
+id=node/257708105</desc></wpt><wpt lat="50.9682384" lon="11.0320158"><name>Kaffeetrichter</name><desc>name=Kaffeetrichter
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=limited
+id=node/257714637</desc></wpt><wpt lat="50.9764973" lon="11.0348014"><name>Anger</name><desc>from=P+R-Platz Messe;Ringelberg
+name=Anger
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+ref=1
+shelter=yes
+to=P+R-Platz Messe;Ringelberg
+tram=yes
+wheelchair=yes
+id=node/257716320</desc></wpt><wpt lat="50.9770927" lon="11.024947"><name>Domplatz Süd</name><desc>name=Domplatz Süd
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/257717141</desc></wpt><wpt lat="50.9779187" lon="11.0244595"><name>Domplatz Nord</name><desc>name=Domplatz Nord
+note:de="E"-Signal (Aufhebung der Geschwindigkeitsbeschränkung)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/257717145</desc></wpt><wpt lat="50.9501233" lon="11.0625097"><name>Wiesenhügel</name><desc>name=Wiesenhügel
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/259515361</desc></wpt><wpt lat="50.9208019" lon="11.5812293"><name>Felsenkeller</name><desc>name=Felsenkeller
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=FEL
+tram=yes
+wheelchair=yes
+id=node/259786489</desc></wpt><wpt lat="50.9247141" lon="11.5861533"><name>Paradiesbahnhof West</name><desc>name=Paradiesbahnhof West
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=PBW
+tram=yes
+wheelchair=yes
+id=node/259786490</desc></wpt><wpt lat="50.9270066" lon="11.5877348"><name>Stadtzentrum Löbdergraben</name><desc>name=Stadtzentrum Löbdergraben
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LGR
+tram=yes
+wheelchair=yes
+id=node/259786491</desc></wpt><wpt lat="50.9199753" lon="11.5895153"><name>Jena, Jenertal</name><desc>loc_name=Jenertal
+name=Jena, Jenertal
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=JTL
+short_name=Jenertal
+tram=yes
+wheelchair=yes
+id=node/262490333</desc></wpt><wpt lat="50.9146159" lon="11.5867871"><name>Sportforum</name><desc>name=Sportforum
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=STA
+tram=yes
+wheelchair=yes
+id=node/262490334</desc></wpt><wpt lat="50.8984136" lon="11.5847732"><name>Freizeitbad</name><desc>name=Freizeitbad
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=FZB
+tram=yes
+wheelchair=yes
+id=node/262490610</desc></wpt><wpt lat="50.894906" lon="11.5829705"><name>Winzerla</name><desc>name=Winzerla
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref=1
+ref:JNV=WIN
+tram=yes
+wheelchair=yes
+id=node/262490611</desc></wpt><wpt lat="50.8828844" lon="11.6033975"><name>Lobeda-West</name><desc>name=Lobeda-West
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOW
+tram=yes
+wheelchair=yes
+id=node/262551053</desc></wpt><wpt lat="50.8924632" lon="11.6021636"><name>Lobeda</name><desc>name=Lobeda
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOB
+tram=yes
+wheelchair=yes
+wikidata=Q108601809
+id=node/262551054</desc></wpt><wpt lat="50.9747484" lon="10.9619251"><name>Flughafen/Airport</name><desc>name=Flughafen/Airport
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/265222757</desc></wpt><wpt lat="50.9727973" lon="10.9658746"><name>Orionstraße</name><desc>name=Orionstraße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/265222773</desc></wpt><wpt lat="50.9714056" lon="10.9827394"><name>Am Kreuzchen</name><desc>name=Am Kreuzchen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/265225175</desc></wpt><wpt lat="50.9726306" lon="10.9929413"><name>Hauptfriedhof</name><desc>name=Hauptfriedhof
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/265225187</desc></wpt><wpt lat="50.9731557" lon="10.9950072"><name>Walter-Gropius-Schule</name><desc>name=Walter-Gropius-Schule
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/265226292</desc></wpt><wpt lat="50.97395" lon="11.001423"><name>Nibelungenweg</name><desc>name=Nibelungenweg
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/265228756</desc></wpt><wpt lat="50.9764113" lon="11.0102516"><name>Bundesarbeitsgericht</name><desc>name=Bundesarbeitsgericht
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/265228772</desc></wpt><wpt lat="50.96096" lon="10.9894567"><name>Messe</name><desc>from=P+R-Platz Messe
+name=Messe
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=Ringelberg
+tram=yes
+wheelchair=yes
+id=node/265360946</desc></wpt><wpt lat="50.9722144" lon="10.9717454"><name>Volkenroder Weg</name><desc>name=Volkenroder Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/266484538</desc></wpt><wpt lat="50.9748577" lon="11.0043258"><name>Gamstädter Weg</name><desc>name=Gamstädter Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/266484797</desc></wpt><wpt lat="51.509527" lon="10.8012392"><name>Alexander-Puschkin-Straße</name><desc>name=Alexander-Puschkin-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/266833415</desc></wpt><wpt lat="51.0050867" lon="11.031907"><name>Grubenstraße</name><desc>check_date=2024-08-23
+name=Grubenstraße
+public_transport=stop_position
+railway=tram_stop
+railway:electricity=joint
+railway:electricity:jumpering=closed
+railway:electricity:ref=1223/24
+source=survey
+tram=yes
+wheelchair=yes
+id=node/269225929</desc></wpt><wpt lat="50.9471144" lon="10.697724"><name>Myconiusplatz</name><desc>bin=yes
+bus=yes
+highway=bus_stop
+name=Myconiusplatz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair:description=Kasseler Bord vorhanden
+id=node/269590021</desc></wpt><wpt lat="50.9293798" lon="11.5906854"><name>Universität</name><desc>name=Universität
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=UNI
+tram=yes
+wheelchair=yes
+id=node/269714530</desc></wpt><wpt lat="50.9433414" lon="11.5940257"><name>Kieshügel</name><desc>name=Kieshügel
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=KIE
+tram=yes
+wheelchair=yes
+id=node/270501610</desc></wpt><wpt lat="50.946045" lon="11.5974446"><name>An der Eule</name><desc>name=An der Eule
+public_transport=stop_position
+railway=tram_stop
+ref=Steig 1
+ref:JNV=EUL
+tram=yes
+wheelchair=yes
+id=node/270501655</desc></wpt><wpt lat="50.9487749" lon="11.6015361"><name>Altenburger Straße</name><desc>name=Altenburger Straße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=ABG
+short_name=Altenburger Straße
+tram=yes
+wheelchair=yes
+id=node/270501681</desc></wpt><wpt lat="50.9506257" lon="11.6061583"><name>Stifterstraße</name><desc>name=Stifterstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=STI
+tram=yes
+wheelchair=yes
+id=node/270501694</desc></wpt><wpt lat="51.0132744" lon="11.0265706"><name>August-Frölich-Straße</name><desc>name=August-Frölich-Straße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/270614171</desc></wpt><wpt lat="51.016264" lon="11.023079"><name>Roter Berg</name><desc>name=Roter Berg
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/270614174</desc></wpt><wpt lat="51.0202285" lon="11.0236013"><name>Zoopark</name><desc>name=Zoopark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/270614175</desc></wpt><wpt lat="51.0201328" lon="11.0242571"><name>Zoopark</name><desc>name=Zoopark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/270614255</desc></wpt><wpt lat="51.0029998" lon="11.0055586"><name>Berliner Straße</name><desc>name=Berliner Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/270614504</desc></wpt><wpt lat="50.9874889" lon="11.0153125"><name>Baumerstraße</name><desc>name=Baumerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/270614570</desc></wpt><wpt lat="50.9586618" lon="10.9841434"><name>P+R-Platz Messe</name><desc>name=P+R-Platz Messe
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/270645696</desc></wpt><wpt lat="50.9628479" lon="10.9945394"><name>mdr/Kinderkanal</name><desc>from=P+R-Platz Messe; Ringelberg
+name=mdr/Kinderkanal
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=P+R-Platz Messe; Ringelberg
+tram=yes
+wheelchair=yes
+id=node/270645707</desc></wpt><wpt lat="50.971228" lon="11.0123278"><name>Gothaer Platz</name><desc>from=Bindersleben;P+R-Platz Messe;Ringelberg;Wiesenhügel
+name=Gothaer Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=Bindersleben;P+R-Platz Messe;Ringelberg;Wiesenhügel
+tram=yes
+wheelchair=yes
+id=node/270648324</desc></wpt><wpt lat="51.5115808" lon="10.7856561"><name>Parkallee</name><desc>name=Parkallee
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/270938509</desc></wpt><wpt lat="51.5069028" lon="10.7856079"><name>Landratsamt/Badehaus</name><desc>name=Landratsamt/Badehaus
+operator=Verkehrsbetriebe Nordhausen GmbH
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/270938566</desc></wpt><wpt lat="51.5044823" lon="10.7856141"><name>Wiedigsburghalle</name><desc>name=Wiedigsburghalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q120804428
+id=node/270938574</desc></wpt><wpt lat="51.5019495" lon="10.7870074"><name>Grimmel</name><desc>name=Grimmel
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q120804432
+id=node/270938578</desc></wpt><wpt lat="51.4986072" lon="10.78889"><name>Auf dem Sand</name><desc>name=Auf dem Sand
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q120804434
+id=node/270938581</desc></wpt><wpt lat="51.5139585" lon="10.8018875"><name>Dr.-Robert-Koch-Straße</name><desc>name=Dr.-Robert-Koch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/270938640</desc></wpt><wpt lat="51.5151851" lon="10.7984972"><name>Südharzklinikum</name><desc>departures_board=realtime
+name=Südharzklinikum
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+wikidata=Q116487098
+id=node/270938650</desc></wpt><wpt lat="51.5034708" lon="10.8005187"><name>Stolberger Straße</name><desc>name=Stolberger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/270938685</desc></wpt><wpt lat="51.5054829" lon="10.8009678"><name>Wilhelm-Nebelung-Straße</name><desc>name=Wilhelm-Nebelung-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/270938686</desc></wpt><wpt lat="50.9340854" lon="11.6076435"><name>Jenzigweg</name><desc>name=Jenzigweg
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=JWG
+tram=yes
+wheelchair=yes
+id=node/271142348</desc></wpt><wpt lat="50.976244" lon="11.0118075"><name>Günterstraße</name><desc>name=Günterstraße
+railway=tram_stop
+wheelchair=no
+id=node/278829263</desc></wpt><wpt lat="50.9590497" lon="11.6177709"><name>Zwätzen Schleife</name><desc>name=Zwätzen Schleife
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=ZWA
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/279231327</desc></wpt><wpt lat="50.8821138" lon="11.6239124"><name>Richard-Sorge-Straße</name><desc>name=Richard-Sorge-Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+public_transport=stop_position
+railway=tram_stop
+ref=1
+ref:JNV=RSS
+tram=yes
+wheelchair=yes
+id=node/279785405</desc></wpt><wpt lat="50.9814161" lon="11.0411822"><name>Leipziger Platz</name><desc>from=P+R-Platz Messe
+highway=bus_stop
+name=Leipziger Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+to=Ringelberg
+tram=yes
+wheelchair=yes
+id=node/286197328</desc></wpt><wpt lat="50.9647668" lon="10.997654"><name>egapark</name><desc>from=P+R-Platz Messe;Ringelberg
+name=egapark
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=P+R-Platz Messe;Ringelberg
+tram=yes
+wheelchair=yes
+id=node/286779196</desc></wpt><wpt lat="50.8867466" lon="11.616347"><name>Platanenstraße</name><desc>name=Platanenstraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=PLA
+tram=yes
+wheelchair=yes
+id=node/288404913</desc></wpt><wpt lat="50.8840865" lon="11.6196044"><name>Universitätsklinikum</name><desc>name=Universitätsklinikum
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=KLI
+tram=yes
+wheelchair=yes
+id=node/288404915</desc></wpt><wpt lat="50.9744063" lon="11.0188298"><name>Theater</name><desc>name=Theater
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+website=https://www.theater-erfurt.de/
+wheelchair=yes
+wheelchair:description=EOB Erfurt ohne Barrieren plante mit: 8 Rolliplätze, Beh. WC, Llift
+id=node/289518995</desc></wpt><wpt lat="50.8404426" lon="12.0636983"><name>Brüte</name><desc>name=Brüte
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbh
+public_transport=stop_position
+railway=tram_stop
+ref=BRUT
+start_date=1979-10-28
+tram=yes
+wheelchair=yes
+id=node/290609832</desc></wpt><wpt lat="50.8406288" lon="12.0632367"><name>Lusan/Brüte</name><desc>name=Lusan/Brüte
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbh
+public_transport=stop_position
+railway=tram_stop
+ref=WSBR
+start_date=1977-10-05
+tram=yes
+wheelchair=yes
+id=node/290609930</desc></wpt><wpt lat="50.8405542" lon="12.0626947"><name>Lusan/Brüte</name><desc>name=Lusan/Brüte
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbh
+public_transport=stop_position
+railway=tram_stop
+ref=WSBR
+start_date=1977-10-05
+tram=yes
+wheelchair=yes
+id=node/290609941</desc></wpt><wpt lat="50.9584136" lon="11.0354564"><name>Thüringenhalle</name><desc>name=Thüringenhalle
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/291456535</desc></wpt><wpt lat="50.9845107" lon="11.0457032"><name>Hanseplatz / Fachhochschule</name><desc>from=P+R-Platz Messe
+name=Hanseplatz / Fachhochschule
+public_transport=stop_position
+railway=tram_stop
+to=Ringelberg
+tram=yes
+wheelchair=yes
+id=node/292152381</desc></wpt><wpt lat="50.9843349" lon="11.0452871"><name>Hanseplatz / Fachhochschule</name><desc>from=Ringelberg
+name=Hanseplatz / Fachhochschule
+public_transport=stop_position
+railway=tram_stop
+to=P+R-Platz Messe
+tram=yes
+wheelchair=yes
+id=node/292152382</desc></wpt><wpt lat="50.9791852" lon="11.0381755"><name>Krämpfertor</name><desc>from=P+R-Platz Messe
+name=Krämpfertor
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=Ringelberg
+tram=yes
+wheelchair=yes
+id=node/292152974</desc></wpt><wpt lat="51.4950753" lon="10.7907405"><name>Atrium-Passage</name><desc>image=File:Nordhausen Haltestelle Atrium-Passage.jpg
+name=Atrium-Passage
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q120802000
+wikimedia_commons=Category:Atrium-Passage (tram stop)
+id=node/293133089</desc></wpt><wpt lat="51.4953921" lon="10.7893408"><name>Südharz-Galerie</name><desc>name=Südharz-Galerie
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+wikidata=Q120803962
+id=node/293133091</desc></wpt><wpt lat="50.986259" lon="11.0493424"><name>Greifswalder Straße</name><desc>from=P+R-Platz Messe
+name=Greifswalder Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+to=Ringelberg
+tram=yes
+wheelchair=yes
+id=node/295984486</desc></wpt><wpt lat="50.9859046" lon="11.0485309"><name>Greifswalder Straße</name><desc>from=Ringelberg
+name=Greifswalder Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+to=P+R-Platz Messe
+tram=yes
+wheelchair=yes
+id=node/295984487</desc></wpt><wpt lat="51.0025427" lon="11.0175401"><name>Mainzer Straße</name><desc>name=Mainzer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/297948099</desc></wpt><wpt lat="51.0053247" lon="11.0119329"><name>Vilniuser Straße</name><desc>name=Vilniuser Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/298462077</desc></wpt><wpt lat="50.8638096" lon="10.5616105"><name>Reinhardsbrunn Bahnhof</name><desc>from=Tabarz;Gotha Hauptbahnhof
+name=Reinhardsbrunn Bahnhof
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=Gotha Hauptbahnhof
+tram=yes
+id=node/300326481</desc></wpt><wpt lat="50.8704745" lon="10.5622979"><name>Reinhardsbrunner Teiche</name><desc>name=Reinhardsbrunner Teiche
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/300326543</desc></wpt><wpt lat="50.948335" lon="11.0892984"><name>Windischholzhausen/X-FAB</name><desc>name=Windischholzhausen/X-FAB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/305298942</desc></wpt><wpt lat="50.9451981" lon="11.0853423"><name>Katholisches Krankenhaus</name><desc>name=Katholisches Krankenhaus
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/305299749</desc></wpt><wpt lat="50.9470172" lon="11.078518"><name>Drosselberg</name><desc>name=Drosselberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/305299750</desc></wpt><wpt lat="50.9856583" lon="11.0281965"><name>Boyneburgufer</name><desc>name=Boyneburgufer
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/306526983</desc></wpt><wpt lat="50.882522" lon="12.0713165"><name>Otto Dix</name><desc>name=Otto Dix
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/306652937</desc></wpt><wpt lat="50.8897529" lon="10.578256"><name>Waltershausen, Gleisdreieck</name><desc>name=Waltershausen, Gleisdreieck
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/307993479</desc></wpt><wpt lat="50.8991035" lon="10.5983119"><name>Waltershausen, Wahlwinkel</name><desc>name=Waltershausen, Wahlwinkel
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/307993551</desc></wpt><wpt lat="50.9065732" lon="10.6305254"><name>Leina</name><desc>name=Leina
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/307993630</desc></wpt><wpt lat="50.8844369" lon="12.0689595"><name>Friedrich-Naumann-Platz</name><desc>name=Friedrich-Naumann-Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/311007556</desc></wpt><wpt lat="51.0095475" lon="11.0330319"><name>An der Lache</name><desc>name=An der Lache
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/312479238</desc></wpt><wpt lat="50.8837656" lon="11.594793"><name>Göschwitz Bahnhof</name><desc>name=Göschwitz Bahnhof
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=GOB
+tram=yes
+wheelchair=yes
+id=node/312549678</desc></wpt><wpt lat="50.994649" lon="11.0257143"><name>Wendenstraße</name><desc>name=Wendenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/312690618</desc></wpt><wpt lat="50.9721917" lon="11.0371454"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+note=Straßenbahnlinien Ri. Süden
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/312721255</desc></wpt><wpt lat="50.8520584" lon="12.089404"><name>Lasurstraße</name><desc>name=Lasurstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/314733914</desc></wpt><wpt lat="50.8576663" lon="12.0893922"><name>Pforten</name><desc>name=Pforten
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+id=node/314734281</desc></wpt><wpt lat="50.8725244" lon="12.0824855"><name>Schmelzhüttenstraße</name><desc>name=Schmelzhüttenstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/314735329</desc></wpt><wpt lat="50.9763766" lon="11.0340539"><name>Anger</name><desc>name=Anger
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+ref=4
+tram=yes
+wheelchair=yes
+id=node/319924530</desc></wpt><wpt lat="50.8435459" lon="12.0624747"><name>Zeulenrodaer Straße</name><desc>name=Zeulenrodaer Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbH
+public_transport=stop_position
+railway=tram_stop
+start_date=1977-10-05
+tram=yes
+wheelchair=yes
+id=node/321630836</desc></wpt><wpt lat="50.8395155" lon="12.0509021"><name>Lusan/Zeulsdorf</name><desc>name=Lusan/Zeulsdorf
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbh
+public_transport=stop_position
+railway=tram_stop
+ref=ZEUD
+start_date=1979-10-28
+tram=yes
+wheelchair=yes
+id=node/321632777</desc></wpt><wpt lat="50.8504412" lon="12.0822711"><name>Bahnhof Zwötzen</name><desc>name=Bahnhof Zwötzen
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+start_date=2004
+tram=yes
+wheelchair=limited
+id=node/322037043</desc></wpt><wpt lat="50.8622474" lon="12.0728502"><name>Südfriedhof</name><desc>name=Südfriedhof
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/323106572</desc></wpt><wpt lat="50.9467967" lon="10.7099422"><name>Orangerie</name><desc>name=Orangerie
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/332212068</desc></wpt><wpt lat="50.9533628" lon="10.7084867"><name>Hersdorfplatz</name><desc>name=Hersdorfplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/332212075</desc></wpt><wpt lat="51.0029912" lon="11.0228799"><name>Mittelhäuser Straße</name><desc>name=Mittelhäuser Straße
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/334440549</desc></wpt><wpt lat="51.0050963" lon="11.0160483"><name>Rieth</name><desc>bus=yes
+name=Rieth
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref=RIET
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/334442317</desc></wpt><wpt lat="51.0129786" lon="10.9917544"><name>Europaplatz</name><desc>name=Europaplatz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/334485341</desc></wpt><wpt lat="50.9949458" lon="11.0091306"><name>Klinikum</name><desc>name=Klinikum
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/334666224</desc></wpt><wpt lat="50.9920119" lon="11.011247"><name>Universität</name><desc>name=Universität
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/334682685</desc></wpt><wpt lat="50.965972" lon="11.019208"><name>Hochheimer Straße</name><desc>name=Hochheimer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/335156402</desc></wpt><wpt lat="50.9643799" lon="11.0176664"><name>Steigerstraße</name><desc>name=Steigerstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/335157004</desc></wpt><wpt lat="50.9600716" lon="10.7196885"><name>Ostbahnhof</name><desc>name=Ostbahnhof
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/338638883</desc></wpt><wpt lat="50.9396255" lon="10.7117125"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+network=VMT
+note=Linie 1 und 4
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q65552601
+id=node/340360599</desc></wpt><wpt lat="50.9338853" lon="11.6107545"><name>An der Trebe</name><desc>name=An der Trebe
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=TRE
+tram=yes
+id=node/344852619</desc></wpt><wpt lat="50.932545" lon="11.6058633"><name>Ostschule</name><desc>name=Ostschule
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=OSL
+tram=yes
+id=node/344852621</desc></wpt><wpt lat="50.9314221" lon="11.6046021"><name>Schlippenstraße</name><desc>name=Schlippenstraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SLI
+tram=yes
+id=node/344852622</desc></wpt><wpt lat="50.9409034" lon="10.6864592"><name>Wagenhalle</name><desc>name=Wagenhalle
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/352634867</desc></wpt><wpt lat="50.9023924" lon="12.0917899"><name>Hilde-Coppi-Straße</name><desc>name=Hilde-Coppi-Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1989-04-24
+tram=yes
+id=node/367753008</desc></wpt><wpt lat="50.9568063" lon="11.6167882"><name>Zwätzen</name><desc>name=Zwätzen
+operator=Jenaer Nahverkehrsgesellschaft mbH
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=ZWO
+tram=yes
+wheelchair=yes
+id=node/369739828</desc></wpt><wpt lat="50.969954" lon="11.040774"><name>Robert-Koch-Straße</name><desc>name=Robert-Koch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/375391303</desc></wpt><wpt lat="50.9690125" lon="11.040681"><name>Robert-Koch-Straße</name><desc>name=Robert-Koch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/375392017</desc></wpt><wpt lat="50.9637514" lon="11.0191682"><name>Milchinselstraße</name><desc>name=Milchinselstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/382896747</desc></wpt><wpt lat="50.9905035" lon="11.0261834"><name>Lutherkirche/SWE</name><desc>name=Lutherkirche/SWE
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/382921726</desc></wpt><wpt lat="50.9892947" lon="11.0267151"><name>Lutherkirche/SWE</name><desc>name=Lutherkirche/SWE
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/382922847</desc></wpt><wpt lat="50.9116418" lon="10.6541622"><name>Boxberg</name><desc>name=Boxberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/390342254</desc></wpt><wpt lat="50.9295941" lon="10.6781902"><name>Krankenhaus</name><desc>name=Krankenhaus
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/390345074</desc></wpt><wpt lat="50.9040938" lon="12.0722537"><name>Duale Hochschule</name><desc>name=Duale Hochschule
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1986-12-18
+tram=yes
+id=node/397458696</desc></wpt><wpt lat="50.9008505" lon="12.0952411"><name>Ernst-Abbe-Straße</name><desc>name=Ernst-Abbe-Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1989-04-24
+tram=yes
+id=node/408185869</desc></wpt><wpt lat="50.895254" lon="11.5971566"><name>Alte Burgauer Brücke</name><desc>name=Alte Burgauer Brücke
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=ABB
+tram=yes
+wheelchair=yes
+id=node/409626403</desc></wpt><wpt lat="50.8867701" lon="11.594296"><name>Jenoptik</name><desc>name=Jenoptik
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=JOP
+tram=yes
+wheelchair=yes
+id=node/409626415</desc></wpt><wpt lat="50.8772877" lon="12.0828364"><name>Sorge/Markt</name><desc>name=Sorge/Markt
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=1984-06-01
+tram=yes
+wheelchair=yes
+id=node/413333365</desc></wpt><wpt lat="50.8997583" lon="12.0733402"><name>Tinz</name><desc>name=Tinz
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/413348867</desc></wpt><wpt lat="50.9043871" lon="12.086093"><name>Heidecksburgstraße</name><desc>name=Heidecksburgstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1986-12-18
+tram=yes
+wheelchair=yes
+id=node/413371619</desc></wpt><wpt lat="50.9007013" lon="12.099704"><name>Bieblach-Ost</name><desc>name=Bieblach-Ost
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1989-04-24
+tram=yes
+id=node/413371620</desc></wpt><wpt lat="50.9003867" lon="12.099945"><name>Bieblach-Ost</name><desc>name=Bieblach-Ost
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1989-04-24
+tram=yes
+id=node/413371621</desc></wpt><wpt lat="50.8842914" lon="10.5760413"><name>Waltershausen, Schnepfenthal</name><desc>name=Waltershausen, Schnepfenthal
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/417006902</desc></wpt><wpt lat="50.8649332" lon="10.5414078"><name>Marienglashöhle</name><desc>from=Tabarz;Gotha Hauptbahnhof
+name=Marienglashöhle
+public_transport=stop_position
+railway=tram_stop
+to=Tabarz;Gotha Hauptbahnhof
+tram=yes
+id=node/417007799</desc></wpt><wpt lat="50.874807" lon="10.519751"><name>Bad Tabarz</name><desc>name=Bad Tabarz
+public_transport=stop_position
+railway=tram_stop
+ref=Gleis 1
+to=Gotha Hauptbahnhof
+tram=yes
+id=node/417008455</desc></wpt><wpt lat="50.8484839" lon="12.087103"><name>Zwötzen</name><desc>name=Zwötzen
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/429533635</desc></wpt><wpt lat="50.8393587" lon="12.0577929"><name>Bruno-Brause-Straße</name><desc>name=Bruno-Brause-Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbh
+public_transport=stop_position
+railway=tram_stop
+start_date=1979-10-28
+tram=yes
+wheelchair=yes
+id=node/488288309</desc></wpt><wpt lat="50.8590759" lon="10.555395"><name>Friedrichroda (TWSB)</name><desc>from=Tabarz; Gotha Hauptbahnhof
+name=Friedrichroda (TWSB)
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=Tabarz; Gotha Hauptbahnhof
+tram=yes
+id=node/497530601</desc></wpt><wpt lat="50.8723703" lon="12.0758927"><name>Südbahnhof</name><desc>name=Südbahnhof
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/509658869</desc></wpt><wpt lat="50.890952" lon="11.5937346"><name>Felsbachstraße</name><desc>name=Felsbachstraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=FBS
+tram=yes
+wheelchair=yes
+id=node/593569015</desc></wpt><wpt lat="50.892806" lon="11.5949969"><name>Ernst-Ruska-Ring</name><desc>name=Ernst-Ruska-Ring
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=ERR
+tram=yes
+wheelchair=yes
+id=node/593707703</desc></wpt><wpt lat="51.5038061" lon="10.8149228"><name>Am Förstemannpark</name><desc>departures_board=timetable
+name=Am Förstemannpark
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=no
+tram=yes
+wheelchair=bad
+wikidata=Q120804438
+id=node/631602781</desc></wpt><wpt lat="51.5031425" lon="10.8195464"><name>Nordhausen Ost</name><desc>departures_board=no
+name=Nordhausen Ost
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tactile_paving=no
+tram=yes
+wheelchair=yes
+wikidata=Q120804495
+id=node/631602801</desc></wpt><wpt lat="50.971795" lon="10.9555401"><name>Bindersleben</name><desc>name=Bindersleben
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/663759995</desc></wpt><wpt lat="50.9912632" lon="11.0588457"><name>Bautzener Weg</name><desc>name=Bautzener Weg
+public_transport=stop_position
+railway=tram_stop
+route_ref=2
+tram=yes
+wheelchair=yes
+id=node/663760000</desc></wpt><wpt lat="50.991408" lon="11.0592616"><name>Bautzener Weg</name><desc>name=Bautzener Weg
+public_transport=stop_position
+railway=tram_stop
+route_ref=2
+tram=yes
+wheelchair=yes
+id=node/663760003</desc></wpt><wpt lat="50.9949349" lon="11.0678068"><name>Marcel-Breuer-Ring</name><desc>name=Marcel-Breuer-Ring
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+route_ref=2
+tram=yes
+wheelchair=yes
+id=node/663760005</desc></wpt><wpt lat="50.9946978" lon="11.0680731"><name>Marcel-Breuer-Ring</name><desc>name=Marcel-Breuer-Ring
+public_transport=stop_position
+railway=tram_stop
+route_ref=2
+tram=yes
+wheelchair=yes
+id=node/663760008</desc></wpt><wpt lat="50.9866847" lon="11.0630113"><name>Ringelberg</name><desc>name=Ringelberg
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/663945279</desc></wpt><wpt lat="50.9397315" lon="10.7116763"><name>Gotha, Hauptbahnhof</name><desc>name=Gotha, Hauptbahnhof
+network=VMT
+note=Linie 2
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/671023836</desc></wpt><wpt lat="50.9157368" lon="11.5775275"><name>Mühlenstraße</name><desc>name=Mühlenstraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=MUL
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/676352665</desc></wpt><wpt lat="50.9001581" lon="10.5626166"><name>Waltershausen Bahnhof</name><desc>name=Waltershausen Bahnhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/708880843</desc></wpt><wpt lat="50.8895225" lon="10.5780295"><name>Waltershausen, Gleisdreieck</name><desc>name=Waltershausen, Gleisdreieck
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/772662009</desc></wpt><wpt lat="50.8899805" lon="10.5779406"><name>Waltershausen, Gleisdreieck</name><desc>name=Waltershausen, Gleisdreieck
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/855675660</desc></wpt><wpt lat="50.8897289" lon="10.5775521"><name>node/855675789</name><desc>public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/855675789</desc></wpt><wpt lat="50.8930782" lon="10.5684245"><name>Ohrdrufer Straße</name><desc>name=Ohrdrufer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/855676317</desc></wpt><wpt lat="50.952262" lon="11.0747738"><name>Melchendorf</name><desc>name=Melchendorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1008092646</desc></wpt><wpt lat="50.9504335" lon="11.0927973"><name>Urbicher Kreuz</name><desc>name=Urbicher Kreuz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1025398772</desc></wpt><wpt lat="50.8392968" lon="12.0583902"><name>Bruno-Brause-Straße</name><desc>name=Bruno-Brause-Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbh
+public_transport=stop_position
+railway=tram_stop
+start_date=1979-10-28
+tram=yes
+wheelchair=yes
+id=node/1041945671</desc></wpt><wpt lat="50.8395621" lon="12.0512487"><name>Lusan/Zeulsdorf</name><desc>name=Lusan/Zeulsdorf
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbh
+public_transport=stop_position
+railway=tram_stop
+ref=ZEUD
+start_date=1979-10-28
+tram=yes
+wheelchair=yes
+id=node/1041945699</desc></wpt><wpt lat="50.8401206" lon="12.063664"><name>Brüte</name><desc>name=Brüte
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbh
+public_transport=stop_position
+railway=tram_stop
+ref=BRUT
+start_date=1979-10-28
+tram=yes
+wheelchair=yes
+id=node/1041945773</desc></wpt><wpt lat="50.8492211" lon="12.0715593"><name>Fußgängerbrücke</name><desc>name=Fußgängerbrücke
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=FUSB
+start_date=1977-10-05
+tram=yes
+wheelchair=yes
+id=node/1042925165</desc></wpt><wpt lat="50.8432449" lon="12.0624521"><name>Zeulenrodaer Straße</name><desc>name=Zeulenrodaer Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbH
+public_transport=stop_position
+railway=tram_stop
+start_date=1977-10-05
+tram=yes
+wheelchair=yes
+id=node/1042925190</desc></wpt><wpt lat="50.8462098" lon="12.0637229"><name>Lusan/Laune</name><desc>name=Lusan/Laune
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB Verkehrs- und Betriebsgesellschaft Gera mbH
+public_transport=stop_position
+railway=tram_stop
+ref=LAUN
+start_date=1977-10-05
+tram=yes
+id=node/1042925201</desc></wpt><wpt lat="50.8494228" lon="12.0741516"><name>Gleisdreieck Lusan</name><desc>name=Gleisdreieck Lusan
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=GLEI
+tram=yes
+id=node/1048915852</desc></wpt><wpt lat="50.8493041" lon="12.0787854"><name>Betriebshof GVB</name><desc>name=Betriebshof GVB
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=AHOF
+tram=yes
+id=node/1048915985</desc></wpt><wpt lat="50.890797" lon="12.0691375"><name>Untermhaus</name><desc>name=Untermhaus
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/1118471410</desc></wpt><wpt lat="50.8876757" lon="12.0694025"><name>Ernststraße</name><desc>name=Ernststraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/1127945650</desc></wpt><wpt lat="50.8884228" lon="12.069372"><name>Ernststraße</name><desc>name=Ernststraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/1127945652</desc></wpt><wpt lat="50.9509102" lon="11.0667117"><name>Färberwaidweg</name><desc>name=Färberwaidweg
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1203554052</desc></wpt><wpt lat="50.9509292" lon="11.0674585"><name>Färberwaidweg</name><desc>name=Färberwaidweg
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1203554053</desc></wpt><wpt lat="50.9517297" lon="11.0753805"><name>Melchendorf</name><desc>name=Melchendorf
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1203565770</desc></wpt><wpt lat="50.9499469" lon="11.0766869"><name>Melchendorfer Markt</name><desc>name=Melchendorfer Markt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1203587001</desc></wpt><wpt lat="50.9497492" lon="11.0766554"><name>Melchendorfer Markt</name><desc>name=Melchendorfer Markt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1203587003</desc></wpt><wpt lat="50.946763" lon="11.0788384"><name>Drosselberg</name><desc>name=Drosselberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1203594052</desc></wpt><wpt lat="50.9452993" lon="11.0856772"><name>Katholisches Krankenhaus</name><desc>name=Katholisches Krankenhaus
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1203607799</desc></wpt><wpt lat="50.9483747" lon="11.0897594"><name>Windischholzhausen/X-FAB</name><desc>name=Windischholzhausen/X-FAB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1203659677</desc></wpt><wpt lat="50.9544736" lon="11.0699693"><name>Abzweig Wiesenhügel</name><desc>name=Abzweig Wiesenhügel
+public_transport=stop_position
+railway=tram_stop
+ref=129
+tram=yes
+wheelchair=yes
+id=node/1204343936</desc></wpt><wpt lat="50.9542757" lon="11.0704886"><name>Abzweig Wiesenhügel</name><desc>name=Abzweig Wiesenhügel
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1204343986</desc></wpt><wpt lat="50.9560874" lon="11.0631989"><name>Blücherstraße</name><desc>name=Blücherstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1204357774</desc></wpt><wpt lat="50.9562856" lon="11.0626233"><name>Blücherstraße</name><desc>name=Blücherstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1204357782</desc></wpt><wpt lat="50.9573538" lon="11.0572583"><name>Sozialversicherungszentrum</name><desc>name=Sozialversicherungszentrum
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1204664728</desc></wpt><wpt lat="50.9575024" lon="11.0566929"><name>Sozialversicherungszentrum</name><desc>name=Sozialversicherungszentrum
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1204664739</desc></wpt><wpt lat="50.9591229" lon="11.050976"><name>Am Schwemmbach</name><desc>name=Am Schwemmbach
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1204679202</desc></wpt><wpt lat="50.9592196" lon="11.0506189"><name>Am Schwemmbach</name><desc>name=Am Schwemmbach
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1204679210</desc></wpt><wpt lat="50.9809042" lon="11.0406992"><name>Leipziger Platz</name><desc>from=Ringelberg
+highway=bus_stop
+name=Leipziger Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+to=P+R-Platz Messe
+tram=yes
+wheelchair=yes
+id=node/1206071696</desc></wpt><wpt lat="50.9789382" lon="11.0377824"><name>Krämpfertor</name><desc>from=Ringelberg
+name=Krämpfertor
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=P+R-Platz Messe
+tram=yes
+wheelchair=yes
+id=node/1206215832</desc></wpt><wpt lat="50.9599969" lon="11.0437424"><name>Stadion Ost</name><desc>name=Stadion Ost
+old_name=Agentur für Arbeit
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1211992585</desc></wpt><wpt lat="50.9600299" lon="11.0441302"><name>Stadion Ost</name><desc>name=Stadion Ost
+old_name=Agentur für Arbeit
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1211992592</desc></wpt><wpt lat="50.9632994" lon="11.0337207"><name>Landtag/IHK/Stadion Nord</name><desc>name=Landtag/IHK/Stadion Nord
+old_name=Landtag/IHK
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1212253133</desc></wpt><wpt lat="50.9635883" lon="11.0336479"><name>Landtag/IHK/Stadion Nord</name><desc>name=Landtag/IHK/Stadion Nord
+old_name=Landtag/IHK
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1212253150</desc></wpt><wpt lat="50.960983" lon="11.0344806"><name>Humboldtstraße</name><desc>name=Humboldtstraße
+old_name=Steigerwaldstadion
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1212266148</desc></wpt><wpt lat="50.9606844" lon="11.0345478"><name>Humboldtstraße</name><desc>name=Humboldtstraße
+old_name=Steigerwaldstadion
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1212266176</desc></wpt><wpt lat="50.9684441" lon="11.0326331"><name>Kaffeetrichter</name><desc>name=Kaffeetrichter
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+id=node/1215348064</desc></wpt><wpt lat="50.9665939" lon="11.0252815"><name>Puschkinstraße</name><desc>name=Puschkinstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1215751931</desc></wpt><wpt lat="50.9665309" lon="11.0248842"><name>Puschkinstraße</name><desc>name=Puschkinstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1215751935</desc></wpt><wpt lat="50.9645935" lon="11.0409183"><name>Tschaikowskistraße</name><desc>name=Tschaikowskistraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1222862312</desc></wpt><wpt lat="50.9653699" lon="11.0407694"><name>Tschaikowskistraße</name><desc>name=Tschaikowskistraße
+public_transport=stop_position
+railway=tram_stop
+ref=115
+tram=yes
+wheelchair=yes
+id=node/1222992205</desc></wpt><wpt lat="50.9705275" lon="11.0355321"><name>Löberwallgraben</name><desc>name=Löberwallgraben
+network=VMT
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1223091036</desc></wpt><wpt lat="50.8810988" lon="11.6307528"><name>Schlegelstraße</name><desc>name=Schlegelstraße
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:JNV=SLS
+tram=yes
+wheelchair=yes
+id=node/1272033514</desc></wpt><wpt lat="50.8849296" lon="11.6078788"><name>Emil-Wölk-Straße</name><desc>name=Emil-Wölk-Straße
+old_name=Kulturhaus Lobeda
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=EWS
+tram=yes
+wheelchair=yes
+id=node/1272033548</desc></wpt><wpt lat="50.961042" lon="10.9893774"><name>Messe</name><desc>from=Ringelberg
+name=Messe
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=P+R-Platz Messe
+tram=yes
+wheelchair=yes
+id=node/1369710788</desc></wpt><wpt lat="51.4939317" lon="10.7893166"><name>Bahnhofsplatz</name><desc>name=Bahnhofsplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1411479278</desc></wpt><wpt lat="51.4977284" lon="10.7926805"><name>Nordbrand</name><desc>name=Nordbrand
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1411512967</desc></wpt><wpt lat="51.501844" lon="10.7945915"><name>Rathaus/Kornmarkt</name><desc>name=Rathaus/Kornmarkt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1412487024</desc></wpt><wpt lat="51.5026431" lon="10.7976751"><name>Theaterplatz</name><desc>name=Theaterplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1412487066</desc></wpt><wpt lat="51.5026387" lon="10.7977969"><name>Theaterplatz</name><desc>name=Theaterplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1412487071</desc></wpt><wpt lat="51.5031029" lon="10.802275"><name>August-Bebel-Platz</name><desc>departures_board=timetable
+name=August-Bebel-Platz
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+wikidata=Q120804444
+id=node/1412514683</desc></wpt><wpt lat="51.5038334" lon="10.8149269"><name>Am Förstemannpark</name><desc>name=Am Förstemannpark
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q120804438
+id=node/1412537483</desc></wpt><wpt lat="50.9722073" lon="11.0371983"><name>Hauptbahnhof</name><desc>name=Hauptbahnhof
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+note=Straßenbahnlinien Ri. Norden
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1438349930</desc></wpt><wpt lat="50.9763936" lon="11.0346254"><name>Anger</name><desc>name=Anger
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+tram=yes
+wheelchair=yes
+id=node/1438349942</desc></wpt><wpt lat="50.9745055" lon="11.0190293"><name>Theater</name><desc>name=Theater
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1438434433</desc></wpt><wpt lat="50.9768531" lon="11.0249682"><name>Domplatz Süd</name><desc>name=Domplatz Süd
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1438434450</desc></wpt><wpt lat="50.9729869" lon="11.02266"><name>Brühler Garten/Lutherstraße</name><desc>name=Brühler Garten/Lutherstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+wheelchair:description=nur Havariehaltestelle
+id=node/1438724363</desc></wpt><wpt lat="50.9730963" lon="11.0210952"><name>Brühler Garten</name><desc>from=Ringelberg
+name=Brühler Garten
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+to=P+R-Platz Messe
+tram=yes
+wheelchair=yes
+id=node/1438753657</desc></wpt><wpt lat="50.9730715" lon="11.0267428"><name>Ersatzhaltestelle Lange Brücke</name><desc>name=Ersatzhaltestelle Lange Brücke
+note=Ersatzhaltestelle
+operator=Erfurter Verkehrsbetriebe AG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1438753660</desc></wpt><wpt lat="50.9709947" lon="11.0126163"><name>Gothaer Platz</name><desc>name=Gothaer Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1438753671</desc></wpt><wpt lat="50.9714316" lon="11.0156461"><name>Sparkassen-Finanzzentrum</name><desc>name=Sparkassen-Finanzzentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1438753697</desc></wpt><wpt lat="50.972019" lon="11.0177854"><name>Gorkistraße</name><desc>name=Gorkistraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1438753725</desc></wpt><wpt lat="50.9629589" lon="10.9948591"><name>mdr/Kinderkanal</name><desc>name=mdr/Kinderkanal
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1439166378</desc></wpt><wpt lat="50.9652277" lon="10.9981964"><name>egapark</name><desc>name=egapark
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439166456</desc></wpt><wpt lat="50.9738137" lon="11.0003464"><name>Nibelungenweg</name><desc>name=Nibelungenweg
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439206802</desc></wpt><wpt lat="50.9748438" lon="11.0043439"><name>Gamstädter Weg</name><desc>name=Gamstädter Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439206809</desc></wpt><wpt lat="50.9763829" lon="11.0102724"><name>Bundesarbeitsgericht</name><desc>name=Bundesarbeitsgericht
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439206810</desc></wpt><wpt lat="50.973925" lon="11.0119747"><name>Justizzentrum</name><desc>name=Justizzentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1439206813</desc></wpt><wpt lat="50.9726039" lon="10.9929523"><name>Hauptfriedhof</name><desc>name=Hauptfriedhof
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439206832</desc></wpt><wpt lat="50.9729431" lon="10.9933162"><name>Hauptfriedhof</name><desc>name=Hauptfriedhof
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439206838</desc></wpt><wpt lat="50.974454" lon="11.0120768"><name>Justizzentrum</name><desc>name=Justizzentrum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1439206867</desc></wpt><wpt lat="50.9721867" lon="10.9717428"><name>Volkenroder Weg</name><desc>name=Volkenroder Weg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439219053</desc></wpt><wpt lat="50.9713736" lon="10.9827386"><name>Am Kreuzchen</name><desc>name=Am Kreuzchen
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439219077</desc></wpt><wpt lat="50.9727289" lon="10.9662888"><name>Orionstraße</name><desc>name=Orionstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439219078</desc></wpt><wpt lat="50.9747154" lon="10.961918"><name>Flughafen/Airport</name><desc>name=Flughafen/Airport
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439219092</desc></wpt><wpt lat="50.9723869" lon="10.9610946"><name>Büropark Airfurt</name><desc>name=Büropark Airfurt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439228324</desc></wpt><wpt lat="50.9723797" lon="10.9611556"><name>Büropark Airfurt</name><desc>name=Büropark Airfurt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439228330</desc></wpt><wpt lat="50.9824113" lon="11.030868"><name>Augustinerkloster</name><desc>name=Augustinerkloster
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439250054</desc></wpt><wpt lat="50.9798412" lon="11.0343483"><name>Stadtmuseum/Kaisersaal</name><desc>name=Stadtmuseum/Kaisersaal
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439250067</desc></wpt><wpt lat="50.9825684" lon="11.0306057"><name>Augustinerkloster</name><desc>name=Augustinerkloster
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439250073</desc></wpt><wpt lat="50.9944232" lon="11.0256459"><name>Wendenstraße</name><desc>name=Wendenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439270209</desc></wpt><wpt lat="50.9989168" lon="11.0269082"><name>Ilversgehofener Platz</name><desc>name=Ilversgehofener Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439270211</desc></wpt><wpt lat="50.985285" lon="11.0281679"><name>Boyneburgufer</name><desc>name=Boyneburgufer
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439270239</desc></wpt><wpt lat="51.0023143" lon="11.0176848"><name>Mainzer Straße</name><desc>name=Mainzer Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439316812</desc></wpt><wpt lat="51.0030657" lon="11.0232653"><name>Mittelhäuser Straße</name><desc>name=Mittelhäuser Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439316830</desc></wpt><wpt lat="51.0050653" lon="11.0159039"><name>Rieth</name><desc>name=Rieth
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref=RIET
+tram=yes
+wheelchair=yes
+id=node/1439341978</desc></wpt><wpt lat="51.0052879" lon="11.0119368"><name>Vilniuser Straße</name><desc>name=Vilniuser Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439341980</desc></wpt><wpt lat="51.0050811" lon="11.0159985"><name>Rieth</name><desc>name=Rieth
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref=RIET
+tram=yes
+wheelchair=yes
+id=node/1439342013</desc></wpt><wpt lat="51.003123" lon="11.0059741"><name>Berliner Straße</name><desc>name=Berliner Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439387125</desc></wpt><wpt lat="51.013333" lon="11.0261917"><name>August-Frölich-Straße</name><desc>name=August-Frölich-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439387160</desc></wpt><wpt lat="51.0202331" lon="11.0235055"><name>Zoopark</name><desc>name=Zoopark
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/1439387171</desc></wpt><wpt lat="51.0047035" lon="11.0316039"><name>Grubenstraße</name><desc>name=Grubenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439387237</desc></wpt><wpt lat="51.0166492" lon="11.0230987"><name>Roter Berg</name><desc>name=Roter Berg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1439387284</desc></wpt><wpt lat="51.0097389" lon="11.0331087"><name>An der Lache</name><desc>name=An der Lache
+public_transport=stop_position
+railway=tram_stop
+toilets:wheelchair=no
+tram=yes
+wheelchair=yes
+id=node/1439387297</desc></wpt><wpt lat="51.0127409" lon="11.0324163"><name>Bunsenstraße</name><desc>name=Bunsenstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1439387308</desc></wpt><wpt lat="50.980266" lon="11.0223786"><name>Webergasse/Andreaskirche</name><desc>name=Webergasse/Andreaskirche
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1440123628</desc></wpt><wpt lat="50.9777785" lon="11.0245203"><name>Domplatz Nord</name><desc>name=Domplatz Nord
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/1440123709</desc></wpt><wpt lat="50.9850702" lon="11.0179953"><name>Bergstraße</name><desc>bus=yes
+name=Bergstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1440165783</desc></wpt><wpt lat="50.9911383" lon="11.0118664"><name>Universität</name><desc>name=Universität
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1440165788</desc></wpt><wpt lat="50.9864581" lon="11.0164052"><name>Baumerstraße</name><desc>name=Baumerstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1440165851</desc></wpt><wpt lat="50.9834316" lon="11.0197923"><name>Bergstraße</name><desc>bus=yes
+name=Bergstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=no
+id=node/1440165859</desc></wpt><wpt lat="51.0027533" lon="11.003118"><name>Warschauer Straße</name><desc>name=Warschauer Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1440192806</desc></wpt><wpt lat="50.9951191" lon="11.0089445"><name>Klinikum</name><desc>name=Klinikum
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1440192907</desc></wpt><wpt lat="51.0092742" lon="10.9943351"><name>Thüringen-Park</name><desc>name=Thüringen-Park
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1440193001</desc></wpt><wpt lat="50.9988852" lon="11.0062067"><name>Riethstraße</name><desc>name=Riethstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1440193008</desc></wpt><wpt lat="51.0055717" lon="10.9998578"><name>Straße der Nationen</name><desc>name=Straße der Nationen
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1440193021</desc></wpt><wpt lat="51.0062652" lon="10.9983909"><name>Straße der Nationen</name><desc>name=Straße der Nationen
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1440193035</desc></wpt><wpt lat="50.9583756" lon="11.0354238"><name>Thüringenhalle</name><desc>name=Thüringenhalle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1440232779</desc></wpt><wpt lat="50.9891496" lon="11.054652"><name>Krämpfer Gärten</name><desc>name=Krämpfer Gärten
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1559105485</desc></wpt><wpt lat="50.9893265" lon="11.055113"><name>Krämpfer Gärten</name><desc>name=Krämpfer Gärten
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1559105488</desc></wpt><wpt lat="50.8991763" lon="11.5883221"><name>Sparkassen-Arena</name><desc>name=Sparkassen-Arena
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SPA
+tram=yes
+wheelchair=yes
+id=node/1684175648</desc></wpt><wpt lat="50.9199724" lon="11.5894579"><name>Jenertal</name><desc>name=Jenertal
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=JTL
+tram=yes
+wheelchair=yes
+id=node/1684176076</desc></wpt><wpt lat="50.9251476" lon="11.5879293"><name>Paradiesbahnhof</name><desc>name=Paradiesbahnhof
+network=VMT
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=PBF
+tram=yes
+wheelchair=yes
+id=node/1684176116</desc></wpt><wpt lat="50.9391978" lon="10.6816132"><name>Schöne Aussicht</name><desc>name=Schöne Aussicht
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1695138522</desc></wpt><wpt lat="50.9335196" lon="11.6137884"><name>Löbichauer Straße</name><desc>name=Löbichauer Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOE
+tram=yes
+id=node/1720353263</desc></wpt><wpt lat="50.9270833" lon="11.5859737"><name>Holzmarkt</name><desc>name=Holzmarkt
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=HLZ
+tram=yes
+wheelchair=yes
+id=node/1730385174</desc></wpt><wpt lat="50.9246853" lon="11.5861615"><name>Paradiesbahnhof West</name><desc>name=Paradiesbahnhof West
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=PBW
+tram=yes
+wheelchair=yes
+id=node/1730393994</desc></wpt><wpt lat="50.9269866" lon="11.5877332"><name>Stadtzentrum Löbdergraben</name><desc>name=Stadtzentrum Löbdergraben
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LGR
+tram=yes
+wheelchair=yes
+id=node/1730400269</desc></wpt><wpt lat="50.9332231" lon="11.5905064"><name>Spittelplatz</name><desc>name=Spittelplatz
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SPI
+tram=yes
+wheelchair=yes
+id=node/1730884418</desc></wpt><wpt lat="50.9286398" lon="11.5917319"><name>Steinweg</name><desc>name=Steinweg
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=STW
+tram=yes
+wheelchair=yes
+id=node/1730884477</desc></wpt><wpt lat="50.9294847" lon="11.5907455"><name>Universität</name><desc>name=Universität
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=UNI
+tram=yes
+wheelchair=yes
+id=node/1730884630</desc></wpt><wpt lat="50.9285962" lon="11.5918197"><name>Steinweg</name><desc>name=Steinweg
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=STW
+tram=yes
+wheelchair=yes
+id=node/1730918761</desc></wpt><wpt lat="50.9066941" lon="11.5766692"><name>Ringwiese</name><desc>name=Ringwiese
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=RIW
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1830644875</desc></wpt><wpt lat="50.9151493" lon="11.5764493"><name>Mühlenstraße</name><desc>name=Mühlenstraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=MUL
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/1830645148</desc></wpt><wpt lat="50.9209582" lon="11.5814091"><name>Felsenkeller</name><desc>name=Felsenkeller
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=FEL
+tram=yes
+wheelchair=yes
+id=node/1830645350</desc></wpt><wpt lat="50.8983481" lon="11.5938224"><name>Burgaupark</name><desc>name=Burgaupark
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=BUP
+tram=yes
+wheelchair=yes
+id=node/1831582473</desc></wpt><wpt lat="50.8849588" lon="11.6078577"><name>Emil-Wölk-Straße</name><desc>name=Emil-Wölk-Straße
+old_name=Kulturhaus Lobeda
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=EWS
+tram=yes
+wheelchair=yes
+id=node/1831585440</desc></wpt><wpt lat="50.9271042" lon="11.5859979"><name>Holzmarkt</name><desc>name=Holzmarkt
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=HLZ
+tram=yes
+wheelchair=yes
+id=node/1832018501</desc></wpt><wpt lat="50.8984418" lon="11.5859779"><name>Freizeitbad</name><desc>name=Freizeitbad
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=FZB
+tram=yes
+wheelchair=yes
+id=node/1839997617</desc></wpt><wpt lat="50.899939" lon="11.5786741"><name>Enver-Şimşek-Platz</name><desc>name=Enver-Şimşek-Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+old_name=Damaschkeweg
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SIP
+tram=yes
+wheelchair=yes
+id=node/1839997637</desc></wpt><wpt lat="50.8999462" lon="11.5787221"><name>Enver-Şimşek-Platz</name><desc>name=Enver-Şimşek-Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+old_name=Damaschkeweg
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SIP
+tram=yes
+wheelchair=yes
+id=node/1839997638</desc></wpt><wpt lat="50.8948159" lon="11.5829661"><name>Winzerla</name><desc>name=Winzerla
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:JNV=WIN
+tram=yes
+wheelchair=yes
+id=node/1854212875</desc></wpt><wpt lat="50.9409757" lon="10.686737"><name>Wagenhalle</name><desc>name=Wagenhalle
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1905337496</desc></wpt><wpt lat="50.9889092" lon="11.0704896"><name>Wagenfeldstraße</name><desc>name=Wagenfeldstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1933365143</desc></wpt><wpt lat="50.9887961" lon="11.0700284"><name>Wagenfeldstraße</name><desc>name=Wagenfeldstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1933365147</desc></wpt><wpt lat="50.9870786" lon="11.064249"><name>Ringelberg</name><desc>name=Ringelberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1933365151</desc></wpt><wpt lat="50.9765087" lon="11.0339928"><name>Anger</name><desc>name=Anger
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+ref=3
+tram=yes
+wheelchair=yes
+id=node/1933378336</desc></wpt><wpt lat="50.9042456" lon="12.086564"><name>Heidecksburgstraße</name><desc>name=Heidecksburgstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1986-12-18
+tram=yes
+wheelchair=yes
+id=node/1973985627</desc></wpt><wpt lat="50.9040956" lon="12.0723034"><name>Duale Hochschule</name><desc>name=Duale Hochschule
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1986-12-18
+tram=yes
+id=node/1974002400</desc></wpt><wpt lat="50.8937072" lon="12.0802624"><name>Straße des Bergmanns</name><desc>name=Straße des Bergmanns
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1974017975</desc></wpt><wpt lat="50.8999825" lon="12.0732363"><name>Tinz</name><desc>name=Tinz
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1974018009</desc></wpt><wpt lat="50.8727957" lon="12.0824086"><name>Schmelzhüttenstraße</name><desc>name=Schmelzhüttenstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/1974807160</desc></wpt><wpt lat="50.8725449" lon="12.0760494"><name>Südbahnhof</name><desc>name=Südbahnhof
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1974821978</desc></wpt><wpt lat="50.861134" lon="12.0729127"><name>Südfriedhof</name><desc>name=Südfriedhof
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/1974833882</desc></wpt><wpt lat="50.8842921" lon="12.0690413"><name>Friedrich-Naumann-Platz</name><desc>name=Friedrich-Naumann-Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/1974865790</desc></wpt><wpt lat="50.8579938" lon="12.0891952"><name>Pforten</name><desc>name=Pforten
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+id=node/1974904041</desc></wpt><wpt lat="50.8950395" lon="10.5631971"><name>Goethestraße</name><desc>name=Goethestraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/1977587086</desc></wpt><wpt lat="50.8968793" lon="10.5604628"><name>Albrechtstraße</name><desc>name=Albrechtstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1977589010</desc></wpt><wpt lat="50.9437057" lon="10.7112299"><name>Bahnhofstraße</name><desc>name=Bahnhofstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1985739473</desc></wpt><wpt lat="50.9440644" lon="10.7111537"><name>Bahnhofstraße</name><desc>name=Bahnhofstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+id=node/1985739477</desc></wpt><wpt lat="50.9470318" lon="10.7098828"><name>Orangerie</name><desc>name=Orangerie
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tactile_paving=yes
+tram=yes
+wheelchair=limited
+id=node/1985739491</desc></wpt><wpt lat="50.9422357" lon="10.6900591"><name>Ernststraße</name><desc>name=Ernststraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1985777219</desc></wpt><wpt lat="50.9468929" lon="10.6977563"><name>Myconiusplatz</name><desc>bin=yes
+name=Myconiusplatz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair:description=Kasseler Bord vorhanden
+id=node/1985777301</desc></wpt><wpt lat="50.9510063" lon="10.7023058"><name>Gartenstraße</name><desc>name=Gartenstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/1985777392</desc></wpt><wpt lat="50.8952629" lon="11.5971983"><name>Alte Burgauer Brücke</name><desc>name=Alte Burgauer Brücke
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=ABB
+tram=yes
+wheelchair=yes
+id=node/2026686968</desc></wpt><wpt lat="50.8837578" lon="11.5948324"><name>Göschwitz Bahnhof</name><desc>name=Göschwitz Bahnhof
+passenger_information_display=yes
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=GOB
+tram=yes
+wheelchair=yes
+id=node/2026686972</desc></wpt><wpt lat="50.8909511" lon="11.5937817"><name>Felsbachstraße</name><desc>name=Felsbachstraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=FBS
+tram=yes
+wheelchair=yes
+id=node/2026686980</desc></wpt><wpt lat="50.8867688" lon="11.5943522"><name>Jenoptik</name><desc>name=Jenoptik
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=JOP
+tram=yes
+wheelchair=yes
+id=node/2026686984</desc></wpt><wpt lat="50.8828349" lon="11.6034482"><name>Lobeda-West</name><desc>name=Lobeda-West
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOW
+tram=yes
+wheelchair=yes
+id=node/2026686988</desc></wpt><wpt lat="50.8828682" lon="11.6032735"><name>Lobeda-West</name><desc>name=Lobeda-West
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOW
+tram=yes
+wheelchair=yes
+id=node/2026686992</desc></wpt><wpt lat="50.8927881" lon="11.5950367"><name>Ernst-Ruska-Ring</name><desc>name=Ernst-Ruska-Ring
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=ERR
+tram=yes
+wheelchair=yes
+id=node/2026687234</desc></wpt><wpt lat="50.9374761" lon="11.5885672"><name>Nordschule</name><desc>name=Nordschule
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=NSL
+tram=yes
+wheelchair=yes
+id=node/2026739636</desc></wpt><wpt lat="50.9409646" lon="11.591317"><name>Scharnhorststraße</name><desc>name=Scharnhorststraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SHS
+tram=yes
+wheelchair=yes
+id=node/2026739684</desc></wpt><wpt lat="50.9487609" lon="11.6015619"><name>Altenburger Straße</name><desc>name=Altenburger Straße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=ABG
+short_name=Altenburger Straße
+tram=yes
+wheelchair=yes
+id=node/2026764341</desc></wpt><wpt lat="50.9460311" lon="11.5974983"><name>An der Eule</name><desc>name=An der Eule
+public_transport=stop_position
+railway=tram_stop
+ref=Steig 2
+ref:JNV=EUL
+tram=yes
+wheelchair=yes
+id=node/2026764345</desc></wpt><wpt lat="50.9433678" lon="11.5941006"><name>Kieshügel</name><desc>name=Kieshügel
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=KIE
+tram=yes
+wheelchair=yes
+id=node/2026764349</desc></wpt><wpt lat="50.9374662" lon="11.5885947"><name>Nordschule</name><desc>name=Nordschule
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=NSL
+tram=yes
+wheelchair=yes
+id=node/2026764352</desc></wpt><wpt lat="50.9418484" lon="11.5918942"><name>Scharnhorststraße</name><desc>name=Scharnhorststraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SHS
+tram=yes
+wheelchair=yes
+id=node/2026764648</desc></wpt><wpt lat="50.9292852" lon="11.6002535"><name>Geschwister-Scholl-Straße</name><desc>name=Geschwister-Scholl-Straße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=GSS
+tram=yes
+wheelchair=yes
+id=node/2045933395</desc></wpt><wpt lat="50.9293173" lon="11.6002313"><name>Geschwister-Scholl-Straße</name><desc>name=Geschwister-Scholl-Straße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=GSS
+tram=yes
+wheelchair=yes
+id=node/2045933396</desc></wpt><wpt lat="50.9341374" lon="11.6075897"><name>Jenzigweg</name><desc>name=Jenzigweg
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=JWG
+tram=yes
+wheelchair=yes
+id=node/2045933399</desc></wpt><wpt lat="50.8794562" lon="11.6352941"><name>Lobeda-Ost</name><desc>name=Lobeda-Ost
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+operator=JNV
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOO
+tram=yes
+id=node/2045933402</desc></wpt><wpt lat="50.8796442" lon="11.6346907"><name>Lobeda-Ost</name><desc>name=Lobeda-Ost
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+operator=JNV
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOO
+tram=yes
+id=node/2045933403</desc></wpt><wpt lat="50.8867301" lon="11.616308"><name>Platanenstraße</name><desc>name=Platanenstraße
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=PLA
+tram=yes
+wheelchair=yes
+id=node/2045933404</desc></wpt><wpt lat="50.8822958" lon="11.6228233"><name>Richard-Sorge-Straße</name><desc>name=Richard-Sorge-Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+public_transport=stop_position
+railway=tram_stop
+ref=2
+ref:JNV=RSS
+tram=yes
+wheelchair=yes
+id=node/2045933620</desc></wpt><wpt lat="50.8840727" lon="11.6195712"><name>Universitätsklinikum</name><desc>name=Universitätsklinikum
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+network:wikipedia=de:Verkehrsverbund Mittelthüringen
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=KLI
+tram=yes
+wheelchair=yes
+id=node/2045933626</desc></wpt><wpt lat="51.0007853" lon="11.0281409"><name>Salinenstraße</name><desc>bench=yes
+bin=yes
+check_date:shelter=2021-04-28
+name=Salinenstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+ref=2
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/2046485900</desc></wpt><wpt lat="51.0008918" lon="11.0282922"><name>Salinenstraße</name><desc>name=Salinenstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+ref=1
+tram=yes
+id=node/2046485906</desc></wpt><wpt lat="51.0008231" lon="11.0277423"><name>Salinenstraße</name><desc>name=Salinenstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+ref=4
+tram=yes
+wheelchair=yes
+id=node/2046504914</desc></wpt><wpt lat="51.0011239" lon="11.0275995"><name>Salinenstraße</name><desc>bench=yes
+bus=yes
+name=Salinenstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+ref=3
+shelter=yes
+source=survey
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/2046504922</desc></wpt><wpt lat="50.9986291" lon="11.0267665"><name>Ilversgehofener Platz</name><desc>name=Ilversgehofener Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2046644197</desc></wpt><wpt lat="50.9006563" lon="12.0956075"><name>Ernst-Abbe-Straße</name><desc>name=Ernst-Abbe-Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1989-04-24
+tram=yes
+id=node/2050001963</desc></wpt><wpt lat="50.877438" lon="12.0831342"><name>Sorge/Markt</name><desc>name=Sorge/Markt
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=1984-06-01
+tram=yes
+wheelchair=yes
+id=node/2168749049</desc></wpt><wpt lat="50.9344708" lon="10.6756608"><name>Inselsbergstraße</name><desc>name=Inselsbergstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+old_name=Am ha we ge - Markt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2192815509</desc></wpt><wpt lat="50.9346413" lon="10.6756849"><name>Inselsbergstraße</name><desc>name=Inselsbergstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+old_name=Am ha we ge - Markt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2192815510</desc></wpt><wpt lat="50.8837129" lon="12.0830583"><name>Friedrich-Engels-Straße</name><desc>name=Friedrich-Engels-Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2273730239</desc></wpt><wpt lat="50.883734" lon="12.0830991"><name>Friedrich-Engels-Straße</name><desc>name=Friedrich-Engels-Straße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2273730243</desc></wpt><wpt lat="50.8758983" lon="12.0794577"><name>Heinrichstraße</name><desc>name=Heinrichstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=HEIN
+tram=yes
+wheelchair=yes
+id=node/2273730257</desc></wpt><wpt lat="50.8797467" lon="12.0845107"><name>Leipziger Straße/Metropol</name><desc>name=Leipziger Straße/Metropol
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2273730267</desc></wpt><wpt lat="50.8700855" lon="12.0724664"><name>An der Spielwiese</name><desc>name=An der Spielwiese
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2273730279</desc></wpt><wpt lat="50.8926048" lon="11.6021094"><name>Lobeda</name><desc>name=Lobeda
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOB
+tram=yes
+wheelchair=yes
+wikidata=Q108601809
+id=node/2301675660</desc></wpt><wpt lat="50.9439573" lon="10.6948672"><name>18.-März-Straße</name><desc>name=18.-März-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2306744593</desc></wpt><wpt lat="50.9425516" lon="10.6909587"><name>Ernststraße</name><desc>name=Ernststraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2306744595</desc></wpt><wpt lat="50.9512664" lon="10.7037107"><name>Gartenstraße</name><desc>name=Gartenstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2306747690</desc></wpt><wpt lat="50.9512477" lon="10.7079241"><name>Huttenstraße</name><desc>name=Huttenstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2306756313</desc></wpt><wpt lat="50.9573878" lon="10.7175421"><name>Leinefelder Straße</name><desc>name=Leinefelder Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2309814778</desc></wpt><wpt lat="50.95537" lon="10.7137837"><name>Reuterstraße</name><desc>name=Reuterstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2309815639</desc></wpt><wpt lat="50.955109" lon="10.7129996"><name>Reuterstraße</name><desc>name=Reuterstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2309815770</desc></wpt><wpt lat="50.9526655" lon="10.7076828"><name>Hersdorfstraße</name><desc>name=Hersdorfstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2309817206</desc></wpt><wpt lat="51.5088594" lon="10.786207"><name>Am Alten Tor</name><desc>name=Am Alten Tor
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2317715447</desc></wpt><wpt lat="50.8656449" lon="12.0727801"><name>Oststraße</name><desc>name=Oststraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2332744440</desc></wpt><wpt lat="50.8654367" lon="12.0728571"><name>Oststraße</name><desc>name=Oststraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/2332744441</desc></wpt><wpt lat="50.9776857" lon="11.0291107"><name>Fischmarkt/Rathaus</name><desc>name=Fischmarkt/Rathaus
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/2517459617</desc></wpt><wpt lat="50.9775559" lon="11.029191"><name>Fischmarkt/Rathaus</name><desc>name=Fischmarkt/Rathaus
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/2517459618</desc></wpt><wpt lat="50.9152687" lon="11.5871861"><name>Sportforum</name><desc>name=Sportforum
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=STA
+tram=yes
+wheelchair=yes
+id=node/2578650460</desc></wpt><wpt lat="50.898381" lon="11.5931109"><name>Burgaupark</name><desc>name=Burgaupark
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=BUP
+tram=yes
+wheelchair=yes
+id=node/2621259933</desc></wpt><wpt lat="50.9336601" lon="11.6199051"><name>Jena Ost</name><desc>name=Jena Ost
+network=VMT
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=JOS
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/2621259936</desc></wpt><wpt lat="51.4938815" lon="10.7892976"><name>Bahnhofsplatz</name><desc>name=Bahnhofsplatz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2626857260</desc></wpt><wpt lat="50.9499773" lon="10.6980546"><name>Bertha-von-Suttner-Platz</name><desc>name=Bertha-von-Suttner-Platz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+id=node/2851619293</desc></wpt><wpt lat="51.0129744" lon="10.9918395"><name>Europaplatz</name><desc>name=Europaplatz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/2943194097</desc></wpt><wpt lat="50.8825442" lon="12.0716498"><name>Otto Dix</name><desc>name=Otto Dix
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/2967583473</desc></wpt><wpt lat="50.9501588" lon="11.0624359"><name>Wiesenhügel</name><desc>name=Wiesenhügel
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=EVAG
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/2974095492</desc></wpt><wpt lat="50.9735749" lon="11.0297298"><name>Hirschgarten</name><desc>from=P+R-Platz Messe
+name=Hirschgarten
+public_transport=stop_position
+railway=tram_stop
+to=Ringelberg
+tram=yes
+wheelchair=yes
+id=node/3077397372</desc></wpt><wpt lat="50.972265" lon="11.0259682"><name>Karl-Marx-Platz</name><desc>name=Karl-Marx-Platz
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3077397373</desc></wpt><wpt lat="50.8703911" lon="12.0724995"><name>An der Spielwiese</name><desc>name=An der Spielwiese
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3077537314</desc></wpt><wpt lat="50.8904097" lon="12.0691251"><name>Untermhaus</name><desc>name=Untermhaus
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/3077538554</desc></wpt><wpt lat="50.9505851" lon="11.6067222"><name>Stifterstraße</name><desc>name=Stifterstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=STI
+tram=yes
+wheelchair=yes
+id=node/3104091210</desc></wpt><wpt lat="50.9742961" lon="11.0302308"><name>Angerbrunnen</name><desc>name=Angerbrunnen
+note=from Ringelberg to P+R-Platz Messe
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tram=yes
+wheelchair=yes
+id=node/3120361071</desc></wpt><wpt lat="50.9326293" lon="11.5902958"><name>Spittelplatz</name><desc>name=Spittelplatz
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=SPI
+tram=yes
+wheelchair=yes
+id=node/3139587568</desc></wpt><wpt lat="50.9023655" lon="12.0917596"><name>Hilde-Coppi-Straße</name><desc>name=Hilde-Coppi-Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=1989-04-24
+tram=yes
+id=node/3155450342</desc></wpt><wpt lat="50.8968128" lon="12.0767478"><name>Grüner Weg</name><desc>name=Grüner Weg
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3283946268</desc></wpt><wpt lat="50.8870084" lon="12.0821219"><name>Herderstraße/Stadtarchiv</name><desc>name=Herderstraße/Stadtarchiv
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3284700732</desc></wpt><wpt lat="50.8872516" lon="12.0820916"><name>Herderstraße/Stadtarchiv</name><desc>name=Herderstraße/Stadtarchiv
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3284700739</desc></wpt><wpt lat="50.8537992" lon="12.0727847"><name>Keplerstraße</name><desc>name=Keplerstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3285007202</desc></wpt><wpt lat="50.8788852" lon="12.0785234"><name>Puschkinplatz/Bibliothek</name><desc>name=Puschkinplatz/Bibliothek
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/3285695665</desc></wpt><wpt lat="50.8632126" lon="12.0848321"><name>Wintergarten</name><desc>name=Wintergarten
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/3285846884</desc></wpt><wpt lat="50.8633454" lon="12.0852892"><name>Wintergarten</name><desc>name=Wintergarten
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/3285846885</desc></wpt><wpt lat="50.906694" lon="11.5766248"><name>Ringwiese</name><desc>name=Ringwiese
+operator=JeNah
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=RIW
+tram=yes
+wheelchair=yes
+id=node/3379021872</desc></wpt><wpt lat="50.8692123" lon="12.0840884"><name>Erfurtstraße</name><desc>name=Erfurtstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+id=node/3399986347</desc></wpt><wpt lat="50.8701095" lon="12.0836972"><name>Erfurtstraße</name><desc>name=Erfurtstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+id=node/3399986348</desc></wpt><wpt lat="50.852318" lon="12.0892747"><name>Lasurstraße</name><desc>name=Lasurstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+id=node/3399986349</desc></wpt><wpt lat="50.8790736" lon="12.0788404"><name>Puschkinplatz/Bibliothek</name><desc>name=Puschkinplatz/Bibliothek
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/3399986350</desc></wpt><wpt lat="50.9499551" lon="11.0930937"><name>Urbicher Kreuz</name><desc>name=Urbicher Kreuz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3505084189</desc></wpt><wpt lat="50.9503402" lon="11.0936221"><name>Urbicher Kreuz</name><desc>name=Urbicher Kreuz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3505212917</desc></wpt><wpt lat="50.9499252" lon="11.09317"><name>Urbicher Kreuz</name><desc>name=Urbicher Kreuz
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=limited
+id=node/3505212918</desc></wpt><wpt lat="51.5020044" lon="10.7947082"><name>Rathaus/Kornmarkt</name><desc>name=Rathaus/Kornmarkt
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3593108389</desc></wpt><wpt lat="50.9303902" lon="10.6735356"><name>Sundhausen</name><desc>name=Sundhausen
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/3612409592</desc></wpt><wpt lat="50.9966448" lon="11.0115941"><name>Marie-Elise-Kayser-Straße</name><desc>name=Marie-Elise-Kayser-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3797432692</desc></wpt><wpt lat="50.9794653" lon="11.0345983"><name>Stadtmuseum/Kaisersaal</name><desc>name=Stadtmuseum/Kaisersaal
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/3933100789</desc></wpt><wpt lat="50.9764763" lon="11.025245"><name>Domplatz Süd (Abfahrt Stadtrundfahrten)</name><desc>name=Domplatz Süd (Abfahrt Stadtrundfahrten)
+railway=tram_stop
+tram=yes
+website=https://www.erfurt-tourismus.de/stadtfuehrungen-und-rundfahrten/oeffentliche-fuehrungen-und-rundfahrten/die-erfurt-tour-mit-der-strassenbahn/
+wheelchair=no
+id=node/4477847918</desc></wpt><wpt lat="50.858909" lon="12.0728025"><name>Schenkendorfstraße</name><desc>name=Schenkendorfstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4791475807</desc></wpt><wpt lat="50.8572711" lon="12.0728293"><name>Schenkendorfstraße</name><desc>name=Schenkendorfstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/4801015768</desc></wpt><wpt lat="50.875628" lon="12.0788989"><name>Heinrichstraße</name><desc>name=Heinrichstraße
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=HEIN
+tram=yes
+wheelchair=yes
+id=node/5051630183</desc></wpt><wpt lat="50.8824213" lon="12.076714"><name>Hauptbahnhof/Theater</name><desc>name=Hauptbahnhof/Theater
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/5316212146</desc></wpt><wpt lat="50.8824505" lon="12.0767405"><name>Hauptbahnhof/Theater</name><desc>name=Hauptbahnhof/Theater
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+start_date=2006-11-05
+tram=yes
+wheelchair=yes
+id=node/5316212181</desc></wpt><wpt lat="50.9514719" lon="10.7078605"><name>Huttenstraße</name><desc>name=Huttenstraße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7814207224</desc></wpt><wpt lat="51.5022177" lon="10.7869772"><name>Grimmel</name><desc>name=Grimmel
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7815497394</desc></wpt><wpt lat="50.9568019" lon="10.716936"><name>Leinefelder Straße</name><desc>name=Leinefelder Straße
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7845813464</desc></wpt><wpt lat="50.8636629" lon="10.5614874"><name>Reinhardsbrunn Bahnhof</name><desc>name=Reinhardsbrunn Bahnhof
+public_transport=stop_position
+railway=tram_stop
+to=Tabarz
+tram=yes
+id=node/7870109204</desc></wpt><wpt lat="50.9115416" lon="10.6537381"><name>Boxberg</name><desc>name=Boxberg
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7870564111</desc></wpt><wpt lat="50.8650687" lon="10.5409828"><name>Marienglashöhle</name><desc>name=Marienglashöhle
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7880129164</desc></wpt><wpt lat="50.9442089" lon="10.6955397"><name>18.-März-Straße</name><desc>name=18.-März-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/7880148952</desc></wpt><wpt lat="50.9507538" lon="11.611373"><name>Jena, Löbstedt</name><desc>name=Jena, Löbstedt
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOS
+short_name=Löbstedt
+tram=yes
+wheelchair=yes
+id=node/7881800758</desc></wpt><wpt lat="50.9507034" lon="11.6112615"><name>Jena, Löbstedt</name><desc>name=Jena, Löbstedt
+network=Verkehrsverbund Mittelthüringen
+network:guid=DE-TH-VMT
+network:short=VMT
+network:wikidata=Q2516468
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=LOS
+short_name=Löbstedt
+tram=yes
+wheelchair=yes
+id=node/7881800759</desc></wpt><wpt lat="50.9539555" lon="11.6149352"><name>Flurweg</name><desc>name=Flurweg
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=FLW
+tram=yes
+wheelchair=yes
+id=node/7881800760</desc></wpt><wpt lat="50.9539455" lon="11.6149858"><name>Flurweg</name><desc>name=Flurweg
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=FLW
+tram=yes
+wheelchair=yes
+id=node/7881800761</desc></wpt><wpt lat="51.4976747" lon="10.792562"><name>Nordbrand</name><desc>name=Nordbrand
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wheelchair=yes
+id=node/8749699730</desc></wpt><wpt lat="51.5035849" lon="10.800588"><name>Stolberger Straße</name><desc>name=Stolberger Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8749832630</desc></wpt><wpt lat="51.50565" lon="10.801034"><name>Wilhelm-Nebelung-Straße</name><desc>name=Wilhelm-Nebelung-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8749832638</desc></wpt><wpt lat="51.5098527" lon="10.8012456"><name>Alexander-Puschkin-Straße</name><desc>name=Alexander-Puschkin-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8749832644</desc></wpt><wpt lat="51.5141297" lon="10.8019692"><name>Dr.-Robert-Koch-Straße</name><desc>name=Dr.-Robert-Koch-Straße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/8749832653</desc></wpt><wpt lat="51.5155162" lon="10.7987425"><name>Südharzklinikum</name><desc>departures_board=no
+name=Südharzklinikum
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+wikidata=Q116487098
+id=node/8749832663</desc></wpt><wpt lat="51.5032812" lon="10.8199819"><name>Nordhausen Ost</name><desc>departures_board=realtime
+name=Nordhausen Ost
+public_transport=stop_position
+railway=tram_stop
+shelter=yes
+tactile_paving=no
+tram=yes
+wheelchair=yes
+wikidata=Q120804495
+id=node/9547649527</desc></wpt><wpt lat="51.5031117" lon="10.8018802"><name>August-Bebel-Platz</name><desc>departures_board=timetable
+name=August-Bebel-Platz
+public_transport=stop_position
+railway=tram_stop
+shelter=no
+tactile_paving=yes
+tram=yes
+wheelchair=yes
+id=node/9547689905</desc></wpt><wpt lat="51.5041872" lon="10.8063281"><name>Rückertstraße</name><desc>name=Rückertstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+wikidata=Q120804457
+id=node/9549039513</desc></wpt><wpt lat="51.5043372" lon="10.8074405"><name>Rückertstraße</name><desc>bus=yes
+name=Rückertstraße
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/9549039516</desc></wpt><wpt lat="50.849462" lon="12.0736761"><name>Gleisdreieck Lusan</name><desc>name=Gleisdreieck Lusan
+network=Verkehrsverbund Mittelthüringen
+network:short=VMT
+operator=GVB
+public_transport=stop_position
+railway=tram_stop
+ref=GLEI
+tram=yes
+wheelchair=limited
+id=node/10898994343</desc></wpt><wpt lat="50.8955763" lon="11.5822916"><name>Winzerla</name><desc>name=Winzerla
+public_transport=stop_position
+railway=tram_stop
+ref=3
+ref:JNV=WIN
+tram=yes
+wheelchair=yes
+id=node/11042335374</desc></wpt><wpt lat="50.9811021" lon="11.0217006"><name>Webergasse/Andreaskirche</name><desc>name=Webergasse/Andreaskirche
+public_transport=stop_position
+railway=tram_stop
+tram=yes
+id=node/11763427060</desc></wpt><wpt lat="50.9282204" lon="11.581394"><name>Ernst-Abbe Platz</name><desc>name=Ernst-Abbe Platz
+public_transport=stop_position
+railway=tram_stop
+ref:JNV=EAP
+tram=yes
+wheelchair=yes
+id=node/11874663426</desc></wpt><wpt lat="50.8748518" lon="10.5197825"><name>Bad Tabarz</name><desc>name=Bad Tabarz
+public_transport=stop_position
+railway=tram_stop
+ref=Gleis 2
+tram=yes
+id=node/12990317942</desc></wpt></gpx>

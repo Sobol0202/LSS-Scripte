@@ -1,0 +1,1782 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="50.8928319" lon="10.9481724"><name>Kreuz Erfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11153
+TMC:cid_58:tabcd_1:NextLocationCode=11154
+TMC:cid_58:tabcd_1:PrevLocationCode=11152
+highway=motorway_junction
+name=Kreuz Erfurt
+ref=45
+id=node/485951</desc></wpt><wpt lat="50.898631" lon="11.4371362"><name>Magdala</name><desc>ele=311.6
+highway=motorway_junction
+name=Magdala
+ref=51
+time=2004-06-04T17:34:17Z
+id=node/486220</desc></wpt><wpt lat="50.9014426" lon="10.7294167"><name>Gotha</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11150
+TMC:cid_58:tabcd_1:NextLocationCode=45644
+TMC:cid_58:tabcd_1:PrevLocationCode=45541
+ele=346.69
+highway=motorway_junction
+name=Gotha
+ref=42
+id=node/486469</desc></wpt><wpt lat="51.0064009" lon="10.2554546"><name>Raststätte Eisenach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11144
+TMC:cid_58:tabcd_1:NextLocationCode=11145
+TMC:cid_58:tabcd_1:PrevLocationCode=11143
+highway=motorway_junction
+name=Raststätte Eisenach
+id=node/487520</desc></wpt><wpt lat="50.8847995" lon="11.8458206"><name>Hermsdorfer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12786
+TMC:cid_58:tabcd_1:NextLocationCode=12787
+TMC:cid_58:tabcd_1:PrevLocationCode=12785
+highway=motorway_junction
+name=Hermsdorfer Kreuz
+ref=24
+id=node/488061</desc></wpt><wpt lat="50.3883195" lon="10.9169716"><name>Eisfeld-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=35070
+TMC:cid_58:tabcd_1:NextLocationCode=45538
+TMC:cid_58:tabcd_1:PrevLocationCode=31424
+highway=motorway_junction
+name=Eisfeld-Süd
+ref=6
+id=node/10788526</desc></wpt><wpt lat="50.4359814" lon="10.8835823"><name>Eisfeld-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45537
+TMC:cid_58:tabcd_1:NextLocationCode=45536
+TMC:cid_58:tabcd_1:PrevLocationCode=45538
+highway=motorway_junction
+name=Eisfeld-Nord
+ref=5
+id=node/10788539</desc></wpt><wpt lat="50.9064847" lon="10.6147973"><name>Gotha-Boxberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45541
+TMC:cid_58:tabcd_1:NextLocationCode=11150
+TMC:cid_58:tabcd_1:PrevLocationCode=11149
+highway=motorway_junction
+name=Gotha-Boxberg
+ref=41b
+id=node/10791120</desc></wpt><wpt lat="50.8535177" lon="11.0083197"><name>Arnstadt-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12691
+TMC:cid_58:tabcd_1:NextLocationCode=12690
+TMC:cid_58:tabcd_1:PrevLocationCode=45531
+highway=motorway_junction
+name=Arnstadt-Nord
+ref=13
+id=node/14208364</desc></wpt><wpt lat="50.7157888" lon="10.9660122"><name>Ilmenau-Ost</name><desc>highway=motorway_junction
+name=Ilmenau-Ost
+ref=15
+id=node/14208444</desc></wpt><wpt lat="50.6105445" lon="10.651916"><name>Dreieck Suhl</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45504
+TMC:cid_58:tabcd_1:NextLocationCode=45632
+TMC:cid_58:tabcd_1:PrevLocationCode=45636
+highway=motorway_junction
+name=Dreieck Suhl
+ref=20
+id=node/14209303</desc></wpt><wpt lat="50.5862643" lon="10.6684543"><name>Suhl-Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45534
+TMC:cid_58:tabcd_1:NextLocationCode=45533
+TMC:cid_58:tabcd_1:PrevLocationCode=45535
+highway=motorway_junction
+name=Suhl-Zentrum
+ref=2
+id=node/14209943</desc></wpt><wpt lat="50.5766051" lon="10.7195462"><name>Suhl-Friedberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45535
+TMC:cid_58:tabcd_1:NextLocationCode=45534
+TMC:cid_58:tabcd_1:PrevLocationCode=45536
+highway=motorway_junction
+name=Suhl-Friedberg
+ref=3
+id=node/14209963</desc></wpt><wpt lat="50.9536418" lon="10.9438597"><name>Erfurt-Bindersleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12689
+TMC:cid_58:tabcd_1:NextLocationCode=45527
+TMC:cid_58:tabcd_1:PrevLocationCode=45528
+highway=motorway_junction
+name=Erfurt-Bindersleben
+ref=11
+id=node/15163428</desc></wpt><wpt lat="50.8995836" lon="10.9468029"><name>Kreuz Erfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12690
+TMC:cid_58:tabcd_1:NextLocationCode=45528
+TMC:cid_58:tabcd_1:PrevLocationCode=12691
+highway=motorway_junction
+name=Kreuz Erfurt
+ref=12
+id=node/15842976</desc></wpt><wpt lat="50.4395248" lon="11.8033544"><name>Bad Lobenstein</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12779
+TMC:cid_58:tabcd_1:NextLocationCode=12780
+TMC:cid_58:tabcd_1:PrevLocationCode=12778
+highway=motorway_junction
+name=Bad Lobenstein
+ref=29
+id=node/15853313</desc></wpt><wpt lat="50.5480632" lon="11.7953328"><name>Schleiz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12780
+TMC:cid_58:tabcd_1:NextLocationCode=12781
+TMC:cid_58:tabcd_1:PrevLocationCode=12779
+highway=motorway_junction
+name=Schleiz
+ref=28
+id=node/16531644</desc></wpt><wpt lat="50.8930724" lon="10.9666999"><name>Kreuz Erfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12690
+TMC:cid_58:tabcd_1:NextLocationCode=45528
+TMC:cid_58:tabcd_1:PrevLocationCode=12691
+highway=motorway_junction
+name=Kreuz Erfurt
+ref=12
+id=node/20916402</desc></wpt><wpt lat="50.8239811" lon="11.0049554"><name>Arnstadt Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12692
+TMC:cid_58:tabcd_1:NextLocationCode=45531
+TMC:cid_58:tabcd_1:PrevLocationCode=45638
+highway=motorway_junction
+name=Arnstadt Süd
+old_ref=14
+ref=14a
+id=node/20916420</desc></wpt><wpt lat="50.7130939" lon="10.9605998"><name>Ilmenau-Ost</name><desc>highway=motorway_junction
+name=Ilmenau-Ost
+ref=15
+id=node/20916485</desc></wpt><wpt lat="50.7247423" lon="10.839122"><name>Gräfenroda</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12695
+TMC:cid_58:tabcd_1:NextLocationCode=45637
+TMC:cid_58:tabcd_1:PrevLocationCode=45977
+highway=motorway_junction
+name=Gräfenroda
+ref=17
+id=node/21275562</desc></wpt><wpt lat="50.642964" lon="10.6902784"><name>Suhl / Zella-Mehlis</name><desc>highway=motorway_junction
+name=Suhl / Zella-Mehlis
+ref=19
+id=node/21453694</desc></wpt><wpt lat="50.6085248" lon="10.6421096"><name>Dreieck Suhl</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45504
+TMC:cid_58:tabcd_1:NextLocationCode=45632
+TMC:cid_58:tabcd_1:PrevLocationCode=45636
+highway=motorway_junction
+name=Dreieck Suhl
+ref=20
+id=node/26559565</desc></wpt><wpt lat="50.9957412" lon="10.2951011"><name>Eisenach-Weststadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=13885
+TMC:cid_58:tabcd_1:NextLocationCode=13886
+TMC:cid_58:tabcd_1:PrevLocationCode=13884
+highway=motorway_junction
+name=Eisenach-Weststadt
+id=node/26854787</desc></wpt><wpt lat="50.9951017" lon="10.2898589"><name>Eisenach-Weststadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=13885
+TMC:cid_58:tabcd_1:NextLocationCode=13886
+TMC:cid_58:tabcd_1:PrevLocationCode=13884
+highway=motorway_junction
+name=Eisenach-Weststadt
+id=node/27699238</desc></wpt><wpt lat="50.5757504" lon="10.7229325"><name>Suhl-Friedberg</name><desc>highway=motorway_junction
+name=Suhl-Friedberg
+ref=3
+id=node/28396393</desc></wpt><wpt lat="50.5579571" lon="10.7306002"><name>Rastplatz Adlersberg</name><desc>highway=motorway_junction
+name=Rastplatz Adlersberg
+noref=yes
+id=node/28396437</desc></wpt><wpt lat="51.4625248" lon="10.7981548"><name>Nordhausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45516
+TMC:cid_58:tabcd_1:NextLocationCode=45517
+TMC:cid_58:tabcd_1:PrevLocationCode=45515
+alt_name=Nordhausen-Süd
+destination=Nordhausen;Erfurt;Sonderhausen
+highway=motorway_junction
+name=Nordhausen
+old_name=Nordhausen
+ref=11
+source:name=http://www.nnz-online.de/news/news_lang.php?ArtNr=119547
+id=node/29075382</desc></wpt><wpt lat="50.8969211" lon="11.9753752"><name>Rüdersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11168
+TMC:cid_58:tabcd_1:NextLocationCode=11169
+TMC:cid_58:tabcd_1:PrevLocationCode=11167
+highway=motorway_junction
+name=Rüdersdorf
+ref=57
+id=node/29137246</desc></wpt><wpt lat="51.0202651" lon="10.9714266"><name>Erfurt-Gispersleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45527
+TMC:cid_58:tabcd_1:NextLocationCode=45526
+TMC:cid_58:tabcd_1:PrevLocationCode=12689
+highway=motorway_junction
+name=Erfurt-Gispersleben
+ref=10
+id=node/29140138</desc></wpt><wpt lat="50.9610673" lon="11.1555698"><name>Klettbach/Hayn</name><desc>highway=motorway_junction
+name=Klettbach/Hayn
+id=node/29350730</desc></wpt><wpt lat="50.962566" lon="11.1610525"><name>Klettbach/Hayn</name><desc>highway=motorway_junction
+name=Klettbach/Hayn
+id=node/29350750</desc></wpt><wpt lat="50.9057416" lon="12.1203652"><name>Gera</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20097
+TMC:cid_58:tabcd_1:NextLocationCode=11170
+TMC:cid_58:tabcd_1:PrevLocationCode=11169
+highway=motorway_junction
+name=Gera
+ref=58b
+id=node/29511066</desc></wpt><wpt lat="50.8585424" lon="12.3109883"><name>Altenburger Land</name><desc>highway=motorway_junction
+name=Altenburger Land
+noref=yes
+id=node/29511090</desc></wpt><wpt lat="51.3986294" lon="10.0328603"><name>Arenshausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12684
+TMC:cid_58:tabcd_1:NextLocationCode=45507
+TMC:cid_58:tabcd_1:PrevLocationCode=12683
+highway=motorway_junction
+name=Arenshausen
+ref=4
+id=node/29907518</desc></wpt><wpt lat="50.5457915" lon="11.7992244"><name>Schleiz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12780
+TMC:cid_58:tabcd_1:NextLocationCode=12781
+TMC:cid_58:tabcd_1:PrevLocationCode=12779
+highway=motorway_junction
+name=Schleiz
+ref=28
+id=node/30049754</desc></wpt><wpt lat="50.5611625" lon="10.7301924"><name>Rastplatz Adlersberg</name><desc>highway=motorway_junction
+name=Rastplatz Adlersberg
+noref=yes
+id=node/30580808</desc></wpt><wpt lat="50.8723173" lon="11.5972133"><name>node/31918156</name><desc>highway=motorway_junction
+id=node/31918156</desc></wpt><wpt lat="51.4332721" lon="10.6015264"><name>Bleicherode</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45511
+TMC:cid_58:tabcd_1:NextLocationCode=45512
+TMC:cid_58:tabcd_1:PrevLocationCode=45639
+highway=motorway_junction
+name=Bleicherode
+ref=8
+id=node/32339440</desc></wpt><wpt lat="50.9200658" lon="10.5472302"><name>Waltershausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11149
+TMC:cid_58:tabcd_1:NextLocationCode=45541
+TMC:cid_58:tabcd_1:PrevLocationCode=57146
+highway=motorway_junction
+name=Waltershausen
+ref=41a
+id=node/32599604</desc></wpt><wpt lat="50.9198753" lon="10.5492258"><name>Waltershausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11149
+TMC:cid_58:tabcd_1:NextLocationCode=45541
+TMC:cid_58:tabcd_1:PrevLocationCode=57146
+highway=motorway_junction
+name=Waltershausen
+ref=41a
+id=node/32599720</desc></wpt><wpt lat="50.4489734" lon="10.4456323"><name>Rentwertshausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45530
+TMC:cid_58:tabcd_1:NextLocationCode=45529
+TMC:cid_58:tabcd_1:PrevLocationCode=36159
+highway=motorway_junction
+name=Rentwertshausen
+ref=23
+id=node/32925933</desc></wpt><wpt lat="50.9108352" lon="11.8415631"><name>Bad Klosterlausnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12787
+TMC:cid_58:tabcd_1:NextLocationCode=45577
+TMC:cid_58:tabcd_1:PrevLocationCode=12786
+highway=motorway_junction
+name=Bad Klosterlausnitz
+ref=23
+id=node/33041270</desc></wpt><wpt lat="51.0379846" lon="11.0363557"><name>Erfurt-Stotternheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45525
+TMC:cid_58:tabcd_1:NextLocationCode=45524
+TMC:cid_58:tabcd_1:PrevLocationCode=45526
+highway=motorway_junction
+name=Erfurt-Stotternheim
+ref=8
+id=node/33151043</desc></wpt><wpt lat="51.0368352" lon="11.0602188"><name>Erfurt-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45524
+TMC:cid_58:tabcd_1:NextLocationCode=45523
+TMC:cid_58:tabcd_1:PrevLocationCode=45525
+highway=motorway_junction
+name=Erfurt-Nord
+ref=7
+id=node/33151046</desc></wpt><wpt lat="51.1558678" lon="11.1697793"><name>Sömmerda-Ost</name><desc>highway=motorway_junction
+name=Sömmerda-Ost
+ref=5
+id=node/33151077</desc></wpt><wpt lat="51.0250191" lon="12.4576508"><name>node/33466674</name><desc>highway=motorway_junction
+id=node/33466674</desc></wpt><wpt lat="50.9977639" lon="10.3156232"><name>Eisenach-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=13884
+TMC:cid_58:tabcd_1:NextLocationCode=13885
+TMC:cid_58:tabcd_1:PrevLocationCode=13883
+highway=motorway_junction
+name=Eisenach-Mitte
+id=node/35117493</desc></wpt><wpt lat="50.8963478" lon="11.6033451"><name>node/35304357</name><desc>highway=motorway_junction
+traffic_sign:forward=DE:261,1000-11
+id=node/35304357</desc></wpt><wpt lat="50.8717553" lon="12.2218184"><name>Ronneburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11171
+TMC:cid_58:tabcd_1:NextLocationCode=11172
+TMC:cid_58:tabcd_1:PrevLocationCode=11170
+highway=motorway_junction
+name=Ronneburg
+ref=60
+id=node/36243912</desc></wpt><wpt lat="51.0142499" lon="11.0595169"><name>Erfurt-Roter Berg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45864
+TMC:cid_58:tabcd_1:NextLocationCode=45865
+TMC:cid_58:tabcd_1:PrevLocationCode=45863
+highway=motorway_junction
+name=Erfurt-Roter Berg
+id=node/77833211</desc></wpt><wpt lat="50.9777425" lon="11.0922428"><name>Erfurt-Linderbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=29567
+TMC:cid_58:tabcd_1:NextLocationCode=45863
+TMC:cid_58:tabcd_1:PrevLocationCode=45862
+highway=motorway_junction
+name=Erfurt-Linderbach
+id=node/77833351</desc></wpt><wpt lat="50.9772121" lon="11.0921597"><name>Erfurt-Linderbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=29567
+TMC:cid_58:tabcd_1:NextLocationCode=45863
+TMC:cid_58:tabcd_1:PrevLocationCode=45862
+highway=motorway_junction
+name=Erfurt-Linderbach
+id=node/77834053</desc></wpt><wpt lat="51.0324067" lon="11.0000557"><name>Erfurt-Mittelhausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45526
+TMC:cid_58:tabcd_1:NextLocationCode=45525
+TMC:cid_58:tabcd_1:PrevLocationCode=45527
+highway=motorway_junction
+name=Erfurt-Mittelhausen
+ref=9
+id=node/78038194</desc></wpt><wpt lat="50.848652" lon="12.3382622"><name>Schmölln</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11172
+TMC:cid_58:tabcd_1:NextLocationCode=51520
+TMC:cid_58:tabcd_1:PrevLocationCode=11171
+highway=motorway_junction
+name=Schmölln
+ref=61
+id=node/97038050</desc></wpt><wpt lat="50.8494393" lon="12.3366409"><name>Schmölln</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11172
+TMC:cid_58:tabcd_1:NextLocationCode=51520
+TMC:cid_58:tabcd_1:PrevLocationCode=11171
+highway=motorway_junction
+name=Schmölln
+ref=61
+id=node/97038430</desc></wpt><wpt lat="51.0209939" lon="12.4547646"><name>node/104204571</name><desc>highway=motorway_junction
+id=node/104204571</desc></wpt><wpt lat="50.9720156" lon="11.1343153"><name>node/114646684</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45779
+TMC:cid_58:tabcd_1:NextLocationCode=45781
+TMC:cid_58:tabcd_1:PrevLocationCode=45568
+highway=motorway_junction
+id=node/114646684</desc></wpt><wpt lat="50.9689984" lon="11.1382227"><name>node/114646691</name><desc>highway=motorway_junction
+id=node/114646691</desc></wpt><wpt lat="50.8430211" lon="12.4397426"><name>node/142447755</name><desc>highway=motorway_junction
+toll:name=Meerane
+id=node/142447755</desc></wpt><wpt lat="50.8959245" lon="10.9617017"><name>Kreuz Erfurt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11153
+TMC:cid_58:tabcd_1:NextLocationCode=11154
+TMC:cid_58:tabcd_1:PrevLocationCode=11152
+highway=motorway_junction
+name=Kreuz Erfurt
+ref=45
+id=node/160331013</desc></wpt><wpt lat="51.3966827" lon="10.040345"><name>Arenshausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12684
+TMC:cid_58:tabcd_1:NextLocationCode=45507
+TMC:cid_58:tabcd_1:PrevLocationCode=12683
+highway=motorway_junction
+name=Arenshausen
+ref=4
+id=node/191117848</desc></wpt><wpt lat="51.3988067" lon="10.132347"><name>Heilbad Heiligenstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45507
+TMC:cid_58:tabcd_1:NextLocationCode=45640
+TMC:cid_58:tabcd_1:PrevLocationCode=12684
+highway=motorway_junction
+name=Heilbad Heiligenstadt
+ref=5
+id=node/191144498</desc></wpt><wpt lat="51.3959733" lon="10.1267731"><name>Heilbad Heiligenstadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45507
+TMC:cid_58:tabcd_1:NextLocationCode=45640
+TMC:cid_58:tabcd_1:PrevLocationCode=12684
+highway=motorway_junction
+name=Heilbad Heiligenstadt
+ref=5
+id=node/191144541</desc></wpt><wpt lat="51.398425" lon="10.3395144"><name>Leinefelde-Worbis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45508
+TMC:cid_58:tabcd_1:NextLocationCode=45509
+TMC:cid_58:tabcd_1:PrevLocationCode=45640
+highway=motorway_junction
+name=Leinefelde-Worbis
+ref=6
+id=node/191159148</desc></wpt><wpt lat="51.3974992" lon="10.3468501"><name>Leinefelde-Worbis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45508
+TMC:cid_58:tabcd_1:NextLocationCode=45509
+TMC:cid_58:tabcd_1:PrevLocationCode=45640
+highway=motorway_junction
+name=Leinefelde-Worbis
+ref=6
+id=node/191159202</desc></wpt><wpt lat="51.4027656" lon="10.4381117"><name>Breitenworbis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45510
+TMC:cid_58:tabcd_1:NextLocationCode=45639
+TMC:cid_58:tabcd_1:PrevLocationCode=45509
+highway=motorway_junction
+name=Breitenworbis
+ref=7
+id=node/191167078</desc></wpt><wpt lat="51.4025365" lon="10.4346439"><name>Breitenworbis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45510
+TMC:cid_58:tabcd_1:NextLocationCode=45639
+TMC:cid_58:tabcd_1:PrevLocationCode=45509
+highway=motorway_junction
+name=Breitenworbis
+ref=7
+id=node/191167116</desc></wpt><wpt lat="51.4876976" lon="10.7486637"><name>Nordhausen-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45514
+TMC:cid_58:tabcd_1:NextLocationCode=45515
+TMC:cid_58:tabcd_1:PrevLocationCode=45513
+destination=Werther;Nordhausen-West;Wolkramshausen
+highway=motorway_junction
+name=Nordhausen-West
+old_name=Werther
+ref=10
+source:name=http://www.nnz-online.de/news/news_lang.php?ArtNr=119547
+id=node/191201997</desc></wpt><wpt lat="51.4873994" lon="10.7492028"><name>Nordhausen-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45514
+TMC:cid_58:tabcd_1:NextLocationCode=45515
+TMC:cid_58:tabcd_1:PrevLocationCode=45513
+destination=Werther;Nordhausen-West;Wolkramshausen
+highway=motorway_junction
+name=Nordhausen-West
+old_name=Werther
+ref=10
+source:name=http://www.nnz-online.de/news/news_lang.php?ArtNr=119547
+id=node/191202008</desc></wpt><wpt lat="51.4620073" lon="10.7990659"><name>Nordhausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45516
+TMC:cid_58:tabcd_1:NextLocationCode=45517
+TMC:cid_58:tabcd_1:PrevLocationCode=45515
+alt_name=Nordhausen-Süd
+destination=Nordhausen;Erfurt;Sonderhausen
+highway=motorway_junction
+name=Nordhausen
+old_name=Nordhausen
+ref=11
+source:name=http://www.nnz-online.de/news/news_lang.php?ArtNr=119547
+id=node/191208655</desc></wpt><wpt lat="51.4763732" lon="10.8748502"><name>Heringen/Nordhausen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45517
+TMC:cid_58:tabcd_1:NextLocationCode=12698
+TMC:cid_58:tabcd_1:PrevLocationCode=45516
+destination=Heringen;Nordhausen-Ost
+highway=motorway_junction
+name=Heringen/Nordhausen-Ost
+note=Geplanter Name: Nordhausen Ost. Heringen fällt weg.
+ref=12
+id=node/191219621</desc></wpt><wpt lat="51.476291" lon="10.8738562"><name>Heringen/Nordhausen-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45517
+TMC:cid_58:tabcd_1:NextLocationCode=12698
+TMC:cid_58:tabcd_1:PrevLocationCode=45516
+destination=Heringen;Nordhausen-Ost
+highway=motorway_junction
+name=Heringen/Nordhausen-Ost
+note=Geplanter Name: Nordhausen Ost. Heringen fällt weg.
+ref=12
+id=node/191219698</desc></wpt><wpt lat="50.9974627" lon="10.316759"><name>Eisenach-Mitte</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=13884
+TMC:cid_58:tabcd_1:NextLocationCode=13885
+TMC:cid_58:tabcd_1:PrevLocationCode=13883
+highway=motorway_junction
+name=Eisenach-Mitte
+id=node/196199892</desc></wpt><wpt lat="50.6677144" lon="10.6887309"><name>Oberhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12696
+TMC:cid_58:tabcd_1:NextLocationCode=45634
+TMC:cid_58:tabcd_1:PrevLocationCode=45633
+highway=motorway_junction
+name=Oberhof
+ref=18
+id=node/203901286</desc></wpt><wpt lat="50.5874799" lon="10.6770402"><name>Suhl-Zentrum</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45534
+TMC:cid_58:tabcd_1:NextLocationCode=45533
+TMC:cid_58:tabcd_1:PrevLocationCode=45535
+highway=motorway_junction
+name=Suhl-Zentrum
+ref=2
+id=node/205152355</desc></wpt><wpt lat="51.0753138" lon="10.9214525"><name>Andislebener Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=23200
+TMC:cid_58:tabcd_1:NextLocationCode=45608
+TMC:cid_58:tabcd_1:PrevLocationCode=45585
+highway=motorway_junction
+name=Andislebener Kreuz
+id=node/224376999</desc></wpt><wpt lat="51.0830724" lon="10.915874"><name>Andislebener Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=29559
+TMC:cid_58:tabcd_1:PrevLocationCode=29558
+highway=motorway_junction
+name=Andislebener Kreuz
+id=node/224378391</desc></wpt><wpt lat="51.1004676" lon="10.6785976"><name>Bad Langensalza-Ost</name><desc>highway=motorway_junction
+name=Bad Langensalza-Ost
+id=node/224491635</desc></wpt><wpt lat="51.4345105" lon="10.6201361"><name>Galgenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45512
+TMC:cid_58:tabcd_1:NextLocationCode=45513
+TMC:cid_58:tabcd_1:PrevLocationCode=45511
+highway=motorway_junction
+name=Galgenberg
+noref=yes
+id=node/245784016</desc></wpt><wpt lat="51.434233" lon="10.6259994"><name>Galgenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45512
+TMC:cid_58:tabcd_1:NextLocationCode=45513
+TMC:cid_58:tabcd_1:PrevLocationCode=45511
+highway=motorway_junction
+name=Galgenberg
+noref=yes
+id=node/245784059</desc></wpt><wpt lat="51.0365805" lon="11.0638559"><name>Erfurt-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45865
+TMC:cid_58:tabcd_1:PrevLocationCode=45864
+highway=motorway_junction
+name=Erfurt-Nord
+noref=yes
+id=node/248477687</desc></wpt><wpt lat="51.1166151" lon="11.1333177"><name>Sömmerda-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45523
+TMC:cid_58:tabcd_1:NextLocationCode=45522
+TMC:cid_58:tabcd_1:PrevLocationCode=45524
+destination=Sömmerda-Süd;Schloßvippach;Berlstedt
+highway=motorway_junction
+name=Sömmerda-Süd
+ref=6
+id=node/248477692</desc></wpt><wpt lat="50.3891335" lon="10.9170481"><name>Eisfeld-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=35070
+TMC:cid_58:tabcd_1:NextLocationCode=45538
+TMC:cid_58:tabcd_1:PrevLocationCode=31424
+highway=motorway_junction
+name=Eisfeld-Süd
+ref=6
+id=node/248843631</desc></wpt><wpt lat="51.0084703" lon="10.2433986"><name>Raststätte Eisenach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11144
+TMC:cid_58:tabcd_1:NextLocationCode=11145
+TMC:cid_58:tabcd_1:PrevLocationCode=11143
+highway=motorway_junction
+name=Raststätte Eisenach
+id=node/249563403</desc></wpt><wpt lat="50.6984605" lon="10.3651135"><name>node/250170422</name><desc>highway=motorway_junction
+id=node/250170422</desc></wpt><wpt lat="50.7989639" lon="10.3223787"><name>node/258902257</name><desc>highway=motorway_junction
+id=node/258902257</desc></wpt><wpt lat="50.8009114" lon="10.3222575"><name>node/258902258</name><desc>highway=motorway_junction
+id=node/258902258</desc></wpt><wpt lat="50.8348103" lon="11.0098443"><name>Rastplatz Dornheimer Rieth</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45531
+TMC:cid_58:tabcd_1:NextLocationCode=12691
+TMC:cid_58:tabcd_1:PrevLocationCode=12692
+highway=motorway_junction
+name=Rastplatz Dornheimer Rieth
+noref=yes
+id=node/262901151</desc></wpt><wpt lat="50.7029693" lon="10.3630351"><name>node/266361563</name><desc>highway=motorway_junction
+id=node/266361563</desc></wpt><wpt lat="51.4707166" lon="10.782224"><name>Kesselberg-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45515
+TMC:cid_58:tabcd_1:NextLocationCode=45516
+TMC:cid_58:tabcd_1:PrevLocationCode=45514
+highway=motorway_junction
+name=Kesselberg-Nord
+noref=yes
+id=node/268496987</desc></wpt><wpt lat="51.4737486" lon="10.7763322"><name>Kesselberg-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45515
+TMC:cid_58:tabcd_1:NextLocationCode=45516
+TMC:cid_58:tabcd_1:PrevLocationCode=45514
+highway=motorway_junction
+name=Kesselberg-Süd
+noref=yes
+id=node/268496991</desc></wpt><wpt lat="50.8773437" lon="11.6349861"><name>node/269761275</name><desc>highway=motorway_junction
+noref=yes
+old_name=Jena-Lobeda
+old_ref=54
+id=node/269761275</desc></wpt><wpt lat="50.8999759" lon="12.1325675"><name>Gera</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=20097
+TMC:cid_58:tabcd_1:NextLocationCode=11170
+TMC:cid_58:tabcd_1:PrevLocationCode=11169
+highway=motorway_junction
+name=Gera
+ref=58b
+id=node/271812920</desc></wpt><wpt lat="51.1006872" lon="10.6773525"><name>Bad Langensalza-Ost</name><desc>highway=motorway_junction
+name=Bad Langensalza-Ost
+id=node/273906727</desc></wpt><wpt lat="51.4901149" lon="10.7234556"><name>Großwechsungen</name><desc>alt_name=Dreieck Großwechsungen
+destination=Großwechsungen;Ellrich;Bad Sachsa;Osterode
+highway=motorway_junction
+name=Großwechsungen
+ref=9
+id=node/274828481</desc></wpt><wpt lat="51.0319265" lon="10.9971815"><name>Erfurt-Mittelhausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45526
+TMC:cid_58:tabcd_1:NextLocationCode=45525
+TMC:cid_58:tabcd_1:PrevLocationCode=45527
+highway=motorway_junction
+name=Erfurt-Mittelhausen
+ref=9
+id=node/276715659</desc></wpt><wpt lat="50.4457258" lon="11.8021096"><name>Bad Lobenstein</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12779
+TMC:cid_58:tabcd_1:NextLocationCode=12780
+TMC:cid_58:tabcd_1:PrevLocationCode=12778
+highway=motorway_junction
+name=Bad Lobenstein
+ref=29
+id=node/280431473</desc></wpt><wpt lat="50.4345631" lon="10.8842854"><name>Eisfeld-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45537
+TMC:cid_58:tabcd_1:NextLocationCode=45536
+TMC:cid_58:tabcd_1:PrevLocationCode=45538
+highway=motorway_junction
+name=Eisfeld-Nord
+ref=5
+id=node/282050997</desc></wpt><wpt lat="50.9991269" lon="11.0713506"><name>Erfurt-Ringelberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45863
+TMC:cid_58:tabcd_1:NextLocationCode=45864
+TMC:cid_58:tabcd_1:PrevLocationCode=29567
+highway=motorway_junction
+name=Erfurt-Ringelberg
+id=node/292273459</desc></wpt><wpt lat="50.9117836" lon="11.8416548"><name>Bad Klosterlausnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12787
+TMC:cid_58:tabcd_1:NextLocationCode=45577
+TMC:cid_58:tabcd_1:PrevLocationCode=12786
+highway=motorway_junction
+name=Bad Klosterlausnitz
+ref=23
+id=node/296385338</desc></wpt><wpt lat="51.4093129" lon="10.1777047"><name>Rastplatz Leinetal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45640
+TMC:cid_58:tabcd_1:NextLocationCode=45508
+TMC:cid_58:tabcd_1:PrevLocationCode=45507
+highway=motorway_junction
+name=Rastplatz Leinetal
+noref=yes
+id=node/297757527</desc></wpt><wpt lat="51.4091041" lon="10.1784764"><name>Rastplatz Leinetal</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45640
+TMC:cid_58:tabcd_1:NextLocationCode=45508
+TMC:cid_58:tabcd_1:PrevLocationCode=45507
+highway=motorway_junction
+name=Rastplatz Leinetal
+noref=yes
+id=node/297759801</desc></wpt><wpt lat="50.937817" lon="11.3581561"><name>Rastplatz Habichtsfang</name><desc>highway=motorway_junction
+name=Rastplatz Habichtsfang
+noref=yes
+id=node/302424445</desc></wpt><wpt lat="51.0056138" lon="10.2697676"><name>Eisenach-West</name><desc>highway=motorway_junction
+name=Eisenach-West
+ref=39
+id=node/302786121</desc></wpt><wpt lat="51.0010653" lon="10.4061644"><name>Eisenach-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11147
+TMC:cid_58:tabcd_1:NextLocationCode=45540
+TMC:cid_58:tabcd_1:PrevLocationCode=45539
+highway=motorway_junction
+name=Eisenach-Ost
+ref=40a
+id=node/308852512</desc></wpt><wpt lat="51.0052896" lon="10.2652606"><name>Eisenach-West</name><desc>highway=motorway_junction
+name=Eisenach-West
+ref=39
+id=node/310275243</desc></wpt><wpt lat="50.4251416" lon="11.7925307"><name>Rasthof Hirschberg</name><desc>highway=motorway_junction
+name=Rasthof Hirschberg
+noref=yes
+id=node/311977790</desc></wpt><wpt lat="50.9797645" lon="10.3584877"><name>Eisenach-Oststadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=13883
+TMC:cid_58:tabcd_1:NextLocationCode=13884
+TMC:cid_58:tabcd_1:PrevLocationCode=21307
+highway=motorway_junction
+name=Eisenach-Oststadt
+id=node/312194645</desc></wpt><wpt lat="51.4305968" lon="10.5966495"><name>Bleicherode</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45511
+TMC:cid_58:tabcd_1:NextLocationCode=45512
+TMC:cid_58:tabcd_1:PrevLocationCode=45639
+highway=motorway_junction
+name=Bleicherode
+ref=8
+id=node/322144964</desc></wpt><wpt lat="51.4033182" lon="10.4202709"><name>Eichsfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45509
+TMC:cid_58:tabcd_1:NextLocationCode=45510
+TMC:cid_58:tabcd_1:PrevLocationCode=45508
+highway=motorway_junction
+name=Eichsfeld
+noref=yes
+id=node/323120596</desc></wpt><wpt lat="50.9573655" lon="11.8436057"><name>Rastplatz Kuhberg</name><desc>highway=motorway_junction
+name=Rastplatz Kuhberg
+noref=yes
+id=node/331093379</desc></wpt><wpt lat="51.4034132" lon="10.4113799"><name>Eichsfeld</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45509
+TMC:cid_58:tabcd_1:NextLocationCode=45510
+TMC:cid_58:tabcd_1:PrevLocationCode=45508
+highway=motorway_junction
+name=Eichsfeld
+noref=yes
+id=node/339201635</desc></wpt><wpt lat="50.9578036" lon="10.9381114"><name>Erfurt-Bindersleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12689
+TMC:cid_58:tabcd_1:NextLocationCode=45527
+TMC:cid_58:tabcd_1:PrevLocationCode=45528
+highway=motorway_junction
+name=Erfurt-Bindersleben
+ref=11
+id=node/340028396</desc></wpt><wpt lat="51.1277927" lon="11.1650647"><name>Rastplatz Thüringer Becken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45522
+TMC:cid_58:tabcd_1:NextLocationCode=45521
+TMC:cid_58:tabcd_1:PrevLocationCode=45523
+highway=motorway_junction
+name=Rastplatz Thüringer Becken
+noref=yes
+id=node/340029751</desc></wpt><wpt lat="51.1306628" lon="11.1684866"><name>Rastplatz Thüringer Becken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45522
+TMC:cid_58:tabcd_1:NextLocationCode=45521
+TMC:cid_58:tabcd_1:PrevLocationCode=45523
+highway=motorway_junction
+name=Rastplatz Thüringer Becken
+noref=yes
+id=node/340029837</desc></wpt><wpt lat="51.0839718" lon="10.9247399"><name>Andislebener Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=23200
+TMC:cid_58:tabcd_1:NextLocationCode=45608
+TMC:cid_58:tabcd_1:PrevLocationCode=45585
+highway=motorway_junction
+name=Andislebener Kreuz
+id=node/401948731</desc></wpt><wpt lat="51.000151" lon="10.4087786"><name>Eisenach-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11147
+TMC:cid_58:tabcd_1:NextLocationCode=45540
+TMC:cid_58:tabcd_1:PrevLocationCode=45539
+highway=motorway_junction
+name=Eisenach-Ost
+ref=40a
+id=node/425458183</desc></wpt><wpt lat="51.4895952" lon="10.7201703"><name>Großwechsungen</name><desc>alt_name=Dreieck Großwechsungen
+highway=motorway_junction
+name=Großwechsungen
+ref=9
+id=node/433586332</desc></wpt><wpt lat="50.9502334" lon="10.485805"><name>Sättelstädt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=57146
+TMC:cid_58:tabcd_1:NextLocationCode=11149
+TMC:cid_58:tabcd_1:PrevLocationCode=11148
+highway=motorway_junction
+name=Sättelstädt
+ref=40b
+id=node/434367109</desc></wpt><wpt lat="50.8045245" lon="11.8953385"><name>Lederhose</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45964
+TMC:cid_58:tabcd_1:NextLocationCode=12784
+TMC:cid_58:tabcd_1:PrevLocationCode=12783
+highway=motorway_junction
+name=Lederhose
+ref=25b
+id=node/436193030</desc></wpt><wpt lat="50.8045367" lon="11.8955533"><name>Lederhose</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45964
+TMC:cid_58:tabcd_1:NextLocationCode=12784
+TMC:cid_58:tabcd_1:PrevLocationCode=12783
+highway=motorway_junction
+name=Lederhose
+ref=25b
+id=node/448930740</desc></wpt><wpt lat="50.9788739" lon="10.3606357"><name>Eisenach-Oststadt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=13883
+TMC:cid_58:tabcd_1:NextLocationCode=13884
+TMC:cid_58:tabcd_1:PrevLocationCode=21307
+highway=motorway_junction
+name=Eisenach-Oststadt
+id=node/456701072</desc></wpt><wpt lat="51.0926464" lon="10.6458697"><name>Bad Langensalza-Süd</name><desc>highway=motorway_junction
+name=Bad Langensalza-Süd
+id=node/476880060</desc></wpt><wpt lat="51.0929376" lon="10.637198"><name>Bad Langensalza-Süd</name><desc>highway=motorway_junction
+name=Bad Langensalza-Süd
+id=node/476880073</desc></wpt><wpt lat="51.0936793" lon="10.6268085"><name>Bad Langensalza-Ufhoven</name><desc>highway=motorway_junction
+name=Bad Langensalza-Ufhoven
+id=node/476880088</desc></wpt><wpt lat="50.9490218" lon="10.4862473"><name>Sättelstädt</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=57146
+TMC:cid_58:tabcd_1:NextLocationCode=11149
+TMC:cid_58:tabcd_1:PrevLocationCode=11148
+highway=motorway_junction
+name=Sättelstädt
+ref=40b
+id=node/601453518</desc></wpt><wpt lat="50.663729" lon="10.6893616"><name>Oberhof</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12696
+TMC:cid_58:tabcd_1:NextLocationCode=45634
+TMC:cid_58:tabcd_1:PrevLocationCode=45633
+highway=motorway_junction
+name=Oberhof
+ref=18
+id=node/605695982</desc></wpt><wpt lat="50.9936585" lon="10.4362198"><name>Rastplatz Hainich</name><desc>highway=motorway_junction
+name=Rastplatz Hainich
+noref=yes
+id=node/609410742</desc></wpt><wpt lat="51.0930962" lon="10.6337018"><name>Bad Langensalza-Ufhoven</name><desc>highway=motorway_junction
+name=Bad Langensalza-Ufhoven
+id=node/677675266</desc></wpt><wpt lat="50.8718889" lon="11.8488001"><name>Raststätte Hermsdorfer Kreuz</name><desc>highway=motorway_junction
+name=Raststätte Hermsdorfer Kreuz
+noref=yes
+id=node/807809102</desc></wpt><wpt lat="50.9612314" lon="11.8526529"><name>Rastplatz Kuhberg</name><desc>highway=motorway_junction
+name=Rastplatz Kuhberg
+noref=yes
+id=node/807809126</desc></wpt><wpt lat="50.8779979" lon="11.670166"><name>Rastplatz Rodablick</name><desc>highway=motorway_junction
+name=Rastplatz Rodablick
+noref=yes
+id=node/835053895</desc></wpt><wpt lat="50.8812786" lon="11.8543747"><name>Hermsdorfer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11166
+TMC:cid_58:tabcd_1:NextLocationCode=11167
+TMC:cid_58:tabcd_1:PrevLocationCode=11165
+highway=motorway_junction
+name=Hermsdorfer Kreuz
+ref=56a
+id=node/849942115</desc></wpt><wpt lat="50.8604709" lon="11.8536514"><name>Hermsdorf-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12784
+TMC:cid_58:tabcd_1:NextLocationCode=12785
+TMC:cid_58:tabcd_1:PrevLocationCode=45964
+highway=motorway_junction
+name=Hermsdorf-Süd
+ref=25a
+id=node/849942235</desc></wpt><wpt lat="50.8622021" lon="11.8527361"><name>Hermsdorf-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12784
+TMC:cid_58:tabcd_1:NextLocationCode=12785
+TMC:cid_58:tabcd_1:PrevLocationCode=45964
+highway=motorway_junction
+name=Hermsdorf-Süd
+ref=25a
+id=node/849942583</desc></wpt><wpt lat="50.8792203" lon="11.8376366"><name>Hermsdorfer Kreuz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11166
+TMC:cid_58:tabcd_1:NextLocationCode=11167
+TMC:cid_58:tabcd_1:PrevLocationCode=11165
+ele=355.83
+highway=motorway_junction
+name=Hermsdorfer Kreuz
+ref=56a
+time=2004-06-04T17:53:53Z
+id=node/849942640</desc></wpt><wpt lat="50.8792266" lon="11.6235145"><name>Jena-Zentrum</name><desc>highway=motorway_junction
+name=Jena-Zentrum
+ref=54
+id=node/851561546</desc></wpt><wpt lat="50.8803149" lon="11.6143704"><name>Jena-Zentrum</name><desc>highway=motorway_junction
+name=Jena-Zentrum
+ref=54
+id=node/851562012</desc></wpt><wpt lat="50.9914989" lon="10.4487369"><name>Rastplatz Hainich</name><desc>highway=motorway_junction
+name=Rastplatz Hainich
+noref=yes
+id=node/869578695</desc></wpt><wpt lat="50.9409625" lon="10.9540321"><name>Rastplatz Erfurter Becken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45528
+TMC:cid_58:tabcd_1:NextLocationCode=12689
+TMC:cid_58:tabcd_1:PrevLocationCode=12690
+highway=motorway_junction
+name=Rastplatz Erfurter Becken
+noref=yes
+id=node/877757166</desc></wpt><wpt lat="50.9377318" lon="10.9552805"><name>Rastplatz Erfurter Becken</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45528
+TMC:cid_58:tabcd_1:NextLocationCode=12689
+TMC:cid_58:tabcd_1:PrevLocationCode=12690
+highway=motorway_junction
+name=Rastplatz Erfurter Becken
+noref=yes
+id=node/877761646</desc></wpt><wpt lat="50.7692257" lon="10.331994"><name>node/1083743221</name><desc>highway=motorway_junction
+id=node/1083743221</desc></wpt><wpt lat="50.7486407" lon="10.9997054"><name>Stadtilm</name><desc>highway=motorway_junction
+name=Stadtilm
+ref=14b
+id=node/1117550389</desc></wpt><wpt lat="50.94936" lon="11.2436024"><name>Nohra</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11157
+TMC:cid_58:tabcd_1:NextLocationCode=11158
+TMC:cid_58:tabcd_1:PrevLocationCode=11156
+highway=motorway_junction
+name=Nohra
+ref=48
+id=node/1187582434</desc></wpt><wpt lat="51.4178603" lon="10.356634"><name>node/1278561094</name><desc>highway=motorway_junction
+id=node/1278561094</desc></wpt><wpt lat="50.831414" lon="10.2860504"><name>node/1325633384</name><desc>highway=motorway_junction
+id=node/1325633384</desc></wpt><wpt lat="50.9056264" lon="11.0089838"><name>Erfurt-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11154
+TMC:cid_58:tabcd_1:NextLocationCode=45643
+TMC:cid_58:tabcd_1:PrevLocationCode=11153
+highway=motorway_junction
+name=Erfurt-West
+ref=46
+id=node/1357759266</desc></wpt><wpt lat="50.9055968" lon="11.007312"><name>Erfurt-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11154
+TMC:cid_58:tabcd_1:NextLocationCode=45643
+TMC:cid_58:tabcd_1:PrevLocationCode=11153
+highway=motorway_junction
+name=Erfurt-West
+ref=46
+id=node/1357764456</desc></wpt><wpt lat="50.9113423" lon="11.0761693"><name>Rastplatz Willroder Forst</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45643
+TMC:cid_58:tabcd_1:NextLocationCode=11155
+TMC:cid_58:tabcd_1:PrevLocationCode=11154
+highway=motorway_junction
+name=Rastplatz Willroder Forst
+noref=yes
+id=node/1358967852</desc></wpt><wpt lat="50.9244835" lon="11.1340762"><name>Erfurt-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11155
+TMC:cid_58:tabcd_1:NextLocationCode=45542
+TMC:cid_58:tabcd_1:PrevLocationCode=45643
+highway=motorway_junction
+name=Erfurt-Ost
+ref=47a
+id=node/1359030799</desc></wpt><wpt lat="50.9436066" lon="11.1700161"><name>Erfurt-Vieselbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45542
+TMC:cid_58:tabcd_1:NextLocationCode=11156
+TMC:cid_58:tabcd_1:PrevLocationCode=11155
+ele=343.33
+highway=motorway_junction
+name=Erfurt-Vieselbach
+ref=47b
+time=2004-06-04T17:14:32Z
+id=node/1360218299</desc></wpt><wpt lat="50.7466233" lon="11.8595589"><name>node/1379027075</name><desc>highway=motorway_junction
+noref=yes
+id=node/1379027075</desc></wpt><wpt lat="50.74755" lon="11.8594063"><name>node/1379027096</name><desc>highway=motorway_junction
+noref=yes
+id=node/1379027096</desc></wpt><wpt lat="50.7478914" lon="11.8643382"><name>node/1379027111</name><desc>highway=motorway_junction
+noref=yes
+id=node/1379027111</desc></wpt><wpt lat="50.7481797" lon="11.8612623"><name>node/1379027132</name><desc>highway=motorway_junction
+noref=yes
+id=node/1379027132</desc></wpt><wpt lat="50.7485774" lon="11.8593092"><name>node/1379027160</name><desc>highway=motorway_junction
+noref=yes
+id=node/1379027160</desc></wpt><wpt lat="50.7487614" lon="11.856407"><name>node/1379027169</name><desc>highway=motorway_junction
+noref=yes
+id=node/1379027169</desc></wpt><wpt lat="50.7493526" lon="11.8617058"><name>node/1379027189</name><desc>highway=motorway_junction
+noref=yes
+id=node/1379027189</desc></wpt><wpt lat="50.75015" lon="11.8615869"><name>node/1379027216</name><desc>highway=motorway_junction
+noref=yes
+id=node/1379027216</desc></wpt><wpt lat="50.7447442" lon="11.857726"><name>Triptis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12782
+TMC:cid_58:tabcd_1:NextLocationCode=12783
+TMC:cid_58:tabcd_1:PrevLocationCode=12781
+highway=motorway_junction
+name=Triptis
+ref=26
+id=node/1379027227</desc></wpt><wpt lat="50.7516758" lon="11.8638649"><name>Triptis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12782
+TMC:cid_58:tabcd_1:NextLocationCode=12783
+TMC:cid_58:tabcd_1:PrevLocationCode=12781
+highway=motorway_junction
+name=Triptis
+ref=26
+id=node/1379027228</desc></wpt><wpt lat="50.9443549" lon="11.1722011"><name>Erfurt-Vieselbach</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45542
+TMC:cid_58:tabcd_1:NextLocationCode=11156
+TMC:cid_58:tabcd_1:PrevLocationCode=11155
+highway=motorway_junction
+name=Erfurt-Vieselbach
+ref=47b
+id=node/1387391046</desc></wpt><wpt lat="50.8771239" lon="10.8296726"><name>Wandersleben</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11151
+TMC:cid_58:tabcd_1:NextLocationCode=11152
+TMC:cid_58:tabcd_1:PrevLocationCode=45644
+highway=motorway_junction
+name=Wandersleben
+ref=43
+id=node/1400927599</desc></wpt><wpt lat="50.8771385" lon="10.8271886"><name>Wandersleben</name><desc>highway=motorway_junction
+name=Wandersleben
+ref=43
+id=node/1400934674</desc></wpt><wpt lat="50.8320172" lon="10.2854284"><name>node/1412417565</name><desc>highway=motorway_junction
+id=node/1412417565</desc></wpt><wpt lat="50.8588129" lon="12.3106568"><name>Altenburger Land</name><desc>highway=motorway_junction
+name=Altenburger Land
+noref=yes
+id=node/1417239112</desc></wpt><wpt lat="51.4096966" lon="10.3561711"><name>node/1432507635</name><desc>highway=motorway_junction
+id=node/1432507635</desc></wpt><wpt lat="51.3850822" lon="10.8456507"><name>Sondershausen-Nord</name><desc>highway=motorway_junction
+name=Sondershausen-Nord
+id=node/1447910338</desc></wpt><wpt lat="50.8715916" lon="11.5933343"><name>Jena-Göschwitz</name><desc>highway=motorway_junction
+name=Jena-Göschwitz
+ref=53
+id=node/1478289457</desc></wpt><wpt lat="50.7578423" lon="11.8721551"><name>Rastplatz Rodaborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12783
+TMC:cid_58:tabcd_1:NextLocationCode=45964
+TMC:cid_58:tabcd_1:PrevLocationCode=12782
+highway=motorway_junction
+name=Rastplatz Rodaborn
+noref=yes
+id=node/1506464117</desc></wpt><wpt lat="50.7592391" lon="11.8736725"><name>Rastplatz Rodaborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12783
+TMC:cid_58:tabcd_1:NextLocationCode=45964
+TMC:cid_58:tabcd_1:PrevLocationCode=12782
+highway=motorway_junction
+name=Rastplatz Rodaborn
+noref=yes
+id=node/1506464119</desc></wpt><wpt lat="50.9492464" lon="11.2014606"><name>Rasthof Eichelborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11156
+TMC:cid_58:tabcd_1:NextLocationCode=11157
+TMC:cid_58:tabcd_1:PrevLocationCode=45542
+highway=motorway_junction
+name=Rasthof Eichelborn
+noref=yes
+id=node/1563534500</desc></wpt><wpt lat="50.9483747" lon="11.1914729"><name>Rasthof Eichelborn</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11156
+TMC:cid_58:tabcd_1:NextLocationCode=11157
+TMC:cid_58:tabcd_1:PrevLocationCode=45542
+highway=motorway_junction
+name=Rasthof Eichelborn
+noref=yes
+id=node/1563579099</desc></wpt><wpt lat="50.9494155" lon="11.2448546"><name>Nohra</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11157
+TMC:cid_58:tabcd_1:NextLocationCode=11158
+TMC:cid_58:tabcd_1:PrevLocationCode=11156
+highway=motorway_junction
+name=Nohra
+ref=48
+id=node/1565750985</desc></wpt><wpt lat="50.6419322" lon="10.6891757"><name>Suhl / Zella-Mehlis</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12697
+TMC:cid_58:tabcd_1:NextLocationCode=45633
+TMC:cid_58:tabcd_1:PrevLocationCode=45632
+highway=motorway_junction
+name=Suhl / Zella-Mehlis
+ref=19
+id=node/1576527060</desc></wpt><wpt lat="50.9444982" lon="11.295807"><name>Weimar</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11158
+TMC:cid_58:tabcd_1:NextLocationCode=45642
+TMC:cid_58:tabcd_1:PrevLocationCode=11157
+highway=motorway_junction
+name=Weimar
+ref=49
+id=node/1577098901</desc></wpt><wpt lat="50.8928583" lon="10.9293437"><name>Neudietendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11152
+TMC:cid_58:tabcd_1:NextLocationCode=11153
+TMC:cid_58:tabcd_1:PrevLocationCode=11151
+highway=motorway_junction
+name=Neudietendorf
+ref=44
+id=node/1579222983</desc></wpt><wpt lat="50.8930208" lon="10.9290577"><name>Neudietendorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11152
+TMC:cid_58:tabcd_1:NextLocationCode=11153
+TMC:cid_58:tabcd_1:PrevLocationCode=11151
+highway=motorway_junction
+name=Neudietendorf
+ref=44
+id=node/1579223000</desc></wpt><wpt lat="50.8918751" lon="11.8797229"><name>Hermsdorf-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11167
+TMC:cid_58:tabcd_1:NextLocationCode=11168
+TMC:cid_58:tabcd_1:PrevLocationCode=11166
+highway=motorway_junction
+name=Hermsdorf-Ost
+ref=56b
+id=node/1587429850</desc></wpt><wpt lat="50.8680767" lon="11.8506688"><name>Hermsdorfer Kreuz</name><desc>highway=motorway_junction
+name=Hermsdorfer Kreuz
+ref=24
+id=node/1605385300</desc></wpt><wpt lat="50.8696777" lon="11.8501522"><name>Raststätte Hermsdorfer Kreuz</name><desc>highway=motorway_junction
+name=Raststätte Hermsdorfer Kreuz
+noref=yes
+id=node/1605385355</desc></wpt><wpt lat="51.0344292" lon="10.9584525"><name>Erfurt-Kühnhausen</name><desc>highway=motorway_junction
+name=Erfurt-Kühnhausen
+source=wikipedia
+id=node/1606486288</desc></wpt><wpt lat="51.0444982" lon="10.9397512"><name>Elxleben</name><desc>highway=motorway_junction
+name=Elxleben
+source=wikipedia
+id=node/1606486289</desc></wpt><wpt lat="50.8523676" lon="11.009021"><name>Arnstadt-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12691
+TMC:cid_58:tabcd_1:NextLocationCode=12690
+TMC:cid_58:tabcd_1:PrevLocationCode=45531
+highway=motorway_junction
+name=Arnstadt-Nord
+ref=13
+id=node/1622275377</desc></wpt><wpt lat="50.8394894" lon="11.0107752"><name>Rastplatz Dornheimer Rieth</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45531
+TMC:cid_58:tabcd_1:NextLocationCode=12691
+TMC:cid_58:tabcd_1:PrevLocationCode=12692
+highway=motorway_junction
+name=Rastplatz Dornheimer Rieth
+noref=yes
+id=node/1622352338</desc></wpt><wpt lat="50.8252726" lon="11.0053991"><name>Arnstadt Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12692
+TMC:cid_58:tabcd_1:NextLocationCode=45531
+TMC:cid_58:tabcd_1:PrevLocationCode=45638
+highway=motorway_junction
+name=Arnstadt Süd
+old_ref=14
+ref=14a
+id=node/1622399214</desc></wpt><wpt lat="50.8765634" lon="11.6413036"><name>node/1634539007</name><desc>highway=motorway_junction
+noref=yes
+old_name=Jena-Lobeda
+old_ref=54
+id=node/1634539007</desc></wpt><wpt lat="50.8749704" lon="11.7083716"><name>Rastplatz Rodablick</name><desc>highway=motorway_junction
+name=Rastplatz Rodablick
+noref=yes
+id=node/1634939050</desc></wpt><wpt lat="50.8678476" lon="11.7729537"><name>Stadtroda</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11164
+TMC:cid_58:tabcd_1:NextLocationCode=11165
+TMC:cid_58:tabcd_1:PrevLocationCode=11163
+highway=motorway_junction
+name=Stadtroda
+ref=55
+id=node/1634939396</desc></wpt><wpt lat="50.86862" lon="11.776126"><name>Stadtroda</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11164
+TMC:cid_58:tabcd_1:NextLocationCode=11165
+TMC:cid_58:tabcd_1:PrevLocationCode=11163
+highway=motorway_junction
+name=Stadtroda
+ref=55
+id=node/1634939397</desc></wpt><wpt lat="50.7486365" lon="10.9994989"><name>Stadtilm</name><desc>highway=motorway_junction
+name=Stadtilm
+ref=14b
+id=node/1636719173</desc></wpt><wpt lat="50.5991443" lon="10.5314458"><name>Rastplatz Dolmar</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45636
+TMC:cid_58:tabcd_1:NextLocationCode=45504
+TMC:cid_58:tabcd_1:PrevLocationCode=45505
+highway=motorway_junction
+name=Rastplatz Dolmar
+noref=yes
+id=node/1650378749</desc></wpt><wpt lat="50.6008893" lon="10.5351614"><name>Rastplatz Dolmar</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45636
+TMC:cid_58:tabcd_1:NextLocationCode=45504
+TMC:cid_58:tabcd_1:PrevLocationCode=45505
+highway=motorway_junction
+name=Rastplatz Dolmar
+noref=yes
+id=node/1650378787</desc></wpt><wpt lat="50.5783964" lon="10.4825552"><name>Meiningen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45505
+TMC:cid_58:tabcd_1:NextLocationCode=45636
+TMC:cid_58:tabcd_1:PrevLocationCode=45506
+highway=motorway_junction
+name=Meiningen-Nord
+ref=21
+id=node/1650391569</desc></wpt><wpt lat="50.5792228" lon="10.4829642"><name>Meiningen-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45505
+TMC:cid_58:tabcd_1:NextLocationCode=45636
+TMC:cid_58:tabcd_1:PrevLocationCode=45506
+highway=motorway_junction
+name=Meiningen-Nord
+ref=21
+id=node/1650391570</desc></wpt><wpt lat="50.5783207" lon="10.4807286"><name>Meiningen-Nord</name><desc>highway=motorway_junction
+name=Meiningen-Nord
+id=node/1650391591</desc></wpt><wpt lat="50.5213256" lon="10.4640653"><name>Meiningen-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45506
+TMC:cid_58:tabcd_1:NextLocationCode=45505
+TMC:cid_58:tabcd_1:PrevLocationCode=45631
+highway=motorway_junction
+name=Meiningen-Süd
+ref=22
+id=node/1650416327</desc></wpt><wpt lat="50.522459" lon="10.4694129"><name>Meiningen-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45506
+TMC:cid_58:tabcd_1:NextLocationCode=45505
+TMC:cid_58:tabcd_1:PrevLocationCode=45631
+highway=motorway_junction
+name=Meiningen-Süd
+ref=22
+id=node/1650416329</desc></wpt><wpt lat="50.4712251" lon="10.4530555"><name>Rastplatz Thüringer Tor</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45529
+TMC:cid_58:tabcd_1:NextLocationCode=45631
+TMC:cid_58:tabcd_1:PrevLocationCode=45530
+highway=motorway_junction
+name=Rastplatz Thüringer Tor
+noref=yes
+id=node/1650432130</desc></wpt><wpt lat="50.9015549" lon="10.7342107"><name>Gotha</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11150
+TMC:cid_58:tabcd_1:NextLocationCode=45644
+TMC:cid_58:tabcd_1:PrevLocationCode=45541
+ele=343.81
+highway=motorway_junction
+name=Gotha
+ref=42
+id=node/1651863284</desc></wpt><wpt lat="50.7111454" lon="10.8948598"><name>Ilmenau-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12694
+TMC:cid_58:tabcd_1:NextLocationCode=12693
+TMC:cid_58:tabcd_1:PrevLocationCode=45635
+highway=motorway_junction
+name=Ilmenau-West
+ref=16
+id=node/1658258479</desc></wpt><wpt lat="50.7255408" lon="10.8435315"><name>Rasthof Thüringer Wald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45637
+TMC:cid_58:tabcd_1:NextLocationCode=45635
+TMC:cid_58:tabcd_1:PrevLocationCode=12695
+highway=motorway_junction
+name=Rasthof Thüringer Wald
+noref=yes
+id=node/1658259887</desc></wpt><wpt lat="50.7259247" lon="10.8480949"><name>Rasthof Thüringer Wald</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45637
+TMC:cid_58:tabcd_1:NextLocationCode=45635
+TMC:cid_58:tabcd_1:PrevLocationCode=12695
+highway=motorway_junction
+name=Rasthof Thüringer Wald
+noref=yes
+id=node/1658260017</desc></wpt><wpt lat="50.8965058" lon="11.9727498"><name>Rüdersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11168
+TMC:cid_58:tabcd_1:NextLocationCode=11169
+TMC:cid_58:tabcd_1:PrevLocationCode=11167
+highway=motorway_junction
+name=Rüdersdorf
+ref=57
+id=node/1666411911</desc></wpt><wpt lat="50.4695231" lon="10.453619"><name>Rastplatz Thüringer Tor</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45529
+TMC:cid_58:tabcd_1:NextLocationCode=45631
+TMC:cid_58:tabcd_1:PrevLocationCode=45530
+highway=motorway_junction
+name=Rastplatz Thüringer Tor
+noref=yes
+id=node/1668556210</desc></wpt><wpt lat="50.446305" lon="10.443751"><name>Rentwertshausen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45530
+TMC:cid_58:tabcd_1:NextLocationCode=45529
+TMC:cid_58:tabcd_1:PrevLocationCode=36159
+highway=motorway_junction
+name=Rentwertshausen
+ref=23
+id=node/1677677309</desc></wpt><wpt lat="50.8713422" lon="12.232779"><name>Ronneburg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11171
+TMC:cid_58:tabcd_1:NextLocationCode=11172
+TMC:cid_58:tabcd_1:PrevLocationCode=11170
+highway=motorway_junction
+name=Ronneburg
+ref=60
+id=node/1679110986</desc></wpt><wpt lat="50.9100021" lon="12.0715241"><name>Gera-Langenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11169
+TMC:cid_58:tabcd_1:NextLocationCode=20097
+TMC:cid_58:tabcd_1:PrevLocationCode=11168
+highway=motorway_junction
+name=Gera-Langenberg
+ref=58a
+id=node/1680535623</desc></wpt><wpt lat="50.9095975" lon="12.0696716"><name>Gera-Langenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11169
+TMC:cid_58:tabcd_1:NextLocationCode=20097
+TMC:cid_58:tabcd_1:PrevLocationCode=11168
+highway=motorway_junction
+name=Gera-Langenberg
+ref=58a
+id=node/1680880429</desc></wpt><wpt lat="50.9631606" lon="10.0548329"><name>Gerstungen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11140
+TMC:cid_58:tabcd_1:NextLocationCode=11141
+TMC:cid_58:tabcd_1:PrevLocationCode=11139
+highway=motorway_junction
+name=Gerstungen
+ref=36
+id=node/1683754239</desc></wpt><wpt lat="50.9683259" lon="11.8612029"><name>Eisenberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12788
+TMC:cid_58:tabcd_1:NextLocationCode=12789
+TMC:cid_58:tabcd_1:PrevLocationCode=45577
+highway=motorway_junction
+name=Eisenberg
+ref=22
+id=node/1700485112</desc></wpt><wpt lat="50.8883248" lon="11.6139373"><name>node/1712854112</name><desc>highway=motorway_junction
+id=node/1712854112</desc></wpt><wpt lat="50.8689458" lon="11.5976481"><name>node/1788468146</name><desc>highway=motorway_junction
+id=node/1788468146</desc></wpt><wpt lat="50.87263" lon="11.5950419"><name>Jena-Göschwitz</name><desc>highway=motorway_junction
+name=Jena-Göschwitz
+ref=53
+id=node/1789167800</desc></wpt><wpt lat="50.8957159" lon="11.443773"><name>Magdala</name><desc>highway=motorway_junction
+name=Magdala
+ref=51
+id=node/1796886795</desc></wpt><wpt lat="50.8761309" lon="11.5030084"><name>Bucha</name><desc>highway=motorway_junction
+name=Bucha
+ref=52
+id=node/1796886813</desc></wpt><wpt lat="50.8619179" lon="11.5982176"><name>node/1798117329</name><desc>highway=motorway_junction
+id=node/1798117329</desc></wpt><wpt lat="50.8619486" lon="11.5983474"><name>Maua</name><desc>highway=motorway_junction
+name=Maua
+id=node/1798117331</desc></wpt><wpt lat="50.7709758" lon="10.3285624"><name>node/1804601933</name><desc>highway=motorway_junction
+id=node/1804601933</desc></wpt><wpt lat="50.9692821" lon="11.8613888"><name>Eisenberg</name><desc>highway=motorway_junction
+name=Eisenberg
+ref=22
+id=node/1834030668</desc></wpt><wpt lat="51.2046238" lon="11.1830192"><name>Kölleda</name><desc>destination=Dermsdorf;Leubingen;Kölleda
+highway=motorway_junction
+name=Kölleda
+ref=4
+id=node/1841737325</desc></wpt><wpt lat="51.3808729" lon="11.2754194"><name>Artern</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45518
+TMC:cid_58:tabcd_1:PrevLocationCode=45519
+highway=motorway_junction
+name=Artern
+ref=2
+id=node/1878288885</desc></wpt><wpt lat="51.3824001" lon="11.2765369"><name>Artern</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45518
+TMC:cid_58:tabcd_1:PrevLocationCode=45519
+highway=motorway_junction
+name=Artern
+ref=2
+id=node/1878288891</desc></wpt><wpt lat="51.1883391" lon="11.1606042"><name>Rastplatz Leubinger Fürstenhügel</name><desc>highway=motorway_junction
+name=Rastplatz Leubinger Fürstenhügel
+noref=yes
+id=node/1902469996</desc></wpt><wpt lat="51.3867807" lon="10.8463895"><name>Sondershausen-Nord</name><desc>highway=motorway_junction
+name=Sondershausen-Nord
+id=node/1923631364</desc></wpt><wpt lat="51.4129092" lon="10.3553291"><name>node/1924059138</name><desc>highway=motorway_junction
+id=node/1924059138</desc></wpt><wpt lat="51.4210375" lon="10.3533436"><name>node/1924091375</name><desc>highway=motorway_junction
+id=node/1924091375</desc></wpt><wpt lat="51.0375171" lon="11.0383509"><name>Erfurt-Stotternheim</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45525
+TMC:cid_58:tabcd_1:NextLocationCode=45524
+TMC:cid_58:tabcd_1:PrevLocationCode=45526
+highway=motorway_junction
+name=Erfurt-Stotternheim
+ref=8
+id=node/1932766304</desc></wpt><wpt lat="50.5157981" lon="10.7703641"><name>Schleusingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=45536
+TMC:cid_58:tabcd_1:NextLocationCode=45535
+TMC:cid_58:tabcd_1:PrevLocationCode=45537
+highway=motorway_junction
+name=Schleusingen
+ref=4
+id=node/1945868374</desc></wpt><wpt lat="50.5180202" lon="10.7654888"><name>Schleusingen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=45536
+TMC:cid_58:tabcd_1:NextLocationCode=45535
+TMC:cid_58:tabcd_1:PrevLocationCode=45537
+highway=motorway_junction
+name=Schleusingen
+ref=4
+id=node/1945868504</desc></wpt><wpt lat="50.7110568" lon="10.8925829"><name>Ilmenau-West</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12694
+TMC:cid_58:tabcd_1:NextLocationCode=12693
+TMC:cid_58:tabcd_1:PrevLocationCode=45635
+highway=motorway_junction
+name=Ilmenau-West
+ref=16
+id=node/1999270535</desc></wpt><wpt lat="50.8769957" lon="11.5008227"><name>Bucha</name><desc>highway=motorway_junction
+name=Bucha
+ref=52
+id=node/2027739593</desc></wpt><wpt lat="50.6568216" lon="11.8133697"><name>Dittersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12781
+TMC:cid_58:tabcd_1:NextLocationCode=12782
+TMC:cid_58:tabcd_1:PrevLocationCode=12780
+highway=motorway_junction
+name=Dittersdorf
+ref=27
+id=node/2094195948</desc></wpt><wpt lat="50.6569065" lon="11.8137132"><name>Dittersdorf</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12781
+TMC:cid_58:tabcd_1:NextLocationCode=12782
+TMC:cid_58:tabcd_1:PrevLocationCode=12780
+highway=motorway_junction
+name=Dittersdorf
+ref=27
+id=node/2094195954</desc></wpt><wpt lat="50.9374411" lon="11.3521664"><name>Rastplatz Habichtsfang</name><desc>highway=motorway_junction
+name=Rastplatz Habichtsfang
+noref=yes
+id=node/2162492624</desc></wpt><wpt lat="50.8784423" lon="10.8071425"><name>Drei Gleichen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45644
+TMC:cid_58:tabcd_1:NextLocationCode=11151
+TMC:cid_58:tabcd_1:PrevLocationCode=11150
+highway=motorway_junction
+name=Drei Gleichen
+noref=yes
+id=node/2324067258</desc></wpt><wpt lat="50.910143" lon="11.0688429"><name>Rastplatz Willroder Forst</name><desc>highway=motorway_junction
+name=Rastplatz Willroder Forst
+noref=yes
+id=node/2336018466</desc></wpt><wpt lat="51.2033675" lon="11.182515"><name>Kölleda</name><desc>destination=Dermsdorf;Leubingen;Kölleda
+highway=motorway_junction
+name=Kölleda
+ref=4
+id=node/2400637230</desc></wpt><wpt lat="50.5805182" lon="11.7771201"><name>Rastplatz Himmelsteiche</name><desc>highway=motorway_junction
+name=Rastplatz Himmelsteiche
+noref=yes
+id=node/2424053599</desc></wpt><wpt lat="50.5842496" lon="11.7789265"><name>Rastplatz Himmelsteiche</name><desc>highway=motorway_junction
+name=Rastplatz Himmelsteiche
+noref=yes
+id=node/2424053615</desc></wpt><wpt lat="50.7403021" lon="10.3578099"><name>node/2466092239</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=both
+TMC:cid_58:tabcd_1:LCLversion=14.0
+TMC:cid_58:tabcd_1:LocationCode=45900
+TMC:cid_58:tabcd_1:NextLocationCode=21306
+TMC:cid_58:tabcd_1:PrevLocationCode=29770
+highway=motorway_junction
+id=node/2466092239</desc></wpt><wpt lat="50.74348" lon="10.3562943"><name>node/2466096468</name><desc>highway=motorway_junction
+id=node/2466096468</desc></wpt><wpt lat="50.9976749" lon="11.0736207"><name>Erfurt-Ringelberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45863
+TMC:cid_58:tabcd_1:NextLocationCode=45864
+TMC:cid_58:tabcd_1:PrevLocationCode=29567
+highway=motorway_junction
+name=Erfurt-Ringelberg
+id=node/2478088281</desc></wpt><wpt lat="51.0107447" lon="11.0621517"><name>Erfurt-Roter Berg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45864
+TMC:cid_58:tabcd_1:NextLocationCode=45865
+TMC:cid_58:tabcd_1:PrevLocationCode=45863
+highway=motorway_junction
+name=Erfurt-Roter Berg
+id=node/2478107996</desc></wpt><wpt lat="51.115973" lon="11.1320866"><name>Sömmerda-Süd</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45523
+TMC:cid_58:tabcd_1:NextLocationCode=45522
+TMC:cid_58:tabcd_1:PrevLocationCode=45524
+destination=Sömmerda-Süd;Schloßvippach;Berlstedt
+highway=motorway_junction
+name=Sömmerda-Süd
+ref=6
+id=node/2493596713</desc></wpt><wpt lat="50.9260267" lon="11.1375311"><name>Erfurt-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11155
+TMC:cid_58:tabcd_1:NextLocationCode=45542
+TMC:cid_58:tabcd_1:PrevLocationCode=45643
+ele=411.58
+highway=motorway_junction
+name=Erfurt-Ost
+ref=47a
+id=node/2499986601</desc></wpt><wpt lat="51.0407304" lon="11.0663955"><name>Erfurt-Nord</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45524
+TMC:cid_58:tabcd_1:NextLocationCode=45523
+TMC:cid_58:tabcd_1:PrevLocationCode=45525
+highway=motorway_junction
+name=Erfurt-Nord
+ref=7
+id=node/2556132308</desc></wpt><wpt lat="50.9060571" lon="10.6082431"><name>Gotha-Boxberg</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45541
+TMC:cid_58:tabcd_1:NextLocationCode=11150
+TMC:cid_58:tabcd_1:PrevLocationCode=11149
+highway=motorway_junction
+name=Gotha-Boxberg
+ref=41b
+id=node/2622553493</desc></wpt><wpt lat="51.0274526" lon="10.9801889"><name>Erfurt-Gispersleben</name><desc>highway=motorway_junction
+name=Erfurt-Gispersleben
+ref=10
+id=node/2635369653</desc></wpt><wpt lat="51.0488379" lon="10.9358292"><name>Elxleben</name><desc>highway=motorway_junction
+name=Elxleben
+source=wikipedia
+id=node/2638744162</desc></wpt><wpt lat="51.5508622" lon="10.5632044"><name>node/2719592392</name><desc>highway=motorway_junction
+id=node/2719592392</desc></wpt><wpt lat="51.5511335" lon="10.5628212"><name>node/2719592428</name><desc>highway=motorway_junction
+id=node/2719592428</desc></wpt><wpt lat="51.1553621" lon="11.170011"><name>Sömmerda-Ost</name><desc>highway=motorway_junction
+name=Sömmerda-Ost
+ref=5
+id=node/2794588868</desc></wpt><wpt lat="51.3923751" lon="10.3444313"><name>node/2876074056</name><desc>highway=motorway_junction
+id=node/2876074056</desc></wpt><wpt lat="50.7111009" lon="10.365988"><name>node/2935626038</name><desc>highway=motorway_junction
+id=node/2935626038</desc></wpt><wpt lat="51.3054974" lon="11.2374558"><name>Heldrungen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45519
+TMC:cid_58:tabcd_1:NextLocationCode=45518
+TMC:cid_58:tabcd_1:PrevLocationCode=57166
+highway=motorway_junction
+name=Heldrungen
+ref=3
+id=node/2967105814</desc></wpt><wpt lat="51.3099033" lon="11.237164"><name>Heldrungen</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45519
+TMC:cid_58:tabcd_1:NextLocationCode=45518
+TMC:cid_58:tabcd_1:PrevLocationCode=57166
+highway=motorway_junction
+name=Heldrungen
+ref=3
+id=node/2967111084</desc></wpt><wpt lat="51.3270295" lon="11.2479706"><name>node/3005426438</name><desc>highway=motorway_junction
+noref=yes
+id=node/3005426438</desc></wpt><wpt lat="50.9439488" lon="11.2981743"><name>Weimar</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11158
+TMC:cid_58:tabcd_1:NextLocationCode=45642
+TMC:cid_58:tabcd_1:PrevLocationCode=11157
+ele=364.48
+highway=motorway_junction
+name=Weimar
+ref=49
+id=node/3196992294</desc></wpt><wpt lat="50.9302516" lon="11.3915778"><name>Apolda</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11159
+TMC:cid_58:tabcd_1:NextLocationCode=11160
+TMC:cid_58:tabcd_1:PrevLocationCode=45642
+ele=256.33
+highway=motorway_junction
+name=Apolda
+ref=50
+time=2004-06-06T16:24:28Z
+id=node/3233349187</desc></wpt><wpt lat="50.8857568" lon="12.1509731"><name>Gera-Leumnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11170
+TMC:cid_58:tabcd_1:NextLocationCode=11171
+TMC:cid_58:tabcd_1:PrevLocationCode=20097
+highway=motorway_junction
+name=Gera-Leumnitz
+ref=59
+id=node/3233625534</desc></wpt><wpt lat="50.886288" lon="12.150606"><name>Gera-Leumnitz</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=negative
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11170
+TMC:cid_58:tabcd_1:NextLocationCode=11171
+TMC:cid_58:tabcd_1:PrevLocationCode=20097
+highway=motorway_junction
+name=Gera-Leumnitz
+ref=59
+id=node/3233625535</desc></wpt><wpt lat="50.9333729" lon="11.3861405"><name>Apolda</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11159
+TMC:cid_58:tabcd_1:NextLocationCode=11160
+TMC:cid_58:tabcd_1:PrevLocationCode=45642
+highway=motorway_junction
+name=Apolda
+ref=50
+id=node/3264166268</desc></wpt><wpt lat="51.3300029" lon="11.2513574"><name>node/3277014384</name><desc>highway=motorway_junction
+noref=yes
+id=node/3277014384</desc></wpt><wpt lat="50.8910963" lon="11.8782126"><name>Hermsdorf-Ost</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=11167
+TMC:cid_58:tabcd_1:NextLocationCode=11168
+TMC:cid_58:tabcd_1:PrevLocationCode=11166
+highway=motorway_junction
+name=Hermsdorf-Ost
+ref=56b
+id=node/3421969912</desc></wpt><wpt lat="50.7109869" lon="10.3659396"><name>node/3796660692</name><desc>highway=motorway_junction
+id=node/3796660692</desc></wpt><wpt lat="51.1853348" lon="11.158082"><name>Rastplatz Leubinger Fürstenhügel</name><desc>highway=motorway_junction
+name=Rastplatz Leubinger Fürstenhügel
+noref=yes
+id=node/4307233413</desc></wpt><wpt lat="50.8555592" lon="11.5974594"><name>Rothenstein</name><desc>highway=motorway_junction
+name=Rothenstein
+id=node/4356536623</desc></wpt><wpt lat="50.8536584" lon="11.5975527"><name>Rothenstein</name><desc>highway=motorway_junction
+name=Rothenstein
+id=node/4434438048</desc></wpt><wpt lat="50.8899709" lon="11.9515376"><name>Tümmelsberg</name><desc>highway=motorway_junction
+name=Tümmelsberg
+noref=yes
+id=node/6514300202</desc></wpt><wpt lat="50.8890447" lon="11.9457093"><name>Tümmelsberg</name><desc>highway=motorway_junction
+name=Tümmelsberg
+noref=yes
+id=node/6514300250</desc></wpt><wpt lat="50.7229001" lon="10.8342335"><name>Gräfenroda</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=12695
+TMC:cid_58:tabcd_1:NextLocationCode=45637
+TMC:cid_58:tabcd_1:PrevLocationCode=45977
+highway=motorway_junction
+name=Gräfenroda
+ref=17
+id=node/7260171117</desc></wpt><wpt lat="50.6060419" lon="10.6458224"><name>Dreieck Suhl</name><desc>TMC:cid_58:tabcd_1:Class=Point
+TMC:cid_58:tabcd_1:Direction=positive
+TMC:cid_58:tabcd_1:LCLversion=9.00
+TMC:cid_58:tabcd_1:LocationCode=45533
+TMC:cid_58:tabcd_1:PrevLocationCode=45534
+highway=motorway_junction
+name=Dreieck Suhl
+ref=1
+id=node/12996309190</desc></wpt></gpx>

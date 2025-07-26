@@ -1,0 +1,878 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OverpassTurboBatch"><metadata/><wpt lat="50.9768999" lon="11.0256355"><name>Theater Waidspeicher</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=18
+addr:postcode=99084
+addr:street=Domplatz
+amenity=theatre
+check_date=2024-03-30
+contact:phone=+49 361 5982924
+contact:website=http://www.waidspeicher.de/
+description=Puppentheater
+name=Theater Waidspeicher
+theatre:genre=figure
+wheelchair=no
+wikidata=Q2415986
+wikipedia=de:Theater Waidspeicher (Puppentheater)
+id=node/278838149</desc></wpt><wpt lat="50.9740311" lon="11.0275559"><name>DASDIE Brettl</name><desc>addr:city=Erfurt
+addr:housenumber=29
+addr:postcode=99084
+addr:street=Lange Brücke
+amenity=theatre
+check_date=2024-10-13
+name=DASDIE Brettl
+wheelchair=yes
+id=node/292797371</desc></wpt><wpt lat="50.9180517" lon="11.7554942"><name>AmViehTheater</name><desc>amenity=theatre
+name=AmViehTheater
+id=node/420545234</desc></wpt><wpt lat="50.5179426" lon="10.9683788"><name>Theater im Badehaus Masserberg</name><desc>addr:city=Masserberg
+addr:country=DE
+addr:housenumber=8
+addr:postcode=98666
+addr:street=Kurhausstraße
+amenity=theatre
+name=Theater im Badehaus Masserberg
+id=node/470279954</desc></wpt><wpt lat="50.5234539" lon="10.8517406"><name>Naturtheater Steinbach-Langenbach</name><desc>addr:housenumber=5
+addr:street=Straße zum Naturtheater
+amenity=theatre
+name=Naturtheater Steinbach-Langenbach
+website=https://theater-im-gruenen.de/
+wikidata=Q1277686
+wikipedia=de:Naturtheater Steinbach-Langenbach
+id=node/504665066</desc></wpt><wpt lat="50.9818928" lon="10.3345273"><name>Eisenacher Jazzclub</name><desc>addr:city=Eisenach
+addr:housenumber=1
+addr:postcode=99817
+addr:street=Palmental
+amenity=theatre
+name=Eisenacher Jazzclub
+operator=Lippmann &amp; Rau-Stiftung
+website=https://de.wikipedia.org/wiki/Jazzklub_Eisenach
+wheelchair=no
+id=node/674948528</desc></wpt><wpt lat="50.8765469" lon="10.5001078"><name>Freilichtbühne am Winkelhof</name><desc>amenity=theatre
+name=Freilichtbühne am Winkelhof
+id=node/798057336</desc></wpt><wpt lat="50.5696493" lon="10.4073689"><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+id=node/1135445533</desc></wpt><wpt lat="50.5677522" lon="10.4126645"><name>Junges Staatstheater Meiningen</name><desc>amenity=theatre
+name=Junges Staatstheater Meiningen
+id=node/1141118925</desc></wpt><wpt lat="50.8533384" lon="11.2044121"><name>Freilichtbühne Niederburg</name><desc>amenity=theatre
+name=Freilichtbühne Niederburg
+theatre:type=open_air
+id=node/1256105833</desc></wpt><wpt lat="50.9450035" lon="10.7042192"><name>Ekhof Theater</name><desc>amenity=theatre
+name=Ekhof Theater
+website=http://www.ekhof-theater.de
+wheelchair=limited
+wikidata=Q1322542
+wikipedia=de:Ekhof-Theater
+id=node/1337990731</desc></wpt><wpt lat="50.4585078" lon="10.8859543"><name>Waldbühne Crock</name><desc>addr:city=Auengrund
+addr:postcode=98673
+addr:street=Hirschgraben
+amenity=theatre
+name=Waldbühne Crock
+note=Freilichtbühne
+opening_hours=24/7
+operator=Gemeinsam für Crock e.V.
+short_name=Waldbühne
+id=node/1395190064</desc></wpt><wpt lat="50.88035" lon="12.07919"><name>TheaterFABRIK</name><desc>addr:city=Gera
+addr:country=DE
+addr:housenumber=1
+addr:postcode=07545
+addr:street=Clara-Zetkin-Straße
+amenity=theatre
+contact:phone=+49 365 214 7859
+contact:website=http://www.theaterfabrik-gera.de
+name=TheaterFABRIK
+operator=Theater Altenburg-Gera
+wheelchair:description=Die TheaterFABRIK hat ihre Bühne in der Tonhalle. Der rollstuhlgerechte Eingang ist der Hintereingang über die Bielitzstraße. Vor Ort sind alle Etage per Fahrstuhl erreichbar. Eine geeignete Toilette befindet sich im EG, direkt neben der Bühne der FABRIK.
+id=node/1397134108</desc></wpt><wpt lat="50.9790106" lon="11.0324064"><name>Das Lachgeschoss</name><desc>addr:city=Erfurt
+addr:housenumber=13
+addr:postcode=99084
+addr:street=Futterstraße
+amenity=theatre
+name=Das Lachgeschoss
+note=Kabarett
+phone=+49 361 6635886
+website=https://www.lachgeschoss.de/
+wheelchair=limited
+wheelchair:description=Stufenfreier Zugang über Hintertür. Bitte vorher anrufen und dieser Weg wird geöffnet.
+id=node/1504565575</desc></wpt><wpt lat="50.9911558" lon="11.3258108"><name>Stellwerk Junges Theater</name><desc>addr:city=Weimar
+addr:housenumber=2
+addr:postcode=99423
+addr:street=Schopenhauerstraße
+amenity=theatre
+check_date=2025-01-24
+level=0
+name=Stellwerk Junges Theater
+operator=stellwerk weimar e.V.
+website=https://www.stellwerk-weimar.de/
+wheelchair=yes
+id=node/1523942765</desc></wpt><wpt lat="50.9742044" lon="10.3210936"><name>Theater am Markt</name><desc>amenity=theatre
+check_date=2025-05-13
+name=Theater am Markt
+wheelchair=no
+id=node/1998678261</desc></wpt><wpt lat="50.9777846" lon="11.025534"><name>Galli Theater Erfurt</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=35
+addr:postcode=99084
+addr:street=Marktstraße
+amenity=theatre
+name=Galli Theater Erfurt
+website=https://galli-erfurt.de/
+wheelchair=no
+id=node/2099453524</desc></wpt><wpt lat="50.9658775" lon="11.0083042"><name>node/2133531666</name><desc>amenity=theatre
+disused=yes
+id=node/2133531666</desc></wpt><wpt lat="50.6074333" lon="11.4282884"><name>Freilichtplatz</name><desc>amenity=theatre
+name=Freilichtplatz
+theatre:type=open_air
+id=node/2372589064</desc></wpt><wpt lat="50.5701943" lon="10.4151232"><name>Jugendtheater TOHUWABOHU</name><desc>amenity=theatre
+name=Jugendtheater TOHUWABOHU
+id=node/2447309627</desc></wpt><wpt lat="50.9740116" lon="11.0277715"><name>DASDIE Stage</name><desc>amenity=theatre
+check_date=2025-04-13
+name=DASDIE Stage
+wheelchair=no
+id=node/2556168562</desc></wpt><wpt lat="50.5726886" lon="10.4160455"><name>Kammerspiele</name><desc>addr:city=Meiningen
+addr:housenumber=3
+addr:postcode=98617
+addr:street=Bernhardstraße
+amenity=theatre
+name=Kammerspiele
+toilets:wheelchair=yes
+website=https://www.staatstheater-meiningen.de/start/index.html
+wheelchair=yes
+wheelchair:description=Zugang von der Hausrückseite aus.
+id=node/2678927728</desc></wpt><wpt lat="50.9772363" lon="11.0274059"><name>Atelier Theater</name><desc>amenity=theatre
+check_date=2025-07-13
+name=Atelier Theater
+wheelchair=no
+id=node/2770741072</desc></wpt><wpt lat="50.976917" lon="11.0258545"><name>Kabarett "Die Arche"</name><desc>addr:city=Erfurt
+addr:housenumber=18
+addr:postcode=99084
+addr:street=Domplatz
+amenity=theatre
+check_date=2024-03-30
+contact:phone=+49 361 5982924
+contact:website=http://www.kabarett-diearche.de
+name=Kabarett "Die Arche"
+theatre:genre=cabaret
+toilets:wheelchair=no
+wheelchair=no
+wikidata=Q1211086
+wikipedia=de:Die Arche (Kabarett)
+id=node/3207298661</desc></wpt><wpt lat="50.9804638" lon="11.0266272"><name>Theater im Palais</name><desc>addr:city=Erfurt
+addr:housenumber=30
+addr:postcode=99084
+addr:street=Michaelisstraße
+amenity=theatre
+contact:website=http://www.theaterimpalais.de/
+name=Theater im Palais
+wheelchair=no
+id=node/3247456261</desc></wpt><wpt lat="50.6654715" lon="10.3655419"><name>Narrenburg Wasungen</name><desc>addr:city=Wasungen
+addr:housenumber=12
+addr:postcode=98634
+addr:street=Schöppenwerthgasse
+amenity=theatre
+name=Narrenburg Wasungen
+id=node/3633125293</desc></wpt><wpt lat="50.9766703" lon="10.3074448"><name>Kleinkunstbühne Katharinenschule</name><desc>addr:city=Eisenach
+addr:country=DE
+addr:housenumber=149
+addr:postcode=99817
+addr:street=Katharinenstraße
+amenity=theatre
+check_date=2025-03-26
+name=Kleinkunstbühne Katharinenschule
+website=http://www.katharinenschule.com/v1/Willkommen.html
+id=node/3677883760</desc></wpt><wpt lat="50.9745538" lon="11.0179153"><name>Theater Erfurt</name><desc>addr:city=Erfurt
+addr:housenumber=1
+addr:postcode=99084
+addr:street=Theaterplatz
+amenity=theatre
+capacity=800/200
+check_date=2024-03-05
+name=Theater Erfurt
+phone=+49 361 2233155
+toilets:wheelchair=yes
+website=https://www.theater-erfurt.de/
+wheelchair=yes
+wikidata=Q2415749
+wikipedia=de:Theater Erfurt
+id=node/3881606658</desc></wpt><wpt lat="50.5945728" lon="10.4141953"><name>Amphitheater</name><desc>amenity=theatre
+name=Amphitheater
+id=node/4033400168</desc></wpt><wpt lat="50.9984255" lon="11.3161778"><name>Redoute, Interimsspielstätte des Deutschen Nationaltheaters</name><desc>addr:city=Weimar
+addr:housenumber=61
+addr:postcode=99427
+addr:street=Ettersburger Straße
+amenity=theatre
+name=Redoute, Interimsspielstätte des Deutschen Nationaltheaters
+name:de=Redoute, Interimsspielstätte des Deutschen Nationaltheaters
+id=node/4412909509</desc></wpt><wpt lat="51.1093054" lon="10.7090576"><name>Bauerntheater</name><desc>amenity=theatre
+contact:website=http://bauerntheater-naegelstedt.de
+name=Bauerntheater
+name:de=Bauerntheater
+id=node/4428832595</desc></wpt><wpt lat="50.8554691" lon="10.5643606"><name>Thüringer KloßTheater</name><desc>amenity=theatre
+email=info@klosstheater.de
+fax=+49 3623 307307
+name=Thüringer KloßTheater
+phone=+49 3623 307306
+website=https://www.klosstheater.de/
+id=node/4896756852</desc></wpt><wpt lat="51.0119787" lon="11.4190891"><name>KulturGut Ulrichshalben</name><desc>addr:city=Ilmtal-Weinstraße
+addr:country=DE
+addr:housenumber=17
+addr:postcode=99510
+addr:street=Große Kirchgasse
+addr:suburb=Ulrichshalben
+amenity=theatre
+contact:email=info@kulturgut-ulrichshalben.de
+contact:fax=+49 36462 929736
+contact:phone=+49 36462 929736
+contact:website=www.kulturgut-ulrichshalben.de
+name=KulturGut Ulrichshalben
+operator=Freunde und Förderer des KulturGutes Ulrichshalben e.V.
+theatre:type=concert_hall
+id=node/5307290460</desc></wpt><wpt lat="50.9494193" lon="11.0409859"><name>Freilichtbühne</name><desc>amenity=theatre
+disused=yes
+name=Freilichtbühne
+theatre:type=open_air
+id=node/5470847681</desc></wpt><wpt lat="50.9810345" lon="11.3301866"><name>Wilde Bühne</name><desc>amenity=theatre
+name=Wilde Bühne
+id=node/5520709122</desc></wpt><wpt lat="50.9792681" lon="11.3288164"><name>GalliTheater</name><desc>addr:housenumber=4
+addr:street=Windischenstraße
+amenity=theatre
+check_date=2025-04-02
+contact:phone=+49 3643 778 251
+contact:website=http://www.galli.de
+description=im Sharkespeares
+name=GalliTheater
+wheelchair=limited
+id=node/5569155727</desc></wpt><wpt lat="50.974618" lon="11.0277065"><name>DASDIE LIVE</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=12
+addr:postcode=99084
+addr:street=Marstallstraße
+amenity=theatre
+name=DASDIE LIVE
+wheelchair=yes
+id=node/5651178920</desc></wpt><wpt lat="50.9851333" lon="11.3402569"><name>node/5714098514</name><desc>amenity=theatre
+name:en=Großer Saal
+operator=Schießhaus Weimar
+theatre:genre=philharmonic
+id=node/5714098514</desc></wpt><wpt lat="50.6660234" lon="11.9768095"><name>Seestern Panorama Bühne</name><desc>addr:city=Zeulenroda-Triebes
+addr:housenumber=1
+addr:postcode=07937
+addr:street=Bauerfeind-Allee
+amenity=theatre
+contact:phone=+49 36628 98126
+contact:website=https://zeulenrodaer-triebes.reservix.de
+contact:website:2018-2022=https://web.archive.org/web/20230000000000*/http://seestern-eventz.de/events-2
+name=Seestern Panorama Bühne
+operator=Stadt Zeulenroda-Triebes
+start_date=2017-05-27
+theatre:type=open_air
+url=https://www.zeulenroda-triebes.de/seite/565864/seestern-panorama-b%C3%BChne.html
+id=node/6257543548</desc></wpt><wpt lat="50.7199046" lon="11.3423605"><name>No.8 kultur &amp; Mehr</name><desc>amenity=theatre
+name=No.8 kultur &amp; Mehr
+website=https://www.no8-ru.de/
+id=node/6615821341</desc></wpt><wpt lat="50.7199199" lon="11.3423485"><name>Kleinkunstbühne Rudolstadt</name><desc>addr:city=Rudolstadt
+addr:country=DE
+addr:housenumber=8
+addr:postcode=07407
+addr:street=Freiligrathstraße
+amenity=theatre
+name=Kleinkunstbühne Rudolstadt
+website=http://www.kleinkunstbuehne.de
+id=node/6615821342</desc></wpt><wpt lat="50.7189214" lon="11.3396958"><name>Theater im Stadthaus</name><desc>amenity=theatre
+name=Theater im Stadthaus
+id=node/6618917996</desc></wpt><wpt lat="50.5886555" lon="10.4193467"><name>KulturBühne</name><desc>amenity=theatre
+name=KulturBühne
+id=node/7837668113</desc></wpt><wpt lat="50.8883765" lon="12.4308046"><name>Kabarett Nörgelsäcke</name><desc>addr:city=Gößnitz
+addr:country=DE
+addr:housenumber=3
+addr:postcode=04639
+addr:street=Dammstraße
+amenity=theatre
+check_date=2025-05-23
+contact:email=kabarett-noergelsaecke@gmx.de
+contact:phone=+49 34493 72580
+contact:website=https://www.kabarett-noergelsaecke.de/
+name=Kabarett Nörgelsäcke
+wheelchair=yes
+id=node/7908703810</desc></wpt><wpt lat="50.94876" lon="10.7093826"><name>art der stadt e. V.</name><desc>addr:city=Gotha
+addr:housenumber=3
+addr:postcode=99867
+addr:street=Ekhofplatz
+amenity=theatre
+name=art der stadt e. V.
+website=https://www.artderstadt.de/
+id=node/8467320225</desc></wpt><wpt lat="50.9259162" lon="10.8316982"><name>Steinkreis</name><desc>amenity=theatre
+name=Steinkreis
+operator=Lebensgut Cobstädt
+theatre:type=amphi
+id=node/8815604825</desc></wpt><wpt lat="50.8775512" lon="12.0837799"><name>Hugo by Klaus</name><desc>amenity=theatre
+name=Hugo by Klaus
+website=https://www.hugo-gera.de/
+id=node/9212468846</desc></wpt><wpt lat="50.5748796" lon="10.413423"><name>Volkshaus</name><desc>amenity=theatre
+name=Volkshaus
+id=node/9296417619</desc></wpt><wpt lat="50.9715096" lon="11.0222256"><name>Alte Oper</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=1
+addr:postcode=99084
+addr:street=Gorkistraße
+amenity=theatre
+name=Alte Oper
+toilets:wheelchair=yes
+website=www.alteopererfurt.de
+wheelchair=yes
+wikidata=Q436068
+wikipedia=de:Alte Oper (Erfurt)
+id=node/9392090931</desc></wpt><wpt lat="50.7191715" lon="11.3480753"><name>node/9454938992</name><desc>amenity=theatre
+operator=Stadt Rudolstadt - Soziokulturelles Zentrum Saalgärten
+id=node/9454938992</desc></wpt><wpt lat="50.5825872" lon="11.1341196"><name>Waldbühne Grotte</name><desc>amenity=theatre
+name=Waldbühne Grotte
+id=node/9935509565</desc></wpt><wpt lat="50.9793651" lon="11.3302871"><name>Theater Im Gewölbe</name><desc>addr:city=Weimar
+addr:housenumber=11
+addr:postcode=99423
+addr:street=Markt
+amenity=theatre
+check_date=2025-03-28
+name=Theater Im Gewölbe
+phone=+493643777377
+source=survey
+website=http://www.theater-im-gewoelbe.de/
+id=node/10280303986</desc></wpt><wpt lat="50.652018" lon="11.7717769"><name>Bühne</name><desc>amenity=theatre
+name=Bühne
+id=node/11134919458</desc></wpt><wpt lat="51.0040057" lon="11.1908156"><name>Hoftheater Niederzimmern</name><desc>addr:city=Grammetal
+addr:country=DE
+addr:housenumber=5
+addr:postcode=99428
+addr:street=Auf dem Zieche
+addr:suburb=Niederzimmern
+amenity=theatre
+contact:email=hoftheater-niederzimmern@web.de
+contact:facebook=https://www.facebook.com/theaterimpalais.erfurt/
+contact:instagram=https://www.instagram.com/theaterimpalaiserfurt/
+contact:mobile=+49 176 71947720
+contact:phone=+49 36203 789330
+contact:website=https://www.hoftheater-niederzimmern.de/
+name=Hoftheater Niederzimmern
+id=node/11157772223</desc></wpt><wpt lat="50.4987163" lon="10.3764307"><name>Waldbühne Bauerbach</name><desc>addr:city=Grabfeld
+addr:housenumber=1
+addr:postcode=98631
+addr:street=Straße zur Naturbühne
+amenity=theatre
+name=Waldbühne Bauerbach
+operator=Naturtheater "Friedrich Schiller" Bauerbach e.V.
+website=http://www.naturtheater-bauerbach.de/
+id=node/11257440782</desc></wpt><wpt lat="50.6095352" lon="10.6911921"><name>Suhler Marionettentheater</name><desc>addr:city=Suhl
+addr:housenumber=1
+addr:postcode=98527
+addr:street=Platz der Deutschen Einheit
+amenity=theatre
+contact:email=kontakt@suhler-marionetten-theater.de
+contact:facebook=https://www.facebook.com/profile.php?id=100066644231677
+contact:mobile=+49162 41 07 906
+contact:phone=+493681 - 32 81 63
+contact:website=https://www.suhler-marionetten-theater.de/
+description=Tickets Touristinfo Suhl 03681-788405
+level=-1
+name=Suhler Marionettentheater
+operator=Christian Lusky
+id=node/12130965274</desc></wpt><wpt lat="50.8363213" lon="10.9529679"><name>Theater im Schlossgarten</name><desc>addr:city=Arnstadt
+addr:country=DE
+addr:housenumber=1
+addr:postcode=99310
+addr:street=Schloßgarten
+alt_name=Theater Arnstadt
+amenity=theatre
+contact:website=https://theater-arnstadt.de/
+name=Theater im Schlossgarten
+wheelchair=yes
+wikidata=Q46916756
+wikimedia_commons=Category:Theater Arnstadt
+id=node/12546138301</desc></wpt><wpt lat="50.6855319" lon="10.9132598"><name>Kleinod</name><desc>addr:city=Ilmenau
+addr:housenumber=6
+addr:postcode=98693
+addr:street=Karl-Zink-Straße
+amenity=theatre
+name=Kleinod
+operator=Kultur lebt e. V.
+website=https://www.kleinod-ilmenau.de
+id=node/12757737964</desc></wpt><trk><name>Musikmuschel</name><desc>amenity=theatre
+name=Musikmuschel
+type=multipolygon
+id=relation/6566558</desc><trkseg><trkpt lat="50.8994865" lon="11.2899041"/><trkpt lat="50.8994819" lon="11.2897924"/><trkpt lat="50.8994626" lon="11.2897082"/><trkpt lat="50.8994276" lon="11.2896077"/><trkpt lat="50.8993827" lon="11.2895294"/><trkpt lat="50.8993154" lon="11.2894642"/><trkpt lat="50.8992743" lon="11.2894374"/><trkpt lat="50.8992201" lon="11.2894262"/><trkpt lat="50.899181" lon="11.2894249"/><trkpt lat="50.8991267" lon="11.2894289"/><trkpt lat="50.8991651" lon="11.2897845"/><trkpt lat="50.8990904" lon="11.2899153"/><trkpt lat="50.8991745" lon="11.2900402"/><trkpt lat="50.8992424" lon="11.2899298"/><trkpt lat="50.8994865" lon="11.2899041"/></trkseg><trkseg><trkpt lat="50.8991664" lon="11.2898088"/><trkpt lat="50.8992347" lon="11.2899091"/><trkpt lat="50.899176" lon="11.2900085"/><trkpt lat="50.8991077" lon="11.2899078"/><trkpt lat="50.8991664" lon="11.2898088"/></trkseg></trk><trk><name>relation/14518126</name><desc>amenity=theatre
+theatre:type=amphi
+type=multipolygon
+id=relation/14518126</desc><trkseg><trkpt lat="51.0793027" lon="12.3834488"/><trkpt lat="51.079282" lon="12.383449"/><trkpt lat="51.079282" lon="12.3834324"/><trkpt lat="51.0792797" lon="12.3834182"/><trkpt lat="51.0792759" lon="12.383405"/><trkpt lat="51.0792699" lon="12.3833928"/><trkpt lat="51.0792627" lon="12.3833819"/><trkpt lat="51.079253" lon="12.3833725"/><trkpt lat="51.0792423" lon="12.3833683"/><trkpt lat="51.0792297" lon="12.3833679"/><trkpt lat="51.0792188" lon="12.3833694"/><trkpt lat="51.0792085" lon="12.3833763"/><trkpt lat="51.0792001" lon="12.3833845"/><trkpt lat="51.0791938" lon="12.3833965"/><trkpt lat="51.0791887" lon="12.3834076"/><trkpt lat="51.0791854" lon="12.3834216"/><trkpt lat="51.0791832" lon="12.3834357"/><trkpt lat="51.0791823" lon="12.3834497"/><trkpt lat="51.0791616" lon="12.383449"/><trkpt lat="51.0791613" lon="12.3834709"/><trkpt lat="51.079164" lon="12.3834941"/><trkpt lat="51.0791693" lon="12.3835159"/><trkpt lat="51.0791778" lon="12.3835355"/><trkpt lat="51.079189" lon="12.3835495"/><trkpt lat="51.0792021" lon="12.3835597"/><trkpt lat="51.0792154" lon="12.3835661"/><trkpt lat="51.0792314" lon="12.3835672"/><trkpt lat="51.0792459" lon="12.3835645"/><trkpt lat="51.0792596" lon="12.3835565"/><trkpt lat="51.0792727" lon="12.3835471"/><trkpt lat="51.079284" lon="12.3835311"/><trkpt lat="51.0792931" lon="12.3835141"/><trkpt lat="51.0792989" lon="12.3834934"/><trkpt lat="51.0793027" lon="12.3834725"/><trkpt lat="51.0793027" lon="12.3834488"/></trkseg><trkseg><trkpt lat="51.0793032" lon="12.3833814"/><trkpt lat="51.0793861" lon="12.3832971"/><trkpt lat="51.0793734" lon="12.383266"/><trkpt lat="51.0793588" lon="12.3832418"/><trkpt lat="51.0793412" lon="12.3832177"/><trkpt lat="51.0793212" lon="12.3832015"/><trkpt lat="51.0792987" lon="12.3831844"/><trkpt lat="51.0792769" lon="12.3831732"/><trkpt lat="51.0792529" lon="12.3831664"/><trkpt lat="51.0792289" lon="12.3831635"/><trkpt lat="51.0792074" lon="12.383166"/><trkpt lat="51.0791847" lon="12.3831714"/><trkpt lat="51.079163" lon="12.3831812"/><trkpt lat="51.0791425" lon="12.3831945"/><trkpt lat="51.0791229" lon="12.3832151"/><trkpt lat="51.0791073" lon="12.3832396"/><trkpt lat="51.0790927" lon="12.3832643"/><trkpt lat="51.0790805" lon="12.3832959"/><trkpt lat="51.0791655" lon="12.3833911"/><trkpt lat="51.0791802" lon="12.3833637"/><trkpt lat="51.079198" lon="12.3833413"/><trkpt lat="51.0792154" lon="12.3833283"/><trkpt lat="51.0792352" lon="12.3833231"/><trkpt lat="51.0792548" lon="12.3833265"/><trkpt lat="51.0792744" lon="12.3833388"/><trkpt lat="51.07929" lon="12.3833552"/><trkpt lat="51.0793032" lon="12.3833814"/></trkseg></trk><trk><name>Deutsches Nationaltheater und Staatskapelle Weimar</name><desc>addr:city=Weimar
+addr:housenumber=2
+addr:postcode=99423
+addr:street=Theaterplatz
+alt_name=Deutsches Nationaltheater
+amenity=theatre
+building=civic
+contact:phone=+49 3643 755 334
+contact:website=http://www.nationaltheater-weimar.de
+name=Deutsches Nationaltheater und Staatskapelle Weimar
+role=outline
+toilets:wheelchair=yes
+wheelchair=yes
+wheelchair:description=über den Seiteneingang erreichbar
+wikidata=Q600939
+wikipedia=de:Deutsches Nationaltheater und Staatskapelle Weimar
+id=way/22719769</desc><trkseg><trkpt lat="50.9799101" lon="11.3252748"/><trkpt lat="50.9798824" lon="11.3251759"/><trkpt lat="50.9798874" lon="11.3251724"/><trkpt lat="50.979846" lon="11.3250248"/><trkpt lat="50.9798424" lon="11.3250274"/><trkpt lat="50.979774" lon="11.3247838"/><trkpt lat="50.9797579" lon="11.3247263"/><trkpt lat="50.9799696" lon="11.3245749"/><trkpt lat="50.9798773" lon="11.3242445"/><trkpt lat="50.9798845" lon="11.3242394"/><trkpt lat="50.979844" lon="11.3240946"/><trkpt lat="50.9798374" lon="11.3240992"/><trkpt lat="50.97982" lon="11.3240346"/><trkpt lat="50.9797438" lon="11.3240897"/><trkpt lat="50.9797305" lon="11.3240431"/><trkpt lat="50.9797146" lon="11.3239865"/><trkpt lat="50.9795774" lon="11.3240849"/><trkpt lat="50.9795678" lon="11.3240513"/><trkpt lat="50.9794763" lon="11.3241174"/><trkpt lat="50.9794859" lon="11.324151"/><trkpt lat="50.979407" lon="11.324207"/><trkpt lat="50.9793547" lon="11.3242448"/><trkpt lat="50.9793751" lon="11.324318"/><trkpt lat="50.9793821" lon="11.3243431"/><trkpt lat="50.9793119" lon="11.3244021"/><trkpt lat="50.9794719" lon="11.3249976"/><trkpt lat="50.9794777" lon="11.3249934"/><trkpt lat="50.9795461" lon="11.325237"/><trkpt lat="50.9795416" lon="11.3252402"/><trkpt lat="50.979583" lon="11.3253878"/><trkpt lat="50.9795878" lon="11.3253844"/><trkpt lat="50.979615" lon="11.3254812"/><trkpt lat="50.9796468" lon="11.3254587"/><trkpt lat="50.9796802" lon="11.3254351"/><trkpt lat="50.9796886" lon="11.3254651"/><trkpt lat="50.9796958" lon="11.3254908"/><trkpt lat="50.9797028" lon="11.3255156"/><trkpt lat="50.9797856" lon="11.325457"/><trkpt lat="50.9798671" lon="11.3253993"/><trkpt lat="50.9798602" lon="11.3253745"/><trkpt lat="50.979853" lon="11.3253488"/><trkpt lat="50.9798451" lon="11.3253208"/><trkpt lat="50.9799101" lon="11.3252748"/></trkseg></trk><trk><name>Theater Nordhausen</name><desc>addr:city=Nordhausen
+addr:country=DE
+addr:housenumber=15
+addr:postcode=99734
+addr:street=Käthe-Kollwitz-Straße
+amenity=theatre
+building=yes
+name=Theater Nordhausen
+phone=+49 3631 62600
+toilets:wheelchair=yes
+website=https://theater-nordhausen.de/
+wheelchair=yes
+wheelchair:description=Rampe an der Seite des Gebäudes, in Absprache 4 Rollstuhlplätze verfügbar
+wikidata=Q2415887
+id=way/24615234</desc><trkseg><trkpt lat="51.5032177" lon="10.7970824"/><trkpt lat="51.503142" lon="10.7971201"/><trkpt lat="51.5030826" lon="10.7971497"/><trkpt lat="51.503098" lon="10.7972295"/><trkpt lat="51.5030783" lon="10.7972393"/><trkpt lat="51.5030715" lon="10.7972596"/><trkpt lat="51.5030819" lon="10.7973124"/><trkpt lat="51.5030975" lon="10.7973045"/><trkpt lat="51.5031062" lon="10.7973482"/><trkpt lat="51.5031143" lon="10.7973893"/><trkpt lat="51.5032104" lon="10.7973404"/><trkpt lat="51.503242" lon="10.7975005"/><trkpt lat="51.5032338" lon="10.7975143"/><trkpt lat="51.5032331" lon="10.797532"/><trkpt lat="51.5032008" lon="10.7975485"/><trkpt lat="51.503215" lon="10.7976205"/><trkpt lat="51.5032452" lon="10.7976051"/><trkpt lat="51.5032533" lon="10.7976186"/><trkpt lat="51.5032638" lon="10.7976177"/><trkpt lat="51.5033174" lon="10.7975909"/><trkpt lat="51.5033295" lon="10.7976532"/><trkpt lat="51.5034067" lon="10.7976146"/><trkpt lat="51.5034762" lon="10.7975799"/><trkpt lat="51.5034639" lon="10.7975165"/><trkpt lat="51.5035205" lon="10.7974883"/><trkpt lat="51.5034684" lon="10.7972192"/><trkpt lat="51.5035633" lon="10.7971717"/><trkpt lat="51.5035136" lon="10.7969148"/><trkpt lat="51.5034075" lon="10.7969678"/><trkpt lat="51.5033635" lon="10.7969898"/><trkpt lat="51.503359" lon="10.7969668"/><trkpt lat="51.5032098" lon="10.7970412"/><trkpt lat="51.5032177" lon="10.7970824"/></trkseg></trk><trk><name>Vogtlandhalle Greiz</name><desc>addr:city=Greiz
+addr:country=DE
+addr:housenumber=15
+addr:postcode=07973
+addr:street=Carolinenstraße
+amenity=theatre
+building=yes
+contact:email=info@vogtlandhalle.de
+contact:phone=+49 3661 628 80
+contact:website=http://www.vogtlandhalle.de
+name=Vogtlandhalle Greiz
+toilets:wheelchair=yes
+wheelchair=yes
+id=way/25342039</desc><trkseg><trkpt lat="50.6541246" lon="12.1965694"/><trkpt lat="50.6540907" lon="12.1965438"/><trkpt lat="50.6538704" lon="12.1963777"/><trkpt lat="50.6535666" lon="12.1974065"/><trkpt lat="50.6535318" lon="12.1975242"/><trkpt lat="50.6538303" lon="12.1975759"/><trkpt lat="50.6538704" lon="12.1974863"/><trkpt lat="50.6539134" lon="12.197389"/><trkpt lat="50.6539553" lon="12.1972965"/><trkpt lat="50.6540227" lon="12.1971459"/><trkpt lat="50.6541246" lon="12.1965694"/></trkseg></trk><trk><name>Stadttheater Hildburghausen</name><desc>addr:city=Hildburghausen
+addr:country=DE
+addr:housenumber=22
+addr:postcode=98646
+addr:street=Coburger Straße
+amenity=theatre
+building=yes
+name=Stadttheater Hildburghausen
+website=https://www.stadttheater-hildburghausen.de/
+wheelchair=yes
+wikidata=Q2328227
+wikipedia=de:Stadttheater Hildburghausen
+id=way/28682723</desc><trkseg><trkpt lat="50.4226934" lon="10.7312425"/><trkpt lat="50.4224264" lon="10.7311275"/><trkpt lat="50.4223237" lon="10.7316167"/><trkpt lat="50.4223146" lon="10.7316637"/><trkpt lat="50.422415" lon="10.7317378"/><trkpt lat="50.4225857" lon="10.7318131"/><trkpt lat="50.4226934" lon="10.7312425"/></trkseg></trk><trk><name>Theater</name><desc>addr:city=Gera
+addr:country=DE
+addr:housenumber=1
+addr:postcode=07548
+addr:street=Theaterplatz
+amenity=theatre
+architect=Heinrich Seeling
+architect:wikidata=Q74985
+building=retail
+building:architecture=art_nouveau
+building:levels=4
+heritage=4
+heritage:operator=tlda
+name=Theater
+old_name=Reußisches Theater
+operator=Theater Altenburg-Gera
+start_date=1902-10-18
+wheelchair=limited
+wikidata=Q2415771
+wikipedia=de:Bühnen der Stadt Gera
+id=way/30841495</desc><trkseg><trkpt lat="50.883129" lon="12.074252"/><trkpt lat="50.8831452" lon="12.0743588"/><trkpt lat="50.8831599" lon="12.0744564"/><trkpt lat="50.8831827" lon="12.0744477"/><trkpt lat="50.8831982" lon="12.0745507"/><trkpt lat="50.883245" lon="12.074533"/><trkpt lat="50.8832529" lon="12.0745858"/><trkpt lat="50.8832752" lon="12.0745773"/><trkpt lat="50.8832839" lon="12.0745946"/><trkpt lat="50.8833" lon="12.0746116"/><trkpt lat="50.8833183" lon="12.0746213"/><trkpt lat="50.8833325" lon="12.0746231"/><trkpt lat="50.8833468" lon="12.0746202"/><trkpt lat="50.8833605" lon="12.0746126"/><trkpt lat="50.8833722" lon="12.0746013"/><trkpt lat="50.8833857" lon="12.0745801"/><trkpt lat="50.8833952" lon="12.0745531"/><trkpt lat="50.8833993" lon="12.0745303"/><trkpt lat="50.8834197" lon="12.0745226"/><trkpt lat="50.8834115" lon="12.0744683"/><trkpt lat="50.8836714" lon="12.0743694"/><trkpt lat="50.8836777" lon="12.0744084"/><trkpt lat="50.8838014" lon="12.0743609"/><trkpt lat="50.8837987" lon="12.0743433"/><trkpt lat="50.8838604" lon="12.0743196"/><trkpt lat="50.8838471" lon="12.0742327"/><trkpt lat="50.8838856" lon="12.0742186"/><trkpt lat="50.8839888" lon="12.074179"/><trkpt lat="50.8839469" lon="12.0739043"/><trkpt lat="50.8838436" lon="12.0739439"/><trkpt lat="50.8838053" lon="12.0739586"/><trkpt lat="50.8837916" lon="12.0738694"/><trkpt lat="50.8837299" lon="12.073893"/><trkpt lat="50.8837263" lon="12.0738697"/><trkpt lat="50.8836026" lon="12.0739172"/><trkpt lat="50.8836101" lon="12.0739641"/><trkpt lat="50.8833503" lon="12.0740629"/><trkpt lat="50.8833423" lon="12.0740095"/><trkpt lat="50.883322" lon="12.0740172"/><trkpt lat="50.8833121" lon="12.0739969"/><trkpt lat="50.8832951" lon="12.0739777"/><trkpt lat="50.8832786" lon="12.0739686"/><trkpt lat="50.8832619" lon="12.0739666"/><trkpt lat="50.8832443" lon="12.0739717"/><trkpt lat="50.8832278" lon="12.0739844"/><trkpt lat="50.8832161" lon="12.074"/><trkpt lat="50.883209" lon="12.0740144"/><trkpt lat="50.8832009" lon="12.0740414"/><trkpt lat="50.8831978" lon="12.0740643"/><trkpt lat="50.8831755" lon="12.0740727"/><trkpt lat="50.8831837" lon="12.0741269"/><trkpt lat="50.8831369" lon="12.0741446"/><trkpt lat="50.8831518" lon="12.0742433"/><trkpt lat="50.883129" lon="12.074252"/></trkseg></trk><trk><name>Bühne am Park</name><desc>addr:city=Gera
+addr:country=DE
+addr:housenumber=1
+addr:postcode=07548
+addr:street=Theaterplatz
+amenity=theatre
+building=retail
+building:colour=black
+building:levels=2
+building:material=metal
+check_date=2025-03-20
+name=Bühne am Park
+operator=Bühnen der Stadt Gera
+roof:levels=0
+roof:shape=flat
+wheelchair=limited
+wikidata=Q2415771
+wikipedia=de:Bühnen der Stadt Gera
+id=way/30841496</desc><trkseg><trkpt lat="50.883426" lon="12.0735704"/><trkpt lat="50.8834743" lon="12.0738969"/><trkpt lat="50.8837783" lon="12.0737812"/><trkpt lat="50.883756" lon="12.0736337"/><trkpt lat="50.8839023" lon="12.0735799"/><trkpt lat="50.883874" lon="12.073397"/><trkpt lat="50.883426" lon="12.0735704"/></trkseg></trk><trk><name>Kulturhaus Gotha</name><desc>addr:city=Gotha
+addr:housenumber=3
+addr:postcode=99867
+addr:street=Ekhofplatz
+amenity=theatre
+building=yes
+contact:website=http://www.kulturhaus-gotha.de
+name=Kulturhaus Gotha
+operator=KulTourstadt Gotha GmbH
+wheelchair=yes
+id=way/38527491</desc><trkseg><trkpt lat="50.9485062" lon="10.709363"/><trkpt lat="50.9485101" lon="10.7093837"/><trkpt lat="50.9485641" lon="10.7096514"/><trkpt lat="50.9486182" lon="10.7099279"/><trkpt lat="50.948626" lon="10.7099685"/><trkpt lat="50.9485152" lon="10.7100202"/><trkpt lat="50.9485371" lon="10.710125"/><trkpt lat="50.9485837" lon="10.7102592"/><trkpt lat="50.9485854" lon="10.710264"/><trkpt lat="50.9486848" lon="10.7101647"/><trkpt lat="50.9488485" lon="10.7100861"/><trkpt lat="50.9488624" lon="10.7101491"/><trkpt lat="50.9488793" lon="10.7101416"/><trkpt lat="50.948941" lon="10.7104616"/><trkpt lat="50.9490332" lon="10.7104223"/><trkpt lat="50.9489537" lon="10.7100032"/><trkpt lat="50.9489249" lon="10.7098538"/><trkpt lat="50.948865" lon="10.7098797"/><trkpt lat="50.9488395" lon="10.7097339"/><trkpt lat="50.9488118" lon="10.7097463"/><trkpt lat="50.9487497" lon="10.709403"/><trkpt lat="50.9487451" lon="10.7093772"/><trkpt lat="50.948724" lon="10.7092592"/><trkpt lat="50.9486052" lon="10.7093158"/><trkpt lat="50.9485062" lon="10.709363"/></trkseg></trk><trk><name>Comödienhaus</name><desc>addr:city=Bad Liebenstein
+addr:housenumber=66
+addr:postcode=36448
+addr:street=Herzog-Georg-Straße
+amenity=theatre
+building=yes
+image=https://commons.wikimedia.org/wiki/File:Thuringia_BadLiebenstein_asv2020-07_img13_Theater.jpg
+name=Comödienhaus
+old_name=Kurtheater
+wikidata=Q1474672
+id=way/39522838</desc><trkseg><trkpt lat="50.813906" lon="10.3575658"/><trkpt lat="50.8140408" lon="10.3571359"/><trkpt lat="50.8139177" lon="10.3570447"/><trkpt lat="50.8138311" lon="10.3573084"/><trkpt lat="50.8137201" lon="10.3572241"/><trkpt lat="50.8137259" lon="10.3571909"/><trkpt lat="50.8136307" lon="10.3571457"/><trkpt lat="50.8135977" lon="10.3573388"/><trkpt lat="50.8136111" lon="10.357346"/><trkpt lat="50.813602" lon="10.3573994"/><trkpt lat="50.813906" lon="10.3575658"/></trkseg></trk><trk><name>Thüringer Landestheater Rudolstadt</name><desc>addr:city=Rudolstadt
+addr:country=DE
+addr:housenumber=1
+addr:postcode=07407
+addr:street=Anger
+amenity=theatre
+building=yes
+contact:website=http://www.theater-rudolstadt.com/
+name=Thüringer Landestheater Rudolstadt
+wheelchair=yes
+id=way/41925216</desc><trkseg><trkpt lat="50.7183036" lon="11.3359923"/><trkpt lat="50.7183268" lon="11.3360484"/><trkpt lat="50.7183196" lon="11.3360559"/><trkpt lat="50.7183908" lon="11.3362278"/><trkpt lat="50.7184956" lon="11.3361195"/><trkpt lat="50.7184232" lon="11.3359446"/><trkpt lat="50.7184127" lon="11.3359555"/><trkpt lat="50.7183877" lon="11.3358952"/><trkpt lat="50.718468" lon="11.3358122"/><trkpt lat="50.7183903" lon="11.3356245"/><trkpt lat="50.7183062" lon="11.3357114"/><trkpt lat="50.7182907" lon="11.3356741"/><trkpt lat="50.7182074" lon="11.3357602"/><trkpt lat="50.7182965" lon="11.3359752"/><trkpt lat="50.7183036" lon="11.3359923"/></trkseg></trk><trk><name>Schminkkasten</name><desc>addr:city=Rudolstadt
+addr:country=DE
+addr:housename=Schminkkasten
+addr:housenumber=1
+addr:postcode=07407
+addr:street=Albert-Lindner-Straße
+amenity=theatre
+building=yes
+building:levels=1
+contact:website=http://www.theater-rudolstadt.com/
+name=Schminkkasten
+roof:colour=red
+roof:material=roof_tiles
+wheelchair=limited
+id=way/41925219</desc><trkseg><trkpt lat="50.7187939" lon="11.3358068"/><trkpt lat="50.7187058" lon="11.3358989"/><trkpt lat="50.7187168" lon="11.3359252"/><trkpt lat="50.7185652" lon="11.3360837"/><trkpt lat="50.7186042" lon="11.3361769"/><trkpt lat="50.7187497" lon="11.3360247"/><trkpt lat="50.7187583" lon="11.3360452"/><trkpt lat="50.7188468" lon="11.3359528"/><trkpt lat="50.7188525" lon="11.3359468"/><trkpt lat="50.718827" lon="11.3358857"/><trkpt lat="50.7187939" lon="11.3358068"/></trkseg></trk><trk><name>Landestheater Eisenach</name><desc>addr:city=Eisenach
+addr:country=DE
+addr:housenumber=7
+addr:postcode=99817
+addr:street=Theaterplatz
+amenity=theatre
+building=yes
+heritage=yes
+heritage:operator=lfd
+image=https://upload.wikimedia.org/wikipedia/commons/2/2b/Landestheater%2C_Eisenach.jpg
+name=Landestheater Eisenach
+toilets:wheelchair=yes
+wheelchair=yes
+wikidata=Q2430835
+wikipedia=de:Landestheater Eisenach
+id=way/42406170</desc><trkseg><trkpt lat="50.9776156" lon="10.3220787"/><trkpt lat="50.9776188" lon="10.3225362"/><trkpt lat="50.9779674" lon="10.3225291"/><trkpt lat="50.9779668" lon="10.3224028"/><trkpt lat="50.9780407" lon="10.3224013"/><trkpt lat="50.9780379" lon="10.3221648"/><trkpt lat="50.9780045" lon="10.322168"/><trkpt lat="50.9780028" lon="10.3219285"/><trkpt lat="50.9779213" lon="10.3219299"/><trkpt lat="50.9779223" lon="10.3220733"/><trkpt lat="50.9776156" lon="10.3220787"/></trkseg></trk><trk><name>Landestheater Altenburg</name><desc>addr:city=Altenburg
+addr:country=DE
+addr:housenumber=19
+addr:postcode=04600
+addr:street=Theaterplatz
+amenity=theatre
+architect=Otto Brückwald
+architect:wikidata=Q100608
+building=yes
+building:architecture=neo-renaissance
+heritage=4
+heritage:operator=tlda
+name=Landestheater Altenburg
+wikidata=Q18752695
+wikipedia=de:Landestheater Altenburg
+id=way/43035065</desc><trkseg><trkpt lat="50.9871634" lon="12.4371298"/><trkpt lat="50.9870766" lon="12.4371886"/><trkpt lat="50.9870652" lon="12.437146"/><trkpt lat="50.9870534" lon="12.4370882"/><trkpt lat="50.9870114" lon="12.4371119"/><trkpt lat="50.9870248" lon="12.4371735"/><trkpt lat="50.9869241" lon="12.4372272"/><trkpt lat="50.9869632" lon="12.4373824"/><trkpt lat="50.9869358" lon="12.4374037"/><trkpt lat="50.9870168" lon="12.4376798"/><trkpt lat="50.9870733" lon="12.4377576"/><trkpt lat="50.9871199" lon="12.4377887"/><trkpt lat="50.9871554" lon="12.4378068"/><trkpt lat="50.9871734" lon="12.4378654"/><trkpt lat="50.9873241" lon="12.4377666"/><trkpt lat="50.9873001" lon="12.4376744"/><trkpt lat="50.9873203" lon="12.4376388"/><trkpt lat="50.9873273" lon="12.4375614"/><trkpt lat="50.9873234" lon="12.4374918"/><trkpt lat="50.9872949" lon="12.4373971"/><trkpt lat="50.9873074" lon="12.4373827"/><trkpt lat="50.987298" lon="12.4373516"/><trkpt lat="50.9872799" lon="12.4372841"/><trkpt lat="50.9872165" lon="12.4373272"/><trkpt lat="50.9871634" lon="12.4371298"/></trkseg></trk><trk><name>Kleinkunstbühne Ilmenau-Roda</name><desc>addr:city=Ilmenau
+addr:country=DE
+addr:housename=Kleinkunstbühne
+addr:housenumber=49
+addr:postcode=98693
+addr:street=Elgersburger Straße
+amenity=theatre
+building=yes
+check_date=2024-10-26
+name=Kleinkunstbühne Ilmenau-Roda
+id=way/47123964</desc><trkseg><trkpt lat="50.6982931" lon="10.8905034"/><trkpt lat="50.6981975" lon="10.8906544"/><trkpt lat="50.698307" lon="10.8908273"/><trkpt lat="50.698245" lon="10.8909252"/><trkpt lat="50.6983158" lon="10.8910371"/><trkpt lat="50.6984735" lon="10.8907882"/><trkpt lat="50.6982931" lon="10.8905034"/></trkseg></trk><trk><name>Staatstheater Meiningen</name><desc>addr:city=Meiningen
+addr:country=DE
+addr:housenumber=5
+addr:postcode=98617
+addr:street=Bernhardstraße
+amenity=theatre
+building=commercial
+name=Staatstheater Meiningen
+phone=+49 3693 451222
+toilets:wheelchair=yes
+tourism=attraction
+website=https://www.staatstheater-meiningen.de/start/index.html
+wheelchair=yes
+wikidata=Q486132
+wikipedia=de:Staatstheater Meiningen
+id=way/49286126</desc><trkseg><trkpt lat="50.5734277" lon="10.4158369"/><trkpt lat="50.5733666" lon="10.4158398"/><trkpt lat="50.5733659" lon="10.4158047"/><trkpt lat="50.5733653" lon="10.415775"/><trkpt lat="50.5733648" lon="10.4157449"/><trkpt lat="50.5733317" lon="10.4157464"/><trkpt lat="50.5733006" lon="10.4157479"/><trkpt lat="50.5732649" lon="10.4157495"/><trkpt lat="50.5732295" lon="10.4157512"/><trkpt lat="50.5731946" lon="10.4157528"/><trkpt lat="50.5731585" lon="10.4157545"/><trkpt lat="50.573159" lon="10.4157803"/><trkpt lat="50.5731597" lon="10.4158174"/><trkpt lat="50.5731603" lon="10.415852"/><trkpt lat="50.5730981" lon="10.4158549"/><trkpt lat="50.5731014" lon="10.4160307"/><trkpt lat="50.5731089" lon="10.4160303"/><trkpt lat="50.5731136" lon="10.4162831"/><trkpt lat="50.5730788" lon="10.4162847"/><trkpt lat="50.5730792" lon="10.416301"/><trkpt lat="50.5730801" lon="10.4163587"/><trkpt lat="50.5730832" lon="10.4165155"/><trkpt lat="50.5730871" lon="10.4167249"/><trkpt lat="50.5731969" lon="10.4167197"/><trkpt lat="50.5731987" lon="10.4168152"/><trkpt lat="50.5733661" lon="10.4168074"/><trkpt lat="50.5733639" lon="10.4166951"/><trkpt lat="50.5734688" lon="10.4166902"/><trkpt lat="50.5734615" lon="10.4163001"/><trkpt lat="50.5734292" lon="10.4163016"/><trkpt lat="50.5734239" lon="10.4160169"/><trkpt lat="50.5734311" lon="10.4160166"/><trkpt lat="50.5734277" lon="10.4158369"/></trkseg></trk><trk><name>Volkshaus</name><desc>addr:city=Jena
+addr:country=DE
+addr:housename=Volkshaus
+addr:housenumber=15
+addr:postcode=07743
+addr:street=Carl-Zeiß-Platz
+amenity=theatre
+building=civic
+building:levels=3
+check_date=2024-07-19
+contact:website=http://www.volkshaus-jena.de
+heritage=yes
+name=Volkshaus
+roof:levels=2
+roof:shape=many
+theatre:genre=philharmonic
+wheelchair=yes
+wikidata=Q1240164
+wikipedia=de:Volkshaus Jena
+id=way/49991735</desc><trkseg><trkpt lat="50.927161" lon="11.5799206"/><trkpt lat="50.9271763" lon="11.5799376"/><trkpt lat="50.9273056" lon="11.5800703"/><trkpt lat="50.9273212" lon="11.5800321"/><trkpt lat="50.9274064" lon="11.5801249"/><trkpt lat="50.9274224" lon="11.5801209"/><trkpt lat="50.9274567" lon="11.5801583"/><trkpt lat="50.9275625" lon="11.5799136"/><trkpt lat="50.9275264" lon="11.5798745"/><trkpt lat="50.9275226" lon="11.5798564"/><trkpt lat="50.9274909" lon="11.5798254"/><trkpt lat="50.9274218" lon="11.57975"/><trkpt lat="50.927253" lon="11.5795852"/><trkpt lat="50.9271658" lon="11.5795011"/><trkpt lat="50.9268123" lon="11.5803593"/><trkpt lat="50.9268688" lon="11.5804178"/><trkpt lat="50.9268575" lon="11.5804474"/><trkpt lat="50.9269165" lon="11.5805101"/><trkpt lat="50.9269288" lon="11.5804816"/><trkpt lat="50.9269886" lon="11.5805407"/><trkpt lat="50.9270392" lon="11.5804169"/><trkpt lat="50.9270501" lon="11.5803918"/><trkpt lat="50.927027" lon="11.5803647"/><trkpt lat="50.9271166" lon="11.5801494"/><trkpt lat="50.9271259" lon="11.5801585"/><trkpt lat="50.9271355" lon="11.5801367"/><trkpt lat="50.9271531" lon="11.5800872"/><trkpt lat="50.9271093" lon="11.5800406"/><trkpt lat="50.927161" lon="11.5799206"/></trkseg></trk><trk><name>Naturbühne</name><desc>amenity=theatre
+name=Naturbühne
+theatre:type=amphi
+wheelchair=limited
+id=way/89572858</desc><trkseg><trkpt lat="50.374426" lon="10.5920342"/><trkpt lat="50.374477" lon="10.5919152"/><trkpt lat="50.3744537" lon="10.5918229"/><trkpt lat="50.3744021" lon="10.5918086"/><trkpt lat="50.3743423" lon="10.591799"/><trkpt lat="50.3742836" lon="10.5918149"/><trkpt lat="50.3742421" lon="10.5918419"/><trkpt lat="50.3742886" lon="10.5920118"/><trkpt lat="50.374426" lon="10.5920342"/></trkseg></trk><trk><name>Kleines Theater im Zentrum</name><desc>addr:city=Gera
+addr:country=DE
+addr:housenumber=5
+addr:postcode=07545
+addr:street=Gustav-Hennig-Platz
+amenity=theatre
+building=yes
+building:colour=yellow
+building:levels=1
+building:material=plaster
+check_date=2024-08-15
+name=Kleines Theater im Zentrum
+roof:colour=gray
+roof:orientation=along
+roof:shape=gabled
+id=way/94246017</desc><trkseg><trkpt lat="50.879653" lon="12.082265"/><trkpt lat="50.8794802" lon="12.0814276"/><trkpt lat="50.8793721" lon="12.0814836"/><trkpt lat="50.879457" lon="12.081895"/><trkpt lat="50.8795449" lon="12.082321"/><trkpt lat="50.879653" lon="12.082265"/></trkseg></trk><trk><name>Haus der Kunst Sondershausen</name><desc>addr:city=Sondershausen
+addr:country=DE
+addr:housenumber=1
+addr:postcode=99706
+addr:street=Im Loh
+amenity=theatre
+building=concert_hall
+check_date=2025-07-21
+description=Spielstätte des Loh-Orchesters Sondershausen
+name=Haus der Kunst Sondershausen
+operator=Theater Nordhausen/Loh Orchester Sondershausen GmbH
+theatre:genre=philharmonic
+theatre:type=concert_hall
+website=https://theater-nordhausen.de/spielstaetten.html
+wikidata=Q61827204
+id=way/96257716</desc><trkseg><trkpt lat="51.3732801" lon="10.8610399"/><trkpt lat="51.3731705" lon="10.8610087"/><trkpt lat="51.3728658" lon="10.8609219"/><trkpt lat="51.3728579" lon="10.8609926"/><trkpt lat="51.3728305" lon="10.8609848"/><trkpt lat="51.3728191" lon="10.8610874"/><trkpt lat="51.3728486" lon="10.8610957"/><trkpt lat="51.372838" lon="10.8611914"/><trkpt lat="51.3731429" lon="10.8612782"/><trkpt lat="51.3731069" lon="10.8616024"/><trkpt lat="51.3731789" lon="10.8616229"/><trkpt lat="51.3732143" lon="10.861304"/><trkpt lat="51.3732497" lon="10.8613141"/><trkpt lat="51.3732801" lon="10.8610399"/></trkseg></trk><trk><name>Kaisersaal</name><desc>addr:city=Erfurt
+addr:country=DE
+addr:housenumber=15/16
+addr:postcode=99084
+addr:street=Futterstraße
+amenity=theatre
+building=yes
+building:colour=yellow
+building:levels=3
+heritage=yes
+historic=yes
+name=Kaisersaal
+phone=+49 361 56880
+roof:colour=red
+roof:shape=gabled
+toilets:wheelchair=yes
+tourism=attraction
+website=https://www.kaisersaal.de/
+wheelchair=yes
+wheelchair:description=Aufzug / Beh. WC
+wikidata=Q1721724
+wikipedia=de:Kaisersaal (Erfurt)
+id=way/127059832</desc><trkseg><trkpt lat="50.9793852" lon="11.0332971"/><trkpt lat="50.9793909" lon="11.0333388"/><trkpt lat="50.9793542" lon="11.033354"/><trkpt lat="50.9793168" lon="11.0333689"/><trkpt lat="50.9792856" lon="11.0333818"/><trkpt lat="50.9792579" lon="11.0333927"/><trkpt lat="50.9792691" lon="11.0333666"/><trkpt lat="50.9792513" lon="11.0333509"/><trkpt lat="50.9792339" lon="11.0333355"/><trkpt lat="50.9792232" lon="11.0333644"/><trkpt lat="50.9792179" lon="11.0333264"/><trkpt lat="50.9791842" lon="11.0330704"/><trkpt lat="50.9791815" lon="11.0330482"/><trkpt lat="50.9791719" lon="11.0330524"/><trkpt lat="50.9790672" lon="11.0330907"/><trkpt lat="50.979089" lon="11.0332555"/><trkpt lat="50.9791039" lon="11.0333688"/><trkpt lat="50.9790977" lon="11.0333708"/><trkpt lat="50.9791125" lon="11.0334879"/><trkpt lat="50.9791271" lon="11.0336037"/><trkpt lat="50.9791334" lon="11.0336017"/><trkpt lat="50.9791468" lon="11.0337024"/><trkpt lat="50.9791684" lon="11.0338652"/><trkpt lat="50.9792694" lon="11.0338285"/><trkpt lat="50.9793452" lon="11.033803"/><trkpt lat="50.9793541" lon="11.0338619"/><trkpt lat="50.9795264" lon="11.0338065"/><trkpt lat="50.9795166" lon="11.0337317"/><trkpt lat="50.9795096" lon="11.0336773"/><trkpt lat="50.9794999" lon="11.0335998"/><trkpt lat="50.9794946" lon="11.0335621"/><trkpt lat="50.9795129" lon="11.0335552"/><trkpt lat="50.9795235" lon="11.0335512"/><trkpt lat="50.979525" lon="11.0335612"/><trkpt lat="50.9795363" lon="11.0335569"/><trkpt lat="50.9795726" lon="11.0335433"/><trkpt lat="50.9795808" lon="11.0335402"/><trkpt lat="50.9795793" lon="11.0335303"/><trkpt lat="50.9795929" lon="11.0335254"/><trkpt lat="50.9796844" lon="11.0334909"/><trkpt lat="50.9796451" lon="11.0332358"/><trkpt lat="50.9795647" lon="11.0332684"/><trkpt lat="50.979444" lon="11.0333173"/><trkpt lat="50.9794375" lon="11.0332768"/><trkpt lat="50.9793852" lon="11.0332971"/></trkseg></trk><trk><name>Parkbühne</name><desc>amenity=theatre
+name=Parkbühne
+wheelchair=yes
+id=way/130851613</desc><trkseg><trkpt lat="50.9682308" lon="11.006406"/><trkpt lat="50.9682121" lon="11.0065514"/><trkpt lat="50.9682702" lon="11.0065709"/><trkpt lat="50.96829" lon="11.0064282"/><trkpt lat="50.9682308" lon="11.006406"/></trkseg></trk><trk><name>theater tumult</name><desc>amenity=theatre
+building=yes
+name=theater tumult
+id=way/134427903</desc><trkseg><trkpt lat="50.7175984" lon="11.3312576"/><trkpt lat="50.717559" lon="11.3311349"/><trkpt lat="50.7175857" lon="11.3311136"/><trkpt lat="50.7175795" lon="11.3310932"/><trkpt lat="50.7175886" lon="11.3310726"/><trkpt lat="50.7175685" lon="11.3310482"/><trkpt lat="50.7175702" lon="11.3310129"/><trkpt lat="50.7175533" lon="11.3310122"/><trkpt lat="50.7175303" lon="11.3309405"/><trkpt lat="50.717428" lon="11.3310222"/><trkpt lat="50.7174193" lon="11.3310242"/><trkpt lat="50.7173937" lon="11.3310496"/><trkpt lat="50.7173944" lon="11.3310737"/><trkpt lat="50.7174016" lon="11.3310998"/><trkpt lat="50.7174182" lon="11.3311259"/><trkpt lat="50.7174426" lon="11.3312021"/><trkpt lat="50.7174219" lon="11.3312187"/><trkpt lat="50.7174366" lon="11.3312647"/><trkpt lat="50.7174817" lon="11.3312286"/><trkpt lat="50.717513" lon="11.3313259"/><trkpt lat="50.7175984" lon="11.3312576"/></trkseg></trk><trk><name>Schotte</name><desc>addr:city=Erfurt
+addr:housenumber=7
+addr:postcode=99084
+addr:street=Schottenstraße
+amenity=theatre
+building=theatre
+contact:email=kontakt@dieschotte.de
+contact:facebook=https://www.facebook.com/dieSCHOTTE
+contact:fax=+49 361 6442307
+contact:phone=+49 361 6431722
+contact:website=https://dieschotte.de/
+name=Schotte
+operator=SCHOTTE e.V.
+toilets:wheelchair=yes
+wheelchair=limited
+wikidata=Q20480818
+wikipedia=de:Die Schotte
+id=way/148890439</desc><trkseg><trkpt lat="50.9803568" lon="11.0328571"/><trkpt lat="50.9802622" lon="11.0325615"/><trkpt lat="50.9802271" lon="11.0325836"/><trkpt lat="50.9802167" lon="11.0325907"/><trkpt lat="50.9801729" lon="11.0326202"/><trkpt lat="50.9801312" lon="11.0326485"/><trkpt lat="50.9800565" lon="11.0327005"/><trkpt lat="50.9800942" lon="11.0328365"/><trkpt lat="50.9801107" lon="11.0328246"/><trkpt lat="50.9801381" lon="11.0329521"/><trkpt lat="50.9802286" lon="11.0329194"/><trkpt lat="50.9803568" lon="11.0328571"/></trkseg></trk><trk><name>Zirkusplatz am fröhlichen Mann</name><desc>amenity=theatre
+area:highway=footway
+name=Zirkusplatz am fröhlichen Mann
+surface=grass
+theatre:genre=circus
+id=way/160196034</desc><trkseg><trkpt lat="50.634883" lon="10.7057058"/><trkpt lat="50.634386" lon="10.7063373"/><trkpt lat="50.6347003" lon="10.7069819"/><trkpt lat="50.6347851" lon="10.7070179"/><trkpt lat="50.6352763" lon="10.7064175"/><trkpt lat="50.6349756" lon="10.7058116"/><trkpt lat="50.6349325" lon="10.7058"/><trkpt lat="50.634883" lon="10.7057058"/></trkseg></trk><trk><name>Waldbühne</name><desc>amenity=theatre
+description=Freilichtbühne
+lit=yes
+name=Waldbühne
+theatre:type=amphi
+id=way/166956993</desc><trkseg><trkpt lat="50.4334435" lon="11.02647"/><trkpt lat="50.4333397" lon="11.0264885"/><trkpt lat="50.4333455" lon="11.0266351"/><trkpt lat="50.4334501" lon="11.0266146"/><trkpt lat="50.4334435" lon="11.02647"/></trkseg></trk><trk><name>Werner-Seelenbinder-Freilichtbühne</name><desc>amenity=theatre
+building=yes
+name=Werner-Seelenbinder-Freilichtbühne
+wikidata=Q105164293
+id=way/178004065</desc><trkseg><trkpt lat="51.3587029" lon="11.2987702"/><trkpt lat="51.3586894" lon="11.2988178"/><trkpt lat="51.3586786" lon="11.2988805"/><trkpt lat="51.3586732" lon="11.2989626"/><trkpt lat="51.3586772" lon="11.2990426"/><trkpt lat="51.358688" lon="11.2991204"/><trkpt lat="51.3587191" lon="11.2991074"/><trkpt lat="51.358742" lon="11.2990879"/><trkpt lat="51.3587636" lon="11.299049"/><trkpt lat="51.3587771" lon="11.2990037"/><trkpt lat="51.3587866" lon="11.2989475"/><trkpt lat="51.3587839" lon="11.2988978"/><trkpt lat="51.3587636" lon="11.2988394"/><trkpt lat="51.3587366" lon="11.2988005"/><trkpt lat="51.3587029" lon="11.2987702"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+id=way/178634545</desc><trkseg><trkpt lat="50.9303821" lon="11.5544438"/><trkpt lat="50.9303143" lon="11.5543858"/><trkpt lat="50.9302559" lon="11.5545574"/><trkpt lat="50.9303237" lon="11.5546155"/><trkpt lat="50.9303821" lon="11.5544438"/></trkseg></trk><trk><name>Theaterhaus</name><desc>addr:city=Jena
+addr:country=DE
+addr:housenumber=1
+addr:postcode=07745
+addr:street=Schillergäßchen
+amenity=theatre
+building=detached
+building:levels=3
+check_date=2024-04-10
+contact:website=http://theaterhaus-jena.de
+name=Theaterhaus
+roof:levels=1
+roof:shape=gabled
+tourism=attraction
+wheelchair=no
+wikidata=Q1676926
+wikipedia=de:Theaterhaus Jena
+id=way/192073175</desc><trkseg><trkpt lat="50.9253535" lon="11.5833097"/><trkpt lat="50.9253543" lon="11.5833552"/><trkpt lat="50.9253261" lon="11.5835608"/><trkpt lat="50.925311" lon="11.5836714"/><trkpt lat="50.925287" lon="11.5838458"/><trkpt lat="50.9253842" lon="11.5838846"/><trkpt lat="50.9254536" lon="11.5839105"/><trkpt lat="50.925463" lon="11.5838456"/><trkpt lat="50.9254808" lon="11.5837186"/><trkpt lat="50.9254984" lon="11.5837249"/><trkpt lat="50.9255256" lon="11.583531"/><trkpt lat="50.9255053" lon="11.5835239"/><trkpt lat="50.925528" lon="11.583362"/><trkpt lat="50.9253535" lon="11.5833097"/></trkseg></trk><trk><name>St. Kiliani</name><desc>addr:city=Mühlhausen
+addr:country=DE
+addr:housenumber=7
+addr:postcode=99974
+addr:street=Unter der Linde
+amenity=theatre
+building=yes
+heritage=5
+historic=church
+image=http://upload.wikimedia.org/wikipedia/commons/f/f1/Kilianikirche_Mühlhausen2.JPG
+name=St. Kiliani
+wheelchair=yes
+wikidata=Q1307829
+wikipedia=de:St. Kiliani (Mühlhausen)
+id=way/199167424</desc><trkseg><trkpt lat="51.2089706" lon="10.4652958"/><trkpt lat="51.2089555" lon="10.4653038"/><trkpt lat="51.2089488" lon="10.4652582"/><trkpt lat="51.2088513" lon="10.4652824"/><trkpt lat="51.2088563" lon="10.4653307"/><trkpt lat="51.2088379" lon="10.4653387"/><trkpt lat="51.2088799" lon="10.4656847"/><trkpt lat="51.2089168" lon="10.4657062"/><trkpt lat="51.2089572" lon="10.4656981"/><trkpt lat="51.2090059" lon="10.4656069"/><trkpt lat="51.2089782" lon="10.4653631"/><trkpt lat="51.2089706" lon="10.4652958"/></trkseg></trk><trk><name>Achteckhaus</name><desc>amenity=theatre
+building=yes
+building:levels=3
+name=Achteckhaus
+roof:levels=2
+roof:shape=pyramidal
+theatre:genre=chamber_music
+theatre:type=concert_hall
+wikipedia=de:Schloss Sondershausen#Achteckhaus
+id=way/201227353</desc><trkseg><trkpt lat="51.3718443" lon="10.8662698"/><trkpt lat="51.3717787" lon="10.8661697"/><trkpt lat="51.3716909" lon="10.866177"/><trkpt lat="51.3716337" lon="10.8662788"/><trkpt lat="51.3716401" lon="10.8664303"/><trkpt lat="51.3716969" lon="10.866517"/><trkpt lat="51.3717109" lon="10.8665159"/><trkpt lat="51.3717802" lon="10.8665107"/><trkpt lat="51.3717877" lon="10.8665102"/><trkpt lat="51.3718045" lon="10.8664826"/><trkpt lat="51.3718225" lon="10.866506"/><trkpt lat="51.3718379" lon="10.8665034"/><trkpt lat="51.3718484" lon="10.8664812"/><trkpt lat="51.3718476" lon="10.8664531"/><trkpt lat="51.3718329" lon="10.8664316"/><trkpt lat="51.3718473" lon="10.8664019"/><trkpt lat="51.3718458" lon="10.8663357"/><trkpt lat="51.3718443" lon="10.8662698"/></trkseg></trk><trk><name>Freilichtbühne Völkershausen</name><desc>amenity=theatre
+construction_date=1992-1993
+name=Freilichtbühne Völkershausen
+id=way/203790462</desc><trkseg><trkpt lat="50.7963893" lon="10.0438682"/><trkpt lat="50.796331" lon="10.043831"/><trkpt lat="50.7963422" lon="10.0437756"/><trkpt lat="50.7962673" lon="10.0437415"/><trkpt lat="50.7962552" lon="10.0435297"/><trkpt lat="50.7961245" lon="10.0435869"/><trkpt lat="50.7960308" lon="10.0437327"/><trkpt lat="50.7961434" lon="10.043866"/><trkpt lat="50.7961685" lon="10.043923"/><trkpt lat="50.7961971" lon="10.0439884"/><trkpt lat="50.7962107" lon="10.0439904"/><trkpt lat="50.7962309" lon="10.0439876"/><trkpt lat="50.7962492" lon="10.0439803"/><trkpt lat="50.7962649" lon="10.0439704"/><trkpt lat="50.7962824" lon="10.0439525"/><trkpt lat="50.7962963" lon="10.0439308"/><trkpt lat="50.7963085" lon="10.0438977"/><trkpt lat="50.7963712" lon="10.0439378"/><trkpt lat="50.7963893" lon="10.0438682"/></trkseg></trk><trk><name>way/231974728</name><desc>amenity=theatre
+building=yes
+id=way/231974728</desc><trkseg><trkpt lat="50.6623471" lon="10.9455231"/><trkpt lat="50.6622784" lon="10.945493"/><trkpt lat="50.6622482" lon="10.945665"/><trkpt lat="50.662317" lon="10.945695"/><trkpt lat="50.6623471" lon="10.9455231"/></trkseg></trk><trk><name>DNT im e-werk</name><desc>amenity=theatre
+building:part=yes
+check_date=2025-02-18
+name=DNT im e-werk
+wheelchair=yes
+id=way/232418947</desc><trkseg><trkpt lat="50.9855824" lon="11.3325975"/><trkpt lat="50.9854617" lon="11.3326899"/><trkpt lat="50.9855868" lon="11.3331026"/><trkpt lat="50.9855922" lon="11.3330985"/><trkpt lat="50.9856622" lon="11.3330449"/><trkpt lat="50.9857076" lon="11.3330102"/><trkpt lat="50.9856644" lon="11.3328677"/><trkpt lat="50.9855824" lon="11.3325975"/></trkseg></trk><trk><name>Liebhabertheater Schloss Kochberg</name><desc>amenity=theatre
+building=yes
+name=Liebhabertheater Schloss Kochberg
+operator=Klassik Stiftung Weimar
+tourism=attraction
+wheelchair=no
+wikidata=Q45990300
+wikipedia=de:Schloss Kochberg
+id=way/232884897</desc><trkseg><trkpt lat="50.776527" lon="11.3568"/><trkpt lat="50.7764631" lon="11.3567849"/><trkpt lat="50.7764587" lon="11.3568309"/><trkpt lat="50.7764165" lon="11.3568209"/><trkpt lat="50.7764044" lon="11.3569489"/><trkpt lat="50.7764492" lon="11.3569595"/><trkpt lat="50.7764438" lon="11.3570171"/><trkpt lat="50.7765098" lon="11.3570327"/><trkpt lat="50.7765158" lon="11.3569693"/><trkpt lat="50.7765572" lon="11.3569791"/><trkpt lat="50.7765692" lon="11.3568524"/><trkpt lat="50.776523" lon="11.3568415"/><trkpt lat="50.776527" lon="11.3568"/></trkseg></trk><trk><name>way/233311647</name><desc>amenity=theatre
+building=yes
+theatre:type=open_air
+id=way/233311647</desc><trkseg><trkpt lat="50.829784" lon="10.8848571"/><trkpt lat="50.8297305" lon="10.884821"/><trkpt lat="50.8296915" lon="10.8849661"/><trkpt lat="50.829745" lon="10.8850022"/><trkpt lat="50.829784" lon="10.8848571"/></trkseg></trk><trk><name>Bühne</name><desc>amenity=theatre
+name=Bühne
+theatre:type=open_air
+id=way/246460767</desc><trkseg><trkpt lat="51.0162263" lon="10.8468408"/><trkpt lat="51.0161479" lon="10.8468492"/><trkpt lat="51.0161517" lon="10.8469394"/><trkpt lat="51.0162301" lon="10.8469311"/><trkpt lat="51.0162263" lon="10.8468408"/></trkseg></trk><trk><name>Eichsfelder Kulturhaus</name><desc>addr:city=Heilbad Heiligenstadt
+addr:housenumber=11a
+addr:postcode=37308
+addr:street=Aegidienstraße
+amenity=theatre
+building=public
+historic=theatre
+name=Eichsfelder Kulturhaus
+operator=Landkreis Eichsfeld
+phone=+49 3606 60 80 60
+website=https://eichsfelder-kulturhaus.de/
+wheelchair=yes
+wikidata=Q61609783
+id=way/259080378</desc><trkseg><trkpt lat="51.3737134" lon="10.1373714"/><trkpt lat="51.3736129" lon="10.1373339"/><trkpt lat="51.3736046" lon="10.1373768"/><trkpt lat="51.3735473" lon="10.137358"/><trkpt lat="51.3734857" lon="10.1373379"/><trkpt lat="51.3734949" lon="10.1372312"/><trkpt lat="51.3735104" lon="10.1372319"/><trkpt lat="51.3735162" lon="10.1371817"/><trkpt lat="51.3734608" lon="10.1371669"/><trkpt lat="51.3734405" lon="10.1373808"/><trkpt lat="51.3734091" lon="10.1373761"/><trkpt lat="51.3733409" lon="10.1380246"/><trkpt lat="51.3734037" lon="10.1380427"/><trkpt lat="51.3735681" lon="10.1380901"/><trkpt lat="51.3736381" lon="10.1381103"/><trkpt lat="51.3736821" lon="10.1376717"/><trkpt lat="51.3737034" lon="10.1374599"/><trkpt lat="51.3737134" lon="10.1373714"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+theatre:type=open_air
+id=way/260354381</desc><trkseg><trkpt lat="50.5771576" lon="11.1499389"/><trkpt lat="50.5771414" lon="11.150009"/><trkpt lat="50.5771814" lon="11.1500319"/><trkpt lat="50.5771976" lon="11.1499618"/><trkpt lat="50.5771576" lon="11.1499389"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+check_date=2024-12-31
+name=Freilichtbühne
+id=way/281734195</desc><trkseg><trkpt lat="50.3976687" lon="11.2238216"/><trkpt lat="50.3974218" lon="11.2234713"/><trkpt lat="50.3972912" lon="11.2236316"/><trkpt lat="50.3972392" lon="11.2237177"/><trkpt lat="50.3972089" lon="11.223786"/><trkpt lat="50.3971928" lon="11.2238572"/><trkpt lat="50.3971909" lon="11.2239374"/><trkpt lat="50.3971976" lon="11.2239997"/><trkpt lat="50.3972146" lon="11.224065"/><trkpt lat="50.3972411" lon="11.2241229"/><trkpt lat="50.3972704" lon="11.22416"/><trkpt lat="50.3973054" lon="11.2241882"/><trkpt lat="50.3973461" lon="11.2242031"/><trkpt lat="50.3973925" lon="11.224206"/><trkpt lat="50.397436" lon="11.2241927"/><trkpt lat="50.3974776" lon="11.2241615"/><trkpt lat="50.3975202" lon="11.224111"/><trkpt lat="50.3976687" lon="11.2238216"/></trkseg></trk><trk><name>Freilichtbühne Heubach</name><desc>amenity=theatre
+name=Freilichtbühne Heubach
+id=way/287772479</desc><trkseg><trkpt lat="50.5060052" lon="10.9299223"/><trkpt lat="50.506002" lon="10.9298587"/><trkpt lat="50.5059852" lon="10.9298043"/><trkpt lat="50.5057497" lon="10.9294907"/><trkpt lat="50.5055699" lon="10.929813"/><trkpt lat="50.5056796" lon="10.930089"/><trkpt lat="50.5057152" lon="10.9301197"/><trkpt lat="50.505745" lon="10.9301257"/><trkpt lat="50.5057846" lon="10.9301194"/><trkpt lat="50.5058438" lon="10.9300821"/><trkpt lat="50.5059126" lon="10.9300216"/><trkpt lat="50.5059632" lon="10.9299499"/><trkpt lat="50.5059735" lon="10.9299152"/><trkpt lat="50.5060052" lon="10.9299223"/></trkseg></trk><trk><name>Theatermuschel</name><desc>amenity=theatre
+building=stage
+covered=yes
+name=Theatermuschel
+note=Konzertbühne
+reg_name=Theatermuschel
+wheelchair=no
+id=way/297104854</desc><trkseg><trkpt lat="50.8366492" lon="10.9519919"/><trkpt lat="50.8366262" lon="10.9519947"/><trkpt lat="50.8366256" lon="10.9519819"/><trkpt lat="50.8365407" lon="10.9519924"/><trkpt lat="50.8365412" lon="10.9520029"/><trkpt lat="50.8365124" lon="10.9520065"/><trkpt lat="50.8365161" lon="10.9520824"/><trkpt lat="50.8365432" lon="10.9520791"/><trkpt lat="50.8365439" lon="10.9520933"/><trkpt lat="50.8366302" lon="10.9520826"/><trkpt lat="50.8366294" lon="10.9520673"/><trkpt lat="50.8366527" lon="10.9520644"/><trkpt lat="50.8366492" lon="10.9519919"/></trkseg></trk><trk><name>Freilichtbühne im Morbacher Park</name><desc>amenity=theatre
+area=yes
+name=Freilichtbühne im Morbacher Park
+id=way/405965929</desc><trkseg><trkpt lat="50.7160621" lon="10.8322896"/><trkpt lat="50.7160791" lon="10.8324693"/><trkpt lat="50.7161113" lon="10.8325135"/><trkpt lat="50.7161623" lon="10.8324398"/><trkpt lat="50.7161674" lon="10.8323472"/><trkpt lat="50.7161351" lon="10.8322654"/><trkpt lat="50.716074" lon="10.8322359"/><trkpt lat="50.7160621" lon="10.8322896"/></trkseg></trk><trk><name>Ellichleber Berg</name><desc>amenity=theatre
+name=Ellichleber Berg
+theatre:type=amphi
+id=way/420875835</desc><trkseg><trkpt lat="50.8119534" lon="11.1342131"/><trkpt lat="50.8119008" lon="11.1340146"/><trkpt lat="50.8118542" lon="11.1340481"/><trkpt lat="50.8117551" lon="11.1341154"/><trkpt lat="50.8116939" lon="11.1344507"/><trkpt lat="50.8119745" lon="11.134569"/><trkpt lat="50.8119812" lon="11.1345698"/><trkpt lat="50.812" lon="11.1344075"/><trkpt lat="50.8119534" lon="11.1342131"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+building=yes
+name=Freilichtbühne
+id=way/459640209</desc><trkseg><trkpt lat="50.6262715" lon="10.1605295"/><trkpt lat="50.6262787" lon="10.1604732"/><trkpt lat="50.6262486" lon="10.1604347"/><trkpt lat="50.626219" lon="10.1604204"/><trkpt lat="50.6261804" lon="10.1605808"/><trkpt lat="50.6262072" lon="10.1606221"/><trkpt lat="50.6262594" lon="10.1606383"/><trkpt lat="50.6262715" lon="10.1605295"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+building=yes
+name=Freilichtbühne
+id=way/546357816</desc><trkseg><trkpt lat="50.8968574" lon="12.3460653"/><trkpt lat="50.8969431" lon="12.3459601"/><trkpt lat="50.896885" lon="12.3458409"/><trkpt lat="50.8967992" lon="12.345946"/><trkpt lat="50.8968574" lon="12.3460653"/></trkseg></trk><trk><name>way/551615880</name><desc>amenity=theatre
+id=way/551615880</desc><trkseg><trkpt lat="50.8303794" lon="10.7363094"/><trkpt lat="50.8303783" lon="10.7363392"/><trkpt lat="50.8303777" lon="10.7363717"/><trkpt lat="50.8304653" lon="10.7365169"/><trkpt lat="50.8305864" lon="10.7364462"/><trkpt lat="50.8305968" lon="10.7362998"/><trkpt lat="50.8304784" lon="10.7361812"/><trkpt lat="50.8303794" lon="10.7363094"/></trkseg></trk><trk><name>Freilufttheater</name><desc>amenity=theatre
+name=Freilufttheater
+id=way/560211146</desc><trkseg><trkpt lat="50.6036198" lon="10.0844809"/><trkpt lat="50.6035569" lon="10.0845788"/><trkpt lat="50.6038046" lon="10.0850885"/><trkpt lat="50.6039561" lon="10.0850925"/><trkpt lat="50.6039893" lon="10.0848189"/><trkpt lat="50.6038224" lon="10.0845091"/><trkpt lat="50.6036198" lon="10.0844809"/></trkseg></trk><trk><name>way/586403471</name><desc>amenity=theatre
+building=yes
+theatre:type=open_air
+id=way/586403471</desc><trkseg><trkpt lat="51.124957" lon="10.4817882"/><trkpt lat="51.1249629" lon="10.4817659"/><trkpt lat="51.1249637" lon="10.4817418"/><trkpt lat="51.1249593" lon="10.4817186"/><trkpt lat="51.1249502" lon="10.4816992"/><trkpt lat="51.1249375" lon="10.4816859"/><trkpt lat="51.1249228" lon="10.4816803"/><trkpt lat="51.1249077" lon="10.481683"/><trkpt lat="51.1248952" lon="10.4816925"/><trkpt lat="51.1248675" lon="10.4817337"/><trkpt lat="51.1249265" lon="10.481834"/><trkpt lat="51.1249466" lon="10.4818059"/><trkpt lat="51.124957" lon="10.4817882"/></trkseg></trk><trk><name>Amphitheater</name><desc>access=yes
+amenity=theatre
+check_date=2024-08-16
+lit=no
+name=Amphitheater
+surface=grass
+theatre_type=open_air
+id=way/596118125</desc><trkseg><trkpt lat="50.9087928" lon="11.5655153"/><trkpt lat="50.9087756" lon="11.5655513"/><trkpt lat="50.9087668" lon="11.5655944"/><trkpt lat="50.9087674" lon="11.5656396"/><trkpt lat="50.9087774" lon="11.565682"/><trkpt lat="50.9087956" lon="11.5657168"/><trkpt lat="50.9088201" lon="11.5657401"/><trkpt lat="50.9088471" lon="11.5657493"/><trkpt lat="50.9088746" lon="11.5657444"/><trkpt lat="50.9088996" lon="11.5657257"/><trkpt lat="50.9089196" lon="11.5656954"/><trkpt lat="50.9089324" lon="11.5656565"/><trkpt lat="50.9089367" lon="11.5656131"/><trkpt lat="50.908932" lon="11.5655699"/><trkpt lat="50.9089189" lon="11.5655313"/><trkpt lat="50.9088987" lon="11.5655014"/><trkpt lat="50.9088726" lon="11.5654829"/><trkpt lat="50.9088442" lon="11.5654791"/><trkpt lat="50.9088166" lon="11.5654903"/><trkpt lat="50.9087928" lon="11.5655153"/></trkseg></trk><trk><name>Bergbühne Fischbach</name><desc>amenity=theatre
+name=Bergbühne Fischbach
+theatre:type=open_air
+wikidata=Q98446427
+id=way/689928278</desc><trkseg><trkpt lat="50.8817468" lon="10.4790935"/><trkpt lat="50.882035" lon="10.4797178"/><trkpt lat="50.8822429" lon="10.4794585"/><trkpt lat="50.8821904" lon="10.4792815"/><trkpt lat="50.8823191" lon="10.4791152"/><trkpt lat="50.8821752" lon="10.4788175"/><trkpt lat="50.8820012" lon="10.4790258"/><trkpt lat="50.8818435" lon="10.4789811"/><trkpt lat="50.8817468" lon="10.4790935"/></trkseg></trk><trk><name>Naturtheater Bauerbach</name><desc>addr:city=Grabfeld
+addr:housenumber=1
+addr:postcode=98631
+addr:street=Straße zur Naturbühne
+addr:suburb=Bauerfeld
+amenity=theatre
+email=leitung@naturtheater-bauerbach.de
+name=Naturtheater Bauerbach
+operator=Naturtheater "Friedrich Schiller" Bauerbach e.V.
+phone=+49 36945 50000
+theatre:type=open_air
+website=http://www.naturtheater-bauerbach.de
+id=way/692978072</desc><trkseg><trkpt lat="50.4987466" lon="10.375181"/><trkpt lat="50.4986567" lon="10.3755535"/><trkpt lat="50.4985302" lon="10.3759223"/><trkpt lat="50.4984874" lon="10.3760195"/><trkpt lat="50.4984479" lon="10.3761091"/><trkpt lat="50.4981316" lon="10.3767934"/><trkpt lat="50.498152" lon="10.3768067"/><trkpt lat="50.4982066" lon="10.3768738"/><trkpt lat="50.4983158" lon="10.3770617"/><trkpt lat="50.4984011" lon="10.3771152"/><trkpt lat="50.4985461" lon="10.3771393"/><trkpt lat="50.4986963" lon="10.3771635"/><trkpt lat="50.4987611" lon="10.3771555"/><trkpt lat="50.4987859" lon="10.3766178"/><trkpt lat="50.4988091" lon="10.3765842"/><trkpt lat="50.498959" lon="10.376367"/><trkpt lat="50.499197" lon="10.3760706"/><trkpt lat="50.499238" lon="10.3757688"/><trkpt lat="50.4989787" lon="10.375345"/><trkpt lat="50.4987466" lon="10.375181"/></trkseg></trk><trk><name>Musikpavillon</name><desc>amenity=theatre
+leisure=bandstand
+name=Musikpavillon
+theatre:type=open_air
+id=way/720876470</desc><trkseg><trkpt lat="51.3797084" lon="10.1425856"/><trkpt lat="51.3796993" lon="10.1425824"/><trkpt lat="51.3797046" lon="10.1425438"/><trkpt lat="51.3796995" lon="10.1425134"/><trkpt lat="51.379679" lon="10.1424894"/><trkpt lat="51.3796497" lon="10.1424841"/><trkpt lat="51.3796328" lon="10.1424922"/><trkpt lat="51.3796201" lon="10.1425126"/><trkpt lat="51.379614" lon="10.1425523"/><trkpt lat="51.3796024" lon="10.1425482"/><trkpt lat="51.3795844" lon="10.1426865"/><trkpt lat="51.3795915" lon="10.1427066"/><trkpt lat="51.3796815" lon="10.1427355"/><trkpt lat="51.3796878" lon="10.1427254"/><trkpt lat="51.3797084" lon="10.1425856"/></trkseg></trk><trk><name>Pavillon im Brühler Garten</name><desc>amenity=theatre
+name=Pavillon im Brühler Garten
+wheelchair=yes
+id=way/752931162</desc><trkseg><trkpt lat="50.9736787" lon="11.0191971"/><trkpt lat="50.9736889" lon="11.0191373"/><trkpt lat="50.9736971" lon="11.0191204"/><trkpt lat="50.9736375" lon="11.0190469"/><trkpt lat="50.9736292" lon="11.0190639"/><trkpt lat="50.9735931" lon="11.0190963"/><trkpt lat="50.9736787" lon="11.0191971"/></trkseg></trk><trk><name>(Ruine) Wartburg-Waldbühne</name><desc>abandoned:building=ruins
+amenity=theatre
+name=(Ruine) Wartburg-Waldbühne
+id=way/782191898</desc><trkseg><trkpt lat="50.9698917" lon="10.3135523"/><trkpt lat="50.9696853" lon="10.3133282"/><trkpt lat="50.969423" lon="10.3132715"/><trkpt lat="50.9693661" lon="10.3135446"/><trkpt lat="50.9693674" lon="10.3138122"/><trkpt lat="50.9696558" lon="10.3140656"/><trkpt lat="50.9698011" lon="10.3140431"/><trkpt lat="50.9698906" lon="10.3138086"/><trkpt lat="50.9698917" lon="10.3135523"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+id=way/882400692</desc><trkseg><trkpt lat="51.0930182" lon="11.0478332"/><trkpt lat="51.0929735" lon="11.0478171"/><trkpt lat="51.0929311" lon="11.047784"/><trkpt lat="51.0929125" lon="11.0478601"/><trkpt lat="51.0929091" lon="11.047941"/><trkpt lat="51.0929567" lon="11.0479384"/><trkpt lat="51.0930019" lon="11.0479504"/><trkpt lat="51.0930364" lon="11.0479625"/><trkpt lat="51.0930527" lon="11.0478454"/><trkpt lat="51.0930182" lon="11.0478332"/></trkseg></trk><trk><name>Bergtheater</name><desc>amenity=theatre
+check_date=2025-01-12
+contact:website=https://www.markus-voellmer.de/bergtheater-friedrichroda/
+name=Bergtheater
+id=way/936657319</desc><trkseg><trkpt lat="50.8523254" lon="10.5677421"/><trkpt lat="50.8522773" lon="10.5675957"/><trkpt lat="50.8521688" lon="10.5676781"/><trkpt lat="50.8521041" lon="10.5677676"/><trkpt lat="50.8520244" lon="10.5680682"/><trkpt lat="50.8522258" lon="10.5681699"/><trkpt lat="50.8523254" lon="10.5677421"/></trkseg></trk><trk><name>Freilichtbühne</name><desc>amenity=theatre
+name=Freilichtbühne
+theatre:type=open_air
+id=way/988377642</desc><trkseg><trkpt lat="50.813798" lon="10.3587447"/><trkpt lat="50.8138595" lon="10.35884"/><trkpt lat="50.8138961" lon="10.3587809"/><trkpt lat="50.8138346" lon="10.3586856"/><trkpt lat="50.813798" lon="10.3587447"/></trkseg></trk><trk><name>way/1005568395</name><desc>amenity=theatre
+theatre:type=amphi
+id=way/1005568395</desc><trkseg><trkpt lat="50.8829805" lon="11.6014521"/><trkpt lat="50.8829536" lon="11.6013403"/><trkpt lat="50.8829297" lon="11.6013543"/><trkpt lat="50.8829069" lon="11.6013814"/><trkpt lat="50.8828893" lon="11.6014226"/><trkpt lat="50.8828778" lon="11.6014628"/><trkpt lat="50.8828737" lon="11.6015039"/><trkpt lat="50.8828763" lon="11.6015516"/><trkpt lat="50.8828867" lon="11.6015993"/><trkpt lat="50.8829017" lon="11.6016371"/><trkpt lat="50.8829193" lon="11.6016634"/><trkpt lat="50.8829614" lon="11.6015804"/><trkpt lat="50.8829837" lon="11.6015763"/><trkpt lat="50.8830023" lon="11.6015689"/><trkpt lat="50.8830158" lon="11.6015549"/><trkpt lat="50.8830241" lon="11.601536"/><trkpt lat="50.8830262" lon="11.6015097"/><trkpt lat="50.8830189" lon="11.6014768"/><trkpt lat="50.8830008" lon="11.6014571"/><trkpt lat="50.8829805" lon="11.6014521"/></trkseg></trk><trk><name>Zirkuszelt</name><desc>addr:city=Starkenberg
+addr:postcode=04617
+amenity=theatre
+building=yes
+name=Zirkuszelt
+source=survey
+id=way/1066812798</desc><trkseg><trkpt lat="50.9887119" lon="12.3057858"/><trkpt lat="50.9886925" lon="12.3058375"/><trkpt lat="50.9886843" lon="12.3058962"/><trkpt lat="50.9886879" lon="12.3059561"/><trkpt lat="50.988703" lon="12.3060113"/><trkpt lat="50.9887282" lon="12.3060563"/><trkpt lat="50.9887645" lon="12.3060888"/><trkpt lat="50.9888057" lon="12.3060997"/><trkpt lat="50.9888467" lon="12.3060877"/><trkpt lat="50.9888827" lon="12.3060542"/><trkpt lat="50.9889093" lon="12.3060032"/><trkpt lat="50.9889234" lon="12.3059408"/><trkpt lat="50.9889233" lon="12.3058745"/><trkpt lat="50.988909" lon="12.3058123"/><trkpt lat="50.9888822" lon="12.3057615"/><trkpt lat="50.9888497" lon="12.3057305"/><trkpt lat="50.9888128" lon="12.305717"/><trkpt lat="50.9887751" lon="12.3057224"/><trkpt lat="50.9887403" lon="12.3057461"/><trkpt lat="50.9887119" lon="12.3057858"/></trkseg></trk><trk><name>Freilufttheater</name><desc>amenity=theatre
+highway=footway
+name=Freilufttheater
+surface=paving_stones
+wheelchair=yes
+id=way/1100786609</desc><trkseg><trkpt lat="50.9768602" lon="11.018583"/><trkpt lat="50.9768516" lon="11.0186126"/><trkpt lat="50.9768498" lon="11.0186435"/><trkpt lat="50.9768497" lon="11.0186738"/><trkpt lat="50.9768544" lon="11.0187051"/><trkpt lat="50.9768623" lon="11.0187327"/><trkpt lat="50.9768764" lon="11.0187548"/><trkpt lat="50.9768933" lon="11.0187742"/><trkpt lat="50.9769143" lon="11.018786"/><trkpt lat="50.9769467" lon="11.0187316"/><trkpt lat="50.9769634" lon="11.0187035"/><trkpt lat="50.976968" lon="11.0186958"/><trkpt lat="50.9769722" lon="11.0186887"/><trkpt lat="50.9769915" lon="11.0186564"/><trkpt lat="50.9769654" lon="11.0185765"/><trkpt lat="50.9769378" lon="11.0185782"/><trkpt lat="50.9769304" lon="11.0185787"/><trkpt lat="50.9769231" lon="11.0185791"/><trkpt lat="50.9768967" lon="11.0185807"/><trkpt lat="50.9768602" lon="11.018583"/></trkseg></trk><trk><name>way/1127626989</name><desc>amenity=theatre
+id=way/1127626989</desc><trkseg><trkpt lat="50.9482247" lon="10.7095098"/><trkpt lat="50.9482527" lon="10.7096574"/><trkpt lat="50.9485126" lon="10.7102861"/><trkpt lat="50.9485495" lon="10.7102861"/><trkpt lat="50.9486834" lon="10.7105363"/><trkpt lat="50.9488186" lon="10.710851"/><trkpt lat="50.9488384" lon="10.7108667"/><trkpt lat="50.9488696" lon="10.7108734"/><trkpt lat="50.9488894" lon="10.7108701"/><trkpt lat="50.9489128" lon="10.7108555"/><trkpt lat="50.9489843" lon="10.7107566"/><trkpt lat="50.9490709" lon="10.7106213"/><trkpt lat="50.9490332" lon="10.7104223"/><trkpt lat="50.9489537" lon="10.7100032"/><trkpt lat="50.9489249" lon="10.7098538"/><trkpt lat="50.948865" lon="10.7098797"/><trkpt lat="50.9488395" lon="10.7097339"/><trkpt lat="50.9487545" lon="10.7092455"/><trkpt lat="50.9484975" lon="10.7093624"/><trkpt lat="50.9482247" lon="10.7095098"/></trkseg></trk><trk><name>Theaterzelt Altenburg</name><desc>amenity=theatre
+building=yes
+name=Theaterzelt Altenburg
+phone=03447585160
+website=https://www.theater-altenburg-gera.de/
+id=way/1286366876</desc><trkseg><trkpt lat="50.9765191" lon="12.4336456"/><trkpt lat="50.976636" lon="12.4337084"/><trkpt lat="50.9766638" lon="12.4335917"/><trkpt lat="50.9765889" lon="12.4335556"/><trkpt lat="50.9765739" lon="12.4336183"/><trkpt lat="50.9765321" lon="12.4335929"/><trkpt lat="50.9765596" lon="12.4334833"/><trkpt lat="50.9765511" lon="12.433376"/><trkpt lat="50.9765359" lon="12.4332996"/><trkpt lat="50.9765635" lon="12.4332634"/><trkpt lat="50.9765978" lon="12.4333144"/><trkpt lat="50.9766447" lon="12.433259"/><trkpt lat="50.9765671" lon="12.4331153"/><trkpt lat="50.9765254" lon="12.4331719"/><trkpt lat="50.9765436" lon="12.4332273"/><trkpt lat="50.9765098" lon="12.4332622"/><trkpt lat="50.9764853" lon="12.4332312"/><trkpt lat="50.9764194" lon="12.4331748"/><trkpt lat="50.9763333" lon="12.4331346"/><trkpt lat="50.9763105" lon="12.4331413"/><trkpt lat="50.9763012" lon="12.4330719"/><trkpt lat="50.9763536" lon="12.4330541"/><trkpt lat="50.9763401" lon="12.432851"/><trkpt lat="50.9761986" lon="12.4328747"/><trkpt lat="50.9762119" lon="12.4330854"/><trkpt lat="50.9762658" lon="12.4330778"/><trkpt lat="50.9762716" lon="12.4331453"/><trkpt lat="50.9762286" lon="12.4331695"/><trkpt lat="50.9762117" lon="12.4331427"/><trkpt lat="50.9761661" lon="12.4331909"/><trkpt lat="50.9761796" lon="12.4332473"/><trkpt lat="50.9761576" lon="12.4333492"/><trkpt lat="50.9761289" lon="12.4334753"/><trkpt lat="50.9760952" lon="12.4334833"/><trkpt lat="50.9760985" lon="12.4335799"/><trkpt lat="50.9761357" lon="12.4335745"/><trkpt lat="50.9761627" lon="12.4336496"/><trkpt lat="50.9762049" lon="12.4337247"/><trkpt lat="50.976259" lon="12.4337676"/><trkpt lat="50.9762961" lon="12.433781"/><trkpt lat="50.9763451" lon="12.4338025"/><trkpt lat="50.9764059" lon="12.4337998"/><trkpt lat="50.9764768" lon="12.4337569"/><trkpt lat="50.9765191" lon="12.4336456"/></trkseg></trk></gpx>
