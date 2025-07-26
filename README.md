@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 183 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 184 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -174,6 +174,7 @@ Sollten die Skripte nicht funktionieren:
 - PN löschen Button
 - POI Counter
 - POI Counter in POI Menu
+- POI Importer
 - POI Löscher
 - Profil Navigation
 - Profilkopierer
