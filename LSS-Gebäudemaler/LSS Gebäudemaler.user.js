@@ -9,7 +9,7 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
-// @resource     icon PLACEHOLDERURL
+// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-Geb%C3%A4udemaler/icons8-pinsel-80.png
 // ==/UserScript==
 
 (function() {
