@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 186 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 187 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -126,6 +126,7 @@ Sollten die Skripte nicht funktionieren:
 - Gebäude Löschen
 - Gebäudeausbauten umschalten
 - Gebäudeeditbutton nach oben
+- Gebäudemaler
 - Geschwindigkeitssteuerung anpassen
 - Gib mir meine Belohnung einfach
 - Gitternetz auf Karte
