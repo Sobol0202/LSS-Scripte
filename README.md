@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 187 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 188 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -108,6 +108,7 @@ Sollten die Skripte nicht funktionieren:
 - Fahrzeuge eines Typs löschen
 - Fahrzeuge pro Wache Leitstelle
 - Fahrzeuge Wachenweise verschrotten
+- Fahrzeugeinsatzbeteiligung auf Karte
 - Fahrzeuggrafiken Schnell Kopieren und Einfügen
 - Fahrzeuggrafiken sortieren & ausblenden
 - Fahrzeuggrafik beim Kauf setzen
