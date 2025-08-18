@@ -3,7 +3,8 @@
 // @version      1.0
 // @description  Fügt Sortierung und Suche in der Fahrzeuggrafiktabelle hinzu
 // @author       Sobol
-// @match        https://www.leitstellenspiel.de/vehicle_graphics/*/edit
+// @match        https://www.leitstellenspiel.de/vehicle_graphics/*
+// @match        https://www.leitstellenspiel.de/mission_graphics/*
 // @grant        none
 // ==/UserScript==
 
