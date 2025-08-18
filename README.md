@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 188 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 189 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -113,6 +113,7 @@ Sollten die Skripte nicht funktionieren:
 - Fahrzeuggrafiken sortieren & ausblenden
 - Fahrzeuggrafik beim Kauf setzen
 - Fahrzeuggrafik-ID anzeigen
+- Fahrzeuggrafik Suche & Sortierung
 - Fahrzeugstatus Umschalter
 - Fahrzeugstatus Umschalter Wachenweise
 - Fahrzeugstatus Umschalter Leitstellenweise
