@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Fahrzeuggrafik Suche & Sortierung
-// @version      1.0
+// @version      1.1
 // @description  Fügt Sortierung und Suche in der Fahrzeuggrafiktabelle hinzu
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/vehicle_graphics/*
