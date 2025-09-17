@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 190 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 191 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -139,6 +139,7 @@ Sollten die Skripte nicht funktionieren:
 - Grafiksetleitstellenmenü alphabetisch sortieren
 - Green-Marker Transparency
 - Größere Profilkarte
+- Hauptleitstelle Dropdown Alphabetisch sortieren
 - Hilfe zu diesem Einsatz - Verbandseinsatz
 - I know you drive
 - Ignorieren Button in PN
