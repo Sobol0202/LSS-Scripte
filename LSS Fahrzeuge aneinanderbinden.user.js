@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS-Fahrzeuge aneinanderbinden
 // @namespace    https://www.leitstellenspiel.de/
-// @version      2.10
+// @version      2.11
 // @description  Bindet Fahrzeuge aneinander und setzt automatisch die Checkbox, wenn das andere ausgewählt wird.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/*
@@ -93,6 +93,10 @@ const match = window.location.href.match(urlRegex);
 
 if (match) {
   const inputContainer = document.createElement('div');
+  inputContainer.style.marginBottom = '200px';
+  inputContainer.style.position = 'relative';
+  inputContainer.style.zIndex = '9999';
+
   const vehicleID = match[1];
   const existingPairs = loadIDPairs();
   const boundVehicle = existingPairs.find(
@@ -175,10 +179,6 @@ if (match) {
       }
     });
 
-    // Laden der ID-Paare aus dem Local Storage
-    const existingPairs = loadIDPairs();
-
-    // Vorschläge für Fahrzeug-IDs anzeigen
     vehicle2IDInput.addEventListener('input', async () => {
       const vehicles = await getVehicles();
       vehicleList.innerHTML = '';
@@ -198,9 +198,9 @@ if (match) {
       });
     });
   }
-
   document.body.appendChild(inputContainer);
 }
+
 
 // Hilfsfunktion zum Abrufen der Caption anhand der ID
 async function getCaptionByID(vehicleID) {
