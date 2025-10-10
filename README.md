@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 191 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 192 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -154,6 +154,7 @@ Sollten die Skripte nicht funktionieren:
 - Laufleistung 30 Tage
 - Lehrgangsausblender
 - Lehrgangsstart im Forum
+- Leitstellen-Dropdown in der Leitstellengebäudeansicht
 - Leitstellenansicht Edit+Zuweisungsbuttons
 - Leitstellenauswahldropdownmenü
 - Leitstellenweise Gebäude Leitstellenzuweisung
