@@ -244,6 +244,7 @@ Bei Fragen oder Problemen erreichst du mich hier:
 - **Name:** Sobol
 - **Ingame:** [https://www.leitstellenspiel.de/profile/624172]
 - **Forum:** Das Forum habe ich Ende 2024 verlassen, da ein Moderator mich bewusst rausgeekelt hat.
+- **Falls du mir einen Münze für meine Arbeit geben willst, kannst du das über KoFi tun. [https://ko-fi.com/misssobol]
 
 ## Wichtiger Hinweis
 **Bitte gebt meine Scripte im LSS-Forum nicht weiter**
