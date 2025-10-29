@@ -10,7 +10,7 @@
 (function() {
     'use strict';
 
-    const NEW_ICON_URL = 'LINK';
+    const NEW_ICON_URL = 'https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-Patienten-Icon%20ersetzen/icons8-krankenwagen-50.png';
 
     function replacePatientIcon() {
         const h3 = document.querySelector('h3#missionH1');
