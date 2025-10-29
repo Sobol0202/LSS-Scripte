@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 192 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 193 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -175,6 +175,7 @@ Sollten die Skripte nicht funktionieren:
 - Noch zu verdienen
 - Open First Building
 - Patientenanalyse
+- Patienten-Icon ersetzen
 - Personal Filter
 - Personal Soll-Ist
 - Personalzuweisungssavigationsbuttonverschieber
