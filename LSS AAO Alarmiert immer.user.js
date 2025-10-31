@@ -5,6 +5,7 @@
 // @description  Dropdown für AAO-Alarmierungs-Automatik
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/missions/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_addStyle
@@ -54,6 +55,22 @@
 
         return dropdown;
     }
+    // Dark/Light Mode CSS automatisch anpassen
+        GM_addStyle(`
+            #autoZustandDropdown {
+                background-color: white;
+                color: black;
+                border: 1px solid #ccc;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                #autoZustandDropdown {
+                    background-color: #2c2f33;
+                    color: #f0f0f0;
+                    border: 1px solid #444;
+                }
+            }
+        `);
 
     function appendDropdownToTabs() {
         const tabs = document.getElementById("aao-tabs");
@@ -108,7 +125,6 @@
             }
         }, 100);
     }
-
 
     function init() {
         appendDropdownToTabs();
