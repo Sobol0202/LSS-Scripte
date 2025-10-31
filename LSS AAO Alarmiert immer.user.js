@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS AAO Alarmiert immer
 // @namespace    https://www.leitstellenspiel.de
-// @version      1.0
+// @version      1.1
 // @description  Dropdown für AAO-Alarmierungs-Automatik
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/missions/*
