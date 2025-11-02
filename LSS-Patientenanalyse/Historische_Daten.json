@@ -2240,6 +2240,836 @@
                     }
                 }
             }
+        },
+        {
+            "timestamp": "2025-05-09T21:24:56.118Z",
+            "result": {
+                "10": {
+                    "totalMissions": 150,
+                    "avg": {
+                        "nef": 631,
+                        "helicopter": 76,
+                        "transport": 785
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 111,
+                    "avg": {
+                        "nef": 824,
+                        "helicopter": 110,
+                        "transport": 1154
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 36,
+                    "avg": {
+                        "nef": 489,
+                        "helicopter": 60,
+                        "transport": 711
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 43,
+                    "avg": {
+                        "nef": 1622.5,
+                        "helicopter": 405,
+                        "transport": 1940
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 130,
+                    "avg": {
+                        "nef": 6560,
+                        "helicopter": 2660,
+                        "transport": 6420
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 28,
+                    "avg": {
+                        "nef": 1376,
+                        "helicopter": 142,
+                        "transport": 1720
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-05-16T18:33:08.510Z",
+            "result": {
+                "10": {
+                    "totalMissions": 150,
+                    "avg": {
+                        "nef": 631,
+                        "helicopter": 76,
+                        "transport": 785
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 111,
+                    "avg": {
+                        "nef": 824,
+                        "helicopter": 110,
+                        "transport": 1154
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 36,
+                    "avg": {
+                        "nef": 489,
+                        "helicopter": 60,
+                        "transport": 711
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 43,
+                    "avg": {
+                        "nef": 1622.5,
+                        "helicopter": 405,
+                        "transport": 1940
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 130,
+                    "avg": {
+                        "nef": 6560,
+                        "helicopter": 2660,
+                        "transport": 6420
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 28,
+                    "avg": {
+                        "nef": 1376,
+                        "helicopter": 142,
+                        "transport": 1720
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-05-28T18:05:08.456Z",
+            "result": {
+                "10": {
+                    "totalMissions": 158,
+                    "avg": {
+                        "nef": 651,
+                        "helicopter": 88,
+                        "transport": 849
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 111,
+                    "avg": {
+                        "nef": 824,
+                        "helicopter": 110,
+                        "transport": 1154
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 36,
+                    "avg": {
+                        "nef": 489,
+                        "helicopter": 60,
+                        "transport": 711
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 43,
+                    "avg": {
+                        "nef": 1622.5,
+                        "helicopter": 405,
+                        "transport": 1940
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 130,
+                    "avg": {
+                        "nef": 6560,
+                        "helicopter": 2660,
+                        "transport": 6420
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 28,
+                    "avg": {
+                        "nef": 1376,
+                        "helicopter": 142,
+                        "transport": 1720
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-06-15T07:00:26.749Z",
+            "result": {
+                "10": {
+                    "totalMissions": 158,
+                    "avg": {
+                        "nef": 651,
+                        "helicopter": 88,
+                        "transport": 849
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 111,
+                    "avg": {
+                        "nef": 824,
+                        "helicopter": 110,
+                        "transport": 1154
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 36,
+                    "avg": {
+                        "nef": 489,
+                        "helicopter": 60,
+                        "transport": 711
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 43,
+                    "avg": {
+                        "nef": 1622.5,
+                        "helicopter": 405,
+                        "transport": 1940
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 130,
+                    "avg": {
+                        "nef": 6560,
+                        "helicopter": 2660,
+                        "transport": 6420
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 28,
+                    "avg": {
+                        "nef": 1376,
+                        "helicopter": 142,
+                        "transport": 1720
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-07-22T19:26:08.724Z",
+            "result": {
+                "10": {
+                    "totalMissions": 258,
+                    "avg": {
+                        "nef": 1063,
+                        "helicopter": 152,
+                        "transport": 1381
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 151,
+                    "avg": {
+                        "nef": 1216,
+                        "helicopter": 182,
+                        "transport": 1546
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 48,
+                    "avg": {
+                        "nef": 585,
+                        "helicopter": 60,
+                        "transport": 903
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 85,
+                    "avg": {
+                        "nef": 3232.5,
+                        "helicopter": 810,
+                        "transport": 3870
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 260,
+                    "avg": {
+                        "nef": 13120,
+                        "helicopter": 5320,
+                        "transport": 12840
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 40,
+                    "avg": {
+                        "nef": 1952,
+                        "helicopter": 204,
+                        "transport": 2440
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-08-02T14:09:53.985Z",
+            "result": {
+                "10": {
+                    "totalMissions": 258,
+                    "avg": {
+                        "nef": 1063,
+                        "helicopter": 152,
+                        "transport": 1381
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 143,
+                    "avg": {
+                        "nef": 1088,
+                        "helicopter": 142,
+                        "transport": 1410
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 48,
+                    "avg": {
+                        "nef": 585,
+                        "helicopter": 60,
+                        "transport": 903
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 85,
+                    "avg": {
+                        "nef": 3232.5,
+                        "helicopter": 810,
+                        "transport": 3870
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 260,
+                    "avg": {
+                        "nef": 13120,
+                        "helicopter": 5320,
+                        "transport": 12840
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 40,
+                    "avg": {
+                        "nef": 1952,
+                        "helicopter": 204,
+                        "transport": 2440
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-08-30T21:09:33.600Z",
+            "result": {
+                "10": {
+                    "totalMissions": 258,
+                    "avg": {
+                        "nef": 1063,
+                        "helicopter": 152,
+                        "transport": 1381
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 145,
+                    "avg": {
+                        "nef": 1112,
+                        "helicopter": 146,
+                        "transport": 1440
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 48,
+                    "avg": {
+                        "nef": 585,
+                        "helicopter": 60,
+                        "transport": 903
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 85,
+                    "avg": {
+                        "nef": 3232.5,
+                        "helicopter": 810,
+                        "transport": 3870
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 260,
+                    "avg": {
+                        "nef": 13120,
+                        "helicopter": 5320,
+                        "transport": 12840
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 40,
+                    "avg": {
+                        "nef": 1952,
+                        "helicopter": 204,
+                        "transport": 2440
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-09-29T20:25:11.265Z",
+            "result": {
+                "10": {
+                    "totalMissions": 258,
+                    "avg": {
+                        "nef": 1063,
+                        "helicopter": 152,
+                        "transport": 1381
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 145,
+                    "avg": {
+                        "nef": 1112,
+                        "helicopter": 146,
+                        "transport": 1440
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 48,
+                    "avg": {
+                        "nef": 585,
+                        "helicopter": 60,
+                        "transport": 903
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 149,
+                    "avg": {
+                        "nef": 5792.5,
+                        "helicopter": 1610,
+                        "transport": 6910
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 260,
+                    "avg": {
+                        "nef": 13120,
+                        "helicopter": 5320,
+                        "transport": 12840
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 40,
+                    "avg": {
+                        "nef": 1952,
+                        "helicopter": 204,
+                        "transport": 2440
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-10-24T19:21:17.995Z",
+            "result": {
+                "10": {
+                    "totalMissions": 258,
+                    "avg": {
+                        "nef": 1063,
+                        "helicopter": 152,
+                        "transport": 1381
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 149,
+                    "avg": {
+                        "nef": 1128,
+                        "helicopter": 146,
+                        "transport": 1460
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 48,
+                    "avg": {
+                        "nef": 585,
+                        "helicopter": 60,
+                        "transport": 903
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 149,
+                    "avg": {
+                        "nef": 5792.5,
+                        "helicopter": 1610,
+                        "transport": 6910
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 260,
+                    "avg": {
+                        "nef": 13120,
+                        "helicopter": 5320,
+                        "transport": 12840
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 40,
+                    "avg": {
+                        "nef": 1952,
+                        "helicopter": 204,
+                        "transport": 2440
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
+        },
+        {
+            "timestamp": "2025-11-01T11:27:04.433Z",
+            "result": {
+                "10": {
+                    "totalMissions": 258,
+                    "avg": {
+                        "nef": 1063,
+                        "helicopter": 152,
+                        "transport": 1381
+                    },
+                    "max": {
+                        "nef": 7.5,
+                        "helicopter": 2.5,
+                        "transport": 9
+                    }
+                },
+                "20": {
+                    "totalMissions": 147,
+                    "avg": {
+                        "nef": 1120,
+                        "helicopter": 146,
+                        "transport": 1450
+                    },
+                    "max": {
+                        "nef": 16,
+                        "helicopter": 5,
+                        "transport": 20
+                    }
+                },
+                "30": {
+                    "totalMissions": 48,
+                    "avg": {
+                        "nef": 585,
+                        "helicopter": 60,
+                        "transport": 903
+                    },
+                    "max": {
+                        "nef": 18,
+                        "helicopter": 3,
+                        "transport": 27
+                    }
+                },
+                "50": {
+                    "totalMissions": 149,
+                    "avg": {
+                        "nef": 5792.5,
+                        "helicopter": 1610,
+                        "transport": 6910
+                    },
+                    "max": {
+                        "nef": 40,
+                        "helicopter": 12.5,
+                        "transport": 47.5
+                    }
+                },
+                "100": {
+                    "totalMissions": 260,
+                    "avg": {
+                        "nef": 13120,
+                        "helicopter": 5320,
+                        "transport": 12840
+                    },
+                    "max": {
+                        "nef": 80,
+                        "helicopter": 50,
+                        "transport": 50
+                    }
+                },
+                "101": {
+                    "totalMissions": 40,
+                    "avg": {
+                        "nef": 1952,
+                        "helicopter": 204,
+                        "transport": 2440
+                    },
+                    "max": {
+                        "nef": 50,
+                        "helicopter": 5.5,
+                        "transport": 62.5
+                    }
+                }
+            }
         }
     ]
 }
