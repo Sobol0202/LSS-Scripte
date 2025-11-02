@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS AAO Alarmiert immer
 // @namespace    https://www.leitstellenspiel.de
-// @version      1.1
+// @version      1.2
 // @description  Dropdown für AAO-Alarmierungs-Automatik
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/missions/*
@@ -22,8 +22,32 @@
     };
 
     const STORAGE_KEY = "auto_zustand";
-
     let aktuellerZustand = GM_getValue(STORAGE_KEY, 0);
+
+    function getIsDarkMode() {
+        const tabs = document.querySelector("ul#aao-tabs.nav-tabs");
+        if (!tabs) return false;
+        const style = window.getComputedStyle(tabs);
+        const borderColor = style.borderColor.trim().toLowerCase();
+        return (
+            borderColor === "#000" ||
+            borderColor === "rgb(0, 0, 0)" ||
+            borderColor === "rgba(0, 0, 0, 1)"
+        );
+    }
+
+    function applyDropdownStyle(dropdown) {
+        const dark = getIsDarkMode();
+        if (dark) {
+            dropdown.style.backgroundColor = "#2c2f33";
+            dropdown.style.color = "#f0f0f0";
+            dropdown.style.border = "1px solid #444";
+        } else {
+            dropdown.style.backgroundColor = "white";
+            dropdown.style.color = "black";
+            dropdown.style.border = "1px solid #ccc";
+        }
+    }
 
     function createDropdown() {
         const dropdown = document.createElement("select");
@@ -50,27 +74,17 @@
             dropdown.title = ZUSTAENDE[aktuellerZustand].label;
         });
 
-        // Initialer Tooltip
+        // Initialer Tooltip & Stil
         dropdown.title = ZUSTAENDE[aktuellerZustand].label;
+        applyDropdownStyle(dropdown);
+
+        // Bei Theme-Änderungen oder Farbwechsel neu prüfen
+        const observer = new MutationObserver(() => applyDropdownStyle(dropdown));
+        const tabs = document.querySelector("ul#aao-tabs.nav-tabs");
+        if (tabs) observer.observe(tabs, { attributes: true, attributeFilter: ["style", "class"] });
 
         return dropdown;
     }
-    // Dark/Light Mode CSS automatisch anpassen
-        GM_addStyle(`
-            #autoZustandDropdown {
-                background-color: white;
-                color: black;
-                border: 1px solid #ccc;
-            }
-
-            @media (prefers-color-scheme: dark) {
-                #autoZustandDropdown {
-                    background-color: #2c2f33;
-                    color: #f0f0f0;
-                    border: 1px solid #444;
-                }
-            }
-        `);
 
     function appendDropdownToTabs() {
         const tabs = document.getElementById("aao-tabs");
@@ -85,27 +99,12 @@
     }
 
     function handleGlobalClick(e) {
-
-        // Versuche, den übergeordneten AAO-Link zu finden
         const aaoButton = e.target.closest("a.aao_btn");
+        if (!aaoButton || !aaoButton.id?.startsWith("aao_")) return;
+        if (aktuellerZustand === 0) return;
 
-        if (!aaoButton) {
-            return;
-        }
-
-        if (!aaoButton.id || !aaoButton.id.startsWith("aao_")) {
-            return;
-        }
-
-
-        if (aktuellerZustand === 0) {
-            return;
-        }
-
-        // 100ms Verzögerung, dann Aktion abhängig vom Zustand
         setTimeout(() => {
             let button = null;
-
             switch (aktuellerZustand) {
                 case 1:
                     button = document.getElementById("mission_alarm_btn");
@@ -117,19 +116,14 @@
                     button = document.querySelector("a.alert_next_alliance");
                     break;
             }
-
-            if (button) {
-                button.click();
-            } else {
-                console.warn("[Automatik-Modus] Kein entsprechender Button gefunden.");
-            }
+            if (button) button.click();
+            else console.warn("[Automatik-Modus] Kein entsprechender Button gefunden.");
         }, 100);
     }
 
     function init() {
         appendDropdownToTabs();
         document.addEventListener('click', handleGlobalClick, true);
-
     }
 
     if (document.readyState === "loading") {
@@ -137,5 +131,4 @@
     } else {
         init();
     }
-
 })();
