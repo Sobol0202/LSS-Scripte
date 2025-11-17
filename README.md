@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 194 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 195 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -137,6 +137,7 @@ Sollten die Skripte nicht funktionieren:
 - Gleiche Grafik für alle Fahrzeuge ausblenden
 - Globale Steuerung für Einsatzbereiche
 - Grafikset-Edittabelle ID und Filter
+- Grafikset HirOrg-Filter
 - Grafiksetleitstellenmenü alphabetisch sortieren
 - Green-Marker Transparency
 - Größere Profilkarte
