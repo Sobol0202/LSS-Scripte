@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 193 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 194 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -119,6 +119,7 @@ Sollten die Skripte nicht funktionieren:
 - Fahrzeugstatus Umschalter Leitstellenweise
 - Fahrzeugtabellen im Einsatz immer Sortieren
 - Fahrzeugverschiebung Sortieren und Filtern
+- FMS Abhängiger Locationklick
 - Forum Auto Captcha
 - Forum Forumbeschreibung ausblenden
 - Forum Rettungsdienst-Mitarbeiterlerle
