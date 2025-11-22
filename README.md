@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 195 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 196 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -49,6 +49,7 @@ Sollten die Skripte nicht funktionieren:
 - AAO Master-Slave
 - AAO Symbol Replacer
 - AAO-Editor Alphabetisch Sortieren
+- Abgelaufene Chatnachrichten ausblenden
 - Alle Fahrzeuggrafike APNG setzen
 - Alle POIs löschen
 - Alle_Gebäude_einer_Leitstelle_einer_anderen_zuweisen
