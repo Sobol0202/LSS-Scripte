@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 197 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 198 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -224,6 +224,7 @@ Sollten die Skripte nicht funktionieren:
 - Verbandsgebäude Unterfilter
 - Verbandskasse Namen zensieren
 - VerbandsKH export
+- Verbandrang im Profil anzeigen
 - Verfallsmelder
 - Wachenöffner Schulen
 - Wertvolle Einsätze melden
