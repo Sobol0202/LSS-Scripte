@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 198 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 199 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -207,6 +207,7 @@ Sollten die Skripte nicht funktionieren:
 - Sitze pro Auto im Lehrgang
 - Snake
 - SpielerID im Profil
+- Sprechwunsch-Überwachung
 - Standortanzeiger
 - Status 0
 - Streifenrouten Exportieren/Importieren
