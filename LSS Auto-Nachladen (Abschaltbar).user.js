@@ -2,7 +2,7 @@
 // @name         LSS Auto-Nachladen (Abschaltbar)
 // @namespace    www.leitstellenspiel.de
 // @version      1.3
-// @description  Lädt Fahrzeuge nach, wenn über eine nicht verfügbare AAO gefahren wird (GM-gespeichert).
+// @description  Lädt Fahrzeuge nach, wenn über eine nicht verfügbare AAO gefahren wird.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/missions/*
 // @grant        GM_getValue
@@ -28,20 +28,19 @@
 
         const updateButtonText = () => {
             toggleBtn.textContent = autoReloadActive
-                ? '⏸️ Auto aus'
-                : '▶️ Auto an';
+                ? '⏸️ Auto AUS'
+                : '▶️ Auto AN';
         };
 
         updateButtonText();
 
         toggleBtn.addEventListener('click', (e) => {
-            e.stopPropagation(); // verhindert unerwünschte Nebeneffekte
+            e.stopPropagation();
             autoReloadActive = !autoReloadActive;
             GM_setValue(GM_KEY, autoReloadActive);
             updateButtonText();
         });
 
-        // Button INS h3 einfügen (am Ende, gleiche Zeile)
         missionH1.appendChild(toggleBtn);
     }
 
