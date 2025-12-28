@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 199 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 200 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -64,6 +64,7 @@ Sollten die Skripte nicht funktionieren:
 - Auto kaputt
 - Auto Kaputt alphabuild
 - Auto-Nachladen
+- Auto-Nachladen (Abschaltbar)
 - Begrüßung
 - Bereitstellung zu Zug
 - Bereitstellungsraum verbessern
