@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         LSS Feuerwerk
-// @version      1.1
+// @version      1.2
 // @author       Sobol
 // @description  Feuerwerk ist teuer und schlecht für die Umwelt, darum Digital
-// @match        https://www.leitstellenspiel.de/*
+// @match        https://www.leitstellenspiel.de/
 // @grant        none
 // ==/UserScript==
 
