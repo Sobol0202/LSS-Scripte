@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Notizen+
 // @namespace    https://www.leitstellenspiel.de/
-// @version      1.0
+// @version      1.1
 // @author       Sobol
 // @description  Verbessert die Notizen um einige Funktionen. Darunter Tabellen, Schriftarten, Wachennotizen und noch einiges mehr
 // @match        https://www.leitstellenspiel.de/note
@@ -559,7 +559,7 @@
           ${
             showBuildingSelect
               ? `
-            <div class="lssnp-building-wrap" title="Wache auswählen (lädt erst beim Klick die Gebäude über /api/buildings)">
+            <div class="lssnp-building-wrap" title="Wache auswählen (lädt erst beim Klick die Gebäude...)">
               <span class="lssnp-building-label">Wache</span>
               <select class="lssnp-building-select" id="lssnp-building-select">
                 <option value="">🌍 Allgemein</option>
@@ -661,8 +661,7 @@
         </div>
       ` : ``}
 
-        Speicherung erfolgt über den <b>grünen Speichern-Button</b> der Seite (<code>.btn.btn-success</code>) – gilt auch für die Wachenansicht.
-        Auf Gebäudeseiten wird automatisch die zugehörige Notiz geladen.
+        Speicherung erfolgt über den <b>grünen Speichern-Button</b>.
       </div>
     `;
   }
@@ -950,7 +949,7 @@
 
       selectEl.innerHTML = `<option value="">🌍 Allgemein</option>`;
 
-      // Sortierung nach caption
+      // Sortierung nach Namen
       data
         .slice()
         .sort((a, b) => (a?.caption ?? "").localeCompare((b?.caption ?? ""), "de"))
@@ -1023,7 +1022,7 @@
 
       } catch (e) {
         console.error(e);
-        toast("Speichern fehlgeschlagen (IndexedDB).", "error");
+        toast("Speichern fehlgeschlagen.", "error");
       }
     }, true);
 
@@ -1206,7 +1205,7 @@
         // Export / Import
         if (action === "export-json") {
           persistEditorToCtx(root);
-          downloadJson("leitstellenspiel-notizen-plus-backup.json", state);
+          downloadJson("lss-notizen-plus-backup.json", state);
           toast("Export erstellt.", "success");
           return;
         }
@@ -1278,7 +1277,7 @@
           focusEditor(root);
           const r = prompt("Wie viele Zeilen? (z.B. 3)", "3");
           const c = prompt("Wie viele Spalten? (z.B. 3)", "3");
-          const withHeader = confirm("Kopfzeile (Header) hinzufügen?");
+          const withHeader = confirm("Kopfzeile hinzufügen?");
           insertTableAtCursor(Number(r), Number(c), withHeader);
           return;
         }
