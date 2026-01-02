@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         LSS Wichtige Info Verstecken
-// @namespace    https://www.leitstellenspiel.de/
-// @version      1.0
+// @version      1.1
 // @description  Versteckt die Wichtige Info solange der Inhalt gleich bleibt und sie ein mal bestätigt wurde
 // @match           https://www.operacni-stredisko.cz/
 // @match           https://policie.operacni-stredisko.cz/
@@ -41,6 +40,7 @@
 // @match           https://polis.larmcentralen-spelet.se/
 // @match           https://www.112-merkez.com/
 // @match           https://www.dyspetcher101-game.com/
+// @author       Sobol
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
