@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 201 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 202 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -232,6 +232,7 @@ Sollten die Skripte nicht funktionieren:
 - Wachenöffner Schulen
 - Wertvolle Einsätze melden
 - Wichtige Info bearbeiten
+- Wichtige Info verstecken
 - Zeitstempel für Statuswechsel
 - Zellanzahl in Leitstellenstatistik einfügen
 - Zerstören und zur Wache
