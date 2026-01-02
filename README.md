@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 200 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 201 Scripte anzuzeigen.</summary>
 
 - AAO Ausrüstung umschalten
 - AAO abhängige Alarmierung
@@ -177,6 +177,7 @@ Sollten die Skripte nicht funktionieren:
 - Nur VBGSL Anzeigen
 - Nur Zugewiesenes Personal zeigen
 - Noch zu verdienen
+- Notizen+
 - Open First Building
 - Patientenanalyse
 - Patienten-Icon ersetzen
