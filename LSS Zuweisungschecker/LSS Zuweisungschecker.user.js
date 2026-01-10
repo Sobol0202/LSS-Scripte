@@ -1,4 +1,4 @@
-// ==UserScript==
+  // ==UserScript==
 // @name         LSS Zuweisungschecker
 // @version      1.5
 // @description  Fügt ein Menü ein um nicht vollständig zugewiesene Fahrzeuge anzuzeigen
@@ -149,9 +149,7 @@
         167: { name: "SLF", maxPersonel: 2 },
     };
 
-    // Funktion, um ein "Lädt..." Modal zu erstellen
     function createLoadingModal() {
-        // Modal-Element erstellen
         const modal = document.createElement('div');
         modal.id = 'loading-modal';
         modal.style.position = 'fixed';
@@ -167,7 +165,6 @@
         modal.style.borderRadius = '8px';
         modal.style.width = '50%';
 
-        // Schließen-Button erstellen
         const closeButton = document.createElement('button');
         closeButton.textContent = 'Schließen';
         closeButton.style.marginBottom = '10px';
@@ -180,7 +177,6 @@
         closeButton.addEventListener('click', () => modal.remove());
         modal.append(closeButton);
 
-        // Lade-Text erstellen
         const loadingText = document.createElement('p');
         loadingText.id = 'loading-text';
         loadingText.textContent = 'Lädt';
@@ -190,17 +186,15 @@
         loadingText.style.animation = 'fadeInOut 2s infinite';
         modal.append(loadingText);
 
-        // Modal zum Body hinzufügen
         document.body.append(modal);
 
-        // CSS für das "Lädt..." Modal und die Animation
         const style = document.createElement('style');
         style.innerHTML = `
         #loading-modal #loading-text {
             font-size: 20px;
             font-weight: bold;
             color: white;
-            animation: fadeInOut 1s infinite; /* Animation nur für das spezifische Modal */
+            animation: fadeInOut 1s infinite;
         }
 
         @keyframes fadeInOut {
@@ -210,25 +204,21 @@
             75% { opacity: 1; }
             100% { opacity: 0; }
         }
-    `;
+        `;
         document.head.appendChild(style);
 
         let dotCount = 0;
-
-        // Funktion zum Aktualisieren des Lade-Textes mit Punkten
         function updateLoadingText() {
             loadingText.textContent = 'Lädt' + '.'.repeat(dotCount);
-            dotCount = (dotCount % 3) + 1; // Punkte nach 3 wieder zurücksetzen
+            dotCount = (dotCount % 3) + 1;
         }
-
-        setInterval(updateLoadingText, 900); // Alle 900ms die Punkte aktualisieren
+        setInterval(updateLoadingText, 900);
 
         return modal;
     }
 
-    // Funktion, um das Modal nach dem Laden der Daten zu aktualisieren
     function updateModal(modal, vehicleData, buildingData) {
-        modal.innerHTML = ''; // Entferne bisherigen Inhalt
+        modal.innerHTML = '';
 
         const closeButton = document.createElement('button');
         closeButton.textContent = 'Schließen';
@@ -243,7 +233,6 @@
         closeButton.addEventListener('click', () => modal.remove());
         modal.append(closeButton);
 
-        // Dropdown für vehicle_type
         const dropdown = document.createElement('select');
         dropdown.style.padding = '10px';
         dropdown.style.fontSize = '16px';
@@ -255,139 +244,102 @@
         defaultOption.textContent = 'Alle Fahrzeugtypen';
         dropdown.append(defaultOption);
 
-        // Zähle die Fahrzeugtypen, die mindestens einmal vorkommen
         const vehicleTypeCounts = vehicleData.reduce((counts, vehicle) => {
-            if (vehicle.assigned_personnel_count < (vehicleTypeMap[vehicle.vehicle_type]?.maxPersonnel || 0)) {
+            const assignedCount = vehicle.assigned_personnel_count ?? (vehicle.assigned_personnel_ids?.length || 0);
+            if (assignedCount < (vehicleTypeMap[vehicle.vehicle_type]?.maxPersonnel || 0)) {
                 counts[vehicle.vehicle_type] = (counts[vehicle.vehicle_type] || 0) + 1;
             }
             return counts;
         }, {});
 
-        // Alphabetische Sortierung der Fahrzeugtypen
-        const sortedVehicleTypes = Object.entries(vehicleTypeMap)
-            .sort(([, a], [, b]) => a.name.localeCompare(b.name));
-
-        // Füge nur Fahrzeugtypen hinzu, die mindestens einmal vorkommen
         Object.entries(vehicleTypeMap)
             .filter(([key]) => vehicleTypeCounts[key] > 0)
-            .sort(([, a], [, b]) => a.name.localeCompare(b.name)) // Alphabetische Sortierung
+            .sort(([, a], [, b]) => a.name.localeCompare(b.name))
             .forEach(([key, value]) => {
-            const option = document.createElement('option');
-            option.value = key;
-            option.textContent = value.name;
-            dropdown.append(option);
-        });
+                const option = document.createElement('option');
+                option.value = key;
+                option.textContent = value.name;
+                dropdown.append(option);
+            });
 
         modal.append(dropdown);
-        // Tabelle erstellen
+
         const table = document.createElement('table');
         table.style.width = '100%';
         table.style.borderCollapse = 'collapse';
         table.style.marginBottom = '20px';
 
         const headerRow = document.createElement('tr');
-        const vehicleHeader = document.createElement('th');
-        vehicleHeader.textContent = 'Fahrzeug';
-        vehicleHeader.style.backgroundColor = '#34495e';
-        vehicleHeader.style.color = 'white';
-        const buildingHeader = document.createElement('th');
-        buildingHeader.textContent = 'Wache';
-        buildingHeader.style.backgroundColor = '#34495e';
-        buildingHeader.style.color = 'white';
-
-        headerRow.append(vehicleHeader, buildingHeader);
+        ['Fahrzeug', 'Wache'].forEach(text => {
+            const th = document.createElement('th');
+            th.textContent = text;
+            th.style.backgroundColor = '#34495e';
+            th.style.color = 'white';
+            headerRow.append(th);
+        });
         table.append(headerRow);
 
-        vehicleData
-            .filter(vehicle => vehicle.assigned_personnel_count < (vehicleTypeMap[vehicle.vehicle_type]?.maxPersonnel || 0))
-            .forEach(vehicle => {
-                const row = document.createElement('tr');
-                row.style.transition = 'background-color 0.3s ease';
+        vehicleData.forEach(vehicle => {
+            const assignedCount = vehicle.assigned_personnel_count ?? (vehicle.assigned_personnel_ids?.length || 0);
+            if (assignedCount >= (vehicleTypeMap[vehicle.vehicle_type]?.maxPersonnel || 0)) return;
 
-                const vehicleCell = document.createElement('td');
-                const vehicleLink = document.createElement('a');
-                vehicleLink.href = `https://www.leitstellenspiel.de/vehicles/${vehicle.id}/zuweisung`;
+            const row = document.createElement('tr');
+            row.style.transition = 'background-color 0.3s ease';
+            row.dataset.vehicleType = vehicle.vehicle_type;
+
+            const vehicleCell = document.createElement('td');
+            const vehicleLink = document.createElement('a');
+            vehicleLink.href = `https://www.leitstellenspiel.de/vehicles/${vehicle.id}/zuweisung`;
+            vehicleLink.target = '_blank';
             vehicleLink.style.color = 'dimgray';
-                vehicleLink.target = '_blank';
-                vehicleLink.textContent = vehicle.caption;
-                vehicleCell.append(vehicleLink);
+            vehicleLink.textContent = vehicle.caption;
+            vehicleCell.append(vehicleLink);
 
-                const buildingCell = document.createElement('td');
-                const building = buildingData.find(b => b.id === vehicle.building_id);
-                if (building) {
-                    const buildingLink = document.createElement('a');
-                    buildingLink.href = `https://www.leitstellenspiel.de/buildings/${building.id}`;
-                    buildingLink.target = '_blank';
-                    buildingLink.style.color = 'dimgray';
-                    buildingLink.textContent = building.caption;
-                    buildingCell.append(buildingLink);
-                } else {
-                    buildingCell.textContent = 'Wache nicht gefunden';
-                }
+            const buildingCell = document.createElement('td');
+            const building = buildingData.find(b => b.id === vehicle.building_id);
+            if (building) {
+                const buildingLink = document.createElement('a');
+                buildingLink.href = `https://www.leitstellenspiel.de/buildings/${building.id}`;
+                buildingLink.target = '_blank';
+                buildingLink.style.color = 'dimgray';
+                buildingLink.textContent = building.caption;
+                buildingCell.append(buildingLink);
+            } else {
+                buildingCell.textContent = 'Wache nicht gefunden';
+            }
 
-                row.dataset.vehicleType = vehicle.vehicle_type; // Vehicle-Type als Attribut speichern
-                row.append(vehicleCell, buildingCell);
-                table.append(row);
+            row.append(vehicleCell, buildingCell);
 
-                // Hover-Effekt für Zeilen
-                row.addEventListener('mouseover', () => {
-                    row.style.backgroundColor = '#ecf0f1';
-                });
-                row.addEventListener('mouseout', () => {
-                    row.style.backgroundColor = '';
-                });
-            });
+            row.addEventListener('mouseover', () => row.style.backgroundColor = '#ecf0f1');
+            row.addEventListener('mouseout', () => row.style.backgroundColor = '');
+
+            table.append(row);
+        });
 
         modal.append(table);
 
-        // Filterfunktion
         function filterTable(vehicleType) {
             Array.from(table.querySelectorAll('tr')).forEach((row, index) => {
-                if (index === 0) return; // Header nicht filtern
-
-                const rowVehicleType = row.dataset.vehicleType;
-                row.style.display = vehicleType === '' || vehicleType === rowVehicleType ? '' : 'none';
+                if (index === 0) return;
+                row.style.display = vehicleType === '' || row.dataset.vehicleType === vehicleType ? '' : 'none';
             });
         }
     }
 
-    // Paging für die v2-API handhaben
     async function fetchAllVehicles() {
-        let allVehicles = [];
-        let lastId = 0;
-        let hasMore = true;
-        const vehicleSet = new Set();
-
-        while (hasMore) {
-            try {
-                const response = await fetch(`https://www.leitstellenspiel.de/api/v2/vehicles?last_id=${lastId}`, {
-                    headers: { "X-Requested-With": "XMLHttpRequest" },
-                });
-
-                if (!response.ok) break;
-
-                const data = await response.json();
-                if (data.result.length === 0) break;
-
-                data.result.forEach(vehicle => {
-                    if (!vehicleSet.has(vehicle.id)) {
-                        vehicleSet.add(vehicle.id);
-                        allVehicles.push(vehicle);
-                    }
-                });
-
-                const previousLastId = lastId;
-                lastId = data.paging?.last_id;
-                if (lastId === previousLastId) break;
-            } catch {
-                break;
-            }
+        try {
+            const response = await fetch('https://www.leitstellenspiel.de/api/vehicles', {
+                headers: { "X-Requested-With": "XMLHttpRequest" },
+            });
+            if (!response.ok) throw new Error('Fehler beim Abrufen der Fahrzeuge');
+            const data = await response.json();
+            return data;
+        } catch (err) {
+            console.error(err);
+            return [];
         }
-
-        return allVehicles;
     }
 
-    // API-Aufruf
     function fetchData() {
         const modal = createLoadingModal();
 
@@ -398,23 +350,18 @@
                     method: 'GET',
                     url: 'https://www.leitstellenspiel.de/api/buildings',
                     onload: (response) => {
-                        try {
-                            const parsedBuildings = JSON.parse(response.responseText);
-                            resolve(parsedBuildings);
-                        } catch {
-                            resolve([]);
-                        }
+                        try { resolve(JSON.parse(response.responseText)); }
+                        catch { resolve([]); }
                     }
                 });
             })
         ]).then(([vehicleData, buildingData]) => {
-            updateModal(modal, vehicleData, buildingData); // Aktualisiere den Modalinhalt
+            updateModal(modal, vehicleData, buildingData);
         }).catch(() => {
             modal.innerHTML = '<p style="color: white;">Fehler beim Laden der Daten. Bitte versuche es erneut.</p>';
         });
     }
 
-    // Button erstellen und einfügen
     const triggerLi = document.createElement('li');
     const triggerA = document.createElement('a');
     const triggerImg = document.createElement('img');
@@ -422,7 +369,7 @@
     triggerImg.width = 24;
     triggerImg.height = 24;
     triggerA.href = '#';
-    triggerA.append(triggerImg, '\xa0Zuweisungschecker');
+    triggerA.append(triggerImg, '\xa0Zuweisungschecker (Normal)');
     triggerLi.append(triggerA);
 
     triggerLi.addEventListener('click', event => {
@@ -430,7 +377,5 @@
         fetchData();
     });
 
-    document
-        .querySelector('#menu_profile + .dropdown-menu > li.divider')
-        ?.before(triggerLi);
+    document.querySelector('#menu_profile + .dropdown-menu > li.divider')?.before(triggerLi);
 })();
