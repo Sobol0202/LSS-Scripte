@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 221 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 222 Scripte anzuzeigen.</summary>
 
 - AAO abhängige Alarmierung
 - AAO Alarmiert immer
@@ -251,6 +251,7 @@ Sollten die Skripte nicht funktionieren:
 - Wertvolle Einsätze melden
 - Wichtige Info bearbeiten
 - Wichtige Info Verstecken
+- Winterfahrzeuge
 - Zeige alle aufgaben (Code Only)
 - Zeitstempel für Statuswechsel
 - Zellanzahl in Leitstellenstatistik einfügen
