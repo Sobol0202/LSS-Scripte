@@ -38,8 +38,9 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 222 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 223 Scripte anzuzeigen.</summary>
 
+- AAO Massenbearbeitung
 - AAO abhängige Alarmierung
 - AAO Alarmiert immer
 - AAO Ausrüstung umschalten
