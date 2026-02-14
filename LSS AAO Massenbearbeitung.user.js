@@ -295,7 +295,6 @@
           <div id="aao_mm_progress" style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;">
             Bereit.
           </div>
-          <div class="mm-small">(100ms Abstand zwischen Requests)</div>
         </div>
         <div id="aao_mm_log" class="mm-log"></div>
       </div>
