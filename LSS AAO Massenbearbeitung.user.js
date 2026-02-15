@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS AAO Massenbearbeitung
 // @namespace    https://www.leitstellenspiel.de/
-// @version      1.0.2
+// @version      1.0.3
 // @description  Massenbearbeitungsmodus für die AAOs
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/aaos
@@ -13,6 +13,7 @@
   "use strict";
 
   const REQUEST_DELAY_MS = 100;
+  const EDIT_TO_SAVE_DELAY_MS = 300;
 
   // Helper
   const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -61,20 +62,6 @@
     return await res.text();
   }
 
-  async function postForm(url, bodyParams) {
-    const res = await fetch(url, {
-      method: "POST",
-      credentials: "include",
-      headers: {
-        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-      },
-      body: bodyParams.toString(),
-    });
-    await sleep(REQUEST_DELAY_MS);
-    if (!res.ok) throw new Error(`POST fehlgeschlagen: ${res.status} ${res.statusText}`);
-    return await res.text();
-  }
-
   function parseHtmlToDoc(html) {
     return new DOMParser().parseFromString(html, "text/html");
   }
@@ -106,6 +93,65 @@
       }
     }
     return params;
+  }
+
+  function dispatchUserEvents(el) {
+    if (!el) return;
+    el.dispatchEvent(new Event("input", { bubbles: true }));
+    el.dispatchEvent(new Event("change", { bubbles: true }));
+  }
+
+  async function loadInHiddenIframe(url) {
+    const iframe = document.createElement("iframe");
+    iframe.style.width = "1px";
+    iframe.style.height = "1px";
+    iframe.style.position = "fixed";
+    iframe.style.left = "-9999px";
+    iframe.style.top = "-9999px";
+    iframe.style.opacity = "0";
+    iframe.setAttribute("aria-hidden", "true");
+
+    const loaded = new Promise((resolve, reject) => {
+      const onLoad = () => {
+        iframe.removeEventListener("load", onLoad);
+        resolve();
+      };
+      iframe.addEventListener("load", onLoad);
+      iframe.addEventListener(
+        "error",
+        () => reject(new Error("Iframe konnte nicht laden.")),
+        { once: true }
+      );
+    });
+
+    document.body.appendChild(iframe);
+    iframe.src = url;
+    await loaded;
+    await sleep(250);
+
+    return iframe;
+  }
+
+  async function submitIframeFormAndWait(iframe, form) {
+    const navDone = new Promise((resolve) => {
+      const onLoad = () => {
+        iframe.removeEventListener("load", onLoad);
+        resolve();
+      };
+      iframe.addEventListener("load", onLoad);
+    });
+
+    const submitBtn =
+      form.querySelector('button[type="submit"]') ||
+      form.querySelector('input[type="submit"]') ||
+      form.querySelector('button[name="commit"]') ||
+      form.querySelector('input[name="commit"]');
+
+    if (submitBtn) submitBtn.click();
+    else form.submit();
+
+    await navDone;
+    await sleep(250);
   }
 
   // UI Status
@@ -295,6 +341,7 @@
           <div id="aao_mm_progress" style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;">
             Bereit.
           </div>
+          <div class="mm-small">(100ms Abstand zwischen Requests)</div>
         </div>
         <div id="aao_mm_log" class="mm-log"></div>
       </div>
@@ -405,7 +452,7 @@
     if (el) el.textContent = text;
   }
 
-  // Kategorien und Spalten laden
+  // Kategorien und Spalten laden (für UI)
   async function loadMetaFromFirstEdit() {
     const firstGroup = findAllAaoGroups()[0];
     const href = firstGroup ? getEditHrefFromGroup(firstGroup) : null;
@@ -479,56 +526,74 @@
     if (!editHref) throw new Error("Bearbeiten-Link nicht gefunden.");
     const editUrl = absolutizeUrl(editHref);
 
-    setProgress(`[${index}/${total}] Lade Edit-Seite…`);
-    const html = await fetchHtml(editUrl);
-    const doc = parseHtmlToDoc(html);
+    setProgress(`[${index}/${total}] Öffne Edit-Seite (iframe)…`);
+    const iframe = await loadInHiddenIframe(editUrl);
 
-    const form = doc.querySelector("form");
-    if (!form) throw new Error("Formular auf Edit-Seite nicht gefunden.");
+    try {
+      const doc = iframe.contentDocument;
+      const win = iframe.contentWindow;
+      if (!doc || !win) throw new Error("Kein Zugriff auf iframe-Dokument (CSP/Same-Origin?).");
 
-    const captionInput = doc.querySelector("#aao_caption");
-    const catSelect = doc.querySelector("#aao_aao_category_id");
-    const colSelect = doc.querySelector("#aao_column_number");
+      const form = doc.querySelector("form");
+      if (!form) throw new Error("Formular auf Edit-Seite nicht gefunden.");
 
-    const action = getChosenAction();
-    const params = serializeFormLikeRails(form);
-    params.set("commit", "Speichern");
+      const captionInput = doc.querySelector("#aao_caption");
+      const catSelect = doc.querySelector("#aao_aao_category_id");
+      const colSelect = doc.querySelector("#aao_column_number");
 
-    if (action === "prefix") {
-      if (!captionInput) throw new Error("Caption-Input (#aao_caption) nicht gefunden.");
-      const prefix = $("#aao_mm_prefix")?.value || "";
-      const removeOld = $("#aao_mm_prefix_remove_old")?.checked || false;
-      const current = captionInput.getAttribute("value") ?? captionInput.value ?? "";
-      params.set("aao[caption]", applyPrefix(current, prefix, removeOld));
+      const action = getChosenAction();
+
+      if (action === "prefix") {
+        if (!captionInput) throw new Error("Caption-Input (#aao_caption) nicht gefunden.");
+        const prefix = $("#aao_mm_prefix")?.value || "";
+        const removeOld = $("#aao_mm_prefix_remove_old")?.checked || false;
+        const current = captionInput.value ?? "";
+        captionInput.value = applyPrefix(current, prefix, removeOld);
+        dispatchUserEvents(captionInput);
+      }
+
+      if (action === "suffix") {
+        if (!captionInput) throw new Error("Caption-Input (#aao_caption) nicht gefunden.");
+        const suffix = $("#aao_mm_suffix")?.value || "";
+        const removeOld = $("#aao_mm_suffix_remove_old")?.checked || false;
+        const current = captionInput.value ?? "";
+        captionInput.value = applySuffix(current, suffix, removeOld);
+        dispatchUserEvents(captionInput);
+      }
+
+      if (action === "category") {
+        if (!catSelect) throw new Error("Kategorie-Select (#aao_aao_category_id) nicht gefunden.");
+        const newCat = $("#aao_mm_category")?.value;
+        if (!newCat) throw new Error("Keine Ziel-Kategorie ausgewählt.");
+        catSelect.value = newCat;
+        dispatchUserEvents(catSelect);
+      }
+
+      if (action === "column") {
+        if (!colSelect) throw new Error("Spalten-Select (#aao_column_number) nicht gefunden.");
+        const newCol = $("#aao_mm_column")?.value;
+        if (!newCol) throw new Error("Keine Ziel-Spalte ausgewählt.");
+        colSelect.value = newCol;
+        dispatchUserEvents(colSelect);
+      }
+
+      setProgress(`[${index}/${total}] Warte vor dem Speichern…`);
+      await sleep(EDIT_TO_SAVE_DELAY_MS);
+
+      setProgress(`[${index}/${total}] Speichere (echter Submit)…`);
+      await submitIframeFormAndWait(iframe, form);
+
+      // Grobe Fehler-Erkennung nach Submit
+      const afterDoc = iframe.contentDocument;
+      if (afterDoc?.querySelector(".error_explanation, .flash.alert, .alert.alert-danger")) {
+        throw new Error("Server meldet Fehler nach dem Speichern (Edit-Seite enthält Fehlermeldung).");
+      }
+
+      setProgress(`[${index}/${total}] OK`);
+    } finally {
+      iframe.remove();
+      await sleep(REQUEST_DELAY_MS);
     }
-
-    if (action === "suffix") {
-      if (!captionInput) throw new Error("Caption-Input (#aao_caption) nicht gefunden.");
-      const suffix = $("#aao_mm_suffix")?.value || "";
-      const removeOld = $("#aao_mm_suffix_remove_old")?.checked || false;
-      const current = captionInput.getAttribute("value") ?? captionInput.value ?? "";
-      params.set("aao[caption]", applySuffix(current, suffix, removeOld));
-    }
-
-    if (action === "category") {
-      if (!catSelect) throw new Error("Kategorie-Select (#aao_aao_category_id) nicht gefunden.");
-      const newCat = $("#aao_mm_category")?.value;
-      if (!newCat) throw new Error("Keine Ziel-Kategorie ausgewählt.");
-      params.set("aao[aao_category_id]", newCat);
-    }
-
-    if (action === "column") {
-      if (!colSelect) throw new Error("Spalten-Select (#aao_column_number) nicht gefunden.");
-      const newCol = $("#aao_mm_column")?.value;
-      if (!newCol) throw new Error("Keine Ziel-Spalte ausgewählt.");
-      params.set("aao[column_number]", newCol);
-    }
-
-    const postUrl = absolutizeUrl(form.getAttribute("action") || editUrl);
-
-    setProgress(`[${index}/${total}] Speichere…`);
-    await postForm(postUrl, params);
-    setProgress(`[${index}/${total}] OK`);
   }
 
   async function runBulkSave() {
