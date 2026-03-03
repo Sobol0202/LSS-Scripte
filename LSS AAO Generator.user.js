@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS AAO Generator
-// @version      1.10
+// @version      1.11
 // @description  Fügt einen Button ein, um einen neuen AAO Eintrag zu erzeugen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/einsaetze/*
@@ -216,6 +216,10 @@
             "Anhänger Drucklufterzeugung": "aao[thw_dle]", //Anhänger Drucklufterzeugung (Anh DLE)
             "Benötigte MLW 4": "vehicle_type_ids[100]", //MLW 4
             "Benötigte MLW 5": "aao[thw_mlw5]", //Mannschaftslastwagen Typ V (MLW 5)
+            "Benötigte MzGW (FGr BrB)": "vehicle_type_ids[181]", //MzGW (FGr BrB)
+            "Benötigte Mobilkräne": "vehicle_type_ids[182]", //Mobilkran
+            //"Benötigte Mobilkräne": "aao_vehicle_type_ids[[57, 182]]", //Kran von beliebiger Organisation
+            "Benötigte Anh Plattform (FGr BrB)": "vehicle_type_ids[183]", //Anh Plattform (FGr BrB)
             //"Benötigte GW-Taucher": "aao[thw_tauchkraftwagen]", //Tauchkraftwagen
             "Benötigte GW-Taucher": "aao[thw_tauchkraftwagen_or_gw_taucher]", //Tauchkraftwagen oder GW-Taucher
             //"Benötigte Boote": "aao[thw_anh_mzab]", //Anh MzAB
@@ -333,3 +337,4 @@
         fillAAOValues();
     }
 })();
+
