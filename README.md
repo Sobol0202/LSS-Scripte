@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 224 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 225 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -145,6 +145,7 @@ Sollten die Skripte nicht funktionieren:
 - Gebäude Löschen
 - Gebäudeausbauten umschalten
 - Gebäudeeditbutton nach oben
+- Gebäudeliste im Profil
 - Gebäudemaler
 - Geschwindigkeitssteuerung anpassen
 - Gib mir meine Belohnung einfach
