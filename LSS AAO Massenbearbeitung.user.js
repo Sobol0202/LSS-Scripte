@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         LSS AAO Massenbearbeitung
 // @namespace    https://www.leitstellenspiel.de/
-// @version      1.0.3
-// @description  Massenbearbeitungsmodus für die AAOs
+// @version      1.0.4
+// @description  Massenbearbeitungsmodus für die AAOs (Prefix/Suffix/Kategorie/Spalte)
 // @author       Sobol
-// @match        https://www.leitstellenspiel.de/aaos
+// @match        https://www.leitstellenspiel.de/aaos*
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
@@ -13,7 +13,7 @@
   "use strict";
 
   const REQUEST_DELAY_MS = 100;
-  const EDIT_TO_SAVE_DELAY_MS = 300;
+  const EDIT_TO_SAVE_DELAY_MS = 300; // Pause zwischen Änderung und Speichern (auf echter Edit-Seite)
 
   // Helper
   const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -94,65 +94,140 @@
     }
     return params;
   }
-
   function dispatchUserEvents(el) {
     if (!el) return;
     el.dispatchEvent(new Event("input", { bubbles: true }));
     el.dispatchEvent(new Event("change", { bubbles: true }));
   }
 
-  async function loadInHiddenIframe(url) {
-    const iframe = document.createElement("iframe");
-    iframe.style.width = "1px";
-    iframe.style.height = "1px";
-    iframe.style.position = "fixed";
-    iframe.style.left = "-9999px";
-    iframe.style.top = "-9999px";
-    iframe.style.opacity = "0";
-    iframe.setAttribute("aria-hidden", "true");
+async function loadInHiddenIframe(url) {
+  const iframe = document.createElement("iframe");
+  iframe.style.width = "1px";
+  iframe.style.height = "1px";
+  iframe.style.position = "fixed";
+  iframe.style.left = "-9999px";
+  iframe.style.top = "-9999px";
+  iframe.style.opacity = "0";
+  iframe.setAttribute("aria-hidden", "true");
 
-    const loaded = new Promise((resolve, reject) => {
-      const onLoad = () => {
-        iframe.removeEventListener("load", onLoad);
-        resolve();
-      };
-      iframe.addEventListener("load", onLoad);
-      iframe.addEventListener(
-        "error",
-        () => reject(new Error("Iframe konnte nicht laden.")),
-        { once: true }
-      );
-    });
+  const targetUrl = new URL(url, location.origin).toString();
 
-    document.body.appendChild(iframe);
-    iframe.src = url;
-    await loaded;
-    await sleep(250);
+  const loaded = new Promise((resolve, reject) => {
+    const timeout = setTimeout(() => {
+      cleanup();
+      reject(new Error(`Timeout beim Laden des iframes: ${targetUrl}`));
+    }, 15000);
 
-    return iframe;
+    function cleanup() {
+      clearTimeout(timeout);
+      iframe.removeEventListener("load", onLoad);
+      iframe.removeEventListener("error", onError);
+    }
+
+    function onError() {
+      cleanup();
+      reject(new Error("Iframe konnte nicht laden."));
+    }
+
+    function onLoad() {
+      let currentUrl = "";
+      try {
+        currentUrl = iframe.contentWindow?.location?.href || iframe.contentDocument?.URL || "";
+      } catch (e) {
+        cleanup();
+        reject(new Error("Kein Zugriff auf iframe nach load (Same-Origin/CSP?)."));
+        return;
+      }
+
+      console.log("[IFRAME load] currentUrl =", currentUrl, "targetUrl =", targetUrl);
+
+      if (!currentUrl || currentUrl === "about:blank") {
+        return;
+      }
+
+      cleanup();
+      resolve();
+    }
+
+    iframe.addEventListener("load", onLoad);
+    iframe.addEventListener("error", onError, { once: true });
+  });
+
+  iframe.src = targetUrl;
+  document.body.appendChild(iframe);
+
+  await loaded;
+  await sleep(300);
+
+  return iframe;
+}
+async function submitIframeFormAndWait(iframe, form) {
+  const doc = iframe.contentDocument;
+  const win = iframe.contentWindow;
+
+  if (!doc || !win) throw new Error("Kein iframe-Dokument beim Submit.");
+
+  console.log("==== SUBMIT DEBUG START ====");
+  console.log("Form action:", form.getAttribute("action"));
+  console.log("Form method:", form.getAttribute("method"));
+  console.log("Form outerHTML:", form.outerHTML.slice(0, 4000));
+
+  const submitBtn =
+    form.querySelector('button[type="submit"]') ||
+    form.querySelector('input[type="submit"]') ||
+    form.querySelector('button[name="commit"]') ||
+    form.querySelector('input[name="commit"]');
+
+  console.log("Submit-Button gefunden:", !!submitBtn);
+  if (submitBtn) {
+    console.log("Submit-Button HTML:", submitBtn.outerHTML);
   }
 
-  async function submitIframeFormAndWait(iframe, form) {
-    const navDone = new Promise((resolve) => {
-      const onLoad = () => {
-        iframe.removeEventListener("load", onLoad);
-        resolve();
-      };
-      iframe.addEventListener("load", onLoad);
-    });
+  let loadTriggered = false;
+  let beforeUrl = "";
+  let afterUrl = "";
 
-    const submitBtn =
-      form.querySelector('button[type="submit"]') ||
-      form.querySelector('input[type="submit"]') ||
-      form.querySelector('button[name="commit"]') ||
-      form.querySelector('input[name="commit"]');
+  try {
+    beforeUrl = win.location.href;
+  } catch {}
 
-    if (submitBtn) submitBtn.click();
+  const navDone = new Promise((resolve) => {
+    const timeout = setTimeout(() => resolve("timeout"), 5000);
+
+    const onLoad = () => {
+      loadTriggered = true;
+      clearTimeout(timeout);
+      iframe.removeEventListener("load", onLoad);
+      resolve("load");
+    };
+
+    iframe.addEventListener("load", onLoad);
+  });
+
+  if (submitBtn) {
+    submitBtn.click();
+  } else {
+    console.warn("Kein Submit-Button gefunden, fallback auf form.requestSubmit/form.submit");
+    if (typeof form.requestSubmit === "function") form.requestSubmit();
     else form.submit();
-
-    await navDone;
-    await sleep(250);
   }
+
+  const submitResult = await navDone;
+
+  try {
+    afterUrl = win.location.href;
+  } catch {}
+
+  console.log("Submit-Ergebnis:", submitResult);
+  console.log("loadTriggered:", loadTriggered);
+  console.log("URL vorher:", beforeUrl);
+  console.log("URL nachher:", afterUrl);
+  console.log("Titel nachher:", doc.title);
+  console.log("Body Anfang nachher:", (doc.body?.innerHTML || "").slice(0, 3000));
+  console.log("==== SUBMIT DEBUG END ====");
+
+  await sleep(500);
+}
 
   // UI Status
   let massModeEnabled = false;
@@ -452,7 +527,7 @@
     if (el) el.textContent = text;
   }
 
-  // Kategorien und Spalten laden (für UI)
+  // Kategorien und Spalten laden (für UI) – weiterhin via fetch/DOMParser ok
   async function loadMetaFromFirstEdit() {
     const firstGroup = findAllAaoGroups()[0];
     const href = firstGroup ? getEditHrefFromGroup(firstGroup) : null;
@@ -520,81 +595,107 @@
     return r ? r.value : "prefix";
   }
 
-  // Hauptfunktion
-  async function processOneGroup(groupEl, index, total) {
-    const editHref = getEditHrefFromGroup(groupEl);
-    if (!editHref) throw new Error("Bearbeiten-Link nicht gefunden.");
-    const editUrl = absolutizeUrl(editHref);
+  // Hauptfunktion – NEU: echte Edit-Seite im iframe, Feld ändern + Events + echter Submit
+async function processOneGroup(groupEl, index, total) {
+  const editHref = getEditHrefFromGroup(groupEl);
+  if (!editHref) throw new Error("Bearbeiten-Link nicht gefunden.");
+  const editUrl = absolutizeUrl(editHref);
 
-    setProgress(`[${index}/${total}] Öffne Edit-Seite (iframe)…`);
-    const iframe = await loadInHiddenIframe(editUrl);
+  setProgress(`[${index}/${total}] Öffne Edit-Seite (iframe)…`);
+  const iframe = await loadInHiddenIframe(editUrl);
 
-    try {
-      const doc = iframe.contentDocument;
-      const win = iframe.contentWindow;
-      if (!doc || !win) throw new Error("Kein Zugriff auf iframe-Dokument (CSP/Same-Origin?).");
+  try {
+    const doc = iframe.contentDocument;
+    const win = iframe.contentWindow;
+    if (!doc || !win) throw new Error("Kein Zugriff auf iframe-Dokument (CSP/Same-Origin?).");
 
-      const form = doc.querySelector("form");
-      if (!form) throw new Error("Formular auf Edit-Seite nicht gefunden.");
+    logLine(`[DEBUG] URL: ${doc.URL}`);
+    logLine(`[DEBUG] Titel: ${doc.title || "(leer)"}`);
+    logLine(`[DEBUG] Formulare: ${doc.querySelectorAll("form").length}`);
+    logLine(`[DEBUG] #aao_caption: ${doc.querySelector("#aao_caption") ? "ja" : "nein"}`);
+    logLine(`[DEBUG] #aao_aao_category_id: ${doc.querySelector("#aao_aao_category_id") ? "ja" : "nein"}`);
+    logLine(`[DEBUG] #aao_column_number: ${doc.querySelector("#aao_column_number") ? "ja" : "nein"}`);
 
-      const captionInput = doc.querySelector("#aao_caption");
-      const catSelect = doc.querySelector("#aao_aao_category_id");
-      const colSelect = doc.querySelector("#aao_column_number");
+    let form =
+      doc.querySelector('form[action*="/aaos/"]') ||
+      doc.querySelector("form");
 
-      const action = getChosenAction();
-
-      if (action === "prefix") {
-        if (!captionInput) throw new Error("Caption-Input (#aao_caption) nicht gefunden.");
-        const prefix = $("#aao_mm_prefix")?.value || "";
-        const removeOld = $("#aao_mm_prefix_remove_old")?.checked || false;
-        const current = captionInput.value ?? "";
-        captionInput.value = applyPrefix(current, prefix, removeOld);
-        dispatchUserEvents(captionInput);
-      }
-
-      if (action === "suffix") {
-        if (!captionInput) throw new Error("Caption-Input (#aao_caption) nicht gefunden.");
-        const suffix = $("#aao_mm_suffix")?.value || "";
-        const removeOld = $("#aao_mm_suffix_remove_old")?.checked || false;
-        const current = captionInput.value ?? "";
-        captionInput.value = applySuffix(current, suffix, removeOld);
-        dispatchUserEvents(captionInput);
-      }
-
-      if (action === "category") {
-        if (!catSelect) throw new Error("Kategorie-Select (#aao_aao_category_id) nicht gefunden.");
-        const newCat = $("#aao_mm_category")?.value;
-        if (!newCat) throw new Error("Keine Ziel-Kategorie ausgewählt.");
-        catSelect.value = newCat;
-        dispatchUserEvents(catSelect);
-      }
-
-      if (action === "column") {
-        if (!colSelect) throw new Error("Spalten-Select (#aao_column_number) nicht gefunden.");
-        const newCol = $("#aao_mm_column")?.value;
-        if (!newCol) throw new Error("Keine Ziel-Spalte ausgewählt.");
-        colSelect.value = newCol;
-        dispatchUserEvents(colSelect);
-      }
-
-      setProgress(`[${index}/${total}] Warte vor dem Speichern…`);
-      await sleep(EDIT_TO_SAVE_DELAY_MS);
-
-      setProgress(`[${index}/${total}] Speichere (echter Submit)…`);
-      await submitIframeFormAndWait(iframe, form);
-
-      // Grobe Fehler-Erkennung nach Submit
-      const afterDoc = iframe.contentDocument;
-      if (afterDoc?.querySelector(".error_explanation, .flash.alert, .alert.alert-danger")) {
-        throw new Error("Server meldet Fehler nach dem Speichern (Edit-Seite enthält Fehlermeldung).");
-      }
-
-      setProgress(`[${index}/${total}] OK`);
-    } finally {
-      iframe.remove();
-      await sleep(REQUEST_DELAY_MS);
+    if (!form) {
+      logLine(`[DEBUG] Formular nicht gefunden.`);
+      throw new Error(
+        `Formular auf Edit-Seite nicht gefunden. URL=${doc.URL}, Titel="${doc.title}"`
+      );
     }
+
+    logLine(`[DEBUG] Form action: ${form.getAttribute("action") || "(leer)"}`);
+    logLine(`[DEBUG] Form method: ${form.getAttribute("method") || "(leer)"}`);
+
+    const captionInput = doc.querySelector("#aao_caption");
+    const catSelect = doc.querySelector("#aao_aao_category_id");
+    const colSelect = doc.querySelector("#aao_column_number");
+
+    const action = getChosenAction();
+
+    if (action === "prefix") {
+      if (!captionInput) throw new Error("Caption-Input (#aao_caption) nicht gefunden.");
+      const prefix = $("#aao_mm_prefix")?.value || "";
+      const removeOld = $("#aao_mm_prefix_remove_old")?.checked || false;
+      const current = captionInput.value ?? "";
+      captionInput.value = applyPrefix(current, prefix, removeOld);
+      dispatchUserEvents(captionInput);
+      logLine(`[DEBUG] Neuer Caption-Wert: ${captionInput.value}`);
+    }
+
+    if (action === "suffix") {
+      if (!captionInput) throw new Error("Caption-Input (#aao_caption) nicht gefunden.");
+      const suffix = $("#aao_mm_suffix")?.value || "";
+      const removeOld = $("#aao_mm_suffix_remove_old")?.checked || false;
+      const current = captionInput.value ?? "";
+      captionInput.value = applySuffix(current, suffix, removeOld);
+      dispatchUserEvents(captionInput);
+      logLine(`[DEBUG] Neuer Caption-Wert: ${captionInput.value}`);
+    }
+
+    if (action === "category") {
+      if (!catSelect) throw new Error("Kategorie-Select (#aao_aao_category_id) nicht gefunden.");
+      const newCat = $("#aao_mm_category")?.value;
+      if (!newCat) throw new Error("Keine Ziel-Kategorie ausgewählt.");
+      catSelect.value = newCat;
+      dispatchUserEvents(catSelect);
+      logLine(`[DEBUG] Neue Kategorie: ${catSelect.value}`);
+    }
+
+    if (action === "column") {
+      if (!colSelect) throw new Error("Spalten-Select (#aao_column_number) nicht gefunden.");
+      const newCol = $("#aao_mm_column")?.value;
+      if (!newCol) throw new Error("Keine Ziel-Spalte ausgewählt.");
+      colSelect.value = newCol;
+      dispatchUserEvents(colSelect);
+      logLine(`[DEBUG] Neue Spalte: ${colSelect.value}`);
+    }
+
+    setProgress(`[${index}/${total}] Warte vor dem Speichern…`);
+    await sleep(EDIT_TO_SAVE_DELAY_MS);
+
+    setProgress(`[${index}/${total}] Speichere (echter Submit)…`);
+    await submitIframeFormAndWait(iframe, form);
+
+    const afterDoc = iframe.contentDocument;
+    const afterCaption = afterDoc?.querySelector("#aao_caption")?.value ?? null;
+
+    logLine(`[DEBUG] Caption nach Submit: ${afterCaption}`);
+
+    const errEl = afterDoc?.querySelector(".error_explanation, .flash.alert, .alert.alert-danger");
+    if (errEl) {
+      throw new Error(`Server meldet Fehler nach dem Speichern: ${errEl.textContent.trim()}`);
+    }
+
+    setProgress(`[${index}/${total}] OK`);
+  } finally {
+    iframe.remove();
+    await sleep(REQUEST_DELAY_MS);
   }
+}
 
   async function runBulkSave() {
     if (state.isRunning) return;
