@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS AAO Generator
-// @version      1.11
+// @version      1.12
 // @description  Fügt einen Button ein, um einen neuen AAO Eintrag zu erzeugen
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/einsaetze/*
@@ -252,9 +252,9 @@
             //"Benötigte Betreuungs- und Verpflegungsausstattung": "vehicle_type_ids[130]", //GW-Bt
             //"Benötigte Betreuungs- und Verpflegungsausstattung": "vehicle_type_ids[133]", //Bt LKW
             //"Benötigte Betreuungs- und Verpflegungsausstattung": "vehicle_type_ids[132]", //FKH
-            "Benötigte GW TeSi": "vehicle_type_ids[171]", //GW TeSi
-            //"Benötigte GW TeSi": "vehicle_type_ids[172]", //LKW Technik (Notstrom)
-            "Benötigte MTW TeSi": "vehicle_type_ids[173]", //MTW TeSi
+            "Benötigte GW-TeSi": "vehicle_type_ids[171]", //GW TeSi
+            //"Benötigte GW-TeSi": "vehicle_type_ids[172]", //LKW Technik (Notstrom)
+            "Benötigte MTW-TeSi": "vehicle_type_ids[173]", //MTW TeSi
             "Benötigte Anh TeSi": "vehicle_type_ids[174]", //MTW TeSi
             //"Benötigte NEA50": "vehicle_type_ids[175]", //NEA50 TeSi
             //"Benötigte NEA50": "aao[energy_supply]", //NEA50 beliebige HiOrg
@@ -306,19 +306,19 @@
         // console.log(`[AAO Generator] Maximale Patientenanzahl: ${patienten}`);
 
         if (patienten > 9) {
-            const orgl = document.querySelector("input[name='aao[orgl]']");
+            const orgl = document.querySelector("input[name='aao[kdow_orgl]']");
             if (orgl) {
                 setNativeInputValue(orgl, 1);
                 //console.log("[AAO Generator] OrgL gesetzt (1)");
             }
 
-            const lna = document.querySelector("input[name='aao[lna]']");
+            const lna = document.querySelector("input[name='aao[kdow_lna]']");
             if (lna) {
                 setNativeInputValue(lna, 1);
                 //console.log("[AAO Generator] LNA gesetzt (1)");
             }
         } else if (patienten > 4) {
-            const lnaOnly = document.querySelector("input[name='aao[lna]']");
+            const lnaOnly = document.querySelector("input[name='aao[kdow_lna]']");
             if (lnaOnly) {
                 setNativeInputValue(lnaOnly, 1);
                 //console.log("[AAO Generator] LNA gesetzt (1)");
