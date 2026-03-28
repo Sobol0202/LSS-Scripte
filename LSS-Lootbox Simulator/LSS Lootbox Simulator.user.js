@@ -9,7 +9,7 @@
 // @grant        GM_setValue
 // @grant        GM_addStyle
 // @grant        GM_getResourceURL
-// @resource     icon data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='10' y='18' width='44' height='30' rx='4' fill='%238b5a2b'/%3E%3Crect x='8' y='14' width='48' height='10' rx='4' fill='%23d4af37'/%3E%3Crect x='28' y='14' width='8' height='34' fill='%23f7e27a'/%3E%3C/svg%3E
+// @resource     icon https://github.com/Sobol0202/LSS-Scripte/raw/main/LSS-Lootbox%20Simulator/icons8-beutekiste-64.png
 // ==/UserScript==
 
 (function () {
