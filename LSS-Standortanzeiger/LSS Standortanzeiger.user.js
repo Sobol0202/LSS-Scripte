@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         [LSS] Standortanzeiger
+// @name         Standortanzeiger
 // @namespace    https://github.com/Glaeydar/LSS_Scripts/Standortanzeiger.user.js
 // @version      0.91
 // @description  Zeigt die Standorte von Wachen an
@@ -7,7 +7,6 @@
 // @match        https://www.leitstellenspiel.de/
 // @require      https://github.com/tyrasd/osmtogeojson/raw/gh-pages/osmtogeojson.js
 // @grant        none
-// @icon         https://www.leitstellenspiel.de/favicon.ico
 // ==/UserScript==
 
 (function () {
@@ -100,7 +99,7 @@
         { label: "Flughafen: Piste", value: "aeroway=runway" },
         { label: "Flughafen: Standplatz", value: "aeroway=apron" },
         { label: "Flughafen: Terminal", value: "aeroway=terminal" },
-        { label: "Biogasanlage", value: "man_made=biogas_plant" },
+        { label: "Biogasanlage", value: "generator:source=biomass" },
         { label: "Bank", value: "amenity=bank" },
         { label: "Kirche", value: "amenity=place_of_worship" },
         { label: "Chemiepark", value: "landuse=industrial" },
@@ -121,6 +120,13 @@
         { label: "Hüttenwerk", value: "industrial=metal" },
         { label: "Kraftwerk", value: "power=plant" },
         { label: "Werksgelände", value: "landuse=industrial" },
+        { label: "Brücke", value: "man_made=bridge" },
+        { label: "Eisenbahntunnel", value: "railway=subway" },
+        { label: "Kohlekraftwerk", value: "plant:source=coal" },
+        { label: "Seilbahn", value: "aerialway=cable_car" },
+        { label: "U-Bahn Station", value: "station=subway" },
+        { label: "Zoo", value: "tourism=zoo" },
+
 
     ];
 
@@ -211,7 +217,7 @@
                         pointToLayer: function (feature, latlng) {
                             var icon = L.icon({
                                 iconUrl: 'https://www.svgrepo.com/show/302636/map-marker.svg',
-                                iconSize: [25, 25], // Größe des Icons in Pixeln
+                                iconSize: [50, 50], // Größe des Icons in Pixeln
                                 iconAnchor: [25, 50], // Ankerpunkt des Icons, hier mitte unten
                                 popupAnchor: [0, -25] // Popup-Ankerpunkt: Verschiebt das Popup relativ zum Ankerpunkt des Icons
                             });
