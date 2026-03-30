@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Standortanzeiger
+// @name         [LSS] Standortanzeiger
 // @namespace    https://github.com/Glaeydar/LSS_Scripts/Standortanzeiger.user.js
 // @version      0.91
 // @description  Zeigt die Standorte von Wachen an
@@ -7,6 +7,7 @@
 // @match        https://www.leitstellenspiel.de/
 // @require      https://github.com/tyrasd/osmtogeojson/raw/gh-pages/osmtogeojson.js
 // @grant        none
+// @icon         https://www.leitstellenspiel.de/favicon.ico
 // ==/UserScript==
 
 (function () {
@@ -210,7 +211,7 @@
                         pointToLayer: function (feature, latlng) {
                             var icon = L.icon({
                                 iconUrl: 'https://www.svgrepo.com/show/302636/map-marker.svg',
-                                iconSize: [50, 50], // Größe des Icons in Pixeln
+                                iconSize: [25, 25], // Größe des Icons in Pixeln
                                 iconAnchor: [25, 50], // Ankerpunkt des Icons, hier mitte unten
                                 popupAnchor: [0, -25] // Popup-Ankerpunkt: Verschiebt das Popup relativ zum Ankerpunkt des Icons
                             });
