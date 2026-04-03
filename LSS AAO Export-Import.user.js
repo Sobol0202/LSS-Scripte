@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS AAO Export/Import
-// @version      1.0
+// @version      1.1
 // @description  Ermöglicht ein echtes Exportieren und Importieren von AAOs
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/aaos
