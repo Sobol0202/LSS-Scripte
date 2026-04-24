@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 225 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 226 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -77,6 +77,7 @@ Sollten die Skripte nicht funktionieren:
 - BR-Timer Umrechner
 - Building Edit Button
 - Building-Navigation
+- Buttonmaster
 - Calculate Longest Mission Chain (Code Only)
 - Chat Disable
 - Chat to Jotform
