@@ -2,89 +2,80 @@
 // @name         LSS Login-Bonus Sammler
 // @namespace    https://www.leitstellenspiel.de/
 // @version      1.0
-// @description  Fügt einen Haken zum Daily-Login-Button hinzu und sammelt die Belohnung ein.
+// @description  Sammelt den Daily-Login Bonus ein, wenn dieser verfügbar ist.
 // @author       MissSobol
 // @match        https://www.leitstellenspiel.de/*
-// @grant        none
+// @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
-(function() {
-    'use strict';
+(function () {
+  'use strict';
 
-    // Authentifizierungstoken (CSRF-Token) abrufen
-    const authToken = document.querySelector('meta[name="csrf-token"]')?.getAttribute('content');
+  const dailyBonus = document.querySelector('#daily-bonus');
 
-    // Liste der URLs, die nacheinander per POST aufgerufen werden sollen
-    const postUrls = [
-        "https://www.leitstellenspiel.de/daily_bonuses/collect?day=1",
-        "https://www.leitstellenspiel.de/daily_bonuses/collect?day=2",
-        "https://www.leitstellenspiel.de/daily_bonuses/collect?day=3",
-        "https://www.leitstellenspiel.de/daily_bonuses/collect?day=4",
-        "https://www.leitstellenspiel.de/daily_bonuses/collect?day=5",
-        "https://www.leitstellenspiel.de/daily_bonuses/collect?day=6",
-        "https://www.leitstellenspiel.de/daily_bonuses/collect?day=7",
-    ];
+  if (!dailyBonus || !dailyBonus.classList.contains('daily_bonus_not_taken')) {
+    return;
+  }
 
-    // Hilfsfunktion für eine Pause
-    const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+  const authToken = document
+    .querySelector('meta[name="csrf-token"]')
+    ?.getAttribute('content');
 
-    // Funktion zum Ausführen der POST-Anfragen mit CSRF-Token und Pausen
-    const executePostRequests = async () => {
-        if (!authToken) {
-            console.error("CSRF-Token konnte nicht abgerufen werden!");
-            return;
+  if (!authToken) {
+    console.warn('CSRF-Token nicht gefunden.');
+    return;
+  }
+
+  GM_xmlhttpRequest({
+    method: 'GET',
+    url: 'https://www.leitstellenspiel.de/daily_bonuses',
+    onload: function (response) {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(response.responseText, 'text/html');
+
+      const collectButton = doc.querySelector(
+        '.collect-possible-block .collect-button'
+      );
+
+      if (!collectButton) {
+        console.warn('Kein abholbarer Daily-Bonus gefunden.');
+        return;
+      }
+
+      const collectUrl = collectButton.getAttribute('url');
+
+      if (!collectUrl) {
+        console.warn('Collect-URL nicht gefunden.');
+        return;
+      }
+
+      const postUrl = new URL(collectUrl, 'https://www.leitstellenspiel.de/');
+
+      const body = new URLSearchParams({
+        utf8: '✓',
+        authenticity_token: authToken
+      }).toString();
+
+      GM_xmlhttpRequest({
+        method: 'POST',
+        url: postUrl.href,
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+          'X-CSRF-Token': authToken,
+          'X-Requested-With': 'XMLHttpRequest'
+        },
+        data: body,
+        onload: function () {
+          console.log('Daily-Bonus wurde abgeholt.');
+          location.reload();
+        },
+        onerror: function (error) {
+          console.error('Fehler beim Abholen des Daily-Bonus:', error);
         }
-
-        for (const url of postUrls) {
-            try {
-                await fetch(url, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'X-CSRF-Token': authToken
-                    }
-                });
-                console.log(`POST erfolgreich zu ${url}`);
-            } catch (error) {
-                console.error(`Fehler bei POST zu ${url}:`, error);
-            }
-            await delay(100); // Pause von 100ms
-        }
-        console.log("Alle URLs wurden erfolgreich aufgerufen.");
-    };
-
-    // Funktion zum Überwachen des Elements
-    const observer = new MutationObserver(() => {
-        const dailyRewardsLi = document.getElementById("daily_rewards_li");
-
-        if (dailyRewardsLi && dailyRewardsLi.classList.contains("daily_bonus_not_taken")) {
-            // Prüfen, ob der Haken bereits eingefügt wurde
-            const anchor = dailyRewardsLi.querySelector("a#menu_daily_rewards");
-            if (anchor && !anchor.querySelector(".daily-rewards-checkmark")) {
-                const checkmark = document.createElement("span");
-                checkmark.textContent = "✔";
-                checkmark.style.cursor = "pointer";
-                checkmark.style.color = "green";
-                checkmark.style.marginLeft = "10px";
-                checkmark.title = "Belohnungen einlösen";
-                checkmark.classList.add("daily-rewards-checkmark");
-
-                // Event-Listener für Klick auf den Haken
-                checkmark.addEventListener("click", (event) => {
-                    event.stopPropagation(); // Verhindert, dass der Klick das Dropdown auslöst
-                    executePostRequests();
-                });
-
-                // Haken innerhalb des Ankers hinzufügen
-                anchor.appendChild(checkmark);
-            }
-        }
-    });
-
-    // Observer auf das gesamte Dokument anwenden
-    observer.observe(document.body, {
-        childList: true,
-        subtree: true,
-        attributes: true
-    });
+      });
+    },
+    onerror: function (error) {
+      console.error('Fehler beim Laden der Daily-Bonus-Seite:', error);
+    }
+  });
 })();
