@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 226 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 227 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -130,6 +130,7 @@ Sollten die Skripte nicht funktionieren:
 - Fahrzeuggrafiken sortieren & ausblenden
 - Fahrzeuggrafiken Zurücksetzten (Code Only)
 - Fahrzeuggrafik-ID anzeigen
+- Fahrzeugnavigation vor Bearbeiten
 - Fahrzeugstatus Umschalter
 - Fahrzeugstatus Umschalter Leitstellenweise
 - Fahrzeugstatus Umschalter Wachenweise
