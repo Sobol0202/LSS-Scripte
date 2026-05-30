@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 227 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 228 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -178,6 +178,7 @@ Sollten die Skripte nicht funktionieren:
 - Lehrgangsausblender
 - Lehrgangsstart im Forum
 - Leitstellenansicht Edit+Zuweisungsbuttons+Statusumschalter+Leitstelle Umschalten
+- Leitstellenansicht zu Excel
 - Leitstellenauswahldropdownmenü
 - Leitstellen-Dropdown in der Leitstellengebäudeansicht
 - Leitstellenweise Gebäude Leitstellenzuweisung
