@@ -19,7 +19,8 @@
     const socialMediaHrefs = [
         "https://www.facebook.com/Leitstellenspiel.de",
         "https://www.instagram.com/leitstellenspiel/",
-        "https://www.tiktok.com/@leitstellenspiel.de"
+        "https://www.tiktok.com/@leitstellenspiel.de",
+        "https://www.threads.com/@leitstellenspiel"
     ];
 
     const toGameHref = "https://www.leitstellenspiel.de";
