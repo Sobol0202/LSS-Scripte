@@ -1,14 +1,16 @@
 // ==UserScript==
 // @name         LSS AAO abhängige Alarmierung
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Fügt AAO abhängige Alarmierung ein
 // @author       Sobol
+// @match        https://www.leitstellenspiel.de/aaos
 // @match        https://www.leitstellenspiel.de/aaos/*/edit
 // @match        https://www.leitstellenspiel.de/missions/*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
+// @grant        GM_listValues
 // ==/UserScript==
 
 (function () {
@@ -19,16 +21,136 @@
     const MODE_ALARM_NEXT = 'alarm_next';
     const MODE_ALARM_SHARE_NEXT = 'alarm_share_next';
 
-    const MODES = {
-        [MODE_NONE]: 'Keine Automatik',
-        [MODE_ALARM]: 'Alarm',
-        [MODE_ALARM_NEXT]: 'Alarm und Weiter',
-        [MODE_ALARM_SHARE_NEXT]: 'Alarm, Freigeben und Weiter'
-    };
+    const STORAGE_PREFIX = 'aao_auto_mode_';
+
+    const VALID_MODES = [
+        MODE_ALARM,
+        MODE_ALARM_NEXT,
+        MODE_ALARM_SHARE_NEXT
+    ];
+
     const pathname = window.location.pathname;
 
+    // Import / Export auf AAO-Übersichtsseite
+    if (pathname === '/aaos') {
+        const targetButton = document.querySelector('a.btn.btn-xs.btn-default[href="/aao_categorys"]');
+
+        if (!targetButton) {
+            console.warn('[AAO-Automatik] Ziel-Button nicht gefunden!');
+            return;
+        }
+
+        const exportButton = document.createElement('button');
+        exportButton.type = 'button';
+        exportButton.className = 'btn btn-xs btn-default';
+        exportButton.textContent = 'AAO-Automatik exportieren';
+        exportButton.style.marginRight = '5px';
+
+        const importButton = document.createElement('button');
+        importButton.type = 'button';
+        importButton.className = 'btn btn-xs btn-default';
+        importButton.textContent = 'AAO-Automatik importieren';
+        importButton.style.marginRight = '5px';
+
+        const fileInput = document.createElement('input');
+        fileInput.type = 'file';
+        fileInput.accept = 'application/json,.json';
+        fileInput.style.display = 'none';
+
+        targetButton.parentNode.insertBefore(exportButton, targetButton);
+        targetButton.parentNode.insertBefore(importButton, targetButton);
+        targetButton.parentNode.insertBefore(fileInput, targetButton);
+
+        exportButton.addEventListener('click', () => {
+            const settings = {};
+
+            GM_listValues()
+                .filter(key => key.startsWith(STORAGE_PREFIX))
+                .forEach(key => {
+                    const aaoId = key.replace(STORAGE_PREFIX, '');
+                    const mode = GM_getValue(key, MODE_NONE);
+
+                    if (VALID_MODES.includes(mode)) {
+                        settings[aaoId] = mode;
+                    }
+                });
+
+            const exportData = {
+                script: 'LSS AAO abhängige Alarmierung',
+                version: 1,
+                exportedAt: new Date().toISOString(),
+                settings
+            };
+
+            const blob = new Blob(
+                [JSON.stringify(exportData, null, 2)],
+                { type: 'application/json' }
+            );
+
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+
+            link.href = url;
+            link.download = 'lss-aao-automatik-einstellungen.json';
+            document.body.appendChild(link);
+            link.click();
+            link.remove();
+
+            URL.revokeObjectURL(url);
+        });
+
+        importButton.addEventListener('click', () => {
+            fileInput.value = '';
+            fileInput.click();
+        });
+
+        fileInput.addEventListener('change', () => {
+            const file = fileInput.files[0];
+
+            if (!file) {
+                return;
+            }
+
+            const reader = new FileReader();
+
+            reader.onload = () => {
+                try {
+                    const importedData = JSON.parse(reader.result);
+                    const settings = importedData.settings;
+
+                    if (!settings || typeof settings !== 'object' || Array.isArray(settings)) {
+                        alert('Ungültige Import-Datei: Keine Einstellungen gefunden.');
+                        return;
+                    }
+
+                    let importedCount = 0;
+
+                    Object.entries(settings).forEach(([aaoId, mode]) => {
+                        if (!/^\d+$/.test(aaoId)) {
+                            return;
+                        }
+
+                        if (!VALID_MODES.includes(mode)) {
+                            return;
+                        }
+
+                        GM_setValue(`${STORAGE_PREFIX}${aaoId}`, mode);
+                        importedCount++;
+                    });
+
+                    alert(`${importedCount} AAO-Automatik-Einstellungen wurden importiert.`);
+                } catch (error) {
+                    console.error('[AAO-Automatik] Import fehlgeschlagen:', error);
+                    alert('Import fehlgeschlagen. Die Datei konnte nicht gelesen werden.');
+                }
+            };
+
+            reader.readAsText(file);
+        });
+    }
+
     // Erzeugt das Dropdown auf der Editseite
-    if (pathname.match(/^\/aaos\/\d+\/edit$/)) {
+    else if (pathname.match(/^\/aaos\/\d+\/edit$/)) {
 
         const aaoIdMatch = pathname.match(/^\/aaos\/(\d+)\/edit$/);
         const aaoId = aaoIdMatch ? aaoIdMatch[1] : null;
@@ -64,36 +186,31 @@
 
         const select = document.getElementById('aao_automatik_select');
 
-        // Vorher gespeicherten Wert laden
-        const savedMode = GM_getValue(`aao_auto_mode_${aaoId}`, 'none');
+        const savedMode = GM_getValue(`${STORAGE_PREFIX}${aaoId}`, MODE_NONE);
         select.value = savedMode;
 
-        // Beim Wechsel speichern
         select.addEventListener('change', () => {
             const selected = select.value;
-            if (selected === 'none') {
-                GM_deleteValue(`aao_auto_mode_${aaoId}`);
+
+            if (selected === MODE_NONE) {
+                GM_deleteValue(`${STORAGE_PREFIX}${aaoId}`);
             } else {
-                GM_setValue(`aao_auto_mode_${aaoId}`, selected);
+                GM_setValue(`${STORAGE_PREFIX}${aaoId}`, selected);
             }
         });
     }
 
-    //Einsatzseite
+    // Einsatzseite
     else if (pathname.startsWith('/missions/')) {
 
-        //Hört auf Click auf AAO
         document.addEventListener('click', (e) => {
             const aaoBtn = e.target.closest('a.aao_btn[aao_id]');
             if (!aaoBtn) {
                 return;
             }
 
-            //Liest AAO-ID aus
             const aaoId = aaoBtn.getAttribute('aao_id');
-
-            //Vergleicht AAO ID mit gespeicherten Werten aus dem GM
-            const mode = GM_getValue(`aao_auto_mode_${aaoId}`, MODE_NONE);
+            const mode = GM_getValue(`${STORAGE_PREFIX}${aaoId}`, MODE_NONE);
 
             if (mode === MODE_NONE) {
                 return;
@@ -101,6 +218,7 @@
 
             setTimeout(() => {
                 let selector = '';
+
                 switch (mode) {
                     case MODE_ALARM:
                         selector = '#mission_alarm_btn';
@@ -113,11 +231,9 @@
                         break;
                 }
 
-                //Klickt Button
                 const buttonToClick = document.querySelector(selector);
                 if (buttonToClick) {
                     buttonToClick.click();
-                } else {
                 }
             }, 100);
         }, true);
