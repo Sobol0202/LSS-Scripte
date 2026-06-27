@@ -1,16 +1,14 @@
 // ==UserScript==
 // @name         LSS AAO abhängige Alarmierung
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Fügt AAO abhängige Alarmierung ein
 // @author       Sobol
-// @match        https://www.leitstellenspiel.de/aaos
 // @match        https://www.leitstellenspiel.de/aaos/*/edit
 // @match        https://www.leitstellenspiel.de/missions/*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
-// @grant        GM_listValues
 // ==/UserScript==
 
 (function () {
@@ -21,136 +19,9 @@
     const MODE_ALARM_NEXT = 'alarm_next';
     const MODE_ALARM_SHARE_NEXT = 'alarm_share_next';
 
-    const STORAGE_PREFIX = 'aao_auto_mode_';
-
-    const VALID_MODES = [
-        MODE_ALARM,
-        MODE_ALARM_NEXT,
-        MODE_ALARM_SHARE_NEXT
-    ];
-
     const pathname = window.location.pathname;
 
-    // Import / Export auf AAO-Übersichtsseite
-    if (pathname === '/aaos') {
-        const targetButton = document.querySelector('a.btn.btn-xs.btn-default[href="/aao_categorys"]');
-
-        if (!targetButton) {
-            console.warn('[AAO-Automatik] Ziel-Button nicht gefunden!');
-            return;
-        }
-
-        const exportButton = document.createElement('button');
-        exportButton.type = 'button';
-        exportButton.className = 'btn btn-xs btn-default';
-        exportButton.textContent = 'AAO-Automatik exportieren';
-        exportButton.style.marginRight = '5px';
-
-        const importButton = document.createElement('button');
-        importButton.type = 'button';
-        importButton.className = 'btn btn-xs btn-default';
-        importButton.textContent = 'AAO-Automatik importieren';
-        importButton.style.marginRight = '5px';
-
-        const fileInput = document.createElement('input');
-        fileInput.type = 'file';
-        fileInput.accept = 'application/json,.json';
-        fileInput.style.display = 'none';
-
-        targetButton.parentNode.insertBefore(exportButton, targetButton);
-        targetButton.parentNode.insertBefore(importButton, targetButton);
-        targetButton.parentNode.insertBefore(fileInput, targetButton);
-
-        exportButton.addEventListener('click', () => {
-            const settings = {};
-
-            GM_listValues()
-                .filter(key => key.startsWith(STORAGE_PREFIX))
-                .forEach(key => {
-                    const aaoId = key.replace(STORAGE_PREFIX, '');
-                    const mode = GM_getValue(key, MODE_NONE);
-
-                    if (VALID_MODES.includes(mode)) {
-                        settings[aaoId] = mode;
-                    }
-                });
-
-            const exportData = {
-                script: 'LSS AAO abhängige Alarmierung',
-                version: 1,
-                exportedAt: new Date().toISOString(),
-                settings
-            };
-
-            const blob = new Blob(
-                [JSON.stringify(exportData, null, 2)],
-                { type: 'application/json' }
-            );
-
-            const url = URL.createObjectURL(blob);
-            const link = document.createElement('a');
-
-            link.href = url;
-            link.download = 'lss-aao-automatik-einstellungen.json';
-            document.body.appendChild(link);
-            link.click();
-            link.remove();
-
-            URL.revokeObjectURL(url);
-        });
-
-        importButton.addEventListener('click', () => {
-            fileInput.value = '';
-            fileInput.click();
-        });
-
-        fileInput.addEventListener('change', () => {
-            const file = fileInput.files[0];
-
-            if (!file) {
-                return;
-            }
-
-            const reader = new FileReader();
-
-            reader.onload = () => {
-                try {
-                    const importedData = JSON.parse(reader.result);
-                    const settings = importedData.settings;
-
-                    if (!settings || typeof settings !== 'object' || Array.isArray(settings)) {
-                        alert('Ungültige Import-Datei: Keine Einstellungen gefunden.');
-                        return;
-                    }
-
-                    let importedCount = 0;
-
-                    Object.entries(settings).forEach(([aaoId, mode]) => {
-                        if (!/^\d+$/.test(aaoId)) {
-                            return;
-                        }
-
-                        if (!VALID_MODES.includes(mode)) {
-                            return;
-                        }
-
-                        GM_setValue(`${STORAGE_PREFIX}${aaoId}`, mode);
-                        importedCount++;
-                    });
-
-                    alert(`${importedCount} AAO-Automatik-Einstellungen wurden importiert.`);
-                } catch (error) {
-                    console.error('[AAO-Automatik] Import fehlgeschlagen:', error);
-                    alert('Import fehlgeschlagen. Die Datei konnte nicht gelesen werden.');
-                }
-            };
-
-            reader.readAsText(file);
-        });
-    }
-
-    // Erzeugt das Dropdown auf der Editseite
-    else if (pathname.match(/^\/aaos\/\d+\/edit$/)) {
+    if (pathname.match(/^\/aaos\/\d+\/edit$/)) {
 
         const aaoIdMatch = pathname.match(/^\/aaos\/(\d+)\/edit$/);
         const aaoId = aaoIdMatch ? aaoIdMatch[1] : null;
@@ -182,25 +53,52 @@
             </div>
         `;
 
+        const delayWrapper = document.createElement('div');
+        delayWrapper.className = 'form-group aao_automatik_delay';
+
+        delayWrapper.innerHTML = `
+            <label class="col-sm-3 control-label">Verzögerung</label>
+            <div class="col-sm-9">
+                <input type="number" min="0" step="1" class="form-control" id="aao_automatik_delay" placeholder="0">
+                <p class="help-block">Verzögerung in Sekunden, bevor die automatische Alarmierung ausgelöst wird.</p>
+            </div>
+        `;
+
+        hotkeyGroup.insertAdjacentElement('afterend', delayWrapper);
         hotkeyGroup.insertAdjacentElement('afterend', dropdownWrapper);
 
         const select = document.getElementById('aao_automatik_select');
+        const delayInput = document.getElementById('aao_automatik_delay');
 
-        const savedMode = GM_getValue(`${STORAGE_PREFIX}${aaoId}`, MODE_NONE);
-        select.value = savedMode;
+        select.value = GM_getValue(`aao_auto_mode_${aaoId}`, MODE_NONE);
+        delayInput.value = GM_getValue(`aao_auto_delay_${aaoId}`, 0);
 
         select.addEventListener('change', () => {
             const selected = select.value;
 
             if (selected === MODE_NONE) {
-                GM_deleteValue(`${STORAGE_PREFIX}${aaoId}`);
+                GM_deleteValue(`aao_auto_mode_${aaoId}`);
             } else {
-                GM_setValue(`${STORAGE_PREFIX}${aaoId}`, selected);
+                GM_setValue(`aao_auto_mode_${aaoId}`, selected);
+            }
+        });
+
+        delayInput.addEventListener('change', () => {
+            let delay = parseInt(delayInput.value, 10);
+
+            if (isNaN(delay) || delay < 0) {
+                delay = 0;
+                delayInput.value = 0;
+            }
+
+            if (delay === 0) {
+                GM_deleteValue(`aao_auto_delay_${aaoId}`);
+            } else {
+                GM_setValue(`aao_auto_delay_${aaoId}`, delay);
             }
         });
     }
 
-    // Einsatzseite
     else if (pathname.startsWith('/missions/')) {
 
         document.addEventListener('click', (e) => {
@@ -210,11 +108,14 @@
             }
 
             const aaoId = aaoBtn.getAttribute('aao_id');
-            const mode = GM_getValue(`${STORAGE_PREFIX}${aaoId}`, MODE_NONE);
+            const mode = GM_getValue(`aao_auto_mode_${aaoId}`, MODE_NONE);
 
             if (mode === MODE_NONE) {
                 return;
             }
+
+            const delaySeconds = parseInt(GM_getValue(`aao_auto_delay_${aaoId}`, 0), 10) || 0;
+            const delayMs = delaySeconds * 1000;
 
             setTimeout(() => {
                 let selector = '';
@@ -235,7 +136,8 @@
                 if (buttonToClick) {
                     buttonToClick.click();
                 }
-            }, 100);
+
+            }, delayMs);
         }, true);
     }
 })();
