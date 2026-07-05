@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 228 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 229 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -48,6 +48,7 @@ Sollten die Skripte nicht funktionieren:
 - AAO Export-Import
 - AAO Generator
 - AAO Master-Slave
+- AAO Spalten 7 und 8
 - AAO Symbol Replacer
 - AAO-Editor Alphabetisch Sortieren
 - Abgelaufene Chatnachrichten ausblenden
