@@ -6,7 +6,6 @@
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/missions/*
 // @match        https://www.leitstellenspiel.de/aaos*
-// @icon         https://www.leitstellenspiel.de/favicon.ico
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
