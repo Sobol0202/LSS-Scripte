@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 230 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 231 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -98,6 +98,7 @@ Sollten die Skripte nicht funktionieren:
 - Easter Egg verschieben
 - EasterEggHunter
 - Eigene Fahrzeugklassen entfernen
+- Einsatzabschlussmeldung
 - Einsatzgeschwindigkeitsprüfer
 - Einsatzgrafikersteller
 - Einsatzhelfer Navigator
