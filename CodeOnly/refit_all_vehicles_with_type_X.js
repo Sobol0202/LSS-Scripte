@@ -40,6 +40,19 @@
   const formatNumber = new Intl.NumberFormat('de-DE');
   const formatCredits = (n) => `${formatNumber.format(n)} Credits`;
 
+  function createTemplateCaption() {
+    const now = new Date();
+    const pad2 = (value) => String(value).padStart(2, '0');
+
+    return [
+      pad2(now.getDate()),
+      pad2(now.getMonth() + 1),
+      pad2(now.getFullYear() % 100),
+      pad2(now.getHours()),
+      pad2(now.getMinutes()),
+    ].join('');
+  }
+
   let destroyed = false;
   let stopRequested = false;
   let lastRequestStartedAt = 0;
@@ -91,7 +104,7 @@
     return Number.isFinite(value) ? value : null;
   }
 
-  // UI
+  //UI
   const host = document.createElement('div');
   host.id = 'lss-refit-tool-host';
   document.documentElement.appendChild(host);
@@ -533,12 +546,12 @@
     };
   }
 
-  async function refitVehicle(vehicle, { values, commitValue, token }) {
+  async function refitVehicle(vehicle, { values, commitValue, token, templateCaption }) {
     const formData = new FormData();
     formData.append('utf8', '✓');
     formData.append('authenticity_token', token);
     formData.append('vehicle_fitting_template[id]', '');
-    formData.append('vehicle_fitting_template[template_caption]', '');
+    formData.append('vehicle_fitting_template[template_caption]', templateCaption);
 
     for (const [name, value] of Object.entries(values)) {
       formData.append(name, String(value));
@@ -560,6 +573,7 @@
     }
 
     const responseText = await response.text();
+
 
     if (responseText) {
       const resultDoc = new DOMParser().parseFromString(responseText, 'text/html');
@@ -622,6 +636,7 @@
     await applyValuesToSourcePage(properties, values, refitDoc);
     const { value: commitValue, cost: costPerVehicle } = readRefitButton(refitDoc);
 
+    // Gewünscht: nach Festlegung der Eigenschaften die betroffenen Fahrzeuge nochmals per API bestimmen.
     const latestVehicles = await fetchVehicles();
     const affectedVehicles = latestVehicles.filter((v) => Number(v.vehicle_type) === vehicleType);
 
@@ -649,6 +664,8 @@
       throw new Error('Kein CSRF/authenticity_token gefunden.');
     }
 
+    const templateCaption = createTemplateCaption();
+
     const progress = createProgressView(affectedVehicles.length);
     let done = 0;
     let success = 0;
@@ -659,7 +676,7 @@
 
       progress.log(`#${vehicle.id} ${vehicle.caption || ''} — starte Umrüstung…`);
       try {
-        await refitVehicle(vehicle, { values, commitValue, token });
+        await refitVehicle(vehicle, { values, commitValue, token, templateCaption });
         success++;
         progress.log(`#${vehicle.id} — OK`);
       } catch (error) {
@@ -670,7 +687,6 @@
 
       done++;
       progress.update(done, success, failed);
-
       await sleep(CONFIG.requestDelayMs);
     }
 
