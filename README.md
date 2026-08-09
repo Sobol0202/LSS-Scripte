@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 231 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 232 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -137,6 +137,7 @@ Sollten die Skripte nicht funktionieren:
 - Fahrzeugstatus Umschalter Leitstellenweise
 - Fahrzeugstatus Umschalter Wachenweise
 - Fahrzeugtabellen im Einsatz immer Sortieren
+- Fahrzeugtableau
 - Fahrzeugverschiebung Sortieren und Filtern
 - FMS Abhängiger Locationklick
 - Flugangst
