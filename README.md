@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 232 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 233 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -162,6 +162,7 @@ Sollten die Skripte nicht funktionieren:
 - Grafikset HirOrg-Filter
 - Grafikset-Edittabelle ID und Filter
 - Grafiksetleitstellenmenü alphabetisch sortieren
+- Grafiksuche
 - Green-Marker Transparency
 - Größere Profilkarte
 - Hauptleitstelle Dropdown Alphabetisch sortieren
