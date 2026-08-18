@@ -143,6 +143,7 @@
         // File upload
         const fileInput = document.createElement('input');
         fileInput.type = 'file';
+        fileInput.accept = 'image/*';
         styleInput(fileInput);
         modal.appendChild(fileInput);
 
@@ -159,8 +160,17 @@
         styleButton(btn);
         btn.addEventListener('click', async () => {
             const checked = Array.from(list.querySelectorAll('input[type="checkbox"]:checked'));
-            if (!checked.length || !fileInput.files[0]) {
+            const file = fileInput.files[0];
+            if (!checked.length || !file) {
                 alert("Bitte Gebäude auswählen und Datei hochladen!");
+                return;
+            }
+            if (!file.type.startsWith('image/')) {
+                alert("Nur Bilddateien sind erlaubt!");
+                return;
+            }
+            if (file.size > 5 * 1024 * 1024) {
+                alert("Die Datei darf maximal 5 MB groß sein!");
                 return;
             }
             //console.log(`[Gebäudemaler] ${checked.length} Gebäude werden bearbeitet...`);
