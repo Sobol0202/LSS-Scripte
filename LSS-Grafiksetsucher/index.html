@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LSS Grafiksuche</title>
+  <style>
+    * { box-sizing: border-box; }
+    :root {
+      --bg:#f4f6f8; --surface:#fff; --surface-soft:#f8fafc; --border:#d9dee5;
+      --text:#1f2933; --muted:#66727f; --primary:#2563a6; --primary-hover:#1f548f;
+      --success-bg:#eef8f0; --success-text:#22632d; --error-bg:#fff1f1; --error-text:#9b2525;
+      --shadow:0 8px 30px rgba(0,0,0,.06);
+    }
+    body {
+      margin:0; min-height:100vh; padding:34px 18px 60px;
+      font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      background:var(--bg); color:var(--text);
+    }
+    a { color:var(--primary); }
+    .container { max-width:1000px; margin:0 auto; }
+    .hero { margin-bottom:22px; }
+    h1 { margin:0 0 8px; font-size:clamp(28px,5vw,38px); line-height:1.1; }
+    .subtitle { margin:0; color:var(--muted); font-size:16px; }
+    .card {
+      background:var(--surface); border:1px solid var(--border); border-radius:14px;
+      padding:20px; margin-bottom:18px; box-shadow:var(--shadow);
+    }
+    .card h2 { margin:0 0 14px; font-size:19px; }
+    .database-row { display:flex; flex-wrap:wrap; align-items:center; gap:10px; }
+    input[type="file"] { max-width:100%; }
+    button,.button-link {
+      appearance:none; border:0; border-radius:8px; padding:9px 14px; cursor:pointer;
+      background:var(--primary); color:#fff; font:inherit; font-weight:650; text-decoration:none;
+      display:inline-flex; align-items:center; justify-content:center;
+    }
+    button:hover,.button-link:hover { background:var(--primary-hover); }
+    button:disabled { opacity:.5; cursor:not-allowed; }
+    .secondary { background:#59636f; }
+    .secondary:hover { background:#46505b; }
+    .status {
+      margin-top:12px; padding:10px 12px; border-radius:8px; background:#eef1f4;
+      color:#4a5561; white-space:pre-wrap;
+    }
+    .status.success { background:var(--success-bg); color:var(--success-text); }
+    .status.error { background:var(--error-bg); color:var(--error-text); }
+    .small { color:var(--muted); font-size:13px; line-height:1.5; }
+    .database-help { margin:14px 0 10px; }
+    .github-note {
+      margin-top:14px; padding:13px 14px; border-radius:9px;
+      background:var(--surface-soft); border:1px solid var(--border);
+    }
+    .github-note p { margin:0; }
+    #pasteArea {
+      margin-top:16px; padding:50px 20px; border:2px dashed #aeb7c1; border-radius:12px;
+      text-align:center; cursor:pointer; user-select:none; outline:none;
+      transition:background-color .15s,border-color .15s,transform .15s;
+    }
+    #pasteArea:hover,#pasteArea:focus { border-color:var(--primary); background:#f8fbff; }
+    #pasteArea.dragover { border-color:var(--primary); background:#edf5ff; transform:translateY(-1px); }
+    .paste-title { font-weight:700; font-size:17px; }
+    #previewWrap { display:none; margin-top:18px; }
+    .preview-label { margin-bottom:8px; color:var(--muted); font-size:13px; }
+    #preview {
+      display:block; max-width:100%; max-height:360px; border:1px solid var(--border);
+      border-radius:10px; background:#fff; object-fit:contain;
+    }
+    #results { display:none; }
+    .result-list { display:grid; gap:12px; }
+    .result-item {
+      border:1px solid var(--border); border-radius:12px; padding:15px; background:var(--surface);
+    }
+    .result-item.best { border:2px solid var(--primary); }
+    .result-with-preview { display:grid; grid-template-columns:150px minmax(0,1fr); gap:16px; align-items:start; }
+    .result-preview {
+      width:150px; height:110px; border-radius:9px; border:1px solid var(--border);
+      background:#f7f8fa; object-fit:contain; display:block;
+    }
+    .result-preview-fallback {
+      width:150px; height:110px; border-radius:9px; border:1px solid var(--border);
+      background:#f1f3f5; display:flex; align-items:center; justify-content:center;
+      color:var(--muted); text-align:center; font-size:12px; padding:10px;
+    }
+    .result-head { display:flex; gap:12px; justify-content:space-between; align-items:flex-start; }
+    .result-title { font-weight:750; font-size:16px; word-break:break-word; }
+    .distance {
+      flex:0 0 auto; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+      font-weight:700; background:#eef1f4; border-radius:999px; padding:4px 9px;
+    }
+    .meta { margin-top:8px; color:var(--muted); font-size:13px; line-height:1.5; white-space:pre-line; word-break:break-word; }
+    .links { margin-top:11px; display:flex; gap:8px; flex-wrap:wrap; }
+    .links a {
+      display:inline-block; text-decoration:none; color:#1f5d9c; background:#edf5ff;
+      border-radius:7px; padding:7px 10px; font-size:13px; font-weight:600;
+    }
+    .footer-note { margin-top:24px; text-align:center; color:var(--muted); font-size:12px; }
+    @media (max-width:650px) {
+      body { padding:22px 12px 40px; }
+      .card { padding:16px; }
+      .result-with-preview { grid-template-columns:1fr; }
+      .result-preview,.result-preview-fallback { width:100%; height:180px; }
+      .result-head { flex-direction:column; }
+    }
+  </style>
+</head>
+<body>
+<main class="container">
+  <header class="hero">
+    <h1>LSS Grafiksuche</h1>
+    <p class="subtitle">Finde das passende Grafikset zu einem Fahrzeugbild oder Screenshot.</p>
+  </header>
+
+  <section class="card">
+    <h2>Datenbestand</h2>
+    <div id="databaseStatus" class="status">Datenbank wird geladen …</div>
+    <p class="small database-help">
+      Standardmäßig wird der auf dieser Website bereitgestellte Datenbestand verwendet.
+      Du kannst alternativ eine eigene Collector-JSON laden.
+    </p>
+    <div class="database-row">
+      <input id="databaseFile" type="file" accept=".json,application/json">
+      <button id="loadDefaultButton" type="button" class="secondary">Standard-Datenbank laden</button>
+    </div>
+
+    <div class="github-note">
+      <p><strong>Dein gesuchtes Grafikset ist noch nicht enthalten?</strong></p>
+      <p class="small" style="margin-top:4px;">
+        Der öffentliche Datenbestand ist noch nicht vollständig. Mit dem Collector kannst du dir selbst
+        eine aktuelle JSON-Datenbank erstellen und sie anschließend oben manuell laden.
+      </p>
+      <p style="margin-top:10px;">
+        <a class="button-link" href="https://github.com/Sobol0202/LSS-Scripte/raw/refs/heads/main/LSS-Grafiksetsucher/LSS%20Grafik-Collector.user.js" target="_blank" rel="noopener noreferrer">
+          Collector auf GitHub
+        </a>
+      </p>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Grafik suchen</h2>
+    <input id="upload" type="file" accept="image/*" disabled>
+
+    <div id="pasteArea" tabindex="0">
+      <div class="paste-title">Screenshot mit Strg+V einfügen</div>
+      <div class="small" style="margin-top:6px;">oder Bild hier hineinziehen</div>
+    </div>
+
+    <div id="previewWrap">
+      <div class="preview-label">Suchbild</div>
+      <img id="preview" alt="Vorschau des Suchbildes">
+    </div>
+
+    <div id="searchStatus" class="status">Datenbank wird vorbereitet …</div>
+  </section>
+
+  <section id="results" class="card">
+    <h2>Beste Treffer</h2>
+    <div id="resultList" class="result-list"></div>
+  </section>
+
+  <div class="footer-note">Treffer werden anhand visueller Ähnlichkeit ermittelt.</div>
+</main>
+
+<script>
+"use strict";
+
+const DCT_SIZE = 32;
+const PHASH_SIZE = 16;
+const PHASH_BITS = PHASH_SIZE * PHASH_SIZE;
+const HASH_ALGORITHM = "phash-dct-32-16-median-white-v1";
+const TRANSPARENT_BACKGROUND = "#ffffff";
+const TOP_RESULTS = 10;
+const DEFAULT_DATABASE_URL = "images.json";
+
+let database = [];
+let currentPreviewUrl = null;
+
+const databaseFile = document.getElementById("databaseFile");
+const loadDefaultButton = document.getElementById("loadDefaultButton");
+const databaseStatus = document.getElementById("databaseStatus");
+const upload = document.getElementById("upload");
+const pasteArea = document.getElementById("pasteArea");
+const previewWrap = document.getElementById("previewWrap");
+const preview = document.getElementById("preview");
+const searchStatus = document.getElementById("searchStatus");
+const results = document.getElementById("results");
+const resultList = document.getElementById("resultList");
+
+const cosineTable = Array.from(
+  { length: PHASH_SIZE },
+  (_, u) => Array.from(
+    { length: DCT_SIZE },
+    (_, x) => Math.cos(((2 * x + 1) * u * Math.PI) / (2 * DCT_SIZE))
+  )
+);
+
+function median(values) {
+  const sorted = [...values].sort((a, b) => a - b);
+  const middle = Math.floor(sorted.length / 2);
+  return sorted.length % 2
+    ? sorted[middle]
+    : (sorted[middle - 1] + sorted[middle]) / 2;
+}
+
+function bitsToHex(bits) {
+  let hex = "";
+  for (let i = 0; i < bits.length; i += 4) {
+    hex += parseInt(bits.slice(i, i + 4).padEnd(4, "0"), 2).toString(16);
+  }
+  return hex;
+}
+
+async function blobToGrayscaleMatrix(blob) {
+  let image;
+  let objectUrl = null;
+
+  try {
+    if ("createImageBitmap" in window) {
+      image = await createImageBitmap(blob);
+    } else {
+      objectUrl = URL.createObjectURL(blob);
+      image = await new Promise((resolve, reject) => {
+        const img = new Image();
+        img.onload = () => resolve(img);
+        img.onerror = () => reject(new Error("Bild konnte nicht verarbeitet werden."));
+        img.src = objectUrl;
+      });
+    }
+
+    const canvas = document.createElement("canvas");
+    canvas.width = DCT_SIZE;
+    canvas.height = DCT_SIZE;
+
+    const ctx = canvas.getContext("2d", { willReadFrequently: true });
+    ctx.fillStyle = TRANSPARENT_BACKGROUND;
+    ctx.fillRect(0, 0, DCT_SIZE, DCT_SIZE);
+    ctx.drawImage(image, 0, 0, DCT_SIZE, DCT_SIZE);
+
+    const pixels = ctx.getImageData(0, 0, DCT_SIZE, DCT_SIZE).data;
+    const matrix = Array.from({ length: DCT_SIZE }, () => new Array(DCT_SIZE));
+
+    for (let y = 0; y < DCT_SIZE; y++) {
+      for (let x = 0; x < DCT_SIZE; x++) {
+        const i = (y * DCT_SIZE + x) * 4;
+        const r = pixels[i];
+        const g = pixels[i + 1];
+        const b = pixels[i + 2];
+        matrix[y][x] = 0.299 * r + 0.587 * g + 0.114 * b;
+      }
+    }
+
+    return matrix;
+  } finally {
+    if (image && typeof image.close === "function") image.close();
+    if (objectUrl) URL.revokeObjectURL(objectUrl);
+  }
+}
+
+function calculateLowFrequencyDct(matrix) {
+  const rowTransform = Array.from(
+    { length: DCT_SIZE },
+    () => new Array(PHASH_SIZE).fill(0)
+  );
+
+  for (let y = 0; y < DCT_SIZE; y++) {
+    for (let u = 0; u < PHASH_SIZE; u++) {
+      let sum = 0;
+      for (let x = 0; x < DCT_SIZE; x++) {
+        sum += matrix[y][x] * cosineTable[u][x];
+      }
+      rowTransform[y][u] = sum;
+    }
+  }
+
+  const coefficients = Array.from(
+    { length: PHASH_SIZE },
+    () => new Array(PHASH_SIZE).fill(0)
+  );
+
+  for (let v = 0; v < PHASH_SIZE; v++) {
+    const cv = v === 0 ? 1 / Math.sqrt(2) : 1;
+
+    for (let u = 0; u < PHASH_SIZE; u++) {
+      const cu = u === 0 ? 1 / Math.sqrt(2) : 1;
+      let sum = 0;
+
+      for (let y = 0; y < DCT_SIZE; y++) {
+        sum += rowTransform[y][u] * cosineTable[v][y];
+      }
+
+      coefficients[v][u] = (2 / DCT_SIZE) * cu * cv * sum;
+    }
+  }
+
+  return coefficients;
+}
+
+async function createPHashFromBlob(blob) {
+  const matrix = await blobToGrayscaleMatrix(blob);
+  const dct = calculateLowFrequencyDct(matrix);
+  const thresholdValues = [];
+
+  for (let y = 0; y < PHASH_SIZE; y++) {
+    for (let x = 0; x < PHASH_SIZE; x++) {
+      if (x === 0 && y === 0) continue;
+      thresholdValues.push(dct[y][x]);
+    }
+  }
+
+  const threshold = median(thresholdValues);
+  let bits = "";
+
+  for (let y = 0; y < PHASH_SIZE; y++) {
+    for (let x = 0; x < PHASH_SIZE; x++) {
+      if (x === 0 && y === 0) {
+        bits += "0";
+      } else {
+        bits += dct[y][x] >= threshold ? "1" : "0";
+      }
+    }
+  }
+
+  return bitsToHex(bits);
+}
+
+const BIT_COUNT = [
+  0,1,1,2,
+  1,2,2,3,
+  1,2,2,3,
+  2,3,3,4
+];
+
+function hammingDistanceHex(hashA, hashB) {
+  if (typeof hashA !== "string" || typeof hashB !== "string") return Infinity;
+  if (hashA.length !== hashB.length) return Infinity;
+
+  let distance = 0;
+
+  for (let i = 0; i < hashA.length; i++) {
+    const a = parseInt(hashA[i], 16);
+    const b = parseInt(hashB[i], 16);
+    if (Number.isNaN(a) || Number.isNaN(b)) return Infinity;
+    distance += BIT_COUNT[a ^ b];
+  }
+
+  return distance;
+}
+
+function validateAndLoadDatabase(data, sourceLabel) {
+  let images;
+
+  if (Array.isArray(data)) {
+    images = data;
+  } else if (data && Array.isArray(data.images)) {
+    images = data.images;
+  } else {
+    throw new Error("Die JSON-Datei hat kein gültiges Format.");
+  }
+
+  if (data?.metadata?.hash_algorithm && data.metadata.hash_algorithm !== HASH_ALGORITHM) {
+    throw new Error("Diese Datenbank verwendet einen nicht kompatiblen Hash-Algorithmus.");
+  }
+
+  const usable = images.filter(item =>
+    item &&
+    typeof item.phash === "string" &&
+    item.phash.length === PHASH_BITS / 4
+  );
+
+  if (usable.length === 0) {
+    throw new Error("In dieser JSON wurden keine verwendbaren Grafikdaten gefunden.");
+  }
+
+  database = usable;
+  upload.disabled = false;
+
+  databaseStatus.className = "status success";
+  databaseStatus.textContent =
+    `${sourceLabel}: ${database.length.toLocaleString("de-DE")} Grafiken verfügbar.` +
+    (usable.length !== images.length
+      ? ` ${(images.length - usable.length).toLocaleString("de-DE")} unvollständige Einträge wurden ignoriert.`
+      : "");
+
+  searchStatus.className = "status";
+  searchStatus.textContent = "Bereit. Bild auswählen, Screenshot einfügen oder Bild hineinziehen.";
+}
+
+async function loadDefaultDatabase() {
+  databaseStatus.className = "status";
+  databaseStatus.textContent = "Standard-Datenbank wird geladen …";
+
+  const response = await fetch(DEFAULT_DATABASE_URL, { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`Standard-Datenbank konnte nicht geladen werden (HTTP ${response.status}).`);
+  }
+
+  const data = await response.json();
+  validateAndLoadDatabase(data, "Standard-Datenbank");
+}
+
+async function loadDatabaseFile(file) {
+  const text = await file.text();
+  const data = JSON.parse(text);
+  validateAndLoadDatabase(data, `Eigene Datenbank „${file.name}“`);
+}
+
+databaseFile.addEventListener("change", async () => {
+  const file = databaseFile.files[0];
+  if (!file) return;
+
+  try {
+    databaseStatus.className = "status";
+    databaseStatus.textContent = "Eigene Datenbank wird geladen …";
+    await loadDatabaseFile(file);
+  } catch (error) {
+    console.error(error);
+    databaseStatus.className = "status error";
+    databaseStatus.textContent = "Fehler: " + error.message;
+  }
+});
+
+loadDefaultButton.addEventListener("click", async () => {
+  try {
+    await loadDefaultDatabase();
+  } catch (error) {
+    console.error(error);
+    databaseStatus.className = "status error";
+    databaseStatus.textContent = error.message;
+  }
+});
+
+function similarityPercent(distance) {
+  if (!Number.isFinite(distance)) return 0;
+  return Math.max(0, (1 - distance / PHASH_BITS) * 100);
+}
+
+async function processImageFile(file) {
+  if (database.length === 0) {
+    searchStatus.className = "status error";
+    searchStatus.textContent = "Es ist noch keine Datenbank geladen.";
+    return;
+  }
+
+  if (!file || !file.type.startsWith("image/")) {
+    searchStatus.className = "status error";
+    searchStatus.textContent = "Bitte ein Bild auswählen oder einfügen.";
+    return;
+  }
+
+  searchStatus.className = "status";
+  searchStatus.textContent = "Suche läuft …";
+  resultList.innerHTML = "";
+  results.style.display = "none";
+
+  if (currentPreviewUrl) URL.revokeObjectURL(currentPreviewUrl);
+  currentPreviewUrl = URL.createObjectURL(file);
+  preview.src = currentPreviewUrl;
+  previewWrap.style.display = "block";
+
+  try {
+    const queryHash = await createPHashFromBlob(file);
+
+    const matches = database
+      .map(item => ({ item, distance: hammingDistanceHex(queryHash, item.phash) }))
+      .filter(match => Number.isFinite(match.distance))
+      .sort((a, b) => a.distance - b.distance);
+
+    if (matches.length === 0) {
+      throw new Error("Es wurden keine vergleichbaren Einträge gefunden.");
+    }
+
+    const best = matches[0];
+
+    searchStatus.className = "status success";
+    searchStatus.textContent = `Bester Treffer: ${best.item.filename || "Unbekannte Grafik"} · Distanz ${best.distance}`;
+
+    renderResults(matches.slice(0, TOP_RESULTS));
+  } catch (error) {
+    console.error(error);
+    searchStatus.className = "status error";
+    searchStatus.textContent = "Fehler: " + error.message;
+  }
+}
+
+function createResultPreview(item) {
+  if (!item.graphic_url) {
+    const fallback = document.createElement("div");
+    fallback.className = "result-preview-fallback";
+    fallback.textContent = "Keine Vorschau verfügbar";
+    return fallback;
+  }
+
+  const img = document.createElement("img");
+  img.className = "result-preview";
+  img.alt = item.filename || "Treffergrafik";
+  img.loading = "lazy";
+  img.referrerPolicy = "no-referrer";
+  img.src = item.graphic_url;
+
+  img.addEventListener("error", () => {
+    const fallback = document.createElement("div");
+    fallback.className = "result-preview-fallback";
+    fallback.textContent = "Vorschau konnte nicht geladen werden";
+    img.replaceWith(fallback);
+  });
+
+  return img;
+}
+
+function renderResults(matches) {
+  resultList.innerHTML = "";
+
+  for (let index = 0; index < matches.length; index++) {
+    const { item, distance } = matches[index];
+
+    const entry = document.createElement("article");
+    entry.className = "result-item" + (index === 0 ? " best" : "");
+
+    const content = document.createElement("div");
+
+    if (index < 3) {
+      entry.classList.add("result-with-preview");
+      entry.appendChild(createResultPreview(item));
+    }
+
+    const head = document.createElement("div");
+    head.className = "result-head";
+
+    const title = document.createElement("div");
+    title.className = "result-title";
+    title.textContent = `${index + 1}. ${item.filename || "Unbekannte Grafik"}`;
+
+    const distanceBadge = document.createElement("div");
+    distanceBadge.className = "distance";
+    distanceBadge.textContent = `Δ ${distance}`;
+
+    head.appendChild(title);
+    head.appendChild(distanceBadge);
+
+    const meta = document.createElement("div");
+    meta.className = "meta";
+
+    const lines = [];
+    if (item.parent_name) lines.push(`Grafikset: ${item.parent_name}`);
+    if (item.vehicle_name) lines.push(`Fahrzeug: ${item.vehicle_name}`);
+    if (item.image_variant) {
+      lines.push(`Variante: ${item.image_variant === "sonderrechte" ? "Sonderrechte" : "Normal"}`);
+    }
+    lines.push(`Übereinstimmung: ${similarityPercent(distance).toFixed(1)} %`);
+    meta.textContent = lines.join("\n");
+
+    const links = document.createElement("div");
+    links.className = "links";
+
+    if (item.parent_url) {
+      const parentLink = document.createElement("a");
+      parentLink.href = item.parent_url;
+      parentLink.target = "_blank";
+      parentLink.rel = "noopener noreferrer";
+      parentLink.textContent = "Grafikset öffnen";
+      links.appendChild(parentLink);
+    }
+
+    if (item.graphic_url) {
+      const graphicLink = document.createElement("a");
+      graphicLink.href = item.graphic_url;
+      graphicLink.target = "_blank";
+      graphicLink.rel = "noopener noreferrer";
+      graphicLink.textContent = "Grafik öffnen";
+      links.appendChild(graphicLink);
+    }
+
+    content.appendChild(head);
+    content.appendChild(meta);
+    if (links.childNodes.length > 0) content.appendChild(links);
+
+    entry.appendChild(content);
+    resultList.appendChild(entry);
+  }
+
+  results.style.display = "block";
+}
+
+upload.addEventListener("change", async () => {
+  const file = upload.files[0];
+  if (file) await processImageFile(file);
+});
+
+document.addEventListener("paste", async event => {
+  const items = event.clipboardData?.items;
+  if (!items) return;
+
+  for (const item of items) {
+    if (item.type.startsWith("image/")) {
+      const file = item.getAsFile();
+      if (file) {
+        event.preventDefault();
+        await processImageFile(file);
+      }
+      return;
+    }
+  }
+});
+
+pasteArea.addEventListener("dragover", event => {
+  event.preventDefault();
+  pasteArea.classList.add("dragover");
+});
+
+pasteArea.addEventListener("dragleave", () => {
+  pasteArea.classList.remove("dragover");
+});
+
+pasteArea.addEventListener("drop", async event => {
+  event.preventDefault();
+  pasteArea.classList.remove("dragover");
+  const file = event.dataTransfer?.files?.[0];
+  if (file) await processImageFile(file);
+});
+
+pasteArea.addEventListener("click", () => pasteArea.focus());
+
+(async () => {
+  try {
+    await loadDefaultDatabase();
+  } catch (error) {
+    console.error(error);
+    databaseStatus.className = "status error";
+    databaseStatus.textContent =
+      "Die Standard-Datenbank konnte nicht geladen werden. Du kannst stattdessen eine eigene JSON-Datei auswählen.";
+    searchStatus.className = "status";
+    searchStatus.textContent = "Bitte eine eigene Collector-JSON laden.";
+  }
+})();
+</script>
+</body>
+</html>
