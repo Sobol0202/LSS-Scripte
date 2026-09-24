@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name         LSS Massenentlassungen
-// @namespace    www.leitstellenspiel.de
-// @version      1.0
-// @description  Ermöglicht das massenhafte Entlassen von Personal
-// @author       MissSobol
+// @version      1.1
+// @description  Ermöglicht das Massenhafte Entlassen von Personal
+// @author       Sobol
 // @match        https://www.leitstellenspiel.de/buildings/*/personals
 // @grant        none
 // ==/UserScript==
@@ -11,175 +10,264 @@
 (function () {
     'use strict';
 
-    const authToken = document.querySelector('meta[name="csrf-token"]')?.getAttribute('content');
-    const table = document.querySelector('#personal_table');
-    if (!table) return;
+    const FILTER_NO_ASSIGNMENT = 'tm-no-assignment';
+    const FILTER_NO_EDUCATION_ASSIGNMENT = 'tm-no-education-assignment';
 
-    // Hauptinterface
-    const controlPanel = document.createElement('div');
-    controlPanel.style.margin = '1em 0';
-
-    const btnToggleCheckboxes = createButton('Personal auswählen', toggleCheckboxes);
-    controlPanel.appendChild(btnToggleCheckboxes);
-    table.parentElement.insertBefore(controlPanel, table);
-
-    // Zusätzliche Buttons
-    let extraButtonsContainer = null;
-
-    // Toggle-State
-    let checkboxesVisible = false;
-
-    function createButton(label, onClick) {
-        const btn = document.createElement('button');
-        btn.textContent = label;
-        btn.style.marginRight = '0.5em';
-        btn.className = 'btn btn-default btn-xs';
-        btn.addEventListener('click', onClick);
-        return btn;
+    function getPersonnelRows() {
+        return Array.from(
+            document.querySelectorAll('input.personal-delete-checkbox')
+        )
+            .map(input => input.closest('tr'))
+            .filter(Boolean);
     }
 
-    function toggleCheckboxes() {
-        if (!checkboxesVisible) {
-            addCheckboxes();
-            addExtraButtons();
-            checkboxesVisible = true;
-        } else {
-            removeCheckboxes();
-            removeExtraButtons();
-            checkboxesVisible = false;
+    function isCellEmpty(td) {
+        if (!td) {
+            return true;
         }
+
+        return td.textContent.trim() === '';
     }
 
-    function addExtraButtons() {
-        extraButtonsContainer = document.createElement('div');
-        extraButtonsContainer.style.margin = '0.5em 0';
-
-        const btnNoTraining = createButton('Personal ohne Ausbildung auswählen', selectWithoutTraining);
-        const btnNoBinding = createButton('Personal ohne Bindung auswählen', selectWithoutBinding);
-        const btnNoTrainingAndBinding = createButton('Personal ohne Ausbildung und Bindung auswählen', selectWithoutTrainingAndBinding);
-        const btnResetSelection = createButton('Auswahl zurücksetzen', resetCheckboxes);
-        const btnFire = createButton('Ausgewähltes Personal entlassen', fireSelected);
-
-        extraButtonsContainer.append(btnNoTraining, btnNoBinding, btnNoTrainingAndBinding, btnResetSelection, btnFire);
-        controlPanel.appendChild(extraButtonsContainer);
+    function resetCustomRowDisplay() {
+        getPersonnelRows().forEach(row => {
+            row.style.display = '';
+        });
     }
 
-    function removeExtraButtons() {
-        if (extraButtonsContainer) {
-            extraButtonsContainer.remove();
-            extraButtonsContainer = null;
+    function applyCustomFilter(filterValue) {
+        const rows = getPersonnelRows();
+
+        rows.forEach(row => {
+            const cells = row.querySelectorAll('td');
+
+            const educationCell = cells[2];
+            const assignmentCell = cells[3];
+
+            let show = true;
+
+            if (filterValue === FILTER_NO_ASSIGNMENT) {
+
+                show = isCellEmpty(assignmentCell);
+            }
+
+            if (filterValue === FILTER_NO_EDUCATION_ASSIGNMENT) {
+
+                show =
+                    isCellEmpty(educationCell) &&
+                    isCellEmpty(assignmentCell);
+            }
+
+            row.style.display = show ? '' : 'none';
+        });
+    }
+
+    function isRowVisible(row) {
+        if (!row) {
+            return false;
         }
+
+        return (
+            window.getComputedStyle(row).display !== 'none' &&
+            row.getClientRects().length > 0
+        );
     }
 
-    function addCheckboxes() {
-        // Tabellenkopf
-        const theadRow = table.querySelector('thead tr');
-        const th = document.createElement('th');
-        th.textContent = '';
-        th.className = 'tm-th-checkbox';
-        theadRow.insertBefore(th, theadRow.firstChild);
-
-        // Tabellenzeilen
-        const rows = table.querySelectorAll('tbody tr');
-        rows.forEach(row => {
-            const cb = document.createElement('input');
-            cb.type = 'checkbox';
-            cb.className = 'tm-checkbox';
-            const td = document.createElement('td');
-            td.className = 'tm-td-checkbox';
-            td.appendChild(cb);
-            row.insertBefore(td, row.firstChild);
-        });
-    }
-
-    function removeCheckboxes() {
-        // Tabellenkopf
-        const th = table.querySelector('thead tr .tm-th-checkbox');
-        if (th) th.remove();
-
-        // Tabellenzeilen
-        const checkboxes = table.querySelectorAll('tbody tr .tm-td-checkbox');
-        checkboxes.forEach(td => td.remove());
-    }
-
-    function resetCheckboxes() {
-        const checkboxes = document.querySelectorAll('.tm-checkbox');
-        checkboxes.forEach(cb => cb.checked = false);
-    }
-
-    // Dumm
-    function selectWithoutTraining() {
-        const rows = table.querySelectorAll('tbody tr');
-        rows.forEach(row => {
-            const trainingCell = row.children[2];
-            const checkbox = row.querySelector('.tm-checkbox');
-            checkbox.checked = trainingCell && trainingCell.textContent.trim() === '';
-        });
-    }
-
-    // Faul
-    function selectWithoutBinding() {
-        const rows = table.querySelectorAll('tbody tr');
-        rows.forEach(row => {
-            const bindingCell = row.children[3];
-            const checkbox = row.querySelector('.tm-checkbox');
-            checkbox.checked = bindingCell && bindingCell.textContent.trim() === '';
-        });
-    }
-
-    // Faul und Dumm
-    function selectWithoutTrainingAndBinding() {
-        const rows = table.querySelectorAll('tbody tr');
-        rows.forEach(row => {
-            const trainingCell = row.children[2];
-            const bindingCell = row.children[3];
-            const checkbox = row.querySelector('.tm-checkbox');
-            checkbox.checked =
-                trainingCell && trainingCell.textContent.trim() === '' &&
-                bindingCell && bindingCell.textContent.trim() === '';
-        });
-    }
-
-    // Kündigungen versenden
-    function fireSelected() {
-        const selected = Array.from(document.querySelectorAll('.tm-checkbox:checked'));
-        if (selected.length === 0) {
-            alert('Kein Personal ausgewählt!');
+    function setCheckbox(checkbox, checked) {
+        if (!checkbox || checkbox.checked === checked) {
             return;
         }
 
-        if (!confirm(`Sollen wirklich ${selected.length} Mitarbeiter entlassen werden?`)) {
-            return;
-        }
+        checkbox.checked = checked;
 
-        selected.forEach((cb, index) => {
-            const row = cb.closest('tr');
-            const fireLink = row.querySelector('a.btn-danger');
-            if (fireLink) {
-                const url = fireLink.getAttribute('href');
-                setTimeout(() => {
-                    fetch(url, {
-                        method: 'POST',
-                        headers: {
-                            'Content-Type': 'application/x-www-form-urlencoded',
-                            'X-CSRF-Token': authToken
-                        },
-                        body: `_method=delete&authenticity_token=${encodeURIComponent(authToken)}`
-                    }).then(response => {
-                        if (response.ok) {
-                            row.remove();
-                        } else {
-                            console.error('Fehler beim Entlassen:', response.statusText);
-                        }
+        checkbox.dispatchEvent(
+            new Event('change', {
+                bubbles: true
+            })
+        );
+    }
 
-                        // nach letzter Kündigung Seite neu Laden
-                        if (index === selected.length - 1) {
-                            setTimeout(() => location.reload(), 500);
-                        }
-                    });
-                }, index * 100);
+    function selectVisibleRows() {
+        let count = 0;
+
+        getPersonnelRows().forEach(row => {
+            if (!isRowVisible(row)) {
+                return;
+            }
+
+            const checkbox = row.querySelector(
+                'input.personal-delete-checkbox'
+            );
+
+            if (checkbox) {
+                setCheckbox(checkbox, true);
+                count++;
             }
         });
     }
 
+    function resetSelection() {
+        let count = 0;
+
+        document
+            .querySelectorAll('input.personal-delete-checkbox')
+            .forEach(checkbox => {
+                if (checkbox.checked) {
+                    setCheckbox(checkbox, false);
+                    count++;
+                }
+            });
+    }
+
+
+    function addFilterOptions(select) {
+        if (
+            !select.querySelector(
+                `option[value="${FILTER_NO_ASSIGNMENT}"]`
+            )
+        ) {
+            const option = document.createElement('option');
+
+            option.value = FILTER_NO_ASSIGNMENT;
+            option.textContent = 'Ohne Zuweisung';
+
+            select.appendChild(option);
+        }
+
+        if (
+            !select.querySelector(
+                `option[value="${FILTER_NO_EDUCATION_ASSIGNMENT}"]`
+            )
+        ) {
+            const option = document.createElement('option');
+
+            option.value = FILTER_NO_EDUCATION_ASSIGNMENT;
+            option.textContent = 'Ohne Ausbildung und Zuweisung';
+
+            select.appendChild(option);
+        }
+
+
+        if (
+            window.jQuery &&
+            typeof window.jQuery.fn.selectpicker === 'function'
+        ) {
+            try {
+                window.jQuery(select).selectpicker('refresh');
+            } catch (error) {
+                console.warn(
+                    'Selectpicker konnte nicht aktualisiert werden:',
+                    error
+                );
+            }
+        }
+    }
+
+
+    function addButtons(select) {
+        if (document.getElementById('tm-personnel-filter-buttons')) {
+            return;
+        }
+
+        const bootstrapSelect =
+            select.closest('.bootstrap-select') ||
+            select.parentElement;
+
+        if (!bootstrapSelect) {
+            return;
+        }
+
+        const wrapper = document.createElement('div');
+
+        wrapper.id = 'tm-personnel-filter-buttons';
+        wrapper.className = 'btn-group';
+
+        wrapper.style.marginLeft = '8px';
+        wrapper.style.verticalAlign = 'top';
+
+        const selectVisibleButton = document.createElement('button');
+
+        selectVisibleButton.type = 'button';
+        selectVisibleButton.className = 'btn btn-primary';
+        selectVisibleButton.textContent = 'Angezeigt auswählen';
+
+        selectVisibleButton.addEventListener('click', event => {
+            event.preventDefault();
+            selectVisibleRows();
+        });
+
+        const resetButton = document.createElement('button');
+
+        resetButton.type = 'button';
+        resetButton.className = 'btn btn-default';
+        resetButton.textContent = 'Auswahl zurücksetzen';
+
+        resetButton.addEventListener('click', event => {
+            event.preventDefault();
+            resetSelection();
+        });
+
+        wrapper.appendChild(selectVisibleButton);
+        wrapper.appendChild(resetButton);
+
+        bootstrapSelect.insertAdjacentElement('afterend', wrapper);
+    }
+
+    function setupFilterEvents(select) {
+        if (select.dataset.tmPersonnelFilterInitialized === 'true') {
+            return;
+        }
+
+        select.dataset.tmPersonnelFilterInitialized = 'true';
+
+        select.addEventListener(
+            'change',
+            () => {
+                resetCustomRowDisplay();
+            },
+            true
+        );
+
+        select.addEventListener('change', () => {
+            const value = select.value;
+
+            if (
+                value === FILTER_NO_ASSIGNMENT ||
+                value === FILTER_NO_EDUCATION_ASSIGNMENT
+            ) {
+                applyCustomFilter(value);
+            }
+        });
+    }
+
+    function initialize() {
+        const select = document.querySelector(
+            'select.selectpicker.education-filter'
+        );
+
+        if (!select) {
+            return false;
+        }
+
+        addFilterOptions(select);
+        setupFilterEvents(select);
+        addButtons(select);
+
+        return true;
+    }
+
+    if (initialize()) {
+        return;
+    }
+
+    const observer = new MutationObserver(() => {
+        if (initialize()) {
+            observer.disconnect();
+        }
+    });
+
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
 })();
