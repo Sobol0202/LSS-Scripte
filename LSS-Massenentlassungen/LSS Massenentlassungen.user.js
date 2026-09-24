@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Massenentlassungen
-// @version      1.1
-// @description  Ermöglicht das Massenhafte Entlassen von Personal
+// @version      1.2
+// @description  Ermöglicht das massenhafte Entlassen von Personal
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/buildings/*/personals
 // @grant        none
@@ -47,12 +47,10 @@
             let show = true;
 
             if (filterValue === FILTER_NO_ASSIGNMENT) {
-
                 show = isCellEmpty(assignmentCell);
             }
 
             if (filterValue === FILTER_NO_EDUCATION_ASSIGNMENT) {
-
                 show =
                     isCellEmpty(educationCell) &&
                     isCellEmpty(assignmentCell);
@@ -88,8 +86,6 @@
     }
 
     function selectVisibleRows() {
-        let count = 0;
-
         getPersonnelRows().forEach(row => {
             if (!isRowVisible(row)) {
                 return;
@@ -101,24 +97,67 @@
 
             if (checkbox) {
                 setCheckbox(checkbox, true);
-                count++;
             }
         });
     }
 
     function resetSelection() {
-        let count = 0;
-
         document
             .querySelectorAll('input.personal-delete-checkbox')
             .forEach(checkbox => {
                 if (checkbox.checked) {
                     setCheckbox(checkbox, false);
-                    count++;
                 }
             });
     }
 
+    function enableFilter(select) {
+        if (!select) {
+            return;
+        }
+
+        select.disabled = false;
+        select.removeAttribute('disabled');
+
+        const bootstrapSelect = select.closest('.bootstrap-select');
+
+        if (bootstrapSelect) {
+            bootstrapSelect.classList.remove('disabled');
+
+            const button = bootstrapSelect.querySelector(
+                'button.dropdown-toggle'
+            );
+
+            if (button) {
+                button.disabled = false;
+                button.classList.remove('disabled');
+                button.removeAttribute('disabled');
+                button.removeAttribute('aria-disabled');
+
+                if (button.getAttribute('tabindex') === '-1') {
+                    button.removeAttribute('tabindex');
+                }
+            }
+        }
+    }
+
+    function refreshSelectpicker(select) {
+        if (
+            window.jQuery &&
+            typeof window.jQuery.fn.selectpicker === 'function'
+        ) {
+            try {
+                window.jQuery(select).selectpicker('refresh');
+
+                enableFilter(select);
+            } catch (error) {
+                console.warn(
+                    'Selectpicker konnte nicht aktualisiert werden:',
+                    error
+                );
+            }
+        }
+    }
 
     function addFilterOptions(select) {
         if (
@@ -147,22 +186,9 @@
             select.appendChild(option);
         }
 
-
-        if (
-            window.jQuery &&
-            typeof window.jQuery.fn.selectpicker === 'function'
-        ) {
-            try {
-                window.jQuery(select).selectpicker('refresh');
-            } catch (error) {
-                console.warn(
-                    'Selectpicker konnte nicht aktualisiert werden:',
-                    error
-                );
-            }
-        }
+        enableFilter(select);
+        refreshSelectpicker(select);
     }
-
 
     function addButtons(select) {
         if (document.getElementById('tm-personnel-filter-buttons')) {
@@ -252,6 +278,8 @@
         addFilterOptions(select);
         setupFilterEvents(select);
         addButtons(select);
+
+        enableFilter(select);
 
         return true;
     }
