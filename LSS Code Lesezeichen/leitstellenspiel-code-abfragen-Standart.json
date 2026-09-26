@@ -1,0 +1,91 @@
+{
+  "format": "lss-code-queries",
+  "version": 1,
+  "exportedAt": "2026-09-26T11:35:07.040Z",
+  "queries": [
+    {
+      "name": "Erforderliche Erweiterungen zeigen",
+      "type": "code",
+      "description": "Zeig die minimal erforderlichen aktiven Erweiterungen um alle Einsätze bekommen zu können.",
+      "updatedAt": "2026-09-26T11:00:48.176Z",
+      "code": "Promise.all([\n    fetch('/einsaetze.json').then(res => res.json()),\n    fetch('https://api.lss-manager.de/de_DE/einsaetze').then(res => res.json()),\n])\n    .then(([m, t]) => {\n        const max = {};\n        m.forEach(({ prerequisites }) =>\n            Object.entries(prerequisites).forEach(\n                ([req, cnt]) => (max[req] = Math.max(max[req] ?? 0, cnt))\n            )\n        );\n        delete max.main_building;\n        return Object.fromEntries(\n            Object.entries(max).map(([req, cnt]) => {\n                const name = t.prerequisites[req]?.split('|') ?? [req];\n                return [\n                    cnt > 1 ? (name[1] ?? name[0]).trim() : name[0].trim(),\n                    cnt,\n                ];\n            })\n        );\n    })\n    .then(console.log);",
+      "url": "",
+      "method": "GET",
+      "headers": "",
+      "body": "",
+      "createdAt": "2026-09-26T10:52:56.400Z"
+    },
+    {
+      "name": "LSSM-Einsaetze",
+      "type": "url",
+      "description": "Gibt die Übersetzungen der Einsaetze.json Schlüssel aus",
+      "updatedAt": "2026-09-26T11:05:20.709Z",
+      "url": "https://api.lss-manager.de/de_DE/einsaetze",
+      "method": "GET",
+      "headers": "",
+      "body": "",
+      "code": "",
+      "createdAt": "2026-09-26T11:05:20.709Z"
+    },
+    {
+      "name": "LSSM-VehicleCategories",
+      "type": "url",
+      "description": "Gibt die ID der Fahrzeugkathegorien aus",
+      "updatedAt": "2026-09-26T11:08:19.262Z",
+      "url": "https://api.lss-manager.de/de_DE/vehicleCategories",
+      "method": "GET",
+      "headers": "",
+      "body": "",
+      "code": "",
+      "createdAt": "2026-09-26T11:08:19.263Z"
+    },
+    {
+      "name": "LSSM-Vehicles",
+      "type": "url",
+      "description": "Gibt Informationen zu den einzelnen Fahrzeugtypen aus.",
+      "updatedAt": "2026-09-26T11:09:23.166Z",
+      "url": "https://api.lss-manager.de/de_DE/vehicles",
+      "method": "GET",
+      "headers": "",
+      "body": "",
+      "code": "",
+      "createdAt": "2026-09-26T11:09:23.166Z"
+    },
+    {
+      "name": "Einsaetze.json",
+      "type": "url",
+      "description": "Gibt die Informationen zu allen Einsätzen aus.",
+      "updatedAt": "2026-09-26T11:10:45.281Z",
+      "url": "https://www.leitstellenspiel.de/einsaetze.json",
+      "method": "GET",
+      "headers": "",
+      "body": "",
+      "code": "",
+      "createdAt": "2026-09-26T11:10:45.281Z"
+    },
+    {
+      "name": "Wertlose VBGSL",
+      "type": "code",
+      "description": "Brechnet wie viele Einsätze mehr sind als die VBGSL",
+      "updatedAt": "2026-09-26T11:20:39.552Z",
+      "code": "(async () => {\n    const grenzwert = 15000;\n\n    try {\n        const response = await fetch(\n            \"https://www.leitstellenspiel.de/einsaetze.json\"\n        );\n\n        if (!response.ok) {\n            throw new Error(`HTTP-Fehler: ${response.status}`);\n        }\n\n        const einsaetze = await response.json();\n\n        const passendeEinsaetze = einsaetze.filter(einsatz => {\n            const credits = Number(einsatz.average_credits);\n            return Number.isFinite(credits) && credits > grenzwert;\n        });\n\n        const anzahlGesamt = einsaetze.length;\n        const anzahlPassend = passendeEinsaetze.length;\n\n        const prozent = anzahlGesamt > 0\n            ? (anzahlPassend / anzahlGesamt) * 100\n            : 0;\n\n        console.log(\n            `${anzahlPassend} von ${anzahlGesamt} Einsätzen haben ` +\n            `durchschnittlich mehr als ${grenzwert.toLocaleString(\"de-DE\")} Credits. ` +\n            `Das entspricht ${prozent.toLocaleString(\"de-DE\", {\n                minimumFractionDigits: 2,\n                maximumFractionDigits: 2\n            })} %.`\n        );\n\n        console.table(\n            passendeEinsaetze.map(einsatz => ({\n                ID: einsatz.id,\n                Einsatz: einsatz.name,\n                Durchschnittliche_Credits: Number(einsatz.average_credits)\n            }))\n        );\n    } catch (error) {\n        console.error(\n            \"Die Einsatzliste konnte nicht abgerufen werden:\",\n            error\n        );\n    }\n})();",
+      "url": "",
+      "method": "GET",
+      "headers": "",
+      "body": "",
+      "createdAt": "2026-09-26T11:20:39.552Z"
+    },
+    {
+      "name": "Maximale Anforderungen",
+      "type": "code",
+      "description": "Zeigt die absolut maximalen Fahrzeuganforderungen an.",
+      "updatedAt": "2026-09-26T11:23:13.463Z",
+      "code": "maxReqs = {};\nfetch('/einsaetze.json')\n    .then(res => res.json())\n    .then(ms =>\n        ms.forEach(m =>\n            Object.entries(m.requirements).forEach(([req, amount]) => {\n                maxReqs[req] = Math.max(maxReqs[req] ?? 0, amount);\n            })\n        )\n    )\n    .then(() =>\n        console.log(\n            Object.entries(maxReqs)\n                .map(\n                    ([req, amount]) =>\n                        `${lssmv4.$tc(`modules.missionHelper.vehicles.captions.${req}`, amount)}: ${amount}`\n                )\n                .toSorted()\n                .join('\\n')\n        )\n    );",
+      "url": "",
+      "method": "GET",
+      "headers": "",
+      "body": "",
+      "createdAt": "2026-09-26T11:23:13.463Z"
+    }
+  ]
+}
