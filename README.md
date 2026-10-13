@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 233 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 234 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -152,6 +152,7 @@ Sollten die Skripte nicht funktionieren:
 - Gebäudeeditbutton nach oben
 - Gebäudeliste im Profil
 - Gebäudemaler
+- Gesamtstatistik aller Leitstellen
 - Geschwindigkeitssteuerung anpassen
 - Gib mir meine Belohnung einfach
 - Gitternetz auf Karte
