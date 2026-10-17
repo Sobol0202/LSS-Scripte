@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="Dynamische Fahrzeugübersicht für Leitstellenspiel auf Basis der LSS-Manager-API, im Stil des Leitstellenspiel-Wikis.">
+  <title>Fahrzeug Übersicht – Leitstellenspiel Wiki (Live)</title>
+  <style>
+    :root{--page:#f6f6f6;--line:#a2a9b1;--link:#0645ad;--linkhover:#0b0080;--softblue:#a7d7f9;--shade:#eaecf0;--ink:#202122;--muted:#54595d;--panel:#fff;--good:#207544;--warn:#9b5d00}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth;scroll-padding-top:18px}
+    body{margin:0;background:var(--page);color:var(--ink);font:14px/1.6 Arial,Helvetica,sans-serif}
+    a{color:var(--link);text-decoration:none}
+    a:hover{text-decoration:underline;color:var(--linkhover)}
+    button,input,select{font:inherit}
+    button{cursor:pointer}
+    button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:2px solid #36c;outline-offset:2px}
+    .site-header{height:106px;display:flex;align-items:center;justify-content:space-between;gap:20px;padding:12px 28px 8px 30px}
+    .site-brand{display:flex;align-items:center;gap:12px;color:var(--ink);min-width:220px}
+    .logo{position:relative;height:63px;width:63px;flex-shrink:0;border-radius:50%;display:grid;place-items:center;color:#fff;font-size:33px;font-weight:bold;background:radial-gradient(circle at 33% 25%,#e86a50,#9b171a 70%);border:4px solid #fff;box-shadow:0 1px 4px #0003}
+    .logo::after{content:"";position:absolute;width:40px;height:4px;background:#fff;border-radius:2px;transform:rotate(-25deg);bottom:19px;opacity:.85}
+    .brand-title{font:25px Georgia,'Times New Roman',serif;letter-spacing:-.7px;line-height:1.04}
+    .brand-sub{font-size:12px;color:var(--muted);letter-spacing:2px;margin-top:3px}
+    .header-right{align-self:flex-start;margin-top:10px;color:var(--muted);font-size:12px;text-align:right}
+    .site-frame{display:grid;grid-template-columns:196px minmax(0,1fr);gap:0;align-items:start}
+    .sidebar{padding:5px 13px 40px 25px;color:var(--muted);font-size:12px}
+    .sidebar-block{margin-bottom:20px}
+    .sidebar h2{font-size:13px;color:#454a4e;font-weight:normal;line-height:1.5;margin:0 0 6px;border-bottom:1px solid #ccc;padding-bottom:2px}
+    .sidebar ul{margin:0;padding:0 0 0 7px;list-style:none}
+    .sidebar li{margin:4px 0;line-height:1.45}
+    .sidebar a[aria-current="true"]{font-weight:bold}
+    .sidebar .sidebar-note{font-size:11px;line-height:1.5;color:#72777d}
+    .article-shell{min-width:0}
+    .tabs{height:35px;display:flex;justify-content:space-between;align-items:stretch;padding-left:1px;padding-right:22px;font-size:13px}
+    .tab-group{display:flex;align-items:stretch;gap:1px}
+    .tab{display:flex;align-items:center;padding:0 12px;border:1px solid #a7d7f9;border-bottom:none;background:linear-gradient(#fff,#eaf3fa);color:var(--link)}
+    .tab.active{background:#fff;color:var(--ink);font-weight:600;position:relative;z-index:1}
+    main.article{background:#fff;border:1px solid var(--softblue);border-right:0;padding:25px 30px 45px 29px;min-height:calc(100vh - 141px);box-shadow:0 1px 0 #fff}
+    .article h1{font:normal 30px/1.3 Georgia,'Times New Roman',serif;border-bottom:1px solid var(--line);margin:0 0 2px;padding:0 0 6px}
+    .subtitle{color:#72777d;font-size:12px;margin:2px 0 18px}
+    .intro{margin:16px 0 14px}
+    .article h2.section-title{font:normal 23px/1.4 Georgia,'Times New Roman',serif;border-bottom:1px solid var(--line);margin:30px 0 9px;padding-bottom:3px;scroll-margin-top:15px}
+    .section-count{font:normal 12px Arial,Helvetica,sans-serif;color:#72777d;padding-left:7px}
+    .notice{background:#f8f9fa;border:1px solid #c8ccd1;border-left:4px solid #36c;padding:9px 12px;margin:16px 0 12px;line-height:1.5}
+    .notice.warning{border-left-color:#a66c00;background:#fff9eb}
+    .notice.error{border-left-color:#b32424;background:#fff5f4}
+    .notice.success{border-left-color:var(--good)}
+    .notice[hidden]{display:none}
+    .tools{border:1px solid #c8ccd1;background:#f8f9fa;padding:12px 14px;margin:18px 0 8px}
+    .tool-row{display:flex;gap:11px 14px;align-items:end;flex-wrap:wrap}
+    .field{display:flex;flex-direction:column;gap:4px;min-width:145px}
+    .field.search{flex:1 1 260px;min-width:165px}
+    .field label,.options-title{font-size:12px;font-weight:600;color:#54595d}
+    .field input,.field select{border:1px solid #a2a9b1;background:#fff;border-radius:2px;min-height:35px;padding:6px 9px;max-width:100%;color:var(--ink)}
+    .field select{max-width:240px}
+    .action{border:1px solid #a2a9b1;color:#202122;background:#f8f9fa;border-radius:2px;padding:7px 13px;min-height:35px;font-weight:600}
+    .action:hover{background:#eaecf0}
+    .action.primary{background:#36c;color:#fff;border-color:#36c}
+    .action.primary:hover{background:#3056a9}
+    .action:disabled{opacity:.55;cursor:wait}
+    .options{border-top:1px solid #c8ccd1;margin-top:10px;padding-top:8px;font-size:12px}
+    .options summary{cursor:pointer;width:max-content;font-weight:600;color:#0645ad;user-select:none}
+    .option-row{display:flex;flex-wrap:wrap;gap:8px 17px;margin-top:9px}
+    .option-row label{white-space:nowrap;cursor:pointer}
+    .option-row input{vertical-align:-2px;accent-color:#36c}
+    .meta-line{display:flex;flex-wrap:wrap;gap:3px 18px;color:var(--muted);font-size:12px;margin:7px 0 11px}
+    .meta-line strong{color:var(--ink)}
+    #results:empty{min-height:30px}
+    .table-wrap{width:100%;overflow-x:auto;overscroll-behavior-x:contain;border:0}
+    table.wikitable{border-collapse:collapse;border:1px solid var(--line);background:#f8f9fa;color:#202122;min-width:720px;width:100%;font-size:13px;margin:7px 0 17px}
+    .wikitable th,.wikitable td{border:1px solid var(--line);padding:6px 8px;vertical-align:top;text-align:left}
+    .wikitable th{background:#eaecf0;font-weight:700}
+    .wikitable td{background:#f8f9fa}
+    .wikitable tr:nth-child(even) td{background:#fff}
+    .wikitable tbody tr:not(.detail-row):hover td{background:#eef4fb}
+    .wikitable th.number,.wikitable td.number{width:124px;text-align:center;white-space:nowrap;font-variant-numeric:tabular-nums}
+    .wikitable th.training,.wikitable td.training{width:26%}
+    .wikitable th.school,.wikitable td.school{width:18%}
+    .wikitable th.credits,.wikitable td.credits{min-width:95px;text-align:right;font-variant-numeric:tabular-nums}
+    .sort-button{display:inline-flex;align-items:center;gap:6px;appearance:none;background:transparent;border:0;font:inherit;font-weight:700;color:inherit;padding:0;text-align:inherit}
+    .sort-button:hover{color:var(--link);text-decoration:underline}
+    .sort-indicator{font-size:11px;color:#72777d}
+    .vehicle-btn{border:0;background:none;color:#0645ad;padding:0;font:inherit;text-align:left;cursor:pointer}
+    .vehicle-btn:hover{text-decoration:underline;color:#0b0080}
+    .vehicle-btn::after{content:"▸";font-size:10px;color:#72777d;margin-left:8px}
+    .vehicle-btn[aria-expanded="true"]::after{content:"▾"}
+    tr.detail-row td{background:#f6f8fb!important;border-top:0;padding:13px 16px}
+    .detail-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(175px,1fr));gap:11px 22px;margin:6px 0 12px}
+    .detail-grid dt{font-size:11px;color:#54595d;font-weight:bold;margin:0}
+    .detail-grid dd{margin:0;overflow-wrap:anywhere}
+    .detail-description{border-top:1px solid #c8ccd1;padding-top:8px;margin-top:7px}
+    .raw-data{margin-top:8px;font-size:12px}
+    .raw-data summary{cursor:pointer;color:var(--link)}
+    .raw-data pre{background:#fff;border:1px solid #c8ccd1;overflow:auto;max-height:330px;padding:10px;font-size:11px;white-space:pre-wrap;word-break:break-word}
+    .empty{background:#f8f9fa;border:1px solid #c8ccd1;padding:20px;text-align:center;margin-top:16px}
+    .footer{margin-top:34px;border-top:1px solid #a2a9b1;padding-top:12px;color:#54595d;font-size:12px}
+    .footer p{margin:3px 0}
+    .nowrap{white-space:nowrap}
+    .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+    @media(max-width:950px){.site-frame{grid-template-columns:155px minmax(0,1fr)}.sidebar{padding-left:13px;padding-right:10px}main.article{padding:20px 19px 35px}.site-header{padding-left:15px}.brand-title{font-size:22px}}
+    @media(max-width:680px){.site-header{height:auto;min-height:82px;padding:11px 12px}.site-brand{min-width:0}.logo{width:45px;height:45px;font-size:25px}.logo::after{width:30px;bottom:13px}.brand-title{font-size:19px}.brand-sub{font-size:10px}.header-right{display:none}.site-frame{display:flex;flex-direction:column}.sidebar{order:2;padding:18px 16px 25px;width:100%;border-top:1px solid #a2a9b1}.sidebar-block{margin-bottom:12px}.sidebar ul{display:flex;flex-wrap:wrap;gap:3px 13px}.article-shell{order:1;width:100%}.tabs{height:33px;padding-right:0}.tab{font-size:12px;padding:0 9px}main.article{border-left:0;border-right:0;padding:18px 14px 35px;min-height:70vh}.article h1{font-size:28px}.article h2.section-title{font-size:21px}.tool-row{align-items:stretch}.field{flex:1 1 42%}.field.search{flex-basis:100%}.field select{max-width:none}.action{flex:1}.wikitable{font-size:12px}}
+    @media print{body{background:#fff;font-size:10pt}.site-header,.sidebar,.tabs,.tools,.notice,.vehicle-btn::after,.footer .source-note{display:none!important}.site-frame{display:block}main.article{border:0;padding:0}.wikitable{font-size:9pt}.table-wrap{overflow:visible}.detail-row{display:none}.section-title{break-after:avoid}table{break-inside:auto}tr{break-inside:avoid}}
+  </style>
+</head>
+<body>
+  <div class="site-frame">
+    <aside class="sidebar" aria-label="Seitennavigation">
+      <div class="sidebar-block"><h2>Navigation</h2><ul>
+        <li><a href="https://wiki.leitstellenspiel.de/" target="_blank" rel="noopener noreferrer">Hauptseite des Wikis</a></li>
+        <li><a href="https://api.lss-manager.de/de_DE/vehicles" target="_blank" rel="noopener noreferrer">Fahrzeug-API</a></li>
+      </ul></div>
+      <div class="sidebar-block"><h2>Inhaltsverzeichnis</h2><ul id="navGroups"><li>Fahrzeuge werden geladen …</li></ul></div>
+    </aside>
+    <div class="article-shell">
+      <nav class="tabs" aria-label="Ansichten">
+        <div class="tab-group"><span class="tab active" aria-current="page">Live-Übersicht</span><a class="tab" href="https://wiki.leitstellenspiel.de/index.php?title=Fahrzeug_%C3%9Cbersicht" target="_blank" rel="noopener noreferrer">Wiki-Vorlage</a></div>
+        <div class="tab-group"><a class="tab" href="https://api.lss-manager.de/de_DE/vehicles" target="_blank" rel="noopener noreferrer">API-Rohdaten</a></div>
+      </nav>
+      <main class="article" id="seitenanfang">
+        <h1>Fahrzeug Übersicht</h1>
+        <div class="subtitle">Aus dem Leitstellenspiel Wiki – dynamisch anhand der Fahrzeug-API aufgebaut</div>
+        <p class="intro">Dies ist eine Übersicht über alle <a href="https://wiki.leitstellenspiel.de/index.php?title=Fahrzeuge" target="_blank" rel="noopener noreferrer">Fahrzeuge</a>. Die Angaben zu Besatzung, Lehrgängen und Schulen werden aus der <a href="https://api.lss-manager.de/de_DE/vehicles" target="_blank" rel="noopener noreferrer">LSS-Manager-API</a> übernommen und beim Laden aktualisiert. Fahrzeuge mit Standorten in mehreren Organisationen erscheinen in jeder passenden Tabelle.</p>
+        <div id="status" class="notice" role="status" aria-live="polite">Fahrzeugdaten werden von der API abgerufen …</div>
+        <div class="tools" aria-label="Fahrzeugübersicht filtern">
+          <div class="tool-row">
+            <div class="field search"><label for="search">Fahrzeug suchen</label><input id="search" type="search" placeholder="z. B. HLF, Notarzt, Gefahrgut …" autocomplete="off"></div>
+            <div class="field"><label for="groupFilter">Bereich</label><select id="groupFilter"><option value="">Alle Bereiche</option></select></div>
+            <div class="field"><label for="schoolFilter">Lehrgang</label><select id="schoolFilter"><option value="all">Alle Fahrzeuge</option><option value="yes">Lehrgang erforderlich</option><option value="no">Kein Lehrgang</option></select></div>
+            <button id="reload" class="action primary" type="button">Aktualisieren</button>
+            <button id="clear" class="action" type="button">Zurücksetzen</button>
+          </div>
+          <details class="options">
+            <summary>Zusätzliche Spalten anzeigen</summary>
+            <div class="option-row">
+              <label><input type="checkbox" data-extra="id"> Fahrzeug-ID</label>
+              <label><input type="checkbox" data-extra="credits"> Credits</label>
+              <label><input type="checkbox" data-extra="coins"> Coins</label>
+              <label><input type="checkbox" data-extra="waterTank"> Wasser (l)</label>
+              <label><input type="checkbox" data-extra="pumpCapacity"> Pumpe (l/min)</label>
+              <label><input type="checkbox" data-extra="foamTank"> Schaum (l)</label>
+            </div>
+          </details>
+        </div>
+        <div class="meta-line" aria-live="polite"><span id="count">–</span><span id="updated">Stand: –</span><span id="mode">Datenquelle: –</span></div>
+        <div id="results" aria-label="Fahrzeugtabellen"></div>
+      </main>
+    </div>
+  </div>
+  <script>
+  'use strict';
+  const API_VEHICLES = 'https://api.lss-manager.de/de_DE/vehicles';
+  const API_BUILDINGS = 'https://api.lss-manager.de/de_DE/buildings';
+  const CACHE_KEY = 'leitstellenspiel:fahrzeuguebersicht:v1';
+  const EXAMPLE_VEHICLES = {"0":{"caption":"LF 20","color":"#cc0000","credits":5000,"coins":25,"staff":{"min":1,"max":9},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":2000,"pumpCapacity":2000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":9,"wtank":2000,"pumpcap":2000,"ftank":150,"schooling":null},"1":{"caption":"LF 10","color":"#bb0000","credits":5000,"coins":25,"staff":{"min":1,"max":9},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":1200,"pumpCapacity":1000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":9,"wtank":1200,"pumpcap":1000,"ftank":150,"schooling":null},"2":{"caption":"DLK 23","color":"#d92626","credits":10000,"coins":30,"staff":{"min":1,"max":3},"icon":"truck","possibleBuildings":[0,18],"special":"Kann ab 3 Feuerwachen angefordert werden.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"3":{"caption":"ELW 1","color":"#d02525","credits":10000,"coins":25,"staff":{"min":1,"max":3},"icon":"car-side","possibleBuildings":[0,18],"special":"Kann ab 6 Feuerwachen angefordert werden.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"4":{"caption":"RW","color":"#ad1f1f","credits":12180,"coins":25,"staff":{"min":1,"max":3},"icon":"truck","possibleBuildings":[0,18],"special":"Kann ab 4 Feuerwachen angefordert werden.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"5":{"caption":"GW-A","color":"#9c1c1c","credits":11680,"coins":25,"staff":{"min":1,"max":3},"icon":"truck","possibleBuildings":[0,18],"special":"Kann ab 5 Feuerwachen angefordert werden.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"6":{"caption":"LF 8/6","color":"#aa0000","credits":5000,"coins":25,"staff":{"min":1,"max":9},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":600,"pumpCapacity":800,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":9,"wtank":600,"pumpcap":800,"ftank":150,"schooling":null},"7":{"caption":"LF 20/16","color":"#990000","credits":5000,"coins":25,"staff":{"min":1,"max":9},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":1600,"pumpCapacity":2000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":9,"wtank":1600,"pumpcap":2000,"ftank":150,"schooling":null},"8":{"caption":"LF 10/6","color":"#880000","credits":5000,"coins":25,"staff":{"min":1,"max":9},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":600,"pumpCapacity":1000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":9,"wtank":600,"pumpcap":1000,"ftank":150,"schooling":null},"9":{"caption":"LF 16-TS","color":"#770000","credits":5000,"coins":25,"staff":{"min":1,"max":9},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":0,"pumpCapacity":1600,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":9,"wtank":0,"pumpcap":1600,"ftank":150,"schooling":null},"10":{"caption":"GW-Öl","color":"#8b1818","credits":12000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck","possibleBuildings":[0,18],"special":"Kann ab 6 Feuerwachen angefordert werden.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"11":{"caption":"GW-L2-Wasser","color":"#e61919","credits":17300,"coins":25,"staff":{"min":1,"max":3},"icon":"truck","possibleBuildings":[0,18],"waterBonus":25,"equipmentCapacity":10,"special":"Ein Schlauchwagen wird ab 7 Feuerwachen benötigt. Er gibt 25% Bonus auf die Wassermenge, die durch (H/T)LF vor Ort ist.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"12":{"caption":"GW-Messtechnik","color":"#791515","credits":18300,"coins":25,"staff":{"min":1,"max":3,"training":{"Feuerwehr":{"gw_messtechnik":{"all":true}}}},"icon":"truck","possibleBuildings":[0,18],"special":"Kann ab 10 Feuerwachen angefordert werden.","minPersonnel":1,"maxPersonnel":3,"schooling":{"Feuerwehr":{"GW-Messtechnik Lehrgang":{"all":true}}}},"13":{"caption":"SW 1000","color":"#dc1818","credits":17300,"coins":25,"staff":{"min":1,"max":3},"icon":"truck","possibleBuildings":[0,18],"waterBonus":25,"special":"Ein Schlauchwagen wird ab 7 Feuerwachen benötigt. Er gibt 25% Bonus auf die Wassermenge, die durch (H/T)LF vor Ort ist.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"14":{"caption":"SW 2000","color":"#ca1616","credits":17300,"coins":25,"staff":{"min":1,"max":6},"icon":"truck","possibleBuildings":[0,18],"waterBonus":25,"special":"Ein Schlauchwagen wird ab 7 Feuerwachen benötigt. Er gibt 25% Bonus auf die Wassermenge, die durch (H/T)LF vor Ort ist.","minPersonnel":1,"maxPersonnel":6,"schooling":null},"15":{"caption":"SW 2000-Tr","color":"#b81414","credits":17300,"coins":25,"staff":{"min":1,"max":3},"icon":"truck","possibleBuildings":[0,18],"waterBonus":25,"special":"Ein Schlauchwagen wird ab 7 Feuerwachen benötigt. Er gibt 25% Bonus auf die Wassermenge, die durch (H/T)LF vor Ort ist.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"16":{"caption":"SW Kats","color":"#a51212","credits":17300,"coins":25,"staff":{"min":1,"max":3},"icon":"truck","possibleBuildings":[0,18],"waterBonus":25,"special":"Ein Schlauchwagen wird ab 7 Feuerwachen benötigt. Er gibt 25% Bonus auf die Wassermenge, die durch (H/T)LF vor Ort ist.","minPersonnel":1,"maxPersonnel":3,"schooling":null},"17":{"caption":"TLF 2000","color":"#cc2222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":2000,"pumpCapacity":1000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":3,"wtank":2000,"pumpcap":1000,"ftank":150,"schooling":null},"18":{"caption":"TLF 3000","color":"#bb2222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":3000,"pumpCapacity":2000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":3,"wtank":3000,"pumpcap":2000,"ftank":150,"schooling":null},"19":{"caption":"TLF 8/8","color":"#aa2222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":800,"pumpCapacity":800,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":3,"wtank":800,"pumpcap":800,"ftank":150,"schooling":null},"20":{"caption":"TLF 8/18","color":"#992222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":1800,"pumpCapacity":800,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":3,"wtank":1800,"pumpcap":800,"ftank":150,"schooling":null},"21":{"caption":"TLF 16/24-Tr","color":"#882222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":2400,"pumpCapacity":1600,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":3,"wtank":2400,"pumpcap":1600,"ftank":150,"schooling":null},"22":{"caption":"TLF 16/25","color":"#772222","credits":5000,"coins":25,"staff":{"min":1,"max":6},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":2400,"pumpCapacity":1600,"pumpType":"fire","foamTank":750,"minPersonnel":1,"maxPersonnel":6,"wtank":2400,"pumpcap":1600,"ftank":750,"schooling":null},"23":{"caption":"TLF 16/45","color":"#662222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":4500,"pumpCapacity":1600,"pumpType":"fire","foamTank":750,"minPersonnel":1,"maxPersonnel":3,"wtank":4500,"pumpcap":1600,"ftank":750,"schooling":null},"24":{"caption":"TLF 20/40","color":"#552222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":4000,"pumpCapacity":2000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":3,"wtank":4000,"pumpcap":2000,"ftank":150,"schooling":null},"25":{"caption":"TLF 20/40-SL","color":"#442222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":4000,"pumpCapacity":2000,"pumpType":"fire","foamTank":750,"minPersonnel":1,"maxPersonnel":3,"wtank":4000,"pumpcap":2000,"ftank":750,"schooling":null},"26":{"caption":"TLF 16","color":"#332222","credits":5000,"coins":25,"staff":{"min":1,"max":3},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":1800,"pumpCapacity":1600,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":3,"wtank":1800,"pumpcap":1600,"ftank":150,"schooling":null},"27":{"caption":"GW-Gefahrgut","color":"#681212","credits":19200,"coins":25,"staff":{"min":1,"max":3,"training":{"Feuerwehr":{"gw_gefahrgut":{"all":true}}}},"icon":"truck","possibleBuildings":[0,18],"special":"Wird ab 11 Feuerwachen benötigt.","minPersonnel":1,"maxPersonnel":3,"schooling":{"Feuerwehr":{"GW-Gefahrgut Lehrgang":{"all":true}}}},"28":{"caption":"RTW","color":"#f59f00","credits":5000,"coins":25,"staff":{"min":1,"max":2},"icon":"ambulance","possibleBuildings":[0,18,2,12,20,25],"minPersonnel":1,"maxPersonnel":2,"schooling":null},"29":{"caption":"NEF","color":"#e09200","credits":20000,"coins":25,"staff":{"min":1,"max":2,"training":{"Feuerwehr":{"notarzt":{"all":true}},"Rettungsdienst":{"notarzt":{"all":true}}}},"icon":"car-side","possibleBuildings":[0,18,2,20,25],"special":"Wird ab 3 Rettungswachen benötigt.","minPersonnel":1,"maxPersonnel":2,"schooling":{"Feuerwehr":{"Notarzt-Ausbildung":{"all":true}},"Rettungsdienst":{"Notarzt-Ausbildung":{"all":true}}}},"30":{"caption":"HLF 20","color":"#440000","credits":20000,"coins":25,"staff":{"min":1,"max":9},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":1600,"pumpCapacity":2000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":9,"wtank":1600,"pumpcap":2000,"ftank":150,"schooling":null},"31":{"caption":"RTH","color":"#ddaa3c","credits":300000,"coins":30,"staff":{"min":1,"max":2,"training":{"Rettungsdienst":{"notarzt":{"all":true}}}},"icon":"helicopter","equipmentCapacity":10,"possibleBuildings":[5],"minPersonnel":1,"maxPersonnel":2,"schooling":{"Rettungsdienst":{"Notarzt-Ausbildung":{"all":true}}}},"32":{"caption":"FuStW","color":"#005500","credits":5000,"coins":25,"staff":{"min":1,"max":2},"icon":"taxi","possibleBuildings":[6,19],"minPersonnel":1,"maxPersonnel":2,"schooling":null},"33":{"caption":"GW-Höhenrettung","color":"#570f0f","credits":19500,"coins":25,"staff":{"min":1,"max":9,"training":{"Feuerwehr":{"gw_hoehenrettung":{"all":true}}}},"icon":"truck","possibleBuildings":[0,18],"special":"Wird ab 12 Feuerwachen benötigt.","minPersonnel":1,"maxPersonnel":9,"schooling":{"Feuerwehr":{"Höhenrettung Lehrgang":{"all":true}}}},"34":{"caption":"ELW 2","color":"#bf2222","credits":25500,"coins":25,"staff":{"min":1,"max":6,"training":{"Feuerwehr":{"elw2":{"all":true}}}},"icon":"truck","possibleBuildings":[0,18],"special":"Wird ab 13 Feuerwachen benötigt.","minPersonnel":1,"maxPersonnel":6,"schooling":{"Feuerwehr":{"ELW 2 Lehrgang":{"all":true}}}},"35":{"caption":"leBefKw","color":"#288f28","credits":10000,"coins":25,"staff":{"min":1,"max":3,"training":{"Polizei":{"police_einsatzleiter":{"all":true}}}},"icon":"bus","possibleBuildings":[11],"minPersonnel":1,"maxPersonnel":3,"schooling":{"Polizei":{"Zugführer (leBefKw)":{"all":true}}}},"36":{"caption":"MTW","color":"#450c0c","credits":2500,"coins":12,"staff":{"min":1,"max":9},"icon":"shuttle-van","possibleBuildings":[0,18],"minPersonnel":1,"maxPersonnel":9,"schooling":null},"37":{"caption":"TSF-W","color":"#4a0303","credits":5000,"coins":25,"staff":{"min":1,"max":6},"icon":"truck-moving","possibleBuildings":[0,18],"waterTank":500,"pumpCapacity":1000,"pumpType":"fire","foamTank":150,"minPersonnel":1,"maxPersonnel":6,"wtank":500,"pumpcap":1000,"ftank":150,"schooling":null},"38":{"caption":"KTW","color":"#ffb61a","credits":5000,"coins":25,"staff":{"min":1,"max":2},"icon":"ambulance","possibleBuildings":[0,2,18,20,25],"minPersonnel":1,"maxPersonnel":2,"schooling":null},"39":{"caption":"GKW","color":"#00138f","credits":13000,"coins":25,"staff":{"min":1,"max":9},"icon":"truck-moving","possibleBuildings":[9],"minPersonnel":1,"maxPersonnel":9,"schooling":null},"40":{"caption":"MTW-TZ","color":"#0016a3","credits":2500,"coins":12,"staff":{"min":1,"max":4,"training":{"THW":{"thw_zugtrupp":{"all":true}}}},"icon":"shuttle-van","possibleBuildings":[9],"minPersonnel":1,"maxPersonnel":4,"schooling":{"THW":{"Zugtrupp":{"all":true}}}}};
+  const GROUP_ORDER = [
+    'Feuerwache','Abrollbehälter Feuerwache','Rettungswache','SEG','RTH',
+    'Polizeiwache','Bereitschaftspolizei','PolizeiSondereinheiten',
+    'Polizeihubschrauber Station','Autobahnpolizei','Reiterstaffel',
+    'THW','Wasserrettung','Rettungshundestaffel','Bergrettung','Seenotrettung'
+  ];
+  // Reihenfolge der Wiki-Vorlage; unbekannte / neue Fahrzeuge werden danach angehängt.
+  const WIKI_ORDER = {
+    'Feuerwache': 'LF10|LF20|LF8/6|LF20/16|LF10/6|LF16 TS|TSF-W|HLF20|TLF2000|TLF3000|TLF8/8|TLF8/18|TLF16/24-Tr|TLF16/25|TLF16/45|TLF20/40|TLF20/40-SL|TLF16|ELW1|ELW2|SW1000|SW2000|SW2000-Tr|SW-Kats|GW-L2-Wasser|DLK23|RW|MTW|WLF|FwK|GW-Atemschutz|GW-Öl|GW-Gefahrgut|GW-Messtechnik|Dekon P|GW-Höhenrettung|GW-Werkfeuerwehr|ULF mit Löscharm|TM 50|Turbolöscher',
+    'Abrollbehälter Feuerwache': 'AB-Atemschutz|AB-Schlauch|AB-Öl|AB-Dekon P|AB-Rüst|AB-MzB|AB-EL|AB-Gefahrgut',
+    'Rettungswache': 'RTW|NEF|KTW|KdoW-LNA|KdoW-OrgL|NAW|GRTW',
+    'SEG': 'KTW Typ B|ELW1 (SEG)|GW-San|GW-Wasserrettung|GW-Taucher|MzB',
+    'RTH': 'RTH',
+    'Polizeiwache': 'FuStW|Polizeimotorrad|Funkstreifenwagen (Dienstgruppenleitung)',
+    'Bereitschaftspolizei': 'leBefKw|GruKw|FüKw|GefKw|Wasserwerfer (WaWe 10)|SEK-ZF|SEK-MTF|MEK-ZF|MEK-MTF',
+    'PolizeiSondereinheiten': 'FüKw|SEK-ZF|SEK-MTF|MEK-ZF|MEK-MTF',
+    'Polizeihubschrauber Station': 'Polizeihubschrauber',
+    'THW': 'GKW|MTW OV|MLW 5|LKW K 9|Anh BRmG R|Anh DLE|MzGW|Anh NEA50|MTW-TZ|LKW 7Lkr 19tm|Tauchkraftwagen|Anh MzB|Anh SchlB|Anh MzAB|MTW-O|Anh Hund|MLW 4|LKW 7 Lbw (FGr WP)|Anh SwPu|Anh 7|LKW 7 Lbw (FGr E)|Anh NEA200|MTW-Tr UL|MzGW (FGr SB)|FmKW|FüKW (THW)|FüKomKW|MTW-FGr K|Anh FüLa',
+    'Bergrettung': 'GW-Bergrettung (NEF)|GW-Bergrettung|ELW Bergrettung|ATV|Hundestaffel (Bergrettung)|Schneefahrzeug|Anh Höhenrettung (Bergrettung)|GW-Höhenrettung',
+    'Seenotrettung': 'Seenotrettungsboot|Seenotrettungskreuzer'
+  };
+  const FALLBACK_BUILDINGS = {
+    0:'Feuerwache',2:'Rettungswache',5:'Rettungshubschrauber-Station',
+    6:'Polizeiwache',9:'THW',11:'Bereitschaftspolizei',12:'Schnelleinsatzgruppe (SEG)',
+    13:'Polizeihubschrauberstation',15:'Wasserrettung',17:'Polizei-Sondereinheiten',
+    18:'Feuerwache (Kleinwache)',19:'Polizeiwache (Kleinwache)',20:'Rettungswache (Kleinwache)',
+    21:'Rettungshundestaffel',24:'Reiterstaffel',25:'Bergrettungswache',
+    26:'Seenotrettungswache',28:'Hubschrauberstation (Seenotrettung)',29:'Autobahnpolizei'
+  };
+  const BUILDING_GROUPS = {
+    0:'Feuerwache',18:'Feuerwache',
+    2:'Rettungswache',20:'Rettungswache',
+    5:'RTH',
+    6:'Polizeiwache',19:'Polizeiwache',
+    9:'THW',11:'Bereitschaftspolizei',12:'SEG',
+    13:'Polizeihubschrauber Station',15:'Wasserrettung',
+    17:'PolizeiSondereinheiten',21:'Rettungshundestaffel',
+    24:'Reiterstaffel',25:'Bergrettung',
+    26:'Seenotrettung',28:'Seenotrettung',
+    29:'Autobahnpolizei'
+  };
+  const SCHOOL_NAMES = {
+    Feuerwehr:'Feuerwehrschule', Rettungsdienst:'Rettungsschule', Polizei:'Polizeischule',
+    THW:'THW-Bundesschule', THW_Bund:'THW-Bundesschule'
+  };
+  const COLUMN_DEFINITIONS = {
+    id:{name:'Fahrzeug-ID',value:v=>v.id},
+    credits:{name:'Credits',value:v=>v.credits},
+    coins:{name:'Coins',value:v=>v.coins},
+    waterTank:{name:'Wasser (l)',value:v=>v.waterTank ?? v.wtank},
+    pumpCapacity:{name:'Pumpe (l/min)',value:v=>v.pumpCapacity ?? v.pumpcap},
+    foamTank:{name:'Schaum (l)',value:v=>v.foamTank ?? v.ftank}
+  };
+  const nf = new Intl.NumberFormat('de-DE');
+  const state = {vehicles:[],buildings:{...FALLBACK_BUILDINGS},mode:'',time:null,sortBy:'wiki',sortDir:1,openVehicle:null,extra:new Set(),loading:false};
+  const el = id=>document.getElementById(id);
+  const escapeHTML = v=>String(v ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const textOrDash = v=>(v===null || v===undefined || v==='')?'–':escapeHTML(v);
+  const prettyNumber = v=>(v===null || v===undefined || v==='')?'–':typeof v==='number'?nf.format(v):escapeHTML(v);
+  const clean = s=>String(s ?? '').toLocaleLowerCase('de-DE').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,'');
+  const needsTraining = v=>!!v.schooling && typeof v.schooling==='object' && Object.values(v.schooling).some(x=>x && typeof x==='object' && Object.keys(x).length);
+  const vehicleName = v=>String(v.caption ?? v.name ?? 'Unbenanntes Fahrzeug');
+  const staffMin = v=>v.minPersonnel ?? v.staff?.min ?? null;
+  const staffMax = v=>v.maxPersonnel ?? v.staff?.max ?? null;
+  function courses(v){
+    if (!needsTraining(v)) return [];
+    const out=[];
+    for (const [school, subject] of Object.entries(v.schooling)) {
+      if (!subject || typeof subject!=='object') continue;
+      for (const key of Object.keys(subject)) out.push({course:key,school:SCHOOL_NAMES[school] || school});
+    }
+    return out;
+  }
+  function unique(values){return [...new Set(values)];}
+  function normalizeData(data){
+    const source=(data && typeof data==='object' && !Array.isArray(data) && data.vehicles)?data.vehicles:data;
+    if (!source || typeof source!=='object') throw new Error('Unerwartetes API-Datenformat.');
+    return (Array.isArray(source)?source.map((v,i)=>[String(v?.id ?? i),v]):Object.entries(source))
+      .filter(([,v])=>v && typeof v==='object' && (v.caption || v.name))
+      .map(([id,v])=>({...v,id:Number.isFinite(Number(id))?Number(id):String(id)}));
+  }
+  function buildingNames(v){
+    return unique((Array.isArray(v.possibleBuildings)?v.possibleBuildings:[])
+      .map(i=>state.buildings[i]?.caption ?? state.buildings[i] ?? 'Gebäude-ID '+i));
+  }
+  function groupForBuilding(buildingId){
+    const id=Number(buildingId);
+    if (Object.hasOwn(BUILDING_GROUPS,id)) return BUILDING_GROUPS[id];
+
+    const caption=String(state.buildings[buildingId]?.caption ?? state.buildings[buildingId] ?? '').trim();
+    const name=clean(caption);
+    if(!name) return 'Sonstige Fahrzeuge';
+    if(name.includes('seenotrettung') || name.includes('seefahrt')) return 'Seenotrettung';
+    if(name.includes('bergrettung')) return 'Bergrettung';
+    if(name.includes('rettungshubschrauber')) return 'RTH';
+    if(name.includes('polizeihubschrauber')) return 'Polizeihubschrauber Station';
+    if(name.includes('autobahnpolizei')) return 'Autobahnpolizei';
+    if(name.includes('polizeisondereinheit')) return 'PolizeiSondereinheiten';
+    if(name.includes('bereitschaftspolizei')) return 'Bereitschaftspolizei';
+    if(name.includes('polizeiwache')) return 'Polizeiwache';
+    if(name.includes('feuerwache')) return 'Feuerwache';
+    if(name.includes('rettungswache')) return 'Rettungswache';
+    if(name.includes('schnelleinsatzgruppe') || name==='seg') return 'SEG';
+    if(name.includes('wasserrettung')) return 'Wasserrettung';
+    if(name.includes('rettungshundestaffel')) return 'Rettungshundestaffel';
+    if(name.includes('reiterstaffel')) return 'Reiterstaffel';
+    if(name==='thw' || name.includes('thwortsverband')) return 'THW';
+    return caption;
+  }
+  function categorize(v){
+    const ids=Array.isArray(v.possibleBuildings)?v.possibleBuildings:[];
+    const isContainer=/^ab(?:[-\s]|$)/i.test(vehicleName(v).trim());
+    const groups=unique(ids.map(id=>{
+      const org=groupForBuilding(id);
+      return (isContainer && org==='Feuerwache')?'Abrollbehälter Feuerwache':org;
+    }));
+    if(groups.length) return groups;
+    const name=clean(vehicleName(v));
+    if(name.startsWith('ab')) return ['Abrollbehälter Feuerwache'];
+    if(name.includes('seenotrettung')) return ['Seenotrettung'];
+    if(name.includes('bergrettung')) return ['Bergrettung'];
+    return ['Sonstige Fahrzeuge'];
+  }
+
+  function getOrderIndex(v,group){
+    const arr=(WIKI_ORDER[group]||'').split('|');
+    const idx=arr.findIndex(s=>clean(s)===clean(vehicleName(v)));
+    return idx<0?Number.MAX_SAFE_INTEGER:idx;
+  }
+  function cmp(a,b){return String(a).localeCompare(String(b),'de',{numeric:true,sensitivity:'base'});}
+  function sortVehicles(list,group){
+    return [...list].sort((a,b)=>{
+      let d=0;
+      if(state.sortBy==='wiki'){
+        d=getOrderIndex(a,group)-getOrderIndex(b,group);
+      }else if(state.sortBy==='min'){
+        d=(staffMin(a)??-1)-(staffMin(b)??-1);
+      }else if(state.sortBy==='max'){
+        d=(staffMax(a)??-1)-(staffMax(b)??-1);
+      }else if(state.sortBy==='course'){
+        d=cmp(courses(a).map(x=>x.course).join(', '),courses(b).map(x=>x.course).join(', '));
+      }else if(state.sortBy==='school'){
+        d=cmp(unique(courses(a).map(x=>x.school)).join(', '),unique(courses(b).map(x=>x.school)).join(', '));
+      }else if(state.sortBy==='caption'){
+        d=cmp(vehicleName(a),vehicleName(b));
+      }
+      return d*state.sortDir || (typeof a.id==='number'&&typeof b.id==='number'?a.id-b.id:cmp(a.id,b.id));
+    });
+  }
+  function headers(){
+    let base=[
+      ['Fahrzeug','caption',''],
+      ['Minimale Besatzung','min','number'],
+      ['Maximale Besatzung','max','number'],
+      ['Benötigter Lehrgang','course','training'],
+      ['Schule','school','school']
+    ];
+    return base.map(([label,key,klass])=>{
+      const active=state.sortBy===key;
+      const arrow=active?(state.sortDir===1?'▲':'▼'):'↕';
+      return `<th scope="col" class="${klass}" aria-sort="${active?(state.sortDir===1?'ascending':'descending'):'none'}"><button class="sort-button" type="button" data-sort="${key}" title="Nach ${escapeHTML(label)} sortieren">${escapeHTML(label)} <span class="sort-indicator" aria-hidden="true">${arrow}</span></button></th>`;
+    }).join('') + [...state.extra].map(k=>`<th scope="col" class="${k==='credits'||k==='coins'?'credits':''}">${escapeHTML(COLUMN_DEFINITIONS[k].name)}</th>`).join('');
+  }
+  function detailHTML(v){
+    const pairs=[
+      ['Fahrzeug-ID',v.id],['Credits',v.credits],['Coins',v.coins],
+      ['Mögliche Gebäude',buildingNames(v).join(', ')||null],
+      ['Wassertank',v.waterTank ?? v.wtank, ' l'],['Pumpenleistung',v.pumpCapacity ?? v.pumpcap,' l/min'],
+      ['Schaumtank',v.foamTank ?? v.ftank,' l'],
+      ['Wasserbonus',v.waterBonus,'%'],['Ausrüstungsplätze',v.equipmentCapacity]
+    ].filter(([,value])=>value!==undefined&&value!==null&&value!=='');
+    const details=pairs.map(([name,value,suffix=''])=>`<div><dt>${escapeHTML(name)}</dt><dd>${typeof value==='number'?prettyNumber(value):escapeHTML(value)}${suffix}</dd></div>`).join('');
+    const note=(typeof v.special==='string' && v.special.trim())?`<div class="detail-description"><strong>Besonderheiten:</strong> ${escapeHTML(v.special)}</div>`:'';
+    return `<div><strong>${escapeHTML(vehicleName(v))}</strong> – zusätzliche API-Angaben</div><dl class="detail-grid">${details}</dl>${note}<details class="raw-data"><summary>Komplette API-Daten dieses Fahrzeugs anzeigen</summary><pre>${escapeHTML(JSON.stringify(v,null,2))}</pre></details>`;
+  }
+  function tableHTML(list,group){
+    const selected=[...state.extra];
+    const body=sortVehicles(list,group).map(v=>{
+      const name=vehicleName(v),c=courses(v), rowKey=group+'|'+String(v.id), opened=state.openVehicle===rowKey;
+      const detailId='detail-'+groupId(group)+'-'+clean(v.id);
+      const courseText=unique(c.map(x=>x.course)).join(', ');
+      const schoolText=unique(c.map(x=>x.school)).join(', ');
+      const cols=selected.map(k=>`<td class="${k==='credits'||k==='coins'?'credits':''}">${prettyNumber(COLUMN_DEFINITIONS[k].value(v))}</td>`).join('');
+      const row=`<tr><td><button class="vehicle-btn" type="button" data-vehicle="${escapeHTML(v.id)}" aria-expanded="${opened}" aria-controls="${detailId}" data-group="${escapeHTML(group)}">${escapeHTML(name)}</button></td><td class="number">${prettyNumber(staffMin(v))}</td><td class="number">${prettyNumber(staffMax(v))}</td><td class="training">${textOrDash(courseText)}</td><td class="school">${textOrDash(schoolText)}</td>${cols}</tr>`;
+      return row+(opened?`<tr class="detail-row" id="${detailId}"><td colspan="${5+selected.length}">${detailHTML(v)}</td></tr>`:'');
+    }).join('');
+    return `<div class="table-wrap"><table class="wikitable"><caption class="sr-only">${escapeHTML(group)}</caption><thead><tr>${headers()}</tr></thead><tbody>${body}</tbody></table></div>`;
+  }
+  function groupId(s){return 'bereich-'+clean(s);}
+  function allGroups(){
+    const labels=unique(state.vehicles.flatMap(categorize));
+    return labels.sort((a,b)=>{
+      const x=GROUP_ORDER.indexOf(a),y=GROUP_ORDER.indexOf(b);
+      return (x<0?1000:x)-(y<0?1000:y)||cmp(a,b);
+    });
+  }
+
+  function updateGroupSelector(){
+    const current=el('groupFilter').value;
+    el('groupFilter').replaceChildren(new Option('Alle Bereiche',''));
+    for (const group of allGroups()) el('groupFilter').add(new Option(group,group));
+    if(allGroups().includes(current)) el('groupFilter').value=current;
+  }
+  function render(){
+    const query=clean(el('search').value), group=el('groupFilter').value,school=el('schoolFilter').value;
+    const visible=state.vehicles.filter(v=>{
+      if(group && !categorize(v).includes(group)) return false;
+      if(school==='yes'&&!needsTraining(v)) return false;
+      if(school==='no'&&needsTraining(v)) return false;
+      if(!query) return true;
+      const searchable=[vehicleName(v),v.id,v.special,buildingNames(v).join(' '),courses(v).map(x=>x.course+' '+x.school).join(' ')].join(' ');
+      return clean(searchable).includes(query);
+    });
+
+    // Ein Fahrzeug wird in jede zutreffende Organisation eingetragen.
+    // Im Bereichsfilter wird nur die ausgewählte Organisation gerendert.
+    const shownGroups=group?[group]:allGroups();
+    const grouped=new Map(shownGroups.map(label=>[label,[]]));
+    for(const v of visible){
+      for(const label of categorize(v)) grouped.get(label)?.push(v);
+    }
+    const nonEmpty=[...grouped].filter(([,list])=>list.length);
+    const entries=nonEmpty.reduce((total,[,list])=>total+list.length,0);
+    const container=el('results');
+    if(!visible.length){container.innerHTML='<div class="empty">Keine Fahrzeuge für die gewählten Filter gefunden.</div>';}
+    else {
+      container.innerHTML=nonEmpty.map(([label,list])=>
+        `<section aria-label="${escapeHTML(label)}"><h2 class="section-title" id="${groupId(label)}">${escapeHTML(label)} <span class="section-count">(${nf.format(list.length)})</span></h2>${tableHTML(list,label)}</section>`
+      ).join('');
+    }
+    el('count').innerHTML=`<strong>${nf.format(visible.length)}</strong> von <strong>${nf.format(state.vehicles.length)}</strong> Fahrzeugtypen · <strong>${nf.format(entries)}</strong> Tabelleneinträge`;
+    if(entries>visible.length) el('count').innerHTML+=' <span>(Mehrfachzuordnung möglich)</span>';
+    if(state.mode==='beispiel') el('count').innerHTML+=' <span>(unvollständige Vorschau)</span>';
+    el('navGroups').innerHTML=nonEmpty.map(([label,list])=>
+      `<li><a href="#${groupId(label)}">${escapeHTML(label)} (${list.length})</a></li>`).join('')||'<li>Keine Treffer</li>';
+  }
+
+  function setStatus(message,style=''){const status=el('status');status.textContent=message;status.className='notice'+(style?' '+style:'');}
+  function setTime(time){
+    state.time=time;
+    el('updated').textContent=time?'Stand: '+new Date(time).toLocaleString('de-DE',{dateStyle:'medium',timeStyle:'short'}):'Stand: unbekannt';
+  }
+  function setMode(mode){
+    state.mode=mode;
+    el('mode').textContent='Datenquelle: '+(mode==='live'?'Live-API':mode==='cache'?'lokaler Zwischenspeicher':'Beispielausschnitt');
+  }
+  function readCache(){try{const item=JSON.parse(localStorage.getItem(CACHE_KEY));return item && item.vehicles?item:null;}catch{return null;}}
+  function saveCache(item){try{localStorage.setItem(CACHE_KEY,JSON.stringify(item));}catch{/* privater Modus oder deaktivierter Speicher */}}
+  async function requestJSON(url){
+    const controller=new AbortController();
+    const timer=setTimeout(()=>controller.abort(),15000);
+    try {
+      const response=await fetch(url,{method:'GET',mode:'cors',cache:'no-store',signal:controller.signal,headers:{Accept:'application/json'}});
+      if(!response.ok) throw new Error('HTTP '+response.status);
+      return await response.json();
+    } finally {clearTimeout(timer);}
+  }
+  async function load(){
+    if(state.loading)return;
+    state.loading=true;el('reload').disabled=true;el('reload').textContent='Lade …';
+    setStatus('Fahrzeugdaten werden von der API abgerufen …');
+    const [vehicleResult,buildingResult]=await Promise.allSettled([requestJSON(API_VEHICLES),requestJSON(API_BUILDINGS)]);
+    try {
+      if(buildingResult.status==='fulfilled' && buildingResult.value && typeof buildingResult.value==='object'){
+        state.buildings={...FALLBACK_BUILDINGS,...buildingResult.value};
+      } else {
+        const cached=readCache();
+        state.buildings={...FALLBACK_BUILDINGS,...(cached?.buildings||{})};
+      }
+      if(vehicleResult.status==='fulfilled'){
+        const vehicles=normalizeData(vehicleResult.value);
+        if(!vehicles.length) throw new Error('API-Antwort ohne Fahrzeuge.');
+        state.vehicles=vehicles;
+        const now=new Date().toISOString();setTime(now);setMode('live');
+        saveCache({vehicles:vehicleResult.value,buildings:state.buildings,time:now});
+        setStatus(`${nf.format(vehicles.length)} Fahrzeugtypen erfolgreich über die LSS-Manager-API geladen.`,'success');
+      } else throw vehicleResult.reason || new Error('Unbekannter Verbindungsfehler');
+    } catch(error){
+      const cache=readCache();
+      if(cache){
+        try{state.vehicles=normalizeData(cache.vehicles);setTime(cache.time);setMode('cache');
+          setStatus('Die Live-API ist derzeit nicht erreichbar. Es werden zuletzt gespeicherte Fahrzeugdaten angezeigt. Grund: '+String(error?.message||error),'warning');
+        }catch{state.vehicles=normalizeData(EXAMPLE_VEHICLES);setTime(null);setMode('beispiel');setStatus('API nicht erreichbar; nur die 41 Beispiel-Fahrzeuge aus dem Anhang werden angezeigt. Grund: '+String(error?.message||error),'error');}
+      } else {
+        state.vehicles=normalizeData(EXAMPLE_VEHICLES);setTime(null);setMode('beispiel');
+        setStatus('Live-API nicht erreichbar; daher werden ausschließlich 41 Beispiel-Fahrzeuge aus dem Anhang angezeigt (nicht vollständig oder aktuell). Grund: '+String(error?.message||error)+' Falls nötig, die HTML über einen lokalen Webserver öffnen.','warning');
+      }
+    }finally{
+      state.loading=false;el('reload').disabled=false;el('reload').textContent='Aktualisieren';
+      state.openVehicle=null;updateGroupSelector();render();
+    }
+  }
+  el('search').addEventListener('input',render);
+  el('groupFilter').addEventListener('change',render);
+  el('schoolFilter').addEventListener('change',render);
+  el('reload').addEventListener('click',load);
+  el('clear').addEventListener('click',()=>{
+    el('search').value='';el('groupFilter').value='';el('schoolFilter').value='all';
+    state.sortBy='wiki';state.sortDir=1;state.openVehicle=null;
+    state.extra.clear();document.querySelectorAll('[data-extra]').forEach(i=>i.checked=false);
+    render();
+  });
+  document.querySelectorAll('[data-extra]').forEach(input=>input.addEventListener('change',()=>{
+    if(input.checked)state.extra.add(input.dataset.extra);else state.extra.delete(input.dataset.extra);
+    render();
+  }));
+  el('results').addEventListener('click',event=>{
+    const sort=event.target.closest('[data-sort]');
+    if(sort){
+      const key=sort.dataset.sort;
+      if(state.sortBy===key)state.sortDir*=-1;
+      else{state.sortBy=key;state.sortDir=1;}
+      render();return;
+    }
+    const btn=event.target.closest('[data-vehicle]');
+    if(btn){
+      const rowKey=btn.dataset.group+'|'+btn.dataset.vehicle;
+      state.openVehicle=state.openVehicle===rowKey?null:rowKey;
+      render();
+      const same=[...el('results').querySelectorAll('[data-vehicle]')].find(b=>
+        b.dataset.vehicle===btn.dataset.vehicle && b.dataset.group===btn.dataset.group);
+      if(same)same.focus({preventScroll:true});
+    }
+  });
+  // Regelmäßige Aktualisierung bei geöffneter / sichtbarer Seite (15 Minuten).
+  setInterval(()=>{if(!document.hidden && !state.loading)load();},15*60*1000);
+  load();
+  </script>
+</body>
+</html>
