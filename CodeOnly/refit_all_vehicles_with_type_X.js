@@ -1,17 +1,3 @@
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-//Achtung: Dieses Script Funktioniert nicht. Es liegt hier nur zur Datensicherung
-
 (async () => {
   'use strict';
 
