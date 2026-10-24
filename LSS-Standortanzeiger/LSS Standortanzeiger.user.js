@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Standortanzeiger
 // @namespace    https://github.com/Glaeydar/LSS_Scripts/Standortanzeiger.user.js
-// @version      0.96
+// @version      0.97
 // @description  Zeigt die Standorte von Wachen an
 // @author       Glaeydar -edit by MissSobol
 // @match        https://www.leitstellenspiel.de/
@@ -632,7 +632,7 @@
                 headers: {
                     'Cache-Control': 'no-cache'
                 },
-                timeout: 10000
+                timeout: 100000
             });
         } catch (error) {
             showTemporaryButtonMessage('Overpass-Status nicht verfügbar', 5000);
