@@ -38,7 +38,7 @@ Sollten die Skripte nicht funktionieren:
 
 ## Verzeichnis der Scripte
 <details>
-  <summary>Klicke hier, um eine Liste aller 234 Scripte anzuzeigen.</summary>
+  <summary>Klicke hier, um eine Liste aller 235 Scripte anzuzeigen.</summary>
 
 - AAO Massenbearbeitung
 - AAO abhängige Alarmierung
@@ -175,6 +175,7 @@ Sollten die Skripte nicht funktionieren:
 - Individueller Platz für die Systemnachrichten
 - Karten Filter Hider
 - Kartenkreuz
+- Kilometerauswertung
 - Komm in meine Arme
 - Kopiere Einsatznamen+Einsatztyp+MissionID
 - Krankenhausbesitzer
