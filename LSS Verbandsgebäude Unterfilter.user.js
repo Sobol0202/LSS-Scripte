@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Verbandsgebäude Unterfilter
-// @version      1.0
-// @description  Fügt Unterfilter für Verbandsgebäude hinzu
+// @version      1.1
+// @description  Fügt Unterfilter für Verbandsgebäude im Karten-Dropdown hinzu.
 // @author       Sobol
 // @match        https://www.leitstellenspiel.de/*
 // @grant        none
@@ -10,7 +10,6 @@
 (function () {
     "use strict";
 
-    // Mapping der Bilddateien zu den Unterfilter-Bezeichnungen
     const buildingMap = {
         "building_hospital_other.png": "Verbandskrankenhäuser",
         "building_polizeiwache_other.png": "Verbandszellen",
@@ -19,127 +18,212 @@
         "building_thw_school_other.png": "THW-Schulen",
         "building_fireschool_other.png": "Feuerwehrschulen",
         "building_coastal_rescue_school_other.png": "Seenotakademien",
-        "building_bereitstellungsraum_other.png": "Bereitstellungsräume",
+        "building_bereitstellungsraum_other.png": "Bereitstellungsräume"
     };
 
-    const mapSelector = "div.leaflet-control-layers-overlays";
-    const markerSelector = ".leaflet-marker-pane img.leaflet-marker-icon";
+    const dropdownSelector = "#map_filters";
+    const mainFilterSelector = "#alliance_buildings";
+    const markerSelector =
+        ".leaflet-marker-pane img.leaflet-marker-icon";
 
-    function waitForElement(selector, callback) {
-        const existing = document.querySelector(selector);
-        if (existing) {
-            callback(existing);
-            return;
+    const subFilterClass = "lss-verband-subfilter";
+
+    let mainCheckbox = null;
+    let markerObserver = null;
+    let updateScheduled = false;
+
+    function getMarkerType(marker) {
+        try {
+            const url = new URL(marker.src, location.href);
+            return url.pathname.split("/").pop();
+        } catch {
+            return null;
         }
-
-        const observer = new MutationObserver(() => {
-            const found = document.querySelector(selector);
-            if (found) {
-                observer.disconnect();
-                callback(found);
-            }
-        });
-
-        observer.observe(document.body, { childList: true, subtree: true });
     }
 
-    // Unterfilter UI erstellen
-    function createSubFilterUI(labelElement) {
-        if (document.getElementById("verband-subfilter-box")) return;
+    function getActiveFilters() {
+        return new Set(
+            [...document.querySelectorAll(
+                "." + subFilterClass + " input[type=checkbox]"
+            )]
+                .filter(cb => cb.checked)
+                .map(cb => cb.dataset.src)
+        );
+    }
 
-        const container = document.createElement("div");
-        container.id = "verband-subfilter-box";
-        container.style.marginLeft = "25px";
-        container.style.marginTop = "5px";
+    function updateMarkers() {
+        if (!mainCheckbox) return;
+
+        const activeFilters = getActiveFilters();
+
+        document.querySelectorAll(markerSelector).forEach(marker => {
+            const type = getMarkerType(marker);
+
+            if (!Object.prototype.hasOwnProperty.call(
+                buildingMap, type
+            )) {
+                return;
+            }
+
+            if (!mainCheckbox.checked) {
+                marker.style.removeProperty("display");
+                return;
+            }
+
+            if (activeFilters.has(type)) {
+                marker.style.removeProperty("display");
+            } else {
+                marker.style.display = "none";
+            }
+        });
+    }
+
+    function scheduleUpdate() {
+        if (updateScheduled) return;
+
+        updateScheduled = true;
+
+        requestAnimationFrame(() => {
+            updateScheduled = false;
+            updateMarkers();
+        });
+    }
+
+    function createSubFilterUI() {
+        const dropdown = document.querySelector(dropdownSelector);
+        mainCheckbox = document.querySelector(mainFilterSelector);
+
+        if (!dropdown || !mainCheckbox) return false;
+
+        const mainLi = mainCheckbox.closest("li");
+        if (!mainLi) return false;
+
+        if (dropdown.querySelector("." + subFilterClass)) {
+            return true;
+        }
+
+        const fragment = document.createDocumentFragment();
 
         Object.entries(buildingMap).forEach(([src, label]) => {
-            const id = "filter-" + src.replace(".png", "");
+            const li = document.createElement("li");
 
-            const wrapper = document.createElement("div");
-            wrapper.style.marginBottom = "3px";
+            li.className =
+                "filter_list__element " +
+                "filter_list__element--third " +
+                subFilterClass;
+
+            li.style.paddingLeft = "25px";
+
+            const labelElement = document.createElement("label");
+            labelElement.style.cursor = "pointer";
+            labelElement.style.display = "block";
+            labelElement.style.marginBottom = "0";
 
             const checkbox = document.createElement("input");
             checkbox.type = "checkbox";
-            checkbox.id = id;
             checkbox.checked = true;
             checkbox.dataset.src = src;
+            checkbox.id = "lss-filter-" + src.replace(".png", "");
 
-            const lbl = document.createElement("label");
-            lbl.setAttribute("for", id);
-            lbl.textContent = " " + label;
+            checkbox.addEventListener("change", () => {
+                scheduleUpdate();
+            });
 
-            checkbox.addEventListener("change", updateMarkers);
+            labelElement.appendChild(checkbox);
+            labelElement.appendChild(
+                document.createTextNode(" " + label)
+            );
 
-            wrapper.appendChild(checkbox);
-            wrapper.appendChild(lbl);
-            container.appendChild(wrapper);
+            li.appendChild(labelElement);
+            fragment.appendChild(li);
         });
 
-        labelElement.insertAdjacentElement("afterend", container);
+        mainLi.after(fragment);
+
+        return true;
     }
 
-    // Marker anhand der Unterfilter ein-/ausblenden
-    function updateMarkers() {
-        const activeSrc = [...document.querySelectorAll("#verband-subfilter-box input[type=checkbox]")]
-            .filter(cb => cb.checked)
-            .map(cb => cb.dataset.src);
+    function setupMainFilter() {
+        if (!mainCheckbox) return;
 
-        document.querySelectorAll(markerSelector).forEach(marker => {
-            const src = marker.src.split("/").pop();
+        mainCheckbox.addEventListener("change", () => {
+            const subCheckboxes = document.querySelectorAll(
+                "." + subFilterClass + " input[type=checkbox]"
+            );
 
-            if (!buildingMap[src]) return; // kein Verbandsgebäude
+            if (mainCheckbox.checked) {
 
-            marker.style.display = activeSrc.includes(src) ? "" : "none";
-        });
-    }
-
-    // Reaktion auf Hauptfilter "Verbandsgebäude"
-    function setupMainFilterObserver(checkbox) {
-        checkbox.addEventListener("change", () => {
-            const subs = document.querySelectorAll("#verband-subfilter-box input");
-
-            if (checkbox.checked) {
-                subs.forEach(cb => cb.checked = true);
-                updateMarkers();
-            } else {
-                // Alle Verbandsmarker wieder anzeigen
-                document.querySelectorAll(markerSelector).forEach(marker => {
-                    const src = marker.src.split("/").pop();
-                    if (buildingMap[src]) marker.style.display = "";
+                subCheckboxes.forEach(cb => {
+                    cb.checked = true;
                 });
             }
+
+            scheduleUpdate();
         });
     }
 
-    // Leaflet Map Zoom/Move Listener → Filter erneut anwenden
-    function setupMapObserver() {
-        const interval = setInterval(() => {
-            if (window.map && typeof window.map.on === "function") {
-                clearInterval(interval);
+    function setupMarkerObserver() {
+        const markerPane = document.querySelector(
+            ".leaflet-marker-pane"
+        );
 
-                window.map.on("zoomend", updateMarkers);
-                window.map.on("moveend", updateMarkers);
-            }
-        }, 10);
+        if (!markerPane || markerObserver) return;
+
+        markerObserver = new MutationObserver(() => {
+            scheduleUpdate();
+        });
+
+        markerObserver.observe(markerPane, {
+            childList: true,
+            subtree: true,
+            attributes: true,
+            attributeFilter: ["src", "class"]
+        });
     }
 
-    // Initialisieren
-    waitForElement(mapSelector, () => {
-        const labels = document.querySelectorAll(mapSelector + " label");
+    function setupMapEvents() {
+        if (!window.map || typeof window.map.on !== "function") {
+            return;
+        }
 
-        labels.forEach(label => {
-            const a = label.querySelector("a.alliance-buildings-filter");
-            if (!a) return;
+        window.map.on("zoomend", scheduleUpdate);
+        window.map.on("moveend", scheduleUpdate);
+        window.map.on("layeradd", scheduleUpdate);
+    }
 
-            if (a.textContent.includes("Verbandsgebäude")) {
-                const checkbox = label.querySelector("input[type=checkbox]");
-                if (!checkbox) return;
+    function initialize() {
+        if (!createSubFilterUI()) return false;
 
-                createSubFilterUI(label);
-                setupMainFilterObserver(checkbox);
-                setupMapObserver();
+        setupMainFilter();
+        setupMarkerObserver();
+        setupMapEvents();
+        scheduleUpdate();
+
+        return true;
+    }
+
+    function waitForDropdown() {
+        if (initialize()) return;
+
+        const observer = new MutationObserver(() => {
+            if (initialize()) {
+                observer.disconnect();
             }
         });
-    });
+
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener(
+            "DOMContentLoaded",
+            waitForDropdown
+        );
+    } else {
+        waitForDropdown();
+    }
 
 })();
