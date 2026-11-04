@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LSS Forum: SozialMedia Verstecken
 // @namespace    leitstellenspiel.de
-// @version      1.1
+// @version      1.2
 // @description  Blendet bestimmte Forenelemente aus
 // @author       MissSobol
 // @match        https://forum.leitstellenspiel.de/*
@@ -11,11 +11,9 @@
 (function() {
     'use strict';
 
-    // Flags zum Steuern des Ausblendens
-    const hideSocialMedia = true; // Facebook, Instagram, TikTok
-    const hideToGame = true; // Leitstellenspiel
+    const hideSocialMedia = true;
+    const hideToGame = true;
 
-    // Href-URLs, die ausgeblendet werden sollen
     const socialMediaHrefs = [
         "https://www.facebook.com/Leitstellenspiel.de",
         "https://www.instagram.com/leitstellenspiel/",
@@ -25,29 +23,29 @@
 
     const toGameHref = "https://www.leitstellenspiel.de";
 
-    // Funktion zum Verstecken der Elemente
     function hideElements() {
         if (hideSocialMedia) {
             socialMediaHrefs.forEach(href => {
-                const elements = document.querySelectorAll(`li a[href='${href}']`);
-                elements.forEach(element => {
-                    element.closest('li').style.display = 'none';
+                document.querySelectorAll(`li a[href='${href}']`).forEach(element => {
+                    element.closest('li')?.style.setProperty('display', 'none');
                 });
             });
         }
 
         if (hideToGame) {
-            const elements = document.querySelectorAll(`li a[href='${toGameHref}']`);
-            elements.forEach(element => {
-                element.closest('li').style.display = 'none';
+            document.querySelectorAll(
+                `li[data-identifier="com.woltlab.wcf.generic19"] > a.boxMenuLink[href='${toGameHref}']`
+            ).forEach(element => {
+                element.closest('li')?.style.setProperty('display', 'none');
             });
         }
     }
 
-    // Verstecke Elemente sofort beim Start des Skripts
     hideElements();
 
-    // Zusätzlicher Schutz für dynamische Inhalte
-    new MutationObserver(hideElements).observe(document.body, { childList: true, subtree: true });
+    new MutationObserver(hideElements).observe(document.body, {
+        childList: true,
+        subtree: true
+    });
 
 })();
